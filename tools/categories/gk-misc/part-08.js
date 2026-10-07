@@ -20,15003 +20,15003 @@
  "questions": [
   {
    "id": "gk-misc-p08-0001",
-   "q": "Choose the one word substitute for: A person who repairs shoes",
-   "o": [
+   "question": "Choose the one word substitute for: A person who repairs shoes",
+   "options": [
     "Entomologist",
     "Cobbler",
     "Utopia",
     "Ephemeral"
    ],
-   "a": 1,
-   "t": "One Word Substitution",
-   "l": 2,
-   "s": "generated",
-   "e": "A person who repairs shoes — Cobbler."
+   "answer": 1,
+   "explanation": "A person who repairs shoes — Cobbler.",
+   "topic": "One Word Substitution",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0002",
-   "q": "Which of the following words is spelt correctly?",
-   "o": [
+   "question": "Which of the following words is spelt correctly?",
+   "options": [
     "Embarrass",
     "Accommodation",
     "Necessary",
     "Millennium"
    ],
-   "a": 1,
-   "t": "Spellings",
-   "l": 1,
-   "s": "generated",
-   "e": "The correct spelling is Accommodation."
+   "answer": 1,
+   "explanation": "The correct spelling is Accommodation.",
+   "topic": "Spellings",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0003",
-   "q": "Which of the following is the plural form of Wife?",
-   "o": [
+   "question": "Which of the following is the plural form of Wife?",
+   "options": [
     "Axes",
     "Wives",
     "Brothers",
     "Nuclei"
    ],
-   "a": 1,
-   "t": "Plurals",
-   "l": 2,
-   "s": "generated",
-   "e": "The plural of Wife is Wives."
+   "answer": 1,
+   "explanation": "The plural of Wife is Wives.",
+   "topic": "Plurals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0004",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Bridegroom - Bride",
     "Bridegroom - Mother",
     "Bridegroom - Stepmother",
     "Bridegroom - Queen"
    ],
-   "a": 0,
-   "t": "Genders",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Bridegroom - Bride is correctly matched."
+   "answer": 0,
+   "explanation": "Only Bridegroom - Bride is correctly matched.",
+   "topic": "Genders",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0005",
-   "q": "Fill in the blank correctly: Easy, ____, Easiest",
-   "o": [
+   "question": "Fill in the blank correctly: Easy, ____, Easiest",
+   "options": [
     "Easier",
     "More intelligent",
     "More important",
     "Stronger"
    ],
-   "a": 0,
-   "t": "Degrees of Comparison",
-   "l": 2,
-   "s": "generated",
-   "e": "The correct sequence is Easy, Easier, Easiest."
+   "answer": 0,
+   "explanation": "The correct sequence is Easy, Easier, Easiest.",
+   "topic": "Degrees of Comparison",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0006",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "He is not equal ____ the task. - at",
     "He is not equal ____ the task. - of",
     "He is not equal ____ the task. - to",
     "He is not equal ____ the task. - with"
    ],
-   "a": 2,
-   "t": "Prepositions",
-   "l": 3,
-   "s": "generated",
-   "e": "Only He is not equal ____ the task. - to is correctly matched."
+   "answer": 2,
+   "explanation": "Only He is not equal ____ the task. - to is correctly matched.",
+   "topic": "Prepositions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0007",
-   "q": "Which Indian documentary won an Oscar in 2023?",
-   "o": [
+   "question": "Which Indian documentary won an Oscar in 2023?",
+   "options": [
     "The Elephant Whisperers",
     "2023",
     "Project Tiger",
     "National Wetlands Conservation Programme"
    ],
-   "a": 0,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 0,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0008",
-   "q": "Which scheme is described as: Free health cover for senior citizens above seventy?",
-   "o": [
+   "question": "Which scheme is described as: Free health cover for senior citizens above seventy?",
+   "options": [
     "Soil Health Card Scheme",
     "National Creche Scheme",
     "National Mission on Edible Oils",
     "Ayushman Bharat Vay Vandana Card"
    ],
-   "a": 3,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Free health cover for senior citizens above seventy describes Ayushman Bharat Vay Vandana Card."
+   "answer": 3,
+   "explanation": "Free health cover for senior citizens above seventy describes Ayushman Bharat Vay Vandana Card.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0009",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Ek Bharat Shreshtha Bharat - Cultural integration across states",
     "Ek Bharat Shreshtha Bharat - Discovery of water molecules on the Moon",
     "Ek Bharat Shreshtha Bharat - Grassroots sports development",
     "Ek Bharat Shreshtha Bharat - India's heavy lift launch vehicle"
    ],
-   "a": 0,
-   "t": "Missions and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ek Bharat Shreshtha Bharat - Cultural integration across states is correctly matched."
+   "answer": 0,
+   "explanation": "Only Ek Bharat Shreshtha Bharat - Cultural integration across states is correctly matched.",
+   "topic": "Missions and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0010",
-   "q": "Which computer term is described as: Program that maintains and optimises the system?",
-   "o": [
+   "question": "Which computer term is described as: Program that maintains and optimises the system?",
+   "options": [
     "TCP/IP",
     "HTTP",
     "URL",
     "Utility software"
    ],
-   "a": 3,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Program that maintains and optimises the system describes Utility software."
+   "answer": 3,
+   "explanation": "Program that maintains and optimises the system describes Utility software.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0011",
-   "q": "What is the full form of ATP?",
-   "o": [
+   "question": "What is the full form of ATP?",
+   "options": [
     "Airborne Warning and Control System",
     "Non Performing Asset",
     "European Organization for Nuclear Research",
     "Adenosine Triphosphate"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "ATP stands for Adenosine Triphosphate."
+   "answer": 3,
+   "explanation": "ATP stands for Adenosine Triphosphate.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0012",
-   "q": "What is the capital of Suriname?",
-   "o": [
+   "question": "What is the capital of Suriname?",
+   "options": [
     "Lima",
     "Paramaribo",
     "Riyadh",
     "Kuala Lumpur"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Suriname is Paramaribo."
+   "answer": 1,
+   "explanation": "The capital of Suriname is Paramaribo.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0013",
-   "q": "Which element has the chemical symbol P?",
-   "o": [
+   "question": "Which element has the chemical symbol P?",
+   "options": [
     "Oganesson",
     "Osmium",
     "Lutetium",
     "Phosphorus"
    ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "P is the symbol of Phosphorus."
+   "answer": 3,
+   "explanation": "P is the symbol of Phosphorus.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0014",
-   "q": "Which of the following pairs of state and capital is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of state and capital is correctly matched?",
+   "options": [
     "Assam - Thiruvananthapuram",
     "Assam - Itanagar",
     "Assam - Chandigarh",
     "Assam - Dispur"
    ],
-   "a": 3,
-   "t": "States and Capitals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Assam - Dispur is correctly matched."
+   "answer": 3,
+   "explanation": "Only Assam - Dispur is correctly matched.",
+   "topic": "States and Capitals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0015",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "First Indian nuclear test was conducted at - Mihir Sen",
     "First Indian nuclear test was conducted at - Pokhran",
     "First Indian nuclear test was conducted at - Reita Faria",
     "First Indian nuclear test was conducted at - H. J. Kania"
    ],
-   "a": 1,
-   "t": "First in India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only First Indian nuclear test was conducted at - Pokhran is correctly matched."
+   "answer": 1,
+   "explanation": "Only First Indian nuclear test was conducted at - Pokhran is correctly matched.",
+   "topic": "First in India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0016",
-   "q": "Which of the following pairs of dance and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of dance and state is correctly matched?",
+   "options": [
     "Kummi - Tamil Nadu",
     "Kummi - Gujarat",
     "Kummi - Jammu and Kashmir",
     "Kummi - Andhra Pradesh"
    ],
-   "a": 0,
-   "t": "Folk Dances of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Kummi - Tamil Nadu is correctly matched."
+   "answer": 0,
+   "explanation": "Only Kummi - Tamil Nadu is correctly matched.",
+   "topic": "Folk Dances of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0017",
-   "q": "Which of the following pairs of festival and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of festival and state is correctly matched?",
+   "options": [
     "Baisakhi - Manipur",
     "Baisakhi - Gujarat",
     "Baisakhi - Punjab",
     "Baisakhi - Maharashtra"
    ],
-   "a": 2,
-   "t": "Festivals of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Baisakhi - Punjab is correctly matched."
+   "answer": 2,
+   "explanation": "Only Baisakhi - Punjab is correctly matched.",
+   "topic": "Festivals of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0018",
-   "q": "Which of the following pairs of river and origin is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of river and origin is correctly matched?",
+   "options": [
     "Sharavati - Bhimashankar",
     "Sharavati - Ambutirtha",
     "Sharavati - Kudali",
     "Sharavati - Baralacha La"
    ],
-   "a": 1,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Sharavati - Ambutirtha is correctly matched."
+   "answer": 1,
+   "explanation": "Only Sharavati - Ambutirtha is correctly matched.",
+   "topic": "Rivers of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0019",
-   "q": "Which of the following national parks or tiger reserves is in Jharkhand?",
-   "o": [
+   "question": "Which of the following national parks or tiger reserves is in Jharkhand?",
+   "options": [
     "Nagarhole National Park",
     "Udanti Sitanadi Tiger Reserve",
     "Indira Gandhi Wildlife Sanctuary",
     "Betla National Park"
    ],
-   "a": 3,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Betla National Park is in Jharkhand."
+   "answer": 3,
+   "explanation": "Betla National Park is in Jharkhand.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0020",
-   "q": "Which of the following pairs of pass and state is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of pass and state is NOT correctly matched?",
+   "options": [
     "Bomdila Pass - Arunachal Pradesh",
     "Jelep La - Sikkim",
     "Palakkad Gap - Maharashtra",
     "Haldighati Pass - Rajasthan"
    ],
-   "a": 2,
-   "t": "Mountain Passes of India",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Palakkad Gap - Maharashtra is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Palakkad Gap - Maharashtra is not correctly matched.",
+   "topic": "Mountain Passes of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0021",
-   "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is correctly matched?",
+   "options": [
     "Illuminance - Pascal second",
     "Illuminance - Lux",
     "Illuminance - Joule per Kelvin",
     "Illuminance - Volt"
    ],
-   "a": 1,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Illuminance - Lux is correctly matched."
+   "answer": 1,
+   "explanation": "Only Illuminance - Lux is correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0022",
-   "q": "Which of the following pairs of instrument and use is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of instrument and use is correctly matched?",
+   "options": [
     "Seismograph - Electric current",
     "Seismograph - Curvature of surfaces",
     "Seismograph - Earthquakes",
     "Seismograph - Ionising radiation"
    ],
-   "a": 2,
-   "t": "Scientific Instruments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Seismograph - Earthquakes is correctly matched."
+   "answer": 2,
+   "explanation": "Only Seismograph - Earthquakes is correctly matched.",
+   "topic": "Scientific Instruments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0023",
-   "q": "Which of the following pairs of body part and function is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of body part and function is correctly matched?",
+   "options": [
     "Alveoli - Production of eggs",
     "Alveoli - Exchange of oxygen and carbon dioxide",
     "Alveoli - Oxygen carrying pigment",
     "Alveoli - Production of blood cells"
    ],
-   "a": 1,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Alveoli - Exchange of oxygen and carbon dioxide is correctly matched."
+   "answer": 1,
+   "explanation": "Only Alveoli - Exchange of oxygen and carbon dioxide is correctly matched.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0024",
-   "q": "Which of the following pairs of nutrient and deficiency disease is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of nutrient and deficiency disease is NOT correctly matched?",
+   "options": [
     "Vitamin B9 - Anaemia and bone disorders",
     "Sodium - Dehydration",
     "Vitamin B2 - Ariboflavinosis",
     "Magnesium - Tetany"
    ],
-   "a": 0,
-   "t": "Vitamins and Deficiencies",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Vitamin B9 - Anaemia and bone disorders is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Vitamin B9 - Anaemia and bone disorders is not correctly matched.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0025",
-   "q": "Which of the following pairs of disease and causative agent is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of disease and causative agent is correctly matched?",
+   "options": [
     "AIDS - Treponema pallidum bacteria",
     "AIDS - Human Immunodeficiency Virus",
     "AIDS - Rhinovirus",
     "AIDS - Influenza virus"
    ],
-   "a": 1,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Only AIDS - Human Immunodeficiency Virus is correctly matched."
+   "answer": 1,
+   "explanation": "Only AIDS - Human Immunodeficiency Virus is correctly matched.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0026",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Air conditioner - Alexander Fleming",
     "Air conditioner - Willis Carrier",
     "Air conditioner - Johannes Gutenberg",
     "Air conditioner - Tim Berners-Lee"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Air conditioner - Willis Carrier is correctly matched."
+   "answer": 1,
+   "explanation": "Only Air conditioner - Willis Carrier is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0027",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Plaster of Paris - Calcium sulphate dihydrate (CaSO4.2H2O)",
     "Plaster of Paris - Ethanol (C2H5OH)",
     "Plaster of Paris - Calcium sulphate hemihydrate (CaSO4.1/2H2O)",
     "Plaster of Paris - Magnesium oxide (MgO)"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Plaster of Paris - Calcium sulphate hemihydrate (CaSO4.1/2H2O) is correctly matched."
+   "answer": 2,
+   "explanation": "Only Plaster of Paris - Calcium sulphate hemihydrate (CaSO4.1/2H2O) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0028",
-   "q": "Which of the following pairs of branch and subject is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of branch and subject is correctly matched?",
+   "options": [
     "Palaeontology - Diseases",
     "Palaeontology - Fossils",
     "Palaeontology - Birds",
     "Palaeontology - Heart"
    ],
-   "a": 1,
-   "t": "Branches of Science",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Palaeontology - Fossils is correctly matched."
+   "answer": 1,
+   "explanation": "Only Palaeontology - Fossils is correctly matched.",
+   "topic": "Branches of Science",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0029",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Lunar eclipse - Brightest planet as seen from Earth",
     "Lunar eclipse - Position from the Sun",
     "Lunar eclipse - Planet with the largest ring system",
     "Lunar eclipse - Earth between Sun and Moon"
    ],
-   "a": 3,
-   "t": "Astronomy",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Lunar eclipse - Earth between Sun and Moon is correctly matched."
+   "answer": 3,
+   "explanation": "Only Lunar eclipse - Earth between Sun and Moon is correctly matched.",
+   "topic": "Astronomy",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0030",
-   "q": "Which of the following pairs of scientist and contribution is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of scientist and contribution is correctly matched?",
+   "options": [
     "Georg Ohm - Germ theory and pasteurisation",
     "Georg Ohm - Ohm's law",
     "Georg Ohm - Molecular theory and Avogadro's law",
     "Georg Ohm - Wireless telegraphy"
    ],
-   "a": 1,
-   "t": "Scientists",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Georg Ohm - Ohm's law is correctly matched."
+   "answer": 1,
+   "explanation": "Only Georg Ohm - Ohm's law is correctly matched.",
+   "topic": "Scientists",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0031",
-   "q": "In which decade did the following event take place: Pokhran-I nuclear test (Smiling Buddha)?",
-   "o": [
+   "question": "In which decade did the following event take place: Pokhran-I nuclear test (Smiling Buddha)?",
+   "options": [
     "1940s",
     "1930s",
     "1970s",
     "2000s"
    ],
-   "a": 2,
-   "t": "Indian History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Pokhran-I nuclear test (Smiling Buddha) took place in the 1974s."
+   "answer": 2,
+   "explanation": "Pokhran-I nuclear test (Smiling Buddha) took place in the 1974s.",
+   "topic": "Indian History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0032",
-   "q": "Which of the following events took place in 1991?",
-   "o": [
+   "question": "Which of the following events took place in 1991?",
+   "options": [
     "Fall of Constantinople",
     "COVID-19 declared a pandemic by WHO",
     "Vasco da Gama reached India by sea",
     "Dissolution of the Soviet Union"
    ],
-   "a": 3,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Dissolution of the Soviet Union took place in 1991."
+   "answer": 3,
+   "explanation": "Dissolution of the Soviet Union took place in 1991.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0033",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Ibrahim Lodi - Founder of Sikhism",
     "Ibrahim Lodi - Last Sultan of Delhi, defeated at Panipat in 1526",
     "Ibrahim Lodi - Twenty-fourth Tirthankara of Jainism",
     "Ibrahim Lodi - Greatest of the Peshwas"
    ],
-   "a": 1,
-   "t": "Rulers",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ibrahim Lodi - Last Sultan of Delhi, defeated at Panipat in 1526 is correctly matched."
+   "answer": 1,
+   "explanation": "Only Ibrahim Lodi - Last Sultan of Delhi, defeated at Panipat in 1526 is correctly matched.",
+   "topic": "Rulers",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0034",
-   "q": "Which of the following pairs of person and title is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of person and title is correctly matched?",
+   "options": [
     "C. Rajagopalachari - Last Governor-General of India",
     "C. Rajagopalachari - Queen who fought at Jhansi in 1857",
     "C. Rajagopalachari - Grand Old Man of India",
     "C. Rajagopalachari - Founder-member of the HSRA"
    ],
-   "a": 0,
-   "t": "Freedom Fighters",
-   "l": 3,
-   "s": "generated",
-   "e": "Only C. Rajagopalachari - Last Governor-General of India is correctly matched."
+   "answer": 0,
+   "explanation": "Only C. Rajagopalachari - Last Governor-General of India is correctly matched.",
+   "topic": "Freedom Fighters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0035",
-   "q": "Which of the following pairs of provision and article is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of provision and article is correctly matched?",
+   "options": [
     "Finance Commission - Articles 23-24",
     "Finance Commission - Article 280",
     "Finance Commission - Article 74",
     "Finance Commission - Articles 29-30"
    ],
-   "a": 1,
-   "t": "Constitution Articles",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Finance Commission - Article 280 is correctly matched."
+   "answer": 1,
+   "explanation": "Only Finance Commission - Article 280 is correctly matched.",
+   "topic": "Constitution Articles",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0036",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Eighth Schedule deals with - United States of America",
     "Eighth Schedule deals with - Official languages",
     "Eighth Schedule deals with - Germany",
     "Eighth Schedule deals with - Canada"
    ],
-   "a": 1,
-   "t": "Constitution Facts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Eighth Schedule deals with - Official languages is correctly matched."
+   "answer": 1,
+   "explanation": "Only Eighth Schedule deals with - Official languages is correctly matched.",
+   "topic": "Constitution Facts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0037",
-   "q": "Which of the following pairs of institution and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of institution and description is correctly matched?",
+   "options": [
     "Lok Sabha - Regulator of the securities market",
     "Lok Sabha - House of the People",
     "Lok Sabha - Regulator of the insurance sector",
     "Lok Sabha - Chief legal adviser to the Government of India"
    ],
-   "a": 1,
-   "t": "Institutions of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Lok Sabha - House of the People is correctly matched."
+   "answer": 1,
+   "explanation": "Only Lok Sabha - House of the People is correctly matched.",
+   "topic": "Institutions of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0038",
-   "q": "Which of the following days is observed on 27 September?",
-   "o": [
+   "question": "Which of the following days is observed on 27 September?",
+   "options": [
     "World Nature Conservation Day",
     "World Environment Day",
     "World Tourism Day",
     "Earth Day"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "27 September is observed as World Tourism Day."
+   "answer": 2,
+   "explanation": "27 September is observed as World Tourism Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0039",
-   "q": "Which of the following pairs of organisation and headquarters is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of organisation and headquarters is correctly matched?",
+   "options": [
     "FIFA - Washington, D.C.",
     "FIFA - Zurich",
     "FIFA - Kathmandu",
     "FIFA - Bengaluru"
    ],
-   "a": 1,
-   "t": "Organisations and Headquarters",
-   "l": 3,
-   "s": "generated",
-   "e": "Only FIFA - Zurich is correctly matched."
+   "answer": 1,
+   "explanation": "Only FIFA - Zurich is correctly matched.",
+   "topic": "Organisations and Headquarters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0040",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "FIH Hockey World Cup - Badminton",
     "FIH Hockey World Cup - Hockey",
     "FIH Hockey World Cup - Cricket",
     "FIH Hockey World Cup - Tennis"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only FIH Hockey World Cup - Hockey is correctly matched."
+   "answer": 1,
+   "explanation": "Only FIH Hockey World Cup - Hockey is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0041",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Major Dhyan Chand Khel Ratna Award - Highest literary award of India",
     "Major Dhyan Chand Khel Ratna Award - Indian literary award",
     "Major Dhyan Chand Khel Ratna Award - Highest sporting honour of India",
     "Major Dhyan Chand Khel Ratna Award - UNESCO award for popularisation of science"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Major Dhyan Chand Khel Ratna Award - Highest sporting honour of India is correctly matched."
+   "answer": 2,
+   "explanation": "Only Major Dhyan Chand Khel Ratna Award - Highest sporting honour of India is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0042",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Gitanjali: Rabindranath Tagore's Nobel work - Rabindranath Tagore",
     "Gitanjali: Rabindranath Tagore's Nobel work - Helen Keller",
     "Gitanjali: Rabindranath Tagore's Nobel work - John Milton",
     "Gitanjali: Rabindranath Tagore's Nobel work - William Shakespeare"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Gitanjali: Rabindranath Tagore's Nobel work - Rabindranath Tagore is correctly matched."
+   "answer": 0,
+   "explanation": "Only Gitanjali: Rabindranath Tagore's Nobel work - Rabindranath Tagore is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0043",
-   "q": "Which of the following pairs of achievement and person is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of achievement and person is correctly matched?",
+   "options": [
     "First person to run a mile in under four minutes - Valentina Tereshkova",
     "First person to run a mile in under four minutes - Athens",
     "First person to run a mile in under four minutes - Roger Bannister",
     "First person to run a mile in under four minutes - Greece"
    ],
-   "a": 2,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "Only First person to run a mile in under four minutes - Roger Bannister is correctly matched."
+   "answer": 2,
+   "explanation": "Only First person to run a mile in under four minutes - Roger Bannister is correctly matched.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0044",
-   "q": "How many countries share a land border with India?",
-   "o": [
+   "question": "How many countries share a land border with India?",
+   "options": [
     "Bihar",
     "Ganga",
     "Seven",
     "Jawaharlal Nehru Port"
    ],
-   "a": 2,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 2,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0045",
-   "q": "Which of the following pairs of question and answer is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of question and answer is correctly matched?",
+   "options": [
     "Which planet has the shortest day - Jupiter",
     "Which planet has the shortest day - October to November",
     "Which planet has the shortest day - Jaisalmer",
     "Which planet has the shortest day - Igneous rock"
    ],
-   "a": 0,
-   "t": "Climate and Atmosphere",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Which planet has the shortest day - Jupiter is correctly matched."
+   "answer": 0,
+   "explanation": "Only Which planet has the shortest day - Jupiter is correctly matched.",
+   "topic": "Climate and Atmosphere",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0046",
-   "q": "Which act governs the issue of banknotes in India?",
-   "o": [
+   "question": "Which act governs the issue of banknotes in India?",
+   "options": [
     "Goods and Services Tax",
     "RBI Act, 1934",
     "Microeconomics",
     "Government of India"
    ],
-   "a": 1,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 1,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0047",
-   "q": "Choose the word most similar in meaning to Ostentatious.",
-   "o": [
+   "question": "Choose the word most similar in meaning to Ostentatious.",
+   "options": [
     "Overjoyed",
     "Daunting",
     "Showy",
     "Fake"
    ],
-   "a": 2,
-   "t": "Synonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "Ostentatious means Showy."
+   "answer": 2,
+   "explanation": "Ostentatious means Showy.",
+   "topic": "Synonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0048",
-   "q": "Choose the word most opposite in meaning to Cease.",
-   "o": [
+   "question": "Choose the word most opposite in meaning to Cease.",
+   "options": [
     "Active",
     "Extraordinary",
     "Begin",
     "Lazy"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "The opposite of Cease is Begin."
+   "answer": 2,
+   "explanation": "The opposite of Cease is Begin.",
+   "topic": "Antonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0049",
-   "q": "What is the meaning of the idiom 'Get down to brass tacks'?",
-   "o": [
+   "question": "What is the meaning of the idiom 'Get down to brass tacks'?",
+   "options": [
     "A futile search",
     "Come to the essential point",
     "Reprimand",
     "To get into trouble"
    ],
-   "a": 1,
-   "t": "Idioms and Phrases",
-   "l": 2,
-   "s": "generated",
-   "e": "'Get down to brass tacks' means Come to the essential point."
+   "answer": 1,
+   "explanation": "'Get down to brass tacks' means Come to the essential point.",
+   "topic": "Idioms and Phrases",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0050",
-   "q": "Choose the one word substitute for: One who studies the origin of words",
-   "o": [
+   "question": "Choose the one word substitute for: One who studies the origin of words",
+   "options": [
     "Amphibians",
     "Ornithologist",
     "Etymologist",
     "Chauvinism"
    ],
-   "a": 2,
-   "t": "One Word Substitution",
-   "l": 2,
-   "s": "generated",
-   "e": "One who studies the origin of words — Etymologist."
+   "answer": 2,
+   "explanation": "One who studies the origin of words — Etymologist.",
+   "topic": "One Word Substitution",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0051",
-   "q": "Which of the following words is spelt correctly?",
-   "o": [
+   "question": "Which of the following words is spelt correctly?",
+   "options": [
     "Occasion",
     "Particularly",
     "Truly",
     "Ambassador"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 1,
-   "s": "generated",
-   "e": "The correct spelling is Ambassador."
+   "answer": 3,
+   "explanation": "The correct spelling is Ambassador.",
+   "topic": "Spellings",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0052",
-   "q": "Which of the following is the plural form of Volcano?",
-   "o": [
+   "question": "Which of the following is the plural form of Volcano?",
+   "options": [
     "Crises",
     "Wolves",
     "Brushes",
     "Volcanoes"
    ],
-   "a": 3,
-   "t": "Plurals",
-   "l": 2,
-   "s": "generated",
-   "e": "The plural of Volcano is Volcanoes."
+   "answer": 3,
+   "explanation": "The plural of Volcano is Volcanoes.",
+   "topic": "Plurals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0053",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Lion - Lioness",
     "Lion - Bride",
     "Lion - Actress",
     "Lion - Stepmother"
    ],
-   "a": 0,
-   "t": "Genders",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Lion - Lioness is correctly matched."
+   "answer": 0,
+   "explanation": "Only Lion - Lioness is correctly matched.",
+   "topic": "Genders",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0054",
-   "q": "Fill in the blank correctly: Busy, ____, Busiest",
-   "o": [
+   "question": "Fill in the blank correctly: Busy, ____, Busiest",
+   "options": [
     "Farther",
     "Slower",
     "Richer",
     "Busier"
    ],
-   "a": 3,
-   "t": "Degrees of Comparison",
-   "l": 2,
-   "s": "generated",
-   "e": "The correct sequence is Busy, Busier, Busiest."
+   "answer": 3,
+   "explanation": "The correct sequence is Busy, Busier, Busiest.",
+   "topic": "Degrees of Comparison",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0055",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "He is famous ____ his paintings. - for",
     "He is famous ____ his paintings. - on",
     "He is famous ____ his paintings. - of",
     "He is famous ____ his paintings. - from"
    ],
-   "a": 0,
-   "t": "Prepositions",
-   "l": 3,
-   "s": "generated",
-   "e": "Only He is famous ____ his paintings. - for is correctly matched."
+   "answer": 0,
+   "explanation": "Only He is famous ____ his paintings. - for is correctly matched.",
+   "topic": "Prepositions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0056",
-   "q": "Which Indian institution publishes the Economic Survey?",
-   "o": [
+   "question": "Which Indian institution publishes the Economic Survey?",
+   "options": [
     "Aditya-L1",
     "Madhya Pradesh",
     "New Delhi",
     "Ministry of Finance"
    ],
-   "a": 3,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 3,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0057",
-   "q": "Which scheme is described as: Promoting manufacturing and investment in India?",
-   "o": [
+   "question": "Which scheme is described as: Promoting manufacturing and investment in India?",
+   "options": [
     "PM Gati Shakti",
     "National Mission on Edible Oils",
     "Make in India",
     "Pradhan Mantri Garib Kalyan Anna Yojana"
    ],
-   "a": 2,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Promoting manufacturing and investment in India describes Make in India."
+   "answer": 2,
+   "explanation": "Promoting manufacturing and investment in India describes Make in India.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0058",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "National Broadband Mission - Broadband for all by 2024",
     "National Broadband Mission - Cultural integration across states",
     "National Broadband Mission - Conservation of river and marine dolphins",
     "National Broadband Mission - Grassroots sports development"
    ],
-   "a": 0,
-   "t": "Missions and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only National Broadband Mission - Broadband for all by 2024 is correctly matched."
+   "answer": 0,
+   "explanation": "Only National Broadband Mission - Broadband for all by 2024 is correctly matched.",
+   "topic": "Missions and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0059",
-   "q": "Which computer term is described as: Portable USB flash storage device?",
-   "o": [
+   "question": "Which computer term is described as: Portable USB flash storage device?",
+   "options": [
     "Pen drive",
     "Cache memory",
     "Compiler",
     "Search engine"
    ],
-   "a": 0,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Portable USB flash storage device describes Pen drive."
+   "answer": 0,
+   "explanation": "Portable USB flash storage device describes Pen drive.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0060",
-   "q": "What is the full form of UPI?",
-   "o": [
+   "question": "What is the full form of UPI?",
+   "options": [
     "Unified Payments Interface",
     "Intensive Care Unit",
     "International Civil Aviation Organization",
     "International Committee of the Red Cross"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "UPI stands for Unified Payments Interface."
+   "answer": 0,
+   "explanation": "UPI stands for Unified Payments Interface.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0061",
-   "q": "What is the capital of Maldives?",
-   "o": [
+   "question": "What is the capital of Maldives?",
+   "options": [
     "Male",
     "Accra",
     "Berlin",
     "Vienna"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Maldives is Male."
+   "answer": 0,
+   "explanation": "The capital of Maldives is Male.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0062",
-   "q": "Which element has the chemical symbol Np?",
-   "o": [
+   "question": "Which element has the chemical symbol Np?",
+   "options": [
     "Neptunium",
     "Americium",
     "Europium",
     "Palladium"
    ],
-   "a": 0,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "Np is the symbol of Neptunium."
+   "answer": 0,
+   "explanation": "Np is the symbol of Neptunium.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0063",
-   "q": "Which of the following pairs of state and capital is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of state and capital is correctly matched?",
+   "options": [
     "Assam - Thiruvananthapuram",
     "Assam - Dispur",
     "Assam - Raipur",
     "Assam - Dehradun"
    ],
-   "a": 1,
-   "t": "States and Capitals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Assam - Dispur is correctly matched."
+   "answer": 1,
+   "explanation": "Only Assam - Dispur is correctly matched.",
+   "topic": "States and Capitals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0064",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "First Indian nuclear test was conducted at - Lord Mountbatten",
     "First Indian nuclear test was conducted at - Jawaharlal Nehru",
     "First Indian nuclear test was conducted at - Bombay and Thane",
     "First Indian nuclear test was conducted at - Pokhran"
    ],
-   "a": 3,
-   "t": "First in India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only First Indian nuclear test was conducted at - Pokhran is correctly matched."
+   "answer": 3,
+   "explanation": "Only First Indian nuclear test was conducted at - Pokhran is correctly matched.",
+   "topic": "First in India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0065",
-   "q": "Which of the following pairs of dance and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of dance and state is correctly matched?",
+   "options": [
     "Kummi - Tamil Nadu",
     "Kummi - Uttar Pradesh",
     "Kummi - Tripura",
     "Kummi - Odisha"
    ],
-   "a": 0,
-   "t": "Folk Dances of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Kummi - Tamil Nadu is correctly matched."
+   "answer": 0,
+   "explanation": "Only Kummi - Tamil Nadu is correctly matched.",
+   "topic": "Folk Dances of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0066",
-   "q": "Which of the following pairs of festival and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of festival and state is correctly matched?",
+   "options": [
     "Baisakhi - Gujarat",
     "Baisakhi - Ladakh",
     "Baisakhi - Meghalaya",
     "Baisakhi - Punjab"
    ],
-   "a": 3,
-   "t": "Festivals of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Baisakhi - Punjab is correctly matched."
+   "answer": 3,
+   "explanation": "Only Baisakhi - Punjab is correctly matched.",
+   "topic": "Festivals of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0067",
-   "q": "Which of the following pairs of river and origin is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of river and origin is correctly matched?",
+   "options": [
     "Sharavati - Beas Kund",
     "Sharavati - Yamunotri Glacier",
     "Sharavati - Vindhya Range",
     "Sharavati - Ambutirtha"
    ],
-   "a": 3,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Sharavati - Ambutirtha is correctly matched."
+   "answer": 3,
+   "explanation": "Only Sharavati - Ambutirtha is correctly matched.",
+   "topic": "Rivers of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0068",
-   "q": "Which of the following national parks or tiger reserves is in Madhya Pradesh?",
-   "o": [
+   "question": "Which of the following national parks or tiger reserves is in Madhya Pradesh?",
+   "options": [
     "Kanger Valley National Park",
     "Veerangana Durgavati Tiger Reserve",
     "Kaziranga National Park",
     "Kuno National Park"
    ],
-   "a": 1,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Veerangana Durgavati Tiger Reserve is in Madhya Pradesh."
+   "answer": 1,
+   "explanation": "Veerangana Durgavati Tiger Reserve is in Madhya Pradesh.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0069",
-   "q": "Which of the following pairs of pass and state is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of pass and state is NOT correctly matched?",
+   "options": [
     "Baralacha La - Himachal Pradesh",
     "Shipki La - Himachal Pradesh",
     "Pangsau Pass - Arunachal Pradesh",
     "Zoji La - Rajasthan"
    ],
-   "a": 3,
-   "t": "Mountain Passes of India",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Zoji La - Rajasthan is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Zoji La - Rajasthan is not correctly matched.",
+   "topic": "Mountain Passes of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0070",
-   "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is correctly matched?",
+   "options": [
     "Illuminance - Hertz",
     "Illuminance - Kilogram",
     "Illuminance - Becquerel",
     "Illuminance - Lux"
    ],
-   "a": 3,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Illuminance - Lux is correctly matched."
+   "answer": 3,
+   "explanation": "Only Illuminance - Lux is correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0071",
-   "q": "Which of the following pairs of instrument and use is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of instrument and use is correctly matched?",
+   "options": [
     "Seismograph - Ionising radiation",
     "Seismograph - Temperature",
     "Seismograph - Earthquakes",
     "Seismograph - Small electric currents"
    ],
-   "a": 2,
-   "t": "Scientific Instruments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Seismograph - Earthquakes is correctly matched."
+   "answer": 2,
+   "explanation": "Only Seismograph - Earthquakes is correctly matched.",
+   "topic": "Scientific Instruments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0072",
-   "q": "Which of the following pairs of body part and function is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of body part and function is correctly matched?",
+   "options": [
     "Alveoli - Exchange of oxygen and carbon dioxide",
     "Alveoli - Secretion of adrenaline",
     "Alveoli - Body immunity",
     "Alveoli - Detoxification and bile secretion"
    ],
-   "a": 0,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Alveoli - Exchange of oxygen and carbon dioxide is correctly matched."
+   "answer": 0,
+   "explanation": "Only Alveoli - Exchange of oxygen and carbon dioxide is correctly matched.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0073",
-   "q": "Which of the following pairs of nutrient and deficiency disease is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of nutrient and deficiency disease is NOT correctly matched?",
+   "options": [
     "Vitamin B7 - Dermatitis",
     "Vitamin B9 - Megaloblastic anaemia",
     "Potassium - Dehydration",
     "Vitamin C - Scurvy"
    ],
-   "a": 2,
-   "t": "Vitamins and Deficiencies",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Potassium - Dehydration is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Potassium - Dehydration is not correctly matched.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0074",
-   "q": "Which of the following pairs of disease and causative agent is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of disease and causative agent is correctly matched?",
+   "options": [
     "AIDS - Human Immunodeficiency Virus",
     "AIDS - Rabies virus",
     "AIDS - Fungi",
     "AIDS - Chikungunya virus"
    ],
-   "a": 0,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Only AIDS - Human Immunodeficiency Virus is correctly matched."
+   "answer": 0,
+   "explanation": "Only AIDS - Human Immunodeficiency Virus is correctly matched.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0075",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Air conditioner - George Cayley",
     "Air conditioner - Daniel Rutherford",
     "Air conditioner - James Watt",
     "Air conditioner - Willis Carrier"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Air conditioner - Willis Carrier is correctly matched."
+   "answer": 3,
+   "explanation": "Only Air conditioner - Willis Carrier is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0076",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Plaster of Paris - Magnesium oxide (MgO)",
     "Plaster of Paris - Sodium bicarbonate (NaHCO3)",
     "Plaster of Paris - Calcium sulphate hemihydrate (CaSO4.1/2H2O)",
     "Plaster of Paris - Calcium carbonate (CaCO3)"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Plaster of Paris - Calcium sulphate hemihydrate (CaSO4.1/2H2O) is correctly matched."
+   "answer": 2,
+   "explanation": "Only Plaster of Paris - Calcium sulphate hemihydrate (CaSO4.1/2H2O) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0077",
-   "q": "Which of the following pairs of branch and subject is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of branch and subject is correctly matched?",
+   "options": [
     "Palaeontology - Insects",
     "Palaeontology - Postage stamps",
     "Palaeontology - Structure of the body",
     "Palaeontology - Fossils"
    ],
-   "a": 3,
-   "t": "Branches of Science",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Palaeontology - Fossils is correctly matched."
+   "answer": 3,
+   "explanation": "Only Palaeontology - Fossils is correctly matched.",
+   "topic": "Branches of Science",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0078",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Lunar eclipse - Largest object in the asteroid belt",
     "Lunar eclipse - Earth's twin",
     "Lunar eclipse - Average Earth-Sun distance",
     "Lunar eclipse - Earth between Sun and Moon"
    ],
-   "a": 3,
-   "t": "Astronomy",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Lunar eclipse - Earth between Sun and Moon is correctly matched."
+   "answer": 3,
+   "explanation": "Only Lunar eclipse - Earth between Sun and Moon is correctly matched.",
+   "topic": "Astronomy",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0079",
-   "q": "Which of the following pairs of scientist and contribution is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of scientist and contribution is correctly matched?",
+   "options": [
     "Georg Ohm - Atomic theory",
     "Georg Ohm - Statistics and Indian planning",
     "Georg Ohm - Theory of evolution",
     "Georg Ohm - Ohm's law"
    ],
-   "a": 3,
-   "t": "Scientists",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Georg Ohm - Ohm's law is correctly matched."
+   "answer": 3,
+   "explanation": "Only Georg Ohm - Ohm's law is correctly matched.",
+   "topic": "Scientists",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0080",
-   "q": "In which decade did the following event take place: Assassination of Mahatma Gandhi?",
-   "o": [
+   "question": "In which decade did the following event take place: Assassination of Mahatma Gandhi?",
+   "options": [
     "1920s",
     "1940s",
     "1980s",
     "1850s"
    ],
-   "a": 1,
-   "t": "Indian History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Assassination of Mahatma Gandhi took place in the 1948s."
+   "answer": 1,
+   "explanation": "Assassination of Mahatma Gandhi took place in the 1948s.",
+   "topic": "Indian History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0081",
-   "q": "Which of the following events took place in 1941?",
-   "o": [
+   "question": "Which of the following events took place in 1941?",
+   "options": [
     "Hitler became Chancellor of Germany",
     "Paris Climate Agreement adopted",
     "Attack on Pearl Harbor",
     "Glorious Revolution in England"
    ],
-   "a": 2,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Attack on Pearl Harbor took place in 1941."
+   "answer": 2,
+   "explanation": "Attack on Pearl Harbor took place in 1941.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0082",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Ibrahim Lodi - Last Mughal emperor",
     "Ibrahim Lodi - Spread Buddhism after the Kalinga war",
     "Ibrahim Lodi - Market control policies and Siri fort",
     "Ibrahim Lodi - Last Sultan of Delhi, defeated at Panipat in 1526"
    ],
-   "a": 3,
-   "t": "Rulers",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ibrahim Lodi - Last Sultan of Delhi, defeated at Panipat in 1526 is correctly matched."
+   "answer": 3,
+   "explanation": "Only Ibrahim Lodi - Last Sultan of Delhi, defeated at Panipat in 1526 is correctly matched.",
+   "topic": "Rulers",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0083",
-   "q": "Which of the following pairs of person and title is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of person and title is correctly matched?",
+   "options": [
     "C. Rajagopalachari - Leader of the Revolt in Awadh",
     "C. Rajagopalachari - Last Governor-General of India",
     "C. Rajagopalachari - Revolutionary executed in 1931",
     "C. Rajagopalachari - Founder-member of the HSRA"
    ],
-   "a": 1,
-   "t": "Freedom Fighters",
-   "l": 3,
-   "s": "generated",
-   "e": "Only C. Rajagopalachari - Last Governor-General of India is correctly matched."
+   "answer": 1,
+   "explanation": "Only C. Rajagopalachari - Last Governor-General of India is correctly matched.",
+   "topic": "Freedom Fighters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0084",
-   "q": "Which of the following pairs of provision and article is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of provision and article is correctly matched?",
+   "options": [
     "Finance Commission - Part V, Articles 52-151",
     "Finance Commission - Part VI, Articles 152-237",
     "Finance Commission - Article 280",
     "Finance Commission - Article 352"
    ],
-   "a": 2,
-   "t": "Constitution Articles",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Finance Commission - Article 280 is correctly matched."
+   "answer": 2,
+   "explanation": "Only Finance Commission - Article 280 is correctly matched.",
+   "topic": "Constitution Articles",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0085",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Eighth Schedule deals with - The Lok Sabha",
     "Eighth Schedule deals with - Anti-defection provisions",
     "Eighth Schedule deals with - 6 years",
     "Eighth Schedule deals with - Official languages"
    ],
-   "a": 3,
-   "t": "Constitution Facts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Eighth Schedule deals with - Official languages is correctly matched."
+   "answer": 3,
+   "explanation": "Only Eighth Schedule deals with - Official languages is correctly matched.",
+   "topic": "Constitution Facts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0086",
-   "q": "Which of the following pairs of institution and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of institution and description is correctly matched?",
+   "options": [
     "Lok Sabha - Protects human rights in India",
     "Lok Sabha - Ex-officio Chairman of the Rajya Sabha",
     "Lok Sabha - Local self-government in urban areas",
     "Lok Sabha - House of the People"
    ],
-   "a": 3,
-   "t": "Institutions of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Lok Sabha - House of the People is correctly matched."
+   "answer": 3,
+   "explanation": "Only Lok Sabha - House of the People is correctly matched.",
+   "topic": "Institutions of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0087",
-   "q": "Which of the following days is observed on 30 November?",
-   "o": [
+   "question": "Which of the following days is observed on 30 November?",
+   "options": [
     "World Computer Security Day",
     "World Population Day",
     "World Oceans Day",
     "World Hypertension Day"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "30 November is observed as World Computer Security Day."
+   "answer": 0,
+   "explanation": "30 November is observed as World Computer Security Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0088",
-   "q": "Which of the following pairs of organisation and headquarters is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of organisation and headquarters is correctly matched?",
+   "options": [
     "FIFA - Vienna",
     "FIFA - New York",
     "FIFA - Zurich",
     "FIFA - Bern"
    ],
-   "a": 2,
-   "t": "Organisations and Headquarters",
-   "l": 3,
-   "s": "generated",
-   "e": "Only FIFA - Zurich is correctly matched."
+   "answer": 2,
+   "explanation": "Only FIFA - Zurich is correctly matched.",
+   "topic": "Organisations and Headquarters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0089",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "FIH Hockey World Cup - Badminton",
     "FIH Hockey World Cup - Hockey",
     "FIH Hockey World Cup - Football",
     "FIH Hockey World Cup - Cricket"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only FIH Hockey World Cup - Hockey is correctly matched."
+   "answer": 1,
+   "explanation": "Only FIH Hockey World Cup - Hockey is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0090",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Major Dhyan Chand Khel Ratna Award - Indian award in science and technology",
     "Major Dhyan Chand Khel Ratna Award - Highest sporting honour of India",
     "Major Dhyan Chand Khel Ratna Award - British award for fiction",
     "Major Dhyan Chand Khel Ratna Award - Indian award in agricultural science"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Major Dhyan Chand Khel Ratna Award - Highest sporting honour of India is correctly matched."
+   "answer": 1,
+   "explanation": "Only Major Dhyan Chand Khel Ratna Award - Highest sporting honour of India is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0091",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Gitanjali: Rabindranath Tagore's Nobel work - Munshi Premchand",
     "Gitanjali: Rabindranath Tagore's Nobel work - A. P. J. Abdul Kalam",
     "Gitanjali: Rabindranath Tagore's Nobel work - Maxim Gorky",
     "Gitanjali: Rabindranath Tagore's Nobel work - Rabindranath Tagore"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Gitanjali: Rabindranath Tagore's Nobel work - Rabindranath Tagore is correctly matched."
+   "answer": 3,
+   "explanation": "Only Gitanjali: Rabindranath Tagore's Nobel work - Rabindranath Tagore is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0092",
-   "q": "Which of the following pairs of achievement and person is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of achievement and person is correctly matched?",
+   "options": [
     "First person to run a mile in under four minutes - Rabindranath Tagore",
     "First person to run a mile in under four minutes - Neil Armstrong",
     "First person to run a mile in under four minutes - Valentina Tereshkova",
     "First person to run a mile in under four minutes - Roger Bannister"
    ],
-   "a": 3,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "Only First person to run a mile in under four minutes - Roger Bannister is correctly matched."
+   "answer": 3,
+   "explanation": "Only First person to run a mile in under four minutes - Roger Bannister is correctly matched.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0093",
-   "q": "Which Indian city is called the Diamond City?",
-   "o": [
+   "question": "Which Indian city is called the Diamond City?",
+   "options": [
     "China",
     "Karnataka",
     "Surat",
     "Damodar"
    ],
-   "a": 2,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 2,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0094",
-   "q": "Which of the following pairs of question and answer is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of question and answer is correctly matched?",
+   "options": [
     "Which planet has the shortest day - Jaisalmer",
     "Which planet has the shortest day - Jupiter",
     "Which planet has the shortest day - Sedimentary rock",
     "Which planet has the shortest day - Carbon dioxide"
    ],
-   "a": 1,
-   "t": "Climate and Atmosphere",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Which planet has the shortest day - Jupiter is correctly matched."
+   "answer": 1,
+   "explanation": "Only Which planet has the shortest day - Jupiter is correctly matched.",
+   "topic": "Climate and Atmosphere",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0095",
-   "q": "Where is the headquarters of the World Bank?",
-   "o": [
+   "question": "Where is the headquarters of the World Bank?",
+   "options": [
     "SIDBI",
     "Beijing",
     "Washington, D.C.",
     "28 per cent"
    ],
-   "a": 2,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 2,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0096",
-   "q": "Choose the word most similar in meaning to Astute.",
-   "o": [
+   "question": "Choose the word most similar in meaning to Astute.",
+   "options": [
     "Fearless",
     "Dangerous",
     "Shrewd",
     "Enthusiastic"
    ],
-   "a": 2,
-   "t": "Synonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "Astute means Shrewd."
+   "answer": 2,
+   "explanation": "Astute means Shrewd.",
+   "topic": "Synonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0097",
-   "q": "Choose the word most opposite in meaning to Hazardous.",
-   "o": [
+   "question": "Choose the word most opposite in meaning to Hazardous.",
+   "options": [
     "Friendship",
     "Depressed",
     "Safe",
     "Fine"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "The opposite of Hazardous is Safe."
+   "answer": 2,
+   "explanation": "The opposite of Hazardous is Safe.",
+   "topic": "Antonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0098",
-   "q": "What is the meaning of the idiom 'To turn over a new leaf'?",
-   "o": [
+   "question": "What is the meaning of the idiom 'To turn over a new leaf'?",
+   "options": [
     "Become known",
     "Miscellaneous items",
     "To make a fresh start",
     "Absence without permission"
    ],
-   "a": 2,
-   "t": "Idioms and Phrases",
-   "l": 2,
-   "s": "generated",
-   "e": "'To turn over a new leaf' means To make a fresh start."
+   "answer": 2,
+   "explanation": "'To turn over a new leaf' means To make a fresh start.",
+   "topic": "Idioms and Phrases",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0099",
-   "q": "Choose the one word substitute for: A place where fishes are kept",
-   "o": [
+   "question": "Choose the one word substitute for: A place where fishes are kept",
+   "options": [
     "Aquarium",
     "Polyandry",
     "Omnipresent",
     "Mortuary"
    ],
-   "a": 0,
-   "t": "One Word Substitution",
-   "l": 2,
-   "s": "generated",
-   "e": "A place where fishes are kept — Aquarium."
+   "answer": 0,
+   "explanation": "A place where fishes are kept — Aquarium.",
+   "topic": "One Word Substitution",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0100",
-   "q": "Which of the following words is spelt correctly?",
-   "o": [
+   "question": "Which of the following words is spelt correctly?",
+   "options": [
     "Courageous",
     "Recommend",
     "Millennium",
     "Intelligence"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 1,
-   "s": "generated",
-   "e": "The correct spelling is Courageous."
+   "answer": 0,
+   "explanation": "The correct spelling is Courageous.",
+   "topic": "Spellings",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0101",
-   "q": "Which of the following is the plural form of Box?",
-   "o": [
+   "question": "Which of the following is the plural form of Box?",
+   "options": [
     "Lice",
     "Curricula",
     "Mosquitoes",
     "Boxes"
    ],
-   "a": 3,
-   "t": "Plurals",
-   "l": 2,
-   "s": "generated",
-   "e": "The plural of Box is Boxes."
+   "answer": 3,
+   "explanation": "The plural of Box is Boxes.",
+   "topic": "Plurals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0102",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Lion - Baroness",
     "Lion - Leopardess",
     "Lion - Heroine",
     "Lion - Lioness"
    ],
-   "a": 3,
-   "t": "Genders",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Lion - Lioness is correctly matched."
+   "answer": 3,
+   "explanation": "Only Lion - Lioness is correctly matched.",
+   "topic": "Genders",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0103",
-   "q": "Fill in the blank correctly: Important, ____, Most important",
-   "o": [
+   "question": "Fill in the blank correctly: Important, ____, Most important",
+   "options": [
     "Hotter",
     "Less",
     "Thinner",
     "More important"
    ],
-   "a": 3,
-   "t": "Degrees of Comparison",
-   "l": 2,
-   "s": "generated",
-   "e": "The correct sequence is Important, More important, Most important."
+   "answer": 3,
+   "explanation": "The correct sequence is Important, More important, Most important.",
+   "topic": "Degrees of Comparison",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0104",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "He is famous ____ his paintings. - on",
     "He is famous ____ his paintings. - for",
     "He is famous ____ his paintings. - in",
     "He is famous ____ his paintings. - of"
    ],
-   "a": 1,
-   "t": "Prepositions",
-   "l": 3,
-   "s": "generated",
-   "e": "Only He is famous ____ his paintings. - for is correctly matched."
+   "answer": 1,
+   "explanation": "Only He is famous ____ his paintings. - for is correctly matched.",
+   "topic": "Prepositions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0105",
-   "q": "In which year was Digital India launched?",
-   "o": [
+   "question": "In which year was Digital India launched?",
+   "options": [
     "Ahmedabad",
     "Sikkim",
     "2015",
     "LISA Pathfinder"
    ],
-   "a": 2,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 2,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0106",
-   "q": "Which scheme is described as: Welfare and education of the girl child?",
-   "o": [
+   "question": "Which scheme is described as: Welfare and education of the girl child?",
+   "options": [
     "Beti Bachao Beti Padhao",
     "Pradhan Mantri Krishi Sinchayee Yojana",
     "Digital India",
     "Swachh Bharat Mission"
    ],
-   "a": 0,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Welfare and education of the girl child describes Beti Bachao Beti Padhao."
+   "answer": 0,
+   "explanation": "Welfare and education of the girl child describes Beti Bachao Beti Padhao.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0107",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "National Broadband Mission - Communication and weather satellites",
     "National Broadband Mission - Urban water supply and sewerage improvement",
     "National Broadband Mission - Conservation of Asiatic lions",
     "National Broadband Mission - Broadband for all by 2024"
    ],
-   "a": 3,
-   "t": "Missions and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only National Broadband Mission - Broadband for all by 2024 is correctly matched."
+   "answer": 3,
+   "explanation": "Only National Broadband Mission - Broadband for all by 2024 is correctly matched.",
+   "topic": "Missions and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0108",
-   "q": "Which computer term is described as: When data requested is found in cache memory?",
-   "o": [
+   "question": "Which computer term is described as: When data requested is found in cache memory?",
+   "options": [
     "Cookie",
     "Spyware",
     "Multitasking",
     "Cache hit"
    ],
-   "a": 3,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "When data requested is found in cache memory describes Cache hit."
+   "answer": 3,
+   "explanation": "When data requested is found in cache memory describes Cache hit.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0109",
-   "q": "What is the full form of IBPS?",
-   "o": [
+   "question": "What is the full form of IBPS?",
+   "options": [
     "Net National Product",
     "Adenosine Triphosphate",
     "Institute of Banking Personnel Selection",
     "Central Industrial Security Force"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "IBPS stands for Institute of Banking Personnel Selection."
+   "answer": 2,
+   "explanation": "IBPS stands for Institute of Banking Personnel Selection.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0110",
-   "q": "What is the capital of Morocco?",
-   "o": [
+   "question": "What is the capital of Morocco?",
+   "options": [
     "Monrovia",
     "Rabat",
     "Oslo",
     "Baghdad"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Morocco is Rabat."
+   "answer": 1,
+   "explanation": "The capital of Morocco is Rabat.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0111",
-   "q": "Which element has the chemical symbol S?",
-   "o": [
+   "question": "Which element has the chemical symbol S?",
+   "options": [
     "Sulphur",
     "Hydrogen",
     "Gallium",
     "Tennessine"
    ],
-   "a": 0,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "S is the symbol of Sulphur."
+   "answer": 0,
+   "explanation": "S is the symbol of Sulphur.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0112",
-   "q": "Which of the following pairs of state and capital is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of state and capital is correctly matched?",
+   "options": [
     "Uttarakhand - Bengaluru",
     "Uttarakhand - Dehradun",
     "Uttarakhand - Mumbai",
     "Uttarakhand - Gangtok"
    ],
-   "a": 1,
-   "t": "States and Capitals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Uttarakhand - Dehradun is correctly matched."
+   "answer": 1,
+   "explanation": "Only Uttarakhand - Dehradun is correctly matched.",
+   "topic": "States and Capitals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0113",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "First Governor-General of independent India - H. J. Kania",
     "First Governor-General of independent India - Justice Fathima Beevi",
     "First Governor-General of independent India - Sushmita Sen",
     "First Governor-General of independent India - Lord Mountbatten"
    ],
-   "a": 3,
-   "t": "First in India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only First Governor-General of independent India - Lord Mountbatten is correctly matched."
+   "answer": 3,
+   "explanation": "Only First Governor-General of independent India - Lord Mountbatten is correctly matched.",
+   "topic": "First in India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0114",
-   "q": "Which of the following pairs of dance and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of dance and state is correctly matched?",
+   "options": [
     "Mohiniyattam - Sikkim",
     "Mohiniyattam - Assam",
     "Mohiniyattam - Kerala",
     "Mohiniyattam - Maharashtra"
    ],
-   "a": 2,
-   "t": "Folk Dances of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Mohiniyattam - Kerala is correctly matched."
+   "answer": 2,
+   "explanation": "Only Mohiniyattam - Kerala is correctly matched.",
+   "topic": "Folk Dances of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0115",
-   "q": "Which of the following pairs of festival and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of festival and state is correctly matched?",
+   "options": [
     "Durga Puja - Assam",
     "Durga Puja - Karnataka",
     "Durga Puja - Odisha",
     "Durga Puja - West Bengal"
    ],
-   "a": 3,
-   "t": "Festivals of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Durga Puja - West Bengal is correctly matched."
+   "answer": 3,
+   "explanation": "Only Durga Puja - West Bengal is correctly matched.",
+   "topic": "Festivals of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0116",
-   "q": "Which of the following pairs of river and origin is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of river and origin is correctly matched?",
+   "options": [
     "Beas - Baralacha La",
     "Beas - Sivagiri Hills",
     "Beas - Nepal Himalayas",
     "Beas - Beas Kund"
    ],
-   "a": 3,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Beas - Beas Kund is correctly matched."
+   "answer": 3,
+   "explanation": "Only Beas - Beas Kund is correctly matched.",
+   "topic": "Rivers of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0117",
-   "q": "Which of the following national parks or tiger reserves is in Sikkim?",
-   "o": [
+   "question": "Which of the following national parks or tiger reserves is in Sikkim?",
+   "options": [
     "Guindy National Park",
     "Anamudi Shola National Park",
     "Khangchendzonga National Park",
     "Keibul Lamjao National Park"
    ],
-   "a": 2,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Khangchendzonga National Park is in Sikkim."
+   "answer": 2,
+   "explanation": "Khangchendzonga National Park is in Sikkim.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0118",
-   "q": "Which of the following pairs of pass and state is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of pass and state is NOT correctly matched?",
+   "options": [
     "Pangsau Pass - Arunachal Pradesh",
     "Jelep La - Arunachal Pradesh",
     "Palakkad Gap - Kerala",
     "Zoji La - Ladakh"
    ],
-   "a": 1,
-   "t": "Mountain Passes of India",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Jelep La - Arunachal Pradesh is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Jelep La - Arunachal Pradesh is not correctly matched.",
+   "topic": "Mountain Passes of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0119",
-   "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is correctly matched?",
+   "options": [
     "Frequency - Volt",
     "Frequency - Katal",
     "Frequency - Reciprocal metre",
     "Frequency - Hertz"
    ],
-   "a": 3,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Frequency - Hertz is correctly matched."
+   "answer": 3,
+   "explanation": "Only Frequency - Hertz is correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0120",
-   "q": "Which of the following pairs of instrument and use is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of instrument and use is correctly matched?",
+   "options": [
     "Spherometer - Electric current",
     "Spherometer - Earthquakes",
     "Spherometer - Temperature",
     "Spherometer - Curvature of surfaces"
    ],
-   "a": 3,
-   "t": "Scientific Instruments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Spherometer - Curvature of surfaces is correctly matched."
+   "answer": 3,
+   "explanation": "Only Spherometer - Curvature of surfaces is correctly matched.",
+   "topic": "Scientific Instruments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0121",
-   "q": "Which of the following pairs of body part and function is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of body part and function is correctly matched?",
+   "options": [
     "Adrenal gland - Secretion of adrenaline",
     "Adrenal gland - Exchange of gases",
     "Adrenal gland - Filtration of blood and urine formation",
     "Adrenal gland - Pumping blood"
    ],
-   "a": 0,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Adrenal gland - Secretion of adrenaline is correctly matched."
+   "answer": 0,
+   "explanation": "Only Adrenal gland - Secretion of adrenaline is correctly matched.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0122",
-   "q": "Which of the following pairs of nutrient and deficiency disease is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of nutrient and deficiency disease is NOT correctly matched?",
+   "options": [
     "Vitamin C - Scurvy",
     "Copper - Scurvy",
     "Iodine - Goitre",
     "Vitamin A - Xerophthalmia"
    ],
-   "a": 1,
-   "t": "Vitamins and Deficiencies",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Copper - Scurvy is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Copper - Scurvy is not correctly matched.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0123",
-   "q": "Which of the following pairs of disease and causative agent is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of disease and causative agent is correctly matched?",
+   "options": [
     "Rabies - Rabies virus",
     "Rabies - Dengue virus",
     "Rabies - Salmonella typhi bacteria",
     "Rabies - Plasmodium"
    ],
-   "a": 0,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Rabies - Rabies virus is correctly matched."
+   "answer": 0,
+   "explanation": "Only Rabies - Rabies virus is correctly matched.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0124",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "World Wide Web - Jonas Salk",
     "World Wide Web - J. J. Thomson",
     "World Wide Web - Charles Babbage",
     "World Wide Web - Tim Berners-Lee"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only World Wide Web - Tim Berners-Lee is correctly matched."
+   "answer": 3,
+   "explanation": "Only World Wide Web - Tim Berners-Lee is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0125",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Alcohol - Calcium sulphate dihydrate (CaSO4.2H2O)",
     "Alcohol - Calcium sulphate hemihydrate (CaSO4.1/2H2O)",
     "Alcohol - Sodium bicarbonate (NaHCO3)",
     "Alcohol - Ethanol (C2H5OH)"
    ],
-   "a": 3,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Alcohol - Ethanol (C2H5OH) is correctly matched."
+   "answer": 3,
+   "explanation": "Only Alcohol - Ethanol (C2H5OH) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0126",
-   "q": "Which of the following pairs of branch and subject is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of branch and subject is correctly matched?",
+   "options": [
     "Cardiology - Heredity and variation",
     "Cardiology - Eyes",
     "Cardiology - Nervous system",
     "Cardiology - Heart"
    ],
-   "a": 3,
-   "t": "Branches of Science",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Cardiology - Heart is correctly matched."
+   "answer": 3,
+   "explanation": "Only Cardiology - Heart is correctly matched.",
+   "topic": "Branches of Science",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0127",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Venus - Position from the Sun",
     "Venus - Red Planet",
     "Venus - Moon between Sun and Earth",
     "Venus - Icy moon of Jupiter"
    ],
-   "a": 0,
-   "t": "Astronomy",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Venus - Position from the Sun is correctly matched."
+   "answer": 0,
+   "explanation": "Only Venus - Position from the Sun is correctly matched.",
+   "topic": "Astronomy",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0128",
-   "q": "Which of the following pairs of scientist and contribution is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of scientist and contribution is correctly matched?",
+   "options": [
     "Guglielmo Marconi - Discovery of penicillin",
     "Guglielmo Marconi - Telephone",
     "Guglielmo Marconi - Improvements to the steam engine",
     "Guglielmo Marconi - Wireless telegraphy"
    ],
-   "a": 3,
-   "t": "Scientists",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Guglielmo Marconi - Wireless telegraphy is correctly matched."
+   "answer": 3,
+   "explanation": "Only Guglielmo Marconi - Wireless telegraphy is correctly matched.",
+   "topic": "Scientists",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0129",
-   "q": "In which decade did the following event take place: Launch of the Non-Cooperation Movement?",
-   "o": [
+   "question": "In which decade did the following event take place: Launch of the Non-Cooperation Movement?",
+   "options": [
     "1960s",
     "1920s",
     "1980s",
     "1940s"
    ],
-   "a": 1,
-   "t": "Indian History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Launch of the Non-Cooperation Movement took place in the 1920s."
+   "answer": 1,
+   "explanation": "Launch of the Non-Cooperation Movement took place in the 1920s.",
+   "topic": "Indian History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0130",
-   "q": "Which of the following events took place in 1869?",
-   "o": [
+   "question": "Which of the following events took place in 1869?",
+   "options": [
     "Opening of the Suez Canal",
     "September 11 attacks in the United States",
     "Beginning of the Korean War",
     "First Nobel Prizes awarded"
    ],
-   "a": 0,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Opening of the Suez Canal took place in 1869."
+   "answer": 0,
+   "explanation": "Opening of the Suez Canal took place in 1869.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0131",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Bahadur Shah Zafar - Greatest of the Peshwas",
     "Bahadur Shah Zafar - Tenth Sikh Guru and founder of the Khalsa",
     "Bahadur Shah Zafar - Founder of Buddhism",
     "Bahadur Shah Zafar - Last Mughal emperor"
    ],
-   "a": 3,
-   "t": "Rulers",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Bahadur Shah Zafar - Last Mughal emperor is correctly matched."
+   "answer": 3,
+   "explanation": "Only Bahadur Shah Zafar - Last Mughal emperor is correctly matched.",
+   "topic": "Rulers",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0132",
-   "q": "Which of the following pairs of person and title is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of person and title is correctly matched?",
+   "options": [
     "Rajguru - Political mentor of Mahatma Gandhi",
     "Rajguru - Revolutionary executed with Bhagat Singh",
     "Rajguru - First Education Minister of India",
     "Rajguru - Father of the Nation"
    ],
-   "a": 1,
-   "t": "Freedom Fighters",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Rajguru - Revolutionary executed with Bhagat Singh is correctly matched."
+   "answer": 1,
+   "explanation": "Only Rajguru - Revolutionary executed with Bhagat Singh is correctly matched.",
+   "topic": "Freedom Fighters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0133",
-   "q": "Which of the following pairs of provision and article is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of provision and article is correctly matched?",
+   "options": [
     "Union Public Service Commission - Article 315",
     "Union Public Service Commission - Part III, Articles 12-35",
     "Union Public Service Commission - Article 24",
     "Union Public Service Commission - Articles 14-18"
    ],
-   "a": 0,
-   "t": "Constitution Articles",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Union Public Service Commission - Article 315 is correctly matched."
+   "answer": 0,
+   "explanation": "Only Union Public Service Commission - Article 315 is correctly matched.",
+   "topic": "Constitution Articles",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0134",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "The maximum gap between two sessions of Parliament is - 6 months",
     "The maximum gap between two sessions of Parliament is - Australia",
     "The maximum gap between two sessions of Parliament is - 250 members",
     "The maximum gap between two sessions of Parliament is - South Africa"
    ],
-   "a": 0,
-   "t": "Constitution Facts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only The maximum gap between two sessions of Parliament is - 6 months is correctly matched."
+   "answer": 0,
+   "explanation": "Only The maximum gap between two sessions of Parliament is - 6 months is correctly matched.",
+   "topic": "Constitution Facts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0135",
-   "q": "Which of the following pairs of institution and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of institution and description is correctly matched?",
+   "options": [
     "National Human Rights Commission - Chief legal adviser to the Government of India",
     "National Human Rights Commission - Central bank and monetary authority",
     "National Human Rights Commission - Regulator of telecommunications",
     "National Human Rights Commission - Protects human rights in India"
    ],
-   "a": 3,
-   "t": "Institutions of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only National Human Rights Commission - Protects human rights in India is correctly matched."
+   "answer": 3,
+   "explanation": "Only National Human Rights Commission - Protects human rights in India is correctly matched.",
+   "topic": "Institutions of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0136",
-   "q": "Which of the following days is observed on 4 July?",
-   "o": [
+   "question": "Which of the following days is observed on 4 July?",
+   "options": [
     "World Press Freedom Day",
     "Independence Day (USA)",
     "World Polio Day",
     "World Hypertension Day"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "4 July is observed as Independence Day (USA)."
+   "answer": 1,
+   "explanation": "4 July is observed as Independence Day (USA).",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0137",
-   "q": "Which of the following pairs of organisation and headquarters is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of organisation and headquarters is correctly matched?",
+   "options": [
     "World Bank - Washington, D.C.",
     "World Bank - Beijing",
     "World Bank - Rome",
     "World Bank - Geneva"
    ],
-   "a": 0,
-   "t": "Organisations and Headquarters",
-   "l": 3,
-   "s": "generated",
-   "e": "Only World Bank - Washington, D.C. is correctly matched."
+   "answer": 0,
+   "explanation": "Only World Bank - Washington, D.C. is correctly matched.",
+   "topic": "Organisations and Headquarters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0138",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Padma Bhushan - American award for music",
     "Padma Bhushan - Indian award in science and technology",
     "Padma Bhushan - Third highest civilian award of India",
     "Padma Bhushan - Indian award in agricultural science"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Padma Bhushan - Third highest civilian award of India is correctly matched."
+   "answer": 2,
+   "explanation": "Only Padma Bhushan - Third highest civilian award of India is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0139",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "On the Origin of Species - Jane Austen",
     "On the Origin of Species - Charles Darwin",
     "On the Origin of Species - Mary Kom",
     "On the Origin of Species - Charles Dickens"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only On the Origin of Species - Charles Darwin is correctly matched."
+   "answer": 1,
+   "explanation": "Only On the Origin of Species - Charles Darwin is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0140",
-   "q": "Which of the following pairs of achievement and person is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of achievement and person is NOT correctly matched?",
+   "options": [
     "First country to launch a satellite - Soviet Union",
     "First Indian woman to win an Olympic medal - Karnam Malleswari",
     "First woman to climb Mount Everest - Soviet Union",
     "First Indian to win a Nobel Prize - Rabindranath Tagore"
    ],
-   "a": 2,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair First woman to climb Mount Everest - Soviet Union is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair First woman to climb Mount Everest - Soviet Union is not correctly matched.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0141",
-   "q": "Which country is known as the Sugar Bowl of the World?",
-   "o": [
+   "question": "Which country is known as the Sugar Bowl of the World?",
+   "options": [
     "Bay of Bengal",
     "Cuba",
     "Bhutan",
     "Surat"
    ],
-   "a": 1,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 1,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0142",
-   "q": "Which of the following pairs of question and answer is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of question and answer is correctly matched?",
+   "options": [
     "Type of climate of India - Wind vane",
     "Type of climate of India - Jupiter",
     "Type of climate of India - Tropical monsoon climate",
     "Type of climate of India - Richter scale"
    ],
-   "a": 2,
-   "t": "Climate and Atmosphere",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Type of climate of India - Tropical monsoon climate is correctly matched."
+   "answer": 2,
+   "explanation": "Only Type of climate of India - Tropical monsoon climate is correctly matched.",
+   "topic": "Climate and Atmosphere",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0143",
-   "q": "Which of these is a quantitative tool of monetary policy?",
-   "o": [
+   "question": "Which of these is a quantitative tool of monetary policy?",
+   "options": [
     "Open market operations",
     "Consumer Price Index",
     "Finance Commission",
     "RBI Act, 1934"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0144",
-   "q": "Choose the word most similar in meaning to Prevalent.",
-   "o": [
+   "question": "Choose the word most similar in meaning to Prevalent.",
+   "options": [
     "Understand",
     "Showy",
     "Stop",
     "Widespread"
    ],
-   "a": 3,
-   "t": "Synonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "Prevalent means Widespread."
+   "answer": 3,
+   "explanation": "Prevalent means Widespread.",
+   "topic": "Synonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0145",
-   "q": "Choose the word most opposite in meaning to Fertile.",
-   "o": [
+   "question": "Choose the word most opposite in meaning to Fertile.",
+   "options": [
     "Original",
     "Barren",
     "Turbulent",
     "Modern"
    ],
-   "a": 1,
-   "t": "Antonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "The opposite of Fertile is Barren."
+   "answer": 1,
+   "explanation": "The opposite of Fertile is Barren.",
+   "topic": "Antonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0146",
-   "q": "What is the meaning of the idiom 'Play second fiddle'?",
-   "o": [
+   "question": "What is the meaning of the idiom 'Play second fiddle'?",
+   "options": [
     "To make a fresh start",
     "A cause of quarrel",
     "Take a subordinate role",
     "Barely manage to survive"
    ],
-   "a": 2,
-   "t": "Idioms and Phrases",
-   "l": 2,
-   "s": "generated",
-   "e": "'Play second fiddle' means Take a subordinate role."
+   "answer": 2,
+   "explanation": "'Play second fiddle' means Take a subordinate role.",
+   "topic": "Idioms and Phrases",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0147",
-   "q": "Choose the one word substitute for: Government by the people",
-   "o": [
+   "question": "Choose the one word substitute for: Government by the people",
+   "options": [
     "Biography",
     "Somniloquist",
     "Democracy",
     "Inaudible"
    ],
-   "a": 2,
-   "t": "One Word Substitution",
-   "l": 2,
-   "s": "generated",
-   "e": "Government by the people — Democracy."
+   "answer": 2,
+   "explanation": "Government by the people — Democracy.",
+   "topic": "One Word Substitution",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0148",
-   "q": "Which of the following words is spelt correctly?",
-   "o": [
+   "question": "Which of the following words is spelt correctly?",
+   "options": [
     "Adolescent",
     "Truly",
     "Separately",
     "Mischievous"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 1,
-   "s": "generated",
-   "e": "The correct spelling is Mischievous."
+   "answer": 3,
+   "explanation": "The correct spelling is Mischievous.",
+   "topic": "Spellings",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0149",
-   "q": "Which of the following is the plural form of Criterion?",
-   "o": [
+   "question": "Which of the following is the plural form of Criterion?",
+   "options": [
     "Heroes",
     "Criteria",
     "Appendices",
     "Ladies"
    ],
-   "a": 1,
-   "t": "Plurals",
-   "l": 2,
-   "s": "generated",
-   "e": "The plural of Criterion is Criteria."
+   "answer": 1,
+   "explanation": "The plural of Criterion is Criteria.",
+   "topic": "Plurals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0150",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Husband - Wife",
     "Husband - Ewe",
     "Husband - Hen",
     "Husband - Actress"
    ],
-   "a": 0,
-   "t": "Genders",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Husband - Wife is correctly matched."
+   "answer": 0,
+   "explanation": "Only Husband - Wife is correctly matched.",
+   "topic": "Genders",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0151",
-   "q": "Fill in the blank correctly: Tall, ____, Tallest",
-   "o": [
+   "question": "Fill in the blank correctly: Tall, ____, Tallest",
+   "options": [
     "More",
     "More courageous",
     "Taller",
     "Nobler"
    ],
-   "a": 2,
-   "t": "Degrees of Comparison",
-   "l": 2,
-   "s": "generated",
-   "e": "The correct sequence is Tall, Taller, Tallest."
+   "answer": 2,
+   "explanation": "The correct sequence is Tall, Taller, Tallest.",
+   "topic": "Degrees of Comparison",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0152",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "The child is suffering ____ fever. - in",
     "The child is suffering ____ fever. - from",
     "The child is suffering ____ fever. - to",
     "The child is suffering ____ fever. - with"
    ],
-   "a": 1,
-   "t": "Prepositions",
-   "l": 3,
-   "s": "generated",
-   "e": "Only The child is suffering ____ fever. - from is correctly matched."
+   "answer": 1,
+   "explanation": "Only The child is suffering ____ fever. - from is correctly matched.",
+   "topic": "Prepositions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0153",
-   "q": "Which Indian state has the highest GST collection?",
-   "o": [
+   "question": "Which Indian state has the highest GST collection?",
+   "options": [
     "Pradhan Mantri Awas Yojana",
     "M. S. Dhoni",
     "Maharashtra",
     "India"
    ],
-   "a": 2,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 2,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0154",
-   "q": "Which scheme is described as: Health insurance cover of five lakh rupees per family?",
-   "o": [
+   "question": "Which scheme is described as: Health insurance cover of five lakh rupees per family?",
+   "options": [
     "Aspirational Districts Programme",
     "One Nation One Ration Card",
     "Ayushman Bharat",
     "Yellow Revolution"
    ],
-   "a": 2,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Health insurance cover of five lakh rupees per family describes Ayushman Bharat."
+   "answer": 2,
+   "explanation": "Health insurance cover of five lakh rupees per family describes Ayushman Bharat.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0155",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "XPoSat - X-ray polarimetry studies of black holes",
     "XPoSat - Integrated bill payment platform",
     "XPoSat - Online library for students",
     "XPoSat - Conservation of river and marine dolphins"
    ],
-   "a": 0,
-   "t": "Missions and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only XPoSat - X-ray polarimetry studies of black holes is correctly matched."
+   "answer": 0,
+   "explanation": "Only XPoSat - X-ray polarimetry studies of black holes is correctly matched.",
+   "topic": "Missions and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0156",
-   "q": "Which computer term is described as: Device that forwards data between networks?",
-   "o": [
+   "question": "Which computer term is described as: Device that forwards data between networks?",
+   "options": [
     "POP3",
     "GPU",
     "Microphone",
     "Router"
    ],
-   "a": 3,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Device that forwards data between networks describes Router."
+   "answer": 3,
+   "explanation": "Device that forwards data between networks describes Router.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0157",
-   "q": "What is the full form of NavIC?",
-   "o": [
+   "question": "What is the full form of NavIC?",
+   "options": [
     "Navigation with Indian Constellation",
     "Sports Authority of India",
     "Indian Council of Agricultural Research",
     "Deoxyribonucleic Acid"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "NavIC stands for Navigation with Indian Constellation."
+   "answer": 0,
+   "explanation": "NavIC stands for Navigation with Indian Constellation.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0158",
-   "q": "What is the capital of Sudan?",
-   "o": [
+   "question": "What is the capital of Sudan?",
+   "options": [
     "Pretoria",
     "Managua",
     "Khartoum",
     "Amsterdam"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Sudan is Khartoum."
+   "answer": 2,
+   "explanation": "The capital of Sudan is Khartoum.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0159",
-   "q": "Which element has the chemical symbol Fe?",
-   "o": [
+   "question": "Which element has the chemical symbol Fe?",
+   "options": [
     "Iron",
     "Bromine",
     "Dysprosium",
     "Tellurium"
    ],
-   "a": 0,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "Fe is the symbol of Iron."
+   "answer": 0,
+   "explanation": "Fe is the symbol of Iron.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0160",
-   "q": "Which of the following pairs of state and capital is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of state and capital is correctly matched?",
+   "options": [
     "Uttarakhand - Gandhinagar",
     "Uttarakhand - Dehradun",
     "Uttarakhand - Thiruvananthapuram",
     "Uttarakhand - Agartala"
    ],
-   "a": 1,
-   "t": "States and Capitals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Uttarakhand - Dehradun is correctly matched."
+   "answer": 1,
+   "explanation": "Only Uttarakhand - Dehradun is correctly matched.",
+   "topic": "States and Capitals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0161",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "First Governor-General of independent India - Dr. S. Radhakrishnan",
     "First Governor-General of independent India - Sushmita Sen",
     "First Governor-General of independent India - Kalpana Chawla",
     "First Governor-General of independent India - Lord Mountbatten"
    ],
-   "a": 3,
-   "t": "First in India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only First Governor-General of independent India - Lord Mountbatten is correctly matched."
+   "answer": 3,
+   "explanation": "Only First Governor-General of independent India - Lord Mountbatten is correctly matched.",
+   "topic": "First in India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0162",
-   "q": "Which of the following pairs of dance and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of dance and state is correctly matched?",
+   "options": [
     "Mohiniyattam - Jharkhand",
     "Mohiniyattam - Kerala",
     "Mohiniyattam - Gujarat",
     "Mohiniyattam - Himachal Pradesh"
    ],
-   "a": 1,
-   "t": "Folk Dances of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Mohiniyattam - Kerala is correctly matched."
+   "answer": 1,
+   "explanation": "Only Mohiniyattam - Kerala is correctly matched.",
+   "topic": "Folk Dances of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0163",
-   "q": "Which of the following pairs of festival and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of festival and state is correctly matched?",
+   "options": [
     "Durga Puja - Rajasthan",
     "Durga Puja - Assam",
     "Durga Puja - Odisha",
     "Durga Puja - West Bengal"
    ],
-   "a": 3,
-   "t": "Festivals of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Durga Puja - West Bengal is correctly matched."
+   "answer": 3,
+   "explanation": "Only Durga Puja - West Bengal is correctly matched.",
+   "topic": "Festivals of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0164",
-   "q": "Which of the following pairs of river and origin is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of river and origin is correctly matched?",
+   "options": [
     "Beas - Angsi Glacier",
     "Beas - Nepal Himalayas",
     "Beas - Multai",
     "Beas - Beas Kund"
    ],
-   "a": 3,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Beas - Beas Kund is correctly matched."
+   "answer": 3,
+   "explanation": "Only Beas - Beas Kund is correctly matched.",
+   "topic": "Rivers of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0165",
-   "q": "Which of the following national parks or tiger reserves is in Meghalaya?",
-   "o": [
+   "question": "Which of the following national parks or tiger reserves is in Meghalaya?",
+   "options": [
     "Namdapha National Park",
     "Gir National Park",
     "Balphakram National Park",
     "Nagi / Nakti Bird Sanctuary"
    ],
-   "a": 2,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Balphakram National Park is in Meghalaya."
+   "answer": 2,
+   "explanation": "Balphakram National Park is in Meghalaya.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0166",
-   "q": "Which of the following pairs of pass and state is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of pass and state is NOT correctly matched?",
+   "options": [
     "Haldighati Pass - Rajasthan",
     "Fotu La - Ladakh",
     "Shipki La - Himachal Pradesh",
     "Shencottah Gap - Arunachal Pradesh"
    ],
-   "a": 3,
-   "t": "Mountain Passes of India",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Shencottah Gap - Arunachal Pradesh is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Shencottah Gap - Arunachal Pradesh is not correctly matched.",
+   "topic": "Mountain Passes of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0167",
-   "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is correctly matched?",
+   "options": [
     "Frequency - Second",
     "Frequency - Reciprocal metre",
     "Frequency - Joule",
     "Frequency - Hertz"
    ],
-   "a": 3,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Frequency - Hertz is correctly matched."
+   "answer": 3,
+   "explanation": "Only Frequency - Hertz is correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0168",
-   "q": "Which of the following pairs of instrument and use is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of instrument and use is correctly matched?",
+   "options": [
     "Spherometer - Turbidity of liquid",
     "Spherometer - Purity of milk",
     "Spherometer - Curvature of surfaces",
     "Spherometer - Gas pressure"
    ],
-   "a": 2,
-   "t": "Scientific Instruments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Spherometer - Curvature of surfaces is correctly matched."
+   "answer": 2,
+   "explanation": "Only Spherometer - Curvature of surfaces is correctly matched.",
+   "topic": "Scientific Instruments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0169",
-   "q": "Which of the following pairs of body part and function is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of body part and function is correctly matched?",
+   "options": [
     "Adrenal gland - Transmission of nerve impulses",
     "Adrenal gland - Secretion of adrenaline",
     "Adrenal gland - Clotting of blood",
     "Adrenal gland - Body immunity"
    ],
-   "a": 1,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Adrenal gland - Secretion of adrenaline is correctly matched."
+   "answer": 1,
+   "explanation": "Only Adrenal gland - Secretion of adrenaline is correctly matched.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0170",
-   "q": "Which of the following pairs of nutrient and deficiency disease is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of nutrient and deficiency disease is NOT correctly matched?",
+   "options": [
     "Vitamin C - Scurvy",
     "Vitamin E - Haemolysis of red blood cells",
     "Vitamin B6 - Delayed blood clotting",
     "Vitamin B12 - Pernicious anaemia"
    ],
-   "a": 2,
-   "t": "Vitamins and Deficiencies",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Vitamin B6 - Delayed blood clotting is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Vitamin B6 - Delayed blood clotting is not correctly matched.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0171",
-   "q": "Which of the following pairs of disease and causative agent is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of disease and causative agent is correctly matched?",
+   "options": [
     "Rabies - Hepatitis B virus",
     "Rabies - Rabies virus",
     "Rabies - Entamoeba histolytica",
     "Rabies - Fungi"
    ],
-   "a": 1,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Rabies - Rabies virus is correctly matched."
+   "answer": 1,
+   "explanation": "Only Rabies - Rabies virus is correctly matched.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0172",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "World Wide Web - James Watt",
     "World Wide Web - Isaac Newton",
     "World Wide Web - Alfred Nobel",
     "World Wide Web - Tim Berners-Lee"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only World Wide Web - Tim Berners-Lee is correctly matched."
+   "answer": 3,
+   "explanation": "Only World Wide Web - Tim Berners-Lee is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0173",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Alcohol - Zinc chloride (ZnCl2)",
     "Alcohol - Sodium hydroxide (NaOH)",
     "Alcohol - Ethanol (C2H5OH)",
     "Alcohol - Potassium hydroxide (KOH)"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Alcohol - Ethanol (C2H5OH) is correctly matched."
+   "answer": 2,
+   "explanation": "Only Alcohol - Ethanol (C2H5OH) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0174",
-   "q": "Which of the following pairs of branch and subject is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of branch and subject is correctly matched?",
+   "options": [
     "Cardiology - Structure of the body",
     "Cardiology - Celestial objects and the universe",
     "Cardiology - Functions of living organisms",
     "Cardiology - Heart"
    ],
-   "a": 3,
-   "t": "Branches of Science",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Cardiology - Heart is correctly matched."
+   "answer": 3,
+   "explanation": "Only Cardiology - Heart is correctly matched.",
+   "topic": "Branches of Science",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0175",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Venus - Coldest planetary atmosphere",
     "Venus - Average Earth-Sun distance",
     "Venus - Unit of astronomical distance",
     "Venus - Position from the Sun"
    ],
-   "a": 3,
-   "t": "Astronomy",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Venus - Position from the Sun is correctly matched."
+   "answer": 3,
+   "explanation": "Only Venus - Position from the Sun is correctly matched.",
+   "topic": "Astronomy",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0176",
-   "q": "Which of the following pairs of scientist and contribution is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of scientist and contribution is correctly matched?",
+   "options": [
     "Guglielmo Marconi - Theory of evolution",
     "Guglielmo Marconi - Electromagnetic theory",
     "Guglielmo Marconi - Laws of inheritance",
     "Guglielmo Marconi - Wireless telegraphy"
    ],
-   "a": 3,
-   "t": "Scientists",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Guglielmo Marconi - Wireless telegraphy is correctly matched."
+   "answer": 3,
+   "explanation": "Only Guglielmo Marconi - Wireless telegraphy is correctly matched.",
+   "topic": "Scientists",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0177",
-   "q": "In which decade did the following event take place: Founding of the All India Muslim League?",
-   "o": [
+   "question": "In which decade did the following event take place: Founding of the All India Muslim League?",
+   "options": [
     "1970s",
     "1930s",
     "1900s",
     "1940s"
    ],
-   "a": 2,
-   "t": "Indian History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Founding of the All India Muslim League took place in the 1906s."
+   "answer": 2,
+   "explanation": "Founding of the All India Muslim League took place in the 1906s.",
+   "topic": "Indian History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0178",
-   "q": "Which of the following events took place in 1776?",
-   "o": [
+   "question": "Which of the following events took place in 1776?",
+   "options": [
     "American Declaration of Independence",
     "Glorious Revolution in England",
     "Beginning of the Arab Spring",
     "Release of Nelson Mandela from prison"
    ],
-   "a": 0,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "American Declaration of Independence took place in 1776."
+   "answer": 0,
+   "explanation": "American Declaration of Independence took place in 1776.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0179",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Bahadur Shah Zafar - Known as the Napoleon of India",
     "Bahadur Shah Zafar - Founder of Buddhism",
     "Bahadur Shah Zafar - Established Din-i-Ilahi and the Ibadat Khana",
     "Bahadur Shah Zafar - Last Mughal emperor"
    ],
-   "a": 3,
-   "t": "Rulers",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Bahadur Shah Zafar - Last Mughal emperor is correctly matched."
+   "answer": 3,
+   "explanation": "Only Bahadur Shah Zafar - Last Mughal emperor is correctly matched.",
+   "topic": "Rulers",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0180",
-   "q": "Which of the following pairs of person and title is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of person and title is correctly matched?",
+   "options": [
     "Rajguru - Last Governor-General of India",
     "Rajguru - Revolutionary executed with Bhagat Singh",
     "Rajguru - Leader of the 1974-77 movement",
     "Rajguru - Leader of the Bhoodan movement"
    ],
-   "a": 1,
-   "t": "Freedom Fighters",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Rajguru - Revolutionary executed with Bhagat Singh is correctly matched."
+   "answer": 1,
+   "explanation": "Only Rajguru - Revolutionary executed with Bhagat Singh is correctly matched.",
+   "topic": "Freedom Fighters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0181",
-   "q": "Which of the following pairs of provision and article is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of provision and article is correctly matched?",
+   "options": [
     "Union Public Service Commission - Part XV, Articles 324-329",
     "Union Public Service Commission - Article 24",
     "Union Public Service Commission - Article 315",
     "Union Public Service Commission - Articles 19-22"
    ],
-   "a": 2,
-   "t": "Constitution Articles",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Union Public Service Commission - Article 315 is correctly matched."
+   "answer": 2,
+   "explanation": "Only Union Public Service Commission - Article 315 is correctly matched.",
+   "topic": "Constitution Articles",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0182",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "The maximum gap between two sessions of Parliament is - 6 months",
     "The maximum gap between two sessions of Parliament is - Anti-defection provisions",
     "The maximum gap between two sessions of Parliament is - The Lok Sabha",
     "The maximum gap between two sessions of Parliament is - Comptroller and Auditor General"
    ],
-   "a": 0,
-   "t": "Constitution Facts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only The maximum gap between two sessions of Parliament is - 6 months is correctly matched."
+   "answer": 0,
+   "explanation": "Only The maximum gap between two sessions of Parliament is - 6 months is correctly matched.",
+   "topic": "Constitution Facts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0183",
-   "q": "Which of the following pairs of institution and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of institution and description is correctly matched?",
+   "options": [
     "National Human Rights Commission - Head of the Union Government",
     "National Human Rights Commission - Regulator of telecommunications",
     "National Human Rights Commission - Recruits civil servants for the Union",
     "National Human Rights Commission - Protects human rights in India"
    ],
-   "a": 3,
-   "t": "Institutions of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only National Human Rights Commission - Protects human rights in India is correctly matched."
+   "answer": 3,
+   "explanation": "Only National Human Rights Commission - Protects human rights in India is correctly matched.",
+   "topic": "Institutions of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0184",
-   "q": "Which of the following days is observed on 7 April?",
-   "o": [
+   "question": "Which of the following days is observed on 7 April?",
+   "options": [
     "World Pulses Day",
     "World Habitat Day",
     "World Health Day",
     "World Book Day"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "7 April is observed as World Health Day."
+   "answer": 2,
+   "explanation": "7 April is observed as World Health Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0185",
-   "q": "Which of the following pairs of organisation and headquarters is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of organisation and headquarters is correctly matched?",
+   "options": [
     "World Bank - Washington, D.C.",
     "World Bank - London",
     "World Bank - Geneva",
     "World Bank - Brussels"
    ],
-   "a": 0,
-   "t": "Organisations and Headquarters",
-   "l": 3,
-   "s": "generated",
-   "e": "Only World Bank - Washington, D.C. is correctly matched."
+   "answer": 0,
+   "explanation": "Only World Bank - Washington, D.C. is correctly matched.",
+   "topic": "Organisations and Headquarters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0186",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "Swaythling Cup - Table Tennis",
     "Swaythling Cup - Tennis",
     "Swaythling Cup - Football",
     "Swaythling Cup - Badminton"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Swaythling Cup - Table Tennis is correctly matched."
+   "answer": 0,
+   "explanation": "Only Swaythling Cup - Table Tennis is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0187",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Padma Bhushan - Alternative Nobel Prize",
     "Padma Bhushan - Indian literary award",
     "Padma Bhushan - Third highest civilian award of India",
     "Padma Bhushan - Fourth highest civilian award of India"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Padma Bhushan - Third highest civilian award of India is correctly matched."
+   "answer": 2,
+   "explanation": "Only Padma Bhushan - Third highest civilian award of India is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0188",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "On the Origin of Species - Charles Darwin",
     "On the Origin of Species - Sachin Tendulkar",
     "On the Origin of Species - Sarojini Naidu",
     "On the Origin of Species - Plato"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only On the Origin of Species - Charles Darwin is correctly matched."
+   "answer": 0,
+   "explanation": "Only On the Origin of Species - Charles Darwin is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0189",
-   "q": "Which of the following pairs of achievement and person is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of achievement and person is NOT correctly matched?",
+   "options": [
     "First country to give women the vote - New Zealand",
     "First country to launch a satellite - Soviet Union",
     "First woman to win an Olympic gold in wrestling for India - Karnam Malleswari",
     "First person to sail solo around the world - Karnam Malleswari"
    ],
-   "a": 3,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair First person to sail solo around the world - Karnam Malleswari is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair First person to sail solo around the world - Karnam Malleswari is not correctly matched.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0190",
-   "q": "Which is the southernmost tip of the Indian mainland?",
-   "o": [
+   "question": "Which is the southernmost tip of the Indian mainland?",
+   "options": [
     "Andhra Pradesh",
     "Lake Victoria",
     "Sabarmati",
     "Kanyakumari"
    ],
-   "a": 3,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 3,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0191",
-   "q": "Which of the following pairs of question and answer is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of question and answer is correctly matched?",
+   "options": [
     "Type of climate of India - Mango showers",
     "Type of climate of India - Stratosphere",
     "Type of climate of India - Tropical monsoon climate",
     "Type of climate of India - Sedimentary rock"
    ],
-   "a": 2,
-   "t": "Climate and Atmosphere",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Type of climate of India - Tropical monsoon climate is correctly matched."
+   "answer": 2,
+   "explanation": "Only Type of climate of India - Tropical monsoon climate is correctly matched.",
+   "topic": "Climate and Atmosphere",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0192",
-   "q": "Which rate is used by banks to determine interest on savings accounts?",
-   "o": [
+   "question": "Which rate is used by banks to determine interest on savings accounts?",
+   "options": [
     "101st Amendment",
     "C. D. Deshmukh",
     "General Agreement on Tariffs and Trade",
     "Savings bank rate"
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0193",
-   "q": "Choose the word most similar in meaning to Proficient.",
-   "o": [
+   "question": "Choose the word most similar in meaning to Proficient.",
+   "options": [
     "Agree",
     "Belittle",
     "Skilled",
     "Draw out"
    ],
-   "a": 2,
-   "t": "Synonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "Proficient means Skilled."
+   "answer": 2,
+   "explanation": "Proficient means Skilled.",
+   "topic": "Synonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0194",
-   "q": "Choose the word most opposite in meaning to Apathy.",
-   "o": [
+   "question": "Choose the word most opposite in meaning to Apathy.",
+   "options": [
     "Intensify",
     "Plentiful",
     "Enthusiasm",
     "Concise"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "The opposite of Apathy is Enthusiasm."
+   "answer": 2,
+   "explanation": "The opposite of Apathy is Enthusiasm.",
+   "topic": "Antonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0195",
-   "q": "What is the meaning of the idiom 'Beat about the bush'?",
-   "o": [
+   "question": "What is the meaning of the idiom 'Beat about the bush'?",
+   "options": [
     "Destroy at an early stage",
     "Talk without coming to the point",
     "Become known",
     "A person of no substance"
    ],
-   "a": 1,
-   "t": "Idioms and Phrases",
-   "l": 2,
-   "s": "generated",
-   "e": "'Beat about the bush' means Talk without coming to the point."
+   "answer": 1,
+   "explanation": "'Beat about the bush' means Talk without coming to the point.",
+   "topic": "Idioms and Phrases",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0196",
-   "q": "Choose the one word substitute for: A cure for all diseases",
-   "o": [
+   "question": "Choose the one word substitute for: A cure for all diseases",
+   "options": [
     "Aristocracy",
     "Panacea",
     "Hangar",
     "Oligarchy"
    ],
-   "a": 1,
-   "t": "One Word Substitution",
-   "l": 2,
-   "s": "generated",
-   "e": "A cure for all diseases — Panacea."
+   "answer": 1,
+   "explanation": "A cure for all diseases — Panacea.",
+   "topic": "One Word Substitution",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0197",
-   "q": "Which of the following words is spelt correctly?",
-   "o": [
+   "question": "Which of the following words is spelt correctly?",
+   "options": [
     "Expedition",
     "Wednesday",
     "Omission",
     "Changeable"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 1,
-   "s": "generated",
-   "e": "The correct spelling is Expedition."
+   "answer": 0,
+   "explanation": "The correct spelling is Expedition.",
+   "topic": "Spellings",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0198",
-   "q": "Which of the following is the plural form of Bus?",
-   "o": [
+   "question": "Which of the following is the plural form of Bus?",
+   "options": [
     "Step-daughters",
     "Buses",
     "Women",
     "Feet"
    ],
-   "a": 1,
-   "t": "Plurals",
-   "l": 2,
-   "s": "generated",
-   "e": "The plural of Bus is Buses."
+   "answer": 1,
+   "explanation": "The plural of Bus is Buses.",
+   "topic": "Plurals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0199",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Husband - Tigress",
     "Husband - Mare",
     "Husband - Aunt",
     "Husband - Wife"
    ],
-   "a": 3,
-   "t": "Genders",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Husband - Wife is correctly matched."
+   "answer": 3,
+   "explanation": "Only Husband - Wife is correctly matched.",
+   "topic": "Genders",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0200",
-   "q": "Fill in the blank correctly: Short, ____, Shortest",
-   "o": [
+   "question": "Fill in the blank correctly: Short, ____, Shortest",
+   "options": [
     "Smaller",
     "Easier",
     "Shorter",
     "Less"
    ],
-   "a": 2,
-   "t": "Degrees of Comparison",
-   "l": 2,
-   "s": "generated",
-   "e": "The correct sequence is Short, Shorter, Shortest."
+   "answer": 2,
+   "explanation": "The correct sequence is Short, Shorter, Shortest.",
+   "topic": "Degrees of Comparison",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0201",
-   "q": "Which exercise is conducted between the Indian and US armies?",
-   "o": [
+   "question": "Which exercise is conducted between the Indian and US armies?",
+   "options": [
     "India Stack",
     "Cyclone Phailin",
     "Yudh Abhyas",
     "Digital India"
    ],
-   "a": 2,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 2,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0202",
-   "q": "Which scheme is described as: Collateral-free loans for micro enterprises?",
-   "o": [
+   "question": "Which scheme is described as: Collateral-free loans for micro enterprises?",
+   "options": [
     "Production Linked Incentive Scheme",
     "Kisan Credit Card",
     "Pradhan Mantri Mudra Yojana",
     "Digital India"
    ],
-   "a": 2,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Collateral-free loans for micro enterprises describes Pradhan Mantri Mudra Yojana."
+   "answer": 2,
+   "explanation": "Collateral-free loans for micro enterprises describes Pradhan Mantri Mudra Yojana.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0203",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "XPoSat - Technology driven urban development",
     "XPoSat - Free online courses platform",
     "XPoSat - Multi-wavelength space observatory",
     "XPoSat - X-ray polarimetry studies of black holes"
    ],
-   "a": 3,
-   "t": "Missions and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only XPoSat - X-ray polarimetry studies of black holes is correctly matched."
+   "answer": 3,
+   "explanation": "Only XPoSat - X-ray polarimetry studies of black holes is correctly matched.",
+   "topic": "Missions and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0204",
-   "q": "Which computer term is described as: L1, L2 and L3 are cache levels?",
-   "o": [
+   "question": "Which computer term is described as: L1, L2 and L3 are cache levels?",
+   "options": [
     "FTP",
     "Bandwidth",
     "Computer network",
     "Cache memory levels"
    ],
-   "a": 3,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "L1, L2 and L3 are cache levels describes Cache memory levels."
+   "answer": 3,
+   "explanation": "L1, L2 and L3 are cache levels describes Cache memory levels.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0205",
-   "q": "What is the full form of NCLT?",
-   "o": [
+   "question": "What is the full form of NCLT?",
+   "options": [
     "National Company Law Tribunal",
     "Geosynchronous Satellite Launch Vehicle",
     "Organization of the Petroleum Exporting Countries",
     "Sports Authority of India"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "NCLT stands for National Company Law Tribunal."
+   "answer": 0,
+   "explanation": "NCLT stands for National Company Law Tribunal.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0206",
-   "q": "What is the capital of Uruguay?",
-   "o": [
+   "question": "What is the capital of Uruguay?",
+   "options": [
     "Pyongyang",
     "Mogadishu",
     "Montevideo",
     "Madrid"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Uruguay is Montevideo."
+   "answer": 2,
+   "explanation": "The capital of Uruguay is Montevideo.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0207",
-   "q": "What is the chemical symbol of Moscovium?",
-   "o": [
+   "question": "What is the chemical symbol of Moscovium?",
+   "options": [
     "Tb",
     "Mc",
     "Ce",
     "Ni"
    ],
-   "a": 1,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "The symbol of Moscovium is Mc."
+   "answer": 1,
+   "explanation": "The symbol of Moscovium is Mc.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0208",
-   "q": "Which of the following pairs of state and capital is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of state and capital is correctly matched?",
+   "options": [
     "Odisha - Bhubaneswar",
     "Odisha - Raipur",
     "Odisha - Aizawl",
     "Odisha - Ranchi"
    ],
-   "a": 0,
-   "t": "States and Capitals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Odisha - Bhubaneswar is correctly matched."
+   "answer": 0,
+   "explanation": "Only Odisha - Bhubaneswar is correctly matched.",
+   "topic": "States and Capitals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0209",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "First Chief Justice of India - Mihir Sen",
     "First Chief Justice of India - H. J. Kania",
     "First Chief Justice of India - Dr. S. Radhakrishnan",
     "First Chief Justice of India - Rakesh Sharma"
    ],
-   "a": 1,
-   "t": "First in India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only First Chief Justice of India - H. J. Kania is correctly matched."
+   "answer": 1,
+   "explanation": "Only First Chief Justice of India - H. J. Kania is correctly matched.",
+   "topic": "First in India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0210",
-   "q": "Which of the following pairs of dance and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of dance and state is correctly matched?",
+   "options": [
     "Lavani - Maharashtra",
     "Lavani - West Bengal",
     "Lavani - Odisha",
     "Lavani - Uttar Pradesh"
    ],
-   "a": 0,
-   "t": "Folk Dances of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Lavani - Maharashtra is correctly matched."
+   "answer": 0,
+   "explanation": "Only Lavani - Maharashtra is correctly matched.",
+   "topic": "Folk Dances of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0211",
-   "q": "Which of the following pairs of festival and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of festival and state is correctly matched?",
+   "options": [
     "Nuakhai - Odisha",
     "Nuakhai - Tamil Nadu",
     "Nuakhai - Ladakh",
     "Nuakhai - Arunachal Pradesh"
    ],
-   "a": 0,
-   "t": "Festivals of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Nuakhai - Odisha is correctly matched."
+   "answer": 0,
+   "explanation": "Only Nuakhai - Odisha is correctly matched.",
+   "topic": "Festivals of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0212",
-   "q": "Which of the following pairs of river and origin is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of river and origin is correctly matched?",
+   "options": [
     "Chenab - Bhimashankar",
     "Chenab - Baralacha La",
     "Chenab - Angsi Glacier",
     "Chenab - Amarkantak"
    ],
-   "a": 1,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Chenab - Baralacha La is correctly matched."
+   "answer": 1,
+   "explanation": "Only Chenab - Baralacha La is correctly matched.",
+   "topic": "Rivers of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0213",
-   "q": "Which of the following national parks or tiger reserves is in Karnataka?",
-   "o": [
+   "question": "Which of the following national parks or tiger reserves is in Karnataka?",
+   "options": [
     "Gir National Park",
     "Bandipur Tiger Reserve",
     "Kuno National Park",
     "Valmiki Tiger Reserve"
    ],
-   "a": 1,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Bandipur Tiger Reserve is in Karnataka."
+   "answer": 1,
+   "explanation": "Bandipur Tiger Reserve is in Karnataka.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0214",
-   "q": "Which of the following pairs of pass and state is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of pass and state is NOT correctly matched?",
+   "options": [
     "Lipulekh Pass - Uttarakhand",
     "Banihal Pass - Rajasthan",
     "Pangsau Pass - Arunachal Pradesh",
     "Shencottah Gap - Tamil Nadu"
    ],
-   "a": 1,
-   "t": "Mountain Passes of India",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Banihal Pass - Rajasthan is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Banihal Pass - Rajasthan is not correctly matched.",
+   "topic": "Mountain Passes of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0215",
-   "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is correctly matched?",
+   "options": [
     "Electric potential - Pascal second",
     "Electric potential - Volt",
     "Electric potential - Second",
     "Electric potential - Newton"
    ],
-   "a": 1,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Electric potential - Volt is correctly matched."
+   "answer": 1,
+   "explanation": "Only Electric potential - Volt is correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0216",
-   "q": "Which of the following pairs of instrument and use is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of instrument and use is correctly matched?",
+   "options": [
     "Telescope - Small electric currents",
     "Telescope - Viscosity of liquids",
     "Telescope - Distant objects",
     "Telescope - Water absorption by plants"
    ],
-   "a": 2,
-   "t": "Scientific Instruments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Telescope - Distant objects is correctly matched."
+   "answer": 2,
+   "explanation": "Only Telescope - Distant objects is correctly matched.",
+   "topic": "Scientific Instruments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0217",
-   "q": "Which of the following pairs of body part and function is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of body part and function is correctly matched?",
+   "options": [
     "Insulin - Taste and speech",
     "Insulin - Secretion of thyroxine",
     "Insulin - Controls blood sugar",
     "Insulin - Absorption of water"
    ],
-   "a": 2,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Insulin - Controls blood sugar is correctly matched."
+   "answer": 2,
+   "explanation": "Only Insulin - Controls blood sugar is correctly matched.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0218",
-   "q": "Which of the following pairs of nutrient and deficiency disease is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of nutrient and deficiency disease is NOT correctly matched?",
+   "options": [
     "Vitamin K and Protein - Delayed blood clotting",
     "Phosphorus - Xerophthalmia",
     "Magnesium - Tetany",
     "Vitamin B9 - Megaloblastic anaemia"
    ],
-   "a": 1,
-   "t": "Vitamins and Deficiencies",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Phosphorus - Xerophthalmia is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Phosphorus - Xerophthalmia is not correctly matched.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0219",
-   "q": "Which of the following pairs of disease and causative agent is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of disease and causative agent is correctly matched?",
+   "options": [
     "Meningitis - Variola virus",
     "Meningitis - Yersinia pestis bacteria",
     "Meningitis - Neisseria meningitidis bacteria",
     "Meningitis - Clostridium tetani bacteria"
    ],
-   "a": 2,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Meningitis - Neisseria meningitidis bacteria is correctly matched."
+   "answer": 2,
+   "explanation": "Only Meningitis - Neisseria meningitidis bacteria is correctly matched.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0220",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Steam engine - Joseph Lister",
     "Steam engine - Johannes Gutenberg",
     "Steam engine - Tim Berners-Lee",
     "Steam engine - James Watt"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Steam engine - James Watt is correctly matched."
+   "answer": 3,
+   "explanation": "Only Steam engine - James Watt is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0221",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Blue vitriol - Calcium carbonate (CaCO3)",
     "Blue vitriol - Sulphuric acid (H2SO4)",
     "Blue vitriol - Copper sulphate (CuSO4.5H2O)",
     "Blue vitriol - Trinitrotoluene"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Blue vitriol - Copper sulphate (CuSO4.5H2O) is correctly matched."
+   "answer": 2,
+   "explanation": "Only Blue vitriol - Copper sulphate (CuSO4.5H2O) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0222",
-   "q": "Which of the following pairs of branch and subject is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of branch and subject is correctly matched?",
+   "options": [
     "Anatomy - Heat and energy transfer",
     "Anatomy - Birds",
     "Anatomy - Heart",
     "Anatomy - Structure of the body"
    ],
-   "a": 3,
-   "t": "Branches of Science",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Anatomy - Structure of the body is correctly matched."
+   "answer": 3,
+   "explanation": "Only Anatomy - Structure of the body is correctly matched.",
+   "topic": "Branches of Science",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0223",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Mars - Comet visible from Earth every ~76 years",
     "Mars - Farthest planet from the Sun",
     "Mars - Largest object in the asteroid belt",
     "Mars - Red Planet"
    ],
-   "a": 3,
-   "t": "Astronomy",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Mars - Red Planet is correctly matched."
+   "answer": 3,
+   "explanation": "Only Mars - Red Planet is correctly matched.",
+   "topic": "Astronomy",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0224",
-   "q": "Which of the following pairs of scientist and contribution is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of scientist and contribution is correctly matched?",
+   "options": [
     "Charles Darwin - Ionisation theory of stars",
     "Charles Darwin - Molecular theory and Avogadro's law",
     "Charles Darwin - Wireless telegraphy",
     "Charles Darwin - Theory of evolution"
    ],
-   "a": 3,
-   "t": "Scientists",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Charles Darwin - Theory of evolution is correctly matched."
+   "answer": 3,
+   "explanation": "Only Charles Darwin - Theory of evolution is correctly matched.",
+   "topic": "Scientists",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0225",
-   "q": "In which decade did the following event take place: Bhopal gas tragedy?",
-   "o": [
+   "question": "In which decade did the following event take place: Bhopal gas tragedy?",
+   "options": [
     "1980s",
     "1940s",
     "1970s",
     "2000s"
    ],
-   "a": 0,
-   "t": "Indian History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Bhopal gas tragedy took place in the 1984s."
+   "answer": 0,
+   "explanation": "Bhopal gas tragedy took place in the 1984s.",
+   "topic": "Indian History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0226",
-   "q": "Which of the following events took place in 1953?",
-   "o": [
+   "question": "Which of the following events took place in 1953?",
+   "options": [
     "First ascent of Mount Everest",
     "September 11 attacks in the United States",
     "Founding of the League of Nations",
     "Signing of the Magna Carta"
    ],
-   "a": 0,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "First ascent of Mount Everest took place in 1953."
+   "answer": 0,
+   "explanation": "First ascent of Mount Everest took place in 1953.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0227",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Baji Rao I - Founder of Sikhism",
     "Baji Rao I - Greatest of the Peshwas",
     "Baji Rao I - Known as the Napoleon of India",
     "Baji Rao I - Famous Vijayanagara ruler and author of Amuktamalyada"
    ],
-   "a": 1,
-   "t": "Rulers",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Baji Rao I - Greatest of the Peshwas is correctly matched."
+   "answer": 1,
+   "explanation": "Only Baji Rao I - Greatest of the Peshwas is correctly matched.",
+   "topic": "Rulers",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0228",
-   "q": "Which of the following pairs of person and title is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of person and title is correctly matched?",
+   "options": [
     "Mangal Pandey - Leader of the Revolt in Awadh",
     "Mangal Pandey - First Education Minister of India",
     "Mangal Pandey - Soldier who sparked the Revolt of 1857",
     "Mangal Pandey - General of the Revolt of 1857"
    ],
-   "a": 2,
-   "t": "Freedom Fighters",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Mangal Pandey - Soldier who sparked the Revolt of 1857 is correctly matched."
+   "answer": 2,
+   "explanation": "Only Mangal Pandey - Soldier who sparked the Revolt of 1857 is correctly matched.",
+   "topic": "Freedom Fighters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0229",
-   "q": "Which of the following pairs of provision and article is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of provision and article is correctly matched?",
+   "options": [
     "Fundamental Duties - Article 93",
     "Fundamental Duties - Articles 29-30",
     "Fundamental Duties - Article 124",
     "Fundamental Duties - Part IVA, Article 51A"
    ],
-   "a": 3,
-   "t": "Constitution Articles",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Fundamental Duties - Part IVA, Article 51A is correctly matched."
+   "answer": 3,
+   "explanation": "Only Fundamental Duties - Part IVA, Article 51A is correctly matched.",
+   "topic": "Constitution Articles",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0230",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "The Public Accounts Committee is a body of - Parliament",
     "The Public Accounts Committee is a body of - 12",
     "The Public Accounts Committee is a body of - 9 December 1946",
     "The Public Accounts Committee is a body of - 6 months"
    ],
-   "a": 0,
-   "t": "Constitution Facts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only The Public Accounts Committee is a body of - Parliament is correctly matched."
+   "answer": 0,
+   "explanation": "Only The Public Accounts Committee is a body of - Parliament is correctly matched.",
+   "topic": "Constitution Facts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0231",
-   "q": "Which of the following pairs of institution and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of institution and description is correctly matched?",
+   "options": [
     "Attorney General of India - Regulator of the securities market",
     "Attorney General of India - Chief legal adviser to the Government of India",
     "Attorney General of India - Head of the Union Government",
     "Attorney General of India - Audits government accounts"
    ],
-   "a": 1,
-   "t": "Institutions of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Attorney General of India - Chief legal adviser to the Government of India is correctly matched."
+   "answer": 1,
+   "explanation": "Only Attorney General of India - Chief legal adviser to the Government of India is correctly matched.",
+   "topic": "Institutions of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0232",
-   "q": "Which of the following days is observed on 26 January?",
-   "o": [
+   "question": "Which of the following days is observed on 26 January?",
+   "options": [
     "Republic Day (India)",
     "World Refugee Day",
     "International Day of Democracy",
     "International Tea Day"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "26 January is observed as Republic Day (India)."
+   "answer": 0,
+   "explanation": "26 January is observed as Republic Day (India).",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0233",
-   "q": "Which of the following pairs of organisation and headquarters is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of organisation and headquarters is correctly matched?",
+   "options": [
     "World Health Organization - Brussels",
     "World Health Organization - Geneva",
     "World Health Organization - Beijing",
     "World Health Organization - Lausanne"
    ],
-   "a": 1,
-   "t": "Organisations and Headquarters",
-   "l": 3,
-   "s": "generated",
-   "e": "Only World Health Organization - Geneva is correctly matched."
+   "answer": 1,
+   "explanation": "Only World Health Organization - Geneva is correctly matched.",
+   "topic": "Organisations and Headquarters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0234",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "Champions Trophy (Cricket) - Hockey",
     "Champions Trophy (Cricket) - Cricket",
     "Champions Trophy (Cricket) - Golf",
     "Champions Trophy (Cricket) - Badminton"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Champions Trophy (Cricket) - Cricket is correctly matched."
+   "answer": 1,
+   "explanation": "Only Champions Trophy (Cricket) - Cricket is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0235",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Vir Chakra - UNESCO award for popularisation of science",
     "Vir Chakra - Indian award in science and technology",
     "Vir Chakra - Third highest military decoration of India",
     "Vir Chakra - Lifetime achievement in Indian sports"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Vir Chakra - Third highest military decoration of India is correctly matched."
+   "answer": 2,
+   "explanation": "Only Vir Chakra - Third highest military decoration of India is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0236",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Gulliver's Travels - Leo Tolstoy",
     "Gulliver's Travels - Maulana Abul Kalam Azad",
     "Gulliver's Travels - Jonathan Swift",
     "Gulliver's Travels - Rabindranath Tagore"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Gulliver's Travels - Jonathan Swift is correctly matched."
+   "answer": 2,
+   "explanation": "Only Gulliver's Travels - Jonathan Swift is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0237",
-   "q": "Which of the following pairs of achievement and person is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of achievement and person is NOT correctly matched?",
+   "options": [
     "First modern Olympic Games were held in - Athens",
     "First Indian woman to win an Olympic medal - Edmund Hillary",
     "First person to reach the South Pole - Roald Amundsen",
     "First woman to win an Olympic gold in wrestling for India - Karnam Malleswari"
    ],
-   "a": 1,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair First Indian woman to win an Olympic medal - Edmund Hillary is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair First Indian woman to win an Olympic medal - Edmund Hillary is not correctly matched.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0238",
-   "q": "Which country shares the longest border with India?",
-   "o": [
+   "question": "Which country shares the longest border with India?",
+   "options": [
     "Uttar Pradesh",
     "China",
     "Bangladesh",
     "Lake Baikal"
    ],
-   "a": 2,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 2,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0239",
-   "q": "Which of the following pairs of question and answer is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of question and answer is correctly matched?",
+   "options": [
     "Which layer of the Earth is responsible for its magnetic field - Outer core",
     "Which layer of the Earth is responsible for its magnetic field - October to November",
     "Which layer of the Earth is responsible for its magnetic field - Mars",
     "Which layer of the Earth is responsible for its magnetic field - Mawsynram"
    ],
-   "a": 0,
-   "t": "Climate and Atmosphere",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Which layer of the Earth is responsible for its magnetic field - Outer core is correctly matched."
+   "answer": 0,
+   "explanation": "Only Which layer of the Earth is responsible for its magnetic field - Outer core is correctly matched.",
+   "topic": "Climate and Atmosphere",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0240",
-   "q": "Which Five Year Plan is known as the Gadgil Yojana?",
-   "o": [
+   "question": "Which Five Year Plan is known as the Gadgil Yojana?",
+   "options": [
     "Third Five Year Plan",
     "1955",
     "Silver Revolution",
     "Manila"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0241",
-   "q": "Choose the word most similar in meaning to Comprehend.",
-   "o": [
+   "question": "Choose the word most similar in meaning to Comprehend.",
+   "options": [
     "Understand",
     "Frank",
     "Meticulous",
     "Contempt"
    ],
-   "a": 0,
-   "t": "Synonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "Comprehend means Understand."
+   "answer": 0,
+   "explanation": "Comprehend means Understand.",
+   "topic": "Synonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0242",
-   "q": "Choose the word most opposite in meaning to Inevitable.",
-   "o": [
+   "question": "Choose the word most opposite in meaning to Inevitable.",
+   "options": [
     "Condemn",
     "Stable",
     "Confusing",
     "Avoidable"
    ],
-   "a": 3,
-   "t": "Antonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "The opposite of Inevitable is Avoidable."
+   "answer": 3,
+   "explanation": "The opposite of Inevitable is Avoidable.",
+   "topic": "Antonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0243",
-   "q": "What is the meaning of the idiom 'To make a mountain of a molehill'?",
-   "o": [
+   "question": "What is the meaning of the idiom 'To make a mountain of a molehill'?",
+   "options": [
     "Manage within one's income",
     "Something that seems bad but turns out to be good",
     "Act in defiance of",
     "To exaggerate a small matter"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 2,
-   "s": "generated",
-   "e": "'To make a mountain of a molehill' means To exaggerate a small matter."
+   "answer": 3,
+   "explanation": "'To make a mountain of a molehill' means To exaggerate a small matter.",
+   "topic": "Idioms and Phrases",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0244",
-   "q": "Choose the one word substitute for: A disease that spreads worldwide",
-   "o": [
+   "question": "Choose the one word substitute for: A disease that spreads worldwide",
+   "options": [
     "Vegetarian",
     "Pandemic",
     "Monologue",
     "Biennials"
    ],
-   "a": 1,
-   "t": "One Word Substitution",
-   "l": 2,
-   "s": "generated",
-   "e": "A disease that spreads worldwide — Pandemic."
+   "answer": 1,
+   "explanation": "A disease that spreads worldwide — Pandemic.",
+   "topic": "One Word Substitution",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0245",
-   "q": "Which of the following words is spelt correctly?",
-   "o": [
+   "question": "Which of the following words is spelt correctly?",
+   "options": [
     "Jealous",
     "Acknowledgment",
     "Bicycle",
     "Sincerely"
    ],
-   "a": 2,
-   "t": "Spellings",
-   "l": 1,
-   "s": "generated",
-   "e": "The correct spelling is Bicycle."
+   "answer": 2,
+   "explanation": "The correct spelling is Bicycle.",
+   "topic": "Spellings",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0246",
-   "q": "Which of the following is the plural form of Child?",
-   "o": [
+   "question": "Which of the following is the plural form of Child?",
+   "options": [
     "Analyses",
     "Halves",
     "Children",
     "Shelves"
    ],
-   "a": 2,
-   "t": "Plurals",
-   "l": 2,
-   "s": "generated",
-   "e": "The plural of Child is Children."
+   "answer": 2,
+   "explanation": "The plural of Child is Children.",
+   "topic": "Plurals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0247",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Nephew - Spinster",
     "Nephew - Niece",
     "Nephew - Witch",
     "Nephew - Vixen"
    ],
-   "a": 1,
-   "t": "Genders",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Nephew - Niece is correctly matched."
+   "answer": 1,
+   "explanation": "Only Nephew - Niece is correctly matched.",
+   "topic": "Genders",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0248",
-   "q": "Fill in the blank correctly: Brave, ____, Bravest",
-   "o": [
+   "question": "Fill in the blank correctly: Brave, ____, Bravest",
+   "options": [
     "Happier",
     "More important",
     "More intelligent",
     "Braver"
    ],
-   "a": 3,
-   "t": "Degrees of Comparison",
-   "l": 2,
-   "s": "generated",
-   "e": "The correct sequence is Brave, Braver, Bravest."
+   "answer": 3,
+   "explanation": "The correct sequence is Brave, Braver, Bravest.",
+   "topic": "Degrees of Comparison",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0249",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "He was accused ____ theft. - of",
     "He was accused ____ theft. - with",
     "He was accused ____ theft. - in",
     "He was accused ____ theft. - to"
    ],
-   "a": 0,
-   "t": "Prepositions",
-   "l": 3,
-   "s": "generated",
-   "e": "Only He was accused ____ theft. - of is correctly matched."
+   "answer": 0,
+   "explanation": "Only He was accused ____ theft. - of is correctly matched.",
+   "topic": "Prepositions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0250",
-   "q": "Which platform provides e-governance services in India?",
-   "o": [
+   "question": "Which platform provides e-governance services in India?",
+   "options": [
     "DigiLocker",
     "Beti Bachao Beti Padhao",
     "2015",
     "Aryabhatta Research Institute of Observational Sciences telescope"
    ],
-   "a": 0,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 0,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0251",
-   "q": "Which scheme is described as: Conservation and development of indigenous cattle?",
-   "o": [
+   "question": "Which scheme is described as: Conservation and development of indigenous cattle?",
+   "options": [
     "Rashtriya Gokul Mission",
     "National Education Policy 2020",
     "Mission Shakti",
     "Smart Cities Mission"
    ],
-   "a": 0,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Conservation and development of indigenous cattle describes Rashtriya Gokul Mission."
+   "answer": 0,
+   "explanation": "Conservation and development of indigenous cattle describes Rashtriya Gokul Mission.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0252",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Gaganyaan - Lifestyle for environment movement",
     "Gaganyaan - Human spaceflight programme of India",
     "Gaganyaan - Conservation of tigers and their habitats",
     "Gaganyaan - Heritage city development and rejuvenation"
    ],
-   "a": 1,
-   "t": "Missions and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Gaganyaan - Human spaceflight programme of India is correctly matched."
+   "answer": 1,
+   "explanation": "Only Gaganyaan - Human spaceflight programme of India is correctly matched.",
+   "topic": "Missions and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0253",
-   "q": "Which computer term is described as: Security system that filters network traffic?",
-   "o": [
+   "question": "Which computer term is described as: Security system that filters network traffic?",
+   "options": [
     "Firewall",
     "Application software",
     "Encryption",
     "ASCII"
    ],
-   "a": 0,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Security system that filters network traffic describes Firewall."
+   "answer": 0,
+   "explanation": "Security system that filters network traffic describes Firewall.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0254",
-   "q": "What is the full form of GNP?",
-   "o": [
+   "question": "What is the full form of GNP?",
+   "options": [
     "Indian Premier League",
     "Unmanned Aerial Vehicle",
     "Gross National Product",
     "National Council of Educational Research and Training"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "GNP stands for Gross National Product."
+   "answer": 2,
+   "explanation": "GNP stands for Gross National Product.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0255",
-   "q": "What is the capital of Tanzania?",
-   "o": [
+   "question": "What is the capital of Tanzania?",
+   "options": [
     "Dodoma",
     "Vaduz",
     "Bandar Seri Begawan",
     "Pyongyang"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Tanzania is Dodoma."
+   "answer": 0,
+   "explanation": "The capital of Tanzania is Dodoma.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0256",
-   "q": "What is the chemical symbol of Nobelium?",
-   "o": [
+   "question": "What is the chemical symbol of Nobelium?",
+   "options": [
     "Cl",
     "F",
     "Nb",
     "No"
    ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "The symbol of Nobelium is No."
+   "answer": 3,
+   "explanation": "The symbol of Nobelium is No.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0257",
-   "q": "Which of the following pairs of state and capital is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of state and capital is correctly matched?",
+   "options": [
     "Odisha - Dehradun",
     "Odisha - Kohima",
     "Odisha - Ranchi",
     "Odisha - Bhubaneswar"
    ],
-   "a": 3,
-   "t": "States and Capitals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Odisha - Bhubaneswar is correctly matched."
+   "answer": 3,
+   "explanation": "Only Odisha - Bhubaneswar is correctly matched.",
+   "topic": "States and Capitals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0258",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "First Chief Justice of India - Bachendri Pal",
     "First Chief Justice of India - H. J. Kania",
     "First Chief Justice of India - Sushmita Sen",
     "First Chief Justice of India - Karnam Malleswari"
    ],
-   "a": 1,
-   "t": "First in India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only First Chief Justice of India - H. J. Kania is correctly matched."
+   "answer": 1,
+   "explanation": "Only First Chief Justice of India - H. J. Kania is correctly matched.",
+   "topic": "First in India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0259",
-   "q": "Which of the following pairs of dance and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of dance and state is correctly matched?",
+   "options": [
     "Lavani - Meghalaya",
     "Lavani - Uttar Pradesh",
     "Lavani - Kerala",
     "Lavani - Maharashtra"
    ],
-   "a": 3,
-   "t": "Folk Dances of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Lavani - Maharashtra is correctly matched."
+   "answer": 3,
+   "explanation": "Only Lavani - Maharashtra is correctly matched.",
+   "topic": "Folk Dances of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0260",
-   "q": "Which of the following pairs of festival and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of festival and state is correctly matched?",
+   "options": [
     "Nuakhai - Ladakh",
     "Nuakhai - Gujarat",
     "Nuakhai - Odisha",
     "Nuakhai - Madhya Pradesh"
    ],
-   "a": 2,
-   "t": "Festivals of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Nuakhai - Odisha is correctly matched."
+   "answer": 2,
+   "explanation": "Only Nuakhai - Odisha is correctly matched.",
+   "topic": "Festivals of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0261",
-   "q": "Which of the following pairs of river and origin is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of river and origin is correctly matched?",
+   "options": [
     "Chenab - Talakaveri",
     "Chenab - Baralacha La",
     "Chenab - Nepal Himalayas",
     "Chenab - Mapchachungo"
    ],
-   "a": 1,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Chenab - Baralacha La is correctly matched."
+   "answer": 1,
+   "explanation": "Only Chenab - Baralacha La is correctly matched.",
+   "topic": "Rivers of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0262",
-   "q": "Which of the following national parks or tiger reserves is in Uttar Pradesh?",
-   "o": [
+   "question": "Which of the following national parks or tiger reserves is in Uttar Pradesh?",
+   "options": [
     "Anshi National Park",
     "Dudhwa National Park",
     "Valmiki Tiger Reserve",
     "Kishtwar National Park"
    ],
-   "a": 1,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Dudhwa National Park is in Uttar Pradesh."
+   "answer": 1,
+   "explanation": "Dudhwa National Park is in Uttar Pradesh.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0263",
-   "q": "Which of the following pairs of pass and state is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of pass and state is NOT correctly matched?",
+   "options": [
     "Se La Pass - Tamil Nadu",
     "Mana Pass - Uttarakhand",
     "Thal Ghat - Maharashtra",
     "Zoji La - Ladakh"
    ],
-   "a": 0,
-   "t": "Mountain Passes of India",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Se La Pass - Tamil Nadu is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Se La Pass - Tamil Nadu is not correctly matched.",
+   "topic": "Mountain Passes of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0264",
-   "q": "Which of the following pairs of quantity and SI unit is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is correctly matched?",
+   "options": [
     "Electric potential - Pascal",
     "Electric potential - Volt",
     "Electric potential - Reciprocal metre",
     "Electric potential - Weber"
    ],
-   "a": 1,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Electric potential - Volt is correctly matched."
+   "answer": 1,
+   "explanation": "Only Electric potential - Volt is correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0265",
-   "q": "Which of the following pairs of instrument and use is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of instrument and use is correctly matched?",
+   "options": [
     "Telescope - Purity of milk",
     "Telescope - Blood pressure variations",
     "Telescope - Distant objects",
     "Telescope - High temperature"
    ],
-   "a": 2,
-   "t": "Scientific Instruments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Telescope - Distant objects is correctly matched."
+   "answer": 2,
+   "explanation": "Only Telescope - Distant objects is correctly matched.",
+   "topic": "Scientific Instruments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0266",
-   "q": "Which of the following pairs of body part and function is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of body part and function is correctly matched?",
+   "options": [
     "Insulin - Controls blood sugar",
     "Insulin - Production of eggs",
     "Insulin - Transport of oxygen",
     "Insulin - Body immunity"
    ],
-   "a": 0,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Insulin - Controls blood sugar is correctly matched."
+   "answer": 0,
+   "explanation": "Only Insulin - Controls blood sugar is correctly matched.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0267",
-   "q": "Which of the following pairs of nutrient and deficiency disease is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of nutrient and deficiency disease is NOT correctly matched?",
+   "options": [
     "Copper - Anaemia and bone disorders",
     "Vitamin C - Scurvy",
     "Vitamin D - Rickets",
     "Vitamin B5 - Tetany"
    ],
-   "a": 3,
-   "t": "Vitamins and Deficiencies",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Vitamin B5 - Tetany is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Vitamin B5 - Tetany is not correctly matched.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0268",
-   "q": "Which of the following pairs of disease and causative agent is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of disease and causative agent is correctly matched?",
+   "options": [
     "Meningitis - Neisseria meningitidis bacteria",
     "Meningitis - Treponema pallidum bacteria",
     "Meningitis - Wuchereria bancrofti",
     "Meningitis - Fungi"
    ],
-   "a": 0,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Meningitis - Neisseria meningitidis bacteria is correctly matched."
+   "answer": 0,
+   "explanation": "Only Meningitis - Neisseria meningitidis bacteria is correctly matched.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0269",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Steam engine - James Watt",
     "Steam engine - Karl Benz",
     "Steam engine - Wilhelm Roentgen",
     "Steam engine - William Harvey"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Steam engine - James Watt is correctly matched."
+   "answer": 0,
+   "explanation": "Only Steam engine - James Watt is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0270",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Blue vitriol - Sodium hydroxide (NaOH)",
     "Blue vitriol - Aqueous formaldehyde (HCHO)",
     "Blue vitriol - Copper sulphate (CuSO4.5H2O)",
     "Blue vitriol - Potassium aluminium sulphate"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Blue vitriol - Copper sulphate (CuSO4.5H2O) is correctly matched."
+   "answer": 2,
+   "explanation": "Only Blue vitriol - Copper sulphate (CuSO4.5H2O) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0271",
-   "q": "Which of the following pairs of branch and subject is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of branch and subject is correctly matched?",
+   "options": [
     "Anatomy - Structure of the body",
     "Anatomy - Viruses",
     "Anatomy - Chemical processes in living organisms",
     "Anatomy - Oceans"
    ],
-   "a": 0,
-   "t": "Branches of Science",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Anatomy - Structure of the body is correctly matched."
+   "answer": 0,
+   "explanation": "Only Anatomy - Structure of the body is correctly matched.",
+   "topic": "Branches of Science",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0272",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Mars - Red Planet",
     "Mars - Region with gravity so strong light cannot escape",
     "Mars - Lights caused by solar particles near poles",
     "Mars - Closest planet to the Sun"
    ],
-   "a": 0,
-   "t": "Astronomy",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Mars - Red Planet is correctly matched."
+   "answer": 0,
+   "explanation": "Only Mars - Red Planet is correctly matched.",
+   "topic": "Astronomy",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0273",
-   "q": "Which of the following pairs of scientist and contribution is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of scientist and contribution is correctly matched?",
+   "options": [
     "Charles Darwin - Theory of evolution",
     "Charles Darwin - Fahrenheit temperature scale",
     "Charles Darwin - Discovery of radium and polonium",
     "Charles Darwin - Periodic table of elements"
    ],
-   "a": 0,
-   "t": "Scientists",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Charles Darwin - Theory of evolution is correctly matched."
+   "answer": 0,
+   "explanation": "Only Charles Darwin - Theory of evolution is correctly matched.",
+   "topic": "Scientists",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0274",
-   "q": "In which decade did the following event take place: Chauri Chaura incident?",
-   "o": [
+   "question": "In which decade did the following event take place: Chauri Chaura incident?",
+   "options": [
     "2000s",
     "1900s",
     "1960s",
     "1920s"
    ],
-   "a": 3,
-   "t": "Indian History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Chauri Chaura incident took place in the 1922s."
+   "answer": 3,
+   "explanation": "Chauri Chaura incident took place in the 1922s.",
+   "topic": "Indian History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0275",
-   "q": "Which of the following events took place in 1973?",
-   "o": [
+   "question": "Which of the following events took place in 1973?",
+   "options": [
     "American Declaration of Independence",
     "Founding of the People's Republic of China",
     "Beginning of the Arab Spring",
     "Oil crisis"
    ],
-   "a": 3,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Oil crisis took place in 1973."
+   "answer": 3,
+   "explanation": "Oil crisis took place in 1973.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0276",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Baji Rao I - Known as Alamgir and ruled for nearly 50 years",
     "Baji Rao I - Greatest of the Peshwas",
     "Baji Rao I - Founder of Buddhism",
     "Baji Rao I - Rani of Jhansi in the Revolt of 1857"
    ],
-   "a": 1,
-   "t": "Rulers",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Baji Rao I - Greatest of the Peshwas is correctly matched."
+   "answer": 1,
+   "explanation": "Only Baji Rao I - Greatest of the Peshwas is correctly matched.",
+   "topic": "Rulers",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0277",
-   "q": "Which of the following pairs of person and title is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of person and title is correctly matched?",
+   "options": [
     "Mangal Pandey - Founder-member of the HSRA",
     "Mangal Pandey - Leader of the Revolt at Kanpur",
     "Mangal Pandey - Nightingale of India",
     "Mangal Pandey - Soldier who sparked the Revolt of 1857"
    ],
-   "a": 3,
-   "t": "Freedom Fighters",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Mangal Pandey - Soldier who sparked the Revolt of 1857 is correctly matched."
+   "answer": 3,
+   "explanation": "Only Mangal Pandey - Soldier who sparked the Revolt of 1857 is correctly matched.",
+   "topic": "Freedom Fighters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0278",
-   "q": "Which of the following pairs of provision and article is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of provision and article is correctly matched?",
+   "options": [
     "Fundamental Duties - Article 280",
     "Fundamental Duties - Article 124",
     "Fundamental Duties - Part IVA, Article 51A",
     "Fundamental Duties - Article 74"
    ],
-   "a": 2,
-   "t": "Constitution Articles",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Fundamental Duties - Part IVA, Article 51A is correctly matched."
+   "answer": 2,
+   "explanation": "Only Fundamental Duties - Part IVA, Article 51A is correctly matched.",
+   "topic": "Constitution Articles",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0279",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "The Public Accounts Committee is a body of - Cabinet Mission Plan",
     "The Public Accounts Committee is a body of - Parliament",
     "The Public Accounts Committee is a body of - Habeas Corpus",
     "The Public Accounts Committee is a body of - 6 months"
    ],
-   "a": 1,
-   "t": "Constitution Facts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only The Public Accounts Committee is a body of - Parliament is correctly matched."
+   "answer": 1,
+   "explanation": "Only The Public Accounts Committee is a body of - Parliament is correctly matched.",
+   "topic": "Constitution Facts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0280",
-   "q": "Which of the following pairs of institution and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of institution and description is correctly matched?",
+   "options": [
     "Attorney General of India - Policy think tank of the Government of India",
     "Attorney General of India - Chief legal adviser to the Government of India",
     "Attorney General of India - Regulator of telecommunications",
     "Attorney General of India - Head of the State Government"
    ],
-   "a": 1,
-   "t": "Institutions of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Attorney General of India - Chief legal adviser to the Government of India is correctly matched."
+   "answer": 1,
+   "explanation": "Only Attorney General of India - Chief legal adviser to the Government of India is correctly matched.",
+   "topic": "Institutions of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0281",
-   "q": "Which of the following days is observed on 15 September?",
-   "o": [
+   "question": "Which of the following days is observed on 15 September?",
+   "options": [
     "United Nations Day",
     "World Television Day",
     "Independence Day (USA)",
     "International Day of Democracy"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "15 September is observed as International Day of Democracy."
+   "answer": 3,
+   "explanation": "15 September is observed as International Day of Democracy.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0282",
-   "q": "Which of the following pairs of organisation and headquarters is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of organisation and headquarters is correctly matched?",
+   "options": [
     "World Health Organization - Jakarta",
     "World Health Organization - London",
     "World Health Organization - Geneva",
     "World Health Organization - Vienna"
    ],
-   "a": 2,
-   "t": "Organisations and Headquarters",
-   "l": 3,
-   "s": "generated",
-   "e": "Only World Health Organization - Geneva is correctly matched."
+   "answer": 2,
+   "explanation": "Only World Health Organization - Geneva is correctly matched.",
+   "topic": "Organisations and Headquarters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0283",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "Champions Trophy (Cricket) - Cricket",
     "Champions Trophy (Cricket) - Multi-sport",
     "Champions Trophy (Cricket) - Football",
     "Champions Trophy (Cricket) - Table Tennis"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Champions Trophy (Cricket) - Cricket is correctly matched."
+   "answer": 0,
+   "explanation": "Only Champions Trophy (Cricket) - Cricket is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0284",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Vir Chakra - Third highest military decoration of India",
     "Vir Chakra - Award for progress in spiritual matters",
     "Vir Chakra - Award for brave children in India",
     "Vir Chakra - Second highest civilian award of India"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Vir Chakra - Third highest military decoration of India is correctly matched."
+   "answer": 0,
+   "explanation": "Only Vir Chakra - Third highest military decoration of India is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0285",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Gulliver's Travels - Dante Alighieri",
     "Gulliver's Travels - Kalidasa",
     "Gulliver's Travels - Jonathan Swift",
     "Gulliver's Travels - Paramahansa Yogananda"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Gulliver's Travels - Jonathan Swift is correctly matched."
+   "answer": 2,
+   "explanation": "Only Gulliver's Travels - Jonathan Swift is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0286",
-   "q": "Which of the following pairs of achievement and person is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of achievement and person is NOT correctly matched?",
+   "options": [
     "First country to land a man on the Moon - United States of America",
     "First modern Olympic Games were held in - Roger Bannister",
     "First Secretary-General of the United Nations - Trygve Lie",
     "First country to send a human into space - Soviet Union"
    ],
-   "a": 1,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair First modern Olympic Games were held in - Roger Bannister is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair First modern Olympic Games were held in - Roger Bannister is not correctly matched.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0287",
-   "q": "Which sea lies to the west of India?",
-   "o": [
+   "question": "Which sea lies to the west of India?",
+   "options": [
     "Angel Falls",
     "Arabian Sea",
     "Nepal and Bhutan",
     "Arma Konda"
    ],
-   "a": 1,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 1,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0288",
-   "q": "Which of the following pairs of question and answer is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of question and answer is correctly matched?",
+   "options": [
     "Which layer of the Earth is responsible for its magnetic field - Outer core",
     "Which layer of the Earth is responsible for its magnetic field - Magma",
     "Which layer of the Earth is responsible for its magnetic field - Venus",
     "Which layer of the Earth is responsible for its magnetic field - Core"
    ],
-   "a": 0,
-   "t": "Climate and Atmosphere",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Which layer of the Earth is responsible for its magnetic field - Outer core is correctly matched."
+   "answer": 0,
+   "explanation": "Only Which layer of the Earth is responsible for its magnetic field - Outer core is correctly matched.",
+   "topic": "Climate and Atmosphere",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0289",
-   "q": "Which act governs fiscal discipline in India?",
-   "o": [
+   "question": "Which act governs fiscal discipline in India?",
+   "options": [
     "FRBM Act, 2003",
     "2011-12",
     "Six",
     "28 per cent"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0290",
-   "q": "Choose the word most similar in meaning to Penitent.",
-   "o": [
+   "question": "Choose the word most similar in meaning to Penitent.",
+   "options": [
     "Concise",
     "Indifference",
     "Remorseful",
     "Hide"
    ],
-   "a": 2,
-   "t": "Synonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "Penitent means Remorseful."
+   "answer": 2,
+   "explanation": "Penitent means Remorseful.",
+   "topic": "Synonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0291",
-   "q": "Choose the word most opposite in meaning to Plausible.",
-   "o": [
+   "question": "Choose the word most opposite in meaning to Plausible.",
+   "options": [
     "Respected",
     "Implausible",
     "Plentiful",
     "Alert"
    ],
-   "a": 1,
-   "t": "Antonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "The opposite of Plausible is Implausible."
+   "answer": 1,
+   "explanation": "The opposite of Plausible is Implausible.",
+   "topic": "Antonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0292",
-   "q": "What is the meaning of the idiom 'Stand by'?",
-   "o": [
+   "question": "What is the meaning of the idiom 'Stand by'?",
+   "options": [
     "A dangerous person pretending to be harmless",
     "Use every possible effort",
     "In close partnership",
     "Support"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 2,
-   "s": "generated",
-   "e": "'Stand by' means Support."
+   "answer": 3,
+   "explanation": "'Stand by' means Support.",
+   "topic": "Idioms and Phrases",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0293",
-   "q": "Choose the one word substitute for: One who lives alone and avoids company",
-   "o": [
+   "question": "Choose the one word substitute for: One who lives alone and avoids company",
+   "options": [
     "Sexagenarian",
     "Hermit",
     "Author",
     "Amphibians"
    ],
-   "a": 1,
-   "t": "One Word Substitution",
-   "l": 2,
-   "s": "generated",
-   "e": "One who lives alone and avoids company — Hermit."
+   "answer": 1,
+   "explanation": "One who lives alone and avoids company — Hermit.",
+   "topic": "One Word Substitution",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0294",
-   "q": "Which of the following words is spelt correctly?",
-   "o": [
+   "question": "Which of the following words is spelt correctly?",
+   "options": [
     "Vacuum",
     "Religious",
     "Jealous",
     "Amateur"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 1,
-   "s": "generated",
-   "e": "The correct spelling is Vacuum."
+   "answer": 0,
+   "explanation": "The correct spelling is Vacuum.",
+   "topic": "Spellings",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0295",
-   "q": "Which of the following is the plural form of Chief?",
-   "o": [
+   "question": "Which of the following is the plural form of Chief?",
+   "options": [
     "Chiefs",
     "Syllabi",
     "Alumni",
     "Children"
    ],
-   "a": 0,
-   "t": "Plurals",
-   "l": 2,
-   "s": "generated",
-   "e": "The plural of Chief is Chiefs."
+   "answer": 0,
+   "explanation": "The plural of Chief is Chiefs.",
+   "topic": "Plurals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0296",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Nephew - Wife",
     "Nephew - Lady",
     "Nephew - Niece",
     "Nephew - Hostess"
    ],
-   "a": 2,
-   "t": "Genders",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Nephew - Niece is correctly matched."
+   "answer": 2,
+   "explanation": "Only Nephew - Niece is correctly matched.",
+   "topic": "Genders",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0297",
-   "q": "Fill in the blank correctly: Fine, ____, Finest",
-   "o": [
+   "question": "Fill in the blank correctly: Fine, ____, Finest",
+   "options": [
     "More intelligent",
     "Shallower",
     "More difficult",
     "Finer"
    ],
-   "a": 3,
-   "t": "Degrees of Comparison",
-   "l": 2,
-   "s": "generated",
-   "e": "The correct sequence is Fine, Finer, Finest."
+   "answer": 3,
+   "explanation": "The correct sequence is Fine, Finer, Finest.",
+   "topic": "Degrees of Comparison",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0298",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "He was accused ____ theft. - with",
     "He was accused ____ theft. - of",
     "He was accused ____ theft. - at",
     "He was accused ____ theft. - on"
    ],
-   "a": 1,
-   "t": "Prepositions",
-   "l": 3,
-   "s": "generated",
-   "e": "Only He was accused ____ theft. - of is correctly matched."
+   "answer": 1,
+   "explanation": "Only He was accused ____ theft. - of is correctly matched.",
+   "topic": "Prepositions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0299",
-   "q": "Which Indian shooter won gold at the 2023 Asian Games?",
-   "o": [
+   "question": "Which Indian shooter won gold at the 2023 Asian Games?",
+   "options": [
     "INS Arihant",
     "2024",
     "Manu Bhaker",
     "International Solar Alliance"
    ],
-   "a": 2,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 2,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0300",
-   "q": "Which scheme is described as: All-weather roads for rural areas?",
-   "o": [
+   "question": "Which scheme is described as: All-weather roads for rural areas?",
+   "options": [
     "PM CARES Fund",
     "Pradhan Mantri Garib Kalyan Anna Yojana",
     "Pradhan Mantri Gram Sadak Yojana",
     "e-NAM"
    ],
-   "a": 2,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "All-weather roads for rural areas describes Pradhan Mantri Gram Sadak Yojana."
+   "answer": 2,
+   "explanation": "All-weather roads for rural areas describes Pradhan Mantri Gram Sadak Yojana.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0301",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Gaganyaan - X-ray polarimetry studies of black holes",
     "Gaganyaan - Regional navigation satellite",
     "Gaganyaan - Human spaceflight programme of India",
     "Gaganyaan - Eight national missions on climate"
    ],
-   "a": 2,
-   "t": "Missions and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Gaganyaan - Human spaceflight programme of India is correctly matched."
+   "answer": 2,
+   "explanation": "Only Gaganyaan - Human spaceflight programme of India is correctly matched.",
+   "topic": "Missions and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0302",
-   "q": "Which computer term is described as: Running several tasks at the same time?",
-   "o": [
+   "question": "Which computer term is described as: Running several tasks at the same time?",
+   "options": [
     "Malware",
     "Multitasking",
     "Monitor",
     "URL"
    ],
-   "a": 1,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Running several tasks at the same time describes Multitasking."
+   "answer": 1,
+   "explanation": "Running several tasks at the same time describes Multitasking.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0303",
-   "q": "What is the full form of MSF?",
-   "o": [
+   "question": "What is the full form of MSF?",
+   "options": [
     "Oral Rehydration Solution",
     "North Atlantic Treaty Organization",
     "Indian Council of Medical Research",
     "Medecins Sans Frontieres"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "MSF stands for Medecins Sans Frontieres."
+   "answer": 3,
+   "explanation": "MSF stands for Medecins Sans Frontieres.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0304",
-   "q": "What is the capital of Greece?",
-   "o": [
+   "question": "What is the capital of Greece?",
+   "options": [
     "Accra",
     "Budapest",
     "Brasilia",
     "Athens"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Greece is Athens."
+   "answer": 3,
+   "explanation": "The capital of Greece is Athens.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0305",
-   "q": "What is the chemical symbol of Praseodymium?",
-   "o": [
+   "question": "What is the chemical symbol of Praseodymium?",
+   "options": [
     "N",
     "Be",
     "Pr",
     "Rf"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "The symbol of Praseodymium is Pr."
+   "answer": 2,
+   "explanation": "The symbol of Praseodymium is Pr.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0306",
-   "q": "Which of the following pairs of state and capital is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of state and capital is correctly matched?",
+   "options": [
     "Tripura - Gandhinagar",
     "Tripura - Kolkata",
     "Tripura - Agartala",
     "Tripura - Bhubaneswar"
    ],
-   "a": 2,
-   "t": "States and Capitals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Tripura - Agartala is correctly matched."
+   "answer": 2,
+   "explanation": "Only Tripura - Agartala is correctly matched.",
+   "topic": "States and Capitals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0307",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "First woman Chief Minister in India - Sucheta Kripalani",
     "First woman to travel to space from India - Mahesh Bhupathi",
     "First Indian to win the Miss World title - Reita Faria",
     "First Indian satellite launched - Aryabhata"
    ],
-   "a": 1,
-   "t": "First in India",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair First woman to travel to space from India - Mahesh Bhupathi is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair First woman to travel to space from India - Mahesh Bhupathi is not correctly matched.",
+   "topic": "First in India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0308",
-   "q": "Which of the following pairs of dance and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of dance and state is correctly matched?",
+   "options": [
     "Pulikali - Andhra Pradesh",
     "Pulikali - Rajasthan",
     "Pulikali - Kerala",
     "Pulikali - Haryana"
    ],
-   "a": 2,
-   "t": "Folk Dances of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Pulikali - Kerala is correctly matched."
+   "answer": 2,
+   "explanation": "Only Pulikali - Kerala is correctly matched.",
+   "topic": "Folk Dances of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0309",
-   "q": "Which of the following pairs of festival and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of festival and state is correctly matched?",
+   "options": [
     "Gudi Padwa - Arunachal Pradesh",
     "Gudi Padwa - Punjab",
     "Gudi Padwa - Maharashtra",
     "Gudi Padwa - Assam"
    ],
-   "a": 2,
-   "t": "Festivals of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Gudi Padwa - Maharashtra is correctly matched."
+   "answer": 2,
+   "explanation": "Only Gudi Padwa - Maharashtra is correctly matched.",
+   "topic": "Festivals of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0310",
-   "q": "Which of the following pairs of river and origin is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of river and origin is NOT correctly matched?",
+   "options": [
     "Chambal - Janapav Hill",
     "Tapti - Chota Nagpur Plateau",
     "Tungabhadra - Kudali",
     "Alaknanda - Satopanth Glacier"
    ],
-   "a": 1,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Tapti - Chota Nagpur Plateau is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Tapti - Chota Nagpur Plateau is not correctly matched.",
+   "topic": "Rivers of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0311",
-   "q": "Which of the following national parks or tiger reserves is in Chhattisgarh?",
-   "o": [
+   "question": "Which of the following national parks or tiger reserves is in Chhattisgarh?",
+   "options": [
     "Sanjay Gandhi National Park",
     "Guru Ghasidas National Park",
     "Guru Ghasidas-Tamor Pingla Tiger Reserve",
     "Periyar National Park"
    ],
-   "a": 2,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Guru Ghasidas-Tamor Pingla Tiger Reserve is in Chhattisgarh."
+   "answer": 2,
+   "explanation": "Guru Ghasidas-Tamor Pingla Tiger Reserve is in Chhattisgarh.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0312",
-   "q": "Which of the following pairs of quantity and SI unit is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is NOT correctly matched?",
+   "options": [
     "Inductance - Henry",
     "Energy - Farad",
     "Entropy - Joule per Kelvin",
     "Luminous flux - Lumen"
    ],
-   "a": 1,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Energy - Farad is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Energy - Farad is not correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0313",
-   "q": "Which of the following pairs of instrument and use is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of instrument and use is correctly matched?",
+   "options": [
     "Galvanometer - Earthquakes",
     "Galvanometer - Heat change in reactions",
     "Galvanometer - Small electric currents",
     "Galvanometer - Blood pressure variations"
    ],
-   "a": 2,
-   "t": "Scientific Instruments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Galvanometer - Small electric currents is correctly matched."
+   "answer": 2,
+   "explanation": "Only Galvanometer - Small electric currents is correctly matched.",
+   "topic": "Scientific Instruments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0314",
-   "q": "Which of the following pairs of body part and function is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of body part and function is correctly matched?",
+   "options": [
     "Kidneys - Digestion of food",
     "Kidneys - Filtration of blood and urine formation",
     "Kidneys - Absorption of digested food",
     "Kidneys - Basic filtering units of the kidney"
    ],
-   "a": 1,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Kidneys - Filtration of blood and urine formation is correctly matched."
+   "answer": 1,
+   "explanation": "Only Kidneys - Filtration of blood and urine formation is correctly matched.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0315",
-   "q": "Which of the following pairs of nutrient and deficiency disease is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of nutrient and deficiency disease is NOT correctly matched?",
+   "options": [
     "Vitamin B1 - Beri Beri",
     "Vitamin B3 - Pellagra",
     "Iodine - Goitre",
     "Vitamin D - Delayed blood clotting"
    ],
-   "a": 3,
-   "t": "Vitamins and Deficiencies",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Vitamin D - Delayed blood clotting is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Vitamin D - Delayed blood clotting is not correctly matched.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0316",
-   "q": "Which of the following pairs of disease and causative agent is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of disease and causative agent is correctly matched?",
+   "options": [
     "Typhoid - Mycobacterium tuberculosis bacteria",
     "Typhoid - Salmonella typhi bacteria",
     "Typhoid - Mycobacterium leprae bacteria",
     "Typhoid - Hepatitis A virus"
    ],
-   "a": 1,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Typhoid - Salmonella typhi bacteria is correctly matched."
+   "answer": 1,
+   "explanation": "Only Typhoid - Salmonella typhi bacteria is correctly matched.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0317",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Polio vaccine - Jonas Salk",
     "Polio vaccine - Edward Jenner",
     "Polio vaccine - J. J. Thomson",
     "Polio vaccine - Gregor Mendel"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Polio vaccine - Jonas Salk is correctly matched."
+   "answer": 0,
+   "explanation": "Only Polio vaccine - Jonas Salk is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0318",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Marble - Calcium sulphate hemihydrate (CaSO4.1/2H2O)",
     "Marble - Acetylsalicylic acid",
     "Marble - Calcium carbonate (CaCO3)",
     "Marble - Aqueous formaldehyde (HCHO)"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Marble - Calcium carbonate (CaCO3) is correctly matched."
+   "answer": 2,
+   "explanation": "Only Marble - Calcium carbonate (CaCO3) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0319",
-   "q": "Which of the following pairs of branch and subject is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of branch and subject is correctly matched?",
+   "options": [
     "Genetics - Heredity and variation",
     "Genetics - Electricity and magnetism",
     "Genetics - Eyes",
     "Genetics - Earthquakes"
    ],
-   "a": 0,
-   "t": "Branches of Science",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Genetics - Heredity and variation is correctly matched."
+   "answer": 0,
+   "explanation": "Only Genetics - Heredity and variation is correctly matched.",
+   "topic": "Branches of Science",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0320",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Pluto - Dwarf planet formerly ninth planet",
     "Pluto - Only planet known to support life",
     "Pluto - Unit of astronomical distance",
     "Pluto - Cloud of gas and dust in space"
    ],
-   "a": 0,
-   "t": "Astronomy",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Pluto - Dwarf planet formerly ninth planet is correctly matched."
+   "answer": 0,
+   "explanation": "Only Pluto - Dwarf planet formerly ninth planet is correctly matched.",
+   "topic": "Astronomy",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0321",
-   "q": "Which of the following pairs of scientist and contribution is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of scientist and contribution is correctly matched?",
+   "options": [
     "Alexander Fleming - Discovery of penicillin",
     "Alexander Fleming - Indian space programme",
     "Alexander Fleming - Telephone",
     "Alexander Fleming - Father of modern chemistry"
    ],
-   "a": 0,
-   "t": "Scientists",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Alexander Fleming - Discovery of penicillin is correctly matched."
+   "answer": 0,
+   "explanation": "Only Alexander Fleming - Discovery of penicillin is correctly matched.",
+   "topic": "Scientists",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0322",
-   "q": "In which decade did the following event take place: India-Pakistan war and Tashkent Agreement?",
-   "o": [
+   "question": "In which decade did the following event take place: India-Pakistan war and Tashkent Agreement?",
+   "options": [
     "1940s",
     "1960s",
     "1930s",
     "1950s"
    ],
-   "a": 1,
-   "t": "Indian History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "India-Pakistan war and Tashkent Agreement took place in the 1965s."
+   "answer": 1,
+   "explanation": "India-Pakistan war and Tashkent Agreement took place in the 1965s.",
+   "topic": "Indian History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0323",
-   "q": "Which of the following events took place in 1918?",
-   "o": [
+   "question": "Which of the following events took place in 1918?",
+   "options": [
     "End of World War I",
     "Vasco da Gama reached India by sea",
     "Cuban Missile Crisis",
     "First ascent of Mount Everest"
    ],
-   "a": 0,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "End of World War I took place in 1918."
+   "answer": 0,
+   "explanation": "End of World War I took place in 1918.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0324",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Sher Shah Suri - Introduced the Grand Trunk Road and the Rupiya",
     "Akbar - Father of Tipu Sultan and ruler of Mysore",
     "Mahavira - Twenty-fourth Tirthankara of Jainism",
     "Firoz Shah Tughlaq - Built canals and founded Firozabad"
    ],
-   "a": 1,
-   "t": "Rulers",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Akbar - Father of Tipu Sultan and ruler of Mysore is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Akbar - Father of Tipu Sultan and ruler of Mysore is not correctly matched.",
+   "topic": "Rulers",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0325",
-   "q": "Which of the following pairs of person and title is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of person and title is NOT correctly matched?",
+   "options": [
     "Bhagat Singh - Founder-member of the HSRA",
     "Rani Lakshmibai - Queen who fought at Jhansi in 1857",
     "Sardar Vallabhbhai Patel - Iron Man of India",
     "Sukhdev - Grand Old Man of India"
    ],
-   "a": 3,
-   "t": "Freedom Fighters",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Sukhdev - Grand Old Man of India is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Sukhdev - Grand Old Man of India is not correctly matched.",
+   "topic": "Freedom Fighters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0326",
-   "q": "Which of the following pairs of provision and article is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of provision and article is correctly matched?",
+   "options": [
     "Right against Exploitation - Article 280",
     "Right against Exploitation - Articles 23-24",
     "Right against Exploitation - Article 214",
     "Right against Exploitation - Article 324"
    ],
-   "a": 1,
-   "t": "Constitution Articles",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Right against Exploitation - Articles 23-24 is correctly matched."
+   "answer": 1,
+   "explanation": "Only Right against Exploitation - Articles 23-24 is correctly matched.",
+   "topic": "Constitution Articles",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0327",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "The budget is laid before Parliament under - Article 112 (Annual Financial Statement)",
     "The budget is laid before Parliament under - A Sovereign Socialist Secular Democratic Republic",
     "The budget is laid before Parliament under - Habeas Corpus",
     "The budget is laid before Parliament under - 6"
    ],
-   "a": 0,
-   "t": "Constitution Facts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only The budget is laid before Parliament under - Article 112 (Annual Financial Statement) is correctly matched."
+   "answer": 0,
+   "explanation": "Only The budget is laid before Parliament under - Article 112 (Annual Financial Statement) is correctly matched.",
+   "topic": "Constitution Facts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0328",
-   "q": "Which of the following pairs of institution and description is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of institution and description is NOT correctly matched?",
+   "options": [
     "Panchayat - Local self-government at the village level",
     "Union Public Service Commission - Constitutional head of a State",
     "IRDAI - Regulator of the insurance sector",
     "Union Territories - Administered by the President through administrators"
    ],
-   "a": 1,
-   "t": "Institutions of India",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Union Public Service Commission - Constitutional head of a State is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Union Public Service Commission - Constitutional head of a State is not correctly matched.",
+   "topic": "Institutions of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0329",
-   "q": "Which of the following days is observed on 14 December?",
-   "o": [
+   "question": "Which of the following days is observed on 14 December?",
+   "options": [
     "International Mother Language Day",
     "United Nations Day for South-South Cooperation",
     "Kargil Vijay Diwas",
     "World Energy Conservation Day"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "14 December is observed as World Energy Conservation Day."
+   "answer": 3,
+   "explanation": "14 December is observed as World Energy Conservation Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0330",
-   "q": "Which of the following pairs of organisation and headquarters is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of organisation and headquarters is correctly matched?",
+   "options": [
     "International Cricket Council - Geneva",
     "International Cricket Council - The Hague",
     "International Cricket Council - Montreal",
     "International Cricket Council - Dubai"
    ],
-   "a": 3,
-   "t": "Organisations and Headquarters",
-   "l": 3,
-   "s": "generated",
-   "e": "Only International Cricket Council - Dubai is correctly matched."
+   "answer": 3,
+   "explanation": "Only International Cricket Council - Dubai is correctly matched.",
+   "topic": "Organisations and Headquarters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0331",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "Aga Khan Cup - Football",
     "Aga Khan Cup - Golf",
     "Aga Khan Cup - Hockey",
     "Aga Khan Cup - Tennis"
    ],
-   "a": 2,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Aga Khan Cup - Hockey is correctly matched."
+   "answer": 2,
+   "explanation": "Only Aga Khan Cup - Hockey is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0332",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Infosys Prize - Indian award for research",
     "Infosys Prize - Second highest civilian award of India",
     "Infosys Prize - Award for brave children in India",
     "Infosys Prize - Literary award for Indian languages"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Infosys Prize - Indian award for research is correctly matched."
+   "answer": 0,
+   "explanation": "Only Infosys Prize - Indian award for research is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0333",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "A Brief History of Time - Maulana Abul Kalam Azad",
     "A Brief History of Time - Stephen Hawking",
     "A Brief History of Time - Salman Rushdie",
     "A Brief History of Time - A. P. J. Abdul Kalam"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only A Brief History of Time - Stephen Hawking is correctly matched."
+   "answer": 1,
+   "explanation": "Only A Brief History of Time - Stephen Hawking is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0334",
-   "q": "Which of the following pairs of achievement and person is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of achievement and person is NOT correctly matched?",
+   "options": [
     "First person to reach the North Pole by surface - Wally Herbert",
     "First Cricket World Cup was held in - England",
     "First Indian to win a Nobel Prize - Rabindranath Tagore",
     "First Secretary-General of the United Nations - Rabindranath Tagore"
    ],
-   "a": 3,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair First Secretary-General of the United Nations - Rabindranath Tagore is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair First Secretary-General of the United Nations - Rabindranath Tagore is not correctly matched.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0335",
-   "q": "Which is the largest country with no coastline?",
-   "o": [
+   "question": "Which is the largest country with no coastline?",
+   "options": [
     "India",
     "Arunachal Pradesh",
     "Punjab",
     "Kazakhstan"
    ],
-   "a": 3,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 3,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0336",
-   "q": "Which of the following pairs of question and answer is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of question and answer is correctly matched?",
+   "options": [
     "Season of the retreating monsoon in India - October to November",
     "Season of the retreating monsoon in India - About 21 per cent",
     "Season of the retreating monsoon in India - Carbon dioxide",
     "Season of the retreating monsoon in India - Mawsynram"
    ],
-   "a": 0,
-   "t": "Climate and Atmosphere",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Season of the retreating monsoon in India - October to November is correctly matched."
+   "answer": 0,
+   "explanation": "Only Season of the retreating monsoon in India - October to November is correctly matched.",
+   "topic": "Climate and Atmosphere",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0337",
-   "q": "What is a tax that takes a larger share of income from the poor called?",
-   "o": [
+   "question": "What is a tax that takes a larger share of income from the poor called?",
+   "options": [
     "UNDP",
     "Regressive tax",
     "Opportunity cost",
     "NITI Aayog"
    ],
-   "a": 1,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 1,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0338",
-   "q": "Choose the word most similar in meaning to Haughty.",
-   "o": [
+   "question": "Choose the word most similar in meaning to Haughty.",
+   "options": [
     "Understand",
     "Arrogant",
     "Indifference",
     "Implied"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "Haughty means Arrogant."
+   "answer": 1,
+   "explanation": "Haughty means Arrogant.",
+   "topic": "Synonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0339",
-   "q": "Choose the word most opposite in meaning to Banal.",
-   "o": [
+   "question": "Choose the word most opposite in meaning to Banal.",
+   "options": [
     "Lax",
     "Original",
     "Condemn",
     "Permanent"
    ],
-   "a": 1,
-   "t": "Antonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "The opposite of Banal is Original."
+   "answer": 1,
+   "explanation": "The opposite of Banal is Original.",
+   "topic": "Antonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0340",
-   "q": "What is the meaning of the idiom 'Tall talk'?",
-   "o": [
+   "question": "What is the meaning of the idiom 'Tall talk'?",
+   "options": [
     "Permanently",
     "To reverse the proper order",
     "To suspect foul play",
     "Exaggerated speech"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 2,
-   "s": "generated",
-   "e": "'Tall talk' means Exaggerated speech."
+   "answer": 3,
+   "explanation": "'Tall talk' means Exaggerated speech.",
+   "topic": "Idioms and Phrases",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0341",
-   "q": "Choose the one word substitute for: A person who eats only plants and no animal products",
-   "o": [
+   "question": "Choose the one word substitute for: A person who eats only plants and no animal products",
+   "options": [
     "Incorrigible",
     "Autobiographer",
     "Dockyard",
     "Vegan"
    ],
-   "a": 3,
-   "t": "One Word Substitution",
-   "l": 2,
-   "s": "generated",
-   "e": "A person who eats only plants and no animal products — Vegan."
+   "answer": 3,
+   "explanation": "A person who eats only plants and no animal products — Vegan.",
+   "topic": "One Word Substitution",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0342",
-   "q": "Which of the following words is spelt correctly?",
-   "o": [
+   "question": "Which of the following words is spelt correctly?",
+   "options": [
     "Abundance",
     "Intelligence",
     "Literature",
     "Rhythm"
    ],
-   "a": 2,
-   "t": "Spellings",
-   "l": 1,
-   "s": "generated",
-   "e": "The correct spelling is Literature."
+   "answer": 2,
+   "explanation": "The correct spelling is Literature.",
+   "topic": "Spellings",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0343",
-   "q": "Which of the following is the plural form of Datum?",
-   "o": [
+   "question": "Which of the following is the plural form of Datum?",
+   "options": [
     "Media",
     "Knives",
     "Data",
     "Swine"
    ],
-   "a": 2,
-   "t": "Plurals",
-   "l": 2,
-   "s": "generated",
-   "e": "The plural of Datum is Data."
+   "answer": 2,
+   "explanation": "The plural of Datum is Data.",
+   "topic": "Plurals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0344",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Priest - Priestess",
     "Priest - Grandmother",
     "Priest - Waitress",
     "Priest - Baroness"
    ],
-   "a": 0,
-   "t": "Genders",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Priest - Priestess is correctly matched."
+   "answer": 0,
+   "explanation": "Only Priest - Priestess is correctly matched.",
+   "topic": "Genders",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0345",
-   "q": "Fill in the blank correctly: Poor, ____, Poorest",
-   "o": [
+   "question": "Fill in the blank correctly: Poor, ____, Poorest",
+   "options": [
     "More",
     "Poorer",
     "Taller",
     "Less"
    ],
-   "a": 1,
-   "t": "Degrees of Comparison",
-   "l": 2,
-   "s": "generated",
-   "e": "The correct sequence is Poor, Poorer, Poorest."
+   "answer": 1,
+   "explanation": "The correct sequence is Poor, Poorer, Poorest.",
+   "topic": "Degrees of Comparison",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0346",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "He is proud ____ his success. - for",
     "He is proud ____ his success. - to",
     "He is proud ____ his success. - with",
     "He is proud ____ his success. - of"
    ],
-   "a": 3,
-   "t": "Prepositions",
-   "l": 3,
-   "s": "generated",
-   "e": "Only He is proud ____ his success. - of is correctly matched."
+   "answer": 3,
+   "explanation": "Only He is proud ____ his success. - of is correctly matched.",
+   "topic": "Prepositions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0347",
-   "q": "Which Indian became the youngest world chess champion?",
-   "o": [
+   "question": "Which Indian became the youngest world chess champion?",
+   "options": [
     "D. Gukesh",
     "2014",
     "National Tobacco Control Programme",
     "Poshan Abhiyaan"
    ],
-   "a": 0,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 0,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0348",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Stand Up India - All-weather roads for rural areas",
     "Stand Up India - Loans to women and scheduled caste entrepreneurs",
     "Stand Up India - Health insurance cover of five lakh rupees per family",
     "Stand Up India - Self-reliance in edible oil production"
    ],
-   "a": 1,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Stand Up India - Loans to women and scheduled caste entrepreneurs is correctly matched."
+   "answer": 1,
+   "explanation": "Only Stand Up India - Loans to women and scheduled caste entrepreneurs is correctly matched.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0349",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Project Cheetah - Reintroduction of cheetahs in India",
     "Project Cheetah - Regional satellite navigation system",
     "Project Cheetah - Global cooperation on solar energy",
     "Project Cheetah - Communication and weather satellites"
    ],
-   "a": 0,
-   "t": "Missions and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Project Cheetah - Reintroduction of cheetahs in India is correctly matched."
+   "answer": 0,
+   "explanation": "Only Project Cheetah - Reintroduction of cheetahs in India is correctly matched.",
+   "topic": "Missions and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0350",
-   "q": "Which computer term is described as: Non-volatile memory that holds firmware?",
-   "o": [
+   "question": "Which computer term is described as: Non-volatile memory that holds firmware?",
+   "options": [
     "Motherboard",
     "Modem",
     "ROM",
     "Kernel"
    ],
-   "a": 2,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Non-volatile memory that holds firmware describes ROM."
+   "answer": 2,
+   "explanation": "Non-volatile memory that holds firmware describes ROM.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0351",
-   "q": "What is the full form of WPI?",
-   "o": [
+   "question": "What is the full form of WPI?",
+   "options": [
     "Wholesale Price Index",
     "National Payments Corporation of India",
     "National Investigation Agency",
     "Special Economic Zone"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "WPI stands for Wholesale Price Index."
+   "answer": 0,
+   "explanation": "WPI stands for Wholesale Price Index.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0352",
-   "q": "What is the capital of Madagascar?",
-   "o": [
+   "question": "What is the capital of Madagascar?",
+   "options": [
     "Georgetown",
     "Antananarivo",
     "Cairo",
     "Bishkek"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Madagascar is Antananarivo."
+   "answer": 1,
+   "explanation": "The capital of Madagascar is Antananarivo.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0353",
-   "q": "What is the chemical symbol of Aluminium?",
-   "o": [
+   "question": "What is the chemical symbol of Aluminium?",
+   "options": [
     "Ra",
     "Al",
     "O",
     "Nd"
    ],
-   "a": 1,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "The symbol of Aluminium is Al."
+   "answer": 1,
+   "explanation": "The symbol of Aluminium is Al.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0354",
-   "q": "Which of the following pairs of state and capital is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of state and capital is correctly matched?",
+   "options": [
     "Tripura - Gandhinagar",
     "Tripura - Panaji",
     "Tripura - Gangtok",
     "Tripura - Agartala"
    ],
-   "a": 3,
-   "t": "States and Capitals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Tripura - Agartala is correctly matched."
+   "answer": 3,
+   "explanation": "Only Tripura - Agartala is correctly matched.",
+   "topic": "States and Capitals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0355",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "First Indian to win the Miss Universe title - Sushmita Sen",
     "First Indian to receive the Bharat Ratna - C. Rajagopalachari",
     "First woman to travel to space from India - Kalpana Chawla",
     "First Governor-General of independent India - Rakesh Sharma"
    ],
-   "a": 3,
-   "t": "First in India",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair First Governor-General of independent India - Rakesh Sharma is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair First Governor-General of independent India - Rakesh Sharma is not correctly matched.",
+   "topic": "First in India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0356",
-   "q": "Which of the following pairs of dance and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of dance and state is correctly matched?",
+   "options": [
     "Pulikali - Assam",
     "Pulikali - Tamil Nadu",
     "Pulikali - Haryana",
     "Pulikali - Kerala"
    ],
-   "a": 3,
-   "t": "Folk Dances of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Pulikali - Kerala is correctly matched."
+   "answer": 3,
+   "explanation": "Only Pulikali - Kerala is correctly matched.",
+   "topic": "Folk Dances of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0357",
-   "q": "Which of the following pairs of festival and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of festival and state is correctly matched?",
+   "options": [
     "Gudi Padwa - Kerala",
     "Gudi Padwa - Maharashtra",
     "Gudi Padwa - Madhya Pradesh",
     "Gudi Padwa - West Bengal"
    ],
-   "a": 1,
-   "t": "Festivals of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Gudi Padwa - Maharashtra is correctly matched."
+   "answer": 1,
+   "explanation": "Only Gudi Padwa - Maharashtra is correctly matched.",
+   "topic": "Festivals of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0358",
-   "q": "Which of the following pairs of river and origin is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of river and origin is NOT correctly matched?",
+   "options": [
     "Kosi - Nepal Himalayas",
     "Son - Amarkantak",
     "Tapti - Multai",
     "Beas - Amarkantak"
    ],
-   "a": 3,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Beas - Amarkantak is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Beas - Amarkantak is not correctly matched.",
+   "topic": "Rivers of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0359",
-   "q": "Which of the following national parks or tiger reserves is in Maharashtra?",
-   "o": [
+   "question": "Which of the following national parks or tiger reserves is in Maharashtra?",
+   "options": [
     "Rajgir Wildlife Sanctuary",
     "Navegaon National Park",
     "Dholpur-Karauli Tiger Reserve",
     "Valmiki Tiger Reserve"
    ],
-   "a": 1,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Navegaon National Park is in Maharashtra."
+   "answer": 1,
+   "explanation": "Navegaon National Park is in Maharashtra.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0360",
-   "q": "Which of the following pairs of quantity and SI unit is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is NOT correctly matched?",
+   "options": [
     "Wave number - Reciprocal metre",
     "Magnetic flux density - Tesla",
     "Energy - Joule",
     "Frequency - Newton"
    ],
-   "a": 3,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Frequency - Newton is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Frequency - Newton is not correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0361",
-   "q": "Which of the following pairs of instrument and use is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of instrument and use is correctly matched?",
+   "options": [
     "Galvanometer - Small electric currents",
     "Galvanometer - Distance travelled",
     "Galvanometer - Blood pressure variations",
     "Galvanometer - Depth of the sea"
    ],
-   "a": 0,
-   "t": "Scientific Instruments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Galvanometer - Small electric currents is correctly matched."
+   "answer": 0,
+   "explanation": "Only Galvanometer - Small electric currents is correctly matched.",
+   "topic": "Scientific Instruments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0362",
-   "q": "Which of the following pairs of body part and function is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of body part and function is correctly matched?",
+   "options": [
     "Kidneys - Production of eggs",
     "Kidneys - Largest artery",
     "Kidneys - Transport of nutrients",
     "Kidneys - Filtration of blood and urine formation"
    ],
-   "a": 3,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Kidneys - Filtration of blood and urine formation is correctly matched."
+   "answer": 3,
+   "explanation": "Only Kidneys - Filtration of blood and urine formation is correctly matched.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0363",
-   "q": "Which of the following pairs of nutrient and deficiency disease is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of nutrient and deficiency disease is NOT correctly matched?",
+   "options": [
     "Vitamin B1 - Beri Beri",
     "Magnesium - Anaemia",
     "Vitamin K and Protein - Delayed blood clotting",
     "Copper - Anaemia and bone disorders"
    ],
-   "a": 1,
-   "t": "Vitamins and Deficiencies",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Magnesium - Anaemia is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Magnesium - Anaemia is not correctly matched.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0364",
-   "q": "Which of the following pairs of disease and causative agent is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of disease and causative agent is correctly matched?",
+   "options": [
     "Typhoid - Treponema pallidum bacteria",
     "Typhoid - Trypanosoma brucei",
     "Typhoid - Fungi",
     "Typhoid - Salmonella typhi bacteria"
    ],
-   "a": 3,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Typhoid - Salmonella typhi bacteria is correctly matched."
+   "answer": 3,
+   "explanation": "Only Typhoid - Salmonella typhi bacteria is correctly matched.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0365",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Polio vaccine - Jonas Salk",
     "Polio vaccine - Alexander Graham Bell",
     "Polio vaccine - Guglielmo Marconi",
     "Polio vaccine - Max Planck"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Polio vaccine - Jonas Salk is correctly matched."
+   "answer": 0,
+   "explanation": "Only Polio vaccine - Jonas Salk is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0366",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Marble - Calcium carbonate (CaCO3)",
     "Marble - Sodium bicarbonate and tartaric acid",
     "Marble - Aqueous formaldehyde (HCHO)",
     "Marble - Potassium nitrate (KNO3)"
    ],
-   "a": 0,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Marble - Calcium carbonate (CaCO3) is correctly matched."
+   "answer": 0,
+   "explanation": "Only Marble - Calcium carbonate (CaCO3) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0367",
-   "q": "Which of the following pairs of branch and subject is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of branch and subject is correctly matched?",
+   "options": [
     "Genetics - Heredity and variation",
     "Genetics - Composition and properties of substances",
     "Genetics - Animals",
     "Genetics - Radiant energy in medicine"
    ],
-   "a": 0,
-   "t": "Branches of Science",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Genetics - Heredity and variation is correctly matched."
+   "answer": 0,
+   "explanation": "Only Genetics - Heredity and variation is correctly matched.",
+   "topic": "Branches of Science",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0368",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Pluto - Coldest planetary atmosphere",
     "Pluto - Position from the Sun",
     "Pluto - Largest/smallest planet",
     "Pluto - Dwarf planet formerly ninth planet"
    ],
-   "a": 3,
-   "t": "Astronomy",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Pluto - Dwarf planet formerly ninth planet is correctly matched."
+   "answer": 3,
+   "explanation": "Only Pluto - Dwarf planet formerly ninth planet is correctly matched.",
+   "topic": "Astronomy",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0369",
-   "q": "Which of the following pairs of scientist and contribution is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of scientist and contribution is correctly matched?",
+   "options": [
     "Alexander Fleming - Discovery of penicillin",
     "Alexander Fleming - Theory of relativity",
     "Alexander Fleming - Laws of planetary motion",
     "Alexander Fleming - Synthesis of nucleic acids"
    ],
-   "a": 0,
-   "t": "Scientists",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Alexander Fleming - Discovery of penicillin is correctly matched."
+   "answer": 0,
+   "explanation": "Only Alexander Fleming - Discovery of penicillin is correctly matched.",
+   "topic": "Scientists",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0370",
-   "q": "In which decade did the following event take place: Shimla Agreement signed?",
-   "o": [
+   "question": "In which decade did the following event take place: Shimla Agreement signed?",
+   "options": [
     "1980s",
     "1970s",
     "2000s",
     "1990s"
    ],
-   "a": 1,
-   "t": "Indian History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Shimla Agreement signed took place in the 1972s."
+   "answer": 1,
+   "explanation": "Shimla Agreement signed took place in the 1972s.",
+   "topic": "Indian History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0371",
-   "q": "Which of the following events took place in 1919?",
-   "o": [
+   "question": "Which of the following events took place in 1919?",
+   "options": [
     "Assassination of John F. Kennedy",
     "American Declaration of Independence",
     "Treaty of Versailles signed",
     "Signing of the Magna Carta"
    ],
-   "a": 2,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Treaty of Versailles signed took place in 1919."
+   "answer": 2,
+   "explanation": "Treaty of Versailles signed took place in 1919.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0372",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Gautama Buddha - Founder of Buddhism",
     "Bahadur Shah Zafar - Famous Vijayanagara ruler and author of Amuktamalyada",
     "Shah Jahan - Built the Taj Mahal",
     "Akbar - Established Din-i-Ilahi and the Ibadat Khana"
    ],
-   "a": 1,
-   "t": "Rulers",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Bahadur Shah Zafar - Famous Vijayanagara ruler and author of Amuktamalyada is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Bahadur Shah Zafar - Famous Vijayanagara ruler and author of Amuktamalyada is not correctly matched.",
+   "topic": "Rulers",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0373",
-   "q": "Which of the following pairs of person and title is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of person and title is NOT correctly matched?",
+   "options": [
     "Rajguru - Revolutionary executed with Bhagat Singh",
     "Rash Behari Bose - Founder of the Indian Independence League in Japan",
     "C. Rajagopalachari - Last Governor-General of India",
     "Bankim Chandra Chatterjee - Revolutionary executed in 1931"
    ],
-   "a": 3,
-   "t": "Freedom Fighters",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Bankim Chandra Chatterjee - Revolutionary executed in 1931 is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Bankim Chandra Chatterjee - Revolutionary executed in 1931 is not correctly matched.",
+   "topic": "Freedom Fighters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0374",
-   "q": "Which of the following pairs of provision and article is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of provision and article is correctly matched?",
+   "options": [
     "Right against Exploitation - Part I, Articles 1-4",
     "Right against Exploitation - Articles 23-24",
     "Right against Exploitation - Part XIV, Articles 308-323",
     "Right against Exploitation - Article 1"
    ],
-   "a": 1,
-   "t": "Constitution Articles",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Right against Exploitation - Articles 23-24 is correctly matched."
+   "answer": 1,
+   "explanation": "Only Right against Exploitation - Articles 23-24 is correctly matched.",
+   "topic": "Constitution Articles",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0375",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "The budget is laid before Parliament under - Certiorari",
     "The budget is laid before Parliament under - The President of India",
     "The budget is laid before Parliament under - 552 members",
     "The budget is laid before Parliament under - Article 112 (Annual Financial Statement)"
    ],
-   "a": 3,
-   "t": "Constitution Facts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only The budget is laid before Parliament under - Article 112 (Annual Financial Statement) is correctly matched."
+   "answer": 3,
+   "explanation": "Only The budget is laid before Parliament under - Article 112 (Annual Financial Statement) is correctly matched.",
+   "topic": "Constitution Facts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0376",
-   "q": "Which of the following pairs of institution and description is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of institution and description is NOT correctly matched?",
+   "options": [
     "Telecom Regulatory Authority of India - Regulator of telecommunications",
     "State Legislature - Law-making body of a State",
     "Union Public Service Commission - Recruits civil servants for the Union",
     "National Human Rights Commission - Audits government accounts"
    ],
-   "a": 3,
-   "t": "Institutions of India",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair National Human Rights Commission - Audits government accounts is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair National Human Rights Commission - Audits government accounts is not correctly matched.",
+   "topic": "Institutions of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0377",
-   "q": "Which of the following days is observed on 14 November?",
-   "o": [
+   "question": "Which of the following days is observed on 14 November?",
+   "options": [
     "World Hepatitis Day",
     "World Cities Day",
     "World Computer Security Day",
     "Children's Day (India)"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "14 November is observed as Children's Day (India)."
+   "answer": 3,
+   "explanation": "14 November is observed as Children's Day (India).",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0378",
-   "q": "Which of the following pairs of organisation and headquarters is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of organisation and headquarters is correctly matched?",
+   "options": [
     "International Cricket Council - Washington, D.C.",
     "International Cricket Council - Dubai",
     "International Cricket Council - The Hague",
     "International Cricket Council - Beijing"
    ],
-   "a": 1,
-   "t": "Organisations and Headquarters",
-   "l": 3,
-   "s": "generated",
-   "e": "Only International Cricket Council - Dubai is correctly matched."
+   "answer": 1,
+   "explanation": "Only International Cricket Council - Dubai is correctly matched.",
+   "topic": "Organisations and Headquarters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0379",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "Aga Khan Cup - Hockey",
     "Aga Khan Cup - Badminton",
     "Aga Khan Cup - Cricket",
     "Aga Khan Cup - Football"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Aga Khan Cup - Hockey is correctly matched."
+   "answer": 0,
+   "explanation": "Only Aga Khan Cup - Hockey is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0380",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Infosys Prize - Indian award for research",
     "Infosys Prize - American award for music",
     "Infosys Prize - Highest literary award of India",
     "Infosys Prize - UNESCO award for popularisation of science"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Infosys Prize - Indian award for research is correctly matched."
+   "answer": 0,
+   "explanation": "Only Infosys Prize - Indian award for research is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0381",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "A Brief History of Time - Kalidasa",
     "A Brief History of Time - Stephen Hawking",
     "A Brief History of Time - Homer",
     "A Brief History of Time - Karl Marx"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only A Brief History of Time - Stephen Hawking is correctly matched."
+   "answer": 1,
+   "explanation": "Only A Brief History of Time - Stephen Hawking is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0382",
-   "q": "Which of the following pairs of achievement and person is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of achievement and person is NOT correctly matched?",
+   "options": [
     "First woman to fly solo across the Atlantic - Amelia Earhart",
     "First country to launch a satellite - Soviet Union",
     "First country to give women the vote - New Zealand",
     "First country to land a man on the Moon - Trygve Lie"
    ],
-   "a": 3,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair First country to land a man on the Moon - Trygve Lie is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair First country to land a man on the Moon - Trygve Lie is not correctly matched.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0383",
-   "q": "Which is the longest river in the world?",
-   "o": [
+   "question": "Which is the longest river in the world?",
+   "options": [
     "Maharashtra",
     "Jamshedpur",
     "Nile",
     "China"
    ],
-   "a": 2,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 2,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0384",
-   "q": "Which of the following pairs of question and answer is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of question and answer is correctly matched?",
+   "options": [
     "Season of the retreating monsoon in India - October to November",
     "Season of the retreating monsoon in India - Tropical monsoon climate",
     "Season of the retreating monsoon in India - Diamond",
     "Season of the retreating monsoon in India - Coromandel Coast"
    ],
-   "a": 0,
-   "t": "Climate and Atmosphere",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Season of the retreating monsoon in India - October to November is correctly matched."
+   "answer": 0,
+   "explanation": "Only Season of the retreating monsoon in India - October to November is correctly matched.",
+   "topic": "Climate and Atmosphere",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0385",
-   "q": "Which fund holds all revenues received by the Government of India?",
-   "o": [
+   "question": "Which fund holds all revenues received by the Government of India?",
+   "options": [
     "Pound Sterling",
     "Lala Lajpat Rai",
     "Consolidated Fund of India",
     "Dumping"
    ],
-   "a": 2,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 2,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0386",
-   "q": "Choose the word most similar in meaning to Judicious.",
-   "o": [
+   "question": "Choose the word most similar in meaning to Judicious.",
+   "options": [
     "Sensible",
     "Beginner",
     "Unpredictable",
     "Calmness"
    ],
-   "a": 0,
-   "t": "Synonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "Judicious means Sensible."
+   "answer": 0,
+   "explanation": "Judicious means Sensible.",
+   "topic": "Synonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0387",
-   "q": "Choose the word most opposite in meaning to Venerable.",
-   "o": [
+   "question": "Choose the word most opposite in meaning to Venerable.",
+   "options": [
     "Modern",
     "Open",
     "Disreputable",
     "Genuine"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "The opposite of Venerable is Disreputable."
+   "answer": 2,
+   "explanation": "The opposite of Venerable is Disreputable.",
+   "topic": "Antonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0388",
-   "q": "What is the meaning of the idiom 'A cock and bull story'?",
-   "o": [
+   "question": "What is the meaning of the idiom 'A cock and bull story'?",
+   "options": [
     "An achievement to be proud of",
     "Completely",
     "An important day",
     "An absurd and unlikely story"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 2,
-   "s": "generated",
-   "e": "'A cock and bull story' means An absurd and unlikely story."
+   "answer": 3,
+   "explanation": "'A cock and bull story' means An absurd and unlikely story.",
+   "topic": "Idioms and Phrases",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0389",
-   "q": "Choose the one word substitute for: Something that can be eaten",
-   "o": [
+   "question": "Choose the one word substitute for: Something that can be eaten",
+   "options": [
     "Meteorologist",
     "Edible",
     "Oligarchy",
     "Homicide"
    ],
-   "a": 1,
-   "t": "One Word Substitution",
-   "l": 2,
-   "s": "generated",
-   "e": "Something that can be eaten — Edible."
+   "answer": 1,
+   "explanation": "Something that can be eaten — Edible.",
+   "topic": "One Word Substitution",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0390",
-   "q": "Which of the following words is spelt correctly?",
-   "o": [
+   "question": "Which of the following words is spelt correctly?",
+   "options": [
     "Occurrence",
     "Battalion",
     "Disappear",
     "Acknowledgment"
    ],
-   "a": 2,
-   "t": "Spellings",
-   "l": 1,
-   "s": "generated",
-   "e": "The correct spelling is Disappear."
+   "answer": 2,
+   "explanation": "The correct spelling is Disappear.",
+   "topic": "Spellings",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0391",
-   "q": "Which of the following is the plural form of Life?",
-   "o": [
+   "question": "Which of the following is the plural form of Life?",
+   "options": [
     "Lives",
     "Buffaloes",
     "Alumni",
     "Step-daughters"
    ],
-   "a": 0,
-   "t": "Plurals",
-   "l": 2,
-   "s": "generated",
-   "e": "The plural of Life is Lives."
+   "answer": 0,
+   "explanation": "The plural of Life is Lives.",
+   "topic": "Plurals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0392",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Priest - Niece",
     "Priest - Girl",
     "Priest - Priestess",
     "Priest - Aunt"
    ],
-   "a": 2,
-   "t": "Genders",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Priest - Priestess is correctly matched."
+   "answer": 2,
+   "explanation": "Only Priest - Priestess is correctly matched.",
+   "topic": "Genders",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0393",
-   "q": "Fill in the blank correctly: Dark, ____, Darkest",
-   "o": [
+   "question": "Fill in the blank correctly: Dark, ____, Darkest",
+   "options": [
     "Cleverer",
     "Taller",
     "Fatter",
     "Darker"
    ],
-   "a": 3,
-   "t": "Degrees of Comparison",
-   "l": 2,
-   "s": "generated",
-   "e": "The correct sequence is Dark, Darker, Darkest."
+   "answer": 3,
+   "explanation": "The correct sequence is Dark, Darker, Darkest.",
+   "topic": "Degrees of Comparison",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0394",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "He is proud ____ his success. - to",
     "He is proud ____ his success. - with",
     "He is proud ____ his success. - from",
     "He is proud ____ his success. - of"
    ],
-   "a": 3,
-   "t": "Prepositions",
-   "l": 3,
-   "s": "generated",
-   "e": "Only He is proud ____ his success. - of is correctly matched."
+   "answer": 3,
+   "explanation": "Only He is proud ____ his success. - of is correctly matched.",
+   "topic": "Prepositions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0395",
-   "q": "Which organisation publishes the World Press Freedom Index?",
-   "o": [
+   "question": "Which organisation publishes the World Press Freedom Index?",
+   "options": [
     "Qatar",
     "Reporters Without Borders",
     "2022",
     "Indira Gandhi International Airport"
    ],
-   "a": 1,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 1,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0396",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Stand Up India - Universal immunisation of children",
     "Stand Up India - Promoting startups and innovation",
     "Stand Up India - Loans to women and scheduled caste entrepreneurs",
     "Stand Up India - Rapid transformation of backward districts"
    ],
-   "a": 2,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Stand Up India - Loans to women and scheduled caste entrepreneurs is correctly matched."
+   "answer": 2,
+   "explanation": "Only Stand Up India - Loans to women and scheduled caste entrepreneurs is correctly matched.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0397",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Project Cheetah - Human spaceflight programme of India",
     "Project Cheetah - Soft landing near the lunar south pole",
     "Project Cheetah - Reintroduction of cheetahs in India",
     "Project Cheetah - Multi-wavelength space observatory"
    ],
-   "a": 2,
-   "t": "Missions and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Project Cheetah - Reintroduction of cheetahs in India is correctly matched."
+   "answer": 2,
+   "explanation": "Only Project Cheetah - Reintroduction of cheetahs in India is correctly matched.",
+   "topic": "Missions and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0398",
-   "q": "Which computer term is described as: Software that secretly collects information?",
-   "o": [
+   "question": "Which computer term is described as: Software that secretly collects information?",
+   "options": [
     "GUI",
     "Spyware",
     "Microphone",
     "Firmware"
    ],
-   "a": 1,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Software that secretly collects information describes Spyware."
+   "answer": 1,
+   "explanation": "Software that secretly collects information describes Spyware.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0399",
-   "q": "What is the full form of JAM?",
-   "o": [
+   "question": "What is the full form of JAM?",
+   "options": [
     "National Cadet Corps",
     "Jan Dhan, Aadhaar and Mobile",
     "Direct Benefit Transfer",
     "Association of South East Asian Nations"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "JAM stands for Jan Dhan, Aadhaar and Mobile."
+   "answer": 1,
+   "explanation": "JAM stands for Jan Dhan, Aadhaar and Mobile.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0400",
-   "q": "What is the capital of Jordan?",
-   "o": [
+   "question": "What is the capital of Jordan?",
+   "options": [
     "Bangui",
     "Amman",
     "Gaborone",
     "Moscow"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Jordan is Amman."
+   "answer": 1,
+   "explanation": "The capital of Jordan is Amman.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0401",
-   "q": "What is the chemical symbol of Holmium?",
-   "o": [
+   "question": "What is the chemical symbol of Holmium?",
+   "options": [
     "Ho",
     "Rg",
     "Og",
     "Bk"
    ],
-   "a": 0,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "The symbol of Holmium is Ho."
+   "answer": 0,
+   "explanation": "The symbol of Holmium is Ho.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0402",
-   "q": "Which of the following pairs of state and capital is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of state and capital is correctly matched?",
+   "options": [
     "Mizoram - Chennai",
     "Mizoram - Amaravati",
     "Mizoram - Aizawl",
     "Mizoram - Hyderabad"
    ],
-   "a": 2,
-   "t": "States and Capitals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Mizoram - Aizawl is correctly matched."
+   "answer": 2,
+   "explanation": "Only Mizoram - Aizawl is correctly matched.",
+   "topic": "States and Capitals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0403",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "First Indian Governor-General of India - C. Rajagopalachari",
     "First Indian satellite launched - Aryabhata",
     "First Indian woman to become a judge of the Supreme Court - Kiran Bedi",
     "First Indian Institute of Technology was set up at - Kharagpur"
    ],
-   "a": 2,
-   "t": "First in India",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair First Indian woman to become a judge of the Supreme Court - Kiran Bedi is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair First Indian woman to become a judge of the Supreme Court - Kiran Bedi is not correctly matched.",
+   "topic": "First in India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0404",
-   "q": "Which of the following pairs of dance and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of dance and state is correctly matched?",
+   "options": [
     "Bharatanatyam - Odisha",
     "Bharatanatyam - Punjab",
     "Bharatanatyam - Tamil Nadu",
     "Bharatanatyam - Assam"
    ],
-   "a": 2,
-   "t": "Folk Dances of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Bharatanatyam - Tamil Nadu is correctly matched."
+   "answer": 2,
+   "explanation": "Only Bharatanatyam - Tamil Nadu is correctly matched.",
+   "topic": "Folk Dances of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0405",
-   "q": "Which of the following pairs of festival and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of festival and state is correctly matched?",
+   "options": [
     "Sekrenyi - Manipur",
     "Sekrenyi - Nagaland",
     "Sekrenyi - Tamil Nadu",
     "Sekrenyi - Assam"
    ],
-   "a": 1,
-   "t": "Festivals of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Sekrenyi - Nagaland is correctly matched."
+   "answer": 1,
+   "explanation": "Only Sekrenyi - Nagaland is correctly matched.",
+   "topic": "Festivals of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0406",
-   "q": "Which of the following pairs of river and origin is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of river and origin is NOT correctly matched?",
+   "options": [
     "Ravi - Chamba",
     "Alaknanda - Satopanth Glacier",
     "Periyar - Nandi Hills",
     "Gomti - Pilibhit"
    ],
-   "a": 2,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Periyar - Nandi Hills is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Periyar - Nandi Hills is not correctly matched.",
+   "topic": "Rivers of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0407",
-   "q": "Which of the following national parks or tiger reserves is in Karnataka?",
-   "o": [
+   "question": "Which of the following national parks or tiger reserves is in Karnataka?",
+   "options": [
     "Bandipur National Park",
     "Intanki National Park",
     "Guru Ghasidas National Park",
     "Rajgir Wildlife Sanctuary"
    ],
-   "a": 0,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Bandipur National Park is in Karnataka."
+   "answer": 0,
+   "explanation": "Bandipur National Park is in Karnataka.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0408",
-   "q": "Which of the following pairs of quantity and SI unit is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is NOT correctly matched?",
+   "options": [
     "Electric charge - Coulomb",
     "Luminous flux - Lumen",
     "Catalytic activity - Steradian",
     "Absorbed dose - Gray"
    ],
-   "a": 2,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Catalytic activity - Steradian is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Catalytic activity - Steradian is not correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0409",
-   "q": "Which of the following pairs of instrument and use is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of instrument and use is correctly matched?",
+   "options": [
     "Fathometer - Depth of the sea",
     "Fathometer - Curvature of surfaces",
     "Fathometer - Humidity",
     "Fathometer - Altitude"
    ],
-   "a": 0,
-   "t": "Scientific Instruments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Fathometer - Depth of the sea is correctly matched."
+   "answer": 0,
+   "explanation": "Only Fathometer - Depth of the sea is correctly matched.",
+   "topic": "Scientific Instruments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0410",
-   "q": "Which of the following pairs of body part and function is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of body part and function is correctly matched?",
+   "options": [
     "Nephrons - Basic filtering units of the kidney",
     "Nephrons - Helps in breathing",
     "Nephrons - Controls body metabolism",
     "Nephrons - Controls blood sugar"
    ],
-   "a": 0,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Nephrons - Basic filtering units of the kidney is correctly matched."
+   "answer": 0,
+   "explanation": "Only Nephrons - Basic filtering units of the kidney is correctly matched.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0411",
-   "q": "Which of the following pairs of nutrient and deficiency disease is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of nutrient and deficiency disease is NOT correctly matched?",
+   "options": [
     "Fluorine - Tooth decay",
     "Vitamin K and Protein - Delayed blood clotting",
     "Vitamin D - Rickets",
     "Vitamin B3 - Dehydration"
    ],
-   "a": 3,
-   "t": "Vitamins and Deficiencies",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Vitamin B3 - Dehydration is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Vitamin B3 - Dehydration is not correctly matched.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0412",
-   "q": "Which of the following pairs of disease and causative agent is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of disease and causative agent is correctly matched?",
+   "options": [
     "Hepatitis A - Hepatitis A virus",
     "Hepatitis A - Leishmania donovani",
     "Hepatitis A - Streptococcus pneumoniae bacteria",
     "Hepatitis A - Neisseria meningitidis bacteria"
    ],
-   "a": 0,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Hepatitis A - Hepatitis A virus is correctly matched."
+   "answer": 0,
+   "explanation": "Only Hepatitis A - Hepatitis A virus is correctly matched.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0413",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Theory of relativity - Charles Babbage",
     "Theory of relativity - Albert Einstein",
     "Theory of relativity - Charles Darwin",
     "Theory of relativity - Galileo Galilei"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Theory of relativity - Albert Einstein is correctly matched."
+   "answer": 1,
+   "explanation": "Only Theory of relativity - Albert Einstein is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0414",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Nitre / saltpetre - Potassium nitrate (KNO3)",
     "Nitre / saltpetre - Ethanol (C2H5OH)",
     "Nitre / saltpetre - Acetic acid (CH3COOH)",
     "Nitre / saltpetre - Zinc sulphate (ZnSO4.7H2O)"
    ],
-   "a": 0,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Nitre / saltpetre - Potassium nitrate (KNO3) is correctly matched."
+   "answer": 0,
+   "explanation": "Only Nitre / saltpetre - Potassium nitrate (KNO3) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0415",
-   "q": "Which of the following pairs of branch and subject is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of branch and subject is correctly matched?",
+   "options": [
     "Astrophysics - Nervous system",
     "Astrophysics - Physics of celestial objects",
     "Astrophysics - Weather and atmosphere",
     "Astrophysics - Fishes"
    ],
-   "a": 1,
-   "t": "Branches of Science",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Astrophysics - Physics of celestial objects is correctly matched."
+   "answer": 1,
+   "explanation": "Only Astrophysics - Physics of celestial objects is correctly matched.",
+   "topic": "Branches of Science",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0416",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Mars - Great Red Spot",
     "Mars - Dwarf planet formerly ninth planet",
     "Mars - Only planet known to support life",
     "Mars - Planet with two moons Phobos and Deimos"
    ],
-   "a": 3,
-   "t": "Astronomy",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Mars - Planet with two moons Phobos and Deimos is correctly matched."
+   "answer": 3,
+   "explanation": "Only Mars - Planet with two moons Phobos and Deimos is correctly matched.",
+   "topic": "Astronomy",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0417",
-   "q": "Which of the following pairs of scientist and contribution is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of scientist and contribution is correctly matched?",
+   "options": [
     "Max Planck - Improvements to the steam engine",
     "Max Planck - Quantum theory",
     "Max Planck - Nuclear model of the atom",
     "Max Planck - Boyle's law of gases"
    ],
-   "a": 1,
-   "t": "Scientists",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Max Planck - Quantum theory is correctly matched."
+   "answer": 1,
+   "explanation": "Only Max Planck - Quantum theory is correctly matched.",
+   "topic": "Scientists",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0418",
-   "q": "In which decade did the following event take place: National Emergency declared in India?",
-   "o": [
+   "question": "In which decade did the following event take place: National Emergency declared in India?",
+   "options": [
     "2020s",
     "1950s",
     "1970s",
     "1940s"
    ],
-   "a": 2,
-   "t": "Indian History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "National Emergency declared in India took place in the 1975s."
+   "answer": 2,
+   "explanation": "National Emergency declared in India took place in the 1975s.",
+   "topic": "Indian History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0419",
-   "q": "Which of the following events took place in 1920?",
-   "o": [
+   "question": "Which of the following events took place in 1920?",
+   "options": [
     "Founding of the League of Nations",
     "Founding of NATO",
     "Defeat of the Spanish Armada",
     "Abolition of slavery in the British Empire"
    ],
-   "a": 0,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Founding of the League of Nations took place in 1920."
+   "answer": 0,
+   "explanation": "Founding of the League of Nations took place in 1920.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0420",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Shivaji - Founded the Maratha empire and was crowned in 1674",
     "Krishnadevaraya - Famous Vijayanagara ruler and author of Amuktamalyada",
     "Guru Gobind Singh - Convened the Fourth Buddhist Council",
     "Muhammad bin Tughlaq - Shifted the capital from Delhi to Daulatabad"
    ],
-   "a": 2,
-   "t": "Rulers",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Guru Gobind Singh - Convened the Fourth Buddhist Council is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Guru Gobind Singh - Convened the Fourth Buddhist Council is not correctly matched.",
+   "topic": "Rulers",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0421",
-   "q": "Which of the following pairs of person and title is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of person and title is NOT correctly matched?",
+   "options": [
     "C. Rajagopalachari - Revolutionary executed with Bhagat Singh",
     "Mangal Pandey - Soldier who sparked the Revolt of 1857",
     "Tatya Tope - General of the Revolt of 1857",
     "Jawaharlal Nehru - First Prime Minister of India"
    ],
-   "a": 0,
-   "t": "Freedom Fighters",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair C. Rajagopalachari - Revolutionary executed with Bhagat Singh is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair C. Rajagopalachari - Revolutionary executed with Bhagat Singh is not correctly matched.",
+   "topic": "Freedom Fighters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0422",
-   "q": "Which of the following pairs of provision and article is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of provision and article is correctly matched?",
+   "options": [
     "Citizenship - Articles 25-28",
     "Citizenship - Part XV, Articles 324-329",
     "Citizenship - Articles 29-30",
     "Citizenship - Part II, Articles 5-11"
    ],
-   "a": 3,
-   "t": "Constitution Articles",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Citizenship - Part II, Articles 5-11 is correctly matched."
+   "answer": 3,
+   "explanation": "Only Citizenship - Part II, Articles 5-11 is correctly matched.",
+   "topic": "Constitution Articles",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0423",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Who is called the guardian of the public purse - Impeachment",
     "Who is called the guardian of the public purse - Parliament",
     "Who is called the guardian of the public purse - Anti-defection provisions",
     "Who is called the guardian of the public purse - Comptroller and Auditor General"
    ],
-   "a": 3,
-   "t": "Constitution Facts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Who is called the guardian of the public purse - Comptroller and Auditor General is correctly matched."
+   "answer": 3,
+   "explanation": "Only Who is called the guardian of the public purse - Comptroller and Auditor General is correctly matched.",
+   "topic": "Constitution Facts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0424",
-   "q": "Which of the following pairs of institution and description is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of institution and description is NOT correctly matched?",
+   "options": [
     "Central Vigilance Commission - Watches over vigilance in government",
     "Union Territories - Administered by the President through administrators",
     "Reserve Bank of India - Deputy to the Prime Minister in the policy think tank",
     "Zilla Parishad - Local body at the district level"
    ],
-   "a": 2,
-   "t": "Institutions of India",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Reserve Bank of India - Deputy to the Prime Minister in the policy think tank is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Reserve Bank of India - Deputy to the Prime Minister in the policy think tank is not correctly matched.",
+   "topic": "Institutions of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0425",
-   "q": "Which of the following days is observed on 20 May?",
-   "o": [
+   "question": "Which of the following days is observed on 20 May?",
+   "options": [
     "International Day of the Girl Child",
     "World Braille Day",
     "International Day of Education",
     "World Bee Day"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "20 May is observed as World Bee Day."
+   "answer": 3,
+   "explanation": "20 May is observed as World Bee Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0426",
-   "q": "Which of the following pairs of organisation and headquarters is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of organisation and headquarters is correctly matched?",
+   "options": [
     "Board of Control for Cricket in India - Mumbai",
     "Board of Control for Cricket in India - Geneva",
     "Board of Control for Cricket in India - London",
     "Board of Control for Cricket in India - Rome"
    ],
-   "a": 0,
-   "t": "Organisations and Headquarters",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Board of Control for Cricket in India - Mumbai is correctly matched."
+   "answer": 0,
+   "explanation": "Only Board of Control for Cricket in India - Mumbai is correctly matched.",
+   "topic": "Organisations and Headquarters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0427",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Indira Gandhi Prize - Highest award in Indian cinema",
     "Indira Gandhi Prize - Asian award for public service",
     "Indira Gandhi Prize - Alternative Nobel Prize",
     "Indira Gandhi Prize - Indian award for peace, disarmament and development"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Indira Gandhi Prize - Indian award for peace, disarmament and development is correctly matched."
+   "answer": 3,
+   "explanation": "Only Indira Gandhi Prize - Indian award for peace, disarmament and development is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0428",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "David Copperfield - Jawaharlal Nehru",
     "David Copperfield - Helen Keller",
     "David Copperfield - Charles Dickens",
     "David Copperfield - Paramahansa Yogananda"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only David Copperfield - Charles Dickens is correctly matched."
+   "answer": 2,
+   "explanation": "Only David Copperfield - Charles Dickens is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0429",
-   "q": "Which of the following pairs of achievement and person is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of achievement and person is NOT correctly matched?",
+   "options": [
     "First person to run a mile in under four minutes - Roger Bannister",
     "First Indian to win a Nobel Prize - Rabindranath Tagore",
     "First country to land a man on the Moon - United States of America",
     "First person to reach the South Pole - Soviet Union"
    ],
-   "a": 3,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair First person to reach the South Pole - Soviet Union is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair First person to reach the South Pole - Soviet Union is not correctly matched.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0430",
-   "q": "Which is the busiest port in India?",
-   "o": [
+   "question": "Which is the busiest port in India?",
+   "options": [
     "Iran",
     "Madurai",
     "Ganga",
     "Jawaharlal Nehru Port"
    ],
-   "a": 3,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 3,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0431",
-   "q": "Which of the following pairs of question and answer is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of question and answer is correctly matched?",
+   "options": [
     "Which gas is most abundant in the Earth's atmosphere - Nitrogen",
     "Which gas is most abundant in the Earth's atmosphere - About 21 per cent",
     "Which gas is most abundant in the Earth's atmosphere - Barometer",
     "Which gas is most abundant in the Earth's atmosphere - Core"
    ],
-   "a": 0,
-   "t": "Climate and Atmosphere",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Which gas is most abundant in the Earth's atmosphere - Nitrogen is correctly matched."
+   "answer": 0,
+   "explanation": "Only Which gas is most abundant in the Earth's atmosphere - Nitrogen is correctly matched.",
+   "topic": "Climate and Atmosphere",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0432",
-   "q": "Which index represents the National Stock Exchange?",
-   "o": [
+   "question": "Which index represents the National Stock Exchange?",
+   "options": [
     "Kandla",
     "GST Council and CBIC",
     "People's Bank of China",
     "Nifty"
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0433",
-   "q": "Choose the word most similar in meaning to Spurious.",
-   "o": [
+   "question": "Choose the word most similar in meaning to Spurious.",
+   "options": [
     "Secret",
     "Fake",
     "Showy",
     "Thorough"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "Spurious means Fake."
+   "answer": 1,
+   "explanation": "Spurious means Fake.",
+   "topic": "Synonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0434",
-   "q": "Choose the word most opposite in meaning to Loquacious.",
-   "o": [
+   "question": "Choose the word most opposite in meaning to Loquacious.",
+   "options": [
     "Truth",
     "Facilitate",
     "Reticent",
     "Rare"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "The opposite of Loquacious is Reticent."
+   "answer": 2,
+   "explanation": "The opposite of Loquacious is Reticent.",
+   "topic": "Antonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0435",
-   "q": "What is the meaning of the idiom 'Make a clean breast of'?",
-   "o": [
+   "question": "What is the meaning of the idiom 'Make a clean breast of'?",
+   "options": [
     "A person without influence",
     "Deliberately delaying",
     "Interfere",
     "Confess fully"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 2,
-   "s": "generated",
-   "e": "'Make a clean breast of' means Confess fully."
+   "answer": 3,
+   "explanation": "'Make a clean breast of' means Confess fully.",
+   "topic": "Idioms and Phrases",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0436",
-   "q": "Choose the one word substitute for: A place where books are kept",
-   "o": [
+   "question": "Choose the one word substitute for: A place where books are kept",
+   "options": [
     "Endemic",
     "Library",
     "Linguist",
     "Manifest"
    ],
-   "a": 1,
-   "t": "One Word Substitution",
-   "l": 2,
-   "s": "generated",
-   "e": "A place where books are kept — Library."
+   "answer": 1,
+   "explanation": "A place where books are kept — Library.",
+   "topic": "One Word Substitution",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0437",
-   "q": "Which of the following words is spelt correctly?",
-   "o": [
+   "question": "Which of the following words is spelt correctly?",
+   "options": [
     "Acquiesce",
     "Privilege",
     "Competent",
     "Grateful"
    ],
-   "a": 1,
-   "t": "Spellings",
-   "l": 1,
-   "s": "generated",
-   "e": "The correct spelling is Privilege."
+   "answer": 1,
+   "explanation": "The correct spelling is Privilege.",
+   "topic": "Spellings",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0438",
-   "q": "Which of the following is the plural form of Zoo?",
-   "o": [
+   "question": "Which of the following is the plural form of Zoo?",
+   "options": [
     "Heroes",
     "Deer",
     "Photos",
     "Zoos"
    ],
-   "a": 3,
-   "t": "Plurals",
-   "l": 2,
-   "s": "generated",
-   "e": "The plural of Zoo is Zoos."
+   "answer": 3,
+   "explanation": "The plural of Zoo is Zoos.",
+   "topic": "Plurals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0439",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Ram - Girl",
     "Ram - Waitress",
     "Ram - Authoress",
     "Ram - Ewe"
    ],
-   "a": 3,
-   "t": "Genders",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ram - Ewe is correctly matched."
+   "answer": 3,
+   "explanation": "Only Ram - Ewe is correctly matched.",
+   "topic": "Genders",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0440",
-   "q": "Fill in the blank correctly: Low, ____, Lowest",
-   "o": [
+   "question": "Fill in the blank correctly: Low, ____, Lowest",
+   "options": [
     "Later",
     "Nobler",
     "Weaker",
     "Lower"
    ],
-   "a": 3,
-   "t": "Degrees of Comparison",
-   "l": 2,
-   "s": "generated",
-   "e": "The correct sequence is Low, Lower, Lowest."
+   "answer": 3,
+   "explanation": "The correct sequence is Low, Lower, Lowest.",
+   "topic": "Degrees of Comparison",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0441",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "He has been living here ____ 2010. - to",
     "He has been living here ____ 2010. - for",
     "He has been living here ____ 2010. - of",
     "He has been living here ____ 2010. - since"
    ],
-   "a": 3,
-   "t": "Prepositions",
-   "l": 3,
-   "s": "generated",
-   "e": "Only He has been living here ____ 2010. - since is correctly matched."
+   "answer": 3,
+   "explanation": "Only He has been living here ____ 2010. - since is correctly matched.",
+   "topic": "Prepositions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0442",
-   "q": "Which Indian state recorded the highest GDP growth recently?",
-   "o": [
+   "question": "Which Indian state recorded the highest GDP growth recently?",
+   "options": [
     "Hand-in-Hand Exercise",
     "Indira Gandhi International Airport",
     "Human Development Index",
     "Gujarat"
    ],
-   "a": 3,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 3,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0443",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "National Education Policy 2020 - Conservation and development of indigenous cattle",
     "National Education Policy 2020 - Integrated infrastructure planning platform",
     "National Education Policy 2020 - Emergency relief during the COVID-19 pandemic",
     "National Education Policy 2020 - Reform of school and higher education in India"
    ],
-   "a": 3,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only National Education Policy 2020 - Reform of school and higher education in India is correctly matched."
+   "answer": 3,
+   "explanation": "Only National Education Policy 2020 - Reform of school and higher education in India is correctly matched.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0444",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Bharat Bill Payment System - Soft landing near the lunar south pole",
     "Bharat Bill Payment System - Global cooperation on solar energy",
     "Bharat Bill Payment System - Optical fibre connectivity to gram panchayats",
     "Bharat Bill Payment System - Integrated bill payment platform"
    ],
-   "a": 3,
-   "t": "Missions and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Bharat Bill Payment System - Integrated bill payment platform is correctly matched."
+   "answer": 3,
+   "explanation": "Only Bharat Bill Payment System - Integrated bill payment platform is correctly matched.",
+   "topic": "Missions and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0445",
-   "q": "Which computer term is described as: Core part of an operating system?",
-   "o": [
+   "question": "Which computer term is described as: Core part of an operating system?",
+   "options": [
     "Kernel",
     "HTTP",
     "Multiprocessing",
     "Interpreter"
    ],
-   "a": 0,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Core part of an operating system describes Kernel."
+   "answer": 0,
+   "explanation": "Core part of an operating system describes Kernel.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0446",
-   "q": "What is the full form of AIDS?",
-   "o": [
+   "question": "What is the full form of AIDS?",
+   "options": [
     "Acquired Immune Deficiency Syndrome",
     "National Payments Corporation of India",
     "Know Your Customer",
     "Central Teacher Eligibility Test"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "AIDS stands for Acquired Immune Deficiency Syndrome."
+   "answer": 0,
+   "explanation": "AIDS stands for Acquired Immune Deficiency Syndrome.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0447",
-   "q": "What is the capital of Bosnia and Herzegovina?",
-   "o": [
+   "question": "What is the capital of Bosnia and Herzegovina?",
+   "options": [
     "Lusaka",
     "Kingston",
     "Sarajevo",
     "Sanaa"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Bosnia and Herzegovina is Sarajevo."
+   "answer": 2,
+   "explanation": "The capital of Bosnia and Herzegovina is Sarajevo.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0448",
-   "q": "What is the chemical symbol of Carbon?",
-   "o": [
+   "question": "What is the chemical symbol of Carbon?",
+   "options": [
     "C",
     "Mo",
     "V",
     "Cs"
    ],
-   "a": 0,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "The symbol of Carbon is C."
+   "answer": 0,
+   "explanation": "The symbol of Carbon is C.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0449",
-   "q": "Which of the following pairs of state and capital is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of state and capital is correctly matched?",
+   "options": [
     "Mizoram - Aizawl",
     "Mizoram - Thiruvananthapuram",
     "Mizoram - Kohima",
     "Mizoram - Ranchi"
    ],
-   "a": 0,
-   "t": "States and Capitals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Mizoram - Aizawl is correctly matched."
+   "answer": 0,
+   "explanation": "Only Mizoram - Aizawl is correctly matched.",
+   "topic": "States and Capitals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0450",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "First Indian to win a Nobel Prize - Rabindranath Tagore",
     "First Indian to swim across the English Channel - Mihir Sen",
     "First Indian to win the Miss World title - Reita Faria",
     "First Indian to receive the Bharat Ratna - Mother Teresa"
    ],
-   "a": 3,
-   "t": "First in India",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair First Indian to receive the Bharat Ratna - Mother Teresa is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair First Indian to receive the Bharat Ratna - Mother Teresa is not correctly matched.",
+   "topic": "First in India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0451",
-   "q": "Which of the following pairs of dance and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of dance and state is correctly matched?",
+   "options": [
     "Bharatanatyam - Jharkhand",
     "Bharatanatyam - Gujarat",
     "Bharatanatyam - Meghalaya",
     "Bharatanatyam - Tamil Nadu"
    ],
-   "a": 3,
-   "t": "Folk Dances of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Bharatanatyam - Tamil Nadu is correctly matched."
+   "answer": 3,
+   "explanation": "Only Bharatanatyam - Tamil Nadu is correctly matched.",
+   "topic": "Folk Dances of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0452",
-   "q": "Which of the following pairs of festival and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of festival and state is correctly matched?",
+   "options": [
     "Sekrenyi - Meghalaya",
     "Sekrenyi - Nagaland",
     "Sekrenyi - Rajasthan",
     "Sekrenyi - Jharkhand"
    ],
-   "a": 1,
-   "t": "Festivals of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Sekrenyi - Nagaland is correctly matched."
+   "answer": 1,
+   "explanation": "Only Sekrenyi - Nagaland is correctly matched.",
+   "topic": "Festivals of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0453",
-   "q": "Which of the following pairs of river and origin is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of river and origin is NOT correctly matched?",
+   "options": [
     "Godavari - Trimbakeshwar",
     "Bhima - Bhimashankar",
     "Tungabhadra - Kudali",
     "Son - Mahabaleshwar"
    ],
-   "a": 3,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Son - Mahabaleshwar is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Son - Mahabaleshwar is not correctly matched.",
+   "topic": "Rivers of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0454",
-   "q": "Which of the following national parks or tiger reserves is in Maharashtra?",
-   "o": [
+   "question": "Which of the following national parks or tiger reserves is in Maharashtra?",
+   "options": [
     "Kanha National Park",
     "Umred Karhandla Sanctuary",
     "Great Himalayan National Park",
     "Intanki National Park"
    ],
-   "a": 1,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Umred Karhandla Sanctuary is in Maharashtra."
+   "answer": 1,
+   "explanation": "Umred Karhandla Sanctuary is in Maharashtra.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0455",
-   "q": "Which of the following pairs of quantity and SI unit is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is NOT correctly matched?",
+   "options": [
     "Amount of substance - Mole",
     "Viscosity (dynamic) - Pascal second",
     "Entropy - Joule per Kelvin",
     "Magnetic flux density - Candela"
    ],
-   "a": 3,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Magnetic flux density - Candela is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Magnetic flux density - Candela is not correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0456",
-   "q": "Which of the following pairs of instrument and use is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of instrument and use is correctly matched?",
+   "options": [
     "Fathometer - Blood pressure",
     "Fathometer - Heartbeats",
     "Fathometer - Depth of the sea",
     "Fathometer - Turbidity of liquid"
    ],
-   "a": 2,
-   "t": "Scientific Instruments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Fathometer - Depth of the sea is correctly matched."
+   "answer": 2,
+   "explanation": "Only Fathometer - Depth of the sea is correctly matched.",
+   "topic": "Scientific Instruments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0457",
-   "q": "Which of the following pairs of body part and function is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of body part and function is correctly matched?",
+   "options": [
     "Nephrons - Hearing in the ear",
     "Nephrons - Basic filtering units of the kidney",
     "Nephrons - Exchange of oxygen and carbon dioxide",
     "Nephrons - Absorption of digested food"
    ],
-   "a": 1,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Nephrons - Basic filtering units of the kidney is correctly matched."
+   "answer": 1,
+   "explanation": "Only Nephrons - Basic filtering units of the kidney is correctly matched.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0458",
-   "q": "Which of the following pairs of disease and causative agent is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of disease and causative agent is correctly matched?",
+   "options": [
     "Hepatitis A - Varicella zoster virus",
     "Hepatitis A - Hepatitis A virus",
     "Hepatitis A - Human Immunodeficiency Virus",
     "Hepatitis A - Mycobacterium leprae bacteria"
    ],
-   "a": 1,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Hepatitis A - Hepatitis A virus is correctly matched."
+   "answer": 1,
+   "explanation": "Only Hepatitis A - Hepatitis A virus is correctly matched.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0459",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Theory of relativity - Willis Carrier",
     "Theory of relativity - Albert Einstein",
     "Theory of relativity - Watson and Crick",
     "Theory of relativity - Galileo Galilei"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Theory of relativity - Albert Einstein is correctly matched."
+   "answer": 1,
+   "explanation": "Only Theory of relativity - Albert Einstein is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0460",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Nitre / saltpetre - Calcium oxide (CaO)",
     "Nitre / saltpetre - Calcium hydroxide (Ca(OH)2)",
     "Nitre / saltpetre - Potassium nitrate (KNO3)",
     "Nitre / saltpetre - Zinc chloride (ZnCl2)"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Nitre / saltpetre - Potassium nitrate (KNO3) is correctly matched."
+   "answer": 2,
+   "explanation": "Only Nitre / saltpetre - Potassium nitrate (KNO3) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0461",
-   "q": "Which of the following pairs of branch and subject is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of branch and subject is correctly matched?",
+   "options": [
     "Astrophysics - Fossils",
     "Astrophysics - Physics of celestial objects",
     "Astrophysics - Sound",
     "Astrophysics - Fishes"
    ],
-   "a": 1,
-   "t": "Branches of Science",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Astrophysics - Physics of celestial objects is correctly matched."
+   "answer": 1,
+   "explanation": "Only Astrophysics - Physics of celestial objects is correctly matched.",
+   "topic": "Branches of Science",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0462",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Mars - Planet with two moons Phobos and Deimos",
     "Mars - Nearest star to Earth",
     "Mars - Largest canyon system in the Solar System",
     "Mars - Hottest planet"
    ],
-   "a": 0,
-   "t": "Astronomy",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Mars - Planet with two moons Phobos and Deimos is correctly matched."
+   "answer": 0,
+   "explanation": "Only Mars - Planet with two moons Phobos and Deimos is correctly matched.",
+   "topic": "Astronomy",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0463",
-   "q": "Which of the following pairs of scientist and contribution is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of scientist and contribution is correctly matched?",
+   "options": [
     "Max Planck - Ohm's law",
     "Max Planck - Quantum theory",
     "Max Planck - Bose-Einstein statistics",
     "Max Planck - Boyle's law of gases"
    ],
-   "a": 1,
-   "t": "Scientists",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Max Planck - Quantum theory is correctly matched."
+   "answer": 1,
+   "explanation": "Only Max Planck - Quantum theory is correctly matched.",
+   "topic": "Scientists",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0464",
-   "q": "In which decade did the following event take place: First War of Indian Independence (Revolt of 1857)?",
-   "o": [
+   "question": "In which decade did the following event take place: First War of Indian Independence (Revolt of 1857)?",
+   "options": [
     "1940s",
     "1960s",
     "1850s",
     "1900s"
    ],
-   "a": 2,
-   "t": "Indian History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "First War of Indian Independence (Revolt of 1857) took place in the 1857s."
+   "answer": 2,
+   "explanation": "First War of Indian Independence (Revolt of 1857) took place in the 1857s.",
+   "topic": "Indian History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0465",
-   "q": "Which of the following events took place in 1848?",
-   "o": [
+   "question": "Which of the following events took place in 1848?",
+   "options": [
     "Publication of the Communist Manifesto",
     "Issue of the Emancipation Proclamation",
     "Founding of the World Health Organization",
     "Abolition of slavery in the British Empire"
    ],
-   "a": 0,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Publication of the Communist Manifesto took place in 1848."
+   "answer": 0,
+   "explanation": "Publication of the Communist Manifesto took place in 1848.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0466",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Mahavira - Twenty-fourth Tirthankara of Jainism",
     "Guru Nanak - Founder of Sikhism",
     "Muhammad bin Tughlaq - Shifted the capital from Delhi to Daulatabad",
     "Bahadur Shah Zafar - Introduced the Grand Trunk Road and the Rupiya"
    ],
-   "a": 3,
-   "t": "Rulers",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Bahadur Shah Zafar - Introduced the Grand Trunk Road and the Rupiya is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Bahadur Shah Zafar - Introduced the Grand Trunk Road and the Rupiya is not correctly matched.",
+   "topic": "Rulers",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0467",
-   "q": "Which of the following pairs of person and title is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of person and title is NOT correctly matched?",
+   "options": [
     "Rash Behari Bose - Author of Vande Mataram",
     "Maulana Abul Kalam Azad - First Education Minister of India",
     "Mangal Pandey - Soldier who sparked the Revolt of 1857",
     "Bhagat Singh - Revolutionary executed in 1931"
    ],
-   "a": 0,
-   "t": "Freedom Fighters",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Rash Behari Bose - Author of Vande Mataram is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Rash Behari Bose - Author of Vande Mataram is not correctly matched.",
+   "topic": "Freedom Fighters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0468",
-   "q": "Which of the following pairs of provision and article is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of provision and article is correctly matched?",
+   "options": [
     "Citizenship - Article 32",
     "Citizenship - Part IVA, Article 51A",
     "Citizenship - Part II, Articles 5-11",
     "Citizenship - Part I, Articles 1-4"
    ],
-   "a": 2,
-   "t": "Constitution Articles",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Citizenship - Part II, Articles 5-11 is correctly matched."
+   "answer": 2,
+   "explanation": "Only Citizenship - Part II, Articles 5-11 is correctly matched.",
+   "topic": "Constitution Articles",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0469",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Who is called the guardian of the public purse - Australia",
     "Who is called the guardian of the public purse - The Prime Minister",
     "Who is called the guardian of the public purse - United States of America",
     "Who is called the guardian of the public purse - Comptroller and Auditor General"
    ],
-   "a": 3,
-   "t": "Constitution Facts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Who is called the guardian of the public purse - Comptroller and Auditor General is correctly matched."
+   "answer": 3,
+   "explanation": "Only Who is called the guardian of the public purse - Comptroller and Auditor General is correctly matched.",
+   "topic": "Constitution Facts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0470",
-   "q": "Which of the following pairs of institution and description is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of institution and description is NOT correctly matched?",
+   "options": [
     "Supreme Court of India - Apex judicial body of India",
     "SEBI - Regulator of the securities market",
     "IRDAI - Regulator of the insurance sector",
     "State Legislature - Supervises elections to Parliament and State legislatures"
    ],
-   "a": 3,
-   "t": "Institutions of India",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair State Legislature - Supervises elections to Parliament and State legislatures is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair State Legislature - Supervises elections to Parliament and State legislatures is not correctly matched.",
+   "topic": "Institutions of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0471",
-   "q": "Which of the following days is observed on 8 May?",
-   "o": [
+   "question": "Which of the following days is observed on 8 May?",
+   "options": [
     "International Mother Language Day",
     "National Voters' Day (India)",
     "World Red Cross Day",
     "International Anti-Corruption Day"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "8 May is observed as World Red Cross Day."
+   "answer": 2,
+   "explanation": "8 May is observed as World Red Cross Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0472",
-   "q": "Which of the following pairs of organisation and headquarters is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of organisation and headquarters is correctly matched?",
+   "options": [
     "Board of Control for Cricket in India - Mumbai",
     "Board of Control for Cricket in India - Dubai",
     "Board of Control for Cricket in India - Vienna",
     "Board of Control for Cricket in India - Zurich"
    ],
-   "a": 0,
-   "t": "Organisations and Headquarters",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Board of Control for Cricket in India - Mumbai is correctly matched."
+   "answer": 0,
+   "explanation": "Only Board of Control for Cricket in India - Mumbai is correctly matched.",
+   "topic": "Organisations and Headquarters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0473",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "Azlan Shah Trophy - Football",
     "Azlan Shah Trophy - Hockey",
     "Azlan Shah Trophy - Tennis",
     "Azlan Shah Trophy - Table Tennis"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Azlan Shah Trophy - Hockey is correctly matched."
+   "answer": 1,
+   "explanation": "Only Azlan Shah Trophy - Hockey is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0474",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Indira Gandhi Prize - Awards for Indian cinema",
     "Indira Gandhi Prize - Second highest peacetime gallantry award of India",
     "Indira Gandhi Prize - Fourth highest civilian award of India",
     "Indira Gandhi Prize - Indian award for peace, disarmament and development"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Indira Gandhi Prize - Indian award for peace, disarmament and development is correctly matched."
+   "answer": 3,
+   "explanation": "Only Indira Gandhi Prize - Indian award for peace, disarmament and development is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0475",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "David Copperfield - Paramahansa Yogananda",
     "David Copperfield - Munshi Premchand",
     "David Copperfield - Dante Alighieri",
     "David Copperfield - Charles Dickens"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only David Copperfield - Charles Dickens is correctly matched."
+   "answer": 3,
+   "explanation": "Only David Copperfield - Charles Dickens is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0476",
-   "q": "Which of the following pairs of achievement and person is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of achievement and person is NOT correctly matched?",
+   "options": [
     "First Winter Olympic Games were held in - Chamonix",
     "First country to host the modern Olympic Games - Greece",
     "First woman in space - Valentina Tereshkova",
     "First woman to win a Nobel Prize - George Washington"
    ],
-   "a": 3,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair First woman to win a Nobel Prize - George Washington is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair First woman to win a Nobel Prize - George Washington is not correctly matched.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0477",
-   "q": "Which Indian state has the longest coastline?",
-   "o": [
+   "question": "Which Indian state has the longest coastline?",
+   "options": [
     "Gujarat",
     "Tropic of Cancer",
     "Gulf of Kutch",
     "Brahmaputra"
    ],
-   "a": 0,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 0,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0478",
-   "q": "Which of the following pairs of question and answer is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of question and answer is correctly matched?",
+   "options": [
     "Which gas is most abundant in the Earth's atmosphere - Talc",
     "Which gas is most abundant in the Earth's atmosphere - Eight",
     "Which gas is most abundant in the Earth's atmosphere - Nitrogen",
     "Which gas is most abundant in the Earth's atmosphere - Stratosphere"
    ],
-   "a": 2,
-   "t": "Climate and Atmosphere",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Which gas is most abundant in the Earth's atmosphere - Nitrogen is correctly matched."
+   "answer": 2,
+   "explanation": "Only Which gas is most abundant in the Earth's atmosphere - Nitrogen is correctly matched.",
+   "topic": "Climate and Atmosphere",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0479",
-   "q": "Which corporation provides deposit insurance in India?",
-   "o": [
+   "question": "Which corporation provides deposit insurance in India?",
+   "options": [
     "DICGC",
     "Gross National Product",
     "Services",
     "2017"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0480",
-   "q": "Choose the word most similar in meaning to Latent.",
-   "o": [
+   "question": "Choose the word most similar in meaning to Latent.",
+   "options": [
     "Make poor",
     "Hidden",
     "Calm",
     "Disagreement"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "Latent means Hidden."
+   "answer": 1,
+   "explanation": "Latent means Hidden.",
+   "topic": "Synonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0481",
-   "q": "Choose the word most opposite in meaning to Pertinent.",
-   "o": [
+   "question": "Choose the word most opposite in meaning to Pertinent.",
+   "options": [
     "Irrelevant",
     "Satisfied",
     "Rigid",
     "Rare"
    ],
-   "a": 0,
-   "t": "Antonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "The opposite of Pertinent is Irrelevant."
+   "answer": 0,
+   "explanation": "The opposite of Pertinent is Irrelevant.",
+   "topic": "Antonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0482",
-   "q": "What is the meaning of the idiom 'Cat's paw'?",
-   "o": [
+   "question": "What is the meaning of the idiom 'Cat's paw'?",
+   "options": [
     "Talk without coming to the point",
     "To get into trouble",
     "To act unfairly",
     "A person used by another"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 2,
-   "s": "generated",
-   "e": "'Cat's paw' means A person used by another."
+   "answer": 3,
+   "explanation": "'Cat's paw' means A person used by another.",
+   "topic": "Idioms and Phrases",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0483",
-   "q": "Choose the one word substitute for: One who knows everything",
-   "o": [
+   "question": "Choose the one word substitute for: One who knows everything",
+   "options": [
     "Baker",
     "Mint",
     "Omniscient",
     "Analgesic"
    ],
-   "a": 2,
-   "t": "One Word Substitution",
-   "l": 2,
-   "s": "generated",
-   "e": "One who knows everything — Omniscient."
+   "answer": 2,
+   "explanation": "One who knows everything — Omniscient.",
+   "topic": "One Word Substitution",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0484",
-   "q": "Which of the following words is spelt correctly?",
-   "o": [
+   "question": "Which of the following words is spelt correctly?",
+   "options": [
     "Beautiful",
     "Humorous",
     "Seize",
     "Opportunity"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 1,
-   "s": "generated",
-   "e": "The correct spelling is Opportunity."
+   "answer": 3,
+   "explanation": "The correct spelling is Opportunity.",
+   "topic": "Spellings",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0485",
-   "q": "Which of the following is the plural form of Goose?",
-   "o": [
+   "question": "Which of the following is the plural form of Goose?",
+   "options": [
     "Geese",
     "Vertices",
     "Commanders-in-Chief",
     "Bases"
    ],
-   "a": 0,
-   "t": "Plurals",
-   "l": 2,
-   "s": "generated",
-   "e": "The plural of Goose is Geese."
+   "answer": 0,
+   "explanation": "The plural of Goose is Geese.",
+   "topic": "Plurals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0486",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Ram - Woman",
     "Ram - Countess",
     "Ram - Ewe",
     "Ram - Godmother"
    ],
-   "a": 2,
-   "t": "Genders",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ram - Ewe is correctly matched."
+   "answer": 2,
+   "explanation": "Only Ram - Ewe is correctly matched.",
+   "topic": "Genders",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0487",
-   "q": "Fill in the blank correctly: High, ____, Highest",
-   "o": [
+   "question": "Fill in the blank correctly: High, ____, Highest",
+   "options": [
     "Wiser",
     "Higher",
     "Busier",
     "Poorer"
    ],
-   "a": 1,
-   "t": "Degrees of Comparison",
-   "l": 2,
-   "s": "generated",
-   "e": "The correct sequence is High, Higher, Highest."
+   "answer": 1,
+   "explanation": "The correct sequence is High, Higher, Highest.",
+   "topic": "Degrees of Comparison",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0488",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "He has been living here ____ 2010. - of",
     "He has been living here ____ 2010. - since",
     "He has been living here ____ 2010. - to",
     "He has been living here ____ 2010. - on"
    ],
-   "a": 1,
-   "t": "Prepositions",
-   "l": 3,
-   "s": "generated",
-   "e": "Only He has been living here ____ 2010. - since is correctly matched."
+   "answer": 1,
+   "explanation": "Only He has been living here ____ 2010. - since is correctly matched.",
+   "topic": "Prepositions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0489",
-   "q": "Which scheme provides digital documents to citizens?",
-   "o": [
+   "question": "Which scheme provides digital documents to citizens?",
+   "options": [
     "Swachh Bharat Abhiyan",
     "Startup India",
     "DigiLocker",
     "Ahmedabad"
    ],
-   "a": 2,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 2,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0490",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "National Education Policy 2020 - Reform of school and higher education in India",
     "National Education Policy 2020 - Portable food entitlements across states",
     "National Education Policy 2020 - Cooperative development of the dairy sector",
     "National Education Policy 2020 - Skill certification of youth"
    ],
-   "a": 0,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only National Education Policy 2020 - Reform of school and higher education in India is correctly matched."
+   "answer": 0,
+   "explanation": "Only National Education Policy 2020 - Reform of school and higher education in India is correctly matched.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0491",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Bharat Bill Payment System - Lunar orbiter studying the Moon",
     "Bharat Bill Payment System - Radar imaging satellites for all-weather observation",
     "Bharat Bill Payment System - Integrated bill payment platform",
     "Bharat Bill Payment System - Promotion of fitness and sports"
    ],
-   "a": 2,
-   "t": "Missions and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Bharat Bill Payment System - Integrated bill payment platform is correctly matched."
+   "answer": 2,
+   "explanation": "Only Bharat Bill Payment System - Integrated bill payment platform is correctly matched.",
+   "topic": "Missions and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0492",
-   "q": "Which computer term is described as: Language used to structure web pages?",
-   "o": [
+   "question": "Which computer term is described as: Language used to structure web pages?",
+   "options": [
     "HTML",
     "Pseudocode",
     "Hexadecimal",
     "Plug and play"
    ],
-   "a": 0,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Language used to structure web pages describes HTML."
+   "answer": 0,
+   "explanation": "Language used to structure web pages describes HTML.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0493",
-   "q": "What is the full form of ICAO?",
-   "o": [
+   "question": "What is the full form of ICAO?",
+   "options": [
     "Jan Dhan, Aadhaar and Mobile",
     "Permanent Account Number",
     "International Olympic Committee",
     "International Civil Aviation Organization"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "ICAO stands for International Civil Aviation Organization."
+   "answer": 3,
+   "explanation": "ICAO stands for International Civil Aviation Organization.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0494",
-   "q": "What is the capital of Gabon?",
-   "o": [
+   "question": "What is the capital of Gabon?",
+   "options": [
     "Chisinau",
     "Libreville",
     "Nicosia",
     "Hanoi"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Gabon is Libreville."
+   "answer": 1,
+   "explanation": "The capital of Gabon is Libreville.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0495",
-   "q": "What is the chemical symbol of Uranium?",
-   "o": [
+   "question": "What is the chemical symbol of Uranium?",
+   "options": [
     "Am",
     "U",
     "Cn",
     "Hs"
    ],
-   "a": 1,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "The symbol of Uranium is U."
+   "answer": 1,
+   "explanation": "The symbol of Uranium is U.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0496",
-   "q": "Which of the following pairs of state and capital is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of state and capital is correctly matched?",
+   "options": [
     "Nagaland - Agartala",
     "Nagaland - Chennai",
     "Nagaland - Kohima",
     "Nagaland - Shimla"
    ],
-   "a": 2,
-   "t": "States and Capitals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Nagaland - Kohima is correctly matched."
+   "answer": 2,
+   "explanation": "Only Nagaland - Kohima is correctly matched.",
+   "topic": "States and Capitals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0497",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "First Indian to climb Mount Everest - G. V. Mavalankar",
     "First Indian woman to climb Mount Everest - Bachendri Pal",
     "First Indian to receive the Bharat Ratna - C. Rajagopalachari",
     "First Indian to swim across the English Channel - Mihir Sen"
    ],
-   "a": 0,
-   "t": "First in India",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair First Indian to climb Mount Everest - G. V. Mavalankar is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair First Indian to climb Mount Everest - G. V. Mavalankar is not correctly matched.",
+   "topic": "First in India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0498",
-   "q": "Which of the following pairs of dance and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of dance and state is correctly matched?",
+   "options": [
     "Kikli - Uttar Pradesh",
     "Kikli - Jharkhand",
     "Kikli - Andhra Pradesh",
     "Kikli - Punjab"
    ],
-   "a": 3,
-   "t": "Folk Dances of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Kikli - Punjab is correctly matched."
+   "answer": 3,
+   "explanation": "Only Kikli - Punjab is correctly matched.",
+   "topic": "Folk Dances of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0499",
-   "q": "Which of the following pairs of festival and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of festival and state is correctly matched?",
+   "options": [
     "Bhagoria - Madhya Pradesh",
     "Bhagoria - Punjab",
     "Bhagoria - Ladakh",
     "Bhagoria - Jharkhand"
    ],
-   "a": 0,
-   "t": "Festivals of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Bhagoria - Madhya Pradesh is correctly matched."
+   "answer": 0,
+   "explanation": "Only Bhagoria - Madhya Pradesh is correctly matched.",
+   "topic": "Festivals of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0500",
-   "q": "Which of the following pairs of river and origin is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of river and origin is NOT correctly matched?",
+   "options": [
     "Mahanadi - Verinag",
     "Kaveri - Talakaveri",
     "Son - Amarkantak",
     "Bhima - Bhimashankar"
    ],
-   "a": 0,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Mahanadi - Verinag is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Mahanadi - Verinag is not correctly matched.",
+   "topic": "Rivers of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0501",
-   "q": "Which of the following national parks or tiger reserves is in West Bengal?",
-   "o": [
+   "question": "Which of the following national parks or tiger reserves is in West Bengal?",
+   "options": [
     "Umred Karhandla Sanctuary",
     "Periyar National Park",
     "Sundarbans National Park",
     "Navegaon National Park"
    ],
-   "a": 2,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Sundarbans National Park is in West Bengal."
+   "answer": 2,
+   "explanation": "Sundarbans National Park is in West Bengal.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0502",
-   "q": "Which of the following pairs of quantity and SI unit is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is NOT correctly matched?",
+   "options": [
     "Power - Ohm",
     "Pressure - Pascal",
     "Magnetic flux density - Tesla",
     "Viscosity (dynamic) - Pascal second"
    ],
-   "a": 0,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Power - Ohm is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Power - Ohm is not correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0503",
-   "q": "Which of the following pairs of instrument and use is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of instrument and use is correctly matched?",
+   "options": [
     "Nephelometer - Turbidity of liquid",
     "Nephelometer - Time accurately",
     "Nephelometer - Heart electrical activity",
     "Nephelometer - High temperature"
    ],
-   "a": 0,
-   "t": "Scientific Instruments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Nephelometer - Turbidity of liquid is correctly matched."
+   "answer": 0,
+   "explanation": "Only Nephelometer - Turbidity of liquid is correctly matched.",
+   "topic": "Scientific Instruments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0504",
-   "q": "Which of the following pairs of body part and function is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of body part and function is correctly matched?",
+   "options": [
     "Small intestine - Absorption of digested food",
     "Small intestine - Hearing in the ear",
     "Small intestine - Exchange of gases",
     "Small intestine - Transmission of nerve impulses"
    ],
-   "a": 0,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Small intestine - Absorption of digested food is correctly matched."
+   "answer": 0,
+   "explanation": "Only Small intestine - Absorption of digested food is correctly matched.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0505",
-   "q": "Which of the following pairs of disease and causative agent is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of disease and causative agent is correctly matched?",
+   "options": [
     "Leprosy - Mycobacterium leprae bacteria",
     "Leprosy - Varicella zoster virus",
     "Leprosy - Dengue virus",
     "Leprosy - Hepatitis B virus"
    ],
-   "a": 0,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Leprosy - Mycobacterium leprae bacteria is correctly matched."
+   "answer": 0,
+   "explanation": "Only Leprosy - Mycobacterium leprae bacteria is correctly matched.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0506",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Penicillin - Alexander Fleming",
     "Penicillin - Jacob Perkins",
     "Penicillin - Isaac Newton",
     "Penicillin - Karl Benz"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Penicillin - Alexander Fleming is correctly matched."
+   "answer": 0,
+   "explanation": "Only Penicillin - Alexander Fleming is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0507",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Butter of zinc - Zinc chloride (ZnCl2)",
     "Butter of zinc - Deuterium oxide (D2O)",
     "Butter of zinc - Phenol (C6H5OH)",
     "Butter of zinc - Potassium aluminium sulphate"
    ],
-   "a": 0,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Butter of zinc - Zinc chloride (ZnCl2) is correctly matched."
+   "answer": 0,
+   "explanation": "Only Butter of zinc - Zinc chloride (ZnCl2) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0508",
-   "q": "Which of the following pairs of branch and subject is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of branch and subject is correctly matched?",
+   "options": [
     "Pathology - Diseases",
     "Pathology - Classification of organisms",
     "Pathology - Celestial objects and the universe",
     "Pathology - Viruses"
    ],
-   "a": 0,
-   "t": "Branches of Science",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Pathology - Diseases is correctly matched."
+   "answer": 0,
+   "explanation": "Only Pathology - Diseases is correctly matched.",
+   "topic": "Branches of Science",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0509",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Ceres - Largest moon of Saturn",
     "Ceres - Largest object in the asteroid belt",
     "Ceres - Largest volcano in the Solar System",
     "Ceres - Hottest planet"
    ],
-   "a": 1,
-   "t": "Astronomy",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ceres - Largest object in the asteroid belt is correctly matched."
+   "answer": 1,
+   "explanation": "Only Ceres - Largest object in the asteroid belt is correctly matched.",
+   "topic": "Astronomy",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0510",
-   "q": "Which of the following pairs of scientist and contribution is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of scientist and contribution is correctly matched?",
+   "options": [
     "Louis Pasteur - Germ theory and pasteurisation",
     "Louis Pasteur - Absolute temperature scale",
     "Louis Pasteur - Electromagnetic theory",
     "Louis Pasteur - Fahrenheit temperature scale"
    ],
-   "a": 0,
-   "t": "Scientists",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Louis Pasteur - Germ theory and pasteurisation is correctly matched."
+   "answer": 0,
+   "explanation": "Only Louis Pasteur - Germ theory and pasteurisation is correctly matched.",
+   "topic": "Scientists",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0511",
-   "q": "In which decade did the following event take place: First general elections held in India?",
-   "o": [
+   "question": "In which decade did the following event take place: First general elections held in India?",
+   "options": [
     "2010s",
     "1880s",
     "1980s",
     "1950s"
    ],
-   "a": 3,
-   "t": "Indian History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "First general elections held in India took place in the 1952s."
+   "answer": 3,
+   "explanation": "First general elections held in India took place in the 1952s.",
+   "topic": "Indian History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0512",
-   "q": "Which of the following events took place in 1995?",
-   "o": [
+   "question": "Which of the following events took place in 1995?",
+   "options": [
     "Russian Revolution",
     "Establishment of the World Trade Organization",
     "Founding of the People's Republic of China",
     "Hitler became Chancellor of Germany"
    ],
-   "a": 1,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Establishment of the World Trade Organization took place in 1995."
+   "answer": 1,
+   "explanation": "Establishment of the World Trade Organization took place in 1995.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0513",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Bahadur Shah Zafar - Nominal leader of the Revolt of 1857",
     "Alauddin Khilji - Market control policies and Siri fort",
     "Aurangzeb - Known as Alamgir and ruled for nearly 50 years",
     "Shah Jahan - Last Mughal emperor"
    ],
-   "a": 3,
-   "t": "Rulers",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Shah Jahan - Last Mughal emperor is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Shah Jahan - Last Mughal emperor is not correctly matched.",
+   "topic": "Rulers",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0514",
-   "q": "Which of the following pairs of person and title is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of person and title is NOT correctly matched?",
+   "options": [
     "Rajguru - Revolutionary executed with Bhagat Singh",
     "Rabindranath Tagore - Author of the national anthem of India",
     "Gopal Krishna Gokhale - Political mentor of Mahatma Gandhi",
     "Nana Saheb - Revolutionary who died at Alfred Park"
    ],
-   "a": 3,
-   "t": "Freedom Fighters",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Nana Saheb - Revolutionary who died at Alfred Park is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Nana Saheb - Revolutionary who died at Alfred Park is not correctly matched.",
+   "topic": "Freedom Fighters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0515",
-   "q": "Which of the following pairs of provision and article is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of provision and article is correctly matched?",
+   "options": [
     "Supreme Court of India - Part XIV, Articles 308-323",
     "Supreme Court of India - Part II, Articles 5-11",
     "Supreme Court of India - Article 124",
     "Supreme Court of India - Part IX, Articles 243-243O"
    ],
-   "a": 2,
-   "t": "Constitution Articles",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Supreme Court of India - Article 124 is correctly matched."
+   "answer": 2,
+   "explanation": "Only Supreme Court of India - Article 124 is correctly matched.",
+   "topic": "Constitution Articles",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0516",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Term of a member of the Rajya Sabha - 6 years",
     "Term of a member of the Rajya Sabha - 2019",
     "Term of a member of the Rajya Sabha - The Chief Justice of the concerned High Court",
     "Term of a member of the Rajya Sabha - United Kingdom"
    ],
-   "a": 0,
-   "t": "Constitution Facts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Term of a member of the Rajya Sabha - 6 years is correctly matched."
+   "answer": 0,
+   "explanation": "Only Term of a member of the Rajya Sabha - 6 years is correctly matched.",
+   "topic": "Constitution Facts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0517",
-   "q": "Which of the following pairs of institution and description is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of institution and description is NOT correctly matched?",
+   "options": [
     "Finance Commission - Second highest law officer of the Union",
     "NITI Aayog - Policy think tank of the Government of India",
     "State Legislature - Law-making body of a State",
     "SEBI - Regulator of the securities market"
    ],
-   "a": 0,
-   "t": "Institutions of India",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Finance Commission - Second highest law officer of the Union is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Finance Commission - Second highest law officer of the Union is not correctly matched.",
+   "topic": "Institutions of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0518",
-   "q": "Which of the following days is observed on 4 October?",
-   "o": [
+   "question": "Which of the following days is observed on 4 October?",
+   "options": [
     "World Animal Day",
     "National Mathematics Day (India)",
     "World Kindness Day",
     "International Women's Day"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "4 October is observed as World Animal Day."
+   "answer": 0,
+   "explanation": "4 October is observed as World Animal Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0519",
-   "q": "Which of the following pairs of organisation and headquarters is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of organisation and headquarters is correctly matched?",
+   "options": [
     "Bank for International Settlements - New York",
     "Bank for International Settlements - Geneva",
     "Bank for International Settlements - Vienna",
     "Bank for International Settlements - Basel"
    ],
-   "a": 3,
-   "t": "Organisations and Headquarters",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Bank for International Settlements - Basel is correctly matched."
+   "answer": 3,
+   "explanation": "Only Bank for International Settlements - Basel is correctly matched.",
+   "topic": "Organisations and Headquarters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0520",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "Irani Cup - Tennis",
     "Irani Cup - Multi-sport",
     "Irani Cup - Football",
     "Irani Cup - Cricket"
    ],
-   "a": 3,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Irani Cup - Cricket is correctly matched."
+   "answer": 3,
+   "explanation": "Only Irani Cup - Cricket is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0521",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "National Bravery Award - Award for progress in spiritual matters",
     "National Bravery Award - British award for fiction",
     "National Bravery Award - Award for brave children in India",
     "National Bravery Award - Indian award in agricultural science"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only National Bravery Award - Award for brave children in India is correctly matched."
+   "answer": 2,
+   "explanation": "Only National Bravery Award - Award for brave children in India is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0522",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "The Origin of Species by Means of Natural Selection - Charles Darwin",
     "The Origin of Species by Means of Natural Selection - Karl Marx",
     "The Origin of Species by Means of Natural Selection - Munshi Premchand",
     "The Origin of Species by Means of Natural Selection - John Milton"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only The Origin of Species by Means of Natural Selection - Charles Darwin is correctly matched."
+   "answer": 0,
+   "explanation": "Only The Origin of Species by Means of Natural Selection - Charles Darwin is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0523",
-   "q": "Which of the following pairs of achievement and person is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of achievement and person is NOT correctly matched?",
+   "options": [
     "First woman to win an Olympic gold in wrestling for India - Karnam Malleswari",
     "First woman to fly solo across the Atlantic - Karnam Malleswari",
     "First country to host the modern Olympic Games - Greece",
     "First country to give women the vote - New Zealand"
    ],
-   "a": 1,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair First woman to fly solo across the Atlantic - Karnam Malleswari is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair First woman to fly solo across the Atlantic - Karnam Malleswari is not correctly matched.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0524",
-   "q": "Where is the Konark Sun Temple located?",
-   "o": [
+   "question": "Where is the Konark Sun Temple located?",
+   "options": [
     "Odisha",
     "Kerala",
     "Jamshedpur",
     "Sahara Desert"
    ],
-   "a": 0,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 0,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0525",
-   "q": "Which of the following pairs of question and answer is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of question and answer is correctly matched?",
+   "options": [
     "Which is the softest mineral - Talc",
     "Which is the softest mineral - Tropical monsoon climate",
     "Which is the softest mineral - Magma",
     "Which is the softest mineral - June to September"
    ],
-   "a": 0,
-   "t": "Climate and Atmosphere",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Which is the softest mineral - Talc is correctly matched."
+   "answer": 0,
+   "explanation": "Only Which is the softest mineral - Talc is correctly matched.",
+   "topic": "Climate and Atmosphere",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0526",
-   "q": "Which institution provides export credit in India?",
-   "o": [
+   "question": "Which institution provides export credit in India?",
+   "options": [
     "Inflation",
     "1965",
     "EXIM Bank",
     "Verghese Kurien"
    ],
-   "a": 2,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 2,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0527",
-   "q": "Choose the word most similar in meaning to Fraudulent.",
-   "o": [
+   "question": "Choose the word most similar in meaning to Fraudulent.",
+   "options": [
     "Rude",
     "Doubtful",
     "Deceitful",
     "Unfriendly"
    ],
-   "a": 2,
-   "t": "Synonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "Fraudulent means Deceitful."
+   "answer": 2,
+   "explanation": "Fraudulent means Deceitful.",
+   "topic": "Synonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0528",
-   "q": "Choose the word most opposite in meaning to Dormant.",
-   "o": [
+   "question": "Choose the word most opposite in meaning to Dormant.",
+   "options": [
     "Provoke",
     "Suppress",
     "Reasonable",
     "Active"
    ],
-   "a": 3,
-   "t": "Antonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "The opposite of Dormant is Active."
+   "answer": 3,
+   "explanation": "The opposite of Dormant is Active.",
+   "topic": "Antonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0529",
-   "q": "What is the meaning of the idiom 'Fair-weather friend'?",
-   "o": [
+   "question": "What is the meaning of the idiom 'Fair-weather friend'?",
+   "options": [
     "Extremely happy",
     "To be involved in everything",
     "A friend only in good times",
     "A very difficult task"
    ],
-   "a": 2,
-   "t": "Idioms and Phrases",
-   "l": 2,
-   "s": "generated",
-   "e": "'Fair-weather friend' means A friend only in good times."
+   "answer": 2,
+   "explanation": "'Fair-weather friend' means A friend only in good times.",
+   "topic": "Idioms and Phrases",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0530",
-   "q": "Choose the one word substitute for: One who cannot be avoided",
-   "o": [
+   "question": "Choose the one word substitute for: One who cannot be avoided",
+   "options": [
     "Vegan",
     "Mint",
     "Anatomy",
     "Inevitable"
    ],
-   "a": 3,
-   "t": "One Word Substitution",
-   "l": 2,
-   "s": "generated",
-   "e": "One who cannot be avoided — Inevitable."
+   "answer": 3,
+   "explanation": "One who cannot be avoided — Inevitable.",
+   "topic": "One Word Substitution",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0531",
-   "q": "Which of the following words is spelt correctly?",
-   "o": [
+   "question": "Which of the following words is spelt correctly?",
+   "options": [
     "Happiness",
     "Anonymous",
     "Woollen",
     "Appearance"
    ],
-   "a": 2,
-   "t": "Spellings",
-   "l": 1,
-   "s": "generated",
-   "e": "The correct spelling is Woollen."
+   "answer": 2,
+   "explanation": "The correct spelling is Woollen.",
+   "topic": "Spellings",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0532",
-   "q": "Which of the following is the plural form of Church?",
-   "o": [
+   "question": "Which of the following is the plural form of Church?",
+   "options": [
     "Volcanoes",
     "Wolves",
     "Brothers",
     "Churches"
    ],
-   "a": 3,
-   "t": "Plurals",
-   "l": 2,
-   "s": "generated",
-   "e": "The plural of Church is Churches."
+   "answer": 3,
+   "explanation": "The plural of Church is Churches.",
+   "topic": "Plurals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0533",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Brother - Bride",
     "Brother - Sister",
     "Brother - Niece",
     "Brother - Spinster"
    ],
-   "a": 1,
-   "t": "Genders",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Brother - Sister is correctly matched."
+   "answer": 1,
+   "explanation": "Only Brother - Sister is correctly matched.",
+   "topic": "Genders",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0534",
-   "q": "Fill in the blank correctly: Many, ____, Most",
-   "o": [
+   "question": "Fill in the blank correctly: Many, ____, Most",
+   "options": [
     "More",
     "Kinder",
     "Higher",
     "Happier"
    ],
-   "a": 0,
-   "t": "Degrees of Comparison",
-   "l": 2,
-   "s": "generated",
-   "e": "The correct sequence is Many, More, Most."
+   "answer": 0,
+   "explanation": "The correct sequence is Many, More, Most.",
+   "topic": "Degrees of Comparison",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0535",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "The building is ____ fire. - from",
     "The building is ____ fire. - in",
     "The building is ____ fire. - of",
     "The building is ____ fire. - on"
    ],
-   "a": 3,
-   "t": "Prepositions",
-   "l": 3,
-   "s": "generated",
-   "e": "Only The building is ____ fire. - on is correctly matched."
+   "answer": 3,
+   "explanation": "Only The building is ____ fire. - on is correctly matched.",
+   "topic": "Prepositions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0536",
-   "q": "Which Indian Air Force fighter jet is indigenous?",
-   "o": [
+   "question": "Which Indian Air Force fighter jet is indigenous?",
+   "options": [
     "Tejas",
     "Pradhan Mantri Jeevan Jyoti Bima Yojana",
     "India",
     "Pradhan Mantri Awas Yojana"
    ],
-   "a": 0,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 0,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0537",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Poshan Abhiyaan - Pension for workers in the unorganised sector",
     "Poshan Abhiyaan - Improving nutrition among children and women",
     "Poshan Abhiyaan - Collateral-free loans for micro enterprises",
     "Poshan Abhiyaan - Self-reliance in edible oil production"
    ],
-   "a": 1,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Poshan Abhiyaan - Improving nutrition among children and women is correctly matched."
+   "answer": 1,
+   "explanation": "Only Poshan Abhiyaan - Improving nutrition among children and women is correctly matched.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0538",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Mangalyaan - Cultural integration across states",
     "Mangalyaan - India's first Mars orbiter mission",
     "Mangalyaan - Human spaceflight programme of India",
     "Mangalyaan - Lifestyle for environment movement"
    ],
-   "a": 1,
-   "t": "Missions and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Mangalyaan - India's first Mars orbiter mission is correctly matched."
+   "answer": 1,
+   "explanation": "Only Mangalyaan - India's first Mars orbiter mission is correctly matched.",
+   "topic": "Missions and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0539",
-   "q": "Which computer term is described as: Step by step method to solve a problem?",
-   "o": [
+   "question": "Which computer term is described as: Step by step method to solve a problem?",
+   "options": [
     "Pseudocode",
     "Trojan horse",
     "Speaker",
     "Algorithm"
    ],
-   "a": 3,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Step by step method to solve a problem describes Algorithm."
+   "answer": 3,
+   "explanation": "Step by step method to solve a problem describes Algorithm.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0540",
-   "q": "What is the full form of LVM3?",
-   "o": [
+   "question": "What is the full form of LVM3?",
+   "options": [
     "Launch Vehicle Mark 3",
     "Pradhan Mantri Ujjwala Yojana",
     "Unique Identification Authority of India",
     "National Institution for Transforming India"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "LVM3 stands for Launch Vehicle Mark 3."
+   "answer": 0,
+   "explanation": "LVM3 stands for Launch Vehicle Mark 3.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0541",
-   "q": "What is the capital of Mauritania?",
-   "o": [
+   "question": "What is the capital of Mauritania?",
+   "options": [
     "Jakarta",
     "Nouakchott",
     "Yaounde",
     "Algiers"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Mauritania is Nouakchott."
+   "answer": 1,
+   "explanation": "The capital of Mauritania is Nouakchott.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0542",
-   "q": "What is the chemical symbol of Manganese?",
-   "o": [
+   "question": "What is the chemical symbol of Manganese?",
+   "options": [
     "Pb",
     "C",
     "V",
     "Mn"
    ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "The symbol of Manganese is Mn."
+   "answer": 3,
+   "explanation": "The symbol of Manganese is Mn.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0543",
-   "q": "Which of the following pairs of state and capital is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of state and capital is correctly matched?",
+   "options": [
     "Nagaland - Gandhinagar",
     "Nagaland - Kohima",
     "Nagaland - Imphal",
     "Nagaland - Agartala"
    ],
-   "a": 1,
-   "t": "States and Capitals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Nagaland - Kohima is correctly matched."
+   "answer": 1,
+   "explanation": "Only Nagaland - Kohima is correctly matched.",
+   "topic": "States and Capitals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0544",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "First Indian woman to win an Olympic medal - Aryabhata",
     "First Indian nuclear test was conducted at - Pokhran",
     "First Indian woman to become a judge of the Supreme Court - Justice Fathima Beevi",
     "First Indian to win the Miss Universe title - Sushmita Sen"
    ],
-   "a": 0,
-   "t": "First in India",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair First Indian woman to win an Olympic medal - Aryabhata is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair First Indian woman to win an Olympic medal - Aryabhata is not correctly matched.",
+   "topic": "First in India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0545",
-   "q": "Which of the following pairs of dance and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of dance and state is correctly matched?",
+   "options": [
     "Kikli - Maharashtra",
     "Kikli - Rajasthan",
     "Kikli - Punjab",
     "Kikli - Kerala"
    ],
-   "a": 2,
-   "t": "Folk Dances of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Kikli - Punjab is correctly matched."
+   "answer": 2,
+   "explanation": "Only Kikli - Punjab is correctly matched.",
+   "topic": "Folk Dances of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0546",
-   "q": "Which of the following pairs of festival and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of festival and state is correctly matched?",
+   "options": [
     "Bhagoria - Madhya Pradesh",
     "Bhagoria - Rajasthan",
     "Bhagoria - Karnataka",
     "Bhagoria - West Bengal"
    ],
-   "a": 0,
-   "t": "Festivals of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Bhagoria - Madhya Pradesh is correctly matched."
+   "answer": 0,
+   "explanation": "Only Bhagoria - Madhya Pradesh is correctly matched.",
+   "topic": "Festivals of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0547",
-   "q": "Which of the following pairs of river and origin is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of river and origin is NOT correctly matched?",
+   "options": [
     "Ghaghara - Satopanth Glacier",
     "Sharavati - Ambutirtha",
     "Periyar - Sivagiri Hills",
     "Kosi - Nepal Himalayas"
    ],
-   "a": 0,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Ghaghara - Satopanth Glacier is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Ghaghara - Satopanth Glacier is not correctly matched.",
+   "topic": "Rivers of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0548",
-   "q": "Which of the following national parks or tiger reserves is in Madhya Pradesh?",
-   "o": [
+   "question": "Which of the following national parks or tiger reserves is in Madhya Pradesh?",
+   "options": [
     "Ramgarh Vishdhari Tiger Reserve",
     "Madhav Tiger Reserve",
     "Kanha National Park",
     "Kaziranga National Park"
    ],
-   "a": 1,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Madhav Tiger Reserve is in Madhya Pradesh."
+   "answer": 1,
+   "explanation": "Madhav Tiger Reserve is in Madhya Pradesh.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0549",
-   "q": "Which of the following pairs of quantity and SI unit is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is NOT correctly matched?",
+   "options": [
     "Magnetic flux - Lumen",
     "Illuminance - Lux",
     "Catalytic activity - Katal",
     "Wave number - Reciprocal metre"
    ],
-   "a": 0,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Magnetic flux - Lumen is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Magnetic flux - Lumen is not correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0550",
-   "q": "Which of the following pairs of instrument and use is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of instrument and use is correctly matched?",
+   "options": [
     "Nephelometer - Curvature of surfaces",
     "Nephelometer - Time accurately",
     "Nephelometer - Turbidity of liquid",
     "Nephelometer - Heat change in reactions"
    ],
-   "a": 2,
-   "t": "Scientific Instruments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Nephelometer - Turbidity of liquid is correctly matched."
+   "answer": 2,
+   "explanation": "Only Nephelometer - Turbidity of liquid is correctly matched.",
+   "topic": "Scientific Instruments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0551",
-   "q": "Which of the following pairs of body part and function is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of body part and function is correctly matched?",
+   "options": [
     "Small intestine - Protection and temperature regulation",
     "Small intestine - Absorption of digested food",
     "Small intestine - Largest vein",
     "Small intestine - Transport of oxygen"
    ],
-   "a": 1,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Small intestine - Absorption of digested food is correctly matched."
+   "answer": 1,
+   "explanation": "Only Small intestine - Absorption of digested food is correctly matched.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0552",
-   "q": "Which of the following pairs of disease and causative agent is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of disease and causative agent is correctly matched?",
+   "options": [
     "Leprosy - Poliovirus",
     "Leprosy - Mycobacterium leprae bacteria",
     "Leprosy - Yellow fever virus",
     "Leprosy - Wuchereria bancrofti"
    ],
-   "a": 1,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Leprosy - Mycobacterium leprae bacteria is correctly matched."
+   "answer": 1,
+   "explanation": "Only Leprosy - Mycobacterium leprae bacteria is correctly matched.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0553",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Penicillin - Alexander Fleming",
     "Penicillin - Jacob Perkins",
     "Penicillin - Dmitri Mendeleev",
     "Penicillin - James Chadwick"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Penicillin - Alexander Fleming is correctly matched."
+   "answer": 0,
+   "explanation": "Only Penicillin - Alexander Fleming is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0554",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Butter of zinc - Ethanol (C2H5OH)",
     "Butter of zinc - Deuterium oxide (D2O)",
     "Butter of zinc - Zinc chloride (ZnCl2)",
     "Butter of zinc - Acetylsalicylic acid"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Butter of zinc - Zinc chloride (ZnCl2) is correctly matched."
+   "answer": 2,
+   "explanation": "Only Butter of zinc - Zinc chloride (ZnCl2) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0555",
-   "q": "Which of the following pairs of branch and subject is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of branch and subject is correctly matched?",
+   "options": [
     "Pathology - Diseases",
     "Pathology - Classification of organisms",
     "Pathology - Skin",
     "Pathology - Child health"
    ],
-   "a": 0,
-   "t": "Branches of Science",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Pathology - Diseases is correctly matched."
+   "answer": 0,
+   "explanation": "Only Pathology - Diseases is correctly matched.",
+   "topic": "Branches of Science",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0556",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Ceres - Largest volcano in the Solar System",
     "Ceres - Largest object in the asteroid belt",
     "Ceres - Dwarf planet formerly ninth planet",
     "Ceres - Position from the Sun"
    ],
-   "a": 1,
-   "t": "Astronomy",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ceres - Largest object in the asteroid belt is correctly matched."
+   "answer": 1,
+   "explanation": "Only Ceres - Largest object in the asteroid belt is correctly matched.",
+   "topic": "Astronomy",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0557",
-   "q": "Which of the following pairs of scientist and contribution is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of scientist and contribution is correctly matched?",
+   "options": [
     "Louis Pasteur - Germ theory and pasteurisation",
     "Louis Pasteur - Absolute temperature scale",
     "Louis Pasteur - Phonograph and practical electric bulb",
     "Louis Pasteur - First powered aeroplane flight"
    ],
-   "a": 0,
-   "t": "Scientists",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Louis Pasteur - Germ theory and pasteurisation is correctly matched."
+   "answer": 0,
+   "explanation": "Only Louis Pasteur - Germ theory and pasteurisation is correctly matched.",
+   "topic": "Scientists",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0558",
-   "q": "In which decade did the following event take place: Government of India Act passed?",
-   "o": [
+   "question": "In which decade did the following event take place: Government of India Act passed?",
+   "options": [
     "1930s",
     "1950s",
     "2010s",
     "1980s"
    ],
-   "a": 0,
-   "t": "Indian History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Government of India Act passed took place in the 1935s."
+   "answer": 0,
+   "explanation": "Government of India Act passed took place in the 1935s.",
+   "topic": "Indian History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0559",
-   "q": "Which of the following events took place in 1914?",
-   "o": [
+   "question": "Which of the following events took place in 1914?",
+   "options": [
     "Vasco da Gama reached India by sea",
     "Beginning of World War I",
     "September 11 attacks in the United States",
     "Founding of the People's Republic of China"
    ],
-   "a": 1,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Beginning of World War I took place in 1914."
+   "answer": 1,
+   "explanation": "Beginning of World War I took place in 1914.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0560",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Aurangzeb - Known as Alamgir and ruled for nearly 50 years",
     "Ibrahim Lodi - Last Sultan of Delhi, defeated at Panipat in 1526",
     "Bahadur Shah Zafar - Nominal leader of the Revolt of 1857",
     "Rani Lakshmibai - Last Mughal emperor"
    ],
-   "a": 3,
-   "t": "Rulers",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Rani Lakshmibai - Last Mughal emperor is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Rani Lakshmibai - Last Mughal emperor is not correctly matched.",
+   "topic": "Rulers",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0561",
-   "q": "Which of the following pairs of person and title is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of person and title is NOT correctly matched?",
+   "options": [
     "Subhas Chandra Bose - Netaji, leader of the INA",
     "Bhagat Singh - Revolutionary executed in 1931",
     "Gopal Krishna Gokhale - Last Governor-General of India",
     "Rash Behari Bose - Founder of the Indian Independence League in Japan"
    ],
-   "a": 2,
-   "t": "Freedom Fighters",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Gopal Krishna Gokhale - Last Governor-General of India is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Gopal Krishna Gokhale - Last Governor-General of India is not correctly matched.",
+   "topic": "Freedom Fighters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0562",
-   "q": "Which of the following pairs of provision and article is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of provision and article is correctly matched?",
+   "options": [
     "Supreme Court of India - Part I, Articles 1-4",
     "Supreme Court of India - Article 360",
     "Supreme Court of India - Article 124",
     "Supreme Court of India - Article 165"
    ],
-   "a": 2,
-   "t": "Constitution Articles",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Supreme Court of India - Article 124 is correctly matched."
+   "answer": 2,
+   "explanation": "Only Supreme Court of India - Article 124 is correctly matched.",
+   "topic": "Constitution Articles",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0563",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Term of a member of the Rajya Sabha - 6 years",
     "Term of a member of the Rajya Sabha - 250 members",
     "Term of a member of the Rajya Sabha - 26 November 1949",
     "Term of a member of the Rajya Sabha - United States of America"
    ],
-   "a": 0,
-   "t": "Constitution Facts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Term of a member of the Rajya Sabha - 6 years is correctly matched."
+   "answer": 0,
+   "explanation": "Only Term of a member of the Rajya Sabha - 6 years is correctly matched.",
+   "topic": "Constitution Facts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0564",
-   "q": "Which of the following pairs of institution and description is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of institution and description is NOT correctly matched?",
+   "options": [
     "Chief Minister - Administered by the President through administrators",
     "Lok Sabha - House of the People",
     "Reserve Bank of India - Central bank and monetary authority",
     "Telecom Regulatory Authority of India - Regulator of telecommunications"
    ],
-   "a": 0,
-   "t": "Institutions of India",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Chief Minister - Administered by the President through administrators is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Chief Minister - Administered by the President through administrators is not correctly matched.",
+   "topic": "Institutions of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0565",
-   "q": "Which of the following days is observed on 28 July?",
-   "o": [
+   "question": "Which of the following days is observed on 28 July?",
+   "options": [
     "World Diabetes Day",
     "World Hypertension Day",
     "World Nature Conservation Day",
     "World Wildlife Day"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "28 July is observed as World Nature Conservation Day."
+   "answer": 2,
+   "explanation": "28 July is observed as World Nature Conservation Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0566",
-   "q": "Which of the following pairs of organisation and headquarters is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of organisation and headquarters is correctly matched?",
+   "options": [
     "Bank for International Settlements - Basel",
     "Bank for International Settlements - Manila",
     "Bank for International Settlements - New Delhi",
     "Bank for International Settlements - London"
    ],
-   "a": 0,
-   "t": "Organisations and Headquarters",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Bank for International Settlements - Basel is correctly matched."
+   "answer": 0,
+   "explanation": "Only Bank for International Settlements - Basel is correctly matched.",
+   "topic": "Organisations and Headquarters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0567",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "Irani Cup - Hockey",
     "Irani Cup - Cricket",
     "Irani Cup - Tennis",
     "Irani Cup - Football"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Irani Cup - Cricket is correctly matched."
+   "answer": 1,
+   "explanation": "Only Irani Cup - Cricket is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0568",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "National Bravery Award - Award for progress in spiritual matters",
     "National Bravery Award - Highest sporting honour of India",
     "National Bravery Award - Third highest military decoration of India",
     "National Bravery Award - Award for brave children in India"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only National Bravery Award - Award for brave children in India is correctly matched."
+   "answer": 3,
+   "explanation": "Only National Bravery Award - Award for brave children in India is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0569",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "The Origin of Species by Means of Natural Selection - Charles Darwin",
     "The Origin of Species by Means of Natural Selection - Charles Dickens",
     "The Origin of Species by Means of Natural Selection - Rabindranath Tagore",
     "The Origin of Species by Means of Natural Selection - Jawaharlal Nehru"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only The Origin of Species by Means of Natural Selection - Charles Darwin is correctly matched."
+   "answer": 0,
+   "explanation": "Only The Origin of Species by Means of Natural Selection - Charles Darwin is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0570",
-   "q": "Which of the following pairs of achievement and person is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of achievement and person is NOT correctly matched?",
+   "options": [
     "First Cricket World Cup was held in - England",
     "First person to climb Mount Everest - Edmund Hillary",
     "First person to walk on the Moon - Neil Armstrong",
     "First woman to win an Olympic gold in wrestling for India - Junko Tabei"
    ],
-   "a": 3,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair First woman to win an Olympic gold in wrestling for India - Junko Tabei is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair First woman to win an Olympic gold in wrestling for India - Junko Tabei is not correctly matched.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0571",
-   "q": "Which is the lowest point on the Earth's land surface?",
-   "o": [
+   "question": "Which is the lowest point on the Earth's land surface?",
+   "options": [
     "Paris",
     "Ganga",
     "Rome",
     "Dead Sea"
    ],
-   "a": 3,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 3,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0572",
-   "q": "Which of the following pairs of question and answer is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of question and answer is correctly matched?",
+   "options": [
     "Which is the softest mineral - October to December",
     "Which is the softest mineral - Talc",
     "Which is the softest mineral - Crust",
     "Which is the softest mineral - Mango showers"
    ],
-   "a": 1,
-   "t": "Climate and Atmosphere",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Which is the softest mineral - Talc is correctly matched."
+   "answer": 1,
+   "explanation": "Only Which is the softest mineral - Talc is correctly matched.",
+   "topic": "Climate and Atmosphere",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0573",
-   "q": "Which agreement preceded the World Trade Organization?",
-   "o": [
+   "question": "Which agreement preceded the World Trade Organization?",
+   "options": [
     "Silver Fibre Revolution",
     "Repo rate",
     "Shanghai",
     "General Agreement on Tariffs and Trade"
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0574",
-   "q": "Choose the word most similar in meaning to Empathy.",
-   "o": [
+   "question": "Choose the word most similar in meaning to Empathy.",
+   "options": [
     "Pacify",
     "Compassion",
     "Possible",
     "Obedient"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "Empathy means Compassion."
+   "answer": 1,
+   "explanation": "Empathy means Compassion.",
+   "topic": "Synonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0575",
-   "q": "Choose the word most opposite in meaning to Ratify.",
-   "o": [
+   "question": "Choose the word most opposite in meaning to Ratify.",
+   "options": [
     "Reject",
     "Beneficial",
     "Rigid",
     "Careless"
    ],
-   "a": 0,
-   "t": "Antonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "The opposite of Ratify is Reject."
+   "answer": 0,
+   "explanation": "The opposite of Ratify is Reject.",
+   "topic": "Antonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0576",
-   "q": "What is the meaning of the idiom 'A wild goose chase'?",
-   "o": [
+   "question": "What is the meaning of the idiom 'A wild goose chase'?",
+   "options": [
     "In close partnership",
     "A futile search",
     "To break a promise",
     "To become very angry"
    ],
-   "a": 1,
-   "t": "Idioms and Phrases",
-   "l": 2,
-   "s": "generated",
-   "e": "'A wild goose chase' means A futile search."
+   "answer": 1,
+   "explanation": "'A wild goose chase' means A futile search.",
+   "topic": "Idioms and Phrases",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0577",
-   "q": "Choose the one word substitute for: One who loves books",
-   "o": [
+   "question": "Choose the one word substitute for: One who loves books",
+   "options": [
     "Antibiotic",
     "Extempore",
     "Bibliophile",
     "Pessimist"
    ],
-   "a": 2,
-   "t": "One Word Substitution",
-   "l": 2,
-   "s": "generated",
-   "e": "One who loves books — Bibliophile."
+   "answer": 2,
+   "explanation": "One who loves books — Bibliophile.",
+   "topic": "One Word Substitution",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0578",
-   "q": "Which of the following words is spelt correctly?",
-   "o": [
+   "question": "Which of the following words is spelt correctly?",
+   "options": [
     "Necessary",
     "Millennium",
     "Committee",
     "Yield"
    ],
-   "a": 2,
-   "t": "Spellings",
-   "l": 1,
-   "s": "generated",
-   "e": "The correct spelling is Committee."
+   "answer": 2,
+   "explanation": "The correct spelling is Committee.",
+   "topic": "Spellings",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0579",
-   "q": "Which of the following is the plural form of Photo?",
-   "o": [
+   "question": "Which of the following is the plural form of Photo?",
+   "options": [
     "Photos",
     "Buses",
     "Commanders-in-Chief",
     "Halves"
    ],
-   "a": 0,
-   "t": "Plurals",
-   "l": 2,
-   "s": "generated",
-   "e": "The plural of Photo is Photos."
+   "answer": 0,
+   "explanation": "The plural of Photo is Photos.",
+   "topic": "Plurals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0580",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Brother - Sister",
     "Brother - Manageress",
     "Brother - Daughter",
     "Brother - Stewardess"
    ],
-   "a": 0,
-   "t": "Genders",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Brother - Sister is correctly matched."
+   "answer": 0,
+   "explanation": "Only Brother - Sister is correctly matched.",
+   "topic": "Genders",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0581",
-   "q": "Fill in the blank correctly: Good, ____, Best",
-   "o": [
+   "question": "Fill in the blank correctly: Good, ____, Best",
+   "options": [
     "Better",
     "Farther",
     "Shallower",
     "Less"
    ],
-   "a": 0,
-   "t": "Degrees of Comparison",
-   "l": 2,
-   "s": "generated",
-   "e": "The correct sequence is Good, Better, Best."
+   "answer": 0,
+   "explanation": "The correct sequence is Good, Better, Best.",
+   "topic": "Degrees of Comparison",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0582",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "The building is ____ fire. - of",
     "The building is ____ fire. - for",
     "The building is ____ fire. - from",
     "The building is ____ fire. - on"
    ],
-   "a": 3,
-   "t": "Prepositions",
-   "l": 3,
-   "s": "generated",
-   "e": "Only The building is ____ fire. - on is correctly matched."
+   "answer": 3,
+   "explanation": "Only The building is ____ fire. - on is correctly matched.",
+   "topic": "Prepositions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0583",
-   "q": "Which Indian state tops the Human Development Index ranking?",
-   "o": [
+   "question": "Which Indian state tops the Human Development Index ranking?",
+   "options": [
     "Vivek Express",
     "Aryabhatta Research Institute of Observational Sciences telescope",
     "Shiv Shakti Point",
     "Kerala"
    ],
-   "a": 3,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 3,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0584",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Poshan Abhiyaan - Day care facilities for working mothers",
     "Poshan Abhiyaan - Food grain self-sufficiency",
     "Poshan Abhiyaan - All-weather roads for rural areas",
     "Poshan Abhiyaan - Improving nutrition among children and women"
    ],
-   "a": 3,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Poshan Abhiyaan - Improving nutrition among children and women is correctly matched."
+   "answer": 3,
+   "explanation": "Only Poshan Abhiyaan - Improving nutrition among children and women is correctly matched.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0585",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Mangalyaan - India's first Mars orbiter mission",
     "Mangalyaan - Adoption of electric vehicles",
     "Mangalyaan - Solar observation from the Lagrange point L1",
     "Mangalyaan - Green hydrogen production and export hub"
    ],
-   "a": 0,
-   "t": "Missions and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Mangalyaan - India's first Mars orbiter mission is correctly matched."
+   "answer": 0,
+   "explanation": "Only Mangalyaan - India's first Mars orbiter mission is correctly matched.",
+   "topic": "Missions and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0586",
-   "q": "Which computer term is described as: Software designed to damage or intrude?",
-   "o": [
+   "question": "Which computer term is described as: Software designed to damage or intrude?",
+   "options": [
     "Malware",
     "Speaker",
     "HTTP",
     "CSS"
    ],
-   "a": 0,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Software designed to damage or intrude describes Malware."
+   "answer": 0,
+   "explanation": "Software designed to damage or intrude describes Malware.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0587",
-   "q": "What is the full form of ATM?",
-   "o": [
+   "question": "What is the full form of ATM?",
+   "options": [
     "Central Vigilance Commission",
     "National Pension System",
     "Automated Teller Machine",
     "Universal Postal Union"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "ATM stands for Automated Teller Machine."
+   "answer": 2,
+   "explanation": "ATM stands for Automated Teller Machine.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0588",
-   "q": "What is the capital of Hungary?",
-   "o": [
+   "question": "What is the capital of Hungary?",
+   "options": [
     "Santiago",
     "Budapest",
     "Naypyidaw",
     "Gitega"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Hungary is Budapest."
+   "answer": 1,
+   "explanation": "The capital of Hungary is Budapest.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0589",
-   "q": "What is the chemical symbol of Rhenium?",
-   "o": [
+   "question": "What is the chemical symbol of Rhenium?",
+   "options": [
     "Fe",
     "Th",
     "Bk",
     "Re"
    ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "The symbol of Rhenium is Re."
+   "answer": 3,
+   "explanation": "The symbol of Rhenium is Re.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0590",
-   "q": "Which of the following pairs of state and capital is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of state and capital is correctly matched?",
+   "options": [
     "Andhra Pradesh - Lucknow",
     "Andhra Pradesh - Amaravati",
     "Andhra Pradesh - Dispur",
     "Andhra Pradesh - Shillong"
    ],
-   "a": 1,
-   "t": "States and Capitals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Andhra Pradesh - Amaravati is correctly matched."
+   "answer": 1,
+   "explanation": "Only Andhra Pradesh - Amaravati is correctly matched.",
+   "topic": "States and Capitals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0591",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "First Indian woman to win an Olympic medal - Karnam Malleswari",
     "First Indian nuclear test was conducted at - Pokhran",
     "First Indian Railway line started between - Bombay and Thane",
     "First Indian woman IPS officer - Bombay and Thane"
    ],
-   "a": 3,
-   "t": "First in India",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair First Indian woman IPS officer - Bombay and Thane is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair First Indian woman IPS officer - Bombay and Thane is not correctly matched.",
+   "topic": "First in India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0592",
-   "q": "Which of the following pairs of dance and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of dance and state is correctly matched?",
+   "options": [
     "Singhi Chham - Sikkim",
     "Singhi Chham - Punjab",
     "Singhi Chham - Kerala",
     "Singhi Chham - Odisha"
    ],
-   "a": 0,
-   "t": "Folk Dances of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Singhi Chham - Sikkim is correctly matched."
+   "answer": 0,
+   "explanation": "Only Singhi Chham - Sikkim is correctly matched.",
+   "topic": "Folk Dances of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0593",
-   "q": "Which of the following pairs of festival and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of festival and state is correctly matched?",
+   "options": [
     "Desert Festival - Rajasthan",
     "Desert Festival - Assam",
     "Desert Festival - Maharashtra",
     "Desert Festival - Jharkhand"
    ],
-   "a": 0,
-   "t": "Festivals of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Desert Festival - Rajasthan is correctly matched."
+   "answer": 0,
+   "explanation": "Only Desert Festival - Rajasthan is correctly matched.",
+   "topic": "Festivals of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0594",
-   "q": "Which of the following pairs of river and origin is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of river and origin is NOT correctly matched?",
+   "options": [
     "Ghaghara - Mapchachungo",
     "Sharavati - Ambutirtha",
     "Betwa - Vindhya Range",
     "Penna - Vindhya Range"
    ],
-   "a": 3,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Penna - Vindhya Range is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Penna - Vindhya Range is not correctly matched.",
+   "topic": "Rivers of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0595",
-   "q": "Which of the following national parks or tiger reserves is in Maharashtra?",
-   "o": [
+   "question": "Which of the following national parks or tiger reserves is in Maharashtra?",
+   "options": [
     "Nameri National Park",
     "Bor Tiger Reserve",
     "Kaziranga National Park",
     "Pakhui Tiger Reserve"
    ],
-   "a": 1,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Bor Tiger Reserve is in Maharashtra."
+   "answer": 1,
+   "explanation": "Bor Tiger Reserve is in Maharashtra.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0596",
-   "q": "Which of the following pairs of quantity and SI unit is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is NOT correctly matched?",
+   "options": [
     "Magnetic flux - Weber",
     "Illuminance - Lux",
     "Radioactivity - Becquerel",
     "Solid angle - Becquerel"
    ],
-   "a": 3,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Solid angle - Becquerel is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Solid angle - Becquerel is not correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0597",
-   "q": "Which of the following pairs of instrument and use is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of instrument and use is correctly matched?",
+   "options": [
     "Calorimeter - Heat change in reactions",
     "Calorimeter - Wind speed",
     "Calorimeter - Purity of milk",
     "Calorimeter - Earthquakes"
    ],
-   "a": 0,
-   "t": "Scientific Instruments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Calorimeter - Heat change in reactions is correctly matched."
+   "answer": 0,
+   "explanation": "Only Calorimeter - Heat change in reactions is correctly matched.",
+   "topic": "Scientific Instruments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0598",
-   "q": "Which of the following pairs of body part and function is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of body part and function is correctly matched?",
+   "options": [
     "Diaphragm - Production of blood cells",
     "Diaphragm - Helps in breathing",
     "Diaphragm - Sensitive layer of the eye",
     "Diaphragm - Refraction of light in the eye"
    ],
-   "a": 1,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Diaphragm - Helps in breathing is correctly matched."
+   "answer": 1,
+   "explanation": "Only Diaphragm - Helps in breathing is correctly matched.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0599",
-   "q": "Which of the following pairs of disease and causative agent is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of disease and causative agent is correctly matched?",
+   "options": [
     "Kala-azar - Influenza virus",
     "Kala-azar - Leishmania donovani",
     "Kala-azar - Measles virus",
     "Kala-azar - Mumps virus"
    ],
-   "a": 1,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Kala-azar - Leishmania donovani is correctly matched."
+   "answer": 1,
+   "explanation": "Only Kala-azar - Leishmania donovani is correctly matched.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0600",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Dynamite - John Logie Baird",
     "Dynamite - James Chadwick",
     "Dynamite - William Harvey",
     "Dynamite - Alfred Nobel"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Dynamite - Alfred Nobel is correctly matched."
+   "answer": 3,
+   "explanation": "Only Dynamite - Alfred Nobel is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0601",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Aspirin - Acetylsalicylic acid",
     "Aspirin - Calcium hydroxide (Ca(OH)2)",
     "Aspirin - Sodium hydroxide (NaOH)",
     "Aspirin - Calcium sulphate hemihydrate (CaSO4.1/2H2O)"
    ],
-   "a": 0,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Aspirin - Acetylsalicylic acid is correctly matched."
+   "answer": 0,
+   "explanation": "Only Aspirin - Acetylsalicylic acid is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0602",
-   "q": "Which of the following pairs of branch and subject is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of branch and subject is correctly matched?",
+   "options": [
     "Physiology - Plants",
     "Physiology - Child health",
     "Physiology - Oceans",
     "Physiology - Functions of living organisms"
    ],
-   "a": 3,
-   "t": "Branches of Science",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Physiology - Functions of living organisms is correctly matched."
+   "answer": 3,
+   "explanation": "Only Physiology - Functions of living organisms is correctly matched.",
+   "topic": "Branches of Science",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0603",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Europa - Only planet known to support life",
     "Europa - Icy moon of Jupiter",
     "Europa - Position from the Sun",
     "Europa - Coldest planetary atmosphere"
    ],
-   "a": 1,
-   "t": "Astronomy",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Europa - Icy moon of Jupiter is correctly matched."
+   "answer": 1,
+   "explanation": "Only Europa - Icy moon of Jupiter is correctly matched.",
+   "topic": "Astronomy",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0604",
-   "q": "Which of the following pairs of scientist and contribution is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of scientist and contribution is correctly matched?",
+   "options": [
     "Gregor Mendel - Heliocentric model of the Solar System",
     "Gregor Mendel - First powered aeroplane flight",
     "Gregor Mendel - Periodic table of elements",
     "Gregor Mendel - Laws of inheritance"
    ],
-   "a": 3,
-   "t": "Scientists",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Gregor Mendel - Laws of inheritance is correctly matched."
+   "answer": 3,
+   "explanation": "Only Gregor Mendel - Laws of inheritance is correctly matched.",
+   "topic": "Scientists",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0605",
-   "q": "In which decade did the following event take place: Indira Gandhi became Prime Minister?",
-   "o": [
+   "question": "In which decade did the following event take place: Indira Gandhi became Prime Minister?",
+   "options": [
     "2000s",
     "1960s",
     "1940s",
     "1950s"
    ],
-   "a": 1,
-   "t": "Indian History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Indira Gandhi became Prime Minister took place in the 1966s."
+   "answer": 1,
+   "explanation": "Indira Gandhi became Prime Minister took place in the 1966s.",
+   "topic": "Indian History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0606",
-   "q": "Which of the following events took place in 1453?",
-   "o": [
+   "question": "Which of the following events took place in 1453?",
+   "options": [
     "Issue of the Emancipation Proclamation",
     "D-Day landings in Normandy",
     "Adoption of the UN Sustainable Development Goals",
     "Fall of Constantinople"
    ],
-   "a": 3,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Fall of Constantinople took place in 1453."
+   "answer": 3,
+   "explanation": "Fall of Constantinople took place in 1453.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0607",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Rajaraja Chola I - Built the Brihadeeswarar Temple at Thanjavur",
     "Humayun - Famous Vijayanagara ruler and author of Amuktamalyada",
     "Alauddin Khilji - Market control policies and Siri fort",
     "Rani Lakshmibai - Rani of Jhansi in the Revolt of 1857"
    ],
-   "a": 1,
-   "t": "Rulers",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Humayun - Famous Vijayanagara ruler and author of Amuktamalyada is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Humayun - Famous Vijayanagara ruler and author of Amuktamalyada is not correctly matched.",
+   "topic": "Rulers",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0608",
-   "q": "Which of the following pairs of person and title is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of person and title is NOT correctly matched?",
+   "options": [
     "Nana Saheb - Leader of the Revolt at Kanpur",
     "Rash Behari Bose - Founder of the Indian Independence League in Japan",
     "Mangal Pandey - Soldier who sparked the Revolt of 1857",
     "Maulana Abul Kalam Azad - Political mentor of Mahatma Gandhi"
    ],
-   "a": 3,
-   "t": "Freedom Fighters",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Maulana Abul Kalam Azad - Political mentor of Mahatma Gandhi is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Maulana Abul Kalam Azad - Political mentor of Mahatma Gandhi is not correctly matched.",
+   "topic": "Freedom Fighters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0609",
-   "q": "Which of the following pairs of provision and article is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of provision and article is correctly matched?",
+   "options": [
     "Elections - Part XVII, Articles 343-351",
     "Elections - Articles 25-28",
     "Elections - Part XV, Articles 324-329",
     "Elections - Part V, Articles 52-151"
    ],
-   "a": 2,
-   "t": "Constitution Articles",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Elections - Part XV, Articles 324-329 is correctly matched."
+   "answer": 2,
+   "explanation": "Only Elections - Part XV, Articles 324-329 is correctly matched.",
+   "topic": "Constitution Articles",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0610",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Constitutional advisor to the Constituent Assembly - The Chief Justice of the concerned High Court",
     "Constitutional advisor to the Constituent Assembly - Australia",
     "Constitutional advisor to the Constituent Assembly - B. N. Rau",
     "Constitutional advisor to the Constituent Assembly - 30 years"
    ],
-   "a": 2,
-   "t": "Constitution Facts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Constitutional advisor to the Constituent Assembly - B. N. Rau is correctly matched."
+   "answer": 2,
+   "explanation": "Only Constitutional advisor to the Constituent Assembly - B. N. Rau is correctly matched.",
+   "topic": "Constitution Facts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0611",
-   "q": "Which of the following pairs of institution and description is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of institution and description is NOT correctly matched?",
+   "options": [
     "Chief Minister - Head of the State Government",
     "Lok Sabha - House of the People",
     "Municipality - Local self-government in urban areas",
     "NITI Aayog Vice Chairman - Local self-government in urban areas"
    ],
-   "a": 3,
-   "t": "Institutions of India",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair NITI Aayog Vice Chairman - Local self-government in urban areas is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair NITI Aayog Vice Chairman - Local self-government in urban areas is not correctly matched.",
+   "topic": "Institutions of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0612",
-   "q": "Which of the following days is observed on 4 January?",
-   "o": [
+   "question": "Which of the following days is observed on 4 January?",
+   "options": [
     "World Braille Day",
     "World Heritage Day",
     "World Nature Conservation Day",
     "World Ozone Day"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "4 January is observed as World Braille Day."
+   "answer": 0,
+   "explanation": "4 January is observed as World Braille Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0613",
-   "q": "Which of the following pairs of organisation and headquarters is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of organisation and headquarters is correctly matched?",
+   "options": [
     "World Food Programme - Rome",
     "World Food Programme - Kathmandu",
     "World Food Programme - Geneva",
     "World Food Programme - New York"
    ],
-   "a": 0,
-   "t": "Organisations and Headquarters",
-   "l": 3,
-   "s": "generated",
-   "e": "Only World Food Programme - Rome is correctly matched."
+   "answer": 0,
+   "explanation": "Only World Food Programme - Rome is correctly matched.",
+   "topic": "Organisations and Headquarters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0614",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "Sudirman Cup - Badminton",
     "Sudirman Cup - Football",
     "Sudirman Cup - Cricket",
     "Sudirman Cup - Tennis"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Sudirman Cup - Badminton is correctly matched."
+   "answer": 0,
+   "explanation": "Only Sudirman Cup - Badminton is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0615",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Padma Vibhushan - Second highest civilian award of India",
     "Padma Vibhushan - Indian award for peace, disarmament and development",
     "Padma Vibhushan - Second highest military decoration of India",
     "Padma Vibhushan - Indian literary award"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Padma Vibhushan - Second highest civilian award of India is correctly matched."
+   "answer": 0,
+   "explanation": "Only Padma Vibhushan - Second highest civilian award of India is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0616",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Wings of Fire - Rabindranath Tagore",
     "Wings of Fire - Maulana Abul Kalam Azad",
     "Wings of Fire - Plato",
     "Wings of Fire - A. P. J. Abdul Kalam"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Wings of Fire - A. P. J. Abdul Kalam is correctly matched."
+   "answer": 3,
+   "explanation": "Only Wings of Fire - A. P. J. Abdul Kalam is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0617",
-   "q": "Which of the following pairs of achievement and person is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of achievement and person is NOT correctly matched?",
+   "options": [
     "First Winter Olympic Games were held in - United States of America",
     "First woman Prime Minister in the world - Sirimavo Bandaranaike",
     "First person to win two Nobel Prizes - Marie Curie",
     "First person to run a mile in under four minutes - Roger Bannister"
    ],
-   "a": 0,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair First Winter Olympic Games were held in - United States of America is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair First Winter Olympic Games were held in - United States of America is not correctly matched.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0618",
-   "q": "Where is Machu Picchu located?",
-   "o": [
+   "question": "Where is Machu Picchu located?",
+   "options": [
     "Rome",
     "Andhra Pradesh",
     "Prime Meridian",
     "Peru"
    ],
-   "a": 3,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 3,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0619",
-   "q": "Which of the following pairs of question and answer is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of question and answer is correctly matched?",
+   "options": [
     "Which is the most abundant element in the Earth's crust - Tropical monsoon climate",
     "Which is the most abundant element in the Earth's crust - From the land to the sea",
     "Which is the most abundant element in the Earth's crust - From the sea to the land",
     "Which is the most abundant element in the Earth's crust - Oxygen"
    ],
-   "a": 3,
-   "t": "Climate and Atmosphere",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Which is the most abundant element in the Earth's crust - Oxygen is correctly matched."
+   "answer": 3,
+   "explanation": "Only Which is the most abundant element in the Earth's crust - Oxygen is correctly matched.",
+   "topic": "Climate and Atmosphere",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0620",
-   "q": "Which organ of the World Bank lends to the private sector?",
-   "o": [
+   "question": "Which organ of the World Bank lends to the private sector?",
+   "options": [
     "Fiscal federalism",
     "International Finance Corporation",
     "Contingency Fund",
     "Washington, D.C."
    ],
-   "a": 1,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 1,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0621",
-   "q": "Choose the word most similar in meaning to Irascible.",
-   "o": [
+   "question": "Choose the word most similar in meaning to Irascible.",
+   "options": [
     "Obstruct",
     "Prominent",
     "Dilemma",
     "Irritable"
    ],
-   "a": 3,
-   "t": "Synonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "Irascible means Irritable."
+   "answer": 3,
+   "explanation": "Irascible means Irritable.",
+   "topic": "Synonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0622",
-   "q": "Choose the word most opposite in meaning to Prudent.",
-   "o": [
+   "question": "Choose the word most opposite in meaning to Prudent.",
+   "options": [
     "Reckless",
     "Reputable",
     "Retain",
     "Obscure"
    ],
-   "a": 0,
-   "t": "Antonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "The opposite of Prudent is Reckless."
+   "answer": 0,
+   "explanation": "The opposite of Prudent is Reckless.",
+   "topic": "Antonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0623",
-   "q": "What is the meaning of the idiom 'Fall flat'?",
-   "o": [
+   "question": "What is the meaning of the idiom 'Fall flat'?",
+   "options": [
     "Fail to have the intended effect",
     "Between two equal dangers",
     "Occupy a less important position",
     "To discuss private matters openly"
    ],
-   "a": 0,
-   "t": "Idioms and Phrases",
-   "l": 2,
-   "s": "generated",
-   "e": "'Fall flat' means Fail to have the intended effect."
+   "answer": 0,
+   "explanation": "'Fall flat' means Fail to have the intended effect.",
+   "topic": "Idioms and Phrases",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0624",
-   "q": "Choose the one word substitute for: The murder of a human being",
-   "o": [
+   "question": "Choose the one word substitute for: The murder of a human being",
+   "options": [
     "Gullible",
     "Aristocracy",
     "Homicide",
     "Mint"
    ],
-   "a": 2,
-   "t": "One Word Substitution",
-   "l": 2,
-   "s": "generated",
-   "e": "The murder of a human being — Homicide."
+   "answer": 2,
+   "explanation": "The murder of a human being — Homicide.",
+   "topic": "One Word Substitution",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0625",
-   "q": "Which of the following words is spelt correctly?",
-   "o": [
+   "question": "Which of the following words is spelt correctly?",
+   "options": [
     "Yield",
     "Interrupt",
     "Tomorrow",
     "Chief"
    ],
-   "a": 1,
-   "t": "Spellings",
-   "l": 1,
-   "s": "generated",
-   "e": "The correct spelling is Interrupt."
+   "answer": 1,
+   "explanation": "The correct spelling is Interrupt.",
+   "topic": "Spellings",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0626",
-   "q": "Which of the following is the plural form of Phenomenon?",
-   "o": [
+   "question": "Which of the following is the plural form of Phenomenon?",
+   "options": [
     "Trout",
     "Phenomena",
     "Cities",
     "Deer"
    ],
-   "a": 1,
-   "t": "Plurals",
-   "l": 2,
-   "s": "generated",
-   "e": "The plural of Phenomenon is Phenomena."
+   "answer": 1,
+   "explanation": "The plural of Phenomenon is Phenomena.",
+   "topic": "Plurals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0627",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Man - Aunt",
     "Man - Woman",
     "Man - Bitch",
     "Man - Empress"
    ],
-   "a": 1,
-   "t": "Genders",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Man - Woman is correctly matched."
+   "answer": 1,
+   "explanation": "Only Man - Woman is correctly matched.",
+   "topic": "Genders",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0628",
-   "q": "Fill in the blank correctly: Small, ____, Smallest",
-   "o": [
+   "question": "Fill in the blank correctly: Small, ____, Smallest",
+   "options": [
     "Stronger",
     "Simpler",
     "Smaller",
     "Taller"
    ],
-   "a": 2,
-   "t": "Degrees of Comparison",
-   "l": 2,
-   "s": "generated",
-   "e": "The correct sequence is Small, Smaller, Smallest."
+   "answer": 2,
+   "explanation": "The correct sequence is Small, Smaller, Smallest.",
+   "topic": "Degrees of Comparison",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0629",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "I have no appetite ____ food. - of",
     "I have no appetite ____ food. - on",
     "I have no appetite ____ food. - for",
     "I have no appetite ____ food. - from"
    ],
-   "a": 2,
-   "t": "Prepositions",
-   "l": 3,
-   "s": "generated",
-   "e": "Only I have no appetite ____ food. - for is correctly matched."
+   "answer": 2,
+   "explanation": "Only I have no appetite ____ food. - for is correctly matched.",
+   "topic": "Prepositions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0630",
-   "q": "Which cyclone hit the east coast of India in 2020?",
-   "o": [
+   "question": "Which cyclone hit the east coast of India in 2020?",
+   "options": [
     "Cyclone Amphan",
     "Reserve Bank of India",
     "Deen Dayal Upadhyaya Gram Jyoti Yojana",
     "All India Tiger Estimation"
    ],
-   "a": 0,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 0,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0631",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Ujjwala 2.0 - Support to traditional artisans and craftspeople",
     "Ujjwala 2.0 - Financial inclusion through zero balance bank accounts",
     "Ujjwala 2.0 - Extension of free LPG connections to migrant families",
     "Ujjwala 2.0 - India's central bank digital currency pilot"
    ],
-   "a": 2,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ujjwala 2.0 - Extension of free LPG connections to migrant families is correctly matched."
+   "answer": 2,
+   "explanation": "Only Ujjwala 2.0 - Extension of free LPG connections to migrant families is correctly matched.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0632",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Chandrayaan-2 - Multi-wavelength space observatory",
     "Chandrayaan-2 - Lunar orbiter studying the Moon",
     "Chandrayaan-2 - Clean cooking fuel for poor households",
     "Chandrayaan-2 - Indigenous reusable space shuttle technology"
    ],
-   "a": 1,
-   "t": "Missions and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Chandrayaan-2 - Lunar orbiter studying the Moon is correctly matched."
+   "answer": 1,
+   "explanation": "Only Chandrayaan-2 - Lunar orbiter studying the Moon is correctly matched.",
+   "topic": "Missions and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0633",
-   "q": "Which computer term is described as: Protocol for transferring files?",
-   "o": [
+   "question": "Which computer term is described as: Protocol for transferring files?",
+   "options": [
     "FTP",
     "CPU",
     "Web browser",
     "Kernel"
    ],
-   "a": 0,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Protocol for transferring files describes FTP."
+   "answer": 0,
+   "explanation": "Protocol for transferring files describes FTP.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0634",
-   "q": "What is the full form of UGC?",
-   "o": [
+   "question": "What is the full form of UGC?",
+   "options": [
     "National Stock Exchange",
     "Research and Analysis Wing",
     "Intensive Care Unit",
     "University Grants Commission"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "UGC stands for University Grants Commission."
+   "answer": 3,
+   "explanation": "UGC stands for University Grants Commission.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0635",
-   "q": "What is the capital of Finland?",
-   "o": [
+   "question": "What is the capital of Finland?",
+   "options": [
     "Helsinki",
     "Hanoi",
     "Doha",
     "Santo Domingo"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Finland is Helsinki."
+   "answer": 0,
+   "explanation": "The capital of Finland is Helsinki.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0636",
-   "q": "What is the chemical symbol of Fermium?",
-   "o": [
+   "question": "What is the chemical symbol of Fermium?",
+   "options": [
     "Eu",
     "Ts",
     "Fm",
     "Sn"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "The symbol of Fermium is Fm."
+   "answer": 2,
+   "explanation": "The symbol of Fermium is Fm.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0637",
-   "q": "Which of the following pairs of state and capital is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of state and capital is correctly matched?",
+   "options": [
     "Andhra Pradesh - Dehradun",
     "Andhra Pradesh - Gangtok",
     "Andhra Pradesh - Dispur",
     "Andhra Pradesh - Amaravati"
    ],
-   "a": 3,
-   "t": "States and Capitals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Andhra Pradesh - Amaravati is correctly matched."
+   "answer": 3,
+   "explanation": "Only Andhra Pradesh - Amaravati is correctly matched.",
+   "topic": "States and Capitals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0638",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "First Indian woman IPS officer - Kiran Bedi",
     "First Chief Justice of India - H. J. Kania",
     "First Indian to win the Miss Universe title - Sushmita Sen",
     "First Indian woman to climb Mount Everest - Mihir Sen"
    ],
-   "a": 3,
-   "t": "First in India",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair First Indian woman to climb Mount Everest - Mihir Sen is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair First Indian woman to climb Mount Everest - Mihir Sen is not correctly matched.",
+   "topic": "First in India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0639",
-   "q": "Which of the following pairs of dance and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of dance and state is correctly matched?",
+   "options": [
     "Singhi Chham - Kerala",
     "Singhi Chham - Sikkim",
     "Singhi Chham - Odisha",
     "Singhi Chham - Haryana"
    ],
-   "a": 1,
-   "t": "Folk Dances of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Singhi Chham - Sikkim is correctly matched."
+   "answer": 1,
+   "explanation": "Only Singhi Chham - Sikkim is correctly matched.",
+   "topic": "Folk Dances of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0640",
-   "q": "Which of the following pairs of festival and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of festival and state is correctly matched?",
+   "options": [
     "Desert Festival - Kerala",
     "Desert Festival - Rajasthan",
     "Desert Festival - Meghalaya",
     "Desert Festival - Assam"
    ],
-   "a": 1,
-   "t": "Festivals of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Desert Festival - Rajasthan is correctly matched."
+   "answer": 1,
+   "explanation": "Only Desert Festival - Rajasthan is correctly matched.",
+   "topic": "Festivals of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0641",
-   "q": "Which of the following pairs of river and origin is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of river and origin is NOT correctly matched?",
+   "options": [
     "Penna - Nandi Hills",
     "Chenab - Baralacha La",
     "Kosi - Nepal Himalayas",
     "Kaveri - Bhimashankar"
    ],
-   "a": 3,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Kaveri - Bhimashankar is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Kaveri - Bhimashankar is not correctly matched.",
+   "topic": "Rivers of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0642",
-   "q": "Which of the following national parks or tiger reserves is in Jharkhand?",
-   "o": [
+   "question": "Which of the following national parks or tiger reserves is in Jharkhand?",
+   "options": [
     "Chilika Lake Sanctuary",
     "Dalma Wildlife Sanctuary",
     "Panna National Park",
     "Nagi / Nakti Bird Sanctuary"
    ],
-   "a": 1,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Dalma Wildlife Sanctuary is in Jharkhand."
+   "answer": 1,
+   "explanation": "Dalma Wildlife Sanctuary is in Jharkhand.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0643",
-   "q": "Which of the following pairs of quantity and SI unit is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is NOT correctly matched?",
+   "options": [
     "Solid angle - Steradian",
     "Electric potential - Volt",
     "Wave number - Reciprocal metre",
     "Pressure - Pascal second"
    ],
-   "a": 3,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Pressure - Pascal second is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Pressure - Pascal second is not correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0644",
-   "q": "Which of the following pairs of instrument and use is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of instrument and use is correctly matched?",
+   "options": [
     "Calorimeter - Distant objects",
     "Calorimeter - Heat change in reactions",
     "Calorimeter - Magnified view of tiny objects",
     "Calorimeter - Hearing sensitivity"
    ],
-   "a": 1,
-   "t": "Scientific Instruments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Calorimeter - Heat change in reactions is correctly matched."
+   "answer": 1,
+   "explanation": "Only Calorimeter - Heat change in reactions is correctly matched.",
+   "topic": "Scientific Instruments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0645",
-   "q": "Which of the following pairs of body part and function is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of body part and function is correctly matched?",
+   "options": [
     "Diaphragm - Controls body metabolism",
     "Diaphragm - Helps in breathing",
     "Diaphragm - Pumping blood",
     "Diaphragm - Exchange of oxygen and carbon dioxide"
    ],
-   "a": 1,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Diaphragm - Helps in breathing is correctly matched."
+   "answer": 1,
+   "explanation": "Only Diaphragm - Helps in breathing is correctly matched.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0646",
-   "q": "Which of the following pairs of disease and causative agent is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of disease and causative agent is correctly matched?",
+   "options": [
     "Kala-azar - Streptococcus pneumoniae bacteria",
     "Kala-azar - Leishmania donovani",
     "Kala-azar - Plasmodium",
     "Kala-azar - Human Immunodeficiency Virus"
    ],
-   "a": 1,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Kala-azar - Leishmania donovani is correctly matched."
+   "answer": 1,
+   "explanation": "Only Kala-azar - Leishmania donovani is correctly matched.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0647",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Dynamite - Alfred Nobel",
     "Dynamite - Joseph Priestley",
     "Dynamite - Tim Berners-Lee",
     "Dynamite - Karl von Drais"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Dynamite - Alfred Nobel is correctly matched."
+   "answer": 0,
+   "explanation": "Only Dynamite - Alfred Nobel is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0648",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Aspirin - Copper sulphate (CuSO4.5H2O)",
     "Aspirin - Acetylsalicylic acid",
     "Aspirin - Calcium oxychloride (CaOCl2)",
     "Aspirin - Magnesium hydroxide (Mg(OH)2)"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Aspirin - Acetylsalicylic acid is correctly matched."
+   "answer": 1,
+   "explanation": "Only Aspirin - Acetylsalicylic acid is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0649",
-   "q": "Which of the following pairs of branch and subject is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of branch and subject is correctly matched?",
+   "options": [
     "Physiology - Functions of living organisms",
     "Physiology - Coins",
     "Physiology - Heart",
     "Physiology - Bacteria"
    ],
-   "a": 0,
-   "t": "Branches of Science",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Physiology - Functions of living organisms is correctly matched."
+   "answer": 0,
+   "explanation": "Only Physiology - Functions of living organisms is correctly matched.",
+   "topic": "Branches of Science",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0650",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Europa - Natural satellite of Earth",
     "Europa - Largest object in the asteroid belt",
     "Europa - Nearest star to Earth",
     "Europa - Icy moon of Jupiter"
    ],
-   "a": 3,
-   "t": "Astronomy",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Europa - Icy moon of Jupiter is correctly matched."
+   "answer": 3,
+   "explanation": "Only Europa - Icy moon of Jupiter is correctly matched.",
+   "topic": "Astronomy",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0651",
-   "q": "Which of the following pairs of scientist and contribution is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of scientist and contribution is correctly matched?",
+   "options": [
     "Gregor Mendel - Laws of inheritance",
     "Gregor Mendel - Plant physiology and radio waves",
     "Gregor Mendel - Wireless telegraphy",
     "Gregor Mendel - Centigrade temperature scale"
    ],
-   "a": 0,
-   "t": "Scientists",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Gregor Mendel - Laws of inheritance is correctly matched."
+   "answer": 0,
+   "explanation": "Only Gregor Mendel - Laws of inheritance is correctly matched.",
+   "topic": "Scientists",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0652",
-   "q": "In which decade did the following event take place: Purna Swaraj declared at the Lahore session?",
-   "o": [
+   "question": "In which decade did the following event take place: Purna Swaraj declared at the Lahore session?",
+   "options": [
     "1950s",
     "1940s",
     "1920s",
     "1960s"
    ],
-   "a": 2,
-   "t": "Indian History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Purna Swaraj declared at the Lahore session took place in the 1929s."
+   "answer": 2,
+   "explanation": "Purna Swaraj declared at the Lahore session took place in the 1929s.",
+   "topic": "Indian History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0653",
-   "q": "Which of the following events took place in 1992?",
-   "o": [
+   "question": "Which of the following events took place in 1992?",
+   "options": [
     "Unification of Germany",
     "Formation of the European Union by the Maastricht Treaty",
     "Rio Earth Summit",
     "Apollo 11 Moon landing"
    ],
-   "a": 2,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Rio Earth Summit took place in 1992."
+   "answer": 2,
+   "explanation": "Rio Earth Summit took place in 1992.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0654",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Maharaja Ranjit Singh - Founder of the Sikh Empire",
     "Baji Rao I - Greatest of the Peshwas",
     "Aurangzeb - Twenty-fourth Tirthankara of Jainism",
     "Humayun - Lost and regained the Mughal throne"
    ],
-   "a": 2,
-   "t": "Rulers",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Aurangzeb - Twenty-fourth Tirthankara of Jainism is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Aurangzeb - Twenty-fourth Tirthankara of Jainism is not correctly matched.",
+   "topic": "Rulers",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0655",
-   "q": "Which of the following pairs of person and title is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of person and title is NOT correctly matched?",
+   "options": [
     "B. R. Ambedkar - Soldier who sparked the Revolt of 1857",
     "Lala Lajpat Rai - Punjab Kesari",
     "Vinoba Bhave - Leader of the Bhoodan movement",
     "Sardar Vallabhbhai Patel - Iron Man of India"
    ],
-   "a": 0,
-   "t": "Freedom Fighters",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair B. R. Ambedkar - Soldier who sparked the Revolt of 1857 is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair B. R. Ambedkar - Soldier who sparked the Revolt of 1857 is not correctly matched.",
+   "topic": "Freedom Fighters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0656",
-   "q": "Which of the following pairs of provision and article is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of provision and article is correctly matched?",
+   "options": [
     "Elections - Article 214",
     "Elections - Article 124",
     "Elections - Part XV, Articles 324-329",
     "Elections - Article 148"
    ],
-   "a": 2,
-   "t": "Constitution Articles",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Elections - Part XV, Articles 324-329 is correctly matched."
+   "answer": 2,
+   "explanation": "Only Elections - Part XV, Articles 324-329 is correctly matched.",
+   "topic": "Constitution Articles",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0657",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Constitutional advisor to the Constituent Assembly - B. N. Rau",
     "Constitutional advisor to the Constituent Assembly - The Supreme Court of India",
     "Constitutional advisor to the Constituent Assembly - Comptroller and Auditor General",
     "Constitutional advisor to the Constituent Assembly - Impeachment"
    ],
-   "a": 0,
-   "t": "Constitution Facts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Constitutional advisor to the Constituent Assembly - B. N. Rau is correctly matched."
+   "answer": 0,
+   "explanation": "Only Constitutional advisor to the Constituent Assembly - B. N. Rau is correctly matched.",
+   "topic": "Constitution Facts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0658",
-   "q": "Which of the following pairs of institution and description is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of institution and description is NOT correctly matched?",
+   "options": [
     "NITI Aayog Vice Chairman - Deputy to the Prime Minister in the policy think tank",
     "Attorney General of India - Chief legal adviser to the Government of India",
     "Telecom Regulatory Authority of India - Regulator of telecommunications",
     "NITI Aayog - Regulator of the securities market"
    ],
-   "a": 3,
-   "t": "Institutions of India",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair NITI Aayog - Regulator of the securities market is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair NITI Aayog - Regulator of the securities market is not correctly matched.",
+   "topic": "Institutions of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0659",
-   "q": "Which of the following days is observed on 26 November?",
-   "o": [
+   "question": "Which of the following days is observed on 26 November?",
+   "options": [
     "World Students' Day",
     "Constitution Day (India)",
     "World Standards Day",
     "Independence Day (India)"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "26 November is observed as Constitution Day (India)."
+   "answer": 1,
+   "explanation": "26 November is observed as Constitution Day (India).",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0660",
-   "q": "Which of the following pairs of organisation and headquarters is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of organisation and headquarters is correctly matched?",
+   "options": [
     "World Food Programme - The Hague",
     "World Food Programme - Dubai",
     "World Food Programme - Rome",
     "World Food Programme - London"
    ],
-   "a": 2,
-   "t": "Organisations and Headquarters",
-   "l": 3,
-   "s": "generated",
-   "e": "Only World Food Programme - Rome is correctly matched."
+   "answer": 2,
+   "explanation": "Only World Food Programme - Rome is correctly matched.",
+   "topic": "Organisations and Headquarters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0661",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "Sudirman Cup - Badminton",
     "Sudirman Cup - Tennis",
     "Sudirman Cup - Table Tennis",
     "Sudirman Cup - Cricket"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Sudirman Cup - Badminton is correctly matched."
+   "answer": 0,
+   "explanation": "Only Sudirman Cup - Badminton is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0662",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Padma Vibhushan - Indian literary award",
     "Padma Vibhushan - American award for films",
     "Padma Vibhushan - Indian award in science and technology",
     "Padma Vibhushan - Second highest civilian award of India"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Padma Vibhushan - Second highest civilian award of India is correctly matched."
+   "answer": 3,
+   "explanation": "Only Padma Vibhushan - Second highest civilian award of India is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0663",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Wings of Fire - A. P. J. Abdul Kalam",
     "Wings of Fire - Leo Tolstoy",
     "Wings of Fire - Sarojini Naidu",
     "Wings of Fire - Maxim Gorky"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Wings of Fire - A. P. J. Abdul Kalam is correctly matched."
+   "answer": 0,
+   "explanation": "Only Wings of Fire - A. P. J. Abdul Kalam is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0664",
-   "q": "Which of the following pairs of achievement and person is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of achievement and person is NOT correctly matched?",
+   "options": [
     "First country to launch a satellite - Soviet Union",
     "First person to walk on the Moon - Neil Armstrong",
     "First modern Olympic Games were held in - Athens",
     "First person to climb Mount Everest - Wally Herbert"
    ],
-   "a": 3,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair First person to climb Mount Everest - Wally Herbert is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair First person to climb Mount Everest - Wally Herbert is not correctly matched.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0665",
-   "q": "Which country is known as the Land of Thunder Dragon?",
-   "o": [
+   "question": "Which country is known as the Land of Thunder Dragon?",
+   "options": [
     "Bhutan",
     "Kerala",
     "Rome",
     "Five and a half hours"
    ],
-   "a": 0,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 0,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0666",
-   "q": "Which of the following pairs of question and answer is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of question and answer is correctly matched?",
+   "options": [
     "Which is the most abundant element in the Earth's crust - Jupiter",
     "Which is the most abundant element in the Earth's crust - Oxygen",
     "Which is the most abundant element in the Earth's crust - Metamorphic rock",
     "Which is the most abundant element in the Earth's crust - Focus"
    ],
-   "a": 1,
-   "t": "Climate and Atmosphere",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Which is the most abundant element in the Earth's crust - Oxygen is correctly matched."
+   "answer": 1,
+   "explanation": "Only Which is the most abundant element in the Earth's crust - Oxygen is correctly matched.",
+   "topic": "Climate and Atmosphere",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0667",
-   "q": "Which is the currency of Japan?",
-   "o": [
+   "question": "Which is the currency of Japan?",
+   "options": [
     "Yen",
     "Six",
     "M. S. Swaminathan",
     "Lala Lajpat Rai"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0668",
-   "q": "Choose the word most similar in meaning to Germane.",
-   "o": [
+   "question": "Choose the word most similar in meaning to Germane.",
+   "options": [
     "Deadlock",
     "Draw out",
     "Mystery",
     "Relevant"
    ],
-   "a": 3,
-   "t": "Synonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "Germane means Relevant."
+   "answer": 3,
+   "explanation": "Germane means Relevant.",
+   "topic": "Synonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0669",
-   "q": "Choose the word most opposite in meaning to Curtail.",
-   "o": [
+   "question": "Choose the word most opposite in meaning to Curtail.",
+   "options": [
     "Extend",
     "Inconspicuous",
     "Agitation",
     "Unscrupulous"
    ],
-   "a": 0,
-   "t": "Antonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "The opposite of Curtail is Extend."
+   "answer": 0,
+   "explanation": "The opposite of Curtail is Extend.",
+   "topic": "Antonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0670",
-   "q": "What is the meaning of the idiom 'Blow one's own trumpet'?",
-   "o": [
+   "question": "What is the meaning of the idiom 'Blow one's own trumpet'?",
+   "options": [
     "In direct opposition to",
     "Unable to speak plainly",
     "At the last moment",
     "Praise oneself"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 2,
-   "s": "generated",
-   "e": "'Blow one's own trumpet' means Praise oneself."
+   "answer": 3,
+   "explanation": "'Blow one's own trumpet' means Praise oneself.",
+   "topic": "Idioms and Phrases",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0671",
-   "q": "Choose the one word substitute for: Animals that eat only flesh",
-   "o": [
+   "question": "Choose the one word substitute for: Animals that eat only flesh",
+   "options": [
     "Hermit",
     "Biography",
     "Carnivores",
     "Claustrophobic"
    ],
-   "a": 2,
-   "t": "One Word Substitution",
-   "l": 2,
-   "s": "generated",
-   "e": "Animals that eat only flesh — Carnivores."
+   "answer": 2,
+   "explanation": "Animals that eat only flesh — Carnivores.",
+   "topic": "One Word Substitution",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0672",
-   "q": "Which of the following words is spelt correctly?",
-   "o": [
+   "question": "Which of the following words is spelt correctly?",
+   "options": [
     "Jealous",
     "Reference",
     "Definitely",
     "Desperate"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 1,
-   "s": "generated",
-   "e": "The correct spelling is Jealous."
+   "answer": 0,
+   "explanation": "The correct spelling is Jealous.",
+   "topic": "Spellings",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0673",
-   "q": "Which of the following is the plural form of Leaf?",
-   "o": [
+   "question": "Which of the following is the plural form of Leaf?",
+   "options": [
     "Brothers",
     "Leaves",
     "Thieves",
     "Hypotheses"
    ],
-   "a": 1,
-   "t": "Plurals",
-   "l": 2,
-   "s": "generated",
-   "e": "The plural of Leaf is Leaves."
+   "answer": 1,
+   "explanation": "The plural of Leaf is Leaves.",
+   "topic": "Plurals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0674",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Man - Woman",
     "Man - Duchess",
     "Man - Mare",
     "Man - Baroness"
    ],
-   "a": 0,
-   "t": "Genders",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Man - Woman is correctly matched."
+   "answer": 0,
+   "explanation": "Only Man - Woman is correctly matched.",
+   "topic": "Genders",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0675",
-   "q": "Fill in the blank correctly: Bad, ____, Worst",
-   "o": [
+   "question": "Fill in the blank correctly: Bad, ____, Worst",
+   "options": [
     "Faster",
     "Lower",
     "Hotter",
     "Worse"
    ],
-   "a": 3,
-   "t": "Degrees of Comparison",
-   "l": 2,
-   "s": "generated",
-   "e": "The correct sequence is Bad, Worse, Worst."
+   "answer": 3,
+   "explanation": "The correct sequence is Bad, Worse, Worst.",
+   "topic": "Degrees of Comparison",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0676",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "I have no appetite ____ food. - of",
     "I have no appetite ____ food. - for",
     "I have no appetite ____ food. - with",
     "I have no appetite ____ food. - on"
    ],
-   "a": 1,
-   "t": "Prepositions",
-   "l": 3,
-   "s": "generated",
-   "e": "Only I have no appetite ____ food. - for is correctly matched."
+   "answer": 1,
+   "explanation": "Only I have no appetite ____ food. - for is correctly matched.",
+   "topic": "Prepositions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0677",
-   "q": "Which scheme promotes the use of biofuels in India?",
-   "o": [
+   "question": "Which scheme promotes the use of biofuels in India?",
+   "options": [
     "Mudra Yojana",
     "India",
     "National Biofuel Policy",
     "Tejas"
    ],
-   "a": 2,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 2,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0678",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Ujjwala 2.0 - India's central bank digital currency pilot",
     "Ujjwala 2.0 - Extension of free LPG connections to migrant families",
     "Ujjwala 2.0 - Cash incentive for pregnant and lactating mothers",
     "Ujjwala 2.0 - Day care facilities for working mothers"
    ],
-   "a": 1,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ujjwala 2.0 - Extension of free LPG connections to migrant families is correctly matched."
+   "answer": 1,
+   "explanation": "Only Ujjwala 2.0 - Extension of free LPG connections to migrant families is correctly matched.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0679",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Chandrayaan-2 - Affordable housing in urban areas",
     "Chandrayaan-2 - Lunar orbiter studying the Moon",
     "Chandrayaan-2 - Communication and weather satellites",
     "Chandrayaan-2 - Free online courses platform"
    ],
-   "a": 1,
-   "t": "Missions and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Chandrayaan-2 - Lunar orbiter studying the Moon is correctly matched."
+   "answer": 1,
+   "explanation": "Only Chandrayaan-2 - Lunar orbiter studying the Moon is correctly matched.",
+   "topic": "Missions and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0680",
-   "q": "Which computer term is described as: Language used to style web pages?",
-   "o": [
+   "question": "Which computer term is described as: Language used to style web pages?",
+   "options": [
     "CSS",
     "Open source",
     "Cache",
     "Cloud computing"
    ],
-   "a": 0,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Language used to style web pages describes CSS."
+   "answer": 0,
+   "explanation": "Language used to style web pages describes CSS.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0681",
-   "q": "What is the full form of PNB?",
-   "o": [
+   "question": "What is the full form of PNB?",
+   "options": [
     "Index of Industrial Production",
     "Right to Education",
     "Border Security Force",
     "Punjab National Bank"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "PNB stands for Punjab National Bank."
+   "answer": 3,
+   "explanation": "PNB stands for Punjab National Bank.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0682",
-   "q": "What is the capital of Seychelles?",
-   "o": [
+   "question": "What is the capital of Seychelles?",
+   "options": [
     "Ashgabat",
     "Victoria",
     "Washington, D.C.",
     "Stockholm"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Seychelles is Victoria."
+   "answer": 1,
+   "explanation": "The capital of Seychelles is Victoria.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0683",
-   "q": "What is the chemical symbol of Tantalum?",
-   "o": [
+   "question": "What is the chemical symbol of Tantalum?",
+   "options": [
     "Rh",
     "Ts",
     "Pb",
     "Ta"
    ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "The symbol of Tantalum is Ta."
+   "answer": 3,
+   "explanation": "The symbol of Tantalum is Ta.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0684",
-   "q": "Which of the following pairs of state and capital is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of state and capital is correctly matched?",
+   "options": [
     "Rajasthan - Jaipur",
     "Rajasthan - Chandigarh",
     "Rajasthan - Mumbai",
     "Rajasthan - Raipur"
    ],
-   "a": 0,
-   "t": "States and Capitals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Rajasthan - Jaipur is correctly matched."
+   "answer": 0,
+   "explanation": "Only Rajasthan - Jaipur is correctly matched.",
+   "topic": "States and Capitals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0685",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "First woman President of India - Pratibha Patil",
     "First woman to travel to space from India - Kalpana Chawla",
     "First Indian satellite launched - Abhinav Bindra",
     "First Speaker of the Lok Sabha - G. V. Mavalankar"
    ],
-   "a": 2,
-   "t": "First in India",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair First Indian satellite launched - Abhinav Bindra is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair First Indian satellite launched - Abhinav Bindra is not correctly matched.",
+   "topic": "First in India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0686",
-   "q": "Which of the following pairs of dance and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of dance and state is correctly matched?",
+   "options": [
     "Bhortal - Assam",
     "Bhortal - Gujarat",
     "Bhortal - Manipur",
     "Bhortal - Tamil Nadu"
    ],
-   "a": 0,
-   "t": "Folk Dances of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Bhortal - Assam is correctly matched."
+   "answer": 0,
+   "explanation": "Only Bhortal - Assam is correctly matched.",
+   "topic": "Folk Dances of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0687",
-   "q": "Which of the following pairs of festival and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of festival and state is correctly matched?",
+   "options": [
     "Hemis Festival - Manipur",
     "Hemis Festival - Ladakh",
     "Hemis Festival - Rajasthan",
     "Hemis Festival - Arunachal Pradesh"
    ],
-   "a": 1,
-   "t": "Festivals of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Hemis Festival - Ladakh is correctly matched."
+   "answer": 1,
+   "explanation": "Only Hemis Festival - Ladakh is correctly matched.",
+   "topic": "Festivals of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0688",
-   "q": "Which of the following pairs of river and origin is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of river and origin is NOT correctly matched?",
+   "options": [
     "Sutlej - Rakas Lake",
     "Tapti - Multai",
     "Alaknanda - Udaipur",
     "Jhelum - Verinag"
    ],
-   "a": 2,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Alaknanda - Udaipur is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Alaknanda - Udaipur is not correctly matched.",
+   "topic": "Rivers of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0689",
-   "q": "Which of the following national parks or tiger reserves is in Karnataka?",
-   "o": [
+   "question": "Which of the following national parks or tiger reserves is in Karnataka?",
+   "options": [
     "Nameri Tiger Reserve",
     "Anshi National Park",
     "Phawngpui National Park",
     "Jim Corbett National Park"
    ],
-   "a": 1,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Anshi National Park is in Karnataka."
+   "answer": 1,
+   "explanation": "Anshi National Park is in Karnataka.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0690",
-   "q": "Which of the following pairs of quantity and SI unit is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is NOT correctly matched?",
+   "options": [
     "Temperature - Kelvin",
     "Energy - Joule",
     "Luminous flux - Siemens",
     "Electrical resistance - Ohm"
    ],
-   "a": 2,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Luminous flux - Siemens is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Luminous flux - Siemens is not correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0691",
-   "q": "Which of the following pairs of instrument and use is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of instrument and use is correctly matched?",
+   "options": [
     "Radiometer - Speed of a vehicle",
     "Radiometer - Radiant energy",
     "Radiometer - Rotational speed",
     "Radiometer - Time accurately"
    ],
-   "a": 1,
-   "t": "Scientific Instruments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Radiometer - Radiant energy is correctly matched."
+   "answer": 1,
+   "explanation": "Only Radiometer - Radiant energy is correctly matched.",
+   "topic": "Scientific Instruments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0692",
-   "q": "Which of the following pairs of body part and function is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of body part and function is correctly matched?",
+   "options": [
     "Skin - Detoxification and bile secretion",
     "Skin - Basic filtering units of the kidney",
     "Skin - Hearing in the ear",
     "Skin - Protection and temperature regulation"
    ],
-   "a": 3,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Skin - Protection and temperature regulation is correctly matched."
+   "answer": 3,
+   "explanation": "Only Skin - Protection and temperature regulation is correctly matched.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0693",
-   "q": "Which of the following pairs of disease and causative agent is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of disease and causative agent is correctly matched?",
+   "options": [
     "Poliomyelitis - Chikungunya virus",
     "Poliomyelitis - Hepatitis A virus",
     "Poliomyelitis - Varicella zoster virus",
     "Poliomyelitis - Poliovirus"
    ],
-   "a": 3,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Poliomyelitis - Poliovirus is correctly matched."
+   "answer": 3,
+   "explanation": "Only Poliomyelitis - Poliovirus is correctly matched.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0694",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Vaccination against smallpox - John Bardeen and colleagues",
     "Vaccination against smallpox - William Harvey",
     "Vaccination against smallpox - Edward Jenner",
     "Vaccination against smallpox - Galileo Galilei"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Vaccination against smallpox - Edward Jenner is correctly matched."
+   "answer": 2,
+   "explanation": "Only Vaccination against smallpox - Edward Jenner is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0695",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Laughing gas - Magnesium sulphate (MgSO4.7H2O)",
     "Laughing gas - Nitrous oxide (N2O)",
     "Laughing gas - Sodium sulphate (Na2SO4)",
     "Laughing gas - Deuterium oxide (D2O)"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Laughing gas - Nitrous oxide (N2O) is correctly matched."
+   "answer": 1,
+   "explanation": "Only Laughing gas - Nitrous oxide (N2O) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0696",
-   "q": "Which of the following pairs of branch and subject is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of branch and subject is correctly matched?",
+   "options": [
     "Ecology - Tissues",
     "Ecology - Oceans",
     "Ecology - Organisms and their environment",
     "Ecology - Fishes"
    ],
-   "a": 2,
-   "t": "Branches of Science",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ecology - Organisms and their environment is correctly matched."
+   "answer": 2,
+   "explanation": "Only Ecology - Organisms and their environment is correctly matched.",
+   "topic": "Branches of Science",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0697",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Astronomical unit - Largest volcano in the Solar System",
     "Astronomical unit - Average Earth-Sun distance",
     "Astronomical unit - Largest object in the asteroid belt",
     "Astronomical unit - Blue Planet"
    ],
-   "a": 1,
-   "t": "Astronomy",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Astronomical unit - Average Earth-Sun distance is correctly matched."
+   "answer": 1,
+   "explanation": "Only Astronomical unit - Average Earth-Sun distance is correctly matched.",
+   "topic": "Astronomy",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0698",
-   "q": "Which of the following pairs of scientist and contribution is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of scientist and contribution is correctly matched?",
+   "options": [
     "Robert Koch - Electric battery",
     "Robert Koch - Periodic table of elements",
     "Robert Koch - Bacteriology and tuberculosis bacillus",
     "Robert Koch - Boyle's law of gases"
    ],
-   "a": 2,
-   "t": "Scientists",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Robert Koch - Bacteriology and tuberculosis bacillus is correctly matched."
+   "answer": 2,
+   "explanation": "Only Robert Koch - Bacteriology and tuberculosis bacillus is correctly matched.",
+   "topic": "Scientists",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0699",
-   "q": "In which decade did the following event take place: Mars Orbiter Mission entered Mars orbit?",
-   "o": [
+   "question": "In which decade did the following event take place: Mars Orbiter Mission entered Mars orbit?",
+   "options": [
     "2010s",
     "1940s",
     "1960s",
     "1950s"
    ],
-   "a": 0,
-   "t": "Indian History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Mars Orbiter Mission entered Mars orbit took place in the 2014s."
+   "answer": 0,
+   "explanation": "Mars Orbiter Mission entered Mars orbit took place in the 2014s.",
+   "topic": "Indian History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0700",
-   "q": "Which of the following events took place in 1993?",
-   "o": [
+   "question": "Which of the following events took place in 1993?",
+   "options": [
     "Formation of the European Union by the Maastricht Treaty",
     "Cuban Missile Crisis",
     "Iranian Revolution",
     "Rio Earth Summit"
    ],
-   "a": 0,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Formation of the European Union by the Maastricht Treaty took place in 1993."
+   "answer": 0,
+   "explanation": "Formation of the European Union by the Maastricht Treaty took place in 1993.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0701",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Tipu Sultan - Tiger of Mysore",
     "Maharaja Ranjit Singh - Founder of the Sikh Empire",
     "Akbar - Established Din-i-Ilahi and the Ibadat Khana",
     "Firoz Shah Tughlaq - Shifted the capital from Delhi to Daulatabad"
    ],
-   "a": 3,
-   "t": "Rulers",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Firoz Shah Tughlaq - Shifted the capital from Delhi to Daulatabad is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Firoz Shah Tughlaq - Shifted the capital from Delhi to Daulatabad is not correctly matched.",
+   "topic": "Rulers",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0702",
-   "q": "Which of the following pairs of person and title is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of person and title is NOT correctly matched?",
+   "options": [
     "Dadabhai Naoroji - Grand Old Man of India",
     "Jayaprakash Narayan - Queen who fought at Jhansi in 1857",
     "Bal Gangadhar Tilak - Lokamanya",
     "Mahatma Gandhi - Father of the Nation"
    ],
-   "a": 1,
-   "t": "Freedom Fighters",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Jayaprakash Narayan - Queen who fought at Jhansi in 1857 is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Jayaprakash Narayan - Queen who fought at Jhansi in 1857 is not correctly matched.",
+   "topic": "Freedom Fighters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0703",
-   "q": "Which of the following pairs of provision and article is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of provision and article is correctly matched?",
+   "options": [
     "Attorney General of India - Part XVIII, Articles 352-360",
     "Attorney General of India - Articles 23-24",
     "Attorney General of India - Article 32",
     "Attorney General of India - Article 76"
    ],
-   "a": 3,
-   "t": "Constitution Articles",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Attorney General of India - Article 76 is correctly matched."
+   "answer": 3,
+   "explanation": "Only Attorney General of India - Article 76 is correctly matched.",
+   "topic": "Constitution Articles",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0704",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "The word 'socialist' was added by - 42nd Amendment",
     "The word 'socialist' was added by - 1976",
     "The word 'socialist' was added by - 22",
     "The word 'socialist' was added by - Japan"
    ],
-   "a": 0,
-   "t": "Constitution Facts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only The word 'socialist' was added by - 42nd Amendment is correctly matched."
+   "answer": 0,
+   "explanation": "Only The word 'socialist' was added by - 42nd Amendment is correctly matched.",
+   "topic": "Constitution Facts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0705",
-   "q": "Which of the following pairs of institution and description is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of institution and description is NOT correctly matched?",
+   "options": [
     "Parliament of India - Union legislature consisting of the President and two Houses",
     "Union Public Service Commission - Recruits civil servants for the Union",
     "Union Territories - Head of the Indian judiciary",
     "Solicitor General of India - Second highest law officer of the Union"
    ],
-   "a": 2,
-   "t": "Institutions of India",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Union Territories - Head of the Indian judiciary is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Union Territories - Head of the Indian judiciary is not correctly matched.",
+   "topic": "Institutions of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0706",
-   "q": "Which of the following days is observed on 11 October?",
-   "o": [
+   "question": "Which of the following days is observed on 11 October?",
+   "options": [
     "International Day of the World's Indigenous Peoples",
     "International Nurses Day",
     "International Day of the Girl Child",
     "World Hepatitis Day"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "11 October is observed as International Day of the Girl Child."
+   "answer": 2,
+   "explanation": "11 October is observed as International Day of the Girl Child.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0707",
-   "q": "Which of the following pairs of organisation and headquarters is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of organisation and headquarters is correctly matched?",
+   "options": [
     "World Economic Forum - Cologny",
     "World Economic Forum - Geneva",
     "World Economic Forum - Vienna",
     "World Economic Forum - London"
    ],
-   "a": 0,
-   "t": "Organisations and Headquarters",
-   "l": 3,
-   "s": "generated",
-   "e": "Only World Economic Forum - Cologny is correctly matched."
+   "answer": 0,
+   "explanation": "Only World Economic Forum - Cologny is correctly matched.",
+   "topic": "Organisations and Headquarters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0708",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Shanti Swarup Bhatnagar Prize - Indian award in science and technology",
     "Shanti Swarup Bhatnagar Prize - Indian literary award",
     "Shanti Swarup Bhatnagar Prize - Highest literary award of India",
     "Shanti Swarup Bhatnagar Prize - Performing arts award of India"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Shanti Swarup Bhatnagar Prize - Indian award in science and technology is correctly matched."
+   "answer": 0,
+   "explanation": "Only Shanti Swarup Bhatnagar Prize - Indian award in science and technology is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0709",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Godaan - Helen Keller",
     "Godaan - Jonathan Swift",
     "Godaan - Munshi Premchand",
     "Godaan - Rabindranath Tagore"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Godaan - Munshi Premchand is correctly matched."
+   "answer": 2,
+   "explanation": "Only Godaan - Munshi Premchand is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0710",
-   "q": "Which of the following pairs of achievement and person is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of achievement and person is NOT correctly matched?",
+   "options": [
     "First country to land a man on the Moon - United States of America",
     "First President of the United States - George Washington",
     "First Indian to win an individual Olympic gold - Soviet Union",
     "First person to run a mile in under four minutes - Roger Bannister"
    ],
-   "a": 2,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair First Indian to win an individual Olympic gold - Soviet Union is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair First Indian to win an individual Olympic gold - Soviet Union is not correctly matched.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0711",
-   "q": "Which mountain range is known as the backbone of Italy?",
-   "o": [
+   "question": "Which mountain range is known as the backbone of Italy?",
+   "options": [
     "Sikkim",
     "Russia",
     "Apennines",
     "Torres Strait"
    ],
-   "a": 2,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 2,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0712",
-   "q": "Which of the following pairs of question and answer is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of question and answer is correctly matched?",
+   "options": [
     "Which layer of the atmosphere reflects radio waves - Venus",
     "Which layer of the atmosphere reflects radio waves - October to November",
     "Which layer of the atmosphere reflects radio waves - Jupiter",
     "Which layer of the atmosphere reflects radio waves - Ionosphere"
    ],
-   "a": 3,
-   "t": "Climate and Atmosphere",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Which layer of the atmosphere reflects radio waves - Ionosphere is correctly matched."
+   "answer": 3,
+   "explanation": "Only Which layer of the atmosphere reflects radio waves - Ionosphere is correctly matched.",
+   "topic": "Climate and Atmosphere",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0713",
-   "q": "What is a special economic zone?",
-   "o": [
+   "question": "What is a special economic zone?",
+   "options": [
     "An area with special economic regulations to promote exports",
     "1982",
     "Mahbub ul Haq",
     "Prime lending rate"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0714",
-   "q": "Choose the word most similar in meaning to Thrifty.",
-   "o": [
+   "question": "Choose the word most similar in meaning to Thrifty.",
+   "options": [
     "Frugal",
     "Harmless",
     "Shrewd",
     "Lively"
    ],
-   "a": 0,
-   "t": "Synonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "Thrifty means Frugal."
+   "answer": 0,
+   "explanation": "Thrifty means Frugal.",
+   "topic": "Synonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0715",
-   "q": "Choose the word most opposite in meaning to Expedite.",
-   "o": [
+   "question": "Choose the word most opposite in meaning to Expedite.",
+   "options": [
     "Delay",
     "Friendship",
     "Reckless",
     "Beneficial"
    ],
-   "a": 0,
-   "t": "Antonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "The opposite of Expedite is Delay."
+   "answer": 0,
+   "explanation": "The opposite of Expedite is Delay.",
+   "topic": "Antonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0716",
-   "q": "What is the meaning of the idiom 'Call a spade a spade'?",
-   "o": [
+   "question": "What is the meaning of the idiom 'Call a spade a spade'?",
+   "options": [
     "Speak plainly",
     "Under suspicion",
     "Just in time",
     "Great excitement over trifles"
    ],
-   "a": 0,
-   "t": "Idioms and Phrases",
-   "l": 2,
-   "s": "generated",
-   "e": "'Call a spade a spade' means Speak plainly."
+   "answer": 0,
+   "explanation": "'Call a spade a spade' means Speak plainly.",
+   "topic": "Idioms and Phrases",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0717",
-   "q": "Choose the one word substitute for: One who is not sure about God's existence",
-   "o": [
+   "question": "Choose the one word substitute for: One who is not sure about God's existence",
+   "options": [
     "Epidemic",
     "Oligarchy",
     "Cobbler",
     "Agnostic"
    ],
-   "a": 3,
-   "t": "One Word Substitution",
-   "l": 2,
-   "s": "generated",
-   "e": "One who is not sure about God's existence — Agnostic."
+   "answer": 3,
+   "explanation": "One who is not sure about God's existence — Agnostic.",
+   "topic": "One Word Substitution",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0718",
-   "q": "Which of the following words is spelt correctly?",
-   "o": [
+   "question": "Which of the following words is spelt correctly?",
+   "options": [
     "Maintenance",
     "Height",
     "Business",
     "Correspondence"
    ],
-   "a": 2,
-   "t": "Spellings",
-   "l": 1,
-   "s": "generated",
-   "e": "The correct spelling is Business."
+   "answer": 2,
+   "explanation": "The correct spelling is Business.",
+   "topic": "Spellings",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0719",
-   "q": "Which of the following is the plural form of Aircraft?",
-   "o": [
+   "question": "Which of the following is the plural form of Aircraft?",
+   "options": [
     "Aircraft",
     "Syllabi",
     "Alumni",
     "Calves"
    ],
-   "a": 0,
-   "t": "Plurals",
-   "l": 2,
-   "s": "generated",
-   "e": "The plural of Aircraft is Aircraft."
+   "answer": 0,
+   "explanation": "The plural of Aircraft is Aircraft.",
+   "topic": "Plurals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0720",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Bachelor - Spinster",
     "Bachelor - Mare",
     "Bachelor - Wife",
     "Bachelor - Bitch"
    ],
-   "a": 0,
-   "t": "Genders",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Bachelor - Spinster is correctly matched."
+   "answer": 0,
+   "explanation": "Only Bachelor - Spinster is correctly matched.",
+   "topic": "Genders",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0721",
-   "q": "Fill in the blank correctly: Shallow, ____, Shallowest",
-   "o": [
+   "question": "Fill in the blank correctly: Shallow, ____, Shallowest",
+   "options": [
     "More important",
     "Shallower",
     "Later",
     "Narrower"
    ],
-   "a": 1,
-   "t": "Degrees of Comparison",
-   "l": 2,
-   "s": "generated",
-   "e": "The correct sequence is Shallow, Shallower, Shallowest."
+   "answer": 1,
+   "explanation": "The correct sequence is Shallow, Shallower, Shallowest.",
+   "topic": "Degrees of Comparison",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0722",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "He is good ____ mathematics. - on",
     "He is good ____ mathematics. - at",
     "He is good ____ mathematics. - for",
     "He is good ____ mathematics. - over"
    ],
-   "a": 1,
-   "t": "Prepositions",
-   "l": 3,
-   "s": "generated",
-   "e": "Only He is good ____ mathematics. - at is correctly matched."
+   "answer": 1,
+   "explanation": "Only He is good ____ mathematics. - at is correctly matched.",
+   "topic": "Prepositions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0723",
-   "q": "Which Indian bird conservation programme was launched for vultures?",
-   "o": [
+   "question": "Which Indian bird conservation programme was launched for vultures?",
+   "options": [
     "Vulture Conservation Action Plan",
     "Varuna Exercise",
     "All India Tiger Estimation",
     "2016"
    ],
-   "a": 0,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 0,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0724",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Golden Revolution - Self-reliance in oilseed production",
     "Golden Revolution - Promotion of electric and hybrid vehicles",
     "Golden Revolution - Development of horticulture",
     "Golden Revolution - Improving nutrition among children and women"
    ],
-   "a": 2,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Golden Revolution - Development of horticulture is correctly matched."
+   "answer": 2,
+   "explanation": "Only Golden Revolution - Development of horticulture is correctly matched.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0725",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Mission LiFE - Instant bank to bank payments system",
     "Mission LiFE - Lifestyle for environment movement",
     "Mission LiFE - X-ray polarimetry studies of black holes",
     "Mission LiFE - Free online courses platform"
    ],
-   "a": 1,
-   "t": "Missions and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Mission LiFE - Lifestyle for environment movement is correctly matched."
+   "answer": 1,
+   "explanation": "Only Mission LiFE - Lifestyle for environment movement is correctly matched.",
+   "topic": "Missions and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0726",
-   "q": "Which computer term is described as: Data storage on remote internet servers?",
-   "o": [
+   "question": "Which computer term is described as: Data storage on remote internet servers?",
+   "options": [
     "Microphone",
     "Cache",
     "SMTP",
     "Cloud storage"
    ],
-   "a": 3,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Data storage on remote internet servers describes Cloud storage."
+   "answer": 3,
+   "explanation": "Data storage on remote internet servers describes Cloud storage.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0727",
-   "q": "What is the full form of CRPF?",
-   "o": [
+   "question": "What is the full form of CRPF?",
+   "options": [
     "New Development Bank",
     "Indian Standards Institution",
     "International Committee of the Red Cross",
     "Central Reserve Police Force"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "CRPF stands for Central Reserve Police Force."
+   "answer": 3,
+   "explanation": "CRPF stands for Central Reserve Police Force.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0728",
-   "q": "What is the capital of Montenegro?",
-   "o": [
+   "question": "What is the capital of Montenegro?",
+   "options": [
     "Podgorica",
     "Chisinau",
     "Nouakchott",
     "Gitega"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Montenegro is Podgorica."
+   "answer": 0,
+   "explanation": "The capital of Montenegro is Podgorica.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0729",
-   "q": "What is the chemical symbol of Cerium?",
-   "o": [
+   "question": "What is the chemical symbol of Cerium?",
+   "options": [
     "Ce",
     "B",
     "Cm",
     "Y"
    ],
-   "a": 0,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "The symbol of Cerium is Ce."
+   "answer": 0,
+   "explanation": "The symbol of Cerium is Ce.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0730",
-   "q": "Which of the following pairs of state and capital is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of state and capital is correctly matched?",
+   "options": [
     "Rajasthan - Jaipur",
     "Rajasthan - Chandigarh",
     "Rajasthan - Bhopal",
     "Rajasthan - Amaravati"
    ],
-   "a": 0,
-   "t": "States and Capitals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Rajasthan - Jaipur is correctly matched."
+   "answer": 0,
+   "explanation": "Only Rajasthan - Jaipur is correctly matched.",
+   "topic": "States and Capitals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0731",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "First Indian Railway line started between - Bombay and Thane",
     "First Indian satellite launched - Aryabhata",
     "First Indian Prime Minister to visit China - Indira Gandhi",
     "First Indian to win an individual Olympic gold - Abhinav Bindra"
    ],
-   "a": 2,
-   "t": "First in India",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair First Indian Prime Minister to visit China - Indira Gandhi is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair First Indian Prime Minister to visit China - Indira Gandhi is not correctly matched.",
+   "topic": "First in India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0732",
-   "q": "Which of the following pairs of dance and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of dance and state is correctly matched?",
+   "options": [
     "Bhortal - Karnataka",
     "Bhortal - Tamil Nadu",
     "Bhortal - Odisha",
     "Bhortal - Assam"
    ],
-   "a": 3,
-   "t": "Folk Dances of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Bhortal - Assam is correctly matched."
+   "answer": 3,
+   "explanation": "Only Bhortal - Assam is correctly matched.",
+   "topic": "Folk Dances of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0733",
-   "q": "Which of the following pairs of festival and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of festival and state is correctly matched?",
+   "options": [
     "Hemis Festival - Meghalaya",
     "Hemis Festival - Assam",
     "Hemis Festival - Ladakh",
     "Hemis Festival - Rajasthan"
    ],
-   "a": 2,
-   "t": "Festivals of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Hemis Festival - Ladakh is correctly matched."
+   "answer": 2,
+   "explanation": "Only Hemis Festival - Ladakh is correctly matched.",
+   "topic": "Festivals of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0734",
-   "q": "Which of the following pairs of river and origin is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of river and origin is NOT correctly matched?",
+   "options": [
     "Betwa - Vindhya Range",
     "Alaknanda - Satopanth Glacier",
     "Vaigai - Bokhar Chu",
     "Sabarmati - Udaipur"
    ],
-   "a": 2,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Vaigai - Bokhar Chu is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Vaigai - Bokhar Chu is not correctly matched.",
+   "topic": "Rivers of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0735",
-   "q": "Which of the following national parks or tiger reserves is in Bihar?",
-   "o": [
+   "question": "Which of the following national parks or tiger reserves is in Bihar?",
+   "options": [
     "Rajgir Wildlife Sanctuary",
     "Van Vihar National Park",
     "Rajaji National Park",
     "Velavadar National Park"
    ],
-   "a": 0,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Rajgir Wildlife Sanctuary is in Bihar."
+   "answer": 0,
+   "explanation": "Rajgir Wildlife Sanctuary is in Bihar.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0736",
-   "q": "Which of the following pairs of quantity and SI unit is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is NOT correctly matched?",
+   "options": [
     "Radioactivity - Becquerel",
     "Luminous flux - Lumen",
     "Plane angle - Ampere",
     "Electrical conductance - Siemens"
    ],
-   "a": 2,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Plane angle - Ampere is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Plane angle - Ampere is not correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0737",
-   "q": "Which of the following pairs of instrument and use is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of instrument and use is correctly matched?",
+   "options": [
     "Radiometer - Hearing sensitivity",
     "Radiometer - Plant growth",
     "Radiometer - Radiant energy",
     "Radiometer - Multiple physiological responses"
    ],
-   "a": 2,
-   "t": "Scientific Instruments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Radiometer - Radiant energy is correctly matched."
+   "answer": 2,
+   "explanation": "Only Radiometer - Radiant energy is correctly matched.",
+   "topic": "Scientific Instruments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0738",
-   "q": "Which of the following pairs of body part and function is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of body part and function is correctly matched?",
+   "options": [
     "Skin - Production of blood cells",
     "Skin - Exchange of oxygen and carbon dioxide",
     "Skin - Protection and temperature regulation",
     "Skin - Largest vein"
    ],
-   "a": 2,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Skin - Protection and temperature regulation is correctly matched."
+   "answer": 2,
+   "explanation": "Only Skin - Protection and temperature regulation is correctly matched.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0739",
-   "q": "Which of the following pairs of disease and causative agent is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of disease and causative agent is correctly matched?",
+   "options": [
     "Poliomyelitis - Influenza virus",
     "Poliomyelitis - Human Immunodeficiency Virus",
     "Poliomyelitis - Poliovirus",
     "Poliomyelitis - Yellow fever virus"
    ],
-   "a": 2,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Poliomyelitis - Poliovirus is correctly matched."
+   "answer": 2,
+   "explanation": "Only Poliomyelitis - Poliovirus is correctly matched.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0740",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Vaccination against smallpox - Gregor Mendel",
     "Vaccination against smallpox - Joseph Priestley",
     "Vaccination against smallpox - Edward Jenner",
     "Vaccination against smallpox - J. J. Thomson"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Vaccination against smallpox - Edward Jenner is correctly matched."
+   "answer": 2,
+   "explanation": "Only Vaccination against smallpox - Edward Jenner is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0741",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Laughing gas - Magnesium hydroxide (Mg(OH)2)",
     "Laughing gas - Sodium tetraborate (Na2B4O7.10H2O)",
     "Laughing gas - Nitrous oxide (N2O)",
     "Laughing gas - Hydrated magnesium silicate"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Laughing gas - Nitrous oxide (N2O) is correctly matched."
+   "answer": 2,
+   "explanation": "Only Laughing gas - Nitrous oxide (N2O) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0742",
-   "q": "Which of the following pairs of branch and subject is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of branch and subject is correctly matched?",
+   "options": [
     "Ecology - Earthquakes",
     "Ecology - Coins",
     "Ecology - Organisms and their environment",
     "Ecology - Eyes"
    ],
-   "a": 2,
-   "t": "Branches of Science",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ecology - Organisms and their environment is correctly matched."
+   "answer": 2,
+   "explanation": "Only Ecology - Organisms and their environment is correctly matched.",
+   "topic": "Branches of Science",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0743",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Astronomical unit - Largest/smallest planet",
     "Astronomical unit - Largest canyon system in the Solar System",
     "Astronomical unit - Explosive death of a massive star",
     "Astronomical unit - Average Earth-Sun distance"
    ],
-   "a": 3,
-   "t": "Astronomy",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Astronomical unit - Average Earth-Sun distance is correctly matched."
+   "answer": 3,
+   "explanation": "Only Astronomical unit - Average Earth-Sun distance is correctly matched.",
+   "topic": "Astronomy",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0744",
-   "q": "Which of the following pairs of scientist and contribution is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of scientist and contribution is correctly matched?",
+   "options": [
     "Robert Koch - Father of modern chemistry",
     "Robert Koch - Plant physiology and radio waves",
     "Robert Koch - Bacteriology and tuberculosis bacillus",
     "Robert Koch - Telephone"
    ],
-   "a": 2,
-   "t": "Scientists",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Robert Koch - Bacteriology and tuberculosis bacillus is correctly matched."
+   "answer": 2,
+   "explanation": "Only Robert Koch - Bacteriology and tuberculosis bacillus is correctly matched.",
+   "topic": "Scientists",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0745",
-   "q": "In which decade did the following event take place: Liberation of Goa?",
-   "o": [
+   "question": "In which decade did the following event take place: Liberation of Goa?",
+   "options": [
     "1980s",
     "2000s",
     "1940s",
     "1960s"
    ],
-   "a": 3,
-   "t": "Indian History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Liberation of Goa took place in the 1961s."
+   "answer": 3,
+   "explanation": "Liberation of Goa took place in the 1961s.",
+   "topic": "Indian History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0746",
-   "q": "Which of the following events took place in 2015?",
-   "o": [
+   "question": "Which of the following events took place in 2015?",
+   "options": [
     "Beginning of the French Revolution",
     "Adoption of the UN Sustainable Development Goals",
     "Formation of the USSR",
     "Founding of the World Health Organization"
    ],
-   "a": 1,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Adoption of the UN Sustainable Development Goals took place in 2015."
+   "answer": 1,
+   "explanation": "Adoption of the UN Sustainable Development Goals took place in 2015.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0747",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Alauddin Khilji - Market control policies and Siri fort",
     "Tipu Sultan - Tiger of Mysore",
     "Ibrahim Lodi - Last Sultan of Delhi, defeated at Panipat in 1526",
     "Babur - Established Din-i-Ilahi and the Ibadat Khana"
    ],
-   "a": 3,
-   "t": "Rulers",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Babur - Established Din-i-Ilahi and the Ibadat Khana is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Babur - Established Din-i-Ilahi and the Ibadat Khana is not correctly matched.",
+   "topic": "Rulers",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0748",
-   "q": "Which of the following pairs of person and title is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of person and title is NOT correctly matched?",
+   "options": [
     "Bal Gangadhar Tilak - General of the Revolt of 1857",
     "Chandrashekhar Azad - Revolutionary who died at Alfred Park",
     "Bhagat Singh - Revolutionary executed in 1931",
     "Gopal Krishna Gokhale - Political mentor of Mahatma Gandhi"
    ],
-   "a": 0,
-   "t": "Freedom Fighters",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Bal Gangadhar Tilak - General of the Revolt of 1857 is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Bal Gangadhar Tilak - General of the Revolt of 1857 is not correctly matched.",
+   "topic": "Freedom Fighters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0749",
-   "q": "Which of the following pairs of provision and article is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of provision and article is correctly matched?",
+   "options": [
     "Attorney General of India - Part IVA, Article 51A",
     "Attorney General of India - Article 148",
     "Attorney General of India - Article 165",
     "Attorney General of India - Article 76"
    ],
-   "a": 3,
-   "t": "Constitution Articles",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Attorney General of India - Article 76 is correctly matched."
+   "answer": 3,
+   "explanation": "Only Attorney General of India - Article 76 is correctly matched.",
+   "topic": "Constitution Articles",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0750",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "The word 'socialist' was added by - 42nd Amendment",
     "The word 'socialist' was added by - 30 years",
     "The word 'socialist' was added by - The President of India",
     "The word 'socialist' was added by - Habeas Corpus"
    ],
-   "a": 0,
-   "t": "Constitution Facts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only The word 'socialist' was added by - 42nd Amendment is correctly matched."
+   "answer": 0,
+   "explanation": "Only The word 'socialist' was added by - 42nd Amendment is correctly matched.",
+   "topic": "Constitution Facts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0751",
-   "q": "Which of the following pairs of institution and description is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of institution and description is NOT correctly matched?",
+   "options": [
     "Municipality - Local self-government in urban areas",
     "Union Territories - Administered by the President through administrators",
     "Rajya Sabha - Aids and advises the President",
     "Chief Justice of India - Head of the Indian judiciary"
    ],
-   "a": 2,
-   "t": "Institutions of India",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Rajya Sabha - Aids and advises the President is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Rajya Sabha - Aids and advises the President is not correctly matched.",
+   "topic": "Institutions of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0752",
-   "q": "Which of the following days is observed on 29 September?",
-   "o": [
+   "question": "Which of the following days is observed on 29 September?",
+   "options": [
     "World Heart Day",
     "Earth Day",
     "World Book Day",
     "World First Aid Day"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "29 September is observed as World Heart Day."
+   "answer": 0,
+   "explanation": "29 September is observed as World Heart Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0753",
-   "q": "Which of the following pairs of organisation and headquarters is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of organisation and headquarters is correctly matched?",
+   "options": [
     "World Economic Forum - Jakarta",
     "World Economic Forum - Cologny",
     "World Economic Forum - Bern",
     "World Economic Forum - Geneva"
    ],
-   "a": 1,
-   "t": "Organisations and Headquarters",
-   "l": 3,
-   "s": "generated",
-   "e": "Only World Economic Forum - Cologny is correctly matched."
+   "answer": 1,
+   "explanation": "Only World Economic Forum - Cologny is correctly matched.",
+   "topic": "Organisations and Headquarters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0754",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "Subroto Cup - Multi-sport",
     "Subroto Cup - Cricket",
     "Subroto Cup - Football",
     "Subroto Cup - Table Tennis"
    ],
-   "a": 2,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Subroto Cup - Football is correctly matched."
+   "answer": 2,
+   "explanation": "Only Subroto Cup - Football is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0755",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Shanti Swarup Bhatnagar Prize - Award for brave children in India",
     "Shanti Swarup Bhatnagar Prize - Fourth highest civilian award of India",
     "Shanti Swarup Bhatnagar Prize - Indian award in science and technology",
     "Shanti Swarup Bhatnagar Prize - Award for progress in spiritual matters"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Shanti Swarup Bhatnagar Prize - Indian award in science and technology is correctly matched."
+   "answer": 2,
+   "explanation": "Only Shanti Swarup Bhatnagar Prize - Indian award in science and technology is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0756",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Godaan - Helen Keller",
     "Godaan - Munshi Premchand",
     "Godaan - Plato",
     "Godaan - John Milton"
    ],
-   "a": 1,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Godaan - Munshi Premchand is correctly matched."
+   "answer": 1,
+   "explanation": "Only Godaan - Munshi Premchand is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0757",
-   "q": "Which of the following pairs of achievement and person is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of achievement and person is NOT correctly matched?",
+   "options": [
     "First country to host the modern Olympic Games - Roger Bannister",
     "First country to send a human into space - Soviet Union",
     "First country to launch a satellite - Soviet Union",
     "First person to reach the South Pole - Roald Amundsen"
    ],
-   "a": 0,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair First country to host the modern Olympic Games - Roger Bannister is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair First country to host the modern Olympic Games - Roger Bannister is not correctly matched.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0758",
-   "q": "Which continent is called the Dark Continent?",
-   "o": [
+   "question": "Which continent is called the Dark Continent?",
+   "options": [
     "Africa",
     "Nagpur",
     "Huang He",
     "Gulf of Kutch"
    ],
-   "a": 0,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 0,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0759",
-   "q": "Which of the following pairs of question and answer is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of question and answer is correctly matched?",
+   "options": [
     "Which layer of the atmosphere reflects radio waves - Jupiter",
     "Which layer of the atmosphere reflects radio waves - Monsoon",
     "Which layer of the atmosphere reflects radio waves - Oxygen",
     "Which layer of the atmosphere reflects radio waves - Ionosphere"
    ],
-   "a": 3,
-   "t": "Climate and Atmosphere",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Which layer of the atmosphere reflects radio waves - Ionosphere is correctly matched."
+   "answer": 3,
+   "explanation": "Only Which layer of the atmosphere reflects radio waves - Ionosphere is correctly matched.",
+   "topic": "Climate and Atmosphere",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0760",
-   "q": "In which year did SEBI become a statutory body?",
-   "o": [
+   "question": "In which year did SEBI become a statutory body?",
+   "options": [
     "1992",
     "Food Corporation of India",
     "Bank of India",
     "Mumbai"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0761",
-   "q": "Choose the word most similar in meaning to Homogeneous.",
-   "o": [
+   "question": "Choose the word most similar in meaning to Homogeneous.",
+   "options": [
     "Calm",
     "Uniform",
     "Temporary",
     "Subservient"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "Homogeneous means Uniform."
+   "answer": 1,
+   "explanation": "Homogeneous means Uniform.",
+   "topic": "Synonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0762",
-   "q": "Choose the word most opposite in meaning to Quiescent.",
-   "o": [
+   "question": "Choose the word most opposite in meaning to Quiescent.",
+   "options": [
     "Cruel",
     "Active",
     "Temporary",
     "Truth"
    ],
-   "a": 1,
-   "t": "Antonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "The opposite of Quiescent is Active."
+   "answer": 1,
+   "explanation": "The opposite of Quiescent is Active.",
+   "topic": "Antonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0763",
-   "q": "What is the meaning of the idiom 'An apple of discord'?",
-   "o": [
+   "question": "What is the meaning of the idiom 'An apple of discord'?",
+   "options": [
     "A narrow escape",
     "Praise oneself",
     "Criticise",
     "A cause of quarrel"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 2,
-   "s": "generated",
-   "e": "'An apple of discord' means A cause of quarrel."
+   "answer": 3,
+   "explanation": "'An apple of discord' means A cause of quarrel.",
+   "topic": "Idioms and Phrases",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0764",
-   "q": "Choose the one word substitute for: A person who is new to a profession",
-   "o": [
+   "question": "Choose the one word substitute for: A person who is new to a profession",
+   "options": [
     "Glutton",
     "Novice",
     "Somniloquist",
     "Plutocracy"
    ],
-   "a": 1,
-   "t": "One Word Substitution",
-   "l": 2,
-   "s": "generated",
-   "e": "A person who is new to a profession — Novice."
+   "answer": 1,
+   "explanation": "A person who is new to a profession — Novice.",
+   "topic": "One Word Substitution",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0765",
-   "q": "Which of the following words is spelt correctly?",
-   "o": [
+   "question": "Which of the following words is spelt correctly?",
+   "options": [
     "Tongue",
     "Genuine",
     "Independent",
     "Acknowledgment"
    ],
-   "a": 1,
-   "t": "Spellings",
-   "l": 1,
-   "s": "generated",
-   "e": "The correct spelling is Genuine."
+   "answer": 1,
+   "explanation": "The correct spelling is Genuine.",
+   "topic": "Spellings",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0766",
-   "q": "Which of the following is the plural form of Knife?",
-   "o": [
+   "question": "Which of the following is the plural form of Knife?",
+   "options": [
     "Radii",
     "Knives",
     "Step-daughters",
     "Teeth"
    ],
-   "a": 1,
-   "t": "Plurals",
-   "l": 2,
-   "s": "generated",
-   "e": "The plural of Knife is Knives."
+   "answer": 1,
+   "explanation": "The plural of Knife is Knives.",
+   "topic": "Plurals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0767",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Bachelor - Spinster",
     "Bachelor - Wife",
     "Bachelor - Madam",
     "Bachelor - Duck"
    ],
-   "a": 0,
-   "t": "Genders",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Bachelor - Spinster is correctly matched."
+   "answer": 0,
+   "explanation": "Only Bachelor - Spinster is correctly matched.",
+   "topic": "Genders",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0768",
-   "q": "Fill in the blank correctly: Fast, ____, Fastest",
-   "o": [
+   "question": "Fill in the blank correctly: Fast, ____, Fastest",
+   "options": [
     "Wiser",
     "Kinder",
     "Faster",
     "Cleverer"
    ],
-   "a": 2,
-   "t": "Degrees of Comparison",
-   "l": 2,
-   "s": "generated",
-   "e": "The correct sequence is Fast, Faster, Fastest."
+   "answer": 2,
+   "explanation": "The correct sequence is Fast, Faster, Fastest.",
+   "topic": "Degrees of Comparison",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0769",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "He is good ____ mathematics. - at",
     "He is good ____ mathematics. - from",
     "He is good ____ mathematics. - on",
     "He is good ____ mathematics. - since"
    ],
-   "a": 0,
-   "t": "Prepositions",
-   "l": 3,
-   "s": "generated",
-   "e": "Only He is good ____ mathematics. - at is correctly matched."
+   "answer": 0,
+   "explanation": "Only He is good ____ mathematics. - at is correctly matched.",
+   "topic": "Prepositions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0770",
-   "q": "Which survey is presented before the Union Budget?",
-   "o": [
+   "question": "Which survey is presented before the Union Budget?",
+   "options": [
     "Pradhan Mantri Ujjwala Yojana",
     "Madhya Pradesh",
     "Economic Survey",
     "National Center for Seismology"
    ],
-   "a": 2,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 2,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0771",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Golden Revolution - Development of horticulture",
     "Golden Revolution - Production and use of green hydrogen",
     "Golden Revolution - Digital health ecosystem for India",
     "Golden Revolution - Promoting startups and innovation"
    ],
-   "a": 0,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Golden Revolution - Development of horticulture is correctly matched."
+   "answer": 0,
+   "explanation": "Only Golden Revolution - Development of horticulture is correctly matched.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0772",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Mission LiFE - Communication satellites of India",
     "Mission LiFE - Radar imaging satellites for all-weather observation",
     "Mission LiFE - Electronic delivery of government services",
     "Mission LiFE - Lifestyle for environment movement"
    ],
-   "a": 3,
-   "t": "Missions and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Mission LiFE - Lifestyle for environment movement is correctly matched."
+   "answer": 3,
+   "explanation": "Only Mission LiFE - Lifestyle for environment movement is correctly matched.",
+   "topic": "Missions and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0773",
-   "q": "Which computer term is described as: Output device that produces hard copies?",
-   "o": [
+   "question": "Which computer term is described as: Output device that produces hard copies?",
+   "options": [
     "Printer",
     "Primary key",
     "Cache memory",
     "TCP/IP"
    ],
-   "a": 0,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Output device that produces hard copies describes Printer."
+   "answer": 0,
+   "explanation": "Output device that produces hard copies describes Printer.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0774",
-   "q": "What is the full form of BCCI?",
-   "o": [
+   "question": "What is the full form of BCCI?",
+   "options": [
     "Board of Control for Cricket in India",
     "National Testing Agency",
     "Pradhan Mantri Kisan Samman Nidhi",
     "Oral Rehydration Solution"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "BCCI stands for Board of Control for Cricket in India."
+   "answer": 0,
+   "explanation": "BCCI stands for Board of Control for Cricket in India.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0775",
-   "q": "What is the capital of Austria?",
-   "o": [
+   "question": "What is the capital of Austria?",
+   "options": [
     "Freetown",
     "Tashkent",
     "Hanoi",
     "Vienna"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Austria is Vienna."
+   "answer": 3,
+   "explanation": "The capital of Austria is Vienna.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0776",
-   "q": "What is the chemical symbol of Plutonium?",
-   "o": [
+   "question": "What is the chemical symbol of Plutonium?",
+   "options": [
     "Pu",
     "At",
     "Tm",
     "Sg"
    ],
-   "a": 0,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "The symbol of Plutonium is Pu."
+   "answer": 0,
+   "explanation": "The symbol of Plutonium is Pu.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0777",
-   "q": "Which of the following pairs of state and capital is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of state and capital is correctly matched?",
+   "options": [
     "Arunachal Pradesh - Itanagar",
     "Arunachal Pradesh - Bengaluru",
     "Arunachal Pradesh - Jaipur",
     "Arunachal Pradesh - Patna"
    ],
-   "a": 0,
-   "t": "States and Capitals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Arunachal Pradesh - Itanagar is correctly matched."
+   "answer": 0,
+   "explanation": "Only Arunachal Pradesh - Itanagar is correctly matched.",
+   "topic": "States and Capitals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0778",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "First Chief Justice of India - H. J. Kania",
     "First Indian to swim across the English Channel - Mihir Sen",
     "First Indian Institute of Technology was set up at - Kharagpur",
     "First woman Chief Minister in India - Dr. Rajendra Prasad"
    ],
-   "a": 3,
-   "t": "First in India",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair First woman Chief Minister in India - Dr. Rajendra Prasad is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair First woman Chief Minister in India - Dr. Rajendra Prasad is not correctly matched.",
+   "topic": "First in India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0779",
-   "q": "Which of the following pairs of dance and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of dance and state is correctly matched?",
+   "options": [
     "Kuchipudi - Jammu and Kashmir",
     "Kuchipudi - Assam",
     "Kuchipudi - Bihar",
     "Kuchipudi - Andhra Pradesh"
    ],
-   "a": 3,
-   "t": "Folk Dances of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Kuchipudi - Andhra Pradesh is correctly matched."
+   "answer": 3,
+   "explanation": "Only Kuchipudi - Andhra Pradesh is correctly matched.",
+   "topic": "Folk Dances of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0780",
-   "q": "Which of the following pairs of festival and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of festival and state is correctly matched?",
+   "options": [
     "Chapchar Kut - Madhya Pradesh",
     "Chapchar Kut - Mizoram",
     "Chapchar Kut - Manipur",
     "Chapchar Kut - Gujarat"
    ],
-   "a": 1,
-   "t": "Festivals of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Chapchar Kut - Mizoram is correctly matched."
+   "answer": 1,
+   "explanation": "Only Chapchar Kut - Mizoram is correctly matched.",
+   "topic": "Festivals of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0781",
-   "q": "Which of the following pairs of river and origin is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of river and origin is NOT correctly matched?",
+   "options": [
     "Chenab - Baralacha La",
     "Bhima - Bhimashankar",
     "Gomti - Pilibhit",
     "Chambal - Gangotri Glacier"
    ],
-   "a": 3,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Chambal - Gangotri Glacier is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Chambal - Gangotri Glacier is not correctly matched.",
+   "topic": "Rivers of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0782",
-   "q": "Which of the following national parks or tiger reserves is in Kerala?",
-   "o": [
+   "question": "Which of the following national parks or tiger reserves is in Kerala?",
+   "options": [
     "Parambikulam Tiger Reserve",
     "Sultanpur National Park",
     "Kudremukh National Park",
     "Bandipur Tiger Reserve"
    ],
-   "a": 0,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Parambikulam Tiger Reserve is in Kerala."
+   "answer": 0,
+   "explanation": "Parambikulam Tiger Reserve is in Kerala.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0783",
-   "q": "Which of the following pairs of quantity and SI unit is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is NOT correctly matched?",
+   "options": [
     "Electric potential - Volt",
     "Viscosity (dynamic) - Pascal second",
     "Absorbed dose - Gray",
     "Inductance - Metre"
    ],
-   "a": 3,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Inductance - Metre is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Inductance - Metre is not correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0784",
-   "q": "Which of the following pairs of instrument and use is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of instrument and use is correctly matched?",
+   "options": [
     "Microscope - Internal body organs",
     "Microscope - Turbidity of liquid",
     "Microscope - Magnified view of tiny objects",
     "Microscope - Speed of a vehicle"
    ],
-   "a": 2,
-   "t": "Scientific Instruments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Microscope - Magnified view of tiny objects is correctly matched."
+   "answer": 2,
+   "explanation": "Only Microscope - Magnified view of tiny objects is correctly matched.",
+   "topic": "Scientific Instruments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0785",
-   "q": "Which of the following pairs of body part and function is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of body part and function is correctly matched?",
+   "options": [
     "Cornea - Hearing in the ear",
     "Cornea - Refraction of light in the eye",
     "Cornea - Production of blood cells",
     "Cornea - Protection and temperature regulation"
    ],
-   "a": 1,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Cornea - Refraction of light in the eye is correctly matched."
+   "answer": 1,
+   "explanation": "Only Cornea - Refraction of light in the eye is correctly matched.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0786",
-   "q": "Which of the following pairs of disease and causative agent is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of disease and causative agent is correctly matched?",
+   "options": [
     "Mumps - Varicella zoster virus",
     "Mumps - Mumps virus",
     "Mumps - Influenza virus",
     "Mumps - Poliovirus"
    ],
-   "a": 1,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Mumps - Mumps virus is correctly matched."
+   "answer": 1,
+   "explanation": "Only Mumps - Mumps virus is correctly matched.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0787",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Diesel engine - Frank Whittle",
     "Diesel engine - Rudolf Diesel",
     "Diesel engine - Wilhelm Roentgen",
     "Diesel engine - Jonas Salk"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Diesel engine - Rudolf Diesel is correctly matched."
+   "answer": 1,
+   "explanation": "Only Diesel engine - Rudolf Diesel is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0788",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Bleaching powder - Nitric acid (HNO3)",
     "Bleaching powder - Zinc chloride (ZnCl2)",
     "Bleaching powder - Calcium oxychloride (CaOCl2)",
     "Bleaching powder - Magnesium sulphate (MgSO4.7H2O)"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Bleaching powder - Calcium oxychloride (CaOCl2) is correctly matched."
+   "answer": 2,
+   "explanation": "Only Bleaching powder - Calcium oxychloride (CaOCl2) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0789",
-   "q": "Which of the following pairs of branch and subject is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of branch and subject is correctly matched?",
+   "options": [
     "Pisciculture - Garden cultivation",
     "Pisciculture - Fish farming",
     "Pisciculture - Chemical processes in living organisms",
     "Pisciculture - Heredity and variation"
    ],
-   "a": 1,
-   "t": "Branches of Science",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Pisciculture - Fish farming is correctly matched."
+   "answer": 1,
+   "explanation": "Only Pisciculture - Fish farming is correctly matched.",
+   "topic": "Branches of Science",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0790",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Milky Way - Position from the Sun",
     "Milky Way - Farthest planet from the Sun",
     "Milky Way - Brightest planet as seen from Earth",
     "Milky Way - Galaxy containing the Solar System"
    ],
-   "a": 3,
-   "t": "Astronomy",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Milky Way - Galaxy containing the Solar System is correctly matched."
+   "answer": 3,
+   "explanation": "Only Milky Way - Galaxy containing the Solar System is correctly matched.",
+   "topic": "Astronomy",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0791",
-   "q": "Which of the following pairs of scientist and contribution is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of scientist and contribution is correctly matched?",
+   "options": [
     "Har Gobind Khorana - Number theory",
     "Har Gobind Khorana - Genetic code",
     "Har Gobind Khorana - Discovery of radium and polonium",
     "Har Gobind Khorana - Discovery of penicillin"
    ],
-   "a": 1,
-   "t": "Scientists",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Har Gobind Khorana - Genetic code is correctly matched."
+   "answer": 1,
+   "explanation": "Only Har Gobind Khorana - Genetic code is correctly matched.",
+   "topic": "Scientists",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0792",
-   "q": "In which decade did the following event take place: Chandrayaan-1 launched?",
-   "o": [
+   "question": "In which decade did the following event take place: Chandrayaan-1 launched?",
+   "options": [
     "2000s",
     "1970s",
     "1930s",
     "1980s"
    ],
-   "a": 0,
-   "t": "Indian History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Chandrayaan-1 launched took place in the 2008s."
+   "answer": 0,
+   "explanation": "Chandrayaan-1 launched took place in the 2008s.",
+   "topic": "Indian History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0793",
-   "q": "Which of the following events took place in 1961?",
-   "o": [
+   "question": "Which of the following events took place in 1961?",
+   "options": [
     "Publication of the Communist Manifesto",
     "Paris Climate Agreement adopted",
     "Formation of the European Union by the Maastricht Treaty",
     "Yuri Gagarin became the first human in space"
    ],
-   "a": 3,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Yuri Gagarin became the first human in space took place in 1961."
+   "answer": 3,
+   "explanation": "Yuri Gagarin became the first human in space took place in 1961.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0794",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Maharaja Ranjit Singh - Founder of the Sikh Empire",
     "Sher Shah Suri - Father of Tipu Sultan and ruler of Mysore",
     "Baji Rao I - Greatest of the Peshwas",
     "Guru Nanak - Founder of Sikhism"
    ],
-   "a": 1,
-   "t": "Rulers",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Sher Shah Suri - Father of Tipu Sultan and ruler of Mysore is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Sher Shah Suri - Father of Tipu Sultan and ruler of Mysore is not correctly matched.",
+   "topic": "Rulers",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0795",
-   "q": "Which of the following pairs of person and title is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of person and title is NOT correctly matched?",
+   "options": [
     "Bhagat Singh - Revolutionary executed in 1931",
     "Tatya Tope - Soldier who sparked the Revolt of 1857",
     "Bankim Chandra Chatterjee - Author of Vande Mataram",
     "Nana Saheb - Leader of the Revolt at Kanpur"
    ],
-   "a": 1,
-   "t": "Freedom Fighters",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Tatya Tope - Soldier who sparked the Revolt of 1857 is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Tatya Tope - Soldier who sparked the Revolt of 1857 is not correctly matched.",
+   "topic": "Freedom Fighters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0796",
-   "q": "Which of the following pairs of provision and article is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of provision and article is correctly matched?",
+   "options": [
     "Cultural and Educational Rights - Article 280",
     "Cultural and Educational Rights - Article 54",
     "Cultural and Educational Rights - Articles 29-30",
     "Cultural and Educational Rights - Part XIV, Articles 308-323"
    ],
-   "a": 2,
-   "t": "Constitution Articles",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Cultural and Educational Rights - Articles 29-30 is correctly matched."
+   "answer": 2,
+   "explanation": "Only Cultural and Educational Rights - Articles 29-30 is correctly matched.",
+   "topic": "Constitution Articles",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0797",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "The word 'secular' was added by - The President of India",
     "The word 'secular' was added by - 42nd Amendment",
     "The word 'secular' was added by - 2019",
     "The word 'secular' was added by - Special status of Jammu and Kashmir"
    ],
-   "a": 1,
-   "t": "Constitution Facts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only The word 'secular' was added by - 42nd Amendment is correctly matched."
+   "answer": 1,
+   "explanation": "Only The word 'secular' was added by - 42nd Amendment is correctly matched.",
+   "topic": "Constitution Facts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0798",
-   "q": "Which of the following pairs of institution and description is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of institution and description is NOT correctly matched?",
+   "options": [
     "Attorney General of India - Chief legal adviser to the Government of India",
     "SEBI - Regulator of the securities market",
     "Zilla Parishad - Local body at the district level",
     "Panchayat - Constitutional head of the Republic"
    ],
-   "a": 3,
-   "t": "Institutions of India",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Panchayat - Constitutional head of the Republic is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Panchayat - Constitutional head of the Republic is not correctly matched.",
+   "topic": "Institutions of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0799",
-   "q": "Which of the following days is observed on 20 March?",
-   "o": [
+   "question": "Which of the following days is observed on 20 March?",
+   "options": [
     "Teachers' Day (India)",
     "World Statistics Day",
     "World Sparrow Day",
     "Doctors' Day (India)"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "20 March is observed as World Sparrow Day."
+   "answer": 2,
+   "explanation": "20 March is observed as World Sparrow Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0800",
-   "q": "Which of the following pairs of organisation and headquarters is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of organisation and headquarters is correctly matched?",
+   "options": [
     "United Nations - Vienna",
     "United Nations - Kathmandu",
     "United Nations - London",
     "United Nations - New York"
    ],
-   "a": 3,
-   "t": "Organisations and Headquarters",
-   "l": 3,
-   "s": "generated",
-   "e": "Only United Nations - New York is correctly matched."
+   "answer": 3,
+   "explanation": "Only United Nations - New York is correctly matched.",
+   "topic": "Organisations and Headquarters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0801",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "Duleep Trophy - Cricket",
     "Duleep Trophy - Tennis",
     "Duleep Trophy - Golf",
     "Duleep Trophy - Football"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Duleep Trophy - Cricket is correctly matched."
+   "answer": 0,
+   "explanation": "Only Duleep Trophy - Cricket is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0802",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Dada Saheb Phalke Award - Asian award for public service",
     "Dada Saheb Phalke Award - Award for brave children in India",
     "Dada Saheb Phalke Award - Indian literary award",
     "Dada Saheb Phalke Award - Highest award in Indian cinema"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Dada Saheb Phalke Award - Highest award in Indian cinema is correctly matched."
+   "answer": 3,
+   "explanation": "Only Dada Saheb Phalke Award - Highest award in Indian cinema is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0803",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Romeo and Juliet - William Shakespeare",
     "Romeo and Juliet - A. P. J. Abdul Kalam",
     "Romeo and Juliet - Maulana Abul Kalam Azad",
     "Romeo and Juliet - Homer"
    ],
-   "a": 0,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Romeo and Juliet - William Shakespeare is correctly matched."
+   "answer": 0,
+   "explanation": "Only Romeo and Juliet - William Shakespeare is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0804",
-   "q": "Which of the following pairs of achievement and person is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of achievement and person is NOT correctly matched?",
+   "options": [
     "First country to land a man on the Moon - United States of America",
     "First human in space - Yuri Gagarin",
     "First woman Prime Minister in the world - Amelia Earhart",
     "First FIFA World Cup was held in - Uruguay"
    ],
-   "a": 2,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair First woman Prime Minister in the world - Amelia Earhart is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair First woman Prime Minister in the world - Amelia Earhart is not correctly matched.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0805",
-   "q": "Which country is known as the Land of Kangaroos?",
-   "o": [
+   "question": "Which country is known as the Land of Kangaroos?",
+   "options": [
     "Iran",
     "Udaipur",
     "Australia",
     "Tunga"
    ],
-   "a": 2,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 2,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0806",
-   "q": "Which of the following pairs of question and answer is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of question and answer is correctly matched?",
+   "options": [
     "What is the point on the surface above the earthquake focus called - Ionosphere",
     "What is the point on the surface above the earthquake focus called - Venus",
     "What is the point on the surface above the earthquake focus called - Talc",
     "What is the point on the surface above the earthquake focus called - Epicentre"
    ],
-   "a": 3,
-   "t": "Climate and Atmosphere",
-   "l": 3,
-   "s": "generated",
-   "e": "Only What is the point on the surface above the earthquake focus called - Epicentre is correctly matched."
+   "answer": 3,
+   "explanation": "Only What is the point on the surface above the earthquake focus called - Epicentre is correctly matched.",
+   "topic": "Climate and Atmosphere",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0807",
-   "q": "What is the study of individual economic units called?",
-   "o": [
+   "question": "What is the study of individual economic units called?",
+   "options": [
     "Gross National Product",
     "Finance Commission",
     "Microeconomics",
     "Abolition of intermediaries"
    ],
-   "a": 2,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 2,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0808",
-   "q": "Choose the word most similar in meaning to Antipathy.",
-   "o": [
+   "question": "Choose the word most similar in meaning to Antipathy.",
+   "options": [
     "Opponent",
     "Uniform",
     "Brief",
     "Dislike"
    ],
-   "a": 3,
-   "t": "Synonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "Antipathy means Dislike."
+   "answer": 3,
+   "explanation": "Antipathy means Dislike.",
+   "topic": "Synonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0809",
-   "q": "Choose the word most opposite in meaning to Feasible.",
-   "o": [
+   "question": "Choose the word most opposite in meaning to Feasible.",
+   "options": [
     "Scarce",
     "Retain",
     "Incompetent",
     "Impossible"
    ],
-   "a": 3,
-   "t": "Antonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "The opposite of Feasible is Impossible."
+   "answer": 3,
+   "explanation": "The opposite of Feasible is Impossible.",
+   "topic": "Antonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0810",
-   "q": "What is the meaning of the idiom 'Behind the scenes'?",
-   "o": [
+   "question": "What is the meaning of the idiom 'Behind the scenes'?",
+   "options": [
     "Interfere",
     "Secretly",
     "Agree completely",
     "Catch in the act of doing wrong"
    ],
-   "a": 1,
-   "t": "Idioms and Phrases",
-   "l": 2,
-   "s": "generated",
-   "e": "'Behind the scenes' means Secretly."
+   "answer": 1,
+   "explanation": "'Behind the scenes' means Secretly.",
+   "topic": "Idioms and Phrases",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0811",
-   "q": "Choose the one word substitute for: One who drinks too much alcohol",
-   "o": [
+   "question": "Choose the one word substitute for: One who drinks too much alcohol",
+   "options": [
     "Extempore",
     "Monologue",
     "Theocracy",
     "Drunkard"
    ],
-   "a": 3,
-   "t": "One Word Substitution",
-   "l": 2,
-   "s": "generated",
-   "e": "One who drinks too much alcohol — Drunkard."
+   "answer": 3,
+   "explanation": "One who drinks too much alcohol — Drunkard.",
+   "topic": "One Word Substitution",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0812",
-   "q": "Which of the following words is spelt correctly?",
-   "o": [
+   "question": "Which of the following words is spelt correctly?",
+   "options": [
     "Accidentally",
     "Attendance",
     "Miniature",
     "Foreign"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 1,
-   "s": "generated",
-   "e": "The correct spelling is Accidentally."
+   "answer": 0,
+   "explanation": "The correct spelling is Accidentally.",
+   "topic": "Spellings",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0813",
-   "q": "Which of the following is the plural form of Potato?",
-   "o": [
+   "question": "Which of the following is the plural form of Potato?",
+   "options": [
     "Chiefs",
     "Proofs",
     "Potatoes",
     "Appendices"
    ],
-   "a": 2,
-   "t": "Plurals",
-   "l": 2,
-   "s": "generated",
-   "e": "The plural of Potato is Potatoes."
+   "answer": 2,
+   "explanation": "The plural of Potato is Potatoes.",
+   "topic": "Plurals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0814",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Bull - Cow",
     "Bull - Daughter",
     "Bull - Mare",
     "Bull - Peahen"
    ],
-   "a": 0,
-   "t": "Genders",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Bull - Cow is correctly matched."
+   "answer": 0,
+   "explanation": "Only Bull - Cow is correctly matched.",
+   "topic": "Genders",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0815",
-   "q": "Fill in the blank correctly: Dangerous, ____, Most dangerous",
-   "o": [
+   "question": "Fill in the blank correctly: Dangerous, ____, Most dangerous",
+   "options": [
     "More dangerous",
     "Poorer",
     "Braver",
     "Darker"
    ],
-   "a": 0,
-   "t": "Degrees of Comparison",
-   "l": 2,
-   "s": "generated",
-   "e": "The correct sequence is Dangerous, More dangerous, Most dangerous."
+   "answer": 0,
+   "explanation": "The correct sequence is Dangerous, More dangerous, Most dangerous.",
+   "topic": "Degrees of Comparison",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0816",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "He is accustomed ____ hard work. - for",
     "He is accustomed ____ hard work. - of",
     "He is accustomed ____ hard work. - to",
     "He is accustomed ____ hard work. - with"
    ],
-   "a": 2,
-   "t": "Prepositions",
-   "l": 3,
-   "s": "generated",
-   "e": "Only He is accustomed ____ hard work. - to is correctly matched."
+   "answer": 2,
+   "explanation": "Only He is accustomed ____ hard work. - to is correctly matched.",
+   "topic": "Prepositions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0817",
-   "q": "Which country will host the 2028 Summer Olympics?",
-   "o": [
+   "question": "Which country will host the 2028 Summer Olympics?",
+   "options": [
     "Mumbai",
     "Concern Worldwide and Welthungerhilfe",
     "United States of America",
     "United Nations Sustainable Development Solutions Network"
    ],
-   "a": 2,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 2,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0818",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "e-Rupee - Loans to women and scheduled caste entrepreneurs",
     "e-Rupee - Guaranteed wage employment in rural areas",
     "e-Rupee - India's central bank digital currency pilot",
     "e-Rupee - Irrigation coverage and water use efficiency"
    ],
-   "a": 2,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only e-Rupee - India's central bank digital currency pilot is correctly matched."
+   "answer": 2,
+   "explanation": "Only e-Rupee - India's central bank digital currency pilot is correctly matched.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0819",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "DIKSHA - Digital infrastructure for school education",
     "DIKSHA - Solar observation from the Lagrange point L1",
     "DIKSHA - Affordable housing in urban areas",
     "DIKSHA - Instant bank to bank payments system"
    ],
-   "a": 0,
-   "t": "Missions and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only DIKSHA - Digital infrastructure for school education is correctly matched."
+   "answer": 0,
+   "explanation": "Only DIKSHA - Digital infrastructure for school education is correctly matched.",
+   "topic": "Missions and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0820",
-   "q": "Which computer term is described as: Standard code for representing characters?",
-   "o": [
+   "question": "Which computer term is described as: Standard code for representing characters?",
+   "options": [
     "ROM",
     "ASCII",
     "Monitor",
     "SQL"
    ],
-   "a": 1,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Standard code for representing characters describes ASCII."
+   "answer": 1,
+   "explanation": "Standard code for representing characters describes ASCII.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0821",
-   "q": "What is the full form of UNICEF?",
-   "o": [
+   "question": "What is the full form of UNICEF?",
+   "options": [
     "National Company Law Tribunal",
     "United Nations Children's Fund",
     "Indian Institute of Management",
     "Bombay Stock Exchange"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "UNICEF stands for United Nations Children's Fund."
+   "answer": 1,
+   "explanation": "UNICEF stands for United Nations Children's Fund.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0822",
-   "q": "What is the capital of Italy?",
-   "o": [
+   "question": "What is the capital of Italy?",
+   "options": [
     "Gaborone",
     "Dushanbe",
     "Ulaanbaatar",
     "Rome"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Italy is Rome."
+   "answer": 3,
+   "explanation": "The capital of Italy is Rome.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0823",
-   "q": "What is the chemical symbol of Thallium?",
-   "o": [
+   "question": "What is the chemical symbol of Thallium?",
+   "options": [
     "Tl",
     "Tm",
     "Cl",
     "Ir"
    ],
-   "a": 0,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "The symbol of Thallium is Tl."
+   "answer": 0,
+   "explanation": "The symbol of Thallium is Tl.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0824",
-   "q": "Which of the following pairs of state and capital is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of state and capital is correctly matched?",
+   "options": [
     "Arunachal Pradesh - Shimla",
     "Arunachal Pradesh - Hyderabad",
     "Arunachal Pradesh - Bhopal",
     "Arunachal Pradesh - Itanagar"
    ],
-   "a": 3,
-   "t": "States and Capitals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Arunachal Pradesh - Itanagar is correctly matched."
+   "answer": 3,
+   "explanation": "Only Arunachal Pradesh - Itanagar is correctly matched.",
+   "topic": "States and Capitals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0825",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "First Prime Minister of India - Mother Teresa",
     "First Governor-General of independent India - Lord Mountbatten",
     "First woman President of India - Pratibha Patil",
     "First Indian Railway line started between - Bombay and Thane"
    ],
-   "a": 0,
-   "t": "First in India",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair First Prime Minister of India - Mother Teresa is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair First Prime Minister of India - Mother Teresa is not correctly matched.",
+   "topic": "First in India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0826",
-   "q": "Which of the following pairs of dance and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of dance and state is correctly matched?",
+   "options": [
     "Kuchipudi - Gujarat",
     "Kuchipudi - Kerala",
     "Kuchipudi - Tamil Nadu",
     "Kuchipudi - Andhra Pradesh"
    ],
-   "a": 3,
-   "t": "Folk Dances of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Kuchipudi - Andhra Pradesh is correctly matched."
+   "answer": 3,
+   "explanation": "Only Kuchipudi - Andhra Pradesh is correctly matched.",
+   "topic": "Folk Dances of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0827",
-   "q": "Which of the following pairs of festival and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of festival and state is correctly matched?",
+   "options": [
     "Chapchar Kut - Arunachal Pradesh",
     "Chapchar Kut - Assam",
     "Chapchar Kut - Rajasthan",
     "Chapchar Kut - Mizoram"
    ],
-   "a": 3,
-   "t": "Festivals of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Chapchar Kut - Mizoram is correctly matched."
+   "answer": 3,
+   "explanation": "Only Chapchar Kut - Mizoram is correctly matched.",
+   "topic": "Festivals of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0828",
-   "q": "Which of the following pairs of river and origin is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of river and origin is NOT correctly matched?",
+   "options": [
     "Yamuna - Mahabaleshwar",
     "Beas - Beas Kund",
     "Sutlej - Rakas Lake",
     "Betwa - Vindhya Range"
    ],
-   "a": 0,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Yamuna - Mahabaleshwar is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Yamuna - Mahabaleshwar is not correctly matched.",
+   "topic": "Rivers of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0829",
-   "q": "Which of the following national parks or tiger reserves is in Gujarat?",
-   "o": [
+   "question": "Which of the following national parks or tiger reserves is in Gujarat?",
+   "options": [
     "Hemis National Park",
     "Kalesar National Park",
     "Phawngpui National Park",
     "Gir National Park"
    ],
-   "a": 3,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Gir National Park is in Gujarat."
+   "answer": 3,
+   "explanation": "Gir National Park is in Gujarat.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0830",
-   "q": "Which of the following pairs of quantity and SI unit is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is NOT correctly matched?",
+   "options": [
     "Mass - Candela",
     "Frequency - Hertz",
     "Temperature - Kelvin",
     "Radioactivity - Becquerel"
    ],
-   "a": 0,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Mass - Candela is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Mass - Candela is not correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0831",
-   "q": "Which of the following pairs of instrument and use is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of instrument and use is correctly matched?",
+   "options": [
     "Microscope - Magnified view of tiny objects",
     "Microscope - Hearing sensitivity",
     "Microscope - Purity of milk",
     "Microscope - Turbidity of liquid"
    ],
-   "a": 0,
-   "t": "Scientific Instruments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Microscope - Magnified view of tiny objects is correctly matched."
+   "answer": 0,
+   "explanation": "Only Microscope - Magnified view of tiny objects is correctly matched.",
+   "topic": "Scientific Instruments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0832",
-   "q": "Which of the following pairs of body part and function is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of body part and function is correctly matched?",
+   "options": [
     "Cornea - Refraction of light in the eye",
     "Cornea - Exchange of gases",
     "Cornea - Transport of oxygen",
     "Cornea - Secretion of insulin"
    ],
-   "a": 0,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Cornea - Refraction of light in the eye is correctly matched."
+   "answer": 0,
+   "explanation": "Only Cornea - Refraction of light in the eye is correctly matched.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0833",
-   "q": "Which of the following pairs of disease and causative agent is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of disease and causative agent is correctly matched?",
+   "options": [
     "Mumps - Mumps virus",
     "Mumps - Dengue virus",
     "Mumps - Wuchereria bancrofti",
     "Mumps - Corynebacterium diphtheriae bacteria"
    ],
-   "a": 0,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Mumps - Mumps virus is correctly matched."
+   "answer": 0,
+   "explanation": "Only Mumps - Mumps virus is correctly matched.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0834",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Diesel engine - Karl von Drais",
     "Diesel engine - Rudolf Diesel",
     "Diesel engine - Galileo Galilei",
     "Diesel engine - Michael Faraday"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Diesel engine - Rudolf Diesel is correctly matched."
+   "answer": 1,
+   "explanation": "Only Diesel engine - Rudolf Diesel is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0835",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Bleaching powder - Calcium oxychloride (CaOCl2)",
     "Bleaching powder - Magnesium hydroxide (Mg(OH)2)",
     "Bleaching powder - Sodium hydroxide (NaOH)",
     "Bleaching powder - Zinc chloride (ZnCl2)"
    ],
-   "a": 0,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Bleaching powder - Calcium oxychloride (CaOCl2) is correctly matched."
+   "answer": 0,
+   "explanation": "Only Bleaching powder - Calcium oxychloride (CaOCl2) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0836",
-   "q": "Which of the following pairs of branch and subject is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of branch and subject is correctly matched?",
+   "options": [
     "Pisciculture - Bacteria",
     "Pisciculture - Fish farming",
     "Pisciculture - Fishes",
     "Pisciculture - Solid Earth and its rocks"
    ],
-   "a": 1,
-   "t": "Branches of Science",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Pisciculture - Fish farming is correctly matched."
+   "answer": 1,
+   "explanation": "Only Pisciculture - Fish farming is correctly matched.",
+   "topic": "Branches of Science",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0837",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Milky Way - Only planet known to support life",
     "Milky Way - Great Red Spot",
     "Milky Way - Planet with the most moons",
     "Milky Way - Galaxy containing the Solar System"
    ],
-   "a": 3,
-   "t": "Astronomy",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Milky Way - Galaxy containing the Solar System is correctly matched."
+   "answer": 3,
+   "explanation": "Only Milky Way - Galaxy containing the Solar System is correctly matched.",
+   "topic": "Astronomy",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0838",
-   "q": "Which of the following pairs of scientist and contribution is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of scientist and contribution is correctly matched?",
+   "options": [
     "Har Gobind Khorana - Centigrade temperature scale",
     "Har Gobind Khorana - Genetic code",
     "Har Gobind Khorana - Boyle's law of gases",
     "Har Gobind Khorana - Atomic model"
    ],
-   "a": 1,
-   "t": "Scientists",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Har Gobind Khorana - Genetic code is correctly matched."
+   "answer": 1,
+   "explanation": "Only Har Gobind Khorana - Genetic code is correctly matched.",
+   "topic": "Scientists",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0839",
-   "q": "In which decade did the following event take place: India won the Cricket World Cup?",
-   "o": [
+   "question": "In which decade did the following event take place: India won the Cricket World Cup?",
+   "options": [
     "2000s",
     "1960s",
     "1920s",
     "1980s"
    ],
-   "a": 3,
-   "t": "Indian History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "India won the Cricket World Cup took place in the 1983s."
+   "answer": 3,
+   "explanation": "India won the Cricket World Cup took place in the 1983s.",
+   "topic": "Indian History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0840",
-   "q": "Which of the following events took place in 1950?",
-   "o": [
+   "question": "Which of the following events took place in 1950?",
+   "options": [
     "Beginning of the Korean War",
     "Oil crisis",
     "Cuban Missile Crisis",
     "Wall Street Crash and start of the Great Depression"
    ],
-   "a": 0,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Beginning of the Korean War took place in 1950."
+   "answer": 0,
+   "explanation": "Beginning of the Korean War took place in 1950.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0841",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Gautama Buddha - Founder of Buddhism",
     "Ashoka - Founder of Buddhism",
     "Alauddin Khilji - Market control policies and Siri fort",
     "Kanishka - Convened the Fourth Buddhist Council"
    ],
-   "a": 1,
-   "t": "Rulers",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Ashoka - Founder of Buddhism is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Ashoka - Founder of Buddhism is not correctly matched.",
+   "topic": "Rulers",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0842",
-   "q": "Which of the following pairs of person and title is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of person and title is NOT correctly matched?",
+   "options": [
     "Sarojini Naidu - Nightingale of India",
     "C. Rajagopalachari - Last Governor-General of India",
     "Mangal Pandey - Nightingale of India",
     "Bhagat Singh - Founder-member of the HSRA"
    ],
-   "a": 2,
-   "t": "Freedom Fighters",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Mangal Pandey - Nightingale of India is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Mangal Pandey - Nightingale of India is not correctly matched.",
+   "topic": "Freedom Fighters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0843",
-   "q": "Which of the following pairs of provision and article is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of provision and article is correctly matched?",
+   "options": [
     "Cultural and Educational Rights - Part II, Articles 5-11",
     "Cultural and Educational Rights - Articles 29-30",
     "Cultural and Educational Rights - Part XV, Articles 324-329",
     "Cultural and Educational Rights - Article 214"
    ],
-   "a": 1,
-   "t": "Constitution Articles",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Cultural and Educational Rights - Articles 29-30 is correctly matched."
+   "answer": 1,
+   "explanation": "Only Cultural and Educational Rights - Articles 29-30 is correctly matched.",
+   "topic": "Constitution Articles",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0844",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "The word 'secular' was added by - The Supreme Court collegium",
     "The word 'secular' was added by - 26 January 1950",
     "The word 'secular' was added by - United Kingdom",
     "The word 'secular' was added by - 42nd Amendment"
    ],
-   "a": 3,
-   "t": "Constitution Facts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only The word 'secular' was added by - 42nd Amendment is correctly matched."
+   "answer": 3,
+   "explanation": "Only The word 'secular' was added by - 42nd Amendment is correctly matched.",
+   "topic": "Constitution Facts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0845",
-   "q": "Which of the following pairs of institution and description is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of institution and description is NOT correctly matched?",
+   "options": [
     "Vice President of India - Supervises elections to Parliament and State legislatures",
     "National Human Rights Commission - Protects human rights in India",
     "Parliament of India - Union legislature consisting of the President and two Houses",
     "Municipality - Local self-government in urban areas"
    ],
-   "a": 0,
-   "t": "Institutions of India",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Vice President of India - Supervises elections to Parliament and State legislatures is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Vice President of India - Supervises elections to Parliament and State legislatures is not correctly matched.",
+   "topic": "Institutions of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0846",
-   "q": "Which of the following days is observed on 14 December?",
-   "o": [
+   "question": "Which of the following days is observed on 14 December?",
+   "options": [
     "World Water Day",
     "National Energy Conservation Day (India)",
     "Teachers' Day (India)",
     "World Pulses Day"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "14 December is observed as National Energy Conservation Day (India)."
+   "answer": 1,
+   "explanation": "14 December is observed as National Energy Conservation Day (India).",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0847",
-   "q": "Which of the following pairs of organisation and headquarters is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of organisation and headquarters is correctly matched?",
+   "options": [
     "United Nations - Rome",
     "United Nations - New York",
     "United Nations - London",
     "United Nations - Vienna"
    ],
-   "a": 1,
-   "t": "Organisations and Headquarters",
-   "l": 3,
-   "s": "generated",
-   "e": "Only United Nations - New York is correctly matched."
+   "answer": 1,
+   "explanation": "Only United Nations - New York is correctly matched.",
+   "topic": "Organisations and Headquarters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0848",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Dada Saheb Phalke Award - Highest award in Indian cinema",
     "Dada Saheb Phalke Award - Indian award for social work and peace",
     "Dada Saheb Phalke Award - Second highest civilian award of India",
     "Dada Saheb Phalke Award - Highest civilian award of India"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Dada Saheb Phalke Award - Highest award in Indian cinema is correctly matched."
+   "answer": 0,
+   "explanation": "Only Dada Saheb Phalke Award - Highest award in Indian cinema is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0849",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Romeo and Juliet - Charles Dickens",
     "Romeo and Juliet - Maulana Abul Kalam Azad",
     "Romeo and Juliet - William Shakespeare",
     "Romeo and Juliet - Kalidasa"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Romeo and Juliet - William Shakespeare is correctly matched."
+   "answer": 2,
+   "explanation": "Only Romeo and Juliet - William Shakespeare is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0850",
-   "q": "Which of the following pairs of achievement and person is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of achievement and person is NOT correctly matched?",
+   "options": [
     "First Indian woman to win an Olympic medal - Karnam Malleswari",
     "First person to walk on the Moon - Neil Armstrong",
     "First person to win two Nobel Prizes - Marie Curie",
     "First woman in space - Amelia Earhart"
    ],
-   "a": 3,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair First woman in space - Amelia Earhart is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair First woman in space - Amelia Earhart is not correctly matched.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0851",
-   "q": "Where is Mahabalipuram located?",
-   "o": [
+   "question": "Where is Mahabalipuram located?",
+   "options": [
     "Tamil Nadu",
     "Ellora",
     "Tunga",
     "Yangtze"
    ],
-   "a": 0,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 0,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0852",
-   "q": "Which of the following pairs of question and answer is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of question and answer is correctly matched?",
+   "options": [
     "What is the point on the surface above the earthquake focus called - From the land to the sea",
     "What is the point on the surface above the earthquake focus called - Venus",
     "What is the point on the surface above the earthquake focus called - Nitrogen",
     "What is the point on the surface above the earthquake focus called - Epicentre"
    ],
-   "a": 3,
-   "t": "Climate and Atmosphere",
-   "l": 3,
-   "s": "generated",
-   "e": "Only What is the point on the surface above the earthquake focus called - Epicentre is correctly matched."
+   "answer": 3,
+   "explanation": "Only What is the point on the surface above the earthquake focus called - Epicentre is correctly matched.",
+   "topic": "Climate and Atmosphere",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0853",
-   "q": "Where is the headquarters of the International Monetary Fund?",
-   "o": [
+   "question": "Where is the headquarters of the International Monetary Fund?",
+   "options": [
     "Services",
     "1975",
     "Washington, D.C.",
     "International Finance Corporation"
    ],
-   "a": 2,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 2,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0854",
-   "q": "Choose the word most similar in meaning to Cryptic.",
-   "o": [
+   "question": "Choose the word most similar in meaning to Cryptic.",
+   "options": [
     "United",
     "Revenge",
     "Mysterious",
     "Praise"
    ],
-   "a": 2,
-   "t": "Synonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "Cryptic means Mysterious."
+   "answer": 2,
+   "explanation": "Cryptic means Mysterious.",
+   "topic": "Synonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0855",
-   "q": "Choose the word most opposite in meaning to Elated.",
-   "o": [
+   "question": "Choose the word most opposite in meaning to Elated.",
+   "options": [
     "Stabilise",
     "Modest",
     "Depressed",
     "Taciturn"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "The opposite of Elated is Depressed."
+   "answer": 2,
+   "explanation": "The opposite of Elated is Depressed.",
+   "topic": "Antonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0856",
-   "q": "What is the meaning of the idiom 'For good'?",
-   "o": [
+   "question": "What is the meaning of the idiom 'For good'?",
+   "options": [
     "A day of festivity",
     "Fail to have the intended effect",
     "Permanently",
     "Face the main impact"
    ],
-   "a": 2,
-   "t": "Idioms and Phrases",
-   "l": 2,
-   "s": "generated",
-   "e": "'For good' means Permanently."
+   "answer": 2,
+   "explanation": "'For good' means Permanently.",
+   "topic": "Idioms and Phrases",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0857",
-   "q": "Choose the one word substitute for: A person who talks in his sleep",
-   "o": [
+   "question": "Choose the one word substitute for: A person who talks in his sleep",
+   "options": [
     "Armoury",
     "Dystopia",
     "Inevitable",
     "Somniloquist"
    ],
-   "a": 3,
-   "t": "One Word Substitution",
-   "l": 2,
-   "s": "generated",
-   "e": "A person who talks in his sleep — Somniloquist."
+   "answer": 3,
+   "explanation": "A person who talks in his sleep — Somniloquist.",
+   "topic": "One Word Substitution",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0858",
-   "q": "Which of the following words is spelt correctly?",
-   "o": [
+   "question": "Which of the following words is spelt correctly?",
+   "options": [
     "Quantity",
     "Guarantee",
     "Believe",
     "Beginning"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 1,
-   "s": "generated",
-   "e": "The correct spelling is Quantity."
+   "answer": 0,
+   "explanation": "The correct spelling is Quantity.",
+   "topic": "Spellings",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0859",
-   "q": "Which of the following is the plural form of Trout?",
-   "o": [
+   "question": "Which of the following is the plural form of Trout?",
+   "options": [
     "Indices",
     "Lives",
     "Trout",
     "Buses"
    ],
-   "a": 2,
-   "t": "Plurals",
-   "l": 2,
-   "s": "generated",
-   "e": "The plural of Trout is Trout."
+   "answer": 2,
+   "explanation": "The plural of Trout is Trout.",
+   "topic": "Plurals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0860",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Bull - Waitress",
     "Bull - Niece",
     "Bull - Hostess",
     "Bull - Cow"
    ],
-   "a": 3,
-   "t": "Genders",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Bull - Cow is correctly matched."
+   "answer": 3,
+   "explanation": "Only Bull - Cow is correctly matched.",
+   "topic": "Genders",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0861",
-   "q": "Fill in the blank correctly: Thin, ____, Thinnest",
-   "o": [
+   "question": "Fill in the blank correctly: Thin, ____, Thinnest",
+   "options": [
     "Smaller",
     "Shallower",
     "Farther",
     "Thinner"
    ],
-   "a": 3,
-   "t": "Degrees of Comparison",
-   "l": 2,
-   "s": "generated",
-   "e": "The correct sequence is Thin, Thinner, Thinnest."
+   "answer": 3,
+   "explanation": "The correct sequence is Thin, Thinner, Thinnest.",
+   "topic": "Degrees of Comparison",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0862",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "He is accustomed ____ hard work. - to",
     "He is accustomed ____ hard work. - in",
     "He is accustomed ____ hard work. - since",
     "He is accustomed ____ hard work. - with"
    ],
-   "a": 0,
-   "t": "Prepositions",
-   "l": 3,
-   "s": "generated",
-   "e": "Only He is accustomed ____ hard work. - to is correctly matched."
+   "answer": 0,
+   "explanation": "Only He is accustomed ____ hard work. - to is correctly matched.",
+   "topic": "Prepositions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0863",
-   "q": "Which country has the largest installed solar power capacity?",
-   "o": [
+   "question": "Which country has the largest installed solar power capacity?",
+   "options": [
     "India Stack",
     "China",
     "Aryabhatta Research Institute of Observational Sciences telescope",
     "Kerala"
    ],
-   "a": 1,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 1,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0864",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "e-Rupee - India's central bank digital currency pilot",
     "e-Rupee - Small savings scheme for the girl child",
     "e-Rupee - Working capital loans for street vendors",
     "e-Rupee - Soil testing and nutrient recommendations"
    ],
-   "a": 0,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only e-Rupee - India's central bank digital currency pilot is correctly matched."
+   "answer": 0,
+   "explanation": "Only e-Rupee - India's central bank digital currency pilot is correctly matched.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0865",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "DIKSHA - Global cooperation on solar energy",
     "DIKSHA - Human spaceflight programme of India",
     "DIKSHA - Eight national missions on climate",
     "DIKSHA - Digital infrastructure for school education"
    ],
-   "a": 3,
-   "t": "Missions and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only DIKSHA - Digital infrastructure for school education is correctly matched."
+   "answer": 3,
+   "explanation": "Only DIKSHA - Digital infrastructure for school education is correctly matched.",
+   "topic": "Missions and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0866",
-   "q": "Which computer term is described as: Amount of data a connection can carry?",
-   "o": [
+   "question": "Which computer term is described as: Amount of data a connection can carry?",
+   "options": [
     "LAN",
     "Cache hit",
     "Bandwidth",
     "HTTPS"
    ],
-   "a": 2,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount of data a connection can carry describes Bandwidth."
+   "answer": 2,
+   "explanation": "Amount of data a connection can carry describes Bandwidth.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0867",
-   "q": "What is the full form of TB?",
-   "o": [
+   "question": "What is the full form of TB?",
+   "options": [
     "Closed Circuit Television",
     "Tuberculosis",
     "Medecins Sans Frontieres",
     "National Electronic Funds Transfer"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "TB stands for Tuberculosis."
+   "answer": 1,
+   "explanation": "TB stands for Tuberculosis.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0868",
-   "q": "What is the capital of Czech Republic?",
-   "o": [
+   "question": "What is the capital of Czech Republic?",
+   "options": [
     "Tokyo",
     "Honiara",
     "Prague",
     "San Salvador"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Czech Republic is Prague."
+   "answer": 2,
+   "explanation": "The capital of Czech Republic is Prague.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0869",
-   "q": "What is the chemical symbol of Flerovium?",
-   "o": [
+   "question": "What is the chemical symbol of Flerovium?",
+   "options": [
     "Tb",
     "Th",
     "Cf",
     "Fl"
    ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "The symbol of Flerovium is Fl."
+   "answer": 3,
+   "explanation": "The symbol of Flerovium is Fl.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0870",
-   "q": "Which of the following pairs of state and capital is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of state and capital is correctly matched?",
+   "options": [
     "Maharashtra - Panaji",
     "Maharashtra - Mumbai",
     "Maharashtra - Agartala",
     "Maharashtra - Kohima"
    ],
-   "a": 1,
-   "t": "States and Capitals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Maharashtra - Mumbai is correctly matched."
+   "answer": 1,
+   "explanation": "Only Maharashtra - Mumbai is correctly matched.",
+   "topic": "States and Capitals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0871",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "First Vice President of India - Reita Faria",
     "First Indian nuclear test was conducted at - Pokhran",
     "First Indian satellite launched - Aryabhata",
     "First woman President of India - Pratibha Patil"
    ],
-   "a": 0,
-   "t": "First in India",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair First Vice President of India - Reita Faria is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair First Vice President of India - Reita Faria is not correctly matched.",
+   "topic": "First in India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0872",
-   "q": "Which of the following pairs of dance and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of dance and state is correctly matched?",
+   "options": [
     "Chakyar Koothu - Meghalaya",
     "Chakyar Koothu - Andhra Pradesh",
     "Chakyar Koothu - Kerala",
     "Chakyar Koothu - Gujarat"
    ],
-   "a": 2,
-   "t": "Folk Dances of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Chakyar Koothu - Kerala is correctly matched."
+   "answer": 2,
+   "explanation": "Only Chakyar Koothu - Kerala is correctly matched.",
+   "topic": "Folk Dances of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0873",
-   "q": "Which of the following pairs of festival and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of festival and state is correctly matched?",
+   "options": [
     "Ratha Yatra - Ladakh",
     "Ratha Yatra - Mizoram",
     "Ratha Yatra - Odisha",
     "Ratha Yatra - West Bengal"
    ],
-   "a": 2,
-   "t": "Festivals of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ratha Yatra - Odisha is correctly matched."
+   "answer": 2,
+   "explanation": "Only Ratha Yatra - Odisha is correctly matched.",
+   "topic": "Festivals of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0874",
-   "q": "Which of the following pairs of river and origin is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of river and origin is NOT correctly matched?",
+   "options": [
     "Brahmaputra - Kudali",
     "Sharavati - Ambutirtha",
     "Alaknanda - Satopanth Glacier",
     "Sutlej - Rakas Lake"
    ],
-   "a": 0,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Brahmaputra - Kudali is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Brahmaputra - Kudali is not correctly matched.",
+   "topic": "Rivers of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0875",
-   "q": "Which of the following national parks or tiger reserves is in Uttar Pradesh?",
-   "o": [
+   "question": "Which of the following national parks or tiger reserves is in Uttar Pradesh?",
+   "options": [
     "Gir National Park",
     "Pench National Park",
     "Guru Ghasidas-Tamor Pingla Tiger Reserve",
     "Chandra Prabha Wildlife Sanctuary"
    ],
-   "a": 3,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Chandra Prabha Wildlife Sanctuary is in Uttar Pradesh."
+   "answer": 3,
+   "explanation": "Chandra Prabha Wildlife Sanctuary is in Uttar Pradesh.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0876",
-   "q": "Which of the following pairs of quantity and SI unit is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is NOT correctly matched?",
+   "options": [
     "Time - Joule per Kelvin",
     "Illuminance - Lux",
     "Luminous flux - Lumen",
     "Temperature - Kelvin"
    ],
-   "a": 0,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Time - Joule per Kelvin is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Time - Joule per Kelvin is not correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0877",
-   "q": "Which of the following pairs of instrument and use is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of instrument and use is correctly matched?",
+   "options": [
     "Altimeter - Altitude",
     "Altimeter - Speed and distance",
     "Altimeter - Radiant energy",
     "Altimeter - Plant growth"
    ],
-   "a": 0,
-   "t": "Scientific Instruments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Altimeter - Altitude is correctly matched."
+   "answer": 0,
+   "explanation": "Only Altimeter - Altitude is correctly matched.",
+   "topic": "Scientific Instruments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0878",
-   "q": "Which of the following pairs of body part and function is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of body part and function is correctly matched?",
+   "options": [
     "Hemoglobin - Secretion of insulin",
     "Hemoglobin - Digestion of food",
     "Hemoglobin - Formation of blood cells",
     "Hemoglobin - Oxygen carrying pigment"
    ],
-   "a": 3,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Hemoglobin - Oxygen carrying pigment is correctly matched."
+   "answer": 3,
+   "explanation": "Only Hemoglobin - Oxygen carrying pigment is correctly matched.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0879",
-   "q": "Which of the following pairs of disease and causative agent is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of disease and causative agent is correctly matched?",
+   "options": [
     "Common cold - Corynebacterium diphtheriae bacteria",
     "Common cold - Mycobacterium tuberculosis bacteria",
     "Common cold - Bordetella pertussis bacteria",
     "Common cold - Rhinovirus"
    ],
-   "a": 3,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Common cold - Rhinovirus is correctly matched."
+   "answer": 3,
+   "explanation": "Only Common cold - Rhinovirus is correctly matched.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0880",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Electric bulb - Joseph Priestley",
     "Electric bulb - Daniel Gabriel Fahrenheit",
     "Electric bulb - Thomas Alva Edison",
     "Electric bulb - Niels Bohr"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Electric bulb - Thomas Alva Edison is correctly matched."
+   "answer": 2,
+   "explanation": "Only Electric bulb - Thomas Alva Edison is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0881",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "White vitriol - Zinc sulphate (ZnSO4.7H2O)",
     "White vitriol - Silicon dioxide (SiO2)",
     "White vitriol - Nitrous oxide (N2O)",
     "White vitriol - Sodium tetraborate (Na2B4O7.10H2O)"
    ],
-   "a": 0,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only White vitriol - Zinc sulphate (ZnSO4.7H2O) is correctly matched."
+   "answer": 0,
+   "explanation": "Only White vitriol - Zinc sulphate (ZnSO4.7H2O) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0882",
-   "q": "Which of the following pairs of branch and subject is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of branch and subject is correctly matched?",
+   "options": [
     "Biology - Coins",
     "Biology - Beekeeping",
     "Biology - Living organisms",
     "Biology - Drugs and medicines"
    ],
-   "a": 2,
-   "t": "Branches of Science",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Biology - Living organisms is correctly matched."
+   "answer": 2,
+   "explanation": "Only Biology - Living organisms is correctly matched.",
+   "topic": "Branches of Science",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0883",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Saturn - Only planet known to support life",
     "Saturn - Planet with the most moons",
     "Saturn - Position from the Sun",
     "Saturn - Largest moon of Saturn"
    ],
-   "a": 2,
-   "t": "Astronomy",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Saturn - Position from the Sun is correctly matched."
+   "answer": 2,
+   "explanation": "Only Saturn - Position from the Sun is correctly matched.",
+   "topic": "Astronomy",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0884",
-   "q": "Which of the following pairs of scientist and contribution is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of scientist and contribution is correctly matched?",
+   "options": [
     "Galileo Galilei - Plant physiology and radio waves",
     "Galileo Galilei - Triple helical structure of collagen",
     "Galileo Galilei - Laws of falling bodies and telescope studies",
     "Galileo Galilei - Double helix structure of DNA"
    ],
-   "a": 2,
-   "t": "Scientists",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Galileo Galilei - Laws of falling bodies and telescope studies is correctly matched."
+   "answer": 2,
+   "explanation": "Only Galileo Galilei - Laws of falling bodies and telescope studies is correctly matched.",
+   "topic": "Scientists",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0885",
-   "q": "In which decade did the following event take place: Operation Blue Star?",
-   "o": [
+   "question": "In which decade did the following event take place: Operation Blue Star?",
+   "options": [
     "2000s",
     "1980s",
     "1930s",
     "1970s"
    ],
-   "a": 1,
-   "t": "Indian History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Operation Blue Star took place in the 1984s."
+   "answer": 1,
+   "explanation": "Operation Blue Star took place in the 1984s.",
+   "topic": "Indian History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0886",
-   "q": "In which decade did the following event take place: Adoption of the UN Sustainable Development Goals?",
-   "o": [
+   "question": "In which decade did the following event take place: Adoption of the UN Sustainable Development Goals?",
+   "options": [
     "2010s",
     "1960s",
     "1940s",
     "1860s"
    ],
-   "a": 0,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Adoption of the UN Sustainable Development Goals took place in the 2015s."
+   "answer": 0,
+   "explanation": "Adoption of the UN Sustainable Development Goals took place in the 2015s.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0887",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Kanishka - Convened the Fourth Buddhist Council",
     "Samudragupta - Ruled from Kannauj and was praised by Hiuen Tsang",
     "Firoz Shah Tughlaq - Built canals and founded Firozabad",
     "Harshavardhana - Ruled from Kannauj and was praised by Hiuen Tsang"
    ],
-   "a": 1,
-   "t": "Rulers",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Samudragupta - Ruled from Kannauj and was praised by Hiuen Tsang is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Samudragupta - Ruled from Kannauj and was praised by Hiuen Tsang is not correctly matched.",
+   "topic": "Rulers",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0888",
-   "q": "Which of the following pairs of person and title is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of person and title is NOT correctly matched?",
+   "options": [
     "Rabindranath Tagore - Author of the national anthem of India",
     "Dadabhai Naoroji - Nightingale of India",
     "Nana Saheb - Leader of the Revolt at Kanpur",
     "Jawaharlal Nehru - First Prime Minister of India"
    ],
-   "a": 1,
-   "t": "Freedom Fighters",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Dadabhai Naoroji - Nightingale of India is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Dadabhai Naoroji - Nightingale of India is not correctly matched.",
+   "topic": "Freedom Fighters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0889",
-   "q": "Which of the following pairs of provision and article is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of provision and article is correctly matched?",
+   "options": [
     "Official language - Article 17",
     "Official language - Part XVII, Articles 343-351",
     "Official language - Part IXA, Articles 243P-243ZG",
     "Official language - Article 74"
    ],
-   "a": 1,
-   "t": "Constitution Articles",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Official language - Part XVII, Articles 343-351 is correctly matched."
+   "answer": 1,
+   "explanation": "Only Official language - Part XVII, Articles 343-351 is correctly matched.",
+   "topic": "Constitution Articles",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0890",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Which writ is issued to compel performance of a public duty - 6",
     "Which writ is issued to compel performance of a public duty - Germany",
     "Which writ is issued to compel performance of a public duty - Certiorari",
     "Which writ is issued to compel performance of a public duty - Mandamus"
    ],
-   "a": 3,
-   "t": "Constitution Facts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Which writ is issued to compel performance of a public duty - Mandamus is correctly matched."
+   "answer": 3,
+   "explanation": "Only Which writ is issued to compel performance of a public duty - Mandamus is correctly matched.",
+   "topic": "Constitution Facts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0891",
-   "q": "Which of the following pairs of institution and description is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of institution and description is NOT correctly matched?",
+   "options": [
     "Prime Minister of India - Regulator of the insurance sector",
     "Lok Sabha - House of the People",
     "Union Territories - Administered by the President through administrators",
     "Parliament of India - Union legislature consisting of the President and two Houses"
    ],
-   "a": 0,
-   "t": "Institutions of India",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Prime Minister of India - Regulator of the insurance sector is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Prime Minister of India - Regulator of the insurance sector is not correctly matched.",
+   "topic": "Institutions of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0892",
-   "q": "Which of the following days is observed on 11 December?",
-   "o": [
+   "question": "Which of the following days is observed on 11 December?",
+   "options": [
     "World Philosophy Day",
     "International Mountain Day",
     "United Nations Day for South-South Cooperation",
     "World Hypertension Day"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "11 December is observed as International Mountain Day."
+   "answer": 1,
+   "explanation": "11 December is observed as International Mountain Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0893",
-   "q": "Which of the following pairs of organisation and headquarters is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of organisation and headquarters is correctly matched?",
+   "options": [
     "International Atomic Energy Agency - Beijing",
     "International Atomic Energy Agency - Geneva",
     "International Atomic Energy Agency - Cologny",
     "International Atomic Energy Agency - Vienna"
    ],
-   "a": 3,
-   "t": "Organisations and Headquarters",
-   "l": 3,
-   "s": "generated",
-   "e": "Only International Atomic Energy Agency - Vienna is correctly matched."
+   "answer": 3,
+   "explanation": "Only International Atomic Energy Agency - Vienna is correctly matched.",
+   "topic": "Organisations and Headquarters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0894",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Ashoka Chakra - Highest civilian award of India",
     "Ashoka Chakra - Highest peacetime gallantry award of India",
     "Ashoka Chakra - Indian award for peace, disarmament and development",
     "Ashoka Chakra - American award for music"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ashoka Chakra - Highest peacetime gallantry award of India is correctly matched."
+   "answer": 1,
+   "explanation": "Only Ashoka Chakra - Highest peacetime gallantry award of India is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0895",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Playing It My Way - Vishnu Sharma",
     "Playing It My Way - Ved Vyasa",
     "Playing It My Way - Sachin Tendulkar",
     "Playing It My Way - Adolf Hitler"
    ],
-   "a": 2,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Playing It My Way - Sachin Tendulkar is correctly matched."
+   "answer": 2,
+   "explanation": "Only Playing It My Way - Sachin Tendulkar is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0896",
-   "q": "Which of the following pairs of achievement and person is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of achievement and person is NOT correctly matched?",
+   "options": [
     "First Indian woman to win an Olympic medal - Karnam Malleswari",
     "First person to win two Nobel Prizes - Marie Curie",
     "First country to send a human into space - Junko Tabei",
     "First country to host the modern Olympic Games - Greece"
    ],
-   "a": 2,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair First country to send a human into space - Junko Tabei is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair First country to send a human into space - Junko Tabei is not correctly matched.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0897",
-   "q": "Which Indian state has the largest forest cover by area?",
-   "o": [
+   "question": "Which Indian state has the largest forest cover by area?",
+   "options": [
     "Varanasi",
     "Arabian Sea",
     "Madhya Pradesh",
     "Arunachal Pradesh"
    ],
-   "a": 2,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 2,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0898",
-   "q": "Which of the following pairs of question and answer is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of question and answer is correctly matched?",
+   "options": [
     "Which coast of India receives winter rainfall from the north-east monsoon - October to November",
     "Which coast of India receives winter rainfall from the north-east monsoon - Hygrometer",
     "Which coast of India receives winter rainfall from the north-east monsoon - Talc",
     "Which coast of India receives winter rainfall from the north-east monsoon - Coromandel Coast"
    ],
-   "a": 3,
-   "t": "Climate and Atmosphere",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Which coast of India receives winter rainfall from the north-east monsoon - Coromandel Coast is correctly matched."
+   "answer": 3,
+   "explanation": "Only Which coast of India receives winter rainfall from the north-east monsoon - Coromandel Coast is correctly matched.",
+   "topic": "Climate and Atmosphere",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0899",
-   "q": "Which act deals with the recovery of debts by banks in India?",
-   "o": [
+   "question": "Which act deals with the recovery of debts by banks in India?",
+   "options": [
     "SARFAESI Act, 2002",
     "2017",
     "1975",
     "Unified Payments Interface"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0900",
-   "q": "Choose the word most similar in meaning to Foster.",
-   "o": [
+   "question": "Choose the word most similar in meaning to Foster.",
+   "options": [
     "Greed",
     "Increase",
     "Talkative",
     "Nurture"
    ],
-   "a": 3,
-   "t": "Synonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "Foster means Nurture."
+   "answer": 3,
+   "explanation": "Foster means Nurture.",
+   "topic": "Synonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0901",
-   "q": "Choose the word most opposite in meaning to Diffident.",
-   "o": [
+   "question": "Choose the word most opposite in meaning to Diffident.",
+   "options": [
     "Confident",
     "Distant",
     "Frequent",
     "Replenish"
    ],
-   "a": 0,
-   "t": "Antonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "The opposite of Diffident is Confident."
+   "answer": 0,
+   "explanation": "The opposite of Diffident is Confident.",
+   "topic": "Antonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0902",
-   "q": "What is the meaning of the idiom 'Dodge the issue'?",
-   "o": [
+   "question": "What is the meaning of the idiom 'Dodge the issue'?",
+   "options": [
     "Destroy at an early stage",
     "Avoid the main point",
     "Begin a conversation",
     "Excessive official formality"
    ],
-   "a": 1,
-   "t": "Idioms and Phrases",
-   "l": 2,
-   "s": "generated",
-   "e": "'Dodge the issue' means Avoid the main point."
+   "answer": 1,
+   "explanation": "'Dodge the issue' means Avoid the main point.",
+   "topic": "Idioms and Phrases",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0903",
-   "q": "Choose the one word substitute for: A place where dead bodies are kept",
-   "o": [
+   "question": "Choose the one word substitute for: A place where dead bodies are kept",
+   "options": [
     "Edible",
     "Mortuary",
     "Antibiotic",
     "Pessimist"
    ],
-   "a": 1,
-   "t": "One Word Substitution",
-   "l": 2,
-   "s": "generated",
-   "e": "A place where dead bodies are kept — Mortuary."
+   "answer": 1,
+   "explanation": "A place where dead bodies are kept — Mortuary.",
+   "topic": "One Word Substitution",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0904",
-   "q": "Which of the following words is spelt correctly?",
-   "o": [
+   "question": "Which of the following words is spelt correctly?",
+   "options": [
     "Changeable",
     "Leisure",
     "Chief",
     "Fascinate"
    ],
-   "a": 1,
-   "t": "Spellings",
-   "l": 1,
-   "s": "generated",
-   "e": "The correct spelling is Leisure."
+   "answer": 1,
+   "explanation": "The correct spelling is Leisure.",
+   "topic": "Spellings",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0905",
-   "q": "Which of the following is the plural form of Buffalo?",
-   "o": [
+   "question": "Which of the following is the plural form of Buffalo?",
+   "options": [
     "Buffaloes",
     "Wolves",
     "Children",
     "Shelves"
    ],
-   "a": 0,
-   "t": "Plurals",
-   "l": 2,
-   "s": "generated",
-   "e": "The plural of Buffalo is Buffaloes."
+   "answer": 0,
+   "explanation": "The plural of Buffalo is Buffaloes.",
+   "topic": "Plurals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0906",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Earl - Countess",
     "Earl - Madam",
     "Earl - Mother",
     "Earl - Heroine"
    ],
-   "a": 0,
-   "t": "Genders",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Earl - Countess is correctly matched."
+   "answer": 0,
+   "explanation": "Only Earl - Countess is correctly matched.",
+   "topic": "Genders",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0907",
-   "q": "Fill in the blank correctly: Hot, ____, Hottest",
-   "o": [
+   "question": "Fill in the blank correctly: Hot, ____, Hottest",
+   "options": [
     "Wider",
     "Taller",
     "Hotter",
     "Shallower"
    ],
-   "a": 2,
-   "t": "Degrees of Comparison",
-   "l": 2,
-   "s": "generated",
-   "e": "The correct sequence is Hot, Hotter, Hottest."
+   "answer": 2,
+   "explanation": "The correct sequence is Hot, Hotter, Hottest.",
+   "topic": "Degrees of Comparison",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0908",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "The old man is hard ____ hearing. - to",
     "The old man is hard ____ hearing. - for",
     "The old man is hard ____ hearing. - of",
     "The old man is hard ____ hearing. - from"
    ],
-   "a": 2,
-   "t": "Prepositions",
-   "l": 3,
-   "s": "generated",
-   "e": "Only The old man is hard ____ hearing. - of is correctly matched."
+   "answer": 2,
+   "explanation": "Only The old man is hard ____ hearing. - of is correctly matched.",
+   "topic": "Prepositions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0909",
-   "q": "Which Indian state was hit by severe floods in 2018?",
-   "o": [
+   "question": "Which Indian state was hit by severe floods in 2018?",
+   "options": [
     "Argentina",
     "Kerala",
     "INS Vikrant",
     "2015"
    ],
-   "a": 1,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 1,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0910",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Skill India Mission - Cleanliness and sanitation for all",
     "Skill India Mission - Building a semiconductor ecosystem in India",
     "Skill India Mission - Skill development and employability of youth",
     "Skill India Mission - Incentives to boost manufacturing across sectors"
    ],
-   "a": 2,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Skill India Mission - Skill development and employability of youth is correctly matched."
+   "answer": 2,
+   "explanation": "Only Skill India Mission - Skill development and employability of youth is correctly matched.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0911",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "RISAT - Radar imaging satellites for all-weather observation",
     "RISAT - Communication satellites of India",
     "RISAT - Discovery of water molecules on the Moon",
     "RISAT - Conservation of Asiatic lions"
    ],
-   "a": 0,
-   "t": "Missions and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only RISAT - Radar imaging satellites for all-weather observation is correctly matched."
+   "answer": 0,
+   "explanation": "Only RISAT - Radar imaging satellites for all-weather observation is correctly matched.",
+   "topic": "Missions and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0912",
-   "q": "Which computer term is described as: Core suite of internet protocols?",
-   "o": [
+   "question": "Which computer term is described as: Core suite of internet protocols?",
+   "options": [
     "Microphone",
     "HTTPS",
     "TCP/IP",
     "Cloud storage"
    ],
-   "a": 2,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Core suite of internet protocols describes TCP/IP."
+   "answer": 2,
+   "explanation": "Core suite of internet protocols describes TCP/IP.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0913",
-   "q": "What is the full form of RNA?",
-   "o": [
+   "question": "What is the full form of RNA?",
+   "options": [
     "Indian Financial System Code",
     "National Investigation Agency",
     "Ribonucleic Acid",
     "United Nations High Commissioner for Refugees"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "RNA stands for Ribonucleic Acid."
+   "answer": 2,
+   "explanation": "RNA stands for Ribonucleic Acid.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0914",
-   "q": "What is the capital of Belgium?",
-   "o": [
+   "question": "What is the capital of Belgium?",
+   "options": [
     "Brussels",
     "Yaounde",
     "Accra",
     "Lusaka"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Belgium is Brussels."
+   "answer": 0,
+   "explanation": "The capital of Belgium is Brussels.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0915",
-   "q": "What is the chemical symbol of Tin?",
-   "o": [
+   "question": "What is the chemical symbol of Tin?",
+   "options": [
     "Sn",
     "Ts",
     "O",
     "Mg"
    ],
-   "a": 0,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "The symbol of Tin is Sn."
+   "answer": 0,
+   "explanation": "The symbol of Tin is Sn.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0916",
-   "q": "Which of the following pairs of state and capital is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of state and capital is correctly matched?",
+   "options": [
     "Maharashtra - Mumbai",
     "Maharashtra - Bengaluru",
     "Maharashtra - Amaravati",
     "Maharashtra - Chandigarh"
    ],
-   "a": 0,
-   "t": "States and Capitals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Maharashtra - Mumbai is correctly matched."
+   "answer": 0,
+   "explanation": "Only Maharashtra - Mumbai is correctly matched.",
+   "topic": "States and Capitals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0917",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "First Indian Railway line started between - Bombay and Thane",
     "First Speaker of the Lok Sabha - G. V. Mavalankar",
     "First Indian Institute of Technology was set up at - H. J. Kania",
     "First President of India - Dr. Rajendra Prasad"
    ],
-   "a": 2,
-   "t": "First in India",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair First Indian Institute of Technology was set up at - H. J. Kania is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair First Indian Institute of Technology was set up at - H. J. Kania is not correctly matched.",
+   "topic": "First in India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0918",
-   "q": "Which of the following pairs of dance and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of dance and state is correctly matched?",
+   "options": [
     "Chakyar Koothu - Kerala",
     "Chakyar Koothu - Punjab",
     "Chakyar Koothu - Rajasthan",
     "Chakyar Koothu - Haryana"
    ],
-   "a": 0,
-   "t": "Folk Dances of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Chakyar Koothu - Kerala is correctly matched."
+   "answer": 0,
+   "explanation": "Only Chakyar Koothu - Kerala is correctly matched.",
+   "topic": "Folk Dances of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0919",
-   "q": "Which of the following pairs of festival and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of festival and state is correctly matched?",
+   "options": [
     "Ratha Yatra - West Bengal",
     "Ratha Yatra - Odisha",
     "Ratha Yatra - Rajasthan",
     "Ratha Yatra - Arunachal Pradesh"
    ],
-   "a": 1,
-   "t": "Festivals of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ratha Yatra - Odisha is correctly matched."
+   "answer": 1,
+   "explanation": "Only Ratha Yatra - Odisha is correctly matched.",
+   "topic": "Festivals of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0920",
-   "q": "Which of the following pairs of river and origin is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of river and origin is NOT correctly matched?",
+   "options": [
     "Betwa - Vindhya Range",
     "Jhelum - Verinag",
     "Gomti - Baralacha La",
     "Ganga - Gangotri Glacier"
    ],
-   "a": 2,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Gomti - Baralacha La is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Gomti - Baralacha La is not correctly matched.",
+   "topic": "Rivers of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0921",
-   "q": "Which of the following national parks or tiger reserves is in Tamil Nadu?",
-   "o": [
+   "question": "Which of the following national parks or tiger reserves is in Tamil Nadu?",
+   "options": [
     "Guindy National Park",
     "Desert National Park",
     "Keibul Lamjao National Park",
     "Bandhavgarh Tiger Reserve"
    ],
-   "a": 0,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Guindy National Park is in Tamil Nadu."
+   "answer": 0,
+   "explanation": "Guindy National Park is in Tamil Nadu.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0922",
-   "q": "Which of the following pairs of quantity and SI unit is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is NOT correctly matched?",
+   "options": [
     "Radioactivity - Becquerel",
     "Electrical resistance - Ohm",
     "Absorbed dose - Volt",
     "Length - Metre"
    ],
-   "a": 2,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Absorbed dose - Volt is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Absorbed dose - Volt is not correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0923",
-   "q": "Which of the following pairs of instrument and use is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of instrument and use is correctly matched?",
+   "options": [
     "Altimeter - Altitude",
     "Altimeter - Blood pressure variations",
     "Altimeter - Earthquakes",
     "Altimeter - Distance travelled"
    ],
-   "a": 0,
-   "t": "Scientific Instruments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Altimeter - Altitude is correctly matched."
+   "answer": 0,
+   "explanation": "Only Altimeter - Altitude is correctly matched.",
+   "topic": "Scientific Instruments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0924",
-   "q": "Which of the following pairs of body part and function is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of body part and function is correctly matched?",
+   "options": [
     "Hemoglobin - Transport of oxygen",
     "Hemoglobin - Oxygen carrying pigment",
     "Hemoglobin - Absorption of water",
     "Hemoglobin - Basic filtering units of the kidney"
    ],
-   "a": 1,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Hemoglobin - Oxygen carrying pigment is correctly matched."
+   "answer": 1,
+   "explanation": "Only Hemoglobin - Oxygen carrying pigment is correctly matched.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0925",
-   "q": "Which of the following pairs of disease and causative agent is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of disease and causative agent is correctly matched?",
+   "options": [
     "Common cold - Wuchereria bancrofti",
     "Common cold - Rhinovirus",
     "Common cold - Clostridium tetani bacteria",
     "Common cold - Hepatitis A virus"
    ],
-   "a": 1,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Common cold - Rhinovirus is correctly matched."
+   "answer": 1,
+   "explanation": "Only Common cold - Rhinovirus is correctly matched.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0926",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Electric bulb - Edward Jenner",
     "Electric bulb - James Watt",
     "Electric bulb - Thomas Alva Edison",
     "Electric bulb - Jacob Perkins"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Electric bulb - Thomas Alva Edison is correctly matched."
+   "answer": 2,
+   "explanation": "Only Electric bulb - Thomas Alva Edison is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0927",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "White vitriol - Zinc sulphate (ZnSO4.7H2O)",
     "White vitriol - Aqueous formaldehyde (HCHO)",
     "White vitriol - Calcium sulphate hemihydrate (CaSO4.1/2H2O)",
     "White vitriol - Sodium bicarbonate and tartaric acid"
    ],
-   "a": 0,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only White vitriol - Zinc sulphate (ZnSO4.7H2O) is correctly matched."
+   "answer": 0,
+   "explanation": "Only White vitriol - Zinc sulphate (ZnSO4.7H2O) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0928",
-   "q": "Which of the following pairs of branch and subject is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of branch and subject is correctly matched?",
+   "options": [
     "Biology - Electricity and magnetism",
     "Biology - Structure of the body",
     "Biology - Living organisms",
     "Biology - Classification of organisms"
    ],
-   "a": 2,
-   "t": "Branches of Science",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Biology - Living organisms is correctly matched."
+   "answer": 2,
+   "explanation": "Only Biology - Living organisms is correctly matched.",
+   "topic": "Branches of Science",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0929",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Saturn - Position from the Sun",
     "Saturn - Dwarf planet formerly ninth planet",
     "Saturn - Planet with two moons Phobos and Deimos",
     "Saturn - Unit of astronomical distance"
    ],
-   "a": 0,
-   "t": "Astronomy",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Saturn - Position from the Sun is correctly matched."
+   "answer": 0,
+   "explanation": "Only Saturn - Position from the Sun is correctly matched.",
+   "topic": "Astronomy",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0930",
-   "q": "Which of the following pairs of scientist and contribution is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of scientist and contribution is correctly matched?",
+   "options": [
     "Galileo Galilei - Indian space programme",
     "Galileo Galilei - Theory of evolution",
     "Galileo Galilei - Laws of falling bodies and telescope studies",
     "Galileo Galilei - Absolute temperature scale"
    ],
-   "a": 2,
-   "t": "Scientists",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Galileo Galilei - Laws of falling bodies and telescope studies is correctly matched."
+   "answer": 2,
+   "explanation": "Only Galileo Galilei - Laws of falling bodies and telescope studies is correctly matched.",
+   "topic": "Scientists",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0931",
-   "q": "In which decade did the following event take place: Constitution of India came into force?",
-   "o": [
+   "question": "In which decade did the following event take place: Constitution of India came into force?",
+   "options": [
     "2000s",
     "1920s",
     "1950s",
     "1960s"
    ],
-   "a": 2,
-   "t": "Indian History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Constitution of India came into force took place in the 1950s."
+   "answer": 2,
+   "explanation": "Constitution of India came into force took place in the 1950s.",
+   "topic": "Indian History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0932",
-   "q": "In which decade did the following event take place: Establishment of the East India Company?",
-   "o": [
+   "question": "In which decade did the following event take place: Establishment of the East India Company?",
+   "options": [
     "1600s",
     "1940s",
     "1450s",
     "1870s"
    ],
-   "a": 0,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Establishment of the East India Company took place in the 1600s."
+   "answer": 0,
+   "explanation": "Establishment of the East India Company took place in the 1600s.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0933",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Chandragupta Maurya - Founded the Maurya Empire with the help of Chanakya",
     "Muhammad bin Tughlaq - Rani of Jhansi in the Revolt of 1857",
     "Alauddin Khilji - Market control policies and Siri fort",
     "Aurangzeb - Known as Alamgir and ruled for nearly 50 years"
    ],
-   "a": 1,
-   "t": "Rulers",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Muhammad bin Tughlaq - Rani of Jhansi in the Revolt of 1857 is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Muhammad bin Tughlaq - Rani of Jhansi in the Revolt of 1857 is not correctly matched.",
+   "topic": "Rulers",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0934",
-   "q": "Which of the following pairs of person and title is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of person and title is NOT correctly matched?",
+   "options": [
     "Rani Lakshmibai - Political mentor of Mahatma Gandhi",
     "C. Rajagopalachari - Last Governor-General of India",
     "Sukhdev - Revolutionary executed with Bhagat Singh",
     "Begum Hazrat Mahal - Leader of the Revolt in Awadh"
    ],
-   "a": 0,
-   "t": "Freedom Fighters",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Rani Lakshmibai - Political mentor of Mahatma Gandhi is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Rani Lakshmibai - Political mentor of Mahatma Gandhi is not correctly matched.",
+   "topic": "Freedom Fighters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0935",
-   "q": "Which of the following pairs of provision and article is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of provision and article is correctly matched?",
+   "options": [
     "Official language - Article 80",
     "Official language - Articles 14-18",
     "Official language - Part XVII, Articles 343-351",
     "Official language - Article 81"
    ],
-   "a": 2,
-   "t": "Constitution Articles",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Official language - Part XVII, Articles 343-351 is correctly matched."
+   "answer": 2,
+   "explanation": "Only Official language - Part XVII, Articles 343-351 is correctly matched.",
+   "topic": "Constitution Articles",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0936",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Which writ is issued to compel performance of a public duty - 552 members",
     "Which writ is issued to compel performance of a public duty - Canada",
     "Which writ is issued to compel performance of a public duty - 25 years",
     "Which writ is issued to compel performance of a public duty - Mandamus"
    ],
-   "a": 3,
-   "t": "Constitution Facts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Which writ is issued to compel performance of a public duty - Mandamus is correctly matched."
+   "answer": 3,
+   "explanation": "Only Which writ is issued to compel performance of a public duty - Mandamus is correctly matched.",
+   "topic": "Constitution Facts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0937",
-   "q": "Which of the following pairs of institution and description is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of institution and description is NOT correctly matched?",
+   "options": [
     "Municipality - Local self-government in urban areas",
     "Solicitor General of India - Second highest law officer of the Union",
     "Zilla Parishad - Chief legal adviser to the Government of India",
     "President of India - Constitutional head of the Republic"
    ],
-   "a": 2,
-   "t": "Institutions of India",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Zilla Parishad - Chief legal adviser to the Government of India is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Zilla Parishad - Chief legal adviser to the Government of India is not correctly matched.",
+   "topic": "Institutions of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0938",
-   "q": "Which of the following days is observed on 1 July?",
-   "o": [
+   "question": "Which of the following days is observed on 1 July?",
+   "options": [
     "World Oceans Day",
     "Doctors' Day (India)",
     "World Refugee Day",
     "World Photography Day"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "1 July is observed as Doctors' Day (India)."
+   "answer": 1,
+   "explanation": "1 July is observed as Doctors' Day (India).",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0939",
-   "q": "Which of the following pairs of organisation and headquarters is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of organisation and headquarters is correctly matched?",
+   "options": [
     "International Atomic Energy Agency - Geneva",
     "International Atomic Energy Agency - Vienna",
     "International Atomic Energy Agency - Beijing",
     "International Atomic Energy Agency - Gland"
    ],
-   "a": 1,
-   "t": "Organisations and Headquarters",
-   "l": 3,
-   "s": "generated",
-   "e": "Only International Atomic Energy Agency - Vienna is correctly matched."
+   "answer": 1,
+   "explanation": "Only International Atomic Energy Agency - Vienna is correctly matched.",
+   "topic": "Organisations and Headquarters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0940",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "UEFA Champions League - Tennis",
     "UEFA Champions League - Football",
     "UEFA Champions League - Cricket",
     "UEFA Champions League - Badminton"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only UEFA Champions League - Football is correctly matched."
+   "answer": 1,
+   "explanation": "Only UEFA Champions League - Football is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0941",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Ashoka Chakra - Highest peacetime gallantry award of India",
     "Ashoka Chakra - Third highest peacetime gallantry award of India",
     "Ashoka Chakra - Awards for Indian cinema",
     "Ashoka Chakra - Indian award for research"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ashoka Chakra - Highest peacetime gallantry award of India is correctly matched."
+   "answer": 0,
+   "explanation": "Only Ashoka Chakra - Highest peacetime gallantry award of India is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0942",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Playing It My Way - Paramahansa Yogananda",
     "Playing It My Way - Mary Kom",
     "Playing It My Way - Karl Marx and Friedrich Engels",
     "Playing It My Way - Sachin Tendulkar"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Playing It My Way - Sachin Tendulkar is correctly matched."
+   "answer": 3,
+   "explanation": "Only Playing It My Way - Sachin Tendulkar is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0943",
-   "q": "Which of the following pairs of achievement and person is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of achievement and person is NOT correctly matched?",
+   "options": [
     "First Asian to win a Nobel Prize - Edmund Hillary",
     "First country to host the modern Olympic Games - Greece",
     "First person to reach the South Pole - Roald Amundsen",
     "First woman to climb Mount Everest - Junko Tabei"
    ],
-   "a": 0,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair First Asian to win a Nobel Prize - Edmund Hillary is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair First Asian to win a Nobel Prize - Edmund Hillary is not correctly matched.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0944",
-   "q": "What is the time difference between Indian Standard Time and Greenwich Mean Time?",
-   "o": [
+   "question": "What is the time difference between Indian Standard Time and Greenwich Mean Time?",
+   "options": [
     "Ooty",
     "Ahmedabad",
     "Madhya Pradesh",
     "Five and a half hours"
    ],
-   "a": 3,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 3,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0945",
-   "q": "Which of the following pairs of question and answer is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of question and answer is correctly matched?",
+   "options": [
     "Which coast of India receives winter rainfall from the north-east monsoon - Coromandel Coast",
     "Which coast of India receives winter rainfall from the north-east monsoon - Sedimentary rock",
     "Which coast of India receives winter rainfall from the north-east monsoon - From the sea to the land",
     "Which coast of India receives winter rainfall from the north-east monsoon - October to December"
    ],
-   "a": 0,
-   "t": "Climate and Atmosphere",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Which coast of India receives winter rainfall from the north-east monsoon - Coromandel Coast is correctly matched."
+   "answer": 0,
+   "explanation": "Only Which coast of India receives winter rainfall from the north-east monsoon - Coromandel Coast is correctly matched.",
+   "topic": "Climate and Atmosphere",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0946",
-   "q": "Which was India's first export processing zone?",
-   "o": [
+   "question": "Which was India's first export processing zone?",
+   "options": [
     "Kandla",
     "Prime lending rate",
     "Rupee symbol",
     "Mumbai"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0947",
-   "q": "Choose the word most similar in meaning to Deplete.",
-   "o": [
+   "question": "Choose the word most similar in meaning to Deplete.",
+   "options": [
     "Concise",
     "Exhaust",
     "Pliable",
     "Stubborn"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "Deplete means Exhaust."
+   "answer": 1,
+   "explanation": "Deplete means Exhaust.",
+   "topic": "Synonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0948",
-   "q": "Choose the word most opposite in meaning to Discreet.",
-   "o": [
+   "question": "Choose the word most opposite in meaning to Discreet.",
+   "options": [
     "Feeble",
     "Careless",
     "Extravagant",
     "Soothe"
    ],
-   "a": 1,
-   "t": "Antonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "The opposite of Discreet is Careless."
+   "answer": 1,
+   "explanation": "The opposite of Discreet is Careless.",
+   "topic": "Antonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0949",
-   "q": "What is the meaning of the idiom 'To eat one's words'?",
-   "o": [
+   "question": "What is the meaning of the idiom 'To eat one's words'?",
+   "options": [
     "Fail to have the intended effect",
     "A person who can do many things but is expert at none",
     "To retract one's statement",
     "Act in defiance of"
    ],
-   "a": 2,
-   "t": "Idioms and Phrases",
-   "l": 2,
-   "s": "generated",
-   "e": "'To eat one's words' means To retract one's statement."
+   "answer": 2,
+   "explanation": "'To eat one's words' means To retract one's statement.",
+   "topic": "Idioms and Phrases",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0950",
-   "q": "Choose the one word substitute for: One who does not care about food or comfort",
-   "o": [
+   "question": "Choose the one word substitute for: One who does not care about food or comfort",
+   "options": [
     "Ascetic",
     "Plutocracy",
     "Mint",
     "Sociologist"
    ],
-   "a": 0,
-   "t": "One Word Substitution",
-   "l": 2,
-   "s": "generated",
-   "e": "One who does not care about food or comfort — Ascetic."
+   "answer": 0,
+   "explanation": "One who does not care about food or comfort — Ascetic.",
+   "topic": "One Word Substitution",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0951",
-   "q": "Which of the following words is spelt correctly?",
-   "o": [
+   "question": "Which of the following words is spelt correctly?",
+   "options": [
     "Believe",
     "Courageous",
     "Hereditary",
     "Beautiful"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 1,
-   "s": "generated",
-   "e": "The correct spelling is Beautiful."
+   "answer": 3,
+   "explanation": "The correct spelling is Beautiful.",
+   "topic": "Spellings",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0952",
-   "q": "Which of the following is the plural form of Foot?",
-   "o": [
+   "question": "Which of the following is the plural form of Foot?",
+   "options": [
     "Mice",
     "Commanders-in-Chief",
     "Pianos",
     "Feet"
    ],
-   "a": 3,
-   "t": "Plurals",
-   "l": 2,
-   "s": "generated",
-   "e": "The plural of Foot is Feet."
+   "answer": 3,
+   "explanation": "The plural of Foot is Feet.",
+   "topic": "Plurals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0953",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Earl - Duck",
     "Earl - Princess",
     "Earl - Queen",
     "Earl - Countess"
    ],
-   "a": 3,
-   "t": "Genders",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Earl - Countess is correctly matched."
+   "answer": 3,
+   "explanation": "Only Earl - Countess is correctly matched.",
+   "topic": "Genders",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0954",
-   "q": "Fill in the blank correctly: Safe, ____, Safest",
-   "o": [
+   "question": "Fill in the blank correctly: Safe, ____, Safest",
+   "options": [
     "Farther",
     "Taller",
     "Safer",
     "Older"
    ],
-   "a": 2,
-   "t": "Degrees of Comparison",
-   "l": 2,
-   "s": "generated",
-   "e": "The correct sequence is Safe, Safer, Safest."
+   "answer": 2,
+   "explanation": "The correct sequence is Safe, Safer, Safest.",
+   "topic": "Degrees of Comparison",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0955",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "The old man is hard ____ hearing. - on",
     "The old man is hard ____ hearing. - from",
     "The old man is hard ____ hearing. - of",
     "The old man is hard ____ hearing. - with"
    ],
-   "a": 2,
-   "t": "Prepositions",
-   "l": 3,
-   "s": "generated",
-   "e": "Only The old man is hard ____ hearing. - of is correctly matched."
+   "answer": 2,
+   "explanation": "Only The old man is hard ____ hearing. - of is correctly matched.",
+   "topic": "Prepositions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0956",
-   "q": "Which country launched the world's first digital currency pilot called e-Rupee?",
-   "o": [
+   "question": "Which country launched the world's first digital currency pilot called e-Rupee?",
+   "options": [
     "India",
     "Argentina",
     "Reserve Bank of India",
     "Ramappa Temple"
    ],
-   "a": 0,
-   "t": "Current Affairs",
-   "l": 2,
-   "s": "generated",
-   "e": "Recent events and schemes."
+   "answer": 0,
+   "explanation": "Recent events and schemes.",
+   "topic": "Current Affairs",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0957",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Skill India Mission - Skill development and employability of youth",
     "Skill India Mission - Small savings scheme for the girl child",
     "Skill India Mission - Promotion of electric and hybrid vehicles",
     "Skill India Mission - Production and use of green hydrogen"
    ],
-   "a": 0,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Skill India Mission - Skill development and employability of youth is correctly matched."
+   "answer": 0,
+   "explanation": "Only Skill India Mission - Skill development and employability of youth is correctly matched.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0958",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "RISAT - Electronic delivery of government services",
     "RISAT - Workhorse polar satellite launch vehicle",
     "RISAT - India's heavy lift launch vehicle",
     "RISAT - Radar imaging satellites for all-weather observation"
    ],
-   "a": 3,
-   "t": "Missions and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only RISAT - Radar imaging satellites for all-weather observation is correctly matched."
+   "answer": 3,
+   "explanation": "Only RISAT - Radar imaging satellites for all-weather observation is correctly matched.",
+   "topic": "Missions and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0959",
-   "q": "Which computer term is described as: Input device used for typing?",
-   "o": [
+   "question": "Which computer term is described as: Input device used for typing?",
+   "options": [
     "Ransomware",
     "Byte",
     "Mouse",
     "Keyboard"
    ],
-   "a": 3,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Input device used for typing describes Keyboard."
+   "answer": 3,
+   "explanation": "Input device used for typing describes Keyboard.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0960",
-   "q": "What is the full form of NSS?",
-   "o": [
+   "question": "What is the full form of NSS?",
+   "options": [
     "National Service Scheme",
     "Tax Deducted at Source",
     "Central Vigilance Commission",
     "Organization of the Petroleum Exporting Countries"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "NSS stands for National Service Scheme."
+   "answer": 0,
+   "explanation": "NSS stands for National Service Scheme.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0961",
-   "q": "What is the capital of Mozambique?",
-   "o": [
+   "question": "What is the capital of Mozambique?",
+   "options": [
     "Sucre",
     "Maputo",
     "Bangkok",
     "Addis Ababa"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Mozambique is Maputo."
+   "answer": 1,
+   "explanation": "The capital of Mozambique is Maputo.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0962",
-   "q": "What is the chemical symbol of Rhodium?",
-   "o": [
+   "question": "What is the chemical symbol of Rhodium?",
+   "options": [
     "Si",
     "Rh",
     "Nh",
     "Au"
    ],
-   "a": 1,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "The symbol of Rhodium is Rh."
+   "answer": 1,
+   "explanation": "The symbol of Rhodium is Rh.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0963",
-   "q": "Which of the following pairs of state and capital is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of state and capital is correctly matched?",
+   "options": [
     "Punjab - Bengaluru",
     "Punjab - Jaipur",
     "Punjab - Dehradun",
     "Punjab - Chandigarh"
    ],
-   "a": 3,
-   "t": "States and Capitals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Punjab - Chandigarh is correctly matched."
+   "answer": 3,
+   "explanation": "Only Punjab - Chandigarh is correctly matched.",
+   "topic": "States and Capitals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0964",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "First Indian to win the Miss World title - Reita Faria",
     "First Indian nuclear test was conducted at - G. V. Mavalankar",
     "First Indian satellite launched - Aryabhata",
     "First Indian Railway line started between - Bombay and Thane"
    ],
-   "a": 1,
-   "t": "First in India",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair First Indian nuclear test was conducted at - G. V. Mavalankar is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair First Indian nuclear test was conducted at - G. V. Mavalankar is not correctly matched.",
+   "topic": "First in India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0965",
-   "q": "Which of the following pairs of dance and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of dance and state is correctly matched?",
+   "options": [
     "Kathakali - Meghalaya",
     "Kathakali - Rajasthan",
     "Kathakali - Haryana",
     "Kathakali - Kerala"
    ],
-   "a": 3,
-   "t": "Folk Dances of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Kathakali - Kerala is correctly matched."
+   "answer": 3,
+   "explanation": "Only Kathakali - Kerala is correctly matched.",
+   "topic": "Folk Dances of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0966",
-   "q": "Which of the following pairs of festival and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of festival and state is correctly matched?",
+   "options": [
     "Sangai Festival - Assam",
     "Sangai Festival - Rajasthan",
     "Sangai Festival - Bihar",
     "Sangai Festival - Manipur"
    ],
-   "a": 3,
-   "t": "Festivals of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Sangai Festival - Manipur is correctly matched."
+   "answer": 3,
+   "explanation": "Only Sangai Festival - Manipur is correctly matched.",
+   "topic": "Festivals of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0967",
-   "q": "Which of the following pairs of river and origin is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of river and origin is NOT correctly matched?",
+   "options": [
     "Tungabhadra - Kudali",
     "Sharavati - Verinag",
     "Alaknanda - Satopanth Glacier",
     "Betwa - Vindhya Range"
    ],
-   "a": 1,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Sharavati - Verinag is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Sharavati - Verinag is not correctly matched.",
+   "topic": "Rivers of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0968",
-   "q": "Which of the following national parks or tiger reserves is in Assam?",
-   "o": [
+   "question": "Which of the following national parks or tiger reserves is in Assam?",
+   "options": [
     "Gautam Buddha Wildlife Sanctuary",
     "Nameri Tiger Reserve",
     "Sunderbans Tiger Reserve",
     "Bhimbandh Wildlife Sanctuary"
    ],
-   "a": 1,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Nameri Tiger Reserve is in Assam."
+   "answer": 1,
+   "explanation": "Nameri Tiger Reserve is in Assam.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0969",
-   "q": "Which of the following pairs of quantity and SI unit is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of quantity and SI unit is NOT correctly matched?",
+   "options": [
     "Entropy - Joule per Kelvin",
     "Illuminance - Ohm",
     "Luminous flux - Lumen",
     "Radioactivity - Becquerel"
    ],
-   "a": 1,
-   "t": "SI Units",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Illuminance - Ohm is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Illuminance - Ohm is not correctly matched.",
+   "topic": "SI Units",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0970",
-   "q": "Which of the following pairs of instrument and use is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of instrument and use is correctly matched?",
+   "options": [
     "Thermometer - Temperature",
     "Thermometer - Blood pressure",
     "Thermometer - Magnified view of tiny objects",
     "Thermometer - Internal body organs"
    ],
-   "a": 0,
-   "t": "Scientific Instruments",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Thermometer - Temperature is correctly matched."
+   "answer": 0,
+   "explanation": "Only Thermometer - Temperature is correctly matched.",
+   "topic": "Scientific Instruments",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0971",
-   "q": "Which of the following pairs of body part and function is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of body part and function is correctly matched?",
+   "options": [
     "Platelets - Control centre of the body",
     "Platelets - Secretion of insulin",
     "Platelets - Clotting of blood",
     "Platelets - Taste and speech"
    ],
-   "a": 2,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Platelets - Clotting of blood is correctly matched."
+   "answer": 2,
+   "explanation": "Only Platelets - Clotting of blood is correctly matched.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0972",
-   "q": "Which of the following pairs of disease and causative agent is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of disease and causative agent is correctly matched?",
+   "options": [
     "Amoebic dysentery - Vibrio cholerae bacteria",
     "Amoebic dysentery - Corynebacterium diphtheriae bacteria",
     "Amoebic dysentery - Entamoeba histolytica",
     "Amoebic dysentery - Variola virus"
    ],
-   "a": 2,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Amoebic dysentery - Entamoeba histolytica is correctly matched."
+   "answer": 2,
+   "explanation": "Only Amoebic dysentery - Entamoeba histolytica is correctly matched.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0973",
-   "q": "Which of the following pairs of invention and inventor is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of invention and inventor is correctly matched?",
+   "options": [
     "Quantum theory - Wilhelm Roentgen",
     "Quantum theory - Max Planck",
     "Quantum theory - Joseph Priestley",
     "Quantum theory - John Bardeen and colleagues"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Quantum theory - Max Planck is correctly matched."
+   "answer": 1,
+   "explanation": "Only Quantum theory - Max Planck is correctly matched.",
+   "topic": "Inventions and Discoveries",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0974",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Baking soda - Sodium bicarbonate (NaHCO3)",
     "Baking soda - Calcium oxide (CaO)",
     "Baking soda - Calcium oxychloride (CaOCl2)",
     "Baking soda - Nitric acid (HNO3)"
    ],
-   "a": 0,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Baking soda - Sodium bicarbonate (NaHCO3) is correctly matched."
+   "answer": 0,
+   "explanation": "Only Baking soda - Sodium bicarbonate (NaHCO3) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0975",
-   "q": "Which of the following pairs of branch and subject is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of branch and subject is correctly matched?",
+   "options": [
     "Radiology - Chemical processes in living organisms",
     "Radiology - Radiant energy in medicine",
     "Radiology - Coins",
     "Radiology - Tissues"
    ],
-   "a": 1,
-   "t": "Branches of Science",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Radiology - Radiant energy in medicine is correctly matched."
+   "answer": 1,
+   "explanation": "Only Radiology - Radiant energy in medicine is correctly matched.",
+   "topic": "Branches of Science",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0976",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Jupiter - Brightest planet as seen from Earth",
     "Jupiter - Hottest planet",
     "Jupiter - Planet with the most moons",
     "Jupiter - Largest moon of Saturn"
    ],
-   "a": 2,
-   "t": "Astronomy",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Jupiter - Planet with the most moons is correctly matched."
+   "answer": 2,
+   "explanation": "Only Jupiter - Planet with the most moons is correctly matched.",
+   "topic": "Astronomy",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0977",
-   "q": "Which of the following pairs of scientist and contribution is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of scientist and contribution is correctly matched?",
+   "options": [
     "Hargobind Khorana - Discovery of radium and polonium",
     "Hargobind Khorana - Synthesis of nucleic acids",
     "Hargobind Khorana - Plant physiology and radio waves",
     "Hargobind Khorana - Electric battery"
    ],
-   "a": 1,
-   "t": "Scientists",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Hargobind Khorana - Synthesis of nucleic acids is correctly matched."
+   "answer": 1,
+   "explanation": "Only Hargobind Khorana - Synthesis of nucleic acids is correctly matched.",
+   "topic": "Scientists",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0978",
-   "q": "In which decade did the following event take place: Attack on the Indian Parliament?",
-   "o": [
+   "question": "In which decade did the following event take place: Attack on the Indian Parliament?",
+   "options": [
     "2000s",
     "1950s",
     "2010s",
     "1920s"
    ],
-   "a": 0,
-   "t": "Indian History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Attack on the Indian Parliament took place in the 2001s."
+   "answer": 0,
+   "explanation": "Attack on the Indian Parliament took place in the 2001s.",
+   "topic": "Indian History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0979",
-   "q": "In which decade did the following event take place: First Nobel Prizes awarded?",
-   "o": [
+   "question": "In which decade did the following event take place: First Nobel Prizes awarded?",
+   "options": [
     "1960s",
     "1900s",
     "1490s",
     "1950s"
    ],
-   "a": 1,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "First Nobel Prizes awarded took place in the 1901s."
+   "answer": 1,
+   "explanation": "First Nobel Prizes awarded took place in the 1901s.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0980",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Firoz Shah Tughlaq - Built canals and founded Firozabad",
     "Mahavira - Twenty-fourth Tirthankara of Jainism",
     "Chandragupta II - Known as Vikramaditya and patron of the Navaratnas",
     "Ibrahim Lodi - Shifted the capital from Delhi to Daulatabad"
    ],
-   "a": 3,
-   "t": "Rulers",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Ibrahim Lodi - Shifted the capital from Delhi to Daulatabad is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Ibrahim Lodi - Shifted the capital from Delhi to Daulatabad is not correctly matched.",
+   "topic": "Rulers",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0981",
-   "q": "Which of the following pairs of person and title is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of person and title is NOT correctly matched?",
+   "options": [
     "Mahatma Gandhi - Father of the Nation",
     "Dadabhai Naoroji - Grand Old Man of India",
     "Vinoba Bhave - Founder-member of the HSRA",
     "Sukhdev - Revolutionary executed with Bhagat Singh"
    ],
-   "a": 2,
-   "t": "Freedom Fighters",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Vinoba Bhave - Founder-member of the HSRA is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Vinoba Bhave - Founder-member of the HSRA is not correctly matched.",
+   "topic": "Freedom Fighters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0982",
-   "q": "Which of the following pairs of provision and article is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of provision and article is correctly matched?",
+   "options": [
     "Protection of life and personal liberty - Article 21",
     "Protection of life and personal liberty - Article 23",
     "Protection of life and personal liberty - Articles 14-18",
     "Protection of life and personal liberty - Article 148"
    ],
-   "a": 0,
-   "t": "Constitution Articles",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Protection of life and personal liberty - Article 21 is correctly matched."
+   "answer": 0,
+   "explanation": "Only Protection of life and personal liberty - Article 21 is correctly matched.",
+   "topic": "Constitution Articles",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0983",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Source of amendment procedure - South Africa",
     "Source of amendment procedure - The Lok Sabha",
     "Source of amendment procedure - 250 members",
     "Source of amendment procedure - Australia"
    ],
-   "a": 0,
-   "t": "Constitution Facts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Source of amendment procedure - South Africa is correctly matched."
+   "answer": 0,
+   "explanation": "Only Source of amendment procedure - South Africa is correctly matched.",
+   "topic": "Constitution Facts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0984",
-   "q": "Which of the following pairs of institution and description is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of institution and description is NOT correctly matched?",
+   "options": [
     "IRDAI - Regulator of the insurance sector",
     "Lok Sabha - Second highest law officer of the Union",
     "Union Territories - Administered by the President through administrators",
     "Municipality - Local self-government in urban areas"
    ],
-   "a": 1,
-   "t": "Institutions of India",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Lok Sabha - Second highest law officer of the Union is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Lok Sabha - Second highest law officer of the Union is not correctly matched.",
+   "topic": "Institutions of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0985",
-   "q": "Which of the following days is observed on 15 August?",
-   "o": [
+   "question": "Which of the following days is observed on 15 August?",
+   "options": [
     "Independence Day (India)",
     "World Kindness Day",
     "World Toilet Day",
     "World Cities Day"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "15 August is observed as Independence Day (India)."
+   "answer": 0,
+   "explanation": "15 August is observed as Independence Day (India).",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0986",
-   "q": "Which of the following pairs of organisation and headquarters is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of organisation and headquarters is correctly matched?",
+   "options": [
     "International Criminal Court - London",
     "International Criminal Court - The Hague",
     "International Criminal Court - Rome",
     "International Criminal Court - Bengaluru"
    ],
-   "a": 1,
-   "t": "Organisations and Headquarters",
-   "l": 3,
-   "s": "generated",
-   "e": "Only International Criminal Court - The Hague is correctly matched."
+   "answer": 1,
+   "explanation": "Only International Criminal Court - The Hague is correctly matched.",
+   "topic": "Organisations and Headquarters",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0987",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "Vijay Hazare Trophy - Football",
     "Vijay Hazare Trophy - Cricket",
     "Vijay Hazare Trophy - Badminton",
     "Vijay Hazare Trophy - Hockey"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Vijay Hazare Trophy - Cricket is correctly matched."
+   "answer": 1,
+   "explanation": "Only Vijay Hazare Trophy - Cricket is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0988",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Booker Prize - UNESCO award for popularisation of science",
     "Booker Prize - Asian award for public service",
     "Booker Prize - Indian literary award",
     "Booker Prize - British award for fiction"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Booker Prize - British award for fiction is correctly matched."
+   "answer": 3,
+   "explanation": "Only Booker Prize - British award for fiction is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0989",
-   "q": "Which of the following pairs of book and author is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of book and author is correctly matched?",
+   "options": [
     "Panchatantra - Sachin Tendulkar",
     "Panchatantra - Leo Tolstoy",
     "Panchatantra - Salman Rushdie",
     "Panchatantra - Vishnu Sharma"
    ],
-   "a": 3,
-   "t": "Books and Authors",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Panchatantra - Vishnu Sharma is correctly matched."
+   "answer": 3,
+   "explanation": "Only Panchatantra - Vishnu Sharma is correctly matched.",
+   "topic": "Books and Authors",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0990",
-   "q": "Which of the following pairs of achievement and person is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of achievement and person is NOT correctly matched?",
+   "options": [
     "First Asian to win a Nobel Prize - Rabindranath Tagore",
     "First person to win two Nobel Prizes - Athens",
     "First woman Prime Minister in the world - Sirimavo Bandaranaike",
     "First Winter Olympic Games were held in - Chamonix"
    ],
-   "a": 1,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair First person to win two Nobel Prizes - Athens is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair First person to win two Nobel Prizes - Athens is not correctly matched.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0991",
-   "q": "Where is the Brihadeeswarar Temple located?",
-   "o": [
+   "question": "Where is the Brihadeeswarar Temple located?",
+   "options": [
     "Tropic of Capricorn",
     "Nagpur",
     "Russia",
     "Thanjavur"
    ],
-   "a": 3,
-   "t": "Geography Questions",
-   "l": 2,
-   "s": "generated",
-   "e": "Geography fact."
+   "answer": 3,
+   "explanation": "Geography fact.",
+   "topic": "Geography Questions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0992",
-   "q": "Which of the following pairs of question and answer is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of question and answer is correctly matched?",
+   "options": [
     "Which place in India receives the lowest rainfall - October to November",
     "Which place in India receives the lowest rainfall - Jaisalmer",
     "Which place in India receives the lowest rainfall - Wind vane",
     "Which place in India receives the lowest rainfall - Tropical monsoon climate"
    ],
-   "a": 1,
-   "t": "Climate and Atmosphere",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Which place in India receives the lowest rainfall - Jaisalmer is correctly matched."
+   "answer": 1,
+   "explanation": "Only Which place in India receives the lowest rainfall - Jaisalmer is correctly matched.",
+   "topic": "Climate and Atmosphere",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0993",
-   "q": "In which year were regional rural banks established in India?",
-   "o": [
+   "question": "In which year were regional rural banks established in India?",
+   "options": [
     "2010",
     "Silver Fibre Revolution",
     "1975",
     "D. Udaya Kumar"
    ],
-   "a": 2,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 2,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0994",
-   "q": "Choose the word most similar in meaning to Precarious.",
-   "o": [
+   "question": "Choose the word most similar in meaning to Precarious.",
+   "options": [
     "Calm",
     "Poverty",
     "Relevant",
     "Risky"
    ],
-   "a": 3,
-   "t": "Synonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "Precarious means Risky."
+   "answer": 3,
+   "explanation": "Precarious means Risky.",
+   "topic": "Synonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0995",
-   "q": "Choose the word most opposite in meaning to Verbose.",
-   "o": [
+   "question": "Choose the word most opposite in meaning to Verbose.",
+   "options": [
     "Improve",
     "Concise",
     "Unruly",
     "Lax"
    ],
-   "a": 1,
-   "t": "Antonyms",
-   "l": 1,
-   "s": "generated",
-   "e": "The opposite of Verbose is Concise."
+   "answer": 1,
+   "explanation": "The opposite of Verbose is Concise.",
+   "topic": "Antonyms",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0996",
-   "q": "What is the meaning of the idiom 'Against the clock'?",
-   "o": [
+   "question": "What is the meaning of the idiom 'Against the clock'?",
+   "options": [
     "Occupy a less important position",
     "To act unfairly",
     "Fail to have the intended effect",
     "In a great hurry"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 2,
-   "s": "generated",
-   "e": "'Against the clock' means In a great hurry."
+   "answer": 3,
+   "explanation": "'Against the clock' means In a great hurry.",
+   "topic": "Idioms and Phrases",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0997",
-   "q": "Choose the one word substitute for: One who has an unreasonable fear of heights",
-   "o": [
+   "question": "Choose the one word substitute for: One who has an unreasonable fear of heights",
+   "options": [
     "Biography",
     "Acrophobic",
     "Xenophobic",
     "Abstruse"
    ],
-   "a": 1,
-   "t": "One Word Substitution",
-   "l": 2,
-   "s": "generated",
-   "e": "One who has an unreasonable fear of heights — Acrophobic."
+   "answer": 1,
+   "explanation": "One who has an unreasonable fear of heights — Acrophobic.",
+   "topic": "One Word Substitution",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0998",
-   "q": "Which of the following words is spelt correctly?",
-   "o": [
+   "question": "Which of the following words is spelt correctly?",
+   "options": [
     "Tendency",
     "Forty",
     "Relevant",
     "Quantity"
    ],
-   "a": 2,
-   "t": "Spellings",
-   "l": 1,
-   "s": "generated",
-   "e": "The correct spelling is Relevant."
+   "answer": 2,
+   "explanation": "The correct spelling is Relevant.",
+   "topic": "Spellings",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-0999",
-   "q": "Which of the following is the plural form of Analysis?",
-   "o": [
+   "question": "Which of the following is the plural form of Analysis?",
+   "options": [
     "Geese",
     "Tomatoes",
     "Analyses",
     "Courts Martial"
    ],
-   "a": 2,
-   "t": "Plurals",
-   "l": 2,
-   "s": "generated",
-   "e": "The plural of Analysis is Analyses."
+   "answer": 2,
+   "explanation": "The plural of Analysis is Analyses.",
+   "topic": "Plurals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p08-1000",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "King - Queen",
     "King - Niece",
     "King - Stepmother",
     "King - Goose"
    ],
-   "a": 0,
-   "t": "Genders",
-   "l": 3,
-   "s": "generated",
-   "e": "Only King - Queen is correctly matched."
+   "answer": 0,
+   "explanation": "Only King - Queen is correctly matched.",
+   "topic": "Genders",
+   "level": 3,
+   "source": "generated"
   }
  ]
 };

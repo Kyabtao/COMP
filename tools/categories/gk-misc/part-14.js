@@ -20,15003 +20,15003 @@
  "questions": [
   {
    "id": "gk-misc-p14-0001",
-   "q": "Sarajevo is the capital of which country?",
-   "o": [
+   "question": "Sarajevo is the capital of which country?",
+   "options": [
     "Bosnia and Herzegovina",
     "Indonesia",
     "Panama",
     "Mali"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "Sarajevo is the capital of Bosnia and Herzegovina."
+   "answer": 0,
+   "explanation": "Sarajevo is the capital of Bosnia and Herzegovina.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0002",
-   "q": "What is the atomic number of Oxygen?",
-   "o": [
+   "question": "What is the atomic number of Oxygen?",
+   "options": [
     "8",
     "63",
     "47",
     "68"
    ],
-   "a": 0,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "The atomic number of Oxygen is 8."
+   "answer": 0,
+   "explanation": "The atomic number of Oxygen is 8.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0003",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Kalesar National Park - Haryana",
     "Kalesar National Park - Nagaland",
     "Kalesar National Park - Assam",
     "Kalesar National Park - Arunachal Pradesh"
    ],
-   "a": 0,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Kalesar National Park - Haryana is correctly matched."
+   "answer": 0,
+   "explanation": "Only Kalesar National Park - Haryana is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0004",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "Global financial crisis - 1929",
     "Global financial crisis - 2008",
     "Global financial crisis - 1789",
     "Global financial crisis - 1215"
    ],
-   "a": 1,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Global financial crisis - 2008 is correctly matched."
+   "answer": 1,
+   "explanation": "Only Global financial crisis - 2008 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0005",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "World Hindi Day - 9 December",
     "World Hindi Day - 10 January",
     "World Hindi Day - 16 September",
     "World Hindi Day - 3 May"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only World Hindi Day - 10 January is correctly matched."
+   "answer": 1,
+   "explanation": "Only World Hindi Day - 10 January is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0006",
-   "q": "Mystery is a synonym of which of the following words?",
-   "o": [
+   "question": "Mystery is a synonym of which of the following words?",
+   "options": [
     "Enigma",
     "Fortitude",
     "Elicit",
     "Conspicuous"
    ],
-   "a": 0,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Mystery is a synonym of Enigma."
+   "answer": 0,
+   "explanation": "Mystery is a synonym of Enigma.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0007",
-   "q": "Interesting is an antonym of which of the following words?",
-   "o": [
+   "question": "Interesting is an antonym of which of the following words?",
+   "options": [
     "Tedious",
     "Placid",
     "Proficient",
     "Wary"
    ],
-   "a": 0,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Interesting is the opposite of Tedious."
+   "answer": 0,
+   "explanation": "Interesting is the opposite of Tedious.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0008",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Lose one's head - Do or say the right thing",
     "Lose one's head - Fail or be defeated",
     "Lose one's head - Lose self-control",
     "Lose one's head - Manage within one's income"
    ],
-   "a": 2,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Lose one's head - Lose self-control is correctly matched."
+   "answer": 2,
+   "explanation": "Only Lose one's head - Lose self-control is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0009",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "A conversation between two people - Carnivores",
     "A conversation between two people - Dialogue",
     "A conversation between two people - Cannibal",
     "A conversation between two people - Theocracy"
    ],
-   "a": 1,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only A conversation between two people - Dialogue is correctly matched."
+   "answer": 1,
+   "explanation": "Only A conversation between two people - Dialogue is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0010",
-   "q": "Which of the following words is spelt incorrectly?",
-   "o": [
+   "question": "Which of the following words is spelt incorrectly?",
+   "options": [
     "Bicycal",
     "Hapiness",
     "Carrage",
     "Innocense"
    ],
-   "a": 2,
-   "t": "Spellings",
-   "l": 2,
-   "s": "generated",
-   "e": "The incorrect spelling shown is Carrage; the correct form is Carriage."
+   "answer": 2,
+   "explanation": "The incorrect spelling shown is Carrage; the correct form is Carriage.",
+   "topic": "Spellings",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0011",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Nucleus - Nuclei",
     "Nucleus - Formulae",
     "Nucleus - Cacti",
     "Nucleus - Step-daughters"
    ],
-   "a": 0,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Nucleus - Nuclei is correctly matched."
+   "answer": 0,
+   "explanation": "Only Nucleus - Nuclei is correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0012",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Small - Smaller",
     "Small - Fatter",
     "Small - Heavier",
     "Small - Kinder"
    ],
-   "a": 0,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Small - Smaller is correctly matched."
+   "answer": 0,
+   "explanation": "Only Small - Smaller is correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0013",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "Encryption - Input device that captures video",
     "Encryption - Language used to style web pages",
     "Encryption - Process of converting data into unreadable form",
     "Encryption - Interface that uses icons and windows"
    ],
-   "a": 2,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Encryption - Process of converting data into unreadable form is correctly matched."
+   "answer": 2,
+   "explanation": "Only Encryption - Process of converting data into unreadable form is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0014",
-   "q": "Which of the following abbreviations stands for National Pension System?",
-   "o": [
+   "question": "Which of the following abbreviations stands for National Pension System?",
+   "options": [
     "SWAYAM",
     "NPS",
     "BARC",
     "OPD"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "National Pension System is abbreviated as NPS."
+   "answer": 1,
+   "explanation": "National Pension System is abbreviated as NPS.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0015",
-   "q": "Kigali is the capital of which country?",
-   "o": [
+   "question": "Kigali is the capital of which country?",
+   "options": [
     "Kuwait",
     "Myanmar",
     "Rwanda",
     "Cambodia"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "Kigali is the capital of Rwanda."
+   "answer": 2,
+   "explanation": "Kigali is the capital of Rwanda.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0016",
-   "q": "What is the atomic number of Terbium?",
-   "o": [
+   "question": "What is the atomic number of Terbium?",
+   "options": [
     "29",
     "53",
     "114",
     "65"
    ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "The atomic number of Terbium is 65."
+   "answer": 3,
+   "explanation": "The atomic number of Terbium is 65.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0017",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Kalesar National Park - Jharkhand",
     "Kalesar National Park - Haryana",
     "Kalesar National Park - Kerala",
     "Kalesar National Park - Madhya Pradesh"
    ],
-   "a": 1,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Kalesar National Park - Haryana is correctly matched."
+   "answer": 1,
+   "explanation": "Only Kalesar National Park - Haryana is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0018",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "Global financial crisis - 2008",
     "Global financial crisis - 1865",
     "Global financial crisis - 1815",
     "Global financial crisis - 1588"
    ],
-   "a": 0,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Global financial crisis - 2008 is correctly matched."
+   "answer": 0,
+   "explanation": "Only Global financial crisis - 2008 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0019",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "World Radiography Day - 8 November",
     "World Radiography Day - 10 February",
     "World Radiography Day - 28 July",
     "World Radiography Day - 2 December"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only World Radiography Day - 8 November is correctly matched."
+   "answer": 0,
+   "explanation": "Only World Radiography Day - 8 November is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0020",
-   "q": "Beginning is a synonym of which of the following words?",
-   "o": [
+   "question": "Beginning is a synonym of which of the following words?",
+   "options": [
     "Audacious",
     "Incipient",
     "Fractious",
     "Precipitate"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Beginning is a synonym of Incipient."
+   "answer": 1,
+   "explanation": "Beginning is a synonym of Incipient.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0021",
-   "q": "Beneficial is an antonym of which of the following words?",
-   "o": [
+   "question": "Beneficial is an antonym of which of the following words?",
+   "options": [
     "Bold",
     "Fickle",
     "Impartial",
     "Detrimental"
    ],
-   "a": 3,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Beneficial is the opposite of Detrimental."
+   "answer": 3,
+   "explanation": "Beneficial is the opposite of Detrimental.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0022",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Null and void - To take the risk",
     "Null and void - Speak plainly",
     "Null and void - Permanently",
     "Null and void - Invalid"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Null and void - Invalid is correctly matched."
+   "answer": 3,
+   "explanation": "Only Null and void - Invalid is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0023",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "A conversation between two people - Dialogue",
     "A conversation between two people - Soliloquy",
     "A conversation between two people - Mint",
     "A conversation between two people - Armoury"
    ],
-   "a": 0,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only A conversation between two people - Dialogue is correctly matched."
+   "answer": 0,
+   "explanation": "Only A conversation between two people - Dialogue is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0024",
-   "q": "Which of the following words is spelt incorrectly?",
-   "o": [
+   "question": "Which of the following words is spelt incorrectly?",
+   "options": [
     "Catagory",
     "Greatful",
     "Accomodation",
     "Forth"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 2,
-   "s": "generated",
-   "e": "The incorrect spelling shown is Catagory; the correct form is Category."
+   "answer": 0,
+   "explanation": "The incorrect spelling shown is Catagory; the correct form is Category.",
+   "topic": "Spellings",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0025",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Nucleus - Axes",
     "Nucleus - Sheep",
     "Nucleus - Nuclei",
     "Nucleus - Criteria"
    ],
-   "a": 2,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Nucleus - Nuclei is correctly matched."
+   "answer": 2,
+   "explanation": "Only Nucleus - Nuclei is correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0026",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Small - Braver",
     "Small - Smaller",
     "Small - Poorer",
     "Small - More difficult"
    ],
-   "a": 1,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Small - Smaller is correctly matched."
+   "answer": 1,
+   "explanation": "Only Small - Smaller is correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0027",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "Encryption - Device that modulates signals for data transmission",
     "Encryption - Power supply unit of a computer",
     "Encryption - Process of converting data into unreadable form",
     "Encryption - Software used to view web pages"
    ],
-   "a": 2,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Encryption - Process of converting data into unreadable form is correctly matched."
+   "answer": 2,
+   "explanation": "Only Encryption - Process of converting data into unreadable form is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0028",
-   "q": "Which of the following abbreviations stands for Securities and Exchange Board of India?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Securities and Exchange Board of India?",
+   "options": [
     "GNP",
     "MSP",
     "AMFI",
     "SEBI"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Securities and Exchange Board of India is abbreviated as SEBI."
+   "answer": 3,
+   "explanation": "Securities and Exchange Board of India is abbreviated as SEBI.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0029",
-   "q": "Port Moresby is the capital of which country?",
-   "o": [
+   "question": "Port Moresby is the capital of which country?",
+   "options": [
     "Papua New Guinea",
     "Turkmenistan",
     "Jamaica",
     "Eswatini"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "Port Moresby is the capital of Papua New Guinea."
+   "answer": 0,
+   "explanation": "Port Moresby is the capital of Papua New Guinea.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0030",
-   "q": "What is the atomic number of Tantalum?",
-   "o": [
+   "question": "What is the atomic number of Tantalum?",
+   "options": [
     "32",
     "5",
     "73",
     "80"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "The atomic number of Tantalum is 73."
+   "answer": 2,
+   "explanation": "The atomic number of Tantalum is 73.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0031",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Balphakram National Park - Assam",
     "Balphakram National Park - Rajasthan",
     "Balphakram National Park - Uttar Pradesh",
     "Balphakram National Park - Meghalaya"
    ],
-   "a": 3,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Balphakram National Park - Meghalaya is correctly matched."
+   "answer": 3,
+   "explanation": "Only Balphakram National Park - Meghalaya is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0032",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "D-Day landings in Normandy - 1962",
     "D-Day landings in Normandy - 1869",
     "D-Day landings in Normandy - 1789",
     "D-Day landings in Normandy - 1944"
    ],
-   "a": 3,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only D-Day landings in Normandy - 1944 is correctly matched."
+   "answer": 3,
+   "explanation": "Only D-Day landings in Normandy - 1944 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0033",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "World Radiography Day - 29 August",
     "World Radiography Day - 5 June",
     "World Radiography Day - 8 November",
     "World Radiography Day - 8 September"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only World Radiography Day - 8 November is correctly matched."
+   "answer": 2,
+   "explanation": "Only World Radiography Day - 8 November is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0034",
-   "q": "Weaken is a synonym of which of the following words?",
-   "o": [
+   "question": "Weaken is a synonym of which of the following words?",
+   "options": [
     "Philanthropy",
     "Debilitate",
     "Heresy",
     "Impede"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Weaken is a synonym of Debilitate."
+   "answer": 1,
+   "explanation": "Weaken is a synonym of Debilitate.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0035",
-   "q": "Frequent is an antonym of which of the following words?",
-   "o": [
+   "question": "Frequent is an antonym of which of the following words?",
+   "options": [
     "Sporadic",
     "Spurious",
     "Tedious",
     "Predicament"
    ],
-   "a": 0,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Frequent is the opposite of Sporadic."
+   "answer": 0,
+   "explanation": "Frequent is the opposite of Sporadic.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0036",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Null and void - Insincere grief",
     "Null and void - Invalid",
     "Null and void - Relatives",
     "Null and void - To struggle without hope of success"
    ],
-   "a": 1,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Null and void - Invalid is correctly matched."
+   "answer": 1,
+   "explanation": "Only Null and void - Invalid is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0037",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "One who is present everywhere - Anarchy",
     "One who is present everywhere - Mobocracy",
     "One who is present everywhere - Omnipresent",
     "One who is present everywhere - Fratricide"
    ],
-   "a": 2,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only One who is present everywhere - Omnipresent is correctly matched."
+   "answer": 2,
+   "explanation": "Only One who is present everywhere - Omnipresent is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0038",
-   "q": "Which of the following words is spelt incorrectly?",
-   "o": [
+   "question": "Which of the following words is spelt incorrectly?",
+   "options": [
     "Ommision",
     "Tommorow",
     "Suprise",
     "Publically"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 2,
-   "s": "generated",
-   "e": "The incorrect spelling shown is Ommision; the correct form is Omission."
+   "answer": 0,
+   "explanation": "The incorrect spelling shown is Ommision; the correct form is Omission.",
+   "topic": "Spellings",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0039",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Cactus - Stimuli",
     "Cactus - Churches",
     "Cactus - Lookers-on",
     "Cactus - Cacti"
    ],
-   "a": 3,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Cactus - Cacti is correctly matched."
+   "answer": 3,
+   "explanation": "Only Cactus - Cacti is correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0040",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Busy - Busier",
     "Busy - Longer",
     "Busy - Taller",
     "Busy - Richer"
    ],
-   "a": 0,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Busy - Busier is correctly matched."
+   "answer": 0,
+   "explanation": "Only Busy - Busier is correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0041",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "Device driver - Language used to structure web pages",
     "Device driver - Software that lets the OS talk to hardware",
     "Device driver - Input device used for typing",
     "Device driver - Universal character encoding standard"
    ],
-   "a": 1,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Device driver - Software that lets the OS talk to hardware is correctly matched."
+   "answer": 1,
+   "explanation": "Only Device driver - Software that lets the OS talk to hardware is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0042",
-   "q": "Which of the following abbreviations stands for International Securities Identification Number?",
-   "o": [
+   "question": "Which of the following abbreviations stands for International Securities Identification Number?",
+   "options": [
     "RTE",
     "CCI",
     "LEO",
     "ISIN"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "International Securities Identification Number is abbreviated as ISIN."
+   "answer": 3,
+   "explanation": "International Securities Identification Number is abbreviated as ISIN.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0043",
-   "q": "Algiers is the capital of which country?",
-   "o": [
+   "question": "Algiers is the capital of which country?",
+   "options": [
     "Malawi",
     "Algeria",
     "Hungary",
     "Trinidad and Tobago"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "Algiers is the capital of Algeria."
+   "answer": 1,
+   "explanation": "Algiers is the capital of Algeria.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0044",
-   "q": "What is the atomic number of Lutetium?",
-   "o": [
+   "question": "What is the atomic number of Lutetium?",
+   "options": [
     "16",
     "71",
     "24",
     "11"
    ],
-   "a": 1,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "The atomic number of Lutetium is 71."
+   "answer": 1,
+   "explanation": "The atomic number of Lutetium is 71.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0045",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Balphakram National Park - Madhya Pradesh",
     "Balphakram National Park - Meghalaya",
     "Balphakram National Park - Arunachal Pradesh",
     "Balphakram National Park - Himachal Pradesh"
    ],
-   "a": 1,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Balphakram National Park - Meghalaya is correctly matched."
+   "answer": 1,
+   "explanation": "Only Balphakram National Park - Meghalaya is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0046",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "D-Day landings in Normandy - 1962",
     "D-Day landings in Normandy - 1973",
     "D-Day landings in Normandy - 1944",
     "D-Day landings in Normandy - 1945"
    ],
-   "a": 2,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only D-Day landings in Normandy - 1944 is correctly matched."
+   "answer": 2,
+   "explanation": "Only D-Day landings in Normandy - 1944 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0047",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "World Rivers Day - fourth Sunday of September",
     "World Rivers Day - 4 February",
     "World Rivers Day - 15 September",
     "World Rivers Day - 16 October"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only World Rivers Day - fourth Sunday of September is correctly matched."
+   "answer": 0,
+   "explanation": "Only World Rivers Day - fourth Sunday of September is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0048",
-   "q": "Pacify is a synonym of which of the following words?",
-   "o": [
+   "question": "Pacify is a synonym of which of the following words?",
+   "options": [
     "Appease",
     "Deteriorate",
     "Languid",
     "Inveterate"
    ],
-   "a": 0,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Pacify is a synonym of Appease."
+   "answer": 0,
+   "explanation": "Pacify is a synonym of Appease.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0049",
-   "q": "Stable is an antonym of which of the following words?",
-   "o": [
+   "question": "Stable is an antonym of which of the following words?",
+   "options": [
     "Conspicuous",
     "Redundant",
     "Volatile",
     "Prominent"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Stable is the opposite of Volatile."
+   "answer": 2,
+   "explanation": "Stable is the opposite of Volatile.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0050",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "At sixes and sevens - Agree completely",
     "At sixes and sevens - Relatives",
     "At sixes and sevens - In disorder",
     "At sixes and sevens - To act unfairly"
    ],
-   "a": 2,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only At sixes and sevens - In disorder is correctly matched."
+   "answer": 2,
+   "explanation": "Only At sixes and sevens - In disorder is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0051",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "One who is present everywhere - Pessimist",
     "One who is present everywhere - Theist",
     "One who is present everywhere - Pandemic",
     "One who is present everywhere - Omnipresent"
    ],
-   "a": 3,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only One who is present everywhere - Omnipresent is correctly matched."
+   "answer": 3,
+   "explanation": "Only One who is present everywhere - Omnipresent is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0052",
-   "q": "Which of the following words is spelt incorrectly?",
-   "o": [
+   "question": "Which of the following words is spelt incorrectly?",
+   "options": [
     "Curtesy",
     "Occurence",
     "Freind",
     "Referance"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 2,
-   "s": "generated",
-   "e": "The incorrect spelling shown is Curtesy; the correct form is Courtesy."
+   "answer": 0,
+   "explanation": "The incorrect spelling shown is Curtesy; the correct form is Courtesy.",
+   "topic": "Spellings",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0053",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Cactus - Cacti",
     "Cactus - Boxes",
     "Cactus - Lice",
     "Cactus - Proofs"
    ],
-   "a": 0,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Cactus - Cacti is correctly matched."
+   "answer": 0,
+   "explanation": "Only Cactus - Cacti is correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0054",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Busy - Faster",
     "Busy - Busier",
     "Busy - Finer",
     "Busy - Colder"
    ],
-   "a": 1,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Busy - Busier is correctly matched."
+   "answer": 1,
+   "explanation": "Only Busy - Busier is correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0055",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "Device driver - Diagram of the steps of an algorithm",
     "Device driver - Firmware that starts the computer",
     "Device driver - Software that lets the OS talk to hardware",
     "Device driver - Protocol for sending email"
    ],
-   "a": 2,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Device driver - Software that lets the OS talk to hardware is correctly matched."
+   "answer": 2,
+   "explanation": "Only Device driver - Software that lets the OS talk to hardware is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0056",
-   "q": "Which of the following abbreviations stands for Punjab National Bank?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Punjab National Bank?",
+   "options": [
     "NPS",
     "NAV",
     "PNB",
     "UAV"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Punjab National Bank is abbreviated as PNB."
+   "answer": 2,
+   "explanation": "Punjab National Bank is abbreviated as PNB.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0057",
-   "q": "Paris is the capital of which country?",
-   "o": [
+   "question": "Paris is the capital of which country?",
+   "options": [
     "France",
     "India",
     "Iraq",
     "Kenya"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "Paris is the capital of France."
+   "answer": 0,
+   "explanation": "Paris is the capital of France.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0058",
-   "q": "What is the atomic number of Krypton?",
-   "o": [
+   "question": "What is the atomic number of Krypton?",
+   "options": [
     "70",
     "36",
     "111",
     "31"
    ],
-   "a": 1,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "The atomic number of Krypton is 36."
+   "answer": 1,
+   "explanation": "The atomic number of Krypton is 36.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0059",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Bhadra Tiger Reserve - Kerala",
     "Bhadra Tiger Reserve - Madhya Pradesh",
     "Bhadra Tiger Reserve - Karnataka",
     "Bhadra Tiger Reserve - Rajasthan"
    ],
-   "a": 2,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Bhadra Tiger Reserve - Karnataka is correctly matched."
+   "answer": 2,
+   "explanation": "Only Bhadra Tiger Reserve - Karnataka is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0060",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "Release of Nelson Mandela from prison - 1990",
     "Release of Nelson Mandela from prison - 1948",
     "Release of Nelson Mandela from prison - 1949",
     "Release of Nelson Mandela from prison - 2015"
    ],
-   "a": 0,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Release of Nelson Mandela from prison - 1990 is correctly matched."
+   "answer": 0,
+   "explanation": "Only Release of Nelson Mandela from prison - 1990 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0061",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "World Rivers Day - 16 September",
     "World Rivers Day - 28 February",
     "World Rivers Day - 25 January",
     "World Rivers Day - fourth Sunday of September"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only World Rivers Day - fourth Sunday of September is correctly matched."
+   "answer": 3,
+   "explanation": "Only World Rivers Day - fourth Sunday of September is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0062",
-   "q": "Burdensome is a synonym of which of the following words?",
-   "o": [
+   "question": "Burdensome is a synonym of which of the following words?",
+   "options": [
     "Onerous",
     "Pugnacious",
     "Obsolete",
     "Inexorable"
    ],
-   "a": 0,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Burdensome is a synonym of Onerous."
+   "answer": 0,
+   "explanation": "Burdensome is a synonym of Onerous.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0063",
-   "q": "Safe is an antonym of which of the following words?",
-   "o": [
+   "question": "Safe is an antonym of which of the following words?",
+   "options": [
     "Hazardous",
     "Cease",
     "Foment",
     "Volatile"
    ],
-   "a": 0,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Safe is the opposite of Hazardous."
+   "answer": 0,
+   "explanation": "Safe is the opposite of Hazardous.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0064",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "At sixes and sevens - Understand the hidden meaning",
     "At sixes and sevens - Thirteen",
     "At sixes and sevens - A miser",
     "At sixes and sevens - In disorder"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only At sixes and sevens - In disorder is correctly matched."
+   "answer": 3,
+   "explanation": "Only At sixes and sevens - In disorder is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0065",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "A person who makes and sells bread - Pessimist",
     "A person who makes and sells bread - Homicide",
     "A person who makes and sells bread - Chauvinism",
     "A person who makes and sells bread - Baker"
    ],
-   "a": 3,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only A person who makes and sells bread - Baker is correctly matched."
+   "answer": 3,
+   "explanation": "Only A person who makes and sells bread - Baker is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0066",
-   "q": "Which of the following words is spelt incorrectly?",
-   "o": [
+   "question": "Which of the following words is spelt incorrectly?",
+   "options": [
     "Commitee",
     "Coloumn",
     "Freind",
     "Convinient"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 2,
-   "s": "generated",
-   "e": "The incorrect spelling shown is Convinient; the correct form is Convenient."
+   "answer": 3,
+   "explanation": "The incorrect spelling shown is Convinient; the correct form is Convenient.",
+   "topic": "Spellings",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0067",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Analysis - Calves",
     "Analysis - Deer",
     "Analysis - Analyses",
     "Analysis - Phenomena"
    ],
-   "a": 2,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Analysis - Analyses is correctly matched."
+   "answer": 2,
+   "explanation": "Only Analysis - Analyses is correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0068",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Bad - Older",
     "Bad - Worse",
     "Bad - Bigger",
     "Bad - More difficult"
    ],
-   "a": 1,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Bad - Worse is correctly matched."
+   "answer": 1,
+   "explanation": "Only Bad - Worse is correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0069",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "POP3 - Protocol for retrieving email",
     "POP3 - Software used to view web pages",
     "POP3 - Using more than one processor at a time",
     "POP3 - Interface that accepts typed commands"
    ],
-   "a": 0,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only POP3 - Protocol for retrieving email is correctly matched."
+   "answer": 0,
+   "explanation": "Only POP3 - Protocol for retrieving email is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0070",
-   "q": "Which of the following abbreviations stands for Organisation for Economic Co-operation and Development?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Organisation for Economic Co-operation and Development?",
+   "options": [
     "PMFBY",
     "CBDT",
     "IBPS",
     "OECD"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Organisation for Economic Co-operation and Development is abbreviated as OECD."
+   "answer": 3,
+   "explanation": "Organisation for Economic Co-operation and Development is abbreviated as OECD.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0071",
-   "q": "Lome is the capital of which country?",
-   "o": [
+   "question": "Lome is the capital of which country?",
+   "options": [
     "Togo",
     "Belgium",
     "Ukraine",
     "Mexico"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "Lome is the capital of Togo."
+   "answer": 0,
+   "explanation": "Lome is the capital of Togo.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0072",
-   "q": "What is the atomic number of Tungsten?",
-   "o": [
+   "question": "What is the atomic number of Tungsten?",
+   "options": [
     "74",
     "30",
     "55",
     "51"
    ],
-   "a": 0,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "The atomic number of Tungsten is 74."
+   "answer": 0,
+   "explanation": "The atomic number of Tungsten is 74.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0073",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Bhadra Tiger Reserve - Karnataka",
     "Bhadra Tiger Reserve - Madhya Pradesh",
     "Bhadra Tiger Reserve - Gujarat",
     "Bhadra Tiger Reserve - Uttarakhand"
    ],
-   "a": 0,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Bhadra Tiger Reserve - Karnataka is correctly matched."
+   "answer": 0,
+   "explanation": "Only Bhadra Tiger Reserve - Karnataka is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0074",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "Release of Nelson Mandela from prison - 1948",
     "Release of Nelson Mandela from prison - 1957",
     "Release of Nelson Mandela from prison - 1863",
     "Release of Nelson Mandela from prison - 1990"
    ],
-   "a": 3,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Release of Nelson Mandela from prison - 1990 is correctly matched."
+   "answer": 3,
+   "explanation": "Only Release of Nelson Mandela from prison - 1990 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0075",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "World Tourism Day - 28 February",
     "World Tourism Day - 9 December",
     "World Tourism Day - 19 August",
     "World Tourism Day - 27 September"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only World Tourism Day - 27 September is correctly matched."
+   "answer": 3,
+   "explanation": "Only World Tourism Day - 27 September is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0076",
-   "q": "Complaining is a synonym of which of the following words?",
-   "o": [
+   "question": "Complaining is a synonym of which of the following words?",
+   "options": [
     "Querulous",
     "Perplex",
     "Corroborate",
     "Humane"
    ],
-   "a": 0,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Complaining is a synonym of Querulous."
+   "answer": 0,
+   "explanation": "Complaining is a synonym of Querulous.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0077",
-   "q": "Retain is an antonym of which of the following words?",
-   "o": [
+   "question": "Retain is an antonym of which of the following words?",
+   "options": [
     "Relinquish",
     "Candid",
     "Appease",
     "Deluge"
    ],
-   "a": 0,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Retain is the opposite of Relinquish."
+   "answer": 0,
+   "explanation": "Retain is the opposite of Relinquish.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0078",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Above board - Speak plainly",
     "Above board - Honest and open",
     "Above board - Deliberate indifference",
     "Above board - Be dismissed from a job"
    ],
-   "a": 1,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Above board - Honest and open is correctly matched."
+   "answer": 1,
+   "explanation": "Only Above board - Honest and open is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0079",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "A person who makes and sells bread - Baker",
     "A person who makes and sells bread - Insolvent",
     "A person who makes and sells bread - Disinfectant",
     "A person who makes and sells bread - Anatomy"
    ],
-   "a": 0,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only A person who makes and sells bread - Baker is correctly matched."
+   "answer": 0,
+   "explanation": "Only A person who makes and sells bread - Baker is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0080",
-   "q": "Which of the following words is spelt incorrectly?",
-   "o": [
+   "question": "Which of the following words is spelt incorrectly?",
+   "options": [
     "Sophistocated",
     "Innocense",
     "Accomodation",
     "Preceeding"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 2,
-   "s": "generated",
-   "e": "The incorrect spelling shown is Sophistocated; the correct form is Sophisticated."
+   "answer": 0,
+   "explanation": "The incorrect spelling shown is Sophistocated; the correct form is Sophisticated.",
+   "topic": "Spellings",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0081",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Analysis - Analyses",
     "Analysis - Lice",
     "Analysis - Dice",
     "Analysis - Teeth"
    ],
-   "a": 0,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Analysis - Analyses is correctly matched."
+   "answer": 0,
+   "explanation": "Only Analysis - Analyses is correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0082",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Bad - Weaker",
     "Bad - Smaller",
     "Bad - Worse",
     "Bad - Cleverer"
    ],
-   "a": 2,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Bad - Worse is correctly matched."
+   "answer": 2,
+   "explanation": "Only Bad - Worse is correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0083",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "POP3 - The processing unit that executes instructions",
     "POP3 - Protocol for transferring files",
     "POP3 - Processor that handles graphics and images",
     "POP3 - Protocol for retrieving email"
    ],
-   "a": 3,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only POP3 - Protocol for retrieving email is correctly matched."
+   "answer": 3,
+   "explanation": "Only POP3 - Protocol for retrieving email is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0084",
-   "q": "Which of the following abbreviations stands for Pradhan Mantri Fasal Bima Yojana?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Pradhan Mantri Fasal Bima Yojana?",
+   "options": [
     "EMF",
     "UAV",
     "PFRDA",
     "PMFBY"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Pradhan Mantri Fasal Bima Yojana is abbreviated as PMFBY."
+   "answer": 3,
+   "explanation": "Pradhan Mantri Fasal Bima Yojana is abbreviated as PMFBY.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0085",
-   "q": "Honiara is the capital of which country?",
-   "o": [
+   "question": "Honiara is the capital of which country?",
+   "options": [
     "New Zealand",
     "Eswatini",
     "Solomon Islands",
     "Estonia"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "Honiara is the capital of Solomon Islands."
+   "answer": 2,
+   "explanation": "Honiara is the capital of Solomon Islands.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0086",
-   "q": "What is the atomic number of Hassium?",
-   "o": [
+   "question": "What is the atomic number of Hassium?",
+   "options": [
     "108",
     "49",
     "66",
     "16"
    ],
-   "a": 0,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "The atomic number of Hassium is 108."
+   "answer": 0,
+   "explanation": "The atomic number of Hassium is 108.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0087",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Mukandra Hills Tiger Reserve - Chhattisgarh",
     "Mukandra Hills Tiger Reserve - Bihar",
     "Mukandra Hills Tiger Reserve - Rajasthan",
     "Mukandra Hills Tiger Reserve - Madhya Pradesh"
    ],
-   "a": 2,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Mukandra Hills Tiger Reserve - Rajasthan is correctly matched."
+   "answer": 2,
+   "explanation": "Only Mukandra Hills Tiger Reserve - Rajasthan is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0088",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "Assassination of John F. Kennedy - 1950",
     "Assassination of John F. Kennedy - 1869",
     "Assassination of John F. Kennedy - 1963",
     "Assassination of John F. Kennedy - 1918"
    ],
-   "a": 2,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Assassination of John F. Kennedy - 1963 is correctly matched."
+   "answer": 2,
+   "explanation": "Only Assassination of John F. Kennedy - 1963 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0089",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "World Tourism Day - 27 September",
     "World Tourism Day - 1 June",
     "World Tourism Day - 17 May",
     "World Tourism Day - 7 April"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only World Tourism Day - 27 September is correctly matched."
+   "answer": 0,
+   "explanation": "Only World Tourism Day - 27 September is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0090",
-   "q": "Generous is a synonym of which of the following words?",
-   "o": [
+   "question": "Generous is a synonym of which of the following words?",
+   "options": [
     "Astute",
     "Frivolous",
     "Fluctuate",
     "Magnanimous"
    ],
-   "a": 3,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Generous is a synonym of Magnanimous."
+   "answer": 3,
+   "explanation": "Generous is a synonym of Magnanimous.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0091",
-   "q": "Foolish is an antonym of which of the following words?",
-   "o": [
+   "question": "Foolish is an antonym of which of the following words?",
+   "options": [
     "Superfluous",
     "Impede",
     "Sagacious",
     "Pragmatic"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Foolish is the opposite of Sagacious."
+   "answer": 2,
+   "explanation": "Foolish is the opposite of Sagacious.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0092",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Above board - Honest and open",
     "Above board - Do a pointless thing",
     "Above board - Exaggerated speech",
     "Above board - Much excitement over a trivial matter"
    ],
-   "a": 0,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Above board - Honest and open is correctly matched."
+   "answer": 0,
+   "explanation": "Only Above board - Honest and open is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0093",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "A disease that spreads worldwide - Epitaph",
     "A disease that spreads worldwide - Pessimist",
     "A disease that spreads worldwide - Pandemic",
     "A disease that spreads worldwide - Xenophobia"
    ],
-   "a": 2,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only A disease that spreads worldwide - Pandemic is correctly matched."
+   "answer": 2,
+   "explanation": "Only A disease that spreads worldwide - Pandemic is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0094",
-   "q": "Which of the following words is spelt incorrectly?",
-   "o": [
+   "question": "Which of the following words is spelt incorrectly?",
+   "options": [
     "Pronounciation",
     "Appearence",
     "Definately",
     "Fourty"
    ],
-   "a": 1,
-   "t": "Spellings",
-   "l": 2,
-   "s": "generated",
-   "e": "The incorrect spelling shown is Appearence; the correct form is Appearance."
+   "answer": 1,
+   "explanation": "The incorrect spelling shown is Appearence; the correct form is Appearance.",
+   "topic": "Spellings",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0095",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Criterion - Armies",
     "Criterion - Sons-in-law",
     "Criterion - Criteria",
     "Criterion - Foci"
    ],
-   "a": 2,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Criterion - Criteria is correctly matched."
+   "answer": 2,
+   "explanation": "Only Criterion - Criteria is correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0096",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Slow - Safer",
     "Slow - Less",
     "Slow - Busier",
     "Slow - Slower"
    ],
-   "a": 3,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Slow - Slower is correctly matched."
+   "answer": 3,
+   "explanation": "Only Slow - Slower is correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0097",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "Unicode - Protocol for retrieving email",
     "Unicode - Basic device that connects network devices",
     "Unicode - Network covering a wide area",
     "Unicode - Universal character encoding standard"
    ],
-   "a": 3,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Unicode - Universal character encoding standard is correctly matched."
+   "answer": 3,
+   "explanation": "Only Unicode - Universal character encoding standard is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0098",
-   "q": "Which of the following abbreviations stands for Pradhan Mantri Ujjwala Yojana?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Pradhan Mantri Ujjwala Yojana?",
+   "options": [
     "PMUY",
     "NCERT",
     "UPI",
     "GSLV"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Pradhan Mantri Ujjwala Yojana is abbreviated as PMUY."
+   "answer": 0,
+   "explanation": "Pradhan Mantri Ujjwala Yojana is abbreviated as PMUY.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0099",
-   "q": "Gitega is the capital of which country?",
-   "o": [
+   "question": "Gitega is the capital of which country?",
+   "options": [
     "Republic of the Congo",
     "Belgium",
     "Burundi",
     "Italy"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "Gitega is the capital of Burundi."
+   "answer": 2,
+   "explanation": "Gitega is the capital of Burundi.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0100",
-   "q": "What is the atomic number of Oganesson?",
-   "o": [
+   "question": "What is the atomic number of Oganesson?",
+   "options": [
     "16",
     "118",
     "6",
     "105"
    ],
-   "a": 1,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "The atomic number of Oganesson is 118."
+   "answer": 1,
+   "explanation": "The atomic number of Oganesson is 118.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0101",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Mukandra Hills Tiger Reserve - Odisha",
     "Mukandra Hills Tiger Reserve - Rajasthan",
     "Mukandra Hills Tiger Reserve - Madhya Pradesh",
     "Mukandra Hills Tiger Reserve - Maharashtra"
    ],
-   "a": 1,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Mukandra Hills Tiger Reserve - Rajasthan is correctly matched."
+   "answer": 1,
+   "explanation": "Only Mukandra Hills Tiger Reserve - Rajasthan is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0102",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "Assassination of John F. Kennedy - 1869",
     "Assassination of John F. Kennedy - 1963",
     "Assassination of John F. Kennedy - 1914",
     "Assassination of John F. Kennedy - 1957"
    ],
-   "a": 1,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Assassination of John F. Kennedy - 1963 is correctly matched."
+   "answer": 1,
+   "explanation": "Only Assassination of John F. Kennedy - 1963 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0103",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "International Students' Day - 4 January",
     "International Students' Day - 1 November",
     "International Students' Day - 13 November",
     "International Students' Day - 17 November"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only International Students' Day - 17 November is correctly matched."
+   "answer": 3,
+   "explanation": "Only International Students' Day - 17 November is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0104",
-   "q": "Touching is a synonym of which of the following words?",
-   "o": [
+   "question": "Touching is a synonym of which of the following words?",
+   "options": [
     "Adversity",
     "Poignant",
     "Efficacy",
     "Arduous"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Touching is a synonym of Poignant."
+   "answer": 1,
+   "explanation": "Touching is a synonym of Poignant.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0105",
-   "q": "Extrinsic is an antonym of which of the following words?",
-   "o": [
+   "question": "Extrinsic is an antonym of which of the following words?",
+   "options": [
     "Haughty",
     "Intrinsic",
     "Fortitude",
     "Imminent"
    ],
-   "a": 1,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Extrinsic is the opposite of Intrinsic."
+   "answer": 1,
+   "explanation": "Extrinsic is the opposite of Intrinsic.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0106",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Fight shy of - To hope for success",
     "Fight shy of - A person without influence",
     "Fight shy of - Noble birth",
     "Fight shy of - Avoid"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Fight shy of - Avoid is correctly matched."
+   "answer": 3,
+   "explanation": "Only Fight shy of - Avoid is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0107",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "A disease that spreads worldwide - Contagious",
     "A disease that spreads worldwide - Pandemic",
     "A disease that spreads worldwide - Biographer",
     "A disease that spreads worldwide - Psychologist"
    ],
-   "a": 1,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only A disease that spreads worldwide - Pandemic is correctly matched."
+   "answer": 1,
+   "explanation": "Only A disease that spreads worldwide - Pandemic is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0108",
-   "q": "Which of the following words is spelt incorrectly?",
-   "o": [
+   "question": "Which of the following words is spelt incorrectly?",
+   "options": [
     "Referance",
     "Marrige",
     "Occassion",
     "Quanity"
    ],
-   "a": 2,
-   "t": "Spellings",
-   "l": 2,
-   "s": "generated",
-   "e": "The incorrect spelling shown is Occassion; the correct form is Occasion."
+   "answer": 2,
+   "explanation": "The incorrect spelling shown is Occassion; the correct form is Occasion.",
+   "topic": "Spellings",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0109",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Criterion - Criteria",
     "Criterion - Brushes",
     "Criterion - Children",
     "Criterion - Zoos"
    ],
-   "a": 0,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Criterion - Criteria is correctly matched."
+   "answer": 0,
+   "explanation": "Only Criterion - Criteria is correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0110",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Slow - More intelligent",
     "Slow - Wiser",
     "Slow - Slower",
     "Slow - Older"
    ],
-   "a": 2,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Slow - Slower is correctly matched."
+   "answer": 2,
+   "explanation": "Only Slow - Slower is correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0111",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "Unicode - Universal character encoding standard",
     "Unicode - Output device that produces hard copies",
     "Unicode - Input device that converts paper documents to digital form",
     "Unicode - Unique address of a device on a network"
    ],
-   "a": 0,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Unicode - Universal character encoding standard is correctly matched."
+   "answer": 0,
+   "explanation": "Only Unicode - Universal character encoding standard is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0112",
-   "q": "Which of the following abbreviations stands for Organization of the Petroleum Exporting Countries?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Organization of the Petroleum Exporting Countries?",
+   "options": [
     "OPEC",
     "NEP",
     "ADB",
     "ICC cricket"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Organization of the Petroleum Exporting Countries is abbreviated as OPEC."
+   "answer": 0,
+   "explanation": "Organization of the Petroleum Exporting Countries is abbreviated as OPEC.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0113",
-   "q": "Santo Domingo is the capital of which country?",
-   "o": [
+   "question": "Santo Domingo is the capital of which country?",
+   "options": [
     "Dominican Republic",
     "Thailand",
     "Guatemala",
     "Vanuatu"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "Santo Domingo is the capital of Dominican Republic."
+   "answer": 0,
+   "explanation": "Santo Domingo is the capital of Dominican Republic.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0114",
-   "q": "What is the atomic number of Lawrencium?",
-   "o": [
+   "question": "What is the atomic number of Lawrencium?",
+   "options": [
     "62",
     "103",
     "65",
     "56"
    ],
-   "a": 1,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "The atomic number of Lawrencium is 103."
+   "answer": 1,
+   "explanation": "The atomic number of Lawrencium is 103.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0115",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Valmiki Tiger Reserve - Jharkhand",
     "Valmiki Tiger Reserve - Bihar",
     "Valmiki Tiger Reserve - Mizoram",
     "Valmiki Tiger Reserve - Madhya Pradesh"
    ],
-   "a": 1,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Valmiki Tiger Reserve - Bihar is correctly matched."
+   "answer": 1,
+   "explanation": "Only Valmiki Tiger Reserve - Bihar is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0116",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "Columbus reached the Americas - 1861",
     "Columbus reached the Americas - 1941",
     "Columbus reached the Americas - 1492",
     "Columbus reached the Americas - 1869"
    ],
-   "a": 2,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Columbus reached the Americas - 1492 is correctly matched."
+   "answer": 2,
+   "explanation": "Only Columbus reached the Americas - 1492 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0117",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "International Students' Day - 17 November",
     "International Students' Day - 22 December",
     "International Students' Day - 4 January",
     "International Students' Day - 20 October"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only International Students' Day - 17 November is correctly matched."
+   "answer": 0,
+   "explanation": "Only International Students' Day - 17 November is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0118",
-   "q": "Secret is a synonym of which of the following words?",
-   "o": [
+   "question": "Secret is a synonym of which of the following words?",
+   "options": [
     "Punctilious",
     "Surreptitious",
     "Immense",
     "Nomadic"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Secret is a synonym of Surreptitious."
+   "answer": 1,
+   "explanation": "Secret is a synonym of Surreptitious.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0119",
-   "q": "Turbulent is an antonym of which of the following words?",
-   "o": [
+   "question": "Turbulent is an antonym of which of the following words?",
+   "options": [
     "Serene",
     "Frugal",
     "Fickle",
     "Deplete"
    ],
-   "a": 0,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Turbulent is the opposite of Serene."
+   "answer": 0,
+   "explanation": "Turbulent is the opposite of Serene.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0120",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Fight shy of - To retract one's statement",
     "Fight shy of - Avoid",
     "Fight shy of - Insincere grief",
     "Fight shy of - Excessive official formality"
    ],
-   "a": 1,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Fight shy of - Avoid is correctly matched."
+   "answer": 1,
+   "explanation": "Only Fight shy of - Avoid is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0121",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "The practice of having many husbands - Polyandry",
     "The practice of having many husbands - Octogenarian",
     "The practice of having many husbands - Insolvent",
     "The practice of having many husbands - Anarchy"
    ],
-   "a": 0,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only The practice of having many husbands - Polyandry is correctly matched."
+   "answer": 0,
+   "explanation": "Only The practice of having many husbands - Polyandry is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0122",
-   "q": "Which of the following words is spelt incorrectly?",
-   "o": [
+   "question": "Which of the following words is spelt incorrectly?",
+   "options": [
     "Cheif",
     "Courgaeous",
     "Cemetry",
     "Bicycal"
    ],
-   "a": 1,
-   "t": "Spellings",
-   "l": 2,
-   "s": "generated",
-   "e": "The incorrect spelling shown is Courgaeous; the correct form is Courageous."
+   "answer": 1,
+   "explanation": "The incorrect spelling shown is Courgaeous; the correct form is Courageous.",
+   "topic": "Spellings",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0123",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Passer-by - Swine",
     "Passer-by - Passers-by",
     "Passer-by - Matrices",
     "Passer-by - Knives"
    ],
-   "a": 1,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Passer-by - Passers-by is correctly matched."
+   "answer": 1,
+   "explanation": "Only Passer-by - Passers-by is correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0124",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Heavy - Stronger",
     "Heavy - Deeper",
     "Heavy - Farther",
     "Heavy - Heavier"
    ],
-   "a": 3,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Heavy - Heavier is correctly matched."
+   "answer": 3,
+   "explanation": "Only Heavy - Heavier is correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0125",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "Interpreter - Program that converts source code into machine code",
     "Interpreter - Temporary storage for frequently used data",
     "Interpreter - Program that executes code line by line",
     "Interpreter - Process of starting a computer"
    ],
-   "a": 2,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Interpreter - Program that executes code line by line is correctly matched."
+   "answer": 2,
+   "explanation": "Only Interpreter - Program that executes code line by line is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0126",
-   "q": "Which of the following abbreviations stands for University Grants Commission?",
-   "o": [
+   "question": "Which of the following abbreviations stands for University Grants Commission?",
+   "options": [
     "SIDBI",
     "NEET",
     "RNA",
     "UGC"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "University Grants Commission is abbreviated as UGC."
+   "answer": 3,
+   "explanation": "University Grants Commission is abbreviated as UGC.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0127",
-   "q": "Kabul is the capital of which country?",
-   "o": [
+   "question": "Kabul is the capital of which country?",
+   "options": [
     "Guatemala",
     "Afghanistan",
     "France",
     "South Sudan"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "Kabul is the capital of Afghanistan."
+   "answer": 1,
+   "explanation": "Kabul is the capital of Afghanistan.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0128",
-   "q": "What is the atomic number of Titanium?",
-   "o": [
+   "question": "What is the atomic number of Titanium?",
+   "options": [
     "42",
     "101",
     "116",
     "22"
    ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "The atomic number of Titanium is 22."
+   "answer": 3,
+   "explanation": "The atomic number of Titanium is 22.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0129",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Valmiki Tiger Reserve - Tamil Nadu",
     "Valmiki Tiger Reserve - Bihar",
     "Valmiki Tiger Reserve - Karnataka",
     "Valmiki Tiger Reserve - Assam"
    ],
-   "a": 1,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Valmiki Tiger Reserve - Bihar is correctly matched."
+   "answer": 1,
+   "explanation": "Only Valmiki Tiger Reserve - Bihar is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0130",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "Columbus reached the Americas - 1848",
     "Columbus reached the Americas - 1912",
     "Columbus reached the Americas - 1492",
     "Columbus reached the Americas - 1957"
    ],
-   "a": 2,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Columbus reached the Americas - 1492 is correctly matched."
+   "answer": 2,
+   "explanation": "Only Columbus reached the Americas - 1492 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0131",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "World Kindness Day - 8 September",
     "World Kindness Day - 13 November",
     "World Kindness Day - 5 September",
     "World Kindness Day - 11 July"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only World Kindness Day - 13 November is correctly matched."
+   "answer": 1,
+   "explanation": "Only World Kindness Day - 13 November is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0132",
-   "q": "Wise is a synonym of which of the following words?",
-   "o": [
+   "question": "Wise is a synonym of which of the following words?",
+   "options": [
     "Somnolent",
     "Sagacious",
     "Reticent",
     "Deplete"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Wise is a synonym of Sagacious."
+   "answer": 1,
+   "explanation": "Wise is a synonym of Sagacious.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0133",
-   "q": "Thrifty is an antonym of which of the following words?",
-   "o": [
+   "question": "Thrifty is an antonym of which of the following words?",
+   "options": [
     "Venerable",
     "Vigilant",
     "Cordial",
     "Prodigal"
    ],
-   "a": 3,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Thrifty is the opposite of Prodigal."
+   "answer": 3,
+   "explanation": "Thrifty is the opposite of Prodigal.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0134",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Rule the roost - Be the dominant person",
     "Rule the roost - With all one's belongings",
     "Rule the roost - An unexpected winner",
     "Rule the roost - Live a miserable life"
    ],
-   "a": 0,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Rule the roost - Be the dominant person is correctly matched."
+   "answer": 0,
+   "explanation": "Only Rule the roost - Be the dominant person is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0135",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "The practice of having many husbands - Polyandry",
     "The practice of having many husbands - Inevitable",
     "The practice of having many husbands - Septuagenarian",
     "The practice of having many husbands - Aquarium"
    ],
-   "a": 0,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only The practice of having many husbands - Polyandry is correctly matched."
+   "answer": 0,
+   "explanation": "Only The practice of having many husbands - Polyandry is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0136",
-   "q": "Which of the following words is spelt incorrectly?",
-   "o": [
+   "question": "Which of the following words is spelt incorrectly?",
+   "options": [
     "Questionaire",
     "Humerous",
     "Correspondance",
     "Withold"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 2,
-   "s": "generated",
-   "e": "The incorrect spelling shown is Questionaire; the correct form is Questionnaire."
+   "answer": 0,
+   "explanation": "The incorrect spelling shown is Questionaire; the correct form is Questionnaire.",
+   "topic": "Spellings",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0137",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Passer-by - Radii",
     "Passer-by - Alumni",
     "Passer-by - Passers-by",
     "Passer-by - Men"
    ],
-   "a": 2,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Passer-by - Passers-by is correctly matched."
+   "answer": 2,
+   "explanation": "Only Passer-by - Passers-by is correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0138",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Heavy - Stronger",
     "Heavy - Heavier",
     "Heavy - Deeper",
     "Heavy - Taller"
    ],
-   "a": 1,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Heavy - Heavier is correctly matched."
+   "answer": 1,
+   "explanation": "Only Heavy - Heavier is correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0139",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "Interpreter - Software that secretly collects information",
     "Interpreter - System that translates domain names into IP addresses",
     "Interpreter - Program that executes code line by line",
     "Interpreter - Tool that finds information on the web"
    ],
-   "a": 2,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Interpreter - Program that executes code line by line is correctly matched."
+   "answer": 2,
+   "explanation": "Only Interpreter - Program that executes code line by line is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0140",
-   "q": "Which of the following abbreviations stands for Pension Fund Regulatory and Development Authority?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Pension Fund Regulatory and Development Authority?",
+   "options": [
     "SAARC",
     "PFRDA",
     "BIS",
     "IIP"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Pension Fund Regulatory and Development Authority is abbreviated as PFRDA."
+   "answer": 1,
+   "explanation": "Pension Fund Regulatory and Development Authority is abbreviated as PFRDA.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0141",
-   "q": "Vilnius is the capital of which country?",
-   "o": [
+   "question": "Vilnius is the capital of which country?",
+   "options": [
     "Lithuania",
     "Belize",
     "Lesotho",
     "Myanmar"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "Vilnius is the capital of Lithuania."
+   "answer": 0,
+   "explanation": "Vilnius is the capital of Lithuania.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0142",
-   "q": "What is the atomic number of Promethium?",
-   "o": [
+   "question": "What is the atomic number of Promethium?",
+   "options": [
     "40",
     "61",
     "18",
     "35"
    ],
-   "a": 1,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "The atomic number of Promethium is 61."
+   "answer": 1,
+   "explanation": "The atomic number of Promethium is 61.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0143",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Intanki National Park - Nagaland",
     "Intanki National Park - Jharkhand",
     "Intanki National Park - Bihar",
     "Intanki National Park - Sikkim"
    ],
-   "a": 0,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Intanki National Park - Nagaland is correctly matched."
+   "answer": 0,
+   "explanation": "Only Intanki National Park - Nagaland is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0144",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "Glorious Revolution in England - 1215",
     "Glorious Revolution in England - 1815",
     "Glorious Revolution in England - 1492",
     "Glorious Revolution in England - 1688"
    ],
-   "a": 3,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Glorious Revolution in England - 1688 is correctly matched."
+   "answer": 3,
+   "explanation": "Only Glorious Revolution in England - 1688 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0145",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "World Kindness Day - 4 January",
     "World Kindness Day - 11 May",
     "World Kindness Day - 13 November",
     "World Kindness Day - first Monday of October"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only World Kindness Day - 13 November is correctly matched."
+   "answer": 2,
+   "explanation": "Only World Kindness Day - 13 November is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0146",
-   "q": "Hinder is a synonym of which of the following words?",
-   "o": [
+   "question": "Hinder is a synonym of which of the following words?",
+   "options": [
     "Tantamount",
     "Enigma",
     "Hamper",
     "Lucrative"
    ],
-   "a": 2,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Hinder is a synonym of Hamper."
+   "answer": 2,
+   "explanation": "Hinder is a synonym of Hamper.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0147",
-   "q": "Avoidable is an antonym of which of the following words?",
-   "o": [
+   "question": "Avoidable is an antonym of which of the following words?",
+   "options": [
     "Ubiquitous",
     "Acquit",
     "Peril",
     "Inevitable"
    ],
-   "a": 3,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Avoidable is the opposite of Inevitable."
+   "answer": 3,
+   "explanation": "Avoidable is the opposite of Inevitable.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0148",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Rule the roost - At the last moment",
     "Rule the roost - A very difficult task",
     "Rule the roost - Be the dominant person",
     "Rule the roost - Make money selfishly"
    ],
-   "a": 2,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Rule the roost - Be the dominant person is correctly matched."
+   "answer": 2,
+   "explanation": "Only Rule the roost - Be the dominant person is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0149",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "One who never makes a mistake - Psychologist",
     "One who never makes a mistake - Polyandry",
     "One who never makes a mistake - Infallible",
     "One who never makes a mistake - Mortuary"
    ],
-   "a": 2,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only One who never makes a mistake - Infallible is correctly matched."
+   "answer": 2,
+   "explanation": "Only One who never makes a mistake - Infallible is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0150",
-   "q": "Which of the following words is spelt incorrectly?",
-   "o": [
+   "question": "Which of the following words is spelt incorrectly?",
+   "options": [
     "Unforseen",
     "Sincerly",
     "Eigth",
     "Agressive"
    ],
-   "a": 2,
-   "t": "Spellings",
-   "l": 2,
-   "s": "generated",
-   "e": "The incorrect spelling shown is Eigth; the correct form is Eighth."
+   "answer": 2,
+   "explanation": "The incorrect spelling shown is Eigth; the correct form is Eighth.",
+   "topic": "Spellings",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0151",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "City - Criteria",
     "City - Cities",
     "City - Radii",
     "City - Bases"
    ],
-   "a": 1,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only City - Cities is correctly matched."
+   "answer": 1,
+   "explanation": "Only City - Cities is correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0152",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Kind - Busier",
     "Kind - More",
     "Kind - Faster",
     "Kind - Kinder"
    ],
-   "a": 3,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Kind - Kinder is correctly matched."
+   "answer": 3,
+   "explanation": "Only Kind - Kinder is correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0153",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "URL - Input device that converts paper documents to digital form",
     "URL - Input device used for typing",
     "URL - Address of a resource on the internet",
     "URL - L1, L2 and L3 are cache levels"
    ],
-   "a": 2,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only URL - Address of a resource on the internet is correctly matched."
+   "answer": 2,
+   "explanation": "Only URL - Address of a resource on the internet is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0154",
-   "q": "Which of the following abbreviations stands for Computed Tomography?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Computed Tomography?",
+   "options": [
     "PNB",
     "CT",
     "MGNREGS",
     "SAI"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Computed Tomography is abbreviated as CT."
+   "answer": 1,
+   "explanation": "Computed Tomography is abbreviated as CT.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0155",
-   "q": "Caracas is the capital of which country?",
-   "o": [
+   "question": "Caracas is the capital of which country?",
+   "options": [
     "Estonia",
     "Venezuela",
     "Chad",
     "Malaysia"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "Caracas is the capital of Venezuela."
+   "answer": 1,
+   "explanation": "Caracas is the capital of Venezuela.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0156",
-   "q": "What is the atomic number of Thallium?",
-   "o": [
+   "question": "What is the atomic number of Thallium?",
+   "options": [
     "116",
     "101",
     "81",
     "93"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "The atomic number of Thallium is 81."
+   "answer": 2,
+   "explanation": "The atomic number of Thallium is 81.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0157",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Intanki National Park - Uttar Pradesh",
     "Intanki National Park - Assam",
     "Intanki National Park - Nagaland",
     "Intanki National Park - Bihar"
    ],
-   "a": 2,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Intanki National Park - Nagaland is correctly matched."
+   "answer": 2,
+   "explanation": "Only Intanki National Park - Nagaland is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0158",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "Glorious Revolution in England - 1992",
     "Glorious Revolution in England - 2015",
     "Glorious Revolution in England - 1815",
     "Glorious Revolution in England - 1688"
    ],
-   "a": 3,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Glorious Revolution in England - 1688 is correctly matched."
+   "answer": 3,
+   "explanation": "Only Glorious Revolution in England - 1688 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0159",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "World Animal Day - third Thursday of November",
     "World Animal Day - 31 May",
     "World Animal Day - 4 October",
     "World Animal Day - 14 December"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only World Animal Day - 4 October is correctly matched."
+   "answer": 2,
+   "explanation": "Only World Animal Day - 4 October is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0160",
-   "q": "Unintentional is a synonym of which of the following words?",
-   "o": [
+   "question": "Unintentional is a synonym of which of the following words?",
+   "options": [
     "Inadvertent",
     "Futile",
     "Adamant",
     "Deficient"
    ],
-   "a": 0,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Unintentional is a synonym of Inadvertent."
+   "answer": 0,
+   "explanation": "Unintentional is a synonym of Inadvertent.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0161",
-   "q": "Distant is an antonym of which of the following words?",
-   "o": [
+   "question": "Distant is an antonym of which of the following words?",
+   "options": [
     "Imminent",
     "Capricious",
     "Deluge",
     "Hypocrisy"
    ],
-   "a": 0,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Distant is the opposite of Imminent."
+   "answer": 0,
+   "explanation": "Distant is the opposite of Imminent.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0162",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Bite the dust - With all one's belongings",
     "Bite the dust - Fail or be defeated",
     "Bite the dust - Under suspicion",
     "Bite the dust - A person of no substance"
    ],
-   "a": 1,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Bite the dust - Fail or be defeated is correctly matched."
+   "answer": 1,
+   "explanation": "Only Bite the dust - Fail or be defeated is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0163",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "One who never makes a mistake - Somnambulist",
     "One who never makes a mistake - Antidote",
     "One who never makes a mistake - Novice",
     "One who never makes a mistake - Infallible"
    ],
-   "a": 3,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only One who never makes a mistake - Infallible is correctly matched."
+   "answer": 3,
+   "explanation": "Only One who never makes a mistake - Infallible is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0164",
-   "q": "Which of the following words is spelt incorrectly?",
-   "o": [
+   "question": "Which of the following words is spelt incorrectly?",
+   "options": [
     "Arguement",
     "Goverment",
     "Concieted",
     "Freind"
    ],
-   "a": 2,
-   "t": "Spellings",
-   "l": 2,
-   "s": "generated",
-   "e": "The incorrect spelling shown is Concieted; the correct form is Conceited."
+   "answer": 2,
+   "explanation": "The incorrect spelling shown is Concieted; the correct form is Conceited.",
+   "topic": "Spellings",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0165",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "City - Cities",
     "City - Babies",
     "City - Roofs",
     "City - Criteria"
    ],
-   "a": 0,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only City - Cities is correctly matched."
+   "answer": 0,
+   "explanation": "Only City - Cities is correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0166",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Kind - Heavier",
     "Kind - Worse",
     "Kind - Kinder",
     "Kind - More"
    ],
-   "a": 2,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Kind - Kinder is correctly matched."
+   "answer": 2,
+   "explanation": "Only Kind - Kinder is correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0167",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "URL - High level general purpose programming language",
     "URL - Input device that captures sound",
     "URL - Copy of data kept for recovery",
     "URL - Address of a resource on the internet"
    ],
-   "a": 3,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only URL - Address of a resource on the internet is correctly matched."
+   "answer": 3,
+   "explanation": "Only URL - Address of a resource on the internet is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0168",
-   "q": "Which of the following abbreviations stands for International Union for Conservation of Nature?",
-   "o": [
+   "question": "Which of the following abbreviations stands for International Union for Conservation of Nature?",
+   "options": [
     "NAV",
     "IUCN",
     "NEP",
     "IIT"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "International Union for Conservation of Nature is abbreviated as IUCN."
+   "answer": 1,
+   "explanation": "International Union for Conservation of Nature is abbreviated as IUCN.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0169",
-   "q": "Bishkek is the capital of which country?",
-   "o": [
+   "question": "Bishkek is the capital of which country?",
+   "options": [
     "Kyrgyzstan",
     "Estonia",
     "Bahamas",
     "Haiti"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "Bishkek is the capital of Kyrgyzstan."
+   "answer": 0,
+   "explanation": "Bishkek is the capital of Kyrgyzstan.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0170",
-   "q": "What is the atomic number of Americium?",
-   "o": [
+   "question": "What is the atomic number of Americium?",
+   "options": [
     "104",
     "81",
     "76",
     "95"
    ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "The atomic number of Americium is 95."
+   "answer": 3,
+   "explanation": "The atomic number of Americium is 95.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0171",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Madhav Tiger Reserve - Maharashtra",
     "Madhav Tiger Reserve - Madhya Pradesh",
     "Madhav Tiger Reserve - Gujarat",
     "Madhav Tiger Reserve - Karnataka"
    ],
-   "a": 1,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Madhav Tiger Reserve - Madhya Pradesh is correctly matched."
+   "answer": 1,
+   "explanation": "Only Madhav Tiger Reserve - Madhya Pradesh is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0172",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "Establishment of the East India Company - 1215",
     "Establishment of the East India Company - 1969",
     "Establishment of the East India Company - 1600",
     "Establishment of the East India Company - 1963"
    ],
-   "a": 2,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Establishment of the East India Company - 1600 is correctly matched."
+   "answer": 2,
+   "explanation": "Only Establishment of the East India Company - 1600 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0173",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "World Animal Day - 21 November",
     "World Animal Day - 2 October",
     "World Animal Day - 4 October",
     "World Animal Day - 4 July"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only World Animal Day - 4 October is correctly matched."
+   "answer": 2,
+   "explanation": "Only World Animal Day - 4 October is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0174",
-   "q": "Relevant is a synonym of which of the following words?",
-   "o": [
+   "question": "Relevant is a synonym of which of the following words?",
+   "options": [
     "Pertinent",
     "Reciprocal",
     "Formidable",
     "Appease"
    ],
-   "a": 0,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Relevant is a synonym of Pertinent."
+   "answer": 0,
+   "explanation": "Relevant is a synonym of Pertinent.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0175",
-   "q": "Intensify is an antonym of which of the following words?",
-   "o": [
+   "question": "Intensify is an antonym of which of the following words?",
+   "options": [
     "Fluctuate",
     "Vindicate",
     "Sporadic",
     "Mitigate"
    ],
-   "a": 3,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Intensify is the opposite of Mitigate."
+   "answer": 3,
+   "explanation": "Intensify is the opposite of Mitigate.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0176",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Bite the dust - Unfair",
     "Bite the dust - To shift responsibility",
     "Bite the dust - A very difficult task",
     "Bite the dust - Fail or be defeated"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Bite the dust - Fail or be defeated is correctly matched."
+   "answer": 3,
+   "explanation": "Only Bite the dust - Fail or be defeated is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0177",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "A place where dead bodies are kept - Mint",
     "A place where dead bodies are kept - Teetotaller",
     "A place where dead bodies are kept - Obsolete",
     "A place where dead bodies are kept - Mortuary"
    ],
-   "a": 3,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only A place where dead bodies are kept - Mortuary is correctly matched."
+   "answer": 3,
+   "explanation": "Only A place where dead bodies are kept - Mortuary is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0178",
-   "q": "Which of the following words is spelt incorrectly?",
-   "o": [
+   "question": "Which of the following words is spelt incorrectly?",
+   "options": [
     "Wenesday",
     "Hereditory",
     "Amatuer",
     "Freind"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 2,
-   "s": "generated",
-   "e": "The incorrect spelling shown is Freind; the correct form is Friend."
+   "answer": 3,
+   "explanation": "The incorrect spelling shown is Freind; the correct form is Friend.",
+   "topic": "Spellings",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0179",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Index - Armies",
     "Index - Indices",
     "Index - Axes",
     "Index - Churches"
    ],
-   "a": 1,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Index - Indices is correctly matched."
+   "answer": 1,
+   "explanation": "Only Index - Indices is correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0180",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Intelligent - Kinder",
     "Intelligent - More intelligent",
     "Intelligent - Weaker",
     "Intelligent - More"
    ],
-   "a": 1,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Intelligent - More intelligent is correctly matched."
+   "answer": 1,
+   "explanation": "Only Intelligent - More intelligent is correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0181",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "Flowchart - Software that detects and removes malicious programs",
     "Flowchart - Malicious program that spreads on its own",
     "Flowchart - Output device that displays visuals",
     "Flowchart - Diagram of the steps of an algorithm"
    ],
-   "a": 3,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Flowchart - Diagram of the steps of an algorithm is correctly matched."
+   "answer": 3,
+   "explanation": "Only Flowchart - Diagram of the steps of an algorithm is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0182",
-   "q": "Which of the following abbreviations stands for United Nations Environment Programme?",
-   "o": [
+   "question": "Which of the following abbreviations stands for United Nations Environment Programme?",
+   "options": [
     "ISIN",
     "CVC",
     "EMF",
     "UNEP"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "United Nations Environment Programme is abbreviated as UNEP."
+   "answer": 3,
+   "explanation": "United Nations Environment Programme is abbreviated as UNEP.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0183",
-   "q": "Nouakchott is the capital of which country?",
-   "o": [
+   "question": "Nouakchott is the capital of which country?",
+   "options": [
     "Cameroon",
     "Czech Republic",
     "Norway",
     "Mauritania"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "Nouakchott is the capital of Mauritania."
+   "answer": 3,
+   "explanation": "Nouakchott is the capital of Mauritania.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0184",
-   "q": "What is the atomic number of Polonium?",
-   "o": [
+   "question": "What is the atomic number of Polonium?",
+   "options": [
     "98",
     "27",
     "84",
     "69"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "The atomic number of Polonium is 84."
+   "answer": 2,
+   "explanation": "The atomic number of Polonium is 84.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0185",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Madhav Tiger Reserve - Odisha",
     "Madhav Tiger Reserve - Chhattisgarh",
     "Madhav Tiger Reserve - Maharashtra",
     "Madhav Tiger Reserve - Madhya Pradesh"
    ],
-   "a": 3,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Madhav Tiger Reserve - Madhya Pradesh is correctly matched."
+   "answer": 3,
+   "explanation": "Only Madhav Tiger Reserve - Madhya Pradesh is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0186",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "Establishment of the East India Company - 2020",
     "Establishment of the East India Company - 1498",
     "Establishment of the East India Company - 1948",
     "Establishment of the East India Company - 1600"
    ],
-   "a": 3,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Establishment of the East India Company - 1600 is correctly matched."
+   "answer": 3,
+   "explanation": "Only Establishment of the East India Company - 1600 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0187",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "World Health Day - 7 April",
     "World Health Day - 13 February",
     "World Health Day - 9 December",
     "World Health Day - 5 June"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only World Health Day - 7 April is correctly matched."
+   "answer": 0,
+   "explanation": "Only World Health Day - 7 April is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0188",
-   "q": "Abundant is a synonym of which of the following words?",
-   "o": [
+   "question": "Abundant is a synonym of which of the following words?",
+   "options": [
     "Homogeneous",
     "Facilitate",
     "Demise",
     "Profuse"
    ],
-   "a": 3,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Abundant is a synonym of Profuse."
+   "answer": 3,
+   "explanation": "Abundant is a synonym of Profuse.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0189",
-   "q": "Careless is an antonym of which of the following words?",
-   "o": [
+   "question": "Careless is an antonym of which of the following words?",
+   "options": [
     "Hazardous",
     "Ancient",
     "Vigilant",
     "Brevity"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Careless is the opposite of Vigilant."
+   "answer": 2,
+   "explanation": "Careless is the opposite of Vigilant.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0190",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "An apple of discord - A hint of future events",
     "An apple of discord - In a straight line",
     "An apple of discord - A short-lived sensation",
     "An apple of discord - A cause of quarrel"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only An apple of discord - A cause of quarrel is correctly matched."
+   "answer": 3,
+   "explanation": "Only An apple of discord - A cause of quarrel is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0191",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "A place where dead bodies are kept - Mortuary",
     "A place where dead bodies are kept - Antidote",
     "A place where dead bodies are kept - Recluse",
     "A place where dead bodies are kept - Aristocracy"
    ],
-   "a": 0,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only A place where dead bodies are kept - Mortuary is correctly matched."
+   "answer": 0,
+   "explanation": "Only A place where dead bodies are kept - Mortuary is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0192",
-   "q": "Which of the following words is spelt incorrectly?",
-   "o": [
+   "question": "Which of the following words is spelt incorrectly?",
+   "options": [
     "Superintendant",
     "Sincerly",
     "Aggrevate",
     "Wether"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 2,
-   "s": "generated",
-   "e": "The incorrect spelling shown is Wether; the correct form is Whether."
+   "answer": 3,
+   "explanation": "The incorrect spelling shown is Wether; the correct form is Whether.",
+   "topic": "Spellings",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0193",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Index - Lives",
     "Index - Indices",
     "Index - Cacti",
     "Index - Fish"
    ],
-   "a": 1,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Index - Indices is correctly matched."
+   "answer": 1,
+   "explanation": "Only Index - Indices is correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0194",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Intelligent - Busier",
     "Intelligent - Nobler",
     "Intelligent - Darker",
     "Intelligent - More intelligent"
    ],
-   "a": 3,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Intelligent - More intelligent is correctly matched."
+   "answer": 3,
+   "explanation": "Only Intelligent - More intelligent is correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0195",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "Flowchart - Informal description of a program",
     "Flowchart - Diagram of the steps of an algorithm",
     "Flowchart - Malicious program that spreads on its own",
     "Flowchart - Network covering a small area"
    ],
-   "a": 1,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Flowchart - Diagram of the steps of an algorithm is correctly matched."
+   "answer": 1,
+   "explanation": "Only Flowchart - Diagram of the steps of an algorithm is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0196",
-   "q": "Which of the following abbreviations stands for Liquid Crystal Display?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Liquid Crystal Display?",
+   "options": [
     "ISI",
     "LCD",
     "NDB",
     "SARFAESI"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Liquid Crystal Display is abbreviated as LCD."
+   "answer": 1,
+   "explanation": "Liquid Crystal Display is abbreviated as LCD.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0197",
-   "q": "Niamey is the capital of which country?",
-   "o": [
+   "question": "Niamey is the capital of which country?",
+   "options": [
     "Bosnia and Herzegovina",
     "Niger",
     "Argentina",
     "Norway"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "Niamey is the capital of Niger."
+   "answer": 1,
+   "explanation": "Niamey is the capital of Niger.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0198",
-   "q": "What is the atomic number of Chromium?",
-   "o": [
+   "question": "What is the atomic number of Chromium?",
+   "options": [
     "109",
     "24",
     "70",
     "7"
    ],
-   "a": 1,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "The atomic number of Chromium is 24."
+   "answer": 1,
+   "explanation": "The atomic number of Chromium is 24.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0199",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Namdapha National Park - Karnataka",
     "Namdapha National Park - Chhattisgarh",
     "Namdapha National Park - Rajasthan",
     "Namdapha National Park - Arunachal Pradesh"
    ],
-   "a": 3,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Namdapha National Park - Arunachal Pradesh is correctly matched."
+   "answer": 3,
+   "explanation": "Only Namdapha National Park - Arunachal Pradesh is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0200",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "Oil crisis - 1973",
     "Oil crisis - 1776",
     "Oil crisis - 2011",
     "Oil crisis - 1944"
    ],
-   "a": 0,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Oil crisis - 1973 is correctly matched."
+   "answer": 0,
+   "explanation": "Only Oil crisis - 1973 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0201",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "World Health Day - 28 July",
     "World Health Day - 21 November",
     "World Health Day - 24 January",
     "World Health Day - 7 April"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only World Health Day - 7 April is correctly matched."
+   "answer": 3,
+   "explanation": "Only World Health Day - 7 April is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0202",
-   "q": "Wicked is a synonym of which of the following words?",
-   "o": [
+   "question": "Wicked is a synonym of which of the following words?",
+   "options": [
     "Philanthropy",
     "Nefarious",
     "Connoisseur",
     "Refute"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Wicked is a synonym of Nefarious."
+   "answer": 1,
+   "explanation": "Wicked is a synonym of Nefarious.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0203",
-   "q": "Depressed is an antonym of which of the following words?",
-   "o": [
+   "question": "Depressed is an antonym of which of the following words?",
+   "options": [
     "Deplete",
     "Scrupulous",
     "Elated",
     "Frugal"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Depressed is the opposite of Elated."
+   "answer": 2,
+   "explanation": "Depressed is the opposite of Elated.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0204",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "An apple of discord - Acknowledge a rival's merits",
     "An apple of discord - Deceive",
     "An apple of discord - Without wasting words",
     "An apple of discord - A cause of quarrel"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only An apple of discord - A cause of quarrel is correctly matched."
+   "answer": 3,
+   "explanation": "Only An apple of discord - A cause of quarrel is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0205",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Plants that live for many years - Homicide",
     "Plants that live for many years - Perennials",
     "Plants that live for many years - Anatomy",
     "Plants that live for many years - Dockyard"
    ],
-   "a": 1,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Plants that live for many years - Perennials is correctly matched."
+   "answer": 1,
+   "explanation": "Only Plants that live for many years - Perennials is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0206",
-   "q": "Which of the following words is spelt incorrectly?",
-   "o": [
+   "question": "Which of the following words is spelt incorrectly?",
+   "options": [
     "Hereditory",
     "Bureu",
     "Guidence",
     "Jewelery"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 2,
-   "s": "generated",
-   "e": "The incorrect spelling shown is Jewelery; the correct form is Jewellery."
+   "answer": 3,
+   "explanation": "The incorrect spelling shown is Jewelery; the correct form is Jewellery.",
+   "topic": "Spellings",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0207",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Brother - Stimuli",
     "Brother - Brothers",
     "Brother - Tomatoes",
     "Brother - Fish"
    ],
-   "a": 1,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Brother - Brothers is correctly matched."
+   "answer": 1,
+   "explanation": "Only Brother - Brothers is correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0208",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Much - Finer",
     "Much - Kinder",
     "Much - More",
     "Much - More difficult"
    ],
-   "a": 2,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Much - More is correctly matched."
+   "answer": 2,
+   "explanation": "Only Much - More is correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0209",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "HTTPS - Software that manages databases",
     "HTTPS - Secure version of the web transfer protocol",
     "HTTPS - Protocol used to transfer web pages",
     "HTTPS - Output device that produces sound"
    ],
-   "a": 1,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only HTTPS - Secure version of the web transfer protocol is correctly matched."
+   "answer": 1,
+   "explanation": "Only HTTPS - Secure version of the web transfer protocol is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0210",
-   "q": "Which of the following abbreviations stands for Food and Agriculture Organization?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Food and Agriculture Organization?",
+   "options": [
     "ESA",
     "FAO",
     "PMJDY",
     "FRBM"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Food and Agriculture Organization is abbreviated as FAO."
+   "answer": 1,
+   "explanation": "Food and Agriculture Organization is abbreviated as FAO.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0211",
-   "q": "Pyongyang is the capital of which country?",
-   "o": [
+   "question": "Pyongyang is the capital of which country?",
+   "options": [
     "North Korea",
     "Mauritius",
     "Togo",
     "Eritrea"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "Pyongyang is the capital of North Korea."
+   "answer": 0,
+   "explanation": "Pyongyang is the capital of North Korea.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0212",
-   "q": "What is the atomic number of Potassium?",
-   "o": [
+   "question": "What is the atomic number of Potassium?",
+   "options": [
     "19",
     "75",
     "100",
     "71"
    ],
-   "a": 0,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "The atomic number of Potassium is 19."
+   "answer": 0,
+   "explanation": "The atomic number of Potassium is 19.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0213",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Namdapha National Park - Bihar",
     "Namdapha National Park - Arunachal Pradesh",
     "Namdapha National Park - Assam",
     "Namdapha National Park - Mizoram"
    ],
-   "a": 1,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Namdapha National Park - Arunachal Pradesh is correctly matched."
+   "answer": 1,
+   "explanation": "Only Namdapha National Park - Arunachal Pradesh is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0214",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "Oil crisis - 1945",
     "Oil crisis - 2015",
     "Oil crisis - 1973",
     "Oil crisis - 1215"
    ],
-   "a": 2,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Oil crisis - 1973 is correctly matched."
+   "answer": 2,
+   "explanation": "Only Oil crisis - 1973 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0215",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "International Asteroid Day - 24 October",
     "International Asteroid Day - 28 July",
     "International Asteroid Day - 30 June",
     "International Asteroid Day - 1 December"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only International Asteroid Day - 30 June is correctly matched."
+   "answer": 2,
+   "explanation": "Only International Asteroid Day - 30 June is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0216",
-   "q": "Belittle is a synonym of which of the following words?",
-   "o": [
+   "question": "Belittle is a synonym of which of the following words?",
+   "options": [
     "Disparage",
     "Diligent",
     "Appalling",
     "Homogeneous"
    ],
-   "a": 0,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Belittle is a synonym of Disparage."
+   "answer": 0,
+   "explanation": "Belittle is a synonym of Disparage.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0217",
-   "q": "Condemn is an antonym of which of the following words?",
-   "o": [
+   "question": "Condemn is an antonym of which of the following words?",
+   "options": [
     "Opulent",
     "Frugal",
     "Condone",
     "Destitute"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Condemn is the opposite of Condone."
+   "answer": 2,
+   "explanation": "Condemn is the opposite of Condone.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0218",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Chicken-hearted - A person of no substance",
     "Chicken-hearted - Cowardly",
     "Chicken-hearted - Ill feeling",
     "Chicken-hearted - A narrow escape"
    ],
-   "a": 1,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Chicken-hearted - Cowardly is correctly matched."
+   "answer": 1,
+   "explanation": "Only Chicken-hearted - Cowardly is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0219",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Plants that live for many years - Ascetic",
     "Plants that live for many years - Dialogue",
     "Plants that live for many years - Perennials",
     "Plants that live for many years - Ephemeral"
    ],
-   "a": 2,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Plants that live for many years - Perennials is correctly matched."
+   "answer": 2,
+   "explanation": "Only Plants that live for many years - Perennials is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0220",
-   "q": "Which of the following words is spelt incorrectly?",
-   "o": [
+   "question": "Which of the following words is spelt incorrectly?",
+   "options": [
     "Battalian",
     "Harrass",
     "Tommorow",
     "Oportunity"
    ],
-   "a": 1,
-   "t": "Spellings",
-   "l": 2,
-   "s": "generated",
-   "e": "The incorrect spelling shown is Harrass; the correct form is Harass."
+   "answer": 1,
+   "explanation": "The incorrect spelling shown is Harrass; the correct form is Harass.",
+   "topic": "Spellings",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0221",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Brother - Thieves",
     "Brother - Halves",
     "Brother - Brothers",
     "Brother - Analyses"
    ],
-   "a": 2,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Brother - Brothers is correctly matched."
+   "answer": 2,
+   "explanation": "Only Brother - Brothers is correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0222",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Much - Higher",
     "Much - Smaller",
     "Much - Darker",
     "Much - More"
    ],
-   "a": 3,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Much - More is correctly matched."
+   "answer": 3,
+   "explanation": "Only Much - More is correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0223",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "HTTPS - Restarting a computer",
     "HTTPS - Secure version of the web transfer protocol",
     "HTTPS - Device that connects devices inside a network",
     "HTTPS - Wireless local area networking technology"
    ],
-   "a": 1,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only HTTPS - Secure version of the web transfer protocol is correctly matched."
+   "answer": 1,
+   "explanation": "Only HTTPS - Secure version of the web transfer protocol is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0224",
-   "q": "Which of the following abbreviations stands for Shanghai Cooperation Organisation?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Shanghai Cooperation Organisation?",
+   "options": [
     "RRB",
     "SCO",
     "LVM3",
     "ORS"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Shanghai Cooperation Organisation is abbreviated as SCO."
+   "answer": 1,
+   "explanation": "Shanghai Cooperation Organisation is abbreviated as SCO.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0225",
-   "q": "Dhaka is the capital of which country?",
-   "o": [
+   "question": "Dhaka is the capital of which country?",
+   "options": [
     "China",
     "Cyprus",
     "Bangladesh",
     "Netherlands"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "Dhaka is the capital of Bangladesh."
+   "answer": 2,
+   "explanation": "Dhaka is the capital of Bangladesh.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0226",
-   "q": "What is the atomic number of Rutherfordium?",
-   "o": [
+   "question": "What is the atomic number of Rutherfordium?",
+   "options": [
     "34",
     "70",
     "104",
     "71"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "The atomic number of Rutherfordium is 104."
+   "answer": 2,
+   "explanation": "The atomic number of Rutherfordium is 104.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0227",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Keoladeo National Park - Kerala",
     "Keoladeo National Park - Karnataka",
     "Keoladeo National Park - Uttarakhand",
     "Keoladeo National Park - Rajasthan"
    ],
-   "a": 3,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Keoladeo National Park - Rajasthan is correctly matched."
+   "answer": 3,
+   "explanation": "Only Keoladeo National Park - Rajasthan is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0228",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "Chernobyl disaster - 1986",
     "Chernobyl disaster - 1600",
     "Chernobyl disaster - 1961",
     "Chernobyl disaster - 1979"
    ],
-   "a": 0,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Chernobyl disaster - 1986 is correctly matched."
+   "answer": 0,
+   "explanation": "Only Chernobyl disaster - 1986 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0229",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "International Asteroid Day - 20 May",
     "International Asteroid Day - 30 June",
     "International Asteroid Day - 27 September",
     "International Asteroid Day - 14 November"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only International Asteroid Day - 30 June is correctly matched."
+   "answer": 1,
+   "explanation": "Only International Asteroid Day - 30 June is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0230",
-   "q": "Inactive is a synonym of which of the following words?",
-   "o": [
+   "question": "Inactive is a synonym of which of the following words?",
+   "options": [
     "Euphoria",
     "Foster",
     "Stagnant",
     "Fastidious"
    ],
-   "a": 2,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Inactive is a synonym of Stagnant."
+   "answer": 2,
+   "explanation": "Inactive is a synonym of Stagnant.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0231",
-   "q": "Virtuous is an antonym of which of the following words?",
-   "o": [
+   "question": "Virtuous is an antonym of which of the following words?",
+   "options": [
     "Curtail",
     "Frugal",
     "Exacerbate",
     "Nefarious"
    ],
-   "a": 3,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Virtuous is the opposite of Nefarious."
+   "answer": 3,
+   "explanation": "Virtuous is the opposite of Nefarious.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0232",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Chicken-hearted - Fail to have the intended effect",
     "Chicken-hearted - A person of no substance",
     "Chicken-hearted - Noble birth",
     "Chicken-hearted - Cowardly"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Chicken-hearted - Cowardly is correctly matched."
+   "answer": 3,
+   "explanation": "Only Chicken-hearted - Cowardly is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0233",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "One who studies population - Insolvent",
     "One who studies population - Blacksmith",
     "One who studies population - Demographer",
     "One who studies population - Atheist"
    ],
-   "a": 2,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only One who studies population - Demographer is correctly matched."
+   "answer": 2,
+   "explanation": "Only One who studies population - Demographer is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0234",
-   "q": "Which of the following words is spelt incorrectly?",
-   "o": [
+   "question": "Which of the following words is spelt incorrectly?",
+   "options": [
     "Courgaeous",
     "Sincerly",
     "Hunderd",
     "Ambasador"
    ],
-   "a": 1,
-   "t": "Spellings",
-   "l": 2,
-   "s": "generated",
-   "e": "The incorrect spelling shown is Sincerly; the correct form is Sincerely."
+   "answer": 1,
+   "explanation": "The incorrect spelling shown is Sincerly; the correct form is Sincerely.",
+   "topic": "Spellings",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0235",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Radius - Series",
     "Radius - Radii",
     "Radius - Feet",
     "Radius - Babies"
    ],
-   "a": 1,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Radius - Radii is correctly matched."
+   "answer": 1,
+   "explanation": "Only Radius - Radii is correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0236",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Rich - Richer",
     "Rich - More",
     "Rich - Worse",
     "Rich - Nobler"
    ],
-   "a": 0,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Rich - Richer is correctly matched."
+   "answer": 0,
+   "explanation": "Only Rich - Richer is correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0237",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "Ransomware - Security system that filters network traffic",
     "Ransomware - Malware that locks files and demands payment",
     "Ransomware - Unique address of a device on a network",
     "Ransomware - Very fast memory close to the CPU"
    ],
-   "a": 1,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ransomware - Malware that locks files and demands payment is correctly matched."
+   "answer": 1,
+   "explanation": "Only Ransomware - Malware that locks files and demands payment is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0238",
-   "q": "Which of the following abbreviations stands for National Electronic Funds Transfer?",
-   "o": [
+   "question": "Which of the following abbreviations stands for National Electronic Funds Transfer?",
+   "options": [
     "CAG",
     "IMF",
     "NEFT",
     "PMUY"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "National Electronic Funds Transfer is abbreviated as NEFT."
+   "answer": 2,
+   "explanation": "National Electronic Funds Transfer is abbreviated as NEFT.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0239",
-   "q": "Bandar Seri Begawan is the capital of which country?",
-   "o": [
+   "question": "Bandar Seri Begawan is the capital of which country?",
+   "options": [
     "Brunei",
     "Kenya",
     "Sweden",
     "Czech Republic"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "Bandar Seri Begawan is the capital of Brunei."
+   "answer": 0,
+   "explanation": "Bandar Seri Begawan is the capital of Brunei.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0240",
-   "q": "What is the atomic number of Dysprosium?",
-   "o": [
+   "question": "What is the atomic number of Dysprosium?",
+   "options": [
     "117",
     "105",
     "66",
     "49"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "The atomic number of Dysprosium is 66."
+   "answer": 2,
+   "explanation": "The atomic number of Dysprosium is 66.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0241",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Keoladeo National Park - Rajasthan",
     "Keoladeo National Park - Bihar",
     "Keoladeo National Park - Assam",
     "Keoladeo National Park - Uttarakhand"
    ],
-   "a": 0,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Keoladeo National Park - Rajasthan is correctly matched."
+   "answer": 0,
+   "explanation": "Only Keoladeo National Park - Rajasthan is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0242",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "Chernobyl disaster - 1933",
     "Chernobyl disaster - 1861",
     "Chernobyl disaster - 1869",
     "Chernobyl disaster - 1986"
    ],
-   "a": 3,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Chernobyl disaster - 1986 is correctly matched."
+   "answer": 3,
+   "explanation": "Only Chernobyl disaster - 1986 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0243",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "Republic Day (India) - 10 January",
     "Republic Day (India) - 26 January",
     "Republic Day (India) - 9 October",
     "Republic Day (India) - third Thursday of November"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Republic Day (India) - 26 January is correctly matched."
+   "answer": 1,
+   "explanation": "Only Republic Day (India) - 26 January is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0244",
-   "q": "Relentless is a synonym of which of the following words?",
-   "o": [
+   "question": "Relentless is a synonym of which of the following words?",
+   "options": [
     "Fickle",
     "Inexorable",
     "Reverence",
     "Demise"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Relentless is a synonym of Inexorable."
+   "answer": 1,
+   "explanation": "Relentless is a synonym of Inexorable.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0245",
-   "q": "Careless is an antonym of which of the following words?",
-   "o": [
+   "question": "Careless is an antonym of which of the following words?",
+   "options": [
     "Wary",
     "Explicit",
     "Paramount",
     "Incessant"
    ],
-   "a": 0,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Careless is the opposite of Wary."
+   "answer": 0,
+   "explanation": "Careless is the opposite of Wary.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0246",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Cat's paw - A person used by another",
     "Cat's paw - Something easily understood",
     "Cat's paw - A feeling of resentment",
     "Cat's paw - A decision cannot be changed"
    ],
-   "a": 0,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Cat's paw - A person used by another is correctly matched."
+   "answer": 0,
+   "explanation": "Only Cat's paw - A person used by another is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0247",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "One who studies population - Polyglot",
     "One who studies population - Demographer",
     "One who studies population - Monologue",
     "One who studies population - Hermit"
    ],
-   "a": 1,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only One who studies population - Demographer is correctly matched."
+   "answer": 1,
+   "explanation": "Only One who studies population - Demographer is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0248",
-   "q": "Which of the following words is spelt incorrectly?",
-   "o": [
+   "question": "Which of the following words is spelt incorrectly?",
+   "options": [
     "Cemetry",
     "Achievment",
     "Suprise",
     "Wenesday"
    ],
-   "a": 2,
-   "t": "Spellings",
-   "l": 2,
-   "s": "generated",
-   "e": "The incorrect spelling shown is Suprise; the correct form is Surprise."
+   "answer": 2,
+   "explanation": "The incorrect spelling shown is Suprise; the correct form is Surprise.",
+   "topic": "Spellings",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0249",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Radius - Radii",
     "Radius - Thieves",
     "Radius - Bacteria",
     "Radius - Wolves"
    ],
-   "a": 0,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Radius - Radii is correctly matched."
+   "answer": 0,
+   "explanation": "Only Radius - Radii is correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0250",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Rich - Brighter",
     "Rich - Richer",
     "Rich - Slower",
     "Rich - Happier"
    ],
-   "a": 1,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Rich - Richer is correctly matched."
+   "answer": 1,
+   "explanation": "Only Rich - Richer is correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0251",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "Ransomware - Software that detects and removes malicious programs",
     "Ransomware - Running several tasks at the same time",
     "Ransomware - Security system that filters network traffic",
     "Ransomware - Malware that locks files and demands payment"
    ],
-   "a": 3,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ransomware - Malware that locks files and demands payment is correctly matched."
+   "answer": 3,
+   "explanation": "Only Ransomware - Malware that locks files and demands payment is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0252",
-   "q": "Which of the following abbreviations stands for Central Industrial Security Force?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Central Industrial Security Force?",
+   "options": [
     "CISF",
     "BrahMos",
     "GNP",
     "PPP"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Central Industrial Security Force is abbreviated as CISF."
+   "answer": 0,
+   "explanation": "Central Industrial Security Force is abbreviated as CISF.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0253",
-   "q": "San Marino is the capital of which country?",
-   "o": [
+   "question": "San Marino is the capital of which country?",
+   "options": [
     "Venezuela",
     "San Marino",
     "Austria",
     "Colombia"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "San Marino is the capital of San Marino."
+   "answer": 1,
+   "explanation": "San Marino is the capital of San Marino.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0254",
-   "q": "What is the atomic number of Copernicium?",
-   "o": [
+   "question": "What is the atomic number of Copernicium?",
+   "options": [
     "94",
     "37",
     "112",
     "33"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "The atomic number of Copernicium is 112."
+   "answer": 2,
+   "explanation": "The atomic number of Copernicium is 112.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0255",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Vikramshila Gangetic Dolphin Sanctuary - Maharashtra",
     "Vikramshila Gangetic Dolphin Sanctuary - Karnataka",
     "Vikramshila Gangetic Dolphin Sanctuary - Sikkim",
     "Vikramshila Gangetic Dolphin Sanctuary - Bihar"
    ],
-   "a": 3,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Vikramshila Gangetic Dolphin Sanctuary - Bihar is correctly matched."
+   "answer": 3,
+   "explanation": "Only Vikramshila Gangetic Dolphin Sanctuary - Bihar is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0256",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "Founding of the United Nations - 2008",
     "Founding of the United Nations - 1945",
     "Founding of the United Nations - 1957",
     "Founding of the United Nations - 1994"
    ],
-   "a": 1,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Founding of the United Nations - 1945 is correctly matched."
+   "answer": 1,
+   "explanation": "Only Founding of the United Nations - 1945 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0257",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "Republic Day (India) - 26 January",
     "Republic Day (India) - 4 October",
     "Republic Day (India) - 31 May",
     "Republic Day (India) - 19 August"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Republic Day (India) - 26 January is correctly matched."
+   "answer": 0,
+   "explanation": "Only Republic Day (India) - 26 January is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0258",
-   "q": "Sociable is a synonym of which of the following words?",
-   "o": [
+   "question": "Sociable is a synonym of which of the following words?",
+   "options": [
     "Servile",
     "Superfluous",
     "Gregarious",
     "Rigorous"
    ],
-   "a": 2,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Sociable is a synonym of Gregarious."
+   "answer": 2,
+   "explanation": "Sociable is a synonym of Gregarious.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0259",
-   "q": "Facilitate is an antonym of which of the following words?",
-   "o": [
+   "question": "Facilitate is an antonym of which of the following words?",
+   "options": [
     "Deluge",
     "Paramount",
     "Impede",
     "Conspicuous"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Facilitate is the opposite of Impede."
+   "answer": 2,
+   "explanation": "Facilitate is the opposite of Impede.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0260",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Cat's paw - Lose one's temper suddenly",
     "Cat's paw - A person used by another",
     "Cat's paw - An ineffective person or government",
     "Cat's paw - Extremely happy"
    ],
-   "a": 1,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Cat's paw - A person used by another is correctly matched."
+   "answer": 1,
+   "explanation": "Only Cat's paw - A person used by another is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0261",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "One who is unable to pay his debts - Insolvent",
     "One who is unable to pay his debts - Inaudible",
     "One who is unable to pay his debts - Polygamy",
     "One who is unable to pay his debts - Abstruse"
    ],
-   "a": 0,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only One who is unable to pay his debts - Insolvent is correctly matched."
+   "answer": 0,
+   "explanation": "Only One who is unable to pay his debts - Insolvent is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0262",
-   "q": "Which of the following words is spelt incorrectly?",
-   "o": [
+   "question": "Which of the following words is spelt incorrectly?",
+   "options": [
     "Fulfill",
     "Embarass",
     "Maintainance",
     "Apparant"
    ],
-   "a": 1,
-   "t": "Spellings",
-   "l": 2,
-   "s": "generated",
-   "e": "The incorrect spelling shown is Embarass; the correct form is Embarrass."
+   "answer": 1,
+   "explanation": "The incorrect spelling shown is Embarass; the correct form is Embarrass.",
+   "topic": "Spellings",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0263",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Sheep - Courts Martial",
     "Sheep - Sheep",
     "Sheep - Step-daughters",
     "Sheep - Stimuli"
    ],
-   "a": 1,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Sheep - Sheep is correctly matched."
+   "answer": 1,
+   "explanation": "Only Sheep - Sheep is correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0264",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Thin - Worse",
     "Thin - Thinner",
     "Thin - More difficult",
     "Thin - Smaller"
    ],
-   "a": 1,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Thin - Thinner is correctly matched."
+   "answer": 1,
+   "explanation": "Only Thin - Thinner is correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0265",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "Malware - Human readable name of a website",
     "Malware - Software designed to damage or intrude",
     "Malware - Software stored permanently on a hardware chip",
     "Malware - Protocol for retrieving email"
    ],
-   "a": 1,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Malware - Software designed to damage or intrude is correctly matched."
+   "answer": 1,
+   "explanation": "Only Malware - Software designed to damage or intrude is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0266",
-   "q": "Which of the following abbreviations stands for Oral Rehydration Solution?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Oral Rehydration Solution?",
+   "options": [
     "CERN",
     "NASA",
     "RTGS",
     "ORS"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Oral Rehydration Solution is abbreviated as ORS."
+   "answer": 3,
+   "explanation": "Oral Rehydration Solution is abbreviated as ORS.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0267",
-   "q": "Djibouti is the capital of which country?",
-   "o": [
+   "question": "Djibouti is the capital of which country?",
+   "options": [
     "Djibouti",
     "North Korea",
     "Somalia",
     "Namibia"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "Djibouti is the capital of Djibouti."
+   "answer": 0,
+   "explanation": "Djibouti is the capital of Djibouti.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0268",
-   "q": "What is the atomic number of Chlorine?",
-   "o": [
+   "question": "What is the atomic number of Chlorine?",
+   "options": [
     "100",
     "15",
     "28",
     "17"
    ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "The atomic number of Chlorine is 17."
+   "answer": 3,
+   "explanation": "The atomic number of Chlorine is 17.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0269",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Vikramshila Gangetic Dolphin Sanctuary - Madhya Pradesh",
     "Vikramshila Gangetic Dolphin Sanctuary - Maharashtra",
     "Vikramshila Gangetic Dolphin Sanctuary - Chhattisgarh",
     "Vikramshila Gangetic Dolphin Sanctuary - Bihar"
    ],
-   "a": 3,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Vikramshila Gangetic Dolphin Sanctuary - Bihar is correctly matched."
+   "answer": 3,
+   "explanation": "Only Vikramshila Gangetic Dolphin Sanctuary - Bihar is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0270",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "Founding of the United Nations - 1945",
     "Founding of the United Nations - 1950",
     "Founding of the United Nations - 1815",
     "Founding of the United Nations - 1498"
    ],
-   "a": 0,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Founding of the United Nations - 1945 is correctly matched."
+   "answer": 0,
+   "explanation": "Only Founding of the United Nations - 1945 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0271",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "World Wetlands Day - 21 February",
     "World Wetlands Day - 2 February",
     "World Wetlands Day - 26 November",
     "World Wetlands Day - 11 November"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only World Wetlands Day - 2 February is correctly matched."
+   "answer": 1,
+   "explanation": "Only World Wetlands Day - 2 February is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0272",
-   "q": "Shortness is a synonym of which of the following words?",
-   "o": [
+   "question": "Shortness is a synonym of which of the following words?",
+   "options": [
     "Quiescent",
     "Sumptuous",
     "Ratify",
     "Brevity"
    ],
-   "a": 3,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Shortness is a synonym of Brevity."
+   "answer": 3,
+   "explanation": "Shortness is a synonym of Brevity.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0273",
-   "q": "Concealed is an antonym of which of the following words?",
-   "o": [
+   "question": "Concealed is an antonym of which of the following words?",
+   "options": [
     "Deluge",
     "Flagrant",
     "Intrinsic",
     "Succinct"
    ],
-   "a": 1,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Concealed is the opposite of Flagrant."
+   "answer": 1,
+   "explanation": "Concealed is the opposite of Flagrant.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0274",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Over head and ears - Completely",
     "Over head and ears - Hope for a good result",
     "Over head and ears - Live a miserable life",
     "Over head and ears - Deeply involved"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Over head and ears - Deeply involved is correctly matched."
+   "answer": 3,
+   "explanation": "Only Over head and ears - Deeply involved is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0275",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "One who is unable to pay his debts - Insolvent",
     "One who is unable to pay his debts - Somnambulist",
     "One who is unable to pay his debts - Gregarious",
     "One who is unable to pay his debts - Epitaph"
    ],
-   "a": 0,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only One who is unable to pay his debts - Insolvent is correctly matched."
+   "answer": 0,
+   "explanation": "Only One who is unable to pay his debts - Insolvent is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0276",
-   "q": "Which of the following words is spelt incorrectly?",
-   "o": [
+   "question": "Which of the following words is spelt incorrectly?",
+   "options": [
     "Idiosyncracy",
     "Preceeding",
     "Consience",
     "Comparision"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 2,
-   "s": "generated",
-   "e": "The incorrect spelling shown is Idiosyncracy; the correct form is Idiosyncrasy."
+   "answer": 0,
+   "explanation": "The incorrect spelling shown is Idiosyncracy; the correct form is Idiosyncrasy.",
+   "topic": "Spellings",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0277",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Sheep - Sheep",
     "Sheep - Stimuli",
     "Sheep - Species",
     "Sheep - Boxes"
    ],
-   "a": 0,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Sheep - Sheep is correctly matched."
+   "answer": 0,
+   "explanation": "Only Sheep - Sheep is correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0278",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Thin - Faster",
     "Thin - Finer",
     "Thin - Thinner",
     "Thin - Easier"
    ],
-   "a": 2,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Thin - Thinner is correctly matched."
+   "answer": 2,
+   "explanation": "Only Thin - Thinner is correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0279",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "Malware - Program that converts source code into machine code",
     "Malware - Software designed to damage or intrude",
     "Malware - Malicious program that attaches to files",
     "Malware - Temporary storage for frequently used data"
    ],
-   "a": 1,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Malware - Software designed to damage or intrude is correctly matched."
+   "answer": 1,
+   "explanation": "Only Malware - Software designed to damage or intrude is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0280",
-   "q": "Which of the following abbreviations stands for National Service Scheme?",
-   "o": [
+   "question": "Which of the following abbreviations stands for National Service Scheme?",
+   "options": [
     "RAW",
     "NSE",
     "NSS",
     "CLAT"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "National Service Scheme is abbreviated as NSS."
+   "answer": 2,
+   "explanation": "National Service Scheme is abbreviated as NSS.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0281",
-   "q": "Vientiane is the capital of which country?",
-   "o": [
+   "question": "Vientiane is the capital of which country?",
+   "options": [
     "Burkina Faso",
     "Laos",
     "Brazil",
     "Greece"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "Vientiane is the capital of Laos."
+   "answer": 1,
+   "explanation": "Vientiane is the capital of Laos.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0282",
-   "q": "What is the atomic number of Tin?",
-   "o": [
+   "question": "What is the atomic number of Tin?",
+   "options": [
     "50",
     "115",
     "86",
     "84"
    ],
-   "a": 0,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "The atomic number of Tin is 50."
+   "answer": 0,
+   "explanation": "The atomic number of Tin is 50.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0283",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Sariska Tiger Reserve - Karnataka",
     "Sariska Tiger Reserve - Bihar",
     "Sariska Tiger Reserve - Odisha",
     "Sariska Tiger Reserve - Rajasthan"
    ],
-   "a": 3,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Sariska Tiger Reserve - Rajasthan is correctly matched."
+   "answer": 3,
+   "explanation": "Only Sariska Tiger Reserve - Rajasthan is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0284",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "Signing of the Magna Carta - 1215",
     "Signing of the Magna Carta - 1939",
     "Signing of the Magna Carta - 1492",
     "Signing of the Magna Carta - 1992"
    ],
-   "a": 0,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Signing of the Magna Carta - 1215 is correctly matched."
+   "answer": 0,
+   "explanation": "Only Signing of the Magna Carta - 1215 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0285",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "World Wetlands Day - 3 March",
     "World Wetlands Day - 15 October",
     "World Wetlands Day - 3 May",
     "World Wetlands Day - 2 February"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only World Wetlands Day - 2 February is correctly matched."
+   "answer": 3,
+   "explanation": "Only World Wetlands Day - 2 February is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0286",
-   "q": "Scanty is a synonym of which of the following words?",
-   "o": [
+   "question": "Scanty is a synonym of which of the following words?",
+   "options": [
     "Meagre",
     "Recalcitrant",
     "Alleviate",
     "Vex"
    ],
-   "a": 0,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Scanty is a synonym of Meagre."
+   "answer": 0,
+   "explanation": "Scanty is a synonym of Meagre.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0287",
-   "q": "Talkative is an antonym of which of the following words?",
-   "o": [
+   "question": "Talkative is an antonym of which of the following words?",
+   "options": [
     "Opulent",
     "Exorbitant",
     "Reticent",
     "Diminish"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Talkative is the opposite of Reticent."
+   "answer": 2,
+   "explanation": "Talkative is the opposite of Reticent.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0288",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Over head and ears - Most important",
     "Over head and ears - Confess fully",
     "Over head and ears - Just in time",
     "Over head and ears - Deeply involved"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Over head and ears - Deeply involved is correctly matched."
+   "answer": 3,
+   "explanation": "Only Over head and ears - Deeply involved is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0289",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "One who loves mankind - Sexagenarian",
     "One who loves mankind - Etymologist",
     "One who loves mankind - Genocide",
     "One who loves mankind - Philanthropist"
    ],
-   "a": 3,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only One who loves mankind - Philanthropist is correctly matched."
+   "answer": 3,
+   "explanation": "Only One who loves mankind - Philanthropist is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0290",
-   "q": "Which of the following words is spelt incorrectly?",
-   "o": [
+   "question": "Which of the following words is spelt incorrectly?",
+   "options": [
     "Bureu",
     "Unforseen",
     "Dissappear",
     "Collegue"
    ],
-   "a": 1,
-   "t": "Spellings",
-   "l": 2,
-   "s": "generated",
-   "e": "The incorrect spelling shown is Unforseen; the correct form is Unforeseen."
+   "answer": 1,
+   "explanation": "The incorrect spelling shown is Unforseen; the correct form is Unforeseen.",
+   "topic": "Spellings",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0291",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Trout - Syllabi",
     "Trout - Radii",
     "Trout - Fish",
     "Trout - Trout"
    ],
-   "a": 3,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Trout - Trout is correctly matched."
+   "answer": 3,
+   "explanation": "Only Trout - Trout is correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0292",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Big - Better",
     "Big - Bigger",
     "Big - Gentler",
     "Big - More"
    ],
-   "a": 1,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Big - Bigger is correctly matched."
+   "answer": 1,
+   "explanation": "Only Big - Bigger is correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0293",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "ROM - Non-volatile memory that holds firmware",
     "ROM - Step by step method to solve a problem",
     "ROM - Software that manages hardware and applications",
     "ROM - Copy of data kept for recovery"
    ],
-   "a": 0,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only ROM - Non-volatile memory that holds firmware is correctly matched."
+   "answer": 0,
+   "explanation": "Only ROM - Non-volatile memory that holds firmware is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0294",
-   "q": "Which of the following abbreviations stands for Sports Authority of India?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Sports Authority of India?",
+   "options": [
     "OTP",
     "SAI",
     "NPCI",
     "UNDP"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Sports Authority of India is abbreviated as SAI."
+   "answer": 1,
+   "explanation": "Sports Authority of India is abbreviated as SAI.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0295",
-   "q": "Juba is the capital of which country?",
-   "o": [
+   "question": "Juba is the capital of which country?",
+   "options": [
     "Canada",
     "North Macedonia",
     "South Sudan",
     "Uganda"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "Juba is the capital of South Sudan."
+   "answer": 2,
+   "explanation": "Juba is the capital of South Sudan.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0296",
-   "q": "What is the atomic number of Neptunium?",
-   "o": [
+   "question": "What is the atomic number of Neptunium?",
+   "options": [
     "93",
     "59",
     "70",
     "55"
    ],
-   "a": 0,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "The atomic number of Neptunium is 93."
+   "answer": 0,
+   "explanation": "The atomic number of Neptunium is 93.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0297",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Sariska Tiger Reserve - Meghalaya",
     "Sariska Tiger Reserve - Odisha",
     "Sariska Tiger Reserve - Uttarakhand",
     "Sariska Tiger Reserve - Rajasthan"
    ],
-   "a": 3,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Sariska Tiger Reserve - Rajasthan is correctly matched."
+   "answer": 3,
+   "explanation": "Only Sariska Tiger Reserve - Rajasthan is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0298",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "Signing of the Magna Carta - 1776",
     "Signing of the Magna Carta - 1941",
     "Signing of the Magna Carta - 1215",
     "Signing of the Magna Carta - 1973"
    ],
-   "a": 2,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Signing of the Magna Carta - 1215 is correctly matched."
+   "answer": 2,
+   "explanation": "Only Signing of the Magna Carta - 1215 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0299",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "World Standards Day - 10 January",
     "World Standards Day - 19 November",
     "World Standards Day - 22 April",
     "World Standards Day - 14 October"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only World Standards Day - 14 October is correctly matched."
+   "answer": 3,
+   "explanation": "Only World Standards Day - 14 October is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0300",
-   "q": "Fear is a synonym of which of the following words?",
-   "o": [
+   "question": "Fear is a synonym of which of the following words?",
+   "options": [
     "Unanimous",
     "Ubiquitous",
     "Idiosyncrasy",
     "Trepidation"
    ],
-   "a": 3,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Fear is a synonym of Trepidation."
+   "answer": 3,
+   "explanation": "Fear is a synonym of Trepidation.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0301",
-   "q": "Explicit is an antonym of which of the following words?",
-   "o": [
+   "question": "Explicit is an antonym of which of the following words?",
+   "options": [
     "Indolent",
     "Scrupulous",
     "Somnolent",
     "Implicit"
    ],
-   "a": 3,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Explicit is the opposite of Implicit."
+   "answer": 3,
+   "explanation": "Explicit is the opposite of Implicit.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0302",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Dodge the issue - At the last moment",
     "Dodge the issue - To break a promise",
     "Dodge the issue - Exaggerated speech",
     "Dodge the issue - Avoid the main point"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Dodge the issue - Avoid the main point is correctly matched."
+   "answer": 3,
+   "explanation": "Only Dodge the issue - Avoid the main point is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0303",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "One who loves mankind - Gregarious",
     "One who loves mankind - Philanthropist",
     "One who loves mankind - Plutocracy",
     "One who loves mankind - Meteorologist"
    ],
-   "a": 1,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only One who loves mankind - Philanthropist is correctly matched."
+   "answer": 1,
+   "explanation": "Only One who loves mankind - Philanthropist is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0304",
-   "q": "Which of the following words is spelt incorrectly?",
-   "o": [
+   "question": "Which of the following words is spelt incorrectly?",
+   "options": [
     "Dilemna",
     "Wellcome",
     "Foriegn",
     "Freind"
    ],
-   "a": 2,
-   "t": "Spellings",
-   "l": 2,
-   "s": "generated",
-   "e": "The incorrect spelling shown is Foriegn; the correct form is Foreign."
+   "answer": 2,
+   "explanation": "The incorrect spelling shown is Foriegn; the correct form is Foreign.",
+   "topic": "Spellings",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0305",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Trout - Salmon",
     "Trout - Bacteria",
     "Trout - Trout",
     "Trout - Halves"
    ],
-   "a": 2,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Trout - Trout is correctly matched."
+   "answer": 2,
+   "explanation": "Only Trout - Trout is correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0306",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Big - Bigger",
     "Big - Simpler",
     "Big - Heavier",
     "Big - Faster"
    ],
-   "a": 0,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Big - Bigger is correctly matched."
+   "answer": 0,
+   "explanation": "Only Big - Bigger is correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0307",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "ROM - Number system with base sixteen",
     "ROM - Non-volatile memory that holds firmware",
     "ROM - Very fast memory close to the CPU",
     "ROM - Short range wireless technology"
    ],
-   "a": 1,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only ROM - Non-volatile memory that holds firmware is correctly matched."
+   "answer": 1,
+   "explanation": "Only ROM - Non-volatile memory that holds firmware is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0308",
-   "q": "Which of the following abbreviations stands for Association of Mutual Funds in India?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Association of Mutual Funds in India?",
+   "options": [
     "IMF",
     "AMFI",
     "NET",
     "CCI"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Association of Mutual Funds in India is abbreviated as AMFI."
+   "answer": 1,
+   "explanation": "Association of Mutual Funds in India is abbreviated as AMFI.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0309",
-   "q": "Guatemala City is the capital of which country?",
-   "o": [
+   "question": "Guatemala City is the capital of which country?",
+   "options": [
     "Barbados",
     "Guatemala",
     "Mauritania",
     "Somalia"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "Guatemala City is the capital of Guatemala."
+   "answer": 1,
+   "explanation": "Guatemala City is the capital of Guatemala.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0310",
-   "q": "What is the atomic number of Iodine?",
-   "o": [
+   "question": "What is the atomic number of Iodine?",
+   "options": [
     "27",
     "92",
     "114",
     "53"
    ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "The atomic number of Iodine is 53."
+   "answer": 3,
+   "explanation": "The atomic number of Iodine is 53.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0311",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Dibang Wildlife Sanctuary - Jammu and Kashmir",
     "Dibang Wildlife Sanctuary - Bihar",
     "Dibang Wildlife Sanctuary - Odisha",
     "Dibang Wildlife Sanctuary - Arunachal Pradesh"
    ],
-   "a": 3,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Dibang Wildlife Sanctuary - Arunachal Pradesh is correctly matched."
+   "answer": 3,
+   "explanation": "Only Dibang Wildlife Sanctuary - Arunachal Pradesh is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0312",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "American Declaration of Independence - 1776",
     "American Declaration of Independence - 1863",
     "American Declaration of Independence - 1920",
     "American Declaration of Independence - 1848"
    ],
-   "a": 0,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only American Declaration of Independence - 1776 is correctly matched."
+   "answer": 0,
+   "explanation": "Only American Declaration of Independence - 1776 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0313",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "World Standards Day - 14 October",
     "World Standards Day - first Monday of October",
     "World Standards Day - 26 July",
     "World Standards Day - 11 November"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only World Standards Day - 14 October is correctly matched."
+   "answer": 0,
+   "explanation": "Only World Standards Day - 14 October is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0314",
-   "q": "Astonishing is a synonym of which of the following words?",
-   "o": [
+   "question": "Astonishing is a synonym of which of the following words?",
+   "options": [
     "Comprehend",
     "Stupendous",
     "Sumptuous",
     "Deteriorate"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Astonishing is a synonym of Stupendous."
+   "answer": 1,
+   "explanation": "Astonishing is a synonym of Stupendous.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0315",
-   "q": "Disloyal is an antonym of which of the following words?",
-   "o": [
+   "question": "Disloyal is an antonym of which of the following words?",
+   "options": [
     "Impartial",
     "Staunch",
     "Frugal",
     "Irascible"
    ],
-   "a": 1,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Disloyal is the opposite of Staunch."
+   "answer": 1,
+   "explanation": "Disloyal is the opposite of Staunch.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0316",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Dodge the issue - To ignore",
     "Dodge the issue - Avoid the main point",
     "Dodge the issue - A selfish motive",
     "Dodge the issue - Act so as to make retreat impossible"
    ],
-   "a": 1,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Dodge the issue - Avoid the main point is correctly matched."
+   "answer": 1,
+   "explanation": "Only Dodge the issue - Avoid the main point is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0317",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "A person who is an expert in a field - Connoisseur",
     "A person who is an expert in a field - Autocracy",
     "A person who is an expert in a field - Autobiographer",
     "A person who is an expert in a field - Antidote"
    ],
-   "a": 0,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only A person who is an expert in a field - Connoisseur is correctly matched."
+   "answer": 0,
+   "explanation": "Only A person who is an expert in a field - Connoisseur is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0318",
-   "q": "Which of the following words is spelt incorrectly?",
-   "o": [
+   "question": "Which of the following words is spelt incorrectly?",
+   "options": [
     "Facinate",
     "Oportunity",
     "Marrige",
     "Definately"
    ],
-   "a": 2,
-   "t": "Spellings",
-   "l": 2,
-   "s": "generated",
-   "e": "The incorrect spelling shown is Marrige; the correct form is Marriage."
+   "answer": 2,
+   "explanation": "The incorrect spelling shown is Marrige; the correct form is Marriage.",
+   "topic": "Spellings",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0319",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Life - Photos",
     "Life - Lives",
     "Life - Studios",
     "Life - Formulae"
    ],
-   "a": 1,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Life - Lives is correctly matched."
+   "answer": 1,
+   "explanation": "Only Life - Lives is correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0320",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Dangerous - More difficult",
     "Dangerous - Deeper",
     "Dangerous - More dangerous",
     "Dangerous - Later"
    ],
-   "a": 2,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Dangerous - More dangerous is correctly matched."
+   "answer": 2,
+   "explanation": "Only Dangerous - More dangerous is correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0321",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "Switch - Copy of data kept for recovery",
     "Switch - Device that connects devices inside a network",
     "Switch - Diagram of the steps of an algorithm",
     "Switch - Number system with base sixteen"
    ],
-   "a": 1,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Switch - Device that connects devices inside a network is correctly matched."
+   "answer": 1,
+   "explanation": "Only Switch - Device that connects devices inside a network is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0322",
-   "q": "Which of the following abbreviations stands for Personal Identification Number?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Personal Identification Number?",
+   "options": [
     "PIN",
     "NPS",
     "ICMR",
     "ISO"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Personal Identification Number is abbreviated as PIN."
+   "answer": 0,
+   "explanation": "Personal Identification Number is abbreviated as PIN.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0323",
-   "q": "Beijing is the capital of which country?",
-   "o": [
+   "question": "Beijing is the capital of which country?",
+   "options": [
     "Cyprus",
     "China",
     "Indonesia",
     "Chad"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "Beijing is the capital of China."
+   "answer": 1,
+   "explanation": "Beijing is the capital of China.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0324",
-   "q": "What is the atomic number of Ruthenium?",
-   "o": [
+   "question": "What is the atomic number of Ruthenium?",
+   "options": [
     "79",
     "51",
     "32",
     "44"
    ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "The atomic number of Ruthenium is 44."
+   "answer": 3,
+   "explanation": "The atomic number of Ruthenium is 44.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0325",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Dibang Wildlife Sanctuary - Maharashtra",
     "Dibang Wildlife Sanctuary - Arunachal Pradesh",
     "Dibang Wildlife Sanctuary - Madhya Pradesh",
     "Dibang Wildlife Sanctuary - Karnataka"
    ],
-   "a": 1,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Dibang Wildlife Sanctuary - Arunachal Pradesh is correctly matched."
+   "answer": 1,
+   "explanation": "Only Dibang Wildlife Sanctuary - Arunachal Pradesh is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0326",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "American Declaration of Independence - 1588",
     "American Declaration of Independence - 1776",
     "American Declaration of Independence - 1949",
     "American Declaration of Independence - 1963"
    ],
-   "a": 1,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only American Declaration of Independence - 1776 is correctly matched."
+   "answer": 1,
+   "explanation": "Only American Declaration of Independence - 1776 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0327",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "National Science Day (India) - 30 November",
     "National Science Day (India) - 11 December",
     "National Science Day (India) - 23 March",
     "National Science Day (India) - 28 February"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only National Science Day (India) - 28 February is correctly matched."
+   "answer": 3,
+   "explanation": "Only National Science Day (India) - 28 February is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0328",
-   "q": "Danger is a synonym of which of the following words?",
-   "o": [
+   "question": "Danger is a synonym of which of the following words?",
+   "options": [
     "Querulous",
     "Explicit",
     "Fastidious",
     "Peril"
    ],
-   "a": 3,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Danger is a synonym of Peril."
+   "answer": 3,
+   "explanation": "Danger is a synonym of Peril.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0329",
-   "q": "Fruitful is an antonym of which of the following words?",
-   "o": [
+   "question": "Fruitful is an antonym of which of the following words?",
+   "options": [
     "Equanimity",
     "Futile",
     "Superfluous",
     "Eloquent"
    ],
-   "a": 1,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Fruitful is the opposite of Futile."
+   "answer": 1,
+   "explanation": "Fruitful is the opposite of Futile.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0330",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Green horn - Laugh secretly",
     "Green horn - Treat harshly",
     "Green horn - In trouble",
     "Green horn - An inexperienced person"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Green horn - An inexperienced person is correctly matched."
+   "answer": 3,
+   "explanation": "Only Green horn - An inexperienced person is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0331",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "A person who is an expert in a field - Illiterate",
     "A person who is an expert in a field - Philanthropist",
     "A person who is an expert in a field - Connoisseur",
     "A person who is an expert in a field - Theist"
    ],
-   "a": 2,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only A person who is an expert in a field - Connoisseur is correctly matched."
+   "answer": 2,
+   "explanation": "Only A person who is an expert in a field - Connoisseur is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0332",
-   "q": "Which of the following words is spelt incorrectly?",
-   "o": [
+   "question": "Which of the following words is spelt incorrectly?",
+   "options": [
     "Lightening",
     "Innocense",
     "Consience",
     "Procede"
    ],
-   "a": 2,
-   "t": "Spellings",
-   "l": 2,
-   "s": "generated",
-   "e": "The incorrect spelling shown is Consience; the correct form is Conscience."
+   "answer": 2,
+   "explanation": "The incorrect spelling shown is Consience; the correct form is Conscience.",
+   "topic": "Spellings",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0333",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Life - Dice",
     "Life - Shelves",
     "Life - Lives",
     "Life - Foci"
    ],
-   "a": 2,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Life - Lives is correctly matched."
+   "answer": 2,
+   "explanation": "Only Life - Lives is correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0334",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Dangerous - Wider",
     "Dangerous - Deeper",
     "Dangerous - Easier",
     "Dangerous - More dangerous"
    ],
-   "a": 3,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Dangerous - More dangerous is correctly matched."
+   "answer": 3,
+   "explanation": "Only Dangerous - More dangerous is correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0335",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "Switch - Very fast memory close to the CPU",
     "Switch - Language that adds behaviour to web pages",
     "Switch - Device that connects devices inside a network",
     "Switch - Protocol used to transfer web pages"
    ],
-   "a": 2,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Switch - Device that connects devices inside a network is correctly matched."
+   "answer": 2,
+   "explanation": "Only Switch - Device that connects devices inside a network is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0336",
-   "q": "Which of the following abbreviations stands for Public Private Partnership?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Public Private Partnership?",
+   "options": [
     "PMJAY",
     "CCTV",
     "PSLV",
     "PPP"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Public Private Partnership is abbreviated as PPP."
+   "answer": 3,
+   "explanation": "Public Private Partnership is abbreviated as PPP.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0337",
-   "q": "Riyadh is the capital of which country?",
-   "o": [
+   "question": "Riyadh is the capital of which country?",
+   "options": [
     "Indonesia",
     "Montenegro",
     "Saudi Arabia",
     "Samoa"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "Riyadh is the capital of Saudi Arabia."
+   "answer": 2,
+   "explanation": "Riyadh is the capital of Saudi Arabia.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0338",
-   "q": "What is the atomic number of Europium?",
-   "o": [
+   "question": "What is the atomic number of Europium?",
+   "options": [
     "78",
     "16",
     "63",
     "35"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "The atomic number of Europium is 63."
+   "answer": 2,
+   "explanation": "The atomic number of Europium is 63.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0339",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Buxa Tiger Reserve - Assam",
     "Buxa Tiger Reserve - West Bengal",
     "Buxa Tiger Reserve - Uttarakhand",
     "Buxa Tiger Reserve - Karnataka"
    ],
-   "a": 1,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Buxa Tiger Reserve - West Bengal is correctly matched."
+   "answer": 1,
+   "explanation": "Only Buxa Tiger Reserve - West Bengal is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0340",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "Launch of Sputnik-1 - 1957",
     "Launch of Sputnik-1 - 1917",
     "Launch of Sputnik-1 - 1600",
     "Launch of Sputnik-1 - 1453"
    ],
-   "a": 0,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Launch of Sputnik-1 - 1957 is correctly matched."
+   "answer": 0,
+   "explanation": "Only Launch of Sputnik-1 - 1957 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0341",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "National Science Day (India) - 26 July",
     "National Science Day (India) - 4 January",
     "National Science Day (India) - 11 May",
     "National Science Day (India) - 28 February"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only National Science Day (India) - 28 February is correctly matched."
+   "answer": 3,
+   "explanation": "Only National Science Day (India) - 28 February is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0342",
-   "q": "Similarity is a synonym of which of the following words?",
-   "o": [
+   "question": "Similarity is a synonym of which of the following words?",
+   "options": [
     "Mundane",
     "Analogy",
     "Venerable",
     "Fickle"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Similarity is a synonym of Analogy."
+   "answer": 1,
+   "explanation": "Similarity is a synonym of Analogy.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0343",
-   "q": "Unfriendly is an antonym of which of the following words?",
-   "o": [
+   "question": "Unfriendly is an antonym of which of the following words?",
+   "options": [
     "Acquit",
     "Fluctuate",
     "Tenacious",
     "Affable"
    ],
-   "a": 3,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Unfriendly is the opposite of Affable."
+   "answer": 3,
+   "explanation": "Unfriendly is the opposite of Affable.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0344",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Green horn - To ask someone to leave",
     "Green horn - To reverse the proper order",
     "Green horn - An inexperienced person",
     "Green horn - Come to the essential point"
    ],
-   "a": 2,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Green horn - An inexperienced person is correctly matched."
+   "answer": 2,
+   "explanation": "Only Green horn - An inexperienced person is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0345",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "A person who cuts hair - Omnipresent",
     "A person who cuts hair - Barber",
     "A person who cuts hair - Carnivores",
     "A person who cuts hair - Monologue"
    ],
-   "a": 1,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only A person who cuts hair - Barber is correctly matched."
+   "answer": 1,
+   "explanation": "Only A person who cuts hair - Barber is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0346",
-   "q": "Which of the following words is spelt incorrectly?",
-   "o": [
+   "question": "Which of the following words is spelt incorrectly?",
+   "options": [
     "Guage",
     "Facinate",
     "Quanity",
     "Perseverence"
    ],
-   "a": 1,
-   "t": "Spellings",
-   "l": 2,
-   "s": "generated",
-   "e": "The incorrect spelling shown is Facinate; the correct form is Fascinate."
+   "answer": 1,
+   "explanation": "The incorrect spelling shown is Facinate; the correct form is Fascinate.",
+   "topic": "Spellings",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0347",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Stimulus - Bases",
     "Stimulus - Crises",
     "Stimulus - Stimuli",
     "Stimulus - Syllabi"
    ],
-   "a": 2,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Stimulus - Stimuli is correctly matched."
+   "answer": 2,
+   "explanation": "Only Stimulus - Stimuli is correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0348",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Happy - Happier",
     "Happy - Heavier",
     "Happy - Shallower",
     "Happy - Older"
    ],
-   "a": 0,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Happy - Happier is correctly matched."
+   "answer": 0,
+   "explanation": "Only Happy - Happier is correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0349",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "SSD - Organised collection of data",
     "SSD - Storage device with no moving parts",
     "SSD - Portable USB flash storage device",
     "SSD - Core suite of internet protocols"
    ],
-   "a": 1,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only SSD - Storage device with no moving parts is correctly matched."
+   "answer": 1,
+   "explanation": "Only SSD - Storage device with no moving parts is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0350",
-   "q": "Which of the following abbreviations stands for Goods and Services Tax?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Goods and Services Tax?",
+   "options": [
     "FRBM",
     "IPO",
     "TRAI",
     "GST"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Goods and Services Tax is abbreviated as GST."
+   "answer": 3,
+   "explanation": "Goods and Services Tax is abbreviated as GST.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0351",
-   "q": "Tunis is the capital of which country?",
-   "o": [
+   "question": "Tunis is the capital of which country?",
+   "options": [
     "Rwanda",
     "United Arab Emirates",
     "Tunisia",
     "Angola"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "Tunis is the capital of Tunisia."
+   "answer": 2,
+   "explanation": "Tunis is the capital of Tunisia.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0352",
-   "q": "What is the atomic number of Scandium?",
-   "o": [
+   "question": "What is the atomic number of Scandium?",
+   "options": [
     "23",
     "56",
     "21",
     "18"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "The atomic number of Scandium is 21."
+   "answer": 2,
+   "explanation": "The atomic number of Scandium is 21.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0353",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Buxa Tiger Reserve - Odisha",
     "Buxa Tiger Reserve - Karnataka",
     "Buxa Tiger Reserve - West Bengal",
     "Buxa Tiger Reserve - Bihar"
    ],
-   "a": 2,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Buxa Tiger Reserve - West Bengal is correctly matched."
+   "answer": 2,
+   "explanation": "Only Buxa Tiger Reserve - West Bengal is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0354",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "Launch of Sputnik-1 - 1600",
     "Launch of Sputnik-1 - 1992",
     "Launch of Sputnik-1 - 1957",
     "Launch of Sputnik-1 - 2015"
    ],
-   "a": 2,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Launch of Sputnik-1 - 1957 is correctly matched."
+   "answer": 2,
+   "explanation": "Only Launch of Sputnik-1 - 1957 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0355",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "World Philosophy Day - 21 May",
     "World Philosophy Day - 22 April",
     "World Philosophy Day - 8 November",
     "World Philosophy Day - third Thursday of November"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only World Philosophy Day - third Thursday of November is correctly matched."
+   "answer": 3,
+   "explanation": "Only World Philosophy Day - third Thursday of November is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0356",
-   "q": "Reveal is a synonym of which of the following words?",
-   "o": [
+   "question": "Reveal is a synonym of which of the following words?",
+   "options": [
     "Divulge",
     "Notorious",
     "Quandary",
     "Vigilant"
    ],
-   "a": 0,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Reveal is a synonym of Divulge."
+   "answer": 0,
+   "explanation": "Reveal is a synonym of Divulge.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0357",
-   "q": "Restless is an antonym of which of the following words?",
-   "o": [
+   "question": "Restless is an antonym of which of the following words?",
+   "options": [
     "Curtail",
     "Meagre",
     "Esoteric",
     "Tranquil"
    ],
-   "a": 3,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Restless is the opposite of Tranquil."
+   "answer": 3,
+   "explanation": "Restless is the opposite of Tranquil.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0358",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "A wild goose chase - To hope for success",
     "A wild goose chase - Extremely happy",
     "A wild goose chase - Criticise",
     "A wild goose chase - A futile search"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only A wild goose chase - A futile search is correctly matched."
+   "answer": 3,
+   "explanation": "Only A wild goose chase - A futile search is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0359",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "A person who cuts hair - Bibliophile",
     "A person who cuts hair - Disinfectant",
     "A person who cuts hair - Mint",
     "A person who cuts hair - Barber"
    ],
-   "a": 3,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only A person who cuts hair - Barber is correctly matched."
+   "answer": 3,
+   "explanation": "Only A person who cuts hair - Barber is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0360",
-   "q": "Which of the following words is spelt incorrectly?",
-   "o": [
+   "question": "Which of the following words is spelt incorrectly?",
+   "options": [
     "Personel",
     "Advantagous",
     "Liason",
     "Millenium"
    ],
-   "a": 2,
-   "t": "Spellings",
-   "l": 2,
-   "s": "generated",
-   "e": "The incorrect spelling shown is Liason; the correct form is Liaison."
+   "answer": 2,
+   "explanation": "The incorrect spelling shown is Liason; the correct form is Liaison.",
+   "topic": "Spellings",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0361",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Stimulus - Shelves",
     "Stimulus - Stimuli",
     "Stimulus - Species",
     "Stimulus - Curricula"
    ],
-   "a": 1,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Stimulus - Stimuli is correctly matched."
+   "answer": 1,
+   "explanation": "Only Stimulus - Stimuli is correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0362",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Happy - Better",
     "Happy - Happier",
     "Happy - Shallower",
     "Happy - Shorter"
    ],
-   "a": 1,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Happy - Happier is correctly matched."
+   "answer": 1,
+   "explanation": "Only Happy - Happier is correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0363",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "SSD - Process of starting a computer",
     "SSD - Software that secretly collects information",
     "SSD - Software whose source code is freely available",
     "SSD - Storage device with no moving parts"
    ],
-   "a": 3,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only SSD - Storage device with no moving parts is correctly matched."
+   "answer": 3,
+   "explanation": "Only SSD - Storage device with no moving parts is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0364",
-   "q": "Which of the following abbreviations stands for National Human Rights Commission?",
-   "o": [
+   "question": "Which of the following abbreviations stands for National Human Rights Commission?",
+   "options": [
     "NHRC",
     "AC",
     "BrahMos",
     "G20"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "National Human Rights Commission is abbreviated as NHRC."
+   "answer": 0,
+   "explanation": "National Human Rights Commission is abbreviated as NHRC.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0365",
-   "q": "Jakarta is the capital of which country?",
-   "o": [
+   "question": "Jakarta is the capital of which country?",
+   "options": [
     "Bahrain",
     "Switzerland",
     "Lebanon",
     "Indonesia"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "Jakarta is the capital of Indonesia."
+   "answer": 3,
+   "explanation": "Jakarta is the capital of Indonesia.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0366",
-   "q": "What is the atomic number of Astatine?",
-   "o": [
+   "question": "What is the atomic number of Astatine?",
+   "options": [
     "85",
     "103",
     "1",
     "81"
    ],
-   "a": 0,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "The atomic number of Astatine is 85."
+   "answer": 0,
+   "explanation": "The atomic number of Astatine is 85.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0367",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Kaimur Wildlife Sanctuary - Bihar",
     "Kaimur Wildlife Sanctuary - Madhya Pradesh",
     "Kaimur Wildlife Sanctuary - Meghalaya",
     "Kaimur Wildlife Sanctuary - Chhattisgarh"
    ],
-   "a": 0,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Kaimur Wildlife Sanctuary - Bihar is correctly matched."
+   "answer": 0,
+   "explanation": "Only Kaimur Wildlife Sanctuary - Bihar is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0368",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "Adoption of the UN Sustainable Development Goals - 2015",
     "Adoption of the UN Sustainable Development Goals - 1917",
     "Adoption of the UN Sustainable Development Goals - 1992",
     "Adoption of the UN Sustainable Development Goals - 1941"
    ],
-   "a": 0,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Adoption of the UN Sustainable Development Goals - 2015 is correctly matched."
+   "answer": 0,
+   "explanation": "Only Adoption of the UN Sustainable Development Goals - 2015 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0369",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "World Philosophy Day - 14 December",
     "World Philosophy Day - 18 April",
     "World Philosophy Day - 27 September",
     "World Philosophy Day - third Thursday of November"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only World Philosophy Day - third Thursday of November is correctly matched."
+   "answer": 3,
+   "explanation": "Only World Philosophy Day - third Thursday of November is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0370",
-   "q": "Insignificant is a synonym of which of the following words?",
-   "o": [
+   "question": "Insignificant is a synonym of which of the following words?",
+   "options": [
     "Trivial",
     "Frivolous",
     "Somnolent",
     "Redundant"
    ],
-   "a": 0,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Insignificant is a synonym of Trivial."
+   "answer": 0,
+   "explanation": "Insignificant is a synonym of Trivial.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0371",
-   "q": "Plenty is an antonym of which of the following words?",
-   "o": [
+   "question": "Plenty is an antonym of which of the following words?",
+   "options": [
     "Elated",
     "Erudite",
     "Famine",
     "Recalcitrant"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Plenty is the opposite of Famine."
+   "answer": 2,
+   "explanation": "Plenty is the opposite of Famine.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0372",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "A wild goose chase - Support",
     "A wild goose chase - Thoroughly",
     "A wild goose chase - A futile search",
     "A wild goose chase - A weak point"
    ],
-   "a": 2,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only A wild goose chase - A futile search is correctly matched."
+   "answer": 2,
+   "explanation": "Only A wild goose chase - A futile search is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0373",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Words written on a tomb - Connoisseur",
     "Words written on a tomb - Inimitable",
     "Words written on a tomb - Epitaph",
     "Words written on a tomb - Nuisance"
    ],
-   "a": 2,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Words written on a tomb - Epitaph is correctly matched."
+   "answer": 2,
+   "explanation": "Only Words written on a tomb - Epitaph is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0374",
-   "q": "Which of the following words is spelt incorrectly?",
-   "o": [
+   "question": "Which of the following words is spelt incorrectly?",
+   "options": [
     "Supercede",
     "Aggrevate",
     "Secratary",
     "Begining"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 2,
-   "s": "generated",
-   "e": "The incorrect spelling shown is Begining; the correct form is Beginning."
+   "answer": 3,
+   "explanation": "The incorrect spelling shown is Begining; the correct form is Beginning.",
+   "topic": "Spellings",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0375",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Potato - Potatoes",
     "Potato - Buses",
     "Potato - Mosquitoes",
     "Potato - Phenomena"
    ],
-   "a": 0,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Potato - Potatoes is correctly matched."
+   "answer": 0,
+   "explanation": "Only Potato - Potatoes is correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0376",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Dark - Longer",
     "Dark - More dangerous",
     "Dark - Farther",
     "Dark - Darker"
    ],
-   "a": 3,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Dark - Darker is correctly matched."
+   "answer": 3,
+   "explanation": "Only Dark - Darker is correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0377",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "Printer - Output device that produces hard copies",
     "Printer - Output device that prints large technical drawings",
     "Printer - Organised collection of data",
     "Printer - Delivery of computing services over the internet"
    ],
-   "a": 0,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Printer - Output device that produces hard copies is correctly matched."
+   "answer": 0,
+   "explanation": "Only Printer - Output device that produces hard copies is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0378",
-   "q": "Which of the following abbreviations stands for World Trade Organization?",
-   "o": [
+   "question": "Which of the following abbreviations stands for World Trade Organization?",
+   "options": [
     "SWAYAM",
     "NET",
     "WTO",
     "UPSC"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "World Trade Organization is abbreviated as WTO."
+   "answer": 2,
+   "explanation": "World Trade Organization is abbreviated as WTO.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0379",
-   "q": "Maseru is the capital of which country?",
-   "o": [
+   "question": "Maseru is the capital of which country?",
+   "options": [
     "Philippines",
     "Nepal",
     "Lesotho",
     "Nicaragua"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "Maseru is the capital of Lesotho."
+   "answer": 2,
+   "explanation": "Maseru is the capital of Lesotho.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0380",
-   "q": "What is the atomic number of Plutonium?",
-   "o": [
+   "question": "What is the atomic number of Plutonium?",
+   "options": [
     "63",
     "54",
     "45",
     "94"
    ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "The atomic number of Plutonium is 94."
+   "answer": 3,
+   "explanation": "The atomic number of Plutonium is 94.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0381",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Kaimur Wildlife Sanctuary - Bihar",
     "Kaimur Wildlife Sanctuary - Chhattisgarh",
     "Kaimur Wildlife Sanctuary - Meghalaya",
     "Kaimur Wildlife Sanctuary - Maharashtra"
    ],
-   "a": 0,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Kaimur Wildlife Sanctuary - Bihar is correctly matched."
+   "answer": 0,
+   "explanation": "Only Kaimur Wildlife Sanctuary - Bihar is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0382",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "Adoption of the UN Sustainable Development Goals - 1588",
     "Adoption of the UN Sustainable Development Goals - 1969",
     "Adoption of the UN Sustainable Development Goals - 1922",
     "Adoption of the UN Sustainable Development Goals - 2015"
    ],
-   "a": 3,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Adoption of the UN Sustainable Development Goals - 2015 is correctly matched."
+   "answer": 3,
+   "explanation": "Only Adoption of the UN Sustainable Development Goals - 2015 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0383",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "National Youth Day (India) - 8 September",
     "National Youth Day (India) - 12 January",
     "National Youth Day (India) - 3 March",
     "National Youth Day (India) - 29 August"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only National Youth Day (India) - 12 January is correctly matched."
+   "answer": 1,
+   "explanation": "Only National Youth Day (India) - 12 January is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0384",
-   "q": "Harmless is a synonym of which of the following words?",
-   "o": [
+   "question": "Harmless is a synonym of which of the following words?",
+   "options": [
     "Arduous",
     "Scrupulous",
     "Reminisce",
     "Innocuous"
    ],
-   "a": 3,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Harmless is a synonym of Innocuous."
+   "answer": 3,
+   "explanation": "Harmless is a synonym of Innocuous.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0385",
-   "q": "Permanent is an antonym of which of the following words?",
-   "o": [
+   "question": "Permanent is an antonym of which of the following words?",
+   "options": [
     "Detrimental",
     "Futile",
     "Ecstasy",
     "Transient"
    ],
-   "a": 3,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Permanent is the opposite of Transient."
+   "answer": 3,
+   "explanation": "Permanent is the opposite of Transient.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0386",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "An axe to grind - A dangerous person pretending to be harmless",
     "An axe to grind - A selfish motive",
     "An axe to grind - A short-lived sensation",
     "An axe to grind - With all one's belongings"
    ],
-   "a": 1,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only An axe to grind - A selfish motive is correctly matched."
+   "answer": 1,
+   "explanation": "Only An axe to grind - A selfish motive is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0387",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Words written on a tomb - Endemic",
     "Words written on a tomb - Zoologist",
     "Words written on a tomb - Perennials",
     "Words written on a tomb - Epitaph"
    ],
-   "a": 3,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Words written on a tomb - Epitaph is correctly matched."
+   "answer": 3,
+   "explanation": "Only Words written on a tomb - Epitaph is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0388",
-   "q": "Which of the following words is spelt incorrectly?",
-   "o": [
+   "question": "Which of the following words is spelt incorrectly?",
+   "options": [
     "Occurence",
     "Humerous",
     "Writting",
     "Guage"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 2,
-   "s": "generated",
-   "e": "The incorrect spelling shown is Occurence; the correct form is Occurrence."
+   "answer": 0,
+   "explanation": "The incorrect spelling shown is Occurence; the correct form is Occurrence.",
+   "topic": "Spellings",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0389",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Potato - Potatoes",
     "Potato - Trout",
     "Potato - Cacti",
     "Potato - Leaves"
    ],
-   "a": 0,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Potato - Potatoes is correctly matched."
+   "answer": 0,
+   "explanation": "Only Potato - Potatoes is correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0390",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Dark - More courageous",
     "Dark - More",
     "Dark - Stronger",
     "Dark - Darker"
    ],
-   "a": 3,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Dark - Darker is correctly matched."
+   "answer": 3,
+   "explanation": "Only Dark - Darker is correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0391",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "Printer - Organised collection of data",
     "Printer - Input device that captures video",
     "Printer - Devices that work as soon as they are connected",
     "Printer - Output device that produces hard copies"
    ],
-   "a": 3,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Printer - Output device that produces hard copies is correctly matched."
+   "answer": 3,
+   "explanation": "Only Printer - Output device that produces hard copies is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0392",
-   "q": "Which of the following abbreviations stands for Employees' Provident Fund?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Employees' Provident Fund?",
+   "options": [
     "EPF",
     "UNEP",
     "AMFI",
     "CAG"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Employees' Provident Fund is abbreviated as EPF."
+   "answer": 0,
+   "explanation": "Employees' Provident Fund is abbreviated as EPF.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0393",
-   "q": "Mogadishu is the capital of which country?",
-   "o": [
+   "question": "Mogadishu is the capital of which country?",
+   "options": [
     "Malaysia",
     "Australia",
     "Samoa",
     "Somalia"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "Mogadishu is the capital of Somalia."
+   "answer": 3,
+   "explanation": "Mogadishu is the capital of Somalia.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0394",
-   "q": "What is the atomic number of Thorium?",
-   "o": [
+   "question": "What is the atomic number of Thorium?",
+   "options": [
     "24",
     "74",
     "50",
     "90"
    ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "The atomic number of Thorium is 90."
+   "answer": 3,
+   "explanation": "The atomic number of Thorium is 90.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0395",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Achanakmar Tiger Reserve - Chhattisgarh",
     "Achanakmar Tiger Reserve - Bihar",
     "Achanakmar Tiger Reserve - Kerala",
     "Achanakmar Tiger Reserve - Odisha"
    ],
-   "a": 0,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Achanakmar Tiger Reserve - Chhattisgarh is correctly matched."
+   "answer": 0,
+   "explanation": "Only Achanakmar Tiger Reserve - Chhattisgarh is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0396",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "Cuban Missile Crisis - 1933",
     "Cuban Missile Crisis - 1903",
     "Cuban Missile Crisis - 1869",
     "Cuban Missile Crisis - 1962"
    ],
-   "a": 3,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Cuban Missile Crisis - 1962 is correctly matched."
+   "answer": 3,
+   "explanation": "Only Cuban Missile Crisis - 1962 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0397",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "National Youth Day (India) - 17 November",
     "National Youth Day (India) - 12 January",
     "National Youth Day (India) - 30 April",
     "National Youth Day (India) - 21 June"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only National Youth Day (India) - 12 January is correctly matched."
+   "answer": 1,
+   "explanation": "Only National Youth Day (India) - 12 January is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0398",
-   "q": "Dilemma is a synonym of which of the following words?",
-   "o": [
+   "question": "Dilemma is a synonym of which of the following words?",
+   "options": [
     "Predicament",
     "Antipathy",
     "Arduous",
     "Poignant"
    ],
-   "a": 0,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Dilemma is a synonym of Predicament."
+   "answer": 0,
+   "explanation": "Dilemma is a synonym of Predicament.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0399",
-   "q": "Flexible is an antonym of which of the following words?",
-   "o": [
+   "question": "Flexible is an antonym of which of the following words?",
+   "options": [
     "Adamant",
     "Levity",
     "Diminish",
     "Lucid"
    ],
-   "a": 0,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Flexible is the opposite of Adamant."
+   "answer": 0,
+   "explanation": "Flexible is the opposite of Adamant.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0400",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "An axe to grind - An inexperienced person",
     "An axe to grind - An achievement to be proud of",
     "An axe to grind - Fail to have the intended effect",
     "An axe to grind - A selfish motive"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only An axe to grind - A selfish motive is correctly matched."
+   "answer": 3,
+   "explanation": "Only An axe to grind - A selfish motive is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0401",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "A place where money is coined - Somniloquist",
     "A place where money is coined - Mint",
     "A place where money is coined - Dialogue",
     "A place where money is coined - Librarian"
    ],
-   "a": 1,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only A place where money is coined - Mint is correctly matched."
+   "answer": 1,
+   "explanation": "Only A place where money is coined - Mint is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0402",
-   "q": "Which of the following words is spelt incorrectly?",
-   "o": [
+   "question": "Which of the following words is spelt incorrectly?",
+   "options": [
     "Coloumn",
     "Emperior",
     "Succesful",
     "Publically"
    ],
-   "a": 1,
-   "t": "Spellings",
-   "l": 2,
-   "s": "generated",
-   "e": "The incorrect spelling shown is Emperior; the correct form is Emperor."
+   "answer": 1,
+   "explanation": "The incorrect spelling shown is Emperior; the correct form is Emperor.",
+   "topic": "Spellings",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0403",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Crisis - Crises",
     "Crisis - Radios",
     "Crisis - Hypotheses",
     "Crisis - Oxen"
    ],
-   "a": 0,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Crisis - Crises is correctly matched."
+   "answer": 0,
+   "explanation": "Only Crisis - Crises is correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0404",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Weak - Longer",
     "Weak - Weaker",
     "Weak - Nobler",
     "Weak - Kinder"
    ],
-   "a": 1,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Weak - Weaker is correctly matched."
+   "answer": 1,
+   "explanation": "Only Weak - Weaker is correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0405",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "Plug and play - Language used to structure web pages",
     "Plug and play - Devices that work as soon as they are connected",
     "Plug and play - Number system with base two",
     "Plug and play - Output device that produces hard copies"
    ],
-   "a": 1,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Plug and play - Devices that work as soon as they are connected is correctly matched."
+   "answer": 1,
+   "explanation": "Only Plug and play - Devices that work as soon as they are connected is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0406",
-   "q": "Which of the following abbreviations stands for North Atlantic Treaty Organization?",
-   "o": [
+   "question": "Which of the following abbreviations stands for North Atlantic Treaty Organization?",
+   "options": [
     "NATO",
     "UNEP",
     "SAI",
     "OPEC"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "North Atlantic Treaty Organization is abbreviated as NATO."
+   "answer": 0,
+   "explanation": "North Atlantic Treaty Organization is abbreviated as NATO.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0407",
-   "q": "Skopje is the capital of which country?",
-   "o": [
+   "question": "Skopje is the capital of which country?",
+   "options": [
     "Gambia",
     "Egypt",
     "Madagascar",
     "North Macedonia"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "Skopje is the capital of North Macedonia."
+   "answer": 3,
+   "explanation": "Skopje is the capital of North Macedonia.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0408",
-   "q": "What is the atomic number of Meitnerium?",
-   "o": [
+   "question": "What is the atomic number of Meitnerium?",
+   "options": [
     "31",
     "109",
     "55",
     "17"
    ],
-   "a": 1,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "The atomic number of Meitnerium is 109."
+   "answer": 1,
+   "explanation": "The atomic number of Meitnerium is 109.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0409",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Achanakmar Tiger Reserve - Jammu and Kashmir",
     "Achanakmar Tiger Reserve - Rajasthan",
     "Achanakmar Tiger Reserve - Chhattisgarh",
     "Achanakmar Tiger Reserve - Madhya Pradesh"
    ],
-   "a": 2,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Achanakmar Tiger Reserve - Chhattisgarh is correctly matched."
+   "answer": 2,
+   "explanation": "Only Achanakmar Tiger Reserve - Chhattisgarh is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0410",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "Cuban Missile Crisis - 1991",
     "Cuban Missile Crisis - 1962",
     "Cuban Missile Crisis - 1945",
     "Cuban Missile Crisis - 1865"
    ],
-   "a": 1,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Cuban Missile Crisis - 1962 is correctly matched."
+   "answer": 1,
+   "explanation": "Only Cuban Missile Crisis - 1962 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0411",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "International Tea Day - 14 October",
     "International Tea Day - 21 May",
     "International Tea Day - 25 January",
     "International Tea Day - 10 December"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only International Tea Day - 21 May is correctly matched."
+   "answer": 1,
+   "explanation": "Only International Tea Day - 21 May is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0412",
-   "q": "Secret is a synonym of which of the following words?",
-   "o": [
+   "question": "Secret is a synonym of which of the following words?",
+   "options": [
     "Lament",
     "Tentative",
     "Clandestine",
     "Stringent"
    ],
-   "a": 2,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Secret is a synonym of Clandestine."
+   "answer": 2,
+   "explanation": "Secret is a synonym of Clandestine.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0413",
-   "q": "Luxurious is an antonym of which of the following words?",
-   "o": [
+   "question": "Luxurious is an antonym of which of the following words?",
+   "options": [
     "Austere",
     "Debilitate",
     "Ephemeral",
     "Squalid"
    ],
-   "a": 0,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Luxurious is the opposite of Austere."
+   "answer": 0,
+   "explanation": "Luxurious is the opposite of Austere.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0414",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Without beating about the bush - Praise oneself",
     "Without beating about the bush - Act in defiance of",
     "Without beating about the bush - Without wasting words",
     "Without beating about the bush - Deliberate indifference"
    ],
-   "a": 2,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Without beating about the bush - Without wasting words is correctly matched."
+   "answer": 2,
+   "explanation": "Only Without beating about the bush - Without wasting words is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0415",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "A place where money is coined - Inimitable",
     "A place where money is coined - Cobbler",
     "A place where money is coined - Edible",
     "A place where money is coined - Mint"
    ],
-   "a": 3,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only A place where money is coined - Mint is correctly matched."
+   "answer": 3,
+   "explanation": "Only A place where money is coined - Mint is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0416",
-   "q": "Which of the following words is spelt incorrectly?",
-   "o": [
+   "question": "Which of the following words is spelt incorrectly?",
+   "options": [
     "Mispell",
     "Comparision",
     "Commitee",
     "Occured"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 2,
-   "s": "generated",
-   "e": "The incorrect spelling shown is Occured; the correct form is Occurred."
+   "answer": 3,
+   "explanation": "The incorrect spelling shown is Occured; the correct form is Occurred.",
+   "topic": "Spellings",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0417",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Crisis - Sons-in-law",
     "Crisis - Vertices",
     "Crisis - Crises",
     "Crisis - Passers-by"
    ],
-   "a": 2,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Crisis - Crises is correctly matched."
+   "answer": 2,
+   "explanation": "Only Crisis - Crises is correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0418",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Weak - More courageous",
     "Weak - Faster",
     "Weak - Weaker",
     "Weak - Deeper"
    ],
-   "a": 2,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Weak - Weaker is correctly matched."
+   "answer": 2,
+   "explanation": "Only Weak - Weaker is correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0419",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "Plug and play - Language that adds behaviour to web pages",
     "Plug and play - Input device that captures video",
     "Plug and play - Devices that work as soon as they are connected",
     "Plug and play - Firmware that starts the computer"
    ],
-   "a": 2,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Plug and play - Devices that work as soon as they are connected is correctly matched."
+   "answer": 2,
+   "explanation": "Only Plug and play - Devices that work as soon as they are connected is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0420",
-   "q": "Which of the following abbreviations stands for Magnetic Resonance Imaging?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Magnetic Resonance Imaging?",
+   "options": [
     "ICC cricket",
     "MRI",
     "NNP",
     "MSF"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Magnetic Resonance Imaging is abbreviated as MRI."
+   "answer": 1,
+   "explanation": "Magnetic Resonance Imaging is abbreviated as MRI.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0421",
-   "q": "Baku is the capital of which country?",
-   "o": [
+   "question": "Baku is the capital of which country?",
+   "options": [
     "Azerbaijan",
     "Bolivia",
     "Greece",
     "Barbados"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "Baku is the capital of Azerbaijan."
+   "answer": 0,
+   "explanation": "Baku is the capital of Azerbaijan.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0422",
-   "q": "What is the atomic number of Palladium?",
-   "o": [
+   "question": "What is the atomic number of Palladium?",
+   "options": [
     "68",
     "59",
     "46",
     "77"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "The atomic number of Palladium is 46."
+   "answer": 2,
+   "explanation": "The atomic number of Palladium is 46.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0423",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Keibul Lamjao National Park - Mizoram",
     "Keibul Lamjao National Park - Manipur",
     "Keibul Lamjao National Park - Uttar Pradesh",
     "Keibul Lamjao National Park - Madhya Pradesh"
    ],
-   "a": 1,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Keibul Lamjao National Park - Manipur is correctly matched."
+   "answer": 1,
+   "explanation": "Only Keibul Lamjao National Park - Manipur is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0424",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "Founding of the People's Republic of China - 1949",
     "Founding of the People's Republic of China - 2001",
     "Founding of the People's Republic of China - 1973",
     "Founding of the People's Republic of China - 2015"
    ],
-   "a": 0,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Founding of the People's Republic of China - 1949 is correctly matched."
+   "answer": 0,
+   "explanation": "Only Founding of the People's Republic of China - 1949 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0425",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "International Tea Day - 21 May",
     "International Tea Day - 12 January",
     "International Tea Day - 27 September",
     "International Tea Day - third Thursday of November"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only International Tea Day - 21 May is correctly matched."
+   "answer": 0,
+   "explanation": "Only International Tea Day - 21 May is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0426",
-   "q": "Generous is a synonym of which of the following words?",
-   "o": [
+   "question": "Generous is a synonym of which of the following words?",
+   "options": [
     "Placid",
     "Munificent",
     "Impartial",
     "Deplete"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Generous is a synonym of Munificent."
+   "answer": 1,
+   "explanation": "Generous is a synonym of Munificent.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0427",
-   "q": "Careless is an antonym of which of the following words?",
-   "o": [
+   "question": "Careless is an antonym of which of the following words?",
+   "options": [
     "Discreet",
     "Impede",
     "Relinquish",
     "Explicit"
    ],
-   "a": 0,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Careless is the opposite of Discreet."
+   "answer": 0,
+   "explanation": "Careless is the opposite of Discreet.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0428",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Without beating about the bush - Without wasting words",
     "Without beating about the bush - An unexpected event",
     "Without beating about the bush - A weak point",
     "Without beating about the bush - By fair or unfair means"
    ],
-   "a": 0,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Without beating about the bush - Without wasting words is correctly matched."
+   "answer": 0,
+   "explanation": "Only Without beating about the bush - Without wasting words is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0429",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Animals that eat only flesh - Contagious",
     "Animals that eat only flesh - Fratricide",
     "Animals that eat only flesh - Carnivores",
     "Animals that eat only flesh - Synonyms"
    ],
-   "a": 2,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Animals that eat only flesh - Carnivores is correctly matched."
+   "answer": 2,
+   "explanation": "Only Animals that eat only flesh - Carnivores is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0430",
-   "q": "Which of the following words is spelt incorrectly?",
-   "o": [
+   "question": "Which of the following words is spelt incorrectly?",
+   "options": [
     "Courgaeous",
     "Excelent",
     "Appearence",
     "Buisness"
    ],
-   "a": 1,
-   "t": "Spellings",
-   "l": 2,
-   "s": "generated",
-   "e": "The incorrect spelling shown is Excelent; the correct form is Excellent."
+   "answer": 1,
+   "explanation": "The incorrect spelling shown is Excelent; the correct form is Excellent.",
+   "topic": "Spellings",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0431",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Goose - Data",
     "Goose - Men",
     "Goose - Heroes",
     "Goose - Geese"
    ],
-   "a": 3,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Goose - Geese is correctly matched."
+   "answer": 3,
+   "explanation": "Only Goose - Geese is correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0432",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Many - More difficult",
     "Many - Wider",
     "Many - More",
     "Many - Narrower"
    ],
-   "a": 2,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Many - More is correctly matched."
+   "answer": 2,
+   "explanation": "Only Many - More is correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0433",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "Operating system - Main circuit board of a computer",
     "Operating system - Program that converts source code into machine code",
     "Operating system - Software that manages databases",
     "Operating system - Software that manages hardware and applications"
    ],
-   "a": 3,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Operating system - Software that manages hardware and applications is correctly matched."
+   "answer": 3,
+   "explanation": "Only Operating system - Software that manages hardware and applications is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0434",
-   "q": "Which of the following abbreviations stands for International Committee of the Red Cross?",
-   "o": [
+   "question": "Which of the following abbreviations stands for International Committee of the Red Cross?",
+   "options": [
     "OPD",
     "ICRC",
     "CISF",
     "OTP"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "International Committee of the Red Cross is abbreviated as ICRC."
+   "answer": 1,
+   "explanation": "International Committee of the Red Cross is abbreviated as ICRC.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0435",
-   "q": "Tripoli is the capital of which country?",
-   "o": [
+   "question": "Tripoli is the capital of which country?",
+   "options": [
     "Indonesia",
     "Zambia",
     "Libya",
     "Mali"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "Tripoli is the capital of Libya."
+   "answer": 2,
+   "explanation": "Tripoli is the capital of Libya.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0436",
-   "q": "What is the atomic number of Fermium?",
-   "o": [
+   "question": "What is the atomic number of Fermium?",
+   "options": [
     "26",
     "116",
     "100",
     "63"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "The atomic number of Fermium is 100."
+   "answer": 2,
+   "explanation": "The atomic number of Fermium is 100.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0437",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Keibul Lamjao National Park - Meghalaya",
     "Keibul Lamjao National Park - Manipur",
     "Keibul Lamjao National Park - Jharkhand",
     "Keibul Lamjao National Park - Karnataka"
    ],
-   "a": 1,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Keibul Lamjao National Park - Manipur is correctly matched."
+   "answer": 1,
+   "explanation": "Only Keibul Lamjao National Park - Manipur is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0438",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "Founding of the People's Republic of China - 1949",
     "Founding of the People's Republic of China - 1955",
     "Founding of the People's Republic of China - 1953",
     "Founding of the People's Republic of China - 1789"
    ],
-   "a": 0,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Founding of the People's Republic of China - 1949 is correctly matched."
+   "answer": 0,
+   "explanation": "Only Founding of the People's Republic of China - 1949 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0439",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "World Pulses Day - 14 December",
     "World Pulses Day - 9 August",
     "World Pulses Day - 22 March",
     "World Pulses Day - 10 February"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only World Pulses Day - 10 February is correctly matched."
+   "answer": 3,
+   "explanation": "Only World Pulses Day - 10 February is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0440",
-   "q": "Concise is a synonym of which of the following words?",
-   "o": [
+   "question": "Concise is a synonym of which of the following words?",
+   "options": [
     "Stagnant",
     "Succinct",
     "Taciturn",
     "Conspicuous"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Concise is a synonym of Succinct."
+   "answer": 1,
+   "explanation": "Concise is a synonym of Succinct.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0441",
-   "q": "Barren is an antonym of which of the following words?",
-   "o": [
+   "question": "Barren is an antonym of which of the following words?",
+   "options": [
     "Fertile",
     "Corroborate",
     "Prodigal",
     "Despondent"
    ],
-   "a": 0,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Barren is the opposite of Fertile."
+   "answer": 0,
+   "explanation": "Barren is the opposite of Fertile.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0442",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Live from hand to mouth - Interfere",
     "Live from hand to mouth - A cause of quarrel",
     "Live from hand to mouth - Barely manage to survive",
     "Live from hand to mouth - Come to nothing"
    ],
-   "a": 2,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Live from hand to mouth - Barely manage to survive is correctly matched."
+   "answer": 2,
+   "explanation": "Only Live from hand to mouth - Barely manage to survive is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0443",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Animals that eat only flesh - Oligarchy",
     "Animals that eat only flesh - Barber",
     "Animals that eat only flesh - Linguist",
     "Animals that eat only flesh - Carnivores"
    ],
-   "a": 3,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Animals that eat only flesh - Carnivores is correctly matched."
+   "answer": 3,
+   "explanation": "Only Animals that eat only flesh - Carnivores is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0444",
-   "q": "Which of the following words is spelt incorrectly?",
-   "o": [
+   "question": "Which of the following words is spelt incorrectly?",
+   "options": [
     "Comparision",
     "Coloumn",
     "Transfering",
     "Liason"
    ],
-   "a": 1,
-   "t": "Spellings",
-   "l": 2,
-   "s": "generated",
-   "e": "The incorrect spelling shown is Coloumn; the correct form is Column."
+   "answer": 1,
+   "explanation": "The incorrect spelling shown is Coloumn; the correct form is Column.",
+   "topic": "Spellings",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0445",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Goose - Knives",
     "Goose - Thieves",
     "Goose - Geese",
     "Goose - Oxen"
    ],
-   "a": 2,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Goose - Geese is correctly matched."
+   "answer": 2,
+   "explanation": "Only Goose - Geese is correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0446",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Many - More",
     "Many - Taller",
     "Many - Gentler",
     "Many - Cleverer"
    ],
-   "a": 0,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Many - More is correctly matched."
+   "answer": 0,
+   "explanation": "Only Many - More is correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0447",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "Operating system - Software that manages hardware and applications",
     "Operating system - Interface that uses icons and windows",
     "Operating system - Diagram of the steps of an algorithm",
     "Operating system - Volatile main memory used for running programs"
    ],
-   "a": 0,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Operating system - Software that manages hardware and applications is correctly matched."
+   "answer": 0,
+   "explanation": "Only Operating system - Software that manages hardware and applications is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0448",
-   "q": "Which of the following abbreviations stands for South Asian Association for Regional Cooperation?",
-   "o": [
+   "question": "Which of the following abbreviations stands for South Asian Association for Regional Cooperation?",
+   "options": [
     "MSF",
     "IUCN",
     "ORS",
     "SAARC"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "South Asian Association for Regional Cooperation is abbreviated as SAARC."
+   "answer": 3,
+   "explanation": "South Asian Association for Regional Cooperation is abbreviated as SAARC.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0449",
-   "q": "Khartoum is the capital of which country?",
-   "o": [
+   "question": "Khartoum is the capital of which country?",
+   "options": [
     "Sudan",
     "Cyprus",
     "Liberia",
     "Azerbaijan"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "Khartoum is the capital of Sudan."
+   "answer": 0,
+   "explanation": "Khartoum is the capital of Sudan.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0450",
-   "q": "What is the atomic number of Roentgenium?",
-   "o": [
+   "question": "What is the atomic number of Roentgenium?",
+   "options": [
     "24",
     "57",
     "41",
     "111"
    ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "The atomic number of Roentgenium is 111."
+   "answer": 3,
+   "explanation": "The atomic number of Roentgenium is 111.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0451",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Sitanadi Wildlife Sanctuary - Karnataka",
     "Sitanadi Wildlife Sanctuary - Nagaland",
     "Sitanadi Wildlife Sanctuary - Kerala",
     "Sitanadi Wildlife Sanctuary - Chhattisgarh"
    ],
-   "a": 3,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Sitanadi Wildlife Sanctuary - Chhattisgarh is correctly matched."
+   "answer": 3,
+   "explanation": "Only Sitanadi Wildlife Sanctuary - Chhattisgarh is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0452",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "Publication of the Communist Manifesto - 1901",
     "Publication of the Communist Manifesto - 1861",
     "Publication of the Communist Manifesto - 1869",
     "Publication of the Communist Manifesto - 1848"
    ],
-   "a": 3,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Publication of the Communist Manifesto - 1848 is correctly matched."
+   "answer": 3,
+   "explanation": "Only Publication of the Communist Manifesto - 1848 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0453",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "World Pulses Day - 8 September",
     "World Pulses Day - 31 October",
     "World Pulses Day - 2 October",
     "World Pulses Day - 10 February"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only World Pulses Day - 10 February is correctly matched."
+   "answer": 3,
+   "explanation": "Only World Pulses Day - 10 February is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0454",
-   "q": "Lavish is a synonym of which of the following words?",
-   "o": [
+   "question": "Lavish is a synonym of which of the following words?",
+   "options": [
     "Futile",
     "Facilitate",
     "Sumptuous",
     "Irascible"
    ],
-   "a": 2,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Lavish is a synonym of Sumptuous."
+   "answer": 2,
+   "explanation": "Lavish is a synonym of Sumptuous.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0455",
-   "q": "Permanent is an antonym of which of the following words?",
-   "o": [
+   "question": "Permanent is an antonym of which of the following words?",
+   "options": [
     "Alleviate",
     "Ephemeral",
     "Ancient",
     "Arduous"
    ],
-   "a": 1,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Permanent is the opposite of Ephemeral."
+   "answer": 1,
+   "explanation": "Permanent is the opposite of Ephemeral.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0456",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Live from hand to mouth - Barely manage to survive",
     "Live from hand to mouth - Completely",
     "Live from hand to mouth - Thoroughly",
     "Live from hand to mouth - Unacceptable"
    ],
-   "a": 0,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Live from hand to mouth - Barely manage to survive is correctly matched."
+   "answer": 0,
+   "explanation": "Only Live from hand to mouth - Barely manage to survive is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0457",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "The murder of a king - Manifest",
     "The murder of a king - Somniloquist",
     "The murder of a king - Homicide",
     "The murder of a king - Regicide"
    ],
-   "a": 3,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only The murder of a king - Regicide is correctly matched."
+   "answer": 3,
+   "explanation": "Only The murder of a king - Regicide is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0458",
-   "q": "Which of the following words is spelt incorrectly?",
-   "o": [
+   "question": "Which of the following words is spelt incorrectly?",
+   "options": [
     "Posession",
     "Accomodation",
     "Threshhold",
     "Cheif"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 2,
-   "s": "generated",
-   "e": "The incorrect spelling shown is Posession; the correct form is Possession."
+   "answer": 0,
+   "explanation": "The incorrect spelling shown is Posession; the correct form is Possession.",
+   "topic": "Spellings",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0459",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Commander-in-Chief - Mosquitoes",
     "Church - Churches",
     "Criterion - Criteria",
     "Tomato - Tomatoes"
    ],
-   "a": 0,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Commander-in-Chief - Mosquitoes is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Commander-in-Chief - Mosquitoes is not correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0460",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "High - Gentler",
     "High - Wider",
     "High - Shorter",
     "High - Higher"
    ],
-   "a": 3,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "Only High - Higher is correctly matched."
+   "answer": 3,
+   "explanation": "Only High - Higher is correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0461",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "Hard disk - Magnetic secondary storage device",
     "Hard disk - Software that secretly collects information",
     "Hard disk - Language used to query databases",
     "Hard disk - Temporary storage for frequently used data"
    ],
-   "a": 0,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Hard disk - Magnetic secondary storage device is correctly matched."
+   "answer": 0,
+   "explanation": "Only Hard disk - Magnetic secondary storage device is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0462",
-   "q": "Which of the following abbreviations stands for Asian Infrastructure Investment Bank?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Asian Infrastructure Investment Bank?",
+   "options": [
     "POS",
     "WADA",
     "AIIB",
     "SI"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Asian Infrastructure Investment Bank is abbreviated as AIIB."
+   "answer": 2,
+   "explanation": "Asian Infrastructure Investment Bank is abbreviated as AIIB.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0463",
-   "q": "Bridgetown is the capital of which country?",
-   "o": [
+   "question": "Bridgetown is the capital of which country?",
+   "options": [
     "Barbados",
     "Suriname",
     "Colombia",
     "Ireland"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "Bridgetown is the capital of Barbados."
+   "answer": 0,
+   "explanation": "Bridgetown is the capital of Barbados.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0464",
-   "q": "What is the atomic number of Sulphur?",
-   "o": [
+   "question": "What is the atomic number of Sulphur?",
+   "options": [
     "19",
     "60",
     "16",
     "96"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "The atomic number of Sulphur is 16."
+   "answer": 2,
+   "explanation": "The atomic number of Sulphur is 16.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0465",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Sitanadi Wildlife Sanctuary - Bihar",
     "Sitanadi Wildlife Sanctuary - Himachal Pradesh",
     "Sitanadi Wildlife Sanctuary - Chhattisgarh",
     "Sitanadi Wildlife Sanctuary - Kerala"
    ],
-   "a": 2,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Sitanadi Wildlife Sanctuary - Chhattisgarh is correctly matched."
+   "answer": 2,
+   "explanation": "Only Sitanadi Wildlife Sanctuary - Chhattisgarh is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0466",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "Publication of the Communist Manifesto - 1848",
     "Publication of the Communist Manifesto - 1962",
     "Publication of the Communist Manifesto - 2020",
     "Publication of the Communist Manifesto - 1995"
    ],
-   "a": 0,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Publication of the Communist Manifesto - 1848 is correctly matched."
+   "answer": 0,
+   "explanation": "Only Publication of the Communist Manifesto - 1848 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0467",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "World Heart Day - 29 September",
     "World Heart Day - first Monday of October",
     "World Heart Day - 22 April",
     "World Heart Day - 11 December"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only World Heart Day - 29 September is correctly matched."
+   "answer": 0,
+   "explanation": "Only World Heart Day - 29 September is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0468",
-   "q": "Recall is a synonym of which of the following words?",
-   "o": [
+   "question": "Recall is a synonym of which of the following words?",
+   "options": [
     "Succinct",
     "Languid",
     "Ample",
     "Reminisce"
    ],
-   "a": 3,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Recall is a synonym of Reminisce."
+   "answer": 3,
+   "explanation": "Recall is a synonym of Reminisce.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0469",
-   "q": "Essential is an antonym of which of the following words?",
-   "o": [
+   "question": "Essential is an antonym of which of the following words?",
+   "options": [
     "Scrupulous",
     "Redundant",
     "Trivial",
     "Prolific"
    ],
-   "a": 1,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Essential is the opposite of Redundant."
+   "answer": 1,
+   "explanation": "Essential is the opposite of Redundant.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0470",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Hang fire - Remain undecided",
     "Hang fire - An inexperienced person",
     "Hang fire - Unable to speak plainly",
     "Hang fire - Permanently"
    ],
-   "a": 0,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Hang fire - Remain undecided is correctly matched."
+   "answer": 0,
+   "explanation": "Only Hang fire - Remain undecided is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0471",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "The murder of a king - Plutocracy",
     "The murder of a king - Glutton",
     "The murder of a king - Regicide",
     "The murder of a king - Biography"
    ],
-   "a": 2,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only The murder of a king - Regicide is correctly matched."
+   "answer": 2,
+   "explanation": "Only The murder of a king - Regicide is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0472",
-   "q": "Which of the following words is spelt incorrectly?",
-   "o": [
+   "question": "Which of the following words is spelt incorrectly?",
+   "options": [
     "Occassion",
     "Aggrevate",
     "Quanity",
     "Questionaire"
    ],
-   "a": 1,
-   "t": "Spellings",
-   "l": 2,
-   "s": "generated",
-   "e": "The incorrect spelling shown is Aggrevate; the correct form is Aggravate."
+   "answer": 1,
+   "explanation": "The incorrect spelling shown is Aggrevate; the correct form is Aggravate.",
+   "topic": "Spellings",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0473",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Tooth - Teeth",
     "Crisis - Crises",
     "Woman - Axes",
     "Man - Men"
    ],
-   "a": 2,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Woman - Axes is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Woman - Axes is not correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0474",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "High - Darker",
     "High - More beautiful",
     "High - Higher",
     "High - Shallower"
    ],
-   "a": 2,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "Only High - Higher is correctly matched."
+   "answer": 2,
+   "explanation": "Only High - Higher is correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0475",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "Hard disk - Protocol used to transfer web pages",
     "Hard disk - Program that converts source code into machine code",
     "Hard disk - Magnetic secondary storage device",
     "Hard disk - Input device that captures sound"
    ],
-   "a": 2,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Hard disk - Magnetic secondary storage device is correctly matched."
+   "answer": 2,
+   "explanation": "Only Hard disk - Magnetic secondary storage device is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0476",
-   "q": "Which of the following abbreviations stands for Pradhan Mantri Jan Arogya Yojana?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Pradhan Mantri Jan Arogya Yojana?",
+   "options": [
     "PMJAY",
     "PIN",
     "RBI",
     "DBT"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Pradhan Mantri Jan Arogya Yojana is abbreviated as PMJAY."
+   "answer": 0,
+   "explanation": "Pradhan Mantri Jan Arogya Yojana is abbreviated as PMJAY.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0477",
-   "q": "Tallinn is the capital of which country?",
-   "o": [
+   "question": "Tallinn is the capital of which country?",
+   "options": [
     "Burkina Faso",
     "Estonia",
     "Argentina",
     "Zimbabwe"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "Tallinn is the capital of Estonia."
+   "answer": 1,
+   "explanation": "Tallinn is the capital of Estonia.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0478",
-   "q": "What is the atomic number of Bismuth?",
-   "o": [
+   "question": "What is the atomic number of Bismuth?",
+   "options": [
     "95",
     "35",
     "31",
     "83"
    ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "The atomic number of Bismuth is 83."
+   "answer": 3,
+   "explanation": "The atomic number of Bismuth is 83.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0479",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Dibru-Saikhowa National Park - Karnataka",
     "Dibru-Saikhowa National Park - Maharashtra",
     "Dibru-Saikhowa National Park - Assam",
     "Dibru-Saikhowa National Park - Madhya Pradesh"
    ],
-   "a": 2,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Dibru-Saikhowa National Park - Assam is correctly matched."
+   "answer": 2,
+   "explanation": "Only Dibru-Saikhowa National Park - Assam is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0480",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "Atomic bombing of Hiroshima and Nagasaki - 1869",
     "Atomic bombing of Hiroshima and Nagasaki - 1929",
     "Atomic bombing of Hiroshima and Nagasaki - 1945",
     "Atomic bombing of Hiroshima and Nagasaki - 1914"
    ],
-   "a": 2,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Atomic bombing of Hiroshima and Nagasaki - 1945 is correctly matched."
+   "answer": 2,
+   "explanation": "Only Atomic bombing of Hiroshima and Nagasaki - 1945 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0481",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "World Heart Day - first Monday of October",
     "World Heart Day - 29 September",
     "World Heart Day - 26 November",
     "World Heart Day - 30 April"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only World Heart Day - 29 September is correctly matched."
+   "answer": 1,
+   "explanation": "Only World Heart Day - 29 September is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0482",
-   "q": "Overjoyed is a synonym of which of the following words?",
-   "o": [
+   "question": "Overjoyed is a synonym of which of the following words?",
+   "options": [
     "Uncanny",
     "Elated",
     "Penchant",
     "Deplete"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Overjoyed is a synonym of Elated."
+   "answer": 1,
+   "explanation": "Overjoyed is a synonym of Elated.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0483",
-   "q": "Frugal is an antonym of which of the following words?",
-   "o": [
+   "question": "Frugal is an antonym of which of the following words?",
+   "options": [
     "Ambiguous",
     "Abundant",
     "Insolent",
     "Extravagant"
    ],
-   "a": 3,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Frugal is the opposite of Extravagant."
+   "answer": 3,
+   "explanation": "Frugal is the opposite of Extravagant.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0484",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Hang fire - Remain undecided",
     "Hang fire - A person of no substance",
     "Hang fire - An ineffective person or government",
     "Hang fire - In trouble"
    ],
-   "a": 0,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Hang fire - Remain undecided is correctly matched."
+   "answer": 0,
+   "explanation": "Only Hang fire - Remain undecided is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0485",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Animals that live in groups - Amphibians",
     "Animals that live in groups - Recluse",
     "Animals that live in groups - Gregarious",
     "Animals that live in groups - Anarchy"
    ],
-   "a": 2,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Animals that live in groups - Gregarious is correctly matched."
+   "answer": 2,
+   "explanation": "Only Animals that live in groups - Gregarious is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0486",
-   "q": "Which of the following words is spelt incorrectly?",
-   "o": [
+   "question": "Which of the following words is spelt incorrectly?",
+   "options": [
     "Villiage",
     "Attendence",
     "Bicycal",
     "Consience"
    ],
-   "a": 1,
-   "t": "Spellings",
-   "l": 2,
-   "s": "generated",
-   "e": "The incorrect spelling shown is Attendence; the correct form is Attendance."
+   "answer": 1,
+   "explanation": "The incorrect spelling shown is Attendence; the correct form is Attendance.",
+   "topic": "Spellings",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0487",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Series - Series",
     "Basis - Bases",
     "Child - Children",
     "Photo - Cities"
    ],
-   "a": 3,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Photo - Cities is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Photo - Cities is not correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0488",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Deep - Smaller",
     "Deep - Nobler",
     "Deep - Deeper",
     "Deep - Braver"
    ],
-   "a": 2,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Deep - Deeper is correctly matched."
+   "answer": 2,
+   "explanation": "Only Deep - Deeper is correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0489",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "LAN - Secure version of the web transfer protocol",
     "LAN - Program that converts source code into machine code",
     "LAN - Malicious program that spreads on its own",
     "LAN - Network covering a small area"
    ],
-   "a": 3,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only LAN - Network covering a small area is correctly matched."
+   "answer": 3,
+   "explanation": "Only LAN - Network covering a small area is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0490",
-   "q": "Which of the following abbreviations stands for Central Reserve Police Force?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Central Reserve Police Force?",
+   "options": [
     "LED",
     "TB",
     "ASEAN",
     "CRPF"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Central Reserve Police Force is abbreviated as CRPF."
+   "answer": 3,
+   "explanation": "Central Reserve Police Force is abbreviated as CRPF.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0491",
-   "q": "Seoul is the capital of which country?",
-   "o": [
+   "question": "Seoul is the capital of which country?",
+   "options": [
     "Malawi",
     "Tajikistan",
     "Cambodia",
     "South Korea"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "Seoul is the capital of South Korea."
+   "answer": 3,
+   "explanation": "Seoul is the capital of South Korea.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0492",
-   "q": "What is the atomic number of Nickel?",
-   "o": [
+   "question": "What is the atomic number of Nickel?",
+   "options": [
     "3",
     "6",
     "38",
     "28"
    ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "The atomic number of Nickel is 28."
+   "answer": 3,
+   "explanation": "The atomic number of Nickel is 28.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0493",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Dibru-Saikhowa National Park - Madhya Pradesh",
     "Dibru-Saikhowa National Park - Assam",
     "Dibru-Saikhowa National Park - Jharkhand",
     "Dibru-Saikhowa National Park - Bihar"
    ],
-   "a": 1,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Dibru-Saikhowa National Park - Assam is correctly matched."
+   "answer": 1,
+   "explanation": "Only Dibru-Saikhowa National Park - Assam is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0494",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "Atomic bombing of Hiroshima and Nagasaki - 1973",
     "Atomic bombing of Hiroshima and Nagasaki - 1944",
     "Atomic bombing of Hiroshima and Nagasaki - 1945",
     "Atomic bombing of Hiroshima and Nagasaki - 1994"
    ],
-   "a": 2,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Atomic bombing of Hiroshima and Nagasaki - 1945 is correctly matched."
+   "answer": 2,
+   "explanation": "Only Atomic bombing of Hiroshima and Nagasaki - 1945 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0495",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "United Nations Day for South-South Cooperation - 20 October",
     "United Nations Day for South-South Cooperation - 19 November",
     "United Nations Day for South-South Cooperation - 12 September",
     "United Nations Day for South-South Cooperation - 21 September"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only United Nations Day for South-South Cooperation - 12 September is correctly matched."
+   "answer": 2,
+   "explanation": "Only United Nations Day for South-South Cooperation - 12 September is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0496",
-   "q": "Confirm is a synonym of which of the following words?",
-   "o": [
+   "question": "Confirm is a synonym of which of the following words?",
+   "options": [
     "Corroborate",
     "Tentative",
     "Conspicuous",
     "Exorbitant"
    ],
-   "a": 0,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Confirm is a synonym of Corroborate."
+   "answer": 0,
+   "explanation": "Confirm is a synonym of Corroborate.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0497",
-   "q": "Cowardice is an antonym of which of the following words?",
-   "o": [
+   "question": "Cowardice is an antonym of which of the following words?",
+   "options": [
     "Dissent",
     "Rebuke",
     "Augment",
     "Fortitude"
    ],
-   "a": 3,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Cowardice is the opposite of Fortitude."
+   "answer": 3,
+   "explanation": "Cowardice is the opposite of Fortitude.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0498",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Get the sack - Make money selfishly",
     "Get the sack - Be dismissed from a job",
     "Get the sack - In a great hurry",
     "Get the sack - Without wasting words"
    ],
-   "a": 1,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Get the sack - Be dismissed from a job is correctly matched."
+   "answer": 1,
+   "explanation": "Only Get the sack - Be dismissed from a job is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0499",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Animals that live in groups - Omnipresent",
     "Animals that live in groups - Vegan",
     "Animals that live in groups - Library",
     "Animals that live in groups - Gregarious"
    ],
-   "a": 3,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Animals that live in groups - Gregarious is correctly matched."
+   "answer": 3,
+   "explanation": "Only Animals that live in groups - Gregarious is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0500",
-   "q": "Which of the following words is spelt incorrectly?",
-   "o": [
+   "question": "Which of the following words is spelt incorrectly?",
+   "options": [
     "Unforseen",
     "Embarass",
     "Pronounciation",
     "Writting"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 2,
-   "s": "generated",
-   "e": "The incorrect spelling shown is Writting; the correct form is Writing."
+   "answer": 3,
+   "explanation": "The incorrect spelling shown is Writting; the correct form is Writing.",
+   "topic": "Spellings",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0501",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Species - Species",
     "Bench - Shelves",
     "City - Cities",
     "Matrix - Matrices"
    ],
-   "a": 1,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Bench - Shelves is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Bench - Shelves is not correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0502",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Deep - Deeper",
     "Deep - Stronger",
     "Deep - Better",
     "Deep - Hotter"
    ],
-   "a": 0,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Deep - Deeper is correctly matched."
+   "answer": 0,
+   "explanation": "Only Deep - Deeper is correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0503",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "LAN - Software used to view web pages",
     "LAN - Network covering a small area",
     "LAN - Input device that captures video",
     "LAN - Language used to query databases"
    ],
-   "a": 1,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only LAN - Network covering a small area is correctly matched."
+   "answer": 1,
+   "explanation": "Only LAN - Network covering a small area is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0504",
-   "q": "Which of the following abbreviations stands for National Defence Academy?",
-   "o": [
+   "question": "Which of the following abbreviations stands for National Defence Academy?",
+   "options": [
     "ISO",
     "NDA",
     "PNB",
     "IPO"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "National Defence Academy is abbreviated as NDA."
+   "answer": 1,
+   "explanation": "National Defence Academy is abbreviated as NDA.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0505",
-   "q": "Kyiv is the capital of which country?",
-   "o": [
+   "question": "Kyiv is the capital of which country?",
+   "options": [
     "Mali",
     "Sweden",
     "Ukraine",
     "Botswana"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "Kyiv is the capital of Ukraine."
+   "answer": 2,
+   "explanation": "Kyiv is the capital of Ukraine.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0506",
-   "q": "What is the atomic number of Radium?",
-   "o": [
+   "question": "What is the atomic number of Radium?",
+   "options": [
     "88",
     "94",
     "23",
     "87"
    ],
-   "a": 0,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "The atomic number of Radium is 88."
+   "answer": 0,
+   "explanation": "The atomic number of Radium is 88.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0507",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Inderkilla National Park - Himachal Pradesh",
     "Inderkilla National Park - Madhya Pradesh",
     "Inderkilla National Park - Maharashtra",
     "Inderkilla National Park - Sikkim"
    ],
-   "a": 0,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Inderkilla National Park - Himachal Pradesh is correctly matched."
+   "answer": 0,
+   "explanation": "Only Inderkilla National Park - Himachal Pradesh is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0508",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "Fall of the Berlin Wall - 1648",
     "Fall of the Berlin Wall - 1963",
     "Fall of the Berlin Wall - 1939",
     "Fall of the Berlin Wall - 1989"
    ],
-   "a": 3,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Fall of the Berlin Wall - 1989 is correctly matched."
+   "answer": 3,
+   "explanation": "Only Fall of the Berlin Wall - 1989 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0509",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "United Nations Day for South-South Cooperation - 18 April",
     "United Nations Day for South-South Cooperation - 25 January",
     "United Nations Day for South-South Cooperation - 10 October",
     "United Nations Day for South-South Cooperation - 12 September"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only United Nations Day for South-South Cooperation - 12 September is correctly matched."
+   "answer": 3,
+   "explanation": "Only United Nations Day for South-South Cooperation - 12 September is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0510",
-   "q": "Scarcity is a synonym of which of the following words?",
-   "o": [
+   "question": "Scarcity is a synonym of which of the following words?",
+   "options": [
     "Prudent",
     "Paucity",
     "Inclination",
     "Capitulate"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Scarcity is a synonym of Paucity."
+   "answer": 1,
+   "explanation": "Scarcity is a synonym of Paucity.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0511",
-   "q": "Unrepentant is an antonym of which of the following words?",
-   "o": [
+   "question": "Unrepentant is an antonym of which of the following words?",
+   "options": [
     "Banal",
     "Ubiquitous",
     "Alleviate",
     "Penitent"
    ],
-   "a": 3,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Unrepentant is the opposite of Penitent."
+   "answer": 3,
+   "explanation": "Unrepentant is the opposite of Penitent.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0512",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Get the sack - Be dismissed from a job",
     "Get the sack - To be kept waiting",
     "Get the sack - Exaggerated speech",
     "Get the sack - Remain undecided"
    ],
-   "a": 0,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Get the sack - Be dismissed from a job is correctly matched."
+   "answer": 0,
+   "explanation": "Only Get the sack - Be dismissed from a job is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0513",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "A disease that spreads over a large area - Acronym",
     "A disease that spreads over a large area - Carnivores",
     "A disease that spreads over a large area - Epidemic",
     "A disease that spreads over a large area - Guide"
    ],
-   "a": 2,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only A disease that spreads over a large area - Epidemic is correctly matched."
+   "answer": 2,
+   "explanation": "Only A disease that spreads over a large area - Epidemic is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0514",
-   "q": "Which of the following words is spelt incorrectly?",
-   "o": [
+   "question": "Which of the following words is spelt incorrectly?",
+   "options": [
     "Priviledge",
     "Irresistable",
     "Gaurantee",
     "Occassion"
    ],
-   "a": 1,
-   "t": "Spellings",
-   "l": 2,
-   "s": "generated",
-   "e": "The incorrect spelling shown is Irresistable; the correct form is Irresistible."
+   "answer": 1,
+   "explanation": "The incorrect spelling shown is Irresistable; the correct form is Irresistible.",
+   "topic": "Spellings",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0515",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Thesis - Theses",
     "Calf - Calves",
     "Datum - Data",
     "Knife - Courts Martial"
    ],
-   "a": 3,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Knife - Courts Martial is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Knife - Courts Martial is not correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0516",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Important - More important",
     "Important - Lower",
     "Important - Easier",
     "Important - Kinder"
    ],
-   "a": 0,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Important - More important is correctly matched."
+   "answer": 0,
+   "explanation": "Only Important - More important is correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0517",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "Plotter - Smallest unit of digital data",
     "Plotter - Output device that prints large technical drawings",
     "Plotter - Running several tasks at the same time",
     "Plotter - Core part of an operating system"
    ],
-   "a": 1,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Plotter - Output device that prints large technical drawings is correctly matched."
+   "answer": 1,
+   "explanation": "Only Plotter - Output device that prints large technical drawings is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0518",
-   "q": "Which of the following abbreviations stands for Adenosine Triphosphate?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Adenosine Triphosphate?",
+   "options": [
     "BRICS",
     "ISS",
     "FIFA",
     "ATP"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Adenosine Triphosphate is abbreviated as ATP."
+   "answer": 3,
+   "explanation": "Adenosine Triphosphate is abbreviated as ATP.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0519",
-   "q": "Chisinau is the capital of which country?",
-   "o": [
+   "question": "Chisinau is the capital of which country?",
+   "options": [
     "Suriname",
     "Moldova",
     "Uganda",
     "Senegal"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "Chisinau is the capital of Moldova."
+   "answer": 1,
+   "explanation": "Chisinau is the capital of Moldova.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0520",
-   "q": "What is the atomic number of Livermorium?",
-   "o": [
+   "question": "What is the atomic number of Livermorium?",
+   "options": [
     "38",
     "116",
     "79",
     "70"
    ],
-   "a": 1,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "The atomic number of Livermorium is 116."
+   "answer": 1,
+   "explanation": "The atomic number of Livermorium is 116.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0521",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Inderkilla National Park - Mizoram",
     "Inderkilla National Park - Himachal Pradesh",
     "Inderkilla National Park - Assam",
     "Inderkilla National Park - Odisha"
    ],
-   "a": 1,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Inderkilla National Park - Himachal Pradesh is correctly matched."
+   "answer": 1,
+   "explanation": "Only Inderkilla National Park - Himachal Pradesh is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0522",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "Fall of the Berlin Wall - 1989",
     "Fall of the Berlin Wall - 1990",
     "Fall of the Berlin Wall - 1959",
     "Fall of the Berlin Wall - 1991"
    ],
-   "a": 0,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Fall of the Berlin Wall - 1989 is correctly matched."
+   "answer": 0,
+   "explanation": "Only Fall of the Berlin Wall - 1989 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0523",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "International Nurses Day - 9 October",
     "International Nurses Day - 20 October",
     "International Nurses Day - 12 May",
     "International Nurses Day - 31 October"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only International Nurses Day - 12 May is correctly matched."
+   "answer": 2,
+   "explanation": "Only International Nurses Day - 12 May is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0524",
-   "q": "Excessive is a synonym of which of the following words?",
-   "o": [
+   "question": "Excessive is a synonym of which of the following words?",
+   "options": [
     "Staunch",
     "Exhaustive",
     "Deteriorate",
     "Exorbitant"
    ],
-   "a": 3,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Excessive is a synonym of Exorbitant."
+   "answer": 3,
+   "explanation": "Excessive is a synonym of Exorbitant.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0525",
-   "q": "Petty is an antonym of which of the following words?",
-   "o": [
+   "question": "Petty is an antonym of which of the following words?",
+   "options": [
     "Magnanimous",
     "Fallacy",
     "Ratify",
     "Relinquish"
    ],
-   "a": 0,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Petty is the opposite of Magnanimous."
+   "answer": 0,
+   "explanation": "Petty is the opposite of Magnanimous.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0526",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "A lame duck - In a great hurry",
     "A lame duck - Invalid",
     "A lame duck - An ineffective person or government",
     "A lame duck - A decision cannot be changed"
    ],
-   "a": 2,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only A lame duck - An ineffective person or government is correctly matched."
+   "answer": 2,
+   "explanation": "Only A lame duck - An ineffective person or government is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0527",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "A disease that spreads over a large area - Dystopia",
     "A disease that spreads over a large area - Epidemic",
     "A disease that spreads over a large area - Demographer",
     "A disease that spreads over a large area - Librarian"
    ],
-   "a": 1,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only A disease that spreads over a large area - Epidemic is correctly matched."
+   "answer": 1,
+   "explanation": "Only A disease that spreads over a large area - Epidemic is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0528",
-   "q": "Which of the following words is spelt incorrectly?",
-   "o": [
+   "question": "Which of the following words is spelt incorrectly?",
+   "options": [
     "Courgaeous",
     "Buisness",
     "Recomend",
     "Sacrafice"
    ],
-   "a": 1,
-   "t": "Spellings",
-   "l": 2,
-   "s": "generated",
-   "e": "The incorrect spelling shown is Buisness; the correct form is Business."
+   "answer": 1,
+   "explanation": "The incorrect spelling shown is Buisness; the correct form is Business.",
+   "topic": "Spellings",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0529",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Court Martial - Courts Martial",
     "Zoo - Lookers-on",
     "Fish - Fish",
     "Radius - Radii"
    ],
-   "a": 1,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Zoo - Lookers-on is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Zoo - Lookers-on is not correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0530",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Important - Shallower",
     "Important - Richer",
     "Important - Braver",
     "Important - More important"
    ],
-   "a": 3,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Important - More important is correctly matched."
+   "answer": 3,
+   "explanation": "Only Important - More important is correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0531",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "Plotter - Network covering a small area",
     "Plotter - Language used to structure web pages",
     "Plotter - Output device that prints large technical drawings",
     "Plotter - Language used to query databases"
    ],
-   "a": 2,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Plotter - Output device that prints large technical drawings is correctly matched."
+   "answer": 2,
+   "explanation": "Only Plotter - Output device that prints large technical drawings is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0532",
-   "q": "Which of the following abbreviations stands for Food Safety and Standards Authority of India?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Food Safety and Standards Authority of India?",
+   "options": [
     "IPO",
     "NCC",
     "FSSAI",
     "PDS"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Food Safety and Standards Authority of India is abbreviated as FSSAI."
+   "answer": 2,
+   "explanation": "Food Safety and Standards Authority of India is abbreviated as FSSAI.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0533",
-   "q": "Madrid is the capital of which country?",
-   "o": [
+   "question": "Madrid is the capital of which country?",
+   "options": [
     "Tanzania",
     "Brunei",
     "Serbia",
     "Spain"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "Madrid is the capital of Spain."
+   "answer": 3,
+   "explanation": "Madrid is the capital of Spain.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0534",
-   "q": "What is the atomic number of Actinium?",
-   "o": [
+   "question": "What is the atomic number of Actinium?",
+   "options": [
     "109",
     "81",
     "32",
     "89"
    ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "The atomic number of Actinium is 89."
+   "answer": 3,
+   "explanation": "The atomic number of Actinium is 89.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0535",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Bandipur National Park - Uttarakhand",
     "Bandipur National Park - Karnataka",
     "Bandipur National Park - Madhya Pradesh",
     "Bandipur National Park - Himachal Pradesh"
    ],
-   "a": 1,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Bandipur National Park - Karnataka is correctly matched."
+   "answer": 1,
+   "explanation": "Only Bandipur National Park - Karnataka is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0536",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "Assassination of Abraham Lincoln - 1588",
     "Assassination of Abraham Lincoln - 1600",
     "Assassination of Abraham Lincoln - 1865",
     "Assassination of Abraham Lincoln - 1997"
    ],
-   "a": 2,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Assassination of Abraham Lincoln - 1865 is correctly matched."
+   "answer": 2,
+   "explanation": "Only Assassination of Abraham Lincoln - 1865 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0537",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "International Nurses Day - 12 May",
     "International Nurses Day - 10 February",
     "International Nurses Day - 28 July",
     "International Nurses Day - 29 August"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only International Nurses Day - 12 May is correctly matched."
+   "answer": 0,
+   "explanation": "Only International Nurses Day - 12 May is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0538",
-   "q": "Flatterer is a synonym of which of the following words?",
-   "o": [
+   "question": "Flatterer is a synonym of which of the following words?",
+   "options": [
     "Cease",
     "Sycophant",
     "Hazardous",
     "Imperative"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Flatterer is a synonym of Sycophant."
+   "answer": 1,
+   "explanation": "Flatterer is a synonym of Sycophant.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0539",
-   "q": "Overturn is an antonym of which of the following words?",
-   "o": [
+   "question": "Overturn is an antonym of which of the following words?",
+   "options": [
     "Conceal",
     "Prodigal",
     "Intrinsic",
     "Uphold"
    ],
-   "a": 3,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Overturn is the opposite of Uphold."
+   "answer": 3,
+   "explanation": "Overturn is the opposite of Uphold.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0540",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "A lame duck - Punish",
     "A lame duck - Reveal secret information",
     "A lame duck - An ineffective person or government",
     "A lame duck - To be kept waiting"
    ],
-   "a": 2,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only A lame duck - An ineffective person or government is correctly matched."
+   "answer": 2,
+   "explanation": "Only A lame duck - An ineffective person or government is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0541",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "A place where animals are kept - Panacea",
     "A place where animals are kept - Tailor",
     "A place where animals are kept - Monologue",
     "A place where animals are kept - Zoo"
    ],
-   "a": 3,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only A place where animals are kept - Zoo is correctly matched."
+   "answer": 3,
+   "explanation": "Only A place where animals are kept - Zoo is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0542",
-   "q": "Which of the following words is spelt incorrectly?",
-   "o": [
+   "question": "Which of the following words is spelt incorrectly?",
+   "options": [
     "Litereture",
     "Eigth",
     "Febuary",
     "Priviledge"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 2,
-   "s": "generated",
-   "e": "The incorrect spelling shown is Litereture; the correct form is Literature."
+   "answer": 0,
+   "explanation": "The incorrect spelling shown is Litereture; the correct form is Literature.",
+   "topic": "Spellings",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0543",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Index - Indices",
     "Loaf - Lives",
     "Basis - Bases",
     "Sheep - Sheep"
    ],
-   "a": 1,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Loaf - Lives is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Loaf - Lives is not correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0544",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Fast - Faster",
     "Weak - Weaker",
     "Kind - Richer",
     "Safe - Safer"
    ],
-   "a": 2,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Kind - Richer is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Kind - Richer is not correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0545",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "Monitor - Output device that displays visuals",
     "Monitor - Device that connects devices inside a network",
     "Monitor - Program that converts assembly language to machine code",
     "Monitor - Number system with base two"
    ],
-   "a": 0,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Monitor - Output device that displays visuals is correctly matched."
+   "answer": 0,
+   "explanation": "Only Monitor - Output device that displays visuals is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0546",
-   "q": "Which of the following abbreviations stands for Atal Pension Yojana?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Atal Pension Yojana?",
+   "options": [
     "APY",
     "PIN",
     "SARFAESI",
     "PMJAY"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Atal Pension Yojana is abbreviated as APY."
+   "answer": 0,
+   "explanation": "Atal Pension Yojana is abbreviated as APY.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0547",
-   "q": "Managua is the capital of which country?",
-   "o": [
+   "question": "Managua is the capital of which country?",
+   "options": [
     "Iceland",
     "Nicaragua",
     "Ghana",
     "Ukraine"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "Managua is the capital of Nicaragua."
+   "answer": 1,
+   "explanation": "Managua is the capital of Nicaragua.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0548",
-   "q": "What is the atomic number of Niobium?",
-   "o": [
+   "question": "What is the atomic number of Niobium?",
+   "options": [
     "27",
     "78",
     "41",
     "47"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "The atomic number of Niobium is 41."
+   "answer": 2,
+   "explanation": "The atomic number of Niobium is 41.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0549",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Bandipur National Park - Bihar",
     "Bandipur National Park - Haryana",
     "Bandipur National Park - Assam",
     "Bandipur National Park - Karnataka"
    ],
-   "a": 3,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Bandipur National Park - Karnataka is correctly matched."
+   "answer": 3,
+   "explanation": "Only Bandipur National Park - Karnataka is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0550",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "Assassination of Abraham Lincoln - 1848",
     "Assassination of Abraham Lincoln - 1986",
     "Assassination of Abraham Lincoln - 1865",
     "Assassination of Abraham Lincoln - 1959"
    ],
-   "a": 2,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Assassination of Abraham Lincoln - 1865 is correctly matched."
+   "answer": 2,
+   "explanation": "Only Assassination of Abraham Lincoln - 1865 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0551",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "National Mathematics Day (India) - 30 November",
     "National Mathematics Day (India) - 2 February",
     "National Mathematics Day (India) - 5 June",
     "National Mathematics Day (India) - 22 December"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only National Mathematics Day (India) - 22 December is correctly matched."
+   "answer": 3,
+   "explanation": "Only National Mathematics Day (India) - 22 December is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0552",
-   "q": "Dilemma is a synonym of which of the following words?",
-   "o": [
+   "question": "Dilemma is a synonym of which of the following words?",
+   "options": [
     "Immense",
     "Humane",
     "Quandary",
     "Fastidious"
    ],
-   "a": 2,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Dilemma is a synonym of Quandary."
+   "answer": 2,
+   "explanation": "Dilemma is a synonym of Quandary.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0553",
-   "q": "Reckless is an antonym of which of the following words?",
-   "o": [
+   "question": "Reckless is an antonym of which of the following words?",
+   "options": [
     "Obstinate",
     "Zealous",
     "Prudent",
     "Pugnacious"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Reckless is the opposite of Prudent."
+   "answer": 2,
+   "explanation": "Reckless is the opposite of Prudent.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0554",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "In hot water - Have a selfish motive",
     "In hot water - Very rarely",
     "In hot water - To reverse the proper order",
     "In hot water - In trouble"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only In hot water - In trouble is correctly matched."
+   "answer": 3,
+   "explanation": "Only In hot water - In trouble is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0555",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "A place where animals are kept - Plutocracy",
     "A place where animals are kept - Zoo",
     "A place where animals are kept - Omnipresent",
     "A place where animals are kept - Drunkard"
    ],
-   "a": 1,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only A place where animals are kept - Zoo is correctly matched."
+   "answer": 1,
+   "explanation": "Only A place where animals are kept - Zoo is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0556",
-   "q": "Which of the following words is spelt incorrectly?",
-   "o": [
+   "question": "Which of the following words is spelt incorrectly?",
+   "options": [
     "Abundence",
     "Anonimous",
     "Idiosyncracy",
     "Lightening"
    ],
-   "a": 1,
-   "t": "Spellings",
-   "l": 2,
-   "s": "generated",
-   "e": "The incorrect spelling shown is Anonimous; the correct form is Anonymous."
+   "answer": 1,
+   "explanation": "The incorrect spelling shown is Anonimous; the correct form is Anonymous.",
+   "topic": "Spellings",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0557",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Criterion - Criteria",
     "Radio - Radios",
     "Matrix - Matrices",
     "Syllabus - Thieves"
    ],
-   "a": 3,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Syllabus - Thieves is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Syllabus - Thieves is not correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0558",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Courageous - More courageous",
     "Fat - Shorter",
     "Important - More important",
     "Short - Shorter"
    ],
-   "a": 1,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Fat - Shorter is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Fat - Shorter is not correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0559",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "Monitor - Diagram of the steps of an algorithm",
     "Monitor - Protocol used to transfer web pages",
     "Monitor - Firmware that starts the computer",
     "Monitor - Output device that displays visuals"
    ],
-   "a": 3,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Monitor - Output device that displays visuals is correctly matched."
+   "answer": 3,
+   "explanation": "Only Monitor - Output device that displays visuals is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0560",
-   "q": "Which of the following abbreviations stands for Athletics track and field club naming?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Athletics track and field club naming?",
+   "options": [
     "ATK",
     "FSSAI",
     "DIKSHA",
     "IRDAI"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Athletics track and field club naming is abbreviated as ATK."
+   "answer": 0,
+   "explanation": "Athletics track and field club naming is abbreviated as ATK.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0561",
-   "q": "Singapore is the capital of which country?",
-   "o": [
+   "question": "Singapore is the capital of which country?",
+   "options": [
     "Singapore",
     "Mauritius",
     "Eritrea",
     "Jamaica"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "Singapore is the capital of Singapore."
+   "answer": 0,
+   "explanation": "Singapore is the capital of Singapore.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0562",
-   "q": "What is the atomic number of Mercury?",
-   "o": [
+   "question": "What is the atomic number of Mercury?",
+   "options": [
     "113",
     "68",
     "80",
     "114"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "The atomic number of Mercury is 80."
+   "answer": 2,
+   "explanation": "The atomic number of Mercury is 80.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0563",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Sunderbans Tiger Reserve - Jammu and Kashmir",
     "Sunderbans Tiger Reserve - Assam",
     "Sunderbans Tiger Reserve - West Bengal",
     "Sunderbans Tiger Reserve - Madhya Pradesh"
    ],
-   "a": 2,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Sunderbans Tiger Reserve - West Bengal is correctly matched."
+   "answer": 2,
+   "explanation": "Only Sunderbans Tiger Reserve - West Bengal is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0564",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "Opening of the Suez Canal - 1945",
     "Opening of the Suez Canal - 1869",
     "Opening of the Suez Canal - 1865",
     "Opening of the Suez Canal - 2015"
    ],
-   "a": 1,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Opening of the Suez Canal - 1869 is correctly matched."
+   "answer": 1,
+   "explanation": "Only Opening of the Suez Canal - 1869 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0565",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "National Mathematics Day (India) - 22 December",
     "National Mathematics Day (India) - 29 August",
     "National Mathematics Day (India) - 8 September",
     "National Mathematics Day (India) - third Thursday of November"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only National Mathematics Day (India) - 22 December is correctly matched."
+   "answer": 0,
+   "explanation": "Only National Mathematics Day (India) - 22 December is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0566",
-   "q": "Forceful is a synonym of which of the following words?",
-   "o": [
+   "question": "Forceful is a synonym of which of the following words?",
+   "options": [
     "Vehement",
     "Intrinsic",
     "Abundant",
     "Extol"
    ],
-   "a": 0,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Forceful is a synonym of Vehement."
+   "answer": 0,
+   "explanation": "Forceful is a synonym of Vehement.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0567",
-   "q": "Neglect is an antonym of which of the following words?",
-   "o": [
+   "question": "Neglect is an antonym of which of the following words?",
+   "options": [
     "Tentative",
     "Somnolent",
     "Foster",
     "Latent"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Neglect is the opposite of Foster."
+   "answer": 2,
+   "explanation": "Neglect is the opposite of Foster.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0568",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "In hot water - Spoil a plan",
     "In hot water - To discuss private matters openly",
     "In hot water - In good and bad times",
     "In hot water - In trouble"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only In hot water - In trouble is correctly matched."
+   "answer": 3,
+   "explanation": "Only In hot water - In trouble is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0569",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Words with the same meaning - Chauvinism",
     "Words with the same meaning - Polyglot",
     "Words with the same meaning - Aristocracy",
     "Words with the same meaning - Synonyms"
    ],
-   "a": 3,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Words with the same meaning - Synonyms is correctly matched."
+   "answer": 3,
+   "explanation": "Only Words with the same meaning - Synonyms is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0570",
-   "q": "Which of the following words is spelt incorrectly?",
-   "o": [
+   "question": "Which of the following words is spelt incorrectly?",
+   "options": [
     "Ambitous",
     "Secratary",
     "Aquiesce",
     "Maintainance"
    ],
-   "a": 2,
-   "t": "Spellings",
-   "l": 2,
-   "s": "generated",
-   "e": "The incorrect spelling shown is Aquiesce; the correct form is Acquiesce."
+   "answer": 2,
+   "explanation": "The incorrect spelling shown is Aquiesce; the correct form is Acquiesce.",
+   "topic": "Spellings",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0571",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Mosquito - Mosquitoes",
     "Criterion - Criteria",
     "Chief - Chiefs",
     "Church - Thieves"
    ],
-   "a": 3,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Church - Thieves is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Church - Thieves is not correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0572",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Happy - Happier",
     "Weak - Thinner",
     "Far - Farther",
     "Clever - Cleverer"
    ],
-   "a": 1,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Weak - Thinner is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Weak - Thinner is not correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0573",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "Motherboard - Organised collection of data",
     "Motherboard - Devices that work as soon as they are connected",
     "Motherboard - Power supply unit of a computer",
     "Motherboard - Main circuit board of a computer"
    ],
-   "a": 3,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Motherboard - Main circuit board of a computer is correctly matched."
+   "answer": 3,
+   "explanation": "Only Motherboard - Main circuit board of a computer is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0574",
-   "q": "Which of the following abbreviations stands for World Wide Fund for Nature?",
-   "o": [
+   "question": "Which of the following abbreviations stands for World Wide Fund for Nature?",
+   "options": [
     "WWF",
     "CISF",
     "PMFBY",
     "OPEC"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "World Wide Fund for Nature is abbreviated as WWF."
+   "answer": 0,
+   "explanation": "World Wide Fund for Nature is abbreviated as WWF.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0575",
-   "q": "Beirut is the capital of which country?",
-   "o": [
+   "question": "Beirut is the capital of which country?",
+   "options": [
     "Vatican City",
     "Argentina",
     "Slovenia",
     "Lebanon"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "Beirut is the capital of Lebanon."
+   "answer": 3,
+   "explanation": "Beirut is the capital of Lebanon.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0576",
-   "q": "What is the atomic number of Flerovium?",
-   "o": [
+   "question": "What is the atomic number of Flerovium?",
+   "options": [
     "78",
     "15",
     "8",
     "114"
    ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "The atomic number of Flerovium is 114."
+   "answer": 3,
+   "explanation": "The atomic number of Flerovium is 114.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0577",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Sunderbans Tiger Reserve - West Bengal",
     "Sunderbans Tiger Reserve - Kerala",
     "Sunderbans Tiger Reserve - Gujarat",
     "Sunderbans Tiger Reserve - Arunachal Pradesh"
    ],
-   "a": 0,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Sunderbans Tiger Reserve - West Bengal is correctly matched."
+   "answer": 0,
+   "explanation": "Only Sunderbans Tiger Reserve - West Bengal is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0578",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "Opening of the Suez Canal - 1944",
     "Opening of the Suez Canal - 2011",
     "Opening of the Suez Canal - 1973",
     "Opening of the Suez Canal - 1869"
    ],
-   "a": 3,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Opening of the Suez Canal - 1869 is correctly matched."
+   "answer": 3,
+   "explanation": "Only Opening of the Suez Canal - 1869 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0579",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "World Red Cross Day - 8 May",
     "World Red Cross Day - 5 June",
     "World Red Cross Day - 22 April",
     "World Red Cross Day - 23 March"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only World Red Cross Day - 8 May is correctly matched."
+   "answer": 0,
+   "explanation": "Only World Red Cross Day - 8 May is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0580",
-   "q": "Defiant is a synonym of which of the following words?",
-   "o": [
+   "question": "Defiant is a synonym of which of the following words?",
+   "options": [
     "Erudite",
     "Relinquish",
     "Recalcitrant",
     "Audacious"
    ],
-   "a": 2,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Defiant is a synonym of Recalcitrant."
+   "answer": 2,
+   "explanation": "Defiant is a synonym of Recalcitrant.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0581",
-   "q": "Light is an antonym of which of the following words?",
-   "o": [
+   "question": "Light is an antonym of which of the following words?",
+   "options": [
     "Sumptuous",
     "Vindicate",
     "Fallacy",
     "Onerous"
    ],
-   "a": 3,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Light is the opposite of Onerous."
+   "answer": 3,
+   "explanation": "Light is the opposite of Onerous.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0582",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "To carry the day - To win a victory",
     "To carry the day - An unexpected winner",
     "To carry the day - Very rarely",
     "To carry the day - Most important"
    ],
-   "a": 0,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only To carry the day - To win a victory is correctly matched."
+   "answer": 0,
+   "explanation": "Only To carry the day - To win a victory is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0583",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Words with the same meaning - Synonyms",
     "Words with the same meaning - Chauffeur",
     "Words with the same meaning - Nuisance",
     "Words with the same meaning - Agnostic"
    ],
-   "a": 0,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Words with the same meaning - Synonyms is correctly matched."
+   "answer": 0,
+   "explanation": "Only Words with the same meaning - Synonyms is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0584",
-   "q": "Which of the following words is spelt incorrectly?",
-   "o": [
+   "question": "Which of the following words is spelt incorrectly?",
+   "options": [
     "Comparision",
     "Concious",
     "Begining",
     "Forth"
    ],
-   "a": 1,
-   "t": "Spellings",
-   "l": 2,
-   "s": "generated",
-   "e": "The incorrect spelling shown is Concious; the correct form is Conscious."
+   "answer": 1,
+   "explanation": "The incorrect spelling shown is Concious; the correct form is Conscious.",
+   "topic": "Spellings",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0585",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Commander-in-Chief - Commanders-in-Chief",
     "Court Martial - Courts Martial",
     "Foot - Feet",
     "Hero - Children"
    ],
-   "a": 3,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Hero - Children is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Hero - Children is not correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0586",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Important - More important",
     "Simple - Simpler",
     "Courageous - More intelligent",
     "Noble - Nobler"
    ],
-   "a": 2,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Courageous - More intelligent is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Courageous - More intelligent is not correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0587",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "Motherboard - Tool that finds information on the web",
     "Motherboard - Portable USB flash storage device",
     "Motherboard - Main circuit board of a computer",
     "Motherboard - Language used to structure web pages"
    ],
-   "a": 2,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Motherboard - Main circuit board of a computer is correctly matched."
+   "answer": 2,
+   "explanation": "Only Motherboard - Main circuit board of a computer is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0588",
-   "q": "Which of the following abbreviations stands for Small Industries Development Bank of India?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Small Industries Development Bank of India?",
+   "options": [
     "SIDBI",
     "AMFI",
     "NSS",
     "BRICS"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Small Industries Development Bank of India is abbreviated as SIDBI."
+   "answer": 0,
+   "explanation": "Small Industries Development Bank of India is abbreviated as SIDBI.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0589",
-   "q": "Which currency is used in Maldives?",
-   "o": [
+   "question": "Which currency is used in Maldives?",
+   "options": [
     "Rufiyaa",
     "CFA Franc",
     "Zambian Kwacha",
     "Leu"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 2,
-   "s": "generated",
-   "e": "The currency of Maldives is Male."
+   "answer": 0,
+   "explanation": "The currency of Maldives is Male.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0590",
-   "q": "Which element has atomic number 71?",
-   "o": [
+   "question": "Which element has atomic number 71?",
+   "options": [
     "Phosphorus",
     "Lawrencium",
     "Cobalt",
     "Lutetium"
    ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "Atomic number 71 belongs to Lutetium."
+   "answer": 3,
+   "explanation": "Atomic number 71 belongs to Lutetium.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0591",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Phawngpui National Park - Mizoram",
     "Phawngpui National Park - Karnataka",
     "Phawngpui National Park - Bihar",
     "Phawngpui National Park - Uttarakhand"
    ],
-   "a": 0,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Phawngpui National Park - Mizoram is correctly matched."
+   "answer": 0,
+   "explanation": "Only Phawngpui National Park - Mizoram is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0592",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "Cuban Revolution - 1865",
     "Cuban Revolution - 1869",
     "Cuban Revolution - 1959",
     "Cuban Revolution - 1945"
    ],
-   "a": 2,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Cuban Revolution - 1959 is correctly matched."
+   "answer": 2,
+   "explanation": "Only Cuban Revolution - 1959 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0593",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "World Red Cross Day - 30 April",
     "World Red Cross Day - 15 September",
     "World Red Cross Day - 28 July",
     "World Red Cross Day - 8 May"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only World Red Cross Day - 8 May is correctly matched."
+   "answer": 3,
+   "explanation": "Only World Red Cross Day - 8 May is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0594",
-   "q": "Charge is a synonym of which of the following words?",
-   "o": [
+   "question": "Charge is a synonym of which of the following words?",
+   "options": [
     "Ignominy",
     "Indict",
     "Clandestine",
     "Sycophant"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Charge is a synonym of Indict."
+   "answer": 1,
+   "explanation": "Charge is a synonym of Indict.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0595",
-   "q": "Careless is an antonym of which of the following words?",
-   "o": [
+   "question": "Careless is an antonym of which of the following words?",
+   "options": [
     "Esoteric",
     "Meticulous",
     "Audacious",
     "Pacify"
    ],
-   "a": 1,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Careless is the opposite of Meticulous."
+   "answer": 1,
+   "explanation": "Careless is the opposite of Meticulous.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0596",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "To carry the day - To face danger boldly",
     "To carry the day - Apologise humbly",
     "To carry the day - Rare",
     "To carry the day - To win a victory"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only To carry the day - To win a victory is correctly matched."
+   "answer": 3,
+   "explanation": "Only To carry the day - To win a victory is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0597",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "One who can use both hands equally well - Patricide",
     "One who can use both hands equally well - Antiseptic",
     "One who can use both hands equally well - Ambidextrous",
     "One who can use both hands equally well - Theist"
    ],
-   "a": 2,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only One who can use both hands equally well - Ambidextrous is correctly matched."
+   "answer": 2,
+   "explanation": "Only One who can use both hands equally well - Ambidextrous is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0598",
-   "q": "Which of the following words is spelt incorrectly?",
-   "o": [
+   "question": "Which of the following words is spelt incorrectly?",
+   "options": [
     "Irresistable",
     "Threshhold",
     "Guidence",
     "Fourty"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 2,
-   "s": "generated",
-   "e": "The incorrect spelling shown is Fourty; the correct form is Forty."
+   "answer": 3,
+   "explanation": "The incorrect spelling shown is Fourty; the correct form is Forty.",
+   "topic": "Spellings",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0599",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Lady - Wives",
     "Baby - Babies",
     "Bench - Benches",
     "Sheep - Sheep"
    ],
-   "a": 0,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Lady - Wives is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Lady - Wives is not correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0600",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Strong - Stronger",
     "Weak - Weaker",
     "Big - Bigger",
     "Low - Nobler"
    ],
-   "a": 3,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Low - Nobler is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Low - Nobler is not correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0601",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "Computer network - Two or more connected computers",
     "Computer network - Output device that produces sound",
     "Computer network - Devices that work as soon as they are connected",
     "Computer network - Short range wireless technology"
    ],
-   "a": 0,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Computer network - Two or more connected computers is correctly matched."
+   "answer": 0,
+   "explanation": "Only Computer network - Two or more connected computers is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0602",
-   "q": "Which of the following abbreviations stands for Indian Space Research Organisation?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Indian Space Research Organisation?",
+   "options": [
     "EPF",
     "ISRO",
     "IB",
     "SSC"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Indian Space Research Organisation is abbreviated as ISRO."
+   "answer": 1,
+   "explanation": "Indian Space Research Organisation is abbreviated as ISRO.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0603",
-   "q": "Which currency is used in Iceland?",
-   "o": [
+   "question": "Which currency is used in Iceland?",
+   "options": [
     "Barbadian Dollar",
     "Icelandic Krona",
     "Gourde",
     "Guyanese Dollar"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 2,
-   "s": "generated",
-   "e": "The currency of Iceland is Reykjavik."
+   "answer": 1,
+   "explanation": "The currency of Iceland is Reykjavik.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0604",
-   "q": "Which element has atomic number 27?",
-   "o": [
+   "question": "Which element has atomic number 27?",
+   "options": [
     "Cobalt",
     "Arsenic",
     "Helium",
     "Copper"
    ],
-   "a": 0,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "Atomic number 27 belongs to Cobalt."
+   "answer": 0,
+   "explanation": "Atomic number 27 belongs to Cobalt.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0605",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Phawngpui National Park - Rajasthan",
     "Phawngpui National Park - Mizoram",
     "Phawngpui National Park - Chhattisgarh",
     "Phawngpui National Park - Haryana"
    ],
-   "a": 1,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Phawngpui National Park - Mizoram is correctly matched."
+   "answer": 1,
+   "explanation": "Only Phawngpui National Park - Mizoram is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0606",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "Cuban Revolution - 1912",
     "Cuban Revolution - 1959",
     "Cuban Revolution - 1929",
     "Cuban Revolution - 1953"
    ],
-   "a": 1,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Cuban Revolution - 1959 is correctly matched."
+   "answer": 1,
+   "explanation": "Only Cuban Revolution - 1959 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0607",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "Earth Day - 24 January",
     "Earth Day - first Monday of October",
     "Earth Day - 21 May",
     "Earth Day - 22 April"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Earth Day - 22 April is correctly matched."
+   "answer": 3,
+   "explanation": "Only Earth Day - 22 April is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0608",
-   "q": "Praiseworthy is a synonym of which of the following words?",
-   "o": [
+   "question": "Praiseworthy is a synonym of which of the following words?",
+   "options": [
     "Laudable",
     "Comprehend",
     "Servile",
     "Ecstasy"
    ],
-   "a": 0,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Praiseworthy is a synonym of Laudable."
+   "answer": 0,
+   "explanation": "Praiseworthy is a synonym of Laudable.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0609",
-   "q": "Active is an antonym of which of the following words?",
-   "o": [
+   "question": "Active is an antonym of which of the following words?",
+   "options": [
     "Torpid",
     "Banal",
     "Innate",
     "Exorbitant"
    ],
-   "a": 0,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Active is the opposite of Torpid."
+   "answer": 0,
+   "explanation": "Active is the opposite of Torpid.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0610",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Hand in glove - To suspect foul play",
     "Hand in glove - In close partnership",
     "Hand in glove - To make every possible effort",
     "Hand in glove - To break a promise"
    ],
-   "a": 1,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Hand in glove - In close partnership is correctly matched."
+   "answer": 1,
+   "explanation": "Only Hand in glove - In close partnership is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0611",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "One who can use both hands equally well - Connoisseur",
     "One who can use both hands equally well - Genocide",
     "One who can use both hands equally well - Manifest",
     "One who can use both hands equally well - Ambidextrous"
    ],
-   "a": 3,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only One who can use both hands equally well - Ambidextrous is correctly matched."
+   "answer": 3,
+   "explanation": "Only One who can use both hands equally well - Ambidextrous is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0612",
-   "q": "Which of the following words is spelt incorrectly?",
-   "o": [
+   "question": "Which of the following words is spelt incorrectly?",
+   "options": [
     "Carrage",
     "Idiosyncracy",
     "Preceeding",
     "Liesure"
    ],
-   "a": 2,
-   "t": "Spellings",
-   "l": 2,
-   "s": "generated",
-   "e": "The incorrect spelling shown is Preceeding; the correct form is Preceding."
+   "answer": 2,
+   "explanation": "The incorrect spelling shown is Preceeding; the correct form is Preceding.",
+   "topic": "Spellings",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0613",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Loaf - Loaves",
     "Box - Knives",
     "Deer - Deer",
     "Matrix - Matrices"
    ],
-   "a": 1,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Box - Knives is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Box - Knives is not correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0614",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Weak - Weaker",
     "Many - Smaller",
     "Poor - Poorer",
     "Tall - Taller"
    ],
-   "a": 1,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Many - Smaller is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Many - Smaller is not correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0615",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "Computer network - Two or more connected computers",
     "Computer network - Device that forwards data between networks",
     "Computer network - Malicious program that attaches to files",
     "Computer network - Devices that work as soon as they are connected"
    ],
-   "a": 0,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Computer network - Two or more connected computers is correctly matched."
+   "answer": 0,
+   "explanation": "Only Computer network - Two or more connected computers is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0616",
-   "q": "Which of the following abbreviations stands for Indian Financial System Code?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Indian Financial System Code?",
+   "options": [
     "PIN",
     "ISS",
     "IFSC",
     "AC"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Indian Financial System Code is abbreviated as IFSC."
+   "answer": 2,
+   "explanation": "Indian Financial System Code is abbreviated as IFSC.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0617",
-   "q": "Which currency is used in Malta?",
-   "o": [
+   "question": "Which currency is used in Malta?",
+   "options": [
     "Swiss Franc",
     "Euro",
     "Ngultrum",
     "Syrian Pound"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 2,
-   "s": "generated",
-   "e": "The currency of Malta is Valletta."
+   "answer": 1,
+   "explanation": "The currency of Malta is Valletta.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0618",
-   "q": "Which element has atomic number 43?",
-   "o": [
+   "question": "Which element has atomic number 43?",
+   "options": [
     "Technetium",
     "Chlorine",
     "Scandium",
     "Samarium"
    ],
-   "a": 0,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "Atomic number 43 belongs to Technetium."
+   "answer": 0,
+   "explanation": "Atomic number 43 belongs to Technetium.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0619",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Nagarhole National Park - Madhya Pradesh",
     "Nagarhole National Park - Karnataka",
     "Nagarhole National Park - Himachal Pradesh",
     "Nagarhole National Park - Kerala"
    ],
-   "a": 1,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Nagarhole National Park - Karnataka is correctly matched."
+   "answer": 1,
+   "explanation": "Only Nagarhole National Park - Karnataka is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0620",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "First powered flight by the Wright brothers - 1833",
     "First powered flight by the Wright brothers - 1903",
     "First powered flight by the Wright brothers - 1789",
     "First powered flight by the Wright brothers - 1914"
    ],
-   "a": 1,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only First powered flight by the Wright brothers - 1903 is correctly matched."
+   "answer": 1,
+   "explanation": "Only First powered flight by the Wright brothers - 1903 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0621",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "Earth Day - 22 April",
     "Earth Day - 19 August",
     "Earth Day - 21 June",
     "Earth Day - 16 October"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Earth Day - 22 April is correctly matched."
+   "answer": 0,
+   "explanation": "Only Earth Day - 22 April is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0622",
-   "q": "Strict is a synonym of which of the following words?",
-   "o": [
+   "question": "Strict is a synonym of which of the following words?",
+   "options": [
     "Garrulous",
     "Stringent",
     "Deficient",
     "Wrath"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Strict is a synonym of Stringent."
+   "answer": 1,
+   "explanation": "Strict is a synonym of Stringent.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0623",
-   "q": "Polite is an antonym of which of the following words?",
-   "o": [
+   "question": "Polite is an antonym of which of the following words?",
+   "options": [
     "Mitigate",
     "Ratify",
     "Insolent",
     "Prominent"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Polite is the opposite of Insolent."
+   "answer": 2,
+   "explanation": "Polite is the opposite of Insolent.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0624",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Hand in glove - To hope for success",
     "Hand in glove - Confess fully",
     "Hand in glove - In close partnership",
     "Hand in glove - Completely"
    ],
-   "a": 2,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Hand in glove - In close partnership is correctly matched."
+   "answer": 2,
+   "explanation": "Only Hand in glove - In close partnership is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0625",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "One who studies plants - Inedible",
     "One who studies plants - Garrulous",
     "One who studies plants - Botanist",
     "One who studies plants - Omnipresent"
    ],
-   "a": 2,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only One who studies plants - Botanist is correctly matched."
+   "answer": 2,
+   "explanation": "Only One who studies plants - Botanist is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0626",
-   "q": "Which of the following words is spelt incorrectly?",
-   "o": [
+   "question": "Which of the following words is spelt incorrectly?",
+   "options": [
     "Appropraite",
     "Recieve",
     "Minature",
     "Buisness"
    ],
-   "a": 1,
-   "t": "Spellings",
-   "l": 2,
-   "s": "generated",
-   "e": "The incorrect spelling shown is Recieve; the correct form is Receive."
+   "answer": 1,
+   "explanation": "The incorrect spelling shown is Recieve; the correct form is Receive.",
+   "topic": "Spellings",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0627",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Datum - Data",
     "Fish - Children",
     "Basis - Bases",
     "Loaf - Loaves"
    ],
-   "a": 1,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Fish - Children is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Fish - Children is not correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0628",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Brave - More beautiful",
     "Heavy - Heavier",
     "Wise - Wiser",
     "Weak - Weaker"
    ],
-   "a": 0,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Brave - More beautiful is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Brave - More beautiful is not correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0629",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "Application software - Software whose source code is freely available",
     "Application software - Network covering a small area",
     "Application software - Unique address of a device on a network",
     "Application software - Program that performs a user task"
    ],
-   "a": 3,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Application software - Program that performs a user task is correctly matched."
+   "answer": 3,
+   "explanation": "Only Application software - Program that performs a user task is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0630",
-   "q": "Which of the following abbreviations stands for Mahatma Gandhi National Rural Employment Guarantee Scheme?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Mahatma Gandhi National Rural Employment Guarantee Scheme?",
+   "options": [
     "UAV",
     "MGNREGS",
     "CCTV",
     "SBI"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Mahatma Gandhi National Rural Employment Guarantee Scheme is abbreviated as MGNREGS."
+   "answer": 1,
+   "explanation": "Mahatma Gandhi National Rural Employment Guarantee Scheme is abbreviated as MGNREGS.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0631",
-   "q": "Which currency is used in Spain?",
-   "o": [
+   "question": "Which currency is used in Spain?",
+   "options": [
     "Somali Shilling",
     "Manat",
     "Euro",
     "Pakistani Rupee"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 2,
-   "s": "generated",
-   "e": "The currency of Spain is Madrid."
+   "answer": 2,
+   "explanation": "The currency of Spain is Madrid.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0632",
-   "q": "Which element has atomic number 18?",
-   "o": [
+   "question": "Which element has atomic number 18?",
+   "options": [
     "Gadolinium",
     "Titanium",
     "Tellurium",
     "Argon"
    ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "Atomic number 18 belongs to Argon."
+   "answer": 3,
+   "explanation": "Atomic number 18 belongs to Argon.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0633",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Nagarhole National Park - Maharashtra",
     "Nagarhole National Park - Madhya Pradesh",
     "Nagarhole National Park - Karnataka",
     "Nagarhole National Park - Arunachal Pradesh"
    ],
-   "a": 2,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Nagarhole National Park - Karnataka is correctly matched."
+   "answer": 2,
+   "explanation": "Only Nagarhole National Park - Karnataka is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0634",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "First powered flight by the Wright brothers - 1688",
     "First powered flight by the Wright brothers - 1903",
     "First powered flight by the Wright brothers - 1919",
     "First powered flight by the Wright brothers - 1959"
    ],
-   "a": 1,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only First powered flight by the Wright brothers - 1903 is correctly matched."
+   "answer": 1,
+   "explanation": "Only First powered flight by the Wright brothers - 1903 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0635",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "International Mother Earth Day - 26 July",
     "International Mother Earth Day - 22 April",
     "International Mother Earth Day - 2 December",
     "International Mother Earth Day - 2 October"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only International Mother Earth Day - 22 April is correctly matched."
+   "answer": 1,
+   "explanation": "Only International Mother Earth Day - 22 April is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0636",
-   "q": "Pretence is a synonym of which of the following words?",
-   "o": [
+   "question": "Pretence is a synonym of which of the following words?",
+   "options": [
     "Quandary",
     "Feasible",
     "Volatile",
     "Hypocrisy"
    ],
-   "a": 3,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Pretence is a synonym of Hypocrisy."
+   "answer": 3,
+   "explanation": "Pretence is a synonym of Hypocrisy.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0637",
-   "q": "Enthusiasm is an antonym of which of the following words?",
-   "o": [
+   "question": "Enthusiasm is an antonym of which of the following words?",
+   "options": [
     "Apathy",
     "Frivolous",
     "Eminent",
     "Preposterous"
    ],
-   "a": 0,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Enthusiasm is the opposite of Apathy."
+   "answer": 0,
+   "explanation": "Enthusiasm is the opposite of Apathy.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0638",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Pull the wool over one's eyes - Deceive",
     "Pull the wool over one's eyes - Great excitement over trifles",
     "Pull the wool over one's eyes - Face the main impact",
     "Pull the wool over one's eyes - Spoil a plan"
    ],
-   "a": 0,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Pull the wool over one's eyes - Deceive is correctly matched."
+   "answer": 0,
+   "explanation": "Only Pull the wool over one's eyes - Deceive is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0639",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "One who studies plants - Abstruse",
     "One who studies plants - Omniscient",
     "One who studies plants - Botanist",
     "One who studies plants - Garrulous"
    ],
-   "a": 2,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only One who studies plants - Botanist is correctly matched."
+   "answer": 2,
+   "explanation": "Only One who studies plants - Botanist is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0640",
-   "q": "Which of the following words is spelt incorrectly?",
-   "o": [
+   "question": "Which of the following words is spelt incorrectly?",
+   "options": [
     "Appearence",
     "Scisors",
     "Truely",
     "Beutiful"
    ],
-   "a": 1,
-   "t": "Spellings",
-   "l": 2,
-   "s": "generated",
-   "e": "The incorrect spelling shown is Scisors; the correct form is Scissors."
+   "answer": 1,
+   "explanation": "The incorrect spelling shown is Scisors; the correct form is Scissors.",
+   "topic": "Spellings",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0641",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Axis - Axes",
     "Potato - Potatoes",
     "Brother - Photos",
     "Tooth - Teeth"
    ],
-   "a": 2,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Brother - Photos is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Brother - Photos is not correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0642",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Brave - Braver",
     "Gentle - Better",
     "Big - Bigger",
     "Courageous - More courageous"
    ],
-   "a": 1,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Gentle - Better is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Gentle - Better is not correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0643",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "Application software - Output device that prints large technical drawings",
     "Application software - Software stored permanently on a hardware chip",
     "Application software - Program that converts source code into machine code",
     "Application software - Program that performs a user task"
    ],
-   "a": 3,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Application software - Program that performs a user task is correctly matched."
+   "answer": 3,
+   "explanation": "Only Application software - Program that performs a user task is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0644",
-   "q": "Which of the following abbreviations stands for International Olympic Committee?",
-   "o": [
+   "question": "Which of the following abbreviations stands for International Olympic Committee?",
+   "options": [
     "IOC",
     "IMA",
     "G20",
     "GST"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "International Olympic Committee is abbreviated as IOC."
+   "answer": 0,
+   "explanation": "International Olympic Committee is abbreviated as IOC.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0645",
-   "q": "Which currency is used in Egypt?",
-   "o": [
+   "question": "Which currency is used in Egypt?",
+   "options": [
     "Egyptian Pound",
     "Won",
     "Dalasi",
     "Balboa"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 2,
-   "s": "generated",
-   "e": "The currency of Egypt is Cairo."
+   "answer": 0,
+   "explanation": "The currency of Egypt is Cairo.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0646",
-   "q": "Which element has atomic number 29?",
-   "o": [
+   "question": "Which element has atomic number 29?",
+   "options": [
     "Calcium",
     "Copper",
     "Roentgenium",
     "Polonium"
    ],
-   "a": 1,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "Atomic number 29 belongs to Copper."
+   "answer": 1,
+   "explanation": "Atomic number 29 belongs to Copper.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0647",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Great Himalayan National Park - Manipur",
     "Great Himalayan National Park - Assam",
     "Great Himalayan National Park - Himachal Pradesh",
     "Great Himalayan National Park - Gujarat"
    ],
-   "a": 2,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Great Himalayan National Park - Himachal Pradesh is correctly matched."
+   "answer": 2,
+   "explanation": "Only Great Himalayan National Park - Himachal Pradesh is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0648",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "Beginning of the French Revolution - 1948",
     "Beginning of the French Revolution - 1789",
     "Beginning of the French Revolution - 1995",
     "Beginning of the French Revolution - 1955"
    ],
-   "a": 1,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Beginning of the French Revolution - 1789 is correctly matched."
+   "answer": 1,
+   "explanation": "Only Beginning of the French Revolution - 1789 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0649",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "International Mother Earth Day - 21 February",
     "International Mother Earth Day - 12 September",
     "International Mother Earth Day - 22 April",
     "International Mother Earth Day - 30 June"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only International Mother Earth Day - 22 April is correctly matched."
+   "answer": 2,
+   "explanation": "Only International Mother Earth Day - 22 April is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0650",
-   "q": "Opponent is a synonym of which of the following words?",
-   "o": [
+   "question": "Opponent is a synonym of which of the following words?",
+   "options": [
     "Adversary",
     "Plight",
     "Tedious",
     "Sanguine"
    ],
-   "a": 0,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Opponent is a synonym of Adversary."
+   "answer": 0,
+   "explanation": "Opponent is a synonym of Adversary.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0651",
-   "q": "Apathetic is an antonym of which of the following words?",
-   "o": [
+   "question": "Apathetic is an antonym of which of the following words?",
+   "options": [
     "Hamper",
     "Zealous",
     "Explicit",
     "Adversity"
    ],
-   "a": 1,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Apathetic is the opposite of Zealous."
+   "answer": 1,
+   "explanation": "Apathetic is the opposite of Zealous.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0652",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Pull the wool over one's eyes - A narrow escape",
     "Pull the wool over one's eyes - In close partnership",
     "Pull the wool over one's eyes - Deceive",
     "Pull the wool over one's eyes - Remain undecided"
    ],
-   "a": 2,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Pull the wool over one's eyes - Deceive is correctly matched."
+   "answer": 2,
+   "explanation": "Only Pull the wool over one's eyes - Deceive is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0653",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "One who is between seventy and eighty years old - Septuagenarian",
     "One who is between seventy and eighty years old - Abstruse",
     "One who is between seventy and eighty years old - Inedible",
     "One who is between seventy and eighty years old - Cobbler"
    ],
-   "a": 0,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only One who is between seventy and eighty years old - Septuagenarian is correctly matched."
+   "answer": 0,
+   "explanation": "Only One who is between seventy and eighty years old - Septuagenarian is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0654",
-   "q": "Which of the following words is spelt incorrectly?",
-   "o": [
+   "question": "Which of the following words is spelt incorrectly?",
+   "options": [
     "Desparate",
     "Sophistocated",
     "Quanity",
     "Sieze"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 2,
-   "s": "generated",
-   "e": "The incorrect spelling shown is Sieze; the correct form is Seize."
+   "answer": 3,
+   "explanation": "The incorrect spelling shown is Sieze; the correct form is Seize.",
+   "topic": "Spellings",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0655",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Chief - Chiefs",
     "Swine - Proofs",
     "Medium - Media",
     "Stimulus - Stimuli"
    ],
-   "a": 1,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Swine - Proofs is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Swine - Proofs is not correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0656",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Long - Longer",
     "Deep - Deeper",
     "Good - More",
     "Short - Shorter"
    ],
-   "a": 2,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Good - More is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Good - More is not correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0657",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "GPU - Processor that handles graphics and images",
     "GPU - Running several tasks at the same time",
     "GPU - Smallest unit of digital data",
     "GPU - Software stored permanently on a hardware chip"
    ],
-   "a": 0,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only GPU - Processor that handles graphics and images is correctly matched."
+   "answer": 0,
+   "explanation": "Only GPU - Processor that handles graphics and images is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0658",
-   "q": "Which of the following abbreviations stands for Airborne Warning and Control System?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Airborne Warning and Control System?",
+   "options": [
     "NPA",
     "MSF",
     "AWACS",
     "DNA"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Airborne Warning and Control System is abbreviated as AWACS."
+   "answer": 2,
+   "explanation": "Airborne Warning and Control System is abbreviated as AWACS.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0659",
-   "q": "Which currency is used in Malaysia?",
-   "o": [
+   "question": "Which currency is used in Malaysia?",
+   "options": [
     "Jordanian Dinar",
     "Ringgit",
     "Cuban Peso",
     "Euro"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 2,
-   "s": "generated",
-   "e": "The currency of Malaysia is Kuala Lumpur."
+   "answer": 1,
+   "explanation": "The currency of Malaysia is Kuala Lumpur.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0660",
-   "q": "Which element has atomic number 62?",
-   "o": [
+   "question": "Which element has atomic number 62?",
+   "options": [
     "Samarium",
     "Uranium",
     "Cobalt",
     "Lithium"
    ],
-   "a": 0,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "Atomic number 62 belongs to Samarium."
+   "answer": 0,
+   "explanation": "Atomic number 62 belongs to Samarium.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0661",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Great Himalayan National Park - Chhattisgarh",
     "Great Himalayan National Park - Assam",
     "Great Himalayan National Park - Himachal Pradesh",
     "Great Himalayan National Park - Madhya Pradesh"
    ],
-   "a": 2,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Great Himalayan National Park - Himachal Pradesh is correctly matched."
+   "answer": 2,
+   "explanation": "Only Great Himalayan National Park - Himachal Pradesh is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0662",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "Beginning of the French Revolution - 1949",
     "Beginning of the French Revolution - 1863",
     "Beginning of the French Revolution - 1498",
     "Beginning of the French Revolution - 1789"
    ],
-   "a": 3,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Beginning of the French Revolution - 1789 is correctly matched."
+   "answer": 3,
+   "explanation": "Only Beginning of the French Revolution - 1789 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0663",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "World Radio Day - 24 January",
     "World Radio Day - 20 June",
     "World Radio Day - 4 July",
     "World Radio Day - 13 February"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only World Radio Day - 13 February is correctly matched."
+   "answer": 3,
+   "explanation": "Only World Radio Day - 13 February is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0664",
-   "q": "Notorious is a synonym of which of the following words?",
-   "o": [
+   "question": "Notorious is a synonym of which of the following words?",
+   "options": [
     "Indolent",
     "Infamous",
     "Verbose",
     "Reverence"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Notorious is a synonym of Infamous."
+   "answer": 1,
+   "explanation": "Notorious is a synonym of Infamous.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0665",
-   "q": "Solitary is an antonym of which of the following words?",
-   "o": [
+   "question": "Solitary is an antonym of which of the following words?",
+   "options": [
     "Intrepid",
     "Explicit",
     "Gregarious",
     "Equanimity"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Solitary is the opposite of Gregarious."
+   "answer": 2,
+   "explanation": "Solitary is the opposite of Gregarious.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0666",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Storm in a teacup - Face any danger",
     "Storm in a teacup - Great excitement over trifles",
     "Storm in a teacup - To be in conflict",
     "Storm in a teacup - Avoid the main point"
    ],
-   "a": 1,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Storm in a teacup - Great excitement over trifles is correctly matched."
+   "answer": 1,
+   "explanation": "Only Storm in a teacup - Great excitement over trifles is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0667",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "One who is between seventy and eighty years old - Septuagenarian",
     "One who is between seventy and eighty years old - Blacksmith",
     "One who is between seventy and eighty years old - Scapegoat",
     "One who is between seventy and eighty years old - Biography"
    ],
-   "a": 0,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only One who is between seventy and eighty years old - Septuagenarian is correctly matched."
+   "answer": 0,
+   "explanation": "Only One who is between seventy and eighty years old - Septuagenarian is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0668",
-   "q": "Which of the following words is spelt incorrectly?",
-   "o": [
+   "question": "Which of the following words is spelt incorrectly?",
+   "options": [
     "Goverment",
     "Persue",
     "Hunderd",
     "Sargeant"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 2,
-   "s": "generated",
-   "e": "The incorrect spelling shown is Goverment; the correct form is Government."
+   "answer": 0,
+   "explanation": "The incorrect spelling shown is Goverment; the correct form is Government.",
+   "topic": "Spellings",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0669",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Story - Swine",
     "Commander-in-Chief - Commanders-in-Chief",
     "Focus - Foci",
     "Man - Men"
    ],
-   "a": 0,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Story - Swine is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Story - Swine is not correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0670",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Deep - Richer",
     "Narrow - Narrower",
     "Kind - Kinder",
     "Tall - Taller"
    ],
-   "a": 0,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Deep - Richer is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Deep - Richer is not correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0671",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "GPU - System that translates domain names into IP addresses",
     "GPU - Processor that handles graphics and images",
     "GPU - Software that manages databases",
     "GPU - Input device that converts paper documents to digital form"
    ],
-   "a": 1,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only GPU - Processor that handles graphics and images is correctly matched."
+   "answer": 1,
+   "explanation": "Only GPU - Processor that handles graphics and images is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0672",
-   "q": "Which of the following abbreviations stands for Initial Public Offering?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Initial Public Offering?",
+   "options": [
     "IPO",
     "GSLV",
     "CBIC",
     "IB"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Initial Public Offering is abbreviated as IPO."
+   "answer": 0,
+   "explanation": "Initial Public Offering is abbreviated as IPO.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0673",
-   "q": "Which currency is used in Mauritania?",
-   "o": [
+   "question": "Which currency is used in Mauritania?",
+   "options": [
     "Ouguiya",
     "Convertible Mark",
     "Rand",
     "Won"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 2,
-   "s": "generated",
-   "e": "The currency of Mauritania is Nouakchott."
+   "answer": 0,
+   "explanation": "The currency of Mauritania is Nouakchott.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0674",
-   "q": "Which element has atomic number 3?",
-   "o": [
+   "question": "Which element has atomic number 3?",
+   "options": [
     "Germanium",
     "Lithium",
     "Thorium",
     "Antimony"
    ],
-   "a": 1,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "Atomic number 3 belongs to Lithium."
+   "answer": 1,
+   "explanation": "Atomic number 3 belongs to Lithium.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0675",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Kaziranga National Park - Karnataka",
     "Kaziranga National Park - Odisha",
     "Kaziranga National Park - Tamil Nadu",
     "Kaziranga National Park - Assam"
    ],
-   "a": 3,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Kaziranga National Park - Assam is correctly matched."
+   "answer": 3,
+   "explanation": "Only Kaziranga National Park - Assam is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0676",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "Apollo 11 Moon landing - 1969",
     "Apollo 11 Moon landing - 1945",
     "Apollo 11 Moon landing - 1948",
     "Apollo 11 Moon landing - 1953"
    ],
-   "a": 0,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Apollo 11 Moon landing - 1969 is correctly matched."
+   "answer": 0,
+   "explanation": "Only Apollo 11 Moon landing - 1969 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0677",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "World Radio Day - 15 October",
     "World Radio Day - 13 February",
     "World Radio Day - 16 September",
     "World Radio Day - 8 May"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only World Radio Day - 13 February is correctly matched."
+   "answer": 1,
+   "explanation": "Only World Radio Day - 13 February is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0678",
-   "q": "Condemn is a synonym of which of the following words?",
-   "o": [
+   "question": "Condemn is a synonym of which of the following words?",
+   "options": [
     "Denounce",
     "Relinquish",
     "Intrepid",
     "Foment"
    ],
-   "a": 0,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Condemn is a synonym of Denounce."
+   "answer": 0,
+   "explanation": "Condemn is a synonym of Denounce.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0679",
-   "q": "Immune is an antonym of which of the following words?",
-   "o": [
+   "question": "Immune is an antonym of which of the following words?",
+   "options": [
     "Implicit",
     "Cordial",
     "Susceptible",
     "Frugal"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Immune is the opposite of Susceptible."
+   "answer": 2,
+   "explanation": "Immune is the opposite of Susceptible.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0680",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Storm in a teacup - Great excitement over trifles",
     "Storm in a teacup - In close partnership",
     "Storm in a teacup - Occupy a less important position",
     "Storm in a teacup - In a straight line"
    ],
-   "a": 0,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Storm in a teacup - Great excitement over trifles is correctly matched."
+   "answer": 0,
+   "explanation": "Only Storm in a teacup - Great excitement over trifles is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0681",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "One who cannot be avoided - Democracy",
     "One who cannot be avoided - Illiterate",
     "One who cannot be avoided - Barber",
     "One who cannot be avoided - Inevitable"
    ],
-   "a": 3,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only One who cannot be avoided - Inevitable is correctly matched."
+   "answer": 3,
+   "explanation": "Only One who cannot be avoided - Inevitable is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0682",
-   "q": "Which of the following words is spelt incorrectly?",
-   "o": [
+   "question": "Which of the following words is spelt incorrectly?",
+   "options": [
     "Religous",
     "Convinient",
     "Cheif",
     "Enrollment"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 2,
-   "s": "generated",
-   "e": "The incorrect spelling shown is Enrollment; the correct form is Enrolment."
+   "answer": 3,
+   "explanation": "The incorrect spelling shown is Enrollment; the correct form is Enrolment.",
+   "topic": "Spellings",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0683",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Passer-by - Series",
     "Ox - Oxen",
     "Half - Halves",
     "Life - Lives"
    ],
-   "a": 0,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Passer-by - Series is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Passer-by - Series is not correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0684",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Difficult - More difficult",
     "Far - Kinder",
     "High - Higher",
     "Bad - Worse"
    ],
-   "a": 1,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Far - Kinder is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Far - Kinder is not correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0685",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "HTML - Basic device that connects network devices",
     "HTML - Language used to structure web pages",
     "HTML - Address of a resource on the internet",
     "HTML - Protocol for sending email"
    ],
-   "a": 1,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only HTML - Language used to structure web pages is correctly matched."
+   "answer": 1,
+   "explanation": "Only HTML - Language used to structure web pages is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0686",
-   "q": "Which of the following abbreviations stands for Bombay Stock Exchange?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Bombay Stock Exchange?",
+   "options": [
     "NCERT",
     "BSE",
     "ATM",
     "DNA"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Bombay Stock Exchange is abbreviated as BSE."
+   "answer": 1,
+   "explanation": "Bombay Stock Exchange is abbreviated as BSE.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0687",
-   "q": "Which currency is used in Samoa?",
-   "o": [
+   "question": "Which currency is used in Samoa?",
+   "options": [
     "Egyptian Pound",
     "Tala",
     "Loti",
     "Taka"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 2,
-   "s": "generated",
-   "e": "The currency of Samoa is Apia."
+   "answer": 1,
+   "explanation": "The currency of Samoa is Apia.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0688",
-   "q": "Which element has atomic number 10?",
-   "o": [
+   "question": "Which element has atomic number 10?",
+   "options": [
     "Gadolinium",
     "Plutonium",
     "Arsenic",
     "Neon"
    ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "Atomic number 10 belongs to Neon."
+   "answer": 3,
+   "explanation": "Atomic number 10 belongs to Neon.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0689",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Kaziranga National Park - Maharashtra",
     "Kaziranga National Park - Madhya Pradesh",
     "Kaziranga National Park - Bihar",
     "Kaziranga National Park - Assam"
    ],
-   "a": 3,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Kaziranga National Park - Assam is correctly matched."
+   "answer": 3,
+   "explanation": "Only Kaziranga National Park - Assam is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0690",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "Apollo 11 Moon landing - 1969",
     "Apollo 11 Moon landing - 1945",
     "Apollo 11 Moon landing - 1833",
     "Apollo 11 Moon landing - 1922"
    ],
-   "a": 0,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Apollo 11 Moon landing - 1969 is correctly matched."
+   "answer": 0,
+   "explanation": "Only Apollo 11 Moon landing - 1969 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0691",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "World Population Day - 4 January",
     "World Population Day - 20 June",
     "World Population Day - 28 February",
     "World Population Day - 11 July"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only World Population Day - 11 July is correctly matched."
+   "answer": 3,
+   "explanation": "Only World Population Day - 11 July is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0692",
-   "q": "Habitual is a synonym of which of the following words?",
-   "o": [
+   "question": "Habitual is a synonym of which of the following words?",
+   "options": [
     "Inveterate",
     "Reminisce",
     "Despondent",
     "Mitigate"
    ],
-   "a": 0,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Habitual is a synonym of Inveterate."
+   "answer": 0,
+   "explanation": "Habitual is a synonym of Inveterate.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0693",
-   "q": "Industrious is an antonym of which of the following words?",
-   "o": [
+   "question": "Industrious is an antonym of which of the following words?",
+   "options": [
     "Indolent",
     "Laudable",
     "Famine",
     "Pugnacious"
    ],
-   "a": 0,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Industrious is the opposite of Indolent."
+   "answer": 0,
+   "explanation": "Industrious is the opposite of Indolent.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0694",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "A cock and bull story - To be kept waiting",
     "A cock and bull story - Relatives",
     "A cock and bull story - A person in an uncomfortable situation",
     "A cock and bull story - An absurd and unlikely story"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only A cock and bull story - An absurd and unlikely story is correctly matched."
+   "answer": 3,
+   "explanation": "Only A cock and bull story - An absurd and unlikely story is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0695",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "One who cannot be avoided - Inevitable",
     "One who cannot be avoided - Xenophobic",
     "One who cannot be avoided - Epitaph",
     "One who cannot be avoided - Omnivores"
    ],
-   "a": 0,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only One who cannot be avoided - Inevitable is correctly matched."
+   "answer": 0,
+   "explanation": "Only One who cannot be avoided - Inevitable is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0696",
-   "q": "Which of the following words is spelt incorrectly?",
-   "o": [
+   "question": "Which of the following words is spelt incorrectly?",
+   "options": [
     "Grammer",
     "Publically",
     "Appearence",
     "Rythm"
    ],
-   "a": 1,
-   "t": "Spellings",
-   "l": 2,
-   "s": "generated",
-   "e": "The incorrect spelling shown is Publically; the correct form is Publicly."
+   "answer": 1,
+   "explanation": "The incorrect spelling shown is Publically; the correct form is Publicly.",
+   "topic": "Spellings",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0697",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Bus - Buffaloes",
     "Shelf - Shelves",
     "Fish - Fish",
     "Nucleus - Nuclei"
    ],
-   "a": 0,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Bus - Buffaloes is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Bus - Buffaloes is not correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0698",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Important - More important",
     "Long - Longer",
     "Hot - Lower",
     "Poor - Poorer"
    ],
-   "a": 2,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Hot - Lower is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Hot - Lower is not correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0699",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "HTML - When data requested is found in cache memory",
     "HTML - Language used to structure web pages",
     "HTML - Software that lets the OS talk to hardware",
     "HTML - Secure version of the web transfer protocol"
    ],
-   "a": 1,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only HTML - Language used to structure web pages is correctly matched."
+   "answer": 1,
+   "explanation": "Only HTML - Language used to structure web pages is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0700",
-   "q": "Which of the following abbreviations stands for Pradhan Mantri Kisan Samman Nidhi?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Pradhan Mantri Kisan Samman Nidhi?",
+   "options": [
     "TRAI",
     "AC",
     "UPSC",
     "PM-KISAN"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Pradhan Mantri Kisan Samman Nidhi is abbreviated as PM-KISAN."
+   "answer": 3,
+   "explanation": "Pradhan Mantri Kisan Samman Nidhi is abbreviated as PM-KISAN.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0701",
-   "q": "Which currency is used in Tunisia?",
-   "o": [
+   "question": "Which currency is used in Tunisia?",
+   "options": [
     "Tunisian Dinar",
     "Dram",
     "Brunei Dollar",
     "Swiss Franc"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 2,
-   "s": "generated",
-   "e": "The currency of Tunisia is Tunis."
+   "answer": 0,
+   "explanation": "The currency of Tunisia is Tunis.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0702",
-   "q": "Which element has atomic number 95?",
-   "o": [
+   "question": "Which element has atomic number 95?",
+   "options": [
     "Argon",
     "Helium",
     "Flerovium",
     "Americium"
    ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "Atomic number 95 belongs to Americium."
+   "answer": 3,
+   "explanation": "Atomic number 95 belongs to Americium.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0703",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Bandhavgarh Tiger Reserve - Madhya Pradesh",
     "Bandhavgarh Tiger Reserve - Odisha",
     "Bandhavgarh Tiger Reserve - Jammu and Kashmir",
     "Bandhavgarh Tiger Reserve - Kerala"
    ],
-   "a": 0,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Bandhavgarh Tiger Reserve - Madhya Pradesh is correctly matched."
+   "answer": 0,
+   "explanation": "Only Bandhavgarh Tiger Reserve - Madhya Pradesh is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0704",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "September 11 attacks in the United States - 1945",
     "September 11 attacks in the United States - 1955",
     "September 11 attacks in the United States - 2001",
     "September 11 attacks in the United States - 2015"
    ],
-   "a": 2,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only September 11 attacks in the United States - 2001 is correctly matched."
+   "answer": 2,
+   "explanation": "Only September 11 attacks in the United States - 2001 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0705",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "World Population Day - 5 September",
     "World Population Day - 31 May",
     "World Population Day - 11 July",
     "World Population Day - 20 June"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only World Population Day - 11 July is correctly matched."
+   "answer": 2,
+   "explanation": "Only World Population Day - 11 July is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0706",
-   "q": "Annoy is a synonym of which of the following words?",
-   "o": [
+   "question": "Annoy is a synonym of which of the following words?",
+   "options": [
     "Esoteric",
     "Vex",
     "Castigate",
     "Corroborate"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Annoy is a synonym of Vex."
+   "answer": 1,
+   "explanation": "Annoy is a synonym of Vex.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0707",
-   "q": "Yielding is an antonym of which of the following words?",
-   "o": [
+   "question": "Yielding is an antonym of which of the following words?",
+   "options": [
     "Torpid",
     "Obstinate",
     "Deplete",
     "Staunch"
    ],
-   "a": 1,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Yielding is the opposite of Obstinate."
+   "answer": 1,
+   "explanation": "Yielding is the opposite of Obstinate.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0708",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "A cock and bull story - Gain an advantage secretly",
     "A cock and bull story - An absurd and unlikely story",
     "A cock and bull story - Honest and open",
     "A cock and bull story - In good and bad times"
    ],
-   "a": 1,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only A cock and bull story - An absurd and unlikely story is correctly matched."
+   "answer": 1,
+   "explanation": "Only A cock and bull story - An absurd and unlikely story is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0709",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "One who loves collecting stamps - Manifest",
     "One who loves collecting stamps - Librarian",
     "One who loves collecting stamps - Philatelist",
     "One who loves collecting stamps - Philanthropist"
    ],
-   "a": 2,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only One who loves collecting stamps - Philatelist is correctly matched."
+   "answer": 2,
+   "explanation": "Only One who loves collecting stamps - Philatelist is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0710",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Convenient - Litereture",
     "Convenient - Referance",
     "Convenient - Ambitous",
     "Convenient - Convinient"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Convenient - Convinient is correctly matched."
+   "answer": 3,
+   "explanation": "Only Convenient - Convinient is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0711",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Story - Stories",
     "Datum - Data",
     "Stimulus - Stimuli",
     "Baby - Proofs"
    ],
-   "a": 3,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Baby - Proofs is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Baby - Proofs is not correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0712",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Long - Longer",
     "Important - Faster",
     "Little - Less",
     "Wise - Wiser"
    ],
-   "a": 1,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Important - Faster is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Important - Faster is not correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0713",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "SQL - L1, L2 and L3 are cache levels",
     "SQL - Language used to query databases",
     "SQL - Security system that filters network traffic",
     "SQL - Input device used for typing"
    ],
-   "a": 1,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only SQL - Language used to query databases is correctly matched."
+   "answer": 1,
+   "explanation": "Only SQL - Language used to query databases is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0714",
-   "q": "Which of the following abbreviations stands for Minimum Support Price?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Minimum Support Price?",
+   "options": [
     "MSP",
     "WTO",
     "IMF",
     "FCI"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Minimum Support Price is abbreviated as MSP."
+   "answer": 0,
+   "explanation": "Minimum Support Price is abbreviated as MSP.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0715",
-   "q": "Which currency is used in Sudan?",
-   "o": [
+   "question": "Which currency is used in Sudan?",
+   "options": [
     "Euro",
     "Sudanese Pound",
     "Yemeni Rial",
     "CFA Franc"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 2,
-   "s": "generated",
-   "e": "The currency of Sudan is Khartoum."
+   "answer": 1,
+   "explanation": "The currency of Sudan is Khartoum.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0716",
-   "q": "Which element has atomic number 87?",
-   "o": [
+   "question": "Which element has atomic number 87?",
+   "options": [
     "Lead",
     "Cerium",
     "Francium",
     "Carbon"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "Atomic number 87 belongs to Francium."
+   "answer": 2,
+   "explanation": "Atomic number 87 belongs to Francium.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0717",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Bandhavgarh Tiger Reserve - West Bengal",
     "Bandhavgarh Tiger Reserve - Madhya Pradesh",
     "Bandhavgarh Tiger Reserve - Odisha",
     "Bandhavgarh Tiger Reserve - Jammu and Kashmir"
    ],
-   "a": 1,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Bandhavgarh Tiger Reserve - Madhya Pradesh is correctly matched."
+   "answer": 1,
+   "explanation": "Only Bandhavgarh Tiger Reserve - Madhya Pradesh is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0718",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "September 11 attacks in the United States - 2001",
     "September 11 attacks in the United States - 1948",
     "September 11 attacks in the United States - 1989",
     "September 11 attacks in the United States - 1917"
    ],
-   "a": 0,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only September 11 attacks in the United States - 2001 is correctly matched."
+   "answer": 0,
+   "explanation": "Only September 11 attacks in the United States - 2001 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0719",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "International Jazz Day - 31 October",
     "International Jazz Day - fourth Sunday of September",
     "International Jazz Day - 30 April",
     "International Jazz Day - 18 April"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only International Jazz Day - 30 April is correctly matched."
+   "answer": 2,
+   "explanation": "Only International Jazz Day - 30 April is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0720",
-   "q": "Relieve is a synonym of which of the following words?",
-   "o": [
+   "question": "Relieve is a synonym of which of the following words?",
+   "options": [
     "Ecstasy",
     "Latent",
     "Mitigate",
     "Ominous"
    ],
-   "a": 2,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Relieve is a synonym of Mitigate."
+   "answer": 2,
+   "explanation": "Relieve is a synonym of Mitigate.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0721",
-   "q": "Manifest is an antonym of which of the following words?",
-   "o": [
+   "question": "Manifest is an antonym of which of the following words?",
+   "options": [
     "Ratify",
     "Detrimental",
     "Latent",
     "Tenacious"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Manifest is the opposite of Latent."
+   "answer": 2,
+   "explanation": "Manifest is the opposite of Latent.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0722",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Burn one's boats - Keep away from",
     "Burn one's boats - Die while working",
     "Burn one's boats - A futile search",
     "Burn one's boats - Act so as to make retreat impossible"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Burn one's boats - Act so as to make retreat impossible is correctly matched."
+   "answer": 3,
+   "explanation": "Only Burn one's boats - Act so as to make retreat impossible is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0723",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "One who loves collecting stamps - Astronomer",
     "One who loves collecting stamps - Oligarchy",
     "One who loves collecting stamps - Philatelist",
     "One who loves collecting stamps - Claustrophobic"
    ],
-   "a": 2,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only One who loves collecting stamps - Philatelist is correctly matched."
+   "answer": 2,
+   "explanation": "Only One who loves collecting stamps - Philatelist is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0724",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Convenient - Minature",
     "Convenient - Appropraite",
     "Convenient - Superintendant",
     "Convenient - Convinient"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Convenient - Convinient is correctly matched."
+   "answer": 3,
+   "explanation": "Only Convenient - Convinient is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0725",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Hypothesis - Hypotheses",
     "Commander-in-Chief - Commanders-in-Chief",
     "Deer - Deer",
     "Crisis - Benches"
    ],
-   "a": 3,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Crisis - Benches is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Crisis - Benches is not correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0726",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Important - More important",
     "High - Simpler",
     "Tall - Taller",
     "Late - Later"
    ],
-   "a": 1,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair High - Simpler is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair High - Simpler is not correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0727",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "SQL - Language used to query databases",
     "SQL - Output device that produces sound",
     "SQL - Software that detects and removes malicious programs",
     "SQL - Secure version of the web transfer protocol"
    ],
-   "a": 0,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only SQL - Language used to query databases is correctly matched."
+   "answer": 0,
+   "explanation": "Only SQL - Language used to query databases is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0728",
-   "q": "Which of the following abbreviations stands for National Bank for Agriculture and Rural Development?",
-   "o": [
+   "question": "Which of the following abbreviations stands for National Bank for Agriculture and Rural Development?",
+   "options": [
     "BIS",
     "NPS",
     "NABARD",
     "ATP"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "National Bank for Agriculture and Rural Development is abbreviated as NABARD."
+   "answer": 2,
+   "explanation": "National Bank for Agriculture and Rural Development is abbreviated as NABARD.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0729",
-   "q": "Which currency is used in Austria?",
-   "o": [
+   "question": "Which currency is used in Austria?",
+   "options": [
     "Euro",
     "Uruguayan Peso",
     "Metical",
     "Bahamian Dollar"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 2,
-   "s": "generated",
-   "e": "The currency of Austria is Vienna."
+   "answer": 0,
+   "explanation": "The currency of Austria is Vienna.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0730",
-   "q": "Which element has atomic number 99?",
-   "o": [
+   "question": "Which element has atomic number 99?",
+   "options": [
     "Einsteinium",
     "Barium",
     "Americium",
     "Sodium"
    ],
-   "a": 0,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "Atomic number 99 belongs to Einsteinium."
+   "answer": 0,
+   "explanation": "Atomic number 99 belongs to Einsteinium.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0731",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Navegaon National Park - Maharashtra",
     "Navegaon National Park - Uttarakhand",
     "Navegaon National Park - Chhattisgarh",
     "Navegaon National Park - Rajasthan"
    ],
-   "a": 0,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Navegaon National Park - Maharashtra is correctly matched."
+   "answer": 0,
+   "explanation": "Only Navegaon National Park - Maharashtra is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0732",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "Yuri Gagarin became the first human in space - 1919",
     "Yuri Gagarin became the first human in space - 1979",
     "Yuri Gagarin became the first human in space - 1961",
     "Yuri Gagarin became the first human in space - 1865"
    ],
-   "a": 2,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Yuri Gagarin became the first human in space - 1961 is correctly matched."
+   "answer": 2,
+   "explanation": "Only Yuri Gagarin became the first human in space - 1961 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0733",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "International Jazz Day - 30 April",
     "International Jazz Day - 22 March",
     "International Jazz Day - 12 May",
     "International Jazz Day - 10 October"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only International Jazz Day - 30 April is correctly matched."
+   "answer": 0,
+   "explanation": "Only International Jazz Day - 30 April is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0734",
-   "q": "Prudent is a synonym of which of the following words?",
-   "o": [
+   "question": "Prudent is a synonym of which of the following words?",
+   "options": [
     "Ecstasy",
     "Austere",
     "Cognizant",
     "Discreet"
    ],
-   "a": 3,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Prudent is a synonym of Discreet."
+   "answer": 3,
+   "explanation": "Prudent is a synonym of Discreet.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0735",
-   "q": "Flowing is an antonym of which of the following words?",
-   "o": [
+   "question": "Flowing is an antonym of which of the following words?",
+   "options": [
     "Latent",
     "Stagnant",
     "Affable",
     "Incessant"
    ],
-   "a": 1,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Flowing is the opposite of Stagnant."
+   "answer": 1,
+   "explanation": "Flowing is the opposite of Stagnant.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0736",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Burn one's boats - Act so as to make retreat impossible",
     "Burn one's boats - A hidden enemy",
     "Burn one's boats - Act in defiance of",
     "Burn one's boats - Solve a difficult problem"
    ],
-   "a": 0,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Burn one's boats - Act so as to make retreat impossible is correctly matched."
+   "answer": 0,
+   "explanation": "Only Burn one's boats - Act so as to make retreat impossible is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0737",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "One who is between eighty and ninety years old - Matricide",
     "One who is between eighty and ninety years old - Connoisseur",
     "One who is between eighty and ninety years old - Fragile",
     "One who is between eighty and ninety years old - Octogenarian"
    ],
-   "a": 3,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only One who is between eighty and ninety years old - Octogenarian is correctly matched."
+   "answer": 3,
+   "explanation": "Only One who is between eighty and ninety years old - Octogenarian is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0738",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Foreign - Tommorow",
     "Foreign - Foriegn",
     "Foreign - Litereture",
     "Foreign - Occured"
    ],
-   "a": 1,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Foreign - Foriegn is correctly matched."
+   "answer": 1,
+   "explanation": "Only Foreign - Foriegn is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0739",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Axis - Axes",
     "Phenomenon - Dice",
     "Looker-on - Lookers-on",
     "Fish - Fish"
    ],
-   "a": 1,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Phenomenon - Dice is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Phenomenon - Dice is not correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0740",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Easy - Easier",
     "Safe - Safer",
     "Deep - Deeper",
     "Heavy - Faster"
    ],
-   "a": 3,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Heavy - Faster is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Heavy - Faster is not correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0741",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "Hexadecimal - Output device that prints large technical drawings",
     "Hexadecimal - Address of a resource on the internet",
     "Hexadecimal - Number system with base sixteen",
     "Hexadecimal - System that translates domain names into IP addresses"
    ],
-   "a": 2,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Hexadecimal - Number system with base sixteen is correctly matched."
+   "answer": 2,
+   "explanation": "Only Hexadecimal - Number system with base sixteen is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0742",
-   "q": "Which of the following abbreviations stands for International Court of Justice?",
-   "o": [
+   "question": "Which of the following abbreviations stands for International Court of Justice?",
+   "options": [
     "CLAT",
     "ILO",
     "ICJ",
     "TDS"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "International Court of Justice is abbreviated as ICJ."
+   "answer": 2,
+   "explanation": "International Court of Justice is abbreviated as ICJ.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0743",
-   "q": "Which currency is used in Cyprus?",
-   "o": [
+   "question": "Which currency is used in Cyprus?",
+   "options": [
     "Swiss Franc",
     "CFA Franc",
     "Zambian Kwacha",
     "Euro"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 2,
-   "s": "generated",
-   "e": "The currency of Cyprus is Nicosia."
+   "answer": 3,
+   "explanation": "The currency of Cyprus is Nicosia.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0744",
-   "q": "Which element has atomic number 23?",
-   "o": [
+   "question": "Which element has atomic number 23?",
+   "options": [
     "Hassium",
     "Vanadium",
     "Fermium",
     "Actinium"
    ],
-   "a": 1,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "Atomic number 23 belongs to Vanadium."
+   "answer": 1,
+   "explanation": "Atomic number 23 belongs to Vanadium.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0745",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Navegaon National Park - Maharashtra",
     "Navegaon National Park - Nagaland",
     "Navegaon National Park - Uttar Pradesh",
     "Navegaon National Park - Chhattisgarh"
    ],
-   "a": 0,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Navegaon National Park - Maharashtra is correctly matched."
+   "answer": 0,
+   "explanation": "Only Navegaon National Park - Maharashtra is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0746",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "Yuri Gagarin became the first human in space - 1776",
     "Yuri Gagarin became the first human in space - 1961",
     "Yuri Gagarin became the first human in space - 1939",
     "Yuri Gagarin became the first human in space - 1922"
    ],
-   "a": 1,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Yuri Gagarin became the first human in space - 1961 is correctly matched."
+   "answer": 1,
+   "explanation": "Only Yuri Gagarin became the first human in space - 1961 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0747",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "National Education Day (India) - 10 January",
     "National Education Day (India) - 11 November",
     "National Education Day (India) - 1 June",
     "National Education Day (India) - 14 November"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only National Education Day (India) - 11 November is correctly matched."
+   "answer": 1,
+   "explanation": "Only National Education Day (India) - 11 November is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0748",
-   "q": "Stop is a synonym of which of the following words?",
-   "o": [
+   "question": "Stop is a synonym of which of the following words?",
+   "options": [
     "Cease",
     "Stagnant",
     "Condemn",
     "Sycophant"
    ],
-   "a": 0,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Stop is a synonym of Cease."
+   "answer": 0,
+   "explanation": "Stop is a synonym of Cease.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0749",
-   "q": "Constant is an antonym of which of the following words?",
-   "o": [
+   "question": "Constant is an antonym of which of the following words?",
+   "options": [
     "Fortitude",
     "Fallacy",
     "Cease",
     "Fickle"
    ],
-   "a": 3,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Constant is the opposite of Fickle."
+   "answer": 3,
+   "explanation": "Constant is the opposite of Fickle.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0750",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "A snake in the grass - A hidden enemy",
     "A snake in the grass - A difficult problem",
     "A snake in the grass - Noble birth",
     "A snake in the grass - To exaggerate a small matter"
    ],
-   "a": 0,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only A snake in the grass - A hidden enemy is correctly matched."
+   "answer": 0,
+   "explanation": "Only A snake in the grass - A hidden enemy is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0751",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "One who is between eighty and ninety years old - Octogenarian",
     "One who is between eighty and ninety years old - Novice",
     "One who is between eighty and ninety years old - Monologue",
     "One who is between eighty and ninety years old - Analgesic"
    ],
-   "a": 0,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only One who is between eighty and ninety years old - Octogenarian is correctly matched."
+   "answer": 0,
+   "explanation": "Only One who is between eighty and ninety years old - Octogenarian is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0752",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Foreign - Immediat",
     "Foreign - Adolescant",
     "Foreign - Concious",
     "Foreign - Foriegn"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Foreign - Foriegn is correctly matched."
+   "answer": 3,
+   "explanation": "Only Foreign - Foriegn is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0753",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Goose - Children",
     "Photo - Photos",
     "Bench - Benches",
     "Proof - Proofs"
    ],
-   "a": 0,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Goose - Children is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Goose - Children is not correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0754",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Long - Finer",
     "Bad - Worse",
     "Poor - Poorer",
     "Cold - Colder"
    ],
-   "a": 0,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Long - Finer is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Long - Finer is not correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0755",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "Hexadecimal - Input device that captures video",
     "Hexadecimal - Malicious program disguised as useful software",
     "Hexadecimal - Language used to style web pages",
     "Hexadecimal - Number system with base sixteen"
    ],
-   "a": 3,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Hexadecimal - Number system with base sixteen is correctly matched."
+   "answer": 3,
+   "explanation": "Only Hexadecimal - Number system with base sixteen is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0756",
-   "q": "Which of the following abbreviations stands for Universal Postal Union?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Universal Postal Union?",
+   "options": [
     "ATM",
     "FIFA",
     "UPU",
     "BSE"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Universal Postal Union is abbreviated as UPU."
+   "answer": 2,
+   "explanation": "Universal Postal Union is abbreviated as UPU.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0757",
-   "q": "Which currency is used in Ecuador?",
-   "o": [
+   "question": "Which currency is used in Ecuador?",
+   "options": [
     "Euro",
     "Kip",
     "US Dollar",
     "Metical"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 2,
-   "s": "generated",
-   "e": "The currency of Ecuador is Quito."
+   "answer": 2,
+   "explanation": "The currency of Ecuador is Quito.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0758",
-   "q": "Which element has atomic number 70?",
-   "o": [
+   "question": "Which element has atomic number 70?",
+   "options": [
     "Neptunium",
     "Zinc",
     "Silicon",
     "Ytterbium"
    ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "Atomic number 70 belongs to Ytterbium."
+   "answer": 3,
+   "explanation": "Atomic number 70 belongs to Ytterbium.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0759",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Ramgarh Vishdhari Tiger Reserve - Madhya Pradesh",
     "Ramgarh Vishdhari Tiger Reserve - Rajasthan",
     "Ramgarh Vishdhari Tiger Reserve - Chhattisgarh",
     "Ramgarh Vishdhari Tiger Reserve - Haryana"
    ],
-   "a": 1,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ramgarh Vishdhari Tiger Reserve - Rajasthan is correctly matched."
+   "answer": 1,
+   "explanation": "Only Ramgarh Vishdhari Tiger Reserve - Rajasthan is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0760",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "Unification of Germany - 1871",
     "Unification of Germany - 1919",
     "Unification of Germany - 2015",
     "Unification of Germany - 1944"
    ],
-   "a": 0,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Unification of Germany - 1871 is correctly matched."
+   "answer": 0,
+   "explanation": "Only Unification of Germany - 1871 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0761",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "National Education Day (India) - 17 May",
     "National Education Day (India) - 3 March",
     "National Education Day (India) - 11 November",
     "National Education Day (India) - 14 October"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only National Education Day (India) - 11 November is correctly matched."
+   "answer": 2,
+   "explanation": "Only National Education Day (India) - 11 November is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0762",
-   "q": "Reject is a synonym of which of the following words?",
-   "o": [
+   "question": "Reject is a synonym of which of the following words?",
+   "options": [
     "Repudiate",
     "Debilitate",
     "Sedulous",
     "Indict"
    ],
-   "a": 0,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Reject is a synonym of Repudiate."
+   "answer": 0,
+   "explanation": "Reject is a synonym of Repudiate.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0763",
-   "q": "Taciturn is an antonym of which of the following words?",
-   "o": [
+   "question": "Taciturn is an antonym of which of the following words?",
+   "options": [
     "Torpid",
     "Erudite",
     "Garrulous",
     "Contempt"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Taciturn is the opposite of Garrulous."
+   "answer": 2,
+   "explanation": "Taciturn is the opposite of Garrulous.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0764",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "A snake in the grass - Keep away from",
     "A snake in the grass - An important day",
     "A snake in the grass - A hidden enemy",
     "A snake in the grass - Apologise humbly"
    ],
-   "a": 2,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only A snake in the grass - A hidden enemy is correctly matched."
+   "answer": 2,
+   "explanation": "Only A snake in the grass - A hidden enemy is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0765",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "A medicine that counteracts a poison - Pharmacy",
     "A medicine that counteracts a poison - Xenophobic",
     "A medicine that counteracts a poison - Antidote",
     "A medicine that counteracts a poison - Zoo"
    ],
-   "a": 2,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only A medicine that counteracts a poison - Antidote is correctly matched."
+   "answer": 2,
+   "explanation": "Only A medicine that counteracts a poison - Antidote is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0766",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Sophisticated - Consience",
     "Sophisticated - Inteligence",
     "Sophisticated - Sophistocated",
     "Sophisticated - Litereture"
    ],
-   "a": 2,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Sophisticated - Sophistocated is correctly matched."
+   "answer": 2,
+   "explanation": "Only Sophisticated - Sophistocated is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0767",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Datum - Data",
     "Knife - Knives",
     "Radius - Stimuli",
     "City - Cities"
    ],
-   "a": 2,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Radius - Stimuli is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Radius - Stimuli is not correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0768",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "High - Higher",
     "Slow - Braver",
     "Strong - Stronger",
     "Cold - Colder"
    ],
-   "a": 1,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Slow - Braver is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Slow - Braver is not correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0769",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "Router - Pointing input device",
     "Router - Input device that converts paper documents to digital form",
     "Router - Software designed to damage or intrude",
     "Router - Device that forwards data between networks"
    ],
-   "a": 3,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Router - Device that forwards data between networks is correctly matched."
+   "answer": 3,
+   "explanation": "Only Router - Device that forwards data between networks is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0770",
-   "q": "Which of the following abbreviations stands for Central Bureau of Investigation?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Central Bureau of Investigation?",
+   "options": [
     "ED",
     "CBI",
     "SBI",
     "AC"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Central Bureau of Investigation is abbreviated as CBI."
+   "answer": 1,
+   "explanation": "Central Bureau of Investigation is abbreviated as CBI.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0771",
-   "q": "Which currency is used in Thailand?",
-   "o": [
+   "question": "Which currency is used in Thailand?",
+   "options": [
     "Yen",
     "CFA Franc",
     "Czech Koruna",
     "Baht"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 2,
-   "s": "generated",
-   "e": "The currency of Thailand is Bangkok."
+   "answer": 3,
+   "explanation": "The currency of Thailand is Bangkok.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0772",
-   "q": "Which element has atomic number 48?",
-   "o": [
+   "question": "Which element has atomic number 48?",
+   "options": [
     "Palladium",
     "Cadmium",
     "Yttrium",
     "Carbon"
    ],
-   "a": 1,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "Atomic number 48 belongs to Cadmium."
+   "answer": 1,
+   "explanation": "Atomic number 48 belongs to Cadmium.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0773",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Ramgarh Vishdhari Tiger Reserve - Rajasthan",
     "Ramgarh Vishdhari Tiger Reserve - Madhya Pradesh",
     "Ramgarh Vishdhari Tiger Reserve - Karnataka",
     "Ramgarh Vishdhari Tiger Reserve - Maharashtra"
    ],
-   "a": 0,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ramgarh Vishdhari Tiger Reserve - Rajasthan is correctly matched."
+   "answer": 0,
+   "explanation": "Only Ramgarh Vishdhari Tiger Reserve - Rajasthan is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0774",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "Unification of Germany - 2020",
     "Unification of Germany - 1871",
     "Unification of Germany - 1992",
     "Unification of Germany - 1776"
    ],
-   "a": 1,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Unification of Germany - 1871 is correctly matched."
+   "answer": 1,
+   "explanation": "Only Unification of Germany - 1871 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0775",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "Teachers' Day (India) - 8 May",
     "Teachers' Day (India) - 5 September",
     "Teachers' Day (India) - 8 September",
     "Teachers' Day (India) - 22 March"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Teachers' Day (India) - 5 September is correctly matched."
+   "answer": 1,
+   "explanation": "Only Teachers' Day (India) - 5 September is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0776",
-   "q": "Thrifty is a synonym of which of the following words?",
-   "o": [
+   "question": "Thrifty is a synonym of which of the following words?",
+   "options": [
     "Servile",
     "Delineate",
     "Sumptuous",
     "Frugal"
    ],
-   "a": 3,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Thrifty is a synonym of Frugal."
+   "answer": 3,
+   "explanation": "Thrifty is a synonym of Frugal.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0777",
-   "q": "Meagre is an antonym of which of the following words?",
-   "o": [
+   "question": "Meagre is an antonym of which of the following words?",
+   "options": [
     "Innate",
     "Deplete",
     "Sumptuous",
     "Frugal"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Meagre is the opposite of Sumptuous."
+   "answer": 2,
+   "explanation": "Meagre is the opposite of Sumptuous.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0778",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Jack of all trades - A person who can do many things but is expert at none",
     "Jack of all trades - In close partnership",
     "Jack of all trades - Use every possible effort",
     "Jack of all trades - Rain heavily"
    ],
-   "a": 0,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Jack of all trades - A person who can do many things but is expert at none is correctly matched."
+   "answer": 0,
+   "explanation": "Only Jack of all trades - A person who can do many things but is expert at none is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0779",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "A medicine that counteracts a poison - Aquarium",
     "A medicine that counteracts a poison - Perennials",
     "A medicine that counteracts a poison - Antidote",
     "A medicine that counteracts a poison - Illiterate"
    ],
-   "a": 2,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only A medicine that counteracts a poison - Antidote is correctly matched."
+   "answer": 2,
+   "explanation": "Only A medicine that counteracts a poison - Antidote is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0780",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Sophisticated - Sophistocated",
     "Sophisticated - Supercede",
     "Sophisticated - Pronounciation",
     "Sophisticated - Priviledge"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Sophisticated - Sophistocated is correctly matched."
+   "answer": 0,
+   "explanation": "Only Sophisticated - Sophistocated is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0781",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Ox - Oxen",
     "Matrix - Matrices",
     "Trout - Trout",
     "Step-daughter - Fungi"
    ],
-   "a": 3,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Step-daughter - Fungi is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Step-daughter - Fungi is not correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0782",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Small - Richer",
     "Simple - Simpler",
     "Gentle - Gentler",
     "Easy - Easier"
    ],
-   "a": 0,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Small - Richer is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Small - Richer is not correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0783",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "Router - Program that performs a user task",
     "Router - Address of a resource on the internet",
     "Router - Device that forwards data between networks",
     "Router - Tool that finds information on the web"
    ],
-   "a": 2,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Router - Device that forwards data between networks is correctly matched."
+   "answer": 2,
+   "explanation": "Only Router - Device that forwards data between networks is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0784",
-   "q": "Which of the following abbreviations stands for Geostationary Earth Orbit?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Geostationary Earth Orbit?",
+   "options": [
     "PIN",
     "GEO",
     "FAO",
     "CVC"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Geostationary Earth Orbit is abbreviated as GEO."
+   "answer": 1,
+   "explanation": "Geostationary Earth Orbit is abbreviated as GEO.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0785",
-   "q": "Which currency is used in Armenia?",
-   "o": [
+   "question": "Which currency is used in Armenia?",
+   "options": [
     "Boliviano",
     "Hryvnia",
     "Dram",
     "Australian Dollar"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 2,
-   "s": "generated",
-   "e": "The currency of Armenia is Yerevan."
+   "answer": 2,
+   "explanation": "The currency of Armenia is Yerevan.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0786",
-   "q": "Which element has atomic number 94?",
-   "o": [
+   "question": "Which element has atomic number 94?",
+   "options": [
     "Holmium",
     "Platinum",
     "Plutonium",
     "Cobalt"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "Atomic number 94 belongs to Plutonium."
+   "answer": 2,
+   "explanation": "Atomic number 94 belongs to Plutonium.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0787",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Nokrek National Park - Meghalaya",
     "Nokrek National Park - Tamil Nadu",
     "Nokrek National Park - Arunachal Pradesh",
     "Nokrek National Park - Maharashtra"
    ],
-   "a": 0,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Nokrek National Park - Meghalaya is correctly matched."
+   "answer": 0,
+   "explanation": "Only Nokrek National Park - Meghalaya is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0788",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "Paris Climate Agreement adopted - 1979",
     "Paris Climate Agreement adopted - 1922",
     "Paris Climate Agreement adopted - 2015",
     "Paris Climate Agreement adopted - 1919"
    ],
-   "a": 2,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Paris Climate Agreement adopted - 2015 is correctly matched."
+   "answer": 2,
+   "explanation": "Only Paris Climate Agreement adopted - 2015 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0789",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "Teachers' Day (India) - 1 July",
     "Teachers' Day (India) - 8 March",
     "Teachers' Day (India) - 5 September",
     "Teachers' Day (India) - 13 February"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Teachers' Day (India) - 5 September is correctly matched."
+   "answer": 2,
+   "explanation": "Only Teachers' Day (India) - 5 September is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0790",
-   "q": "Arrogant is a synonym of which of the following words?",
-   "o": [
+   "question": "Arrogant is a synonym of which of the following words?",
+   "options": [
     "Forbearance",
     "Haughty",
     "Copious",
     "Jubilant"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Arrogant is a synonym of Haughty."
+   "answer": 1,
+   "explanation": "Arrogant is a synonym of Haughty.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0791",
-   "q": "Reputable is an antonym of which of the following words?",
-   "o": [
+   "question": "Reputable is an antonym of which of the following words?",
+   "options": [
     "Infamous",
     "Vigilant",
     "Laudable",
     "Deluge"
    ],
-   "a": 0,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Reputable is the opposite of Infamous."
+   "answer": 0,
+   "explanation": "Reputable is the opposite of Infamous.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0792",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Jack of all trades - Be satisfied with past achievements",
     "Jack of all trades - A person who can do many things but is expert at none",
     "Jack of all trades - Refuse to change one's stand",
     "Jack of all trades - To make a fresh start"
    ],
-   "a": 1,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Jack of all trades - A person who can do many things but is expert at none is correctly matched."
+   "answer": 1,
+   "explanation": "Only Jack of all trades - A person who can do many things but is expert at none is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0793",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "One who drinks too much alcohol - Drunkard",
     "One who drinks too much alcohol - Dockyard",
     "One who drinks too much alcohol - Numismatist",
     "One who drinks too much alcohol - Autocracy"
    ],
-   "a": 0,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only One who drinks too much alcohol - Drunkard is correctly matched."
+   "answer": 0,
+   "explanation": "Only One who drinks too much alcohol - Drunkard is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0794",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Vacuum - Dissapoint",
     "Vacuum - Exagerate",
     "Vacuum - Vaccum",
     "Vacuum - Buisness"
    ],
-   "a": 2,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Vacuum - Vaccum is correctly matched."
+   "answer": 2,
+   "explanation": "Only Vacuum - Vaccum is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0795",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Photo - Photos",
     "Proof - Proofs",
     "Vertex - Vertices",
     "Man - Zoos"
    ],
-   "a": 3,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Man - Zoos is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Man - Zoos is not correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0796",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Wide - Cleverer",
     "Fat - Fatter",
     "Weak - Weaker",
     "Dangerous - More dangerous"
    ],
-   "a": 0,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Wide - Cleverer is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Wide - Cleverer is not correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0797",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "Cache memory levels - L1, L2 and L3 are cache levels",
     "Cache memory levels - Language used to style web pages",
     "Cache memory levels - Step by step method to solve a problem",
     "Cache memory levels - Input device used for typing"
    ],
-   "a": 0,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Cache memory levels - L1, L2 and L3 are cache levels is correctly matched."
+   "answer": 0,
+   "explanation": "Only Cache memory levels - L1, L2 and L3 are cache levels is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0798",
-   "q": "Which of the following abbreviations stands for Employees' State Insurance?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Employees' State Insurance?",
+   "options": [
     "BARC",
     "ESI",
     "IAEA",
     "MICR"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Employees' State Insurance is abbreviated as ESI."
+   "answer": 1,
+   "explanation": "Employees' State Insurance is abbreviated as ESI.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0799",
-   "q": "Which currency is used in Georgia?",
-   "o": [
+   "question": "Which currency is used in Georgia?",
+   "options": [
     "Rupiah",
     "Bahraini Dinar",
     "Lari",
     "Nepalese Rupee"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 2,
-   "s": "generated",
-   "e": "The currency of Georgia is Tbilisi."
+   "answer": 2,
+   "explanation": "The currency of Georgia is Tbilisi.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0800",
-   "q": "Which element has atomic number 44?",
-   "o": [
+   "question": "Which element has atomic number 44?",
+   "options": [
     "Einsteinium",
     "Actinium",
     "Ruthenium",
     "Boron"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "Atomic number 44 belongs to Ruthenium."
+   "answer": 2,
+   "explanation": "Atomic number 44 belongs to Ruthenium.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0801",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Nokrek National Park - Meghalaya",
     "Nokrek National Park - Karnataka",
     "Nokrek National Park - Madhya Pradesh",
     "Nokrek National Park - Gujarat"
    ],
-   "a": 0,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Nokrek National Park - Meghalaya is correctly matched."
+   "answer": 0,
+   "explanation": "Only Nokrek National Park - Meghalaya is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0802",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "Paris Climate Agreement adopted - 1962",
     "Paris Climate Agreement adopted - 1498",
     "Paris Climate Agreement adopted - 2015",
     "Paris Climate Agreement adopted - 1944"
    ],
-   "a": 2,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Paris Climate Agreement adopted - 2015 is correctly matched."
+   "answer": 2,
+   "explanation": "Only Paris Climate Agreement adopted - 2015 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0803",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "World Computer Security Day - 22 March",
     "World Computer Security Day - 22 December",
     "World Computer Security Day - 20 October",
     "World Computer Security Day - 30 November"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only World Computer Security Day - 30 November is correctly matched."
+   "answer": 3,
+   "explanation": "Only World Computer Security Day - 30 November is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0804",
-   "q": "Enthusiastic is a synonym of which of the following words?",
-   "o": [
+   "question": "Enthusiastic is a synonym of which of the following words?",
+   "options": [
     "Zealous",
     "Innovative",
     "Staunch",
     "Judicious"
    ],
-   "a": 0,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Enthusiastic is a synonym of Zealous."
+   "answer": 0,
+   "explanation": "Enthusiastic is a synonym of Zealous.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0805",
-   "q": "Confidence is an antonym of which of the following words?",
-   "o": [
+   "question": "Confidence is an antonym of which of the following words?",
+   "options": [
     "Apathy",
     "Trepidation",
     "Corroborate",
     "Abundant"
    ],
-   "a": 1,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Confidence is the opposite of Trepidation."
+   "answer": 1,
+   "explanation": "Confidence is the opposite of Trepidation.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0806",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Set the Thames on fire - Die",
     "Set the Thames on fire - Be dismissed from a job",
     "Set the Thames on fire - Do something remarkable",
     "Set the Thames on fire - Noble birth"
    ],
-   "a": 2,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Set the Thames on fire - Do something remarkable is correctly matched."
+   "answer": 2,
+   "explanation": "Only Set the Thames on fire - Do something remarkable is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0807",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "One who drinks too much alcohol - Drunkard",
     "One who drinks too much alcohol - Invincible",
     "One who drinks too much alcohol - Botanist",
     "One who drinks too much alcohol - Genocide"
    ],
-   "a": 0,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only One who drinks too much alcohol - Drunkard is correctly matched."
+   "answer": 0,
+   "explanation": "Only One who drinks too much alcohol - Drunkard is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0808",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Vacuum - Occurence",
     "Vacuum - Suprise",
     "Vacuum - Fulfill",
     "Vacuum - Vaccum"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Vacuum - Vaccum is correctly matched."
+   "answer": 3,
+   "explanation": "Only Vacuum - Vaccum is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0809",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Proof - Proofs",
     "Alumnus - Phenomena",
     "Radius - Radii",
     "Volcano - Volcanoes"
    ],
-   "a": 1,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Alumnus - Phenomena is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Alumnus - Phenomena is not correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0810",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Heavy - Heavier",
     "Rich - Richer",
     "Good - Better",
     "Busy - Older"
    ],
-   "a": 3,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Busy - Older is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Busy - Older is not correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0811",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "Cache memory levels - Malicious program disguised as useful software",
     "Cache memory levels - L1, L2 and L3 are cache levels",
     "Cache memory levels - Input device that captures video",
     "Cache memory levels - Short range wireless technology"
    ],
-   "a": 1,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Cache memory levels - L1, L2 and L3 are cache levels is correctly matched."
+   "answer": 1,
+   "explanation": "Only Cache memory levels - L1, L2 and L3 are cache levels is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0812",
-   "q": "Which of the following abbreviations stands for Bureau of Indian Standards?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Bureau of Indian Standards?",
+   "options": [
     "CBSE",
     "RTE",
     "IIP",
     "BIS"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Bureau of Indian Standards is abbreviated as BIS."
+   "answer": 3,
+   "explanation": "Bureau of Indian Standards is abbreviated as BIS.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0813",
-   "q": "Which currency is used in Senegal?",
-   "o": [
+   "question": "Which currency is used in Senegal?",
+   "options": [
     "Tenge",
     "CFA Franc",
     "Bahamian Dollar",
     "Denar"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 2,
-   "s": "generated",
-   "e": "The currency of Senegal is Dakar."
+   "answer": 1,
+   "explanation": "The currency of Senegal is Dakar.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0814",
-   "q": "Which element has atomic number 35?",
-   "o": [
+   "question": "Which element has atomic number 35?",
+   "options": [
     "Copernicium",
     "Gallium",
     "Bromine",
     "Iodine"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "Atomic number 35 belongs to Bromine."
+   "answer": 2,
+   "explanation": "Atomic number 35 belongs to Bromine.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0815",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Nameri Tiger Reserve - Assam",
     "Nameri Tiger Reserve - Arunachal Pradesh",
     "Nameri Tiger Reserve - Jharkhand",
     "Nameri Tiger Reserve - West Bengal"
    ],
-   "a": 0,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Nameri Tiger Reserve - Assam is correctly matched."
+   "answer": 0,
+   "explanation": "Only Nameri Tiger Reserve - Assam is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0816",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "Founding of NATO - 1992",
     "Founding of NATO - 1989",
     "Founding of NATO - 1949",
     "Founding of NATO - 1997"
    ],
-   "a": 2,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Founding of NATO - 1949 is correctly matched."
+   "answer": 2,
+   "explanation": "Only Founding of NATO - 1949 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0817",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "World Computer Security Day - 16 September",
     "World Computer Security Day - 21 February",
     "World Computer Security Day - 30 November",
     "World Computer Security Day - 26 July"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only World Computer Security Day - 30 November is correctly matched."
+   "answer": 2,
+   "explanation": "Only World Computer Security Day - 30 November is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0818",
-   "q": "Waver is a synonym of which of the following words?",
-   "o": [
+   "question": "Waver is a synonym of which of the following words?",
+   "options": [
     "Destitute",
     "Vacillate",
     "Decorum",
     "Affable"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Waver is a synonym of Vacillate."
+   "answer": 1,
+   "explanation": "Waver is a synonym of Vacillate.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0819",
-   "q": "Improve is an antonym of which of the following words?",
-   "o": [
+   "question": "Improve is an antonym of which of the following words?",
+   "options": [
     "Turbulent",
     "Abandon",
     "Fluctuate",
     "Deteriorate"
    ],
-   "a": 3,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Improve is the opposite of Deteriorate."
+   "answer": 3,
+   "explanation": "Improve is the opposite of Deteriorate.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0820",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Set the Thames on fire - Unfair",
     "Set the Thames on fire - A cause of quarrel",
     "Set the Thames on fire - Do something remarkable",
     "Set the Thames on fire - A difficult problem"
    ],
-   "a": 2,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Set the Thames on fire - Do something remarkable is correctly matched."
+   "answer": 2,
+   "explanation": "Only Set the Thames on fire - Do something remarkable is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0821",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "One who cannot be heard - Omnivores",
     "One who cannot be heard - Inaudible",
     "One who cannot be heard - Chauffeur",
     "One who cannot be heard - Hangar"
    ],
-   "a": 1,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only One who cannot be heard - Inaudible is correctly matched."
+   "answer": 1,
+   "explanation": "Only One who cannot be heard - Inaudible is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0822",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Welcome - Sargeant",
     "Welcome - Comparision",
     "Welcome - Wellcome",
     "Welcome - Succesful"
    ],
-   "a": 2,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Welcome - Wellcome is correctly matched."
+   "answer": 2,
+   "explanation": "Only Welcome - Wellcome is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0823",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Fish - Fish",
     "Wife - Wives",
     "Die - Teeth",
     "Echo - Echoes"
    ],
-   "a": 2,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Die - Teeth is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Die - Teeth is not correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0824",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Busy - Busier",
     "Rich - Richer",
     "Narrow - Cleverer",
     "Short - Shorter"
    ],
-   "a": 2,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Narrow - Cleverer is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Narrow - Cleverer is not correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0825",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "Python - Standard code for representing characters",
     "Python - Number system with base sixteen",
     "Python - Core part of an operating system",
     "Python - High level general purpose programming language"
    ],
-   "a": 3,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Python - High level general purpose programming language is correctly matched."
+   "answer": 3,
+   "explanation": "Only Python - High level general purpose programming language is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0826",
-   "q": "Which of the following abbreviations stands for National Eligibility Test?",
-   "o": [
+   "question": "Which of the following abbreviations stands for National Eligibility Test?",
+   "options": [
     "NET",
     "WHO",
     "LEO",
     "NSG"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "National Eligibility Test is abbreviated as NET."
+   "answer": 0,
+   "explanation": "National Eligibility Test is abbreviated as NET.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0827",
-   "q": "Which currency is used in Iraq?",
-   "o": [
+   "question": "Which currency is used in Iraq?",
+   "options": [
     "Iraqi Dinar",
     "Naira",
     "Surinamese Dollar",
     "Euro"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 2,
-   "s": "generated",
-   "e": "The currency of Iraq is Baghdad."
+   "answer": 0,
+   "explanation": "The currency of Iraq is Baghdad.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0828",
-   "q": "Which element has atomic number 73?",
-   "o": [
+   "question": "Which element has atomic number 73?",
+   "options": [
     "Cerium",
     "Calcium",
     "Tantalum",
     "Cobalt"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "Atomic number 73 belongs to Tantalum."
+   "answer": 2,
+   "explanation": "Atomic number 73 belongs to Tantalum.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0829",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Nameri Tiger Reserve - Bihar",
     "Nameri Tiger Reserve - Madhya Pradesh",
     "Nameri Tiger Reserve - Assam",
     "Nameri Tiger Reserve - Haryana"
    ],
-   "a": 2,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Nameri Tiger Reserve - Assam is correctly matched."
+   "answer": 2,
+   "explanation": "Only Nameri Tiger Reserve - Assam is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0830",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "Founding of NATO - 1948",
     "Founding of NATO - 1648",
     "Founding of NATO - 1949",
     "Founding of NATO - 2015"
    ],
-   "a": 2,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Founding of NATO - 1949 is correctly matched."
+   "answer": 2,
+   "explanation": "Only Founding of NATO - 1949 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0831",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "International Anti-Corruption Day - 10 October",
     "International Anti-Corruption Day - 21 September",
     "International Anti-Corruption Day - 9 December",
     "International Anti-Corruption Day - 5 June"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only International Anti-Corruption Day - 9 December is correctly matched."
+   "answer": 2,
+   "explanation": "Only International Anti-Corruption Day - 9 December is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0832",
-   "q": "Supreme is a synonym of which of the following words?",
-   "o": [
+   "question": "Supreme is a synonym of which of the following words?",
+   "options": [
     "Ubiquitous",
     "Staunch",
     "Debilitate",
     "Paramount"
    ],
-   "a": 3,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Supreme is a synonym of Paramount."
+   "answer": 3,
+   "explanation": "Supreme is a synonym of Paramount.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0833",
-   "q": "Sufficient is an antonym of which of the following words?",
-   "o": [
+   "question": "Sufficient is an antonym of which of the following words?",
+   "options": [
     "Deficient",
     "Garrulous",
     "Precarious",
     "Adamant"
    ],
-   "a": 0,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Sufficient is the opposite of Deficient."
+   "answer": 0,
+   "explanation": "Sufficient is the opposite of Deficient.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0834",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "A dark horse - Make an effort to improve",
     "A dark horse - Rain heavily",
     "A dark horse - To rebuke frankly",
     "A dark horse - An unexpected winner"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only A dark horse - An unexpected winner is correctly matched."
+   "answer": 3,
+   "explanation": "Only A dark horse - An unexpected winner is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0835",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "One who cannot be heard - Barber",
     "One who cannot be heard - Aviary",
     "One who cannot be heard - Inaudible",
     "One who cannot be heard - Synonyms"
    ],
-   "a": 2,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only One who cannot be heard - Inaudible is correctly matched."
+   "answer": 2,
+   "explanation": "Only One who cannot be heard - Inaudible is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0836",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Welcome - Eigth",
     "Welcome - Wellcome",
     "Welcome - Enrollment",
     "Welcome - Oportunity"
    ],
-   "a": 1,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Welcome - Wellcome is correctly matched."
+   "answer": 1,
+   "explanation": "Only Welcome - Wellcome is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0837",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Leaf - Leaves",
     "Focus - Foci",
     "Shelf - Radios",
     "Studio - Studios"
    ],
-   "a": 2,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Shelf - Radios is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Shelf - Radios is not correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0838",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Big - Bigger",
     "Slow - Slower",
     "Clever - Faster",
     "Happy - Happier"
    ],
-   "a": 2,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Clever - Faster is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Clever - Faster is not correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0839",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "Python - High level general purpose programming language",
     "Python - Main circuit board of a computer",
     "Python - Power supply unit of a computer",
     "Python - Short range wireless technology"
    ],
-   "a": 0,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Python - High level general purpose programming language is correctly matched."
+   "answer": 0,
+   "explanation": "Only Python - High level general purpose programming language is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0840",
-   "q": "Which of the following abbreviations stands for International Atomic Energy Agency?",
-   "o": [
+   "question": "Which of the following abbreviations stands for International Atomic Energy Agency?",
+   "options": [
     "IAEA",
     "RAW",
     "AC",
     "CBIC"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "International Atomic Energy Agency is abbreviated as IAEA."
+   "answer": 0,
+   "explanation": "International Atomic Energy Agency is abbreviated as IAEA.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0841",
-   "q": "Which currency is used in Canada?",
-   "o": [
+   "question": "Which currency is used in Canada?",
+   "options": [
     "Rufiyaa",
     "Kip",
     "Canadian Dollar",
     "Boliviano"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 2,
-   "s": "generated",
-   "e": "The currency of Canada is Ottawa."
+   "answer": 2,
+   "explanation": "The currency of Canada is Ottawa.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0842",
-   "q": "Which element has atomic number 117?",
-   "o": [
+   "question": "Which element has atomic number 117?",
+   "options": [
     "Helium",
     "Lutetium",
     "Tennessine",
     "Francium"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "Atomic number 117 belongs to Tennessine."
+   "answer": 2,
+   "explanation": "Atomic number 117 belongs to Tennessine.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0843",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Bor Tiger Reserve - Assam",
     "Bor Tiger Reserve - Odisha",
     "Bor Tiger Reserve - Uttarakhand",
     "Bor Tiger Reserve - Maharashtra"
    ],
-   "a": 3,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Bor Tiger Reserve - Maharashtra is correctly matched."
+   "answer": 3,
+   "explanation": "Only Bor Tiger Reserve - Maharashtra is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0844",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "Dissolution of the Soviet Union - 1959",
     "Dissolution of the Soviet Union - 1957",
     "Dissolution of the Soviet Union - 1945",
     "Dissolution of the Soviet Union - 1991"
    ],
-   "a": 3,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Dissolution of the Soviet Union - 1991 is correctly matched."
+   "answer": 3,
+   "explanation": "Only Dissolution of the Soviet Union - 1991 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0845",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "International Anti-Corruption Day - 21 June",
     "International Anti-Corruption Day - 14 October",
     "International Anti-Corruption Day - 9 December",
     "International Anti-Corruption Day - first Monday of October"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only International Anti-Corruption Day - 9 December is correctly matched."
+   "answer": 2,
+   "explanation": "Only International Anti-Corruption Day - 9 December is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0846",
-   "q": "Perceive is a synonym of which of the following words?",
-   "o": [
+   "question": "Perceive is a synonym of which of the following words?",
+   "options": [
     "Judicious",
     "Discern",
     "Copious",
     "Innocuous"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Perceive is a synonym of Discern."
+   "answer": 1,
+   "explanation": "Perceive is a synonym of Discern.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0847",
-   "q": "Humble is an antonym of which of the following words?",
-   "o": [
+   "question": "Humble is an antonym of which of the following words?",
+   "options": [
     "Complacent",
     "Augment",
     "Haughty",
     "Dubious"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Humble is the opposite of Haughty."
+   "answer": 2,
+   "explanation": "Humble is the opposite of Haughty.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0848",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "A dark horse - Send a short letter",
     "A dark horse - In direct opposition to",
     "A dark horse - Take a subordinate role",
     "A dark horse - An unexpected winner"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only A dark horse - An unexpected winner is correctly matched."
+   "answer": 3,
+   "explanation": "Only A dark horse - An unexpected winner is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0849",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Something that is no longer in use - Aristocracy",
     "Something that is no longer in use - Obsolete",
     "Something that is no longer in use - Autobiography",
     "Something that is no longer in use - Inaudible"
    ],
-   "a": 1,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Something that is no longer in use - Obsolete is correctly matched."
+   "answer": 1,
+   "explanation": "Only Something that is no longer in use - Obsolete is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0850",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Committee - Minature",
     "Committee - Liesure",
     "Committee - Indispensible",
     "Committee - Commitee"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Committee - Commitee is correctly matched."
+   "answer": 3,
+   "explanation": "Only Committee - Commitee is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0851",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Species - Species",
     "Fish - Fish",
     "Matrix - Salmon",
     "Buffalo - Buffaloes"
    ],
-   "a": 2,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Matrix - Salmon is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Matrix - Salmon is not correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0852",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Noble - Nobler",
     "Rich - Richer",
     "Happy - Happier",
     "Easy - Thinner"
    ],
-   "a": 3,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Easy - Thinner is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Easy - Thinner is not correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0853",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "Java - Pointing input device",
     "Java - Software used to view web pages",
     "Java - Input device that converts paper documents to digital form",
     "Java - Object oriented programming language"
    ],
-   "a": 3,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Java - Object oriented programming language is correctly matched."
+   "answer": 3,
+   "explanation": "Only Java - Object oriented programming language is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0854",
-   "q": "Which of the following abbreviations stands for Railway Recruitment Board?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Railway Recruitment Board?",
+   "options": [
     "PMGSY",
     "NEFT",
     "RBI",
     "RRB"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Railway Recruitment Board is abbreviated as RRB."
+   "answer": 3,
+   "explanation": "Railway Recruitment Board is abbreviated as RRB.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0855",
-   "q": "Which currency is used in Dominican Republic?",
-   "o": [
+   "question": "Which currency is used in Dominican Republic?",
+   "options": [
     "Dong",
     "Somali Shilling",
     "Moroccan Dirham",
     "Dominican Peso"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 2,
-   "s": "generated",
-   "e": "The currency of Dominican Republic is Santo Domingo."
+   "answer": 3,
+   "explanation": "The currency of Dominican Republic is Santo Domingo.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0856",
-   "q": "Which element has atomic number 54?",
-   "o": [
+   "question": "Which element has atomic number 54?",
+   "options": [
     "Xenon",
     "Thallium",
     "Zinc",
     "Nihonium"
    ],
-   "a": 0,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "Atomic number 54 belongs to Xenon."
+   "answer": 0,
+   "explanation": "Atomic number 54 belongs to Xenon.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0857",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Bor Tiger Reserve - Nagaland",
     "Bor Tiger Reserve - Maharashtra",
     "Bor Tiger Reserve - Bihar",
     "Bor Tiger Reserve - Rajasthan"
    ],
-   "a": 1,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Bor Tiger Reserve - Maharashtra is correctly matched."
+   "answer": 1,
+   "explanation": "Only Bor Tiger Reserve - Maharashtra is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0858",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "Dissolution of the Soviet Union - 1919",
     "Dissolution of the Soviet Union - 1991",
     "Dissolution of the Soviet Union - 1945",
     "Dissolution of the Soviet Union - 1986"
    ],
-   "a": 1,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Dissolution of the Soviet Union - 1991 is correctly matched."
+   "answer": 1,
+   "explanation": "Only Dissolution of the Soviet Union - 1991 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0859",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "National Voters' Day (India) - 3 May",
     "National Voters' Day (India) - 25 January",
     "National Voters' Day (India) - 5 September",
     "National Voters' Day (India) - 18 December"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only National Voters' Day (India) - 25 January is correctly matched."
+   "answer": 1,
+   "explanation": "Only National Voters' Day (India) - 25 January is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0860",
-   "q": "Strange is a synonym of which of the following words?",
-   "o": [
+   "question": "Strange is a synonym of which of the following words?",
+   "options": [
     "Avarice",
     "Inevitable",
     "Bizarre",
     "Arduous"
    ],
-   "a": 2,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Strange is a synonym of Bizarre."
+   "answer": 2,
+   "explanation": "Strange is a synonym of Bizarre.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0861",
-   "q": "Blame is an antonym of which of the following words?",
-   "o": [
+   "question": "Blame is an antonym of which of the following words?",
+   "options": [
     "Exonerate",
     "Innocuous",
     "Recalcitrant",
     "Eminent"
    ],
-   "a": 0,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Blame is the opposite of Exonerate."
+   "answer": 0,
+   "explanation": "Blame is the opposite of Exonerate.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0862",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Close shave - A narrow escape",
     "Close shave - To break a promise",
     "Close shave - Act so as to make retreat impossible",
     "Close shave - Begin a conversation"
    ],
-   "a": 0,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Close shave - A narrow escape is correctly matched."
+   "answer": 0,
+   "explanation": "Only Close shave - A narrow escape is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0863",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Something that is no longer in use - Obsolete",
     "Something that is no longer in use - Florist",
     "Something that is no longer in use - Linguist",
     "Something that is no longer in use - Autocracy"
    ],
-   "a": 0,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Something that is no longer in use - Obsolete is correctly matched."
+   "answer": 0,
+   "explanation": "Only Something that is no longer in use - Obsolete is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0864",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Committee - Villian",
     "Committee - Neccessary",
     "Committee - Appearence",
     "Committee - Commitee"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Committee - Commitee is correctly matched."
+   "answer": 3,
+   "explanation": "Only Committee - Commitee is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0865",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Species - Species",
     "Axis - Data",
     "Syllabus - Syllabi",
     "Baby - Babies"
    ],
-   "a": 1,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Axis - Data is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Axis - Data is not correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0866",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Fast - More beautiful",
     "Bad - Worse",
     "Slow - Slower",
     "Clever - Cleverer"
    ],
-   "a": 0,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Fast - More beautiful is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Fast - More beautiful is not correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0867",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "Java - Malicious program that spreads on its own",
     "Java - Running a processor above its rated speed",
     "Java - Object oriented programming language",
     "Java - Step by step method to solve a problem"
    ],
-   "a": 2,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Java - Object oriented programming language is correctly matched."
+   "answer": 2,
+   "explanation": "Only Java - Object oriented programming language is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0868",
-   "q": "Which of the following abbreviations stands for Insurance Regulatory and Development Authority of India?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Insurance Regulatory and Development Authority of India?",
+   "options": [
     "PM-KISAN",
     "IRDAI",
     "TDS",
     "CTET"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Insurance Regulatory and Development Authority of India is abbreviated as IRDAI."
+   "answer": 1,
+   "explanation": "Insurance Regulatory and Development Authority of India is abbreviated as IRDAI.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0869",
-   "q": "Which currency is used in Republic of the Congo?",
-   "o": [
+   "question": "Which currency is used in Republic of the Congo?",
+   "options": [
     "Rufiyaa",
     "CFA Franc",
     "Danish Krone",
     "Leu"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 2,
-   "s": "generated",
-   "e": "The currency of Republic of the Congo is Brazzaville."
+   "answer": 1,
+   "explanation": "The currency of Republic of the Congo is Brazzaville.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0870",
-   "q": "Which element has atomic number 21?",
-   "o": [
+   "question": "Which element has atomic number 21?",
+   "options": [
     "Copernicium",
     "Phosphorus",
     "Scandium",
     "Plutonium"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "Atomic number 21 belongs to Scandium."
+   "answer": 2,
+   "explanation": "Atomic number 21 belongs to Scandium.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0871",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Rajgir Wildlife Sanctuary - Bihar",
     "Rajgir Wildlife Sanctuary - Uttarakhand",
     "Rajgir Wildlife Sanctuary - Gujarat",
     "Rajgir Wildlife Sanctuary - Madhya Pradesh"
    ],
-   "a": 0,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Rajgir Wildlife Sanctuary - Bihar is correctly matched."
+   "answer": 0,
+   "explanation": "Only Rajgir Wildlife Sanctuary - Bihar is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0872",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "Treaty of Versailles signed - 1969",
     "Treaty of Versailles signed - 1871",
     "Treaty of Versailles signed - 1997",
     "Treaty of Versailles signed - 1919"
    ],
-   "a": 3,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Treaty of Versailles signed - 1919 is correctly matched."
+   "answer": 3,
+   "explanation": "Only Treaty of Versailles signed - 1919 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0873",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "National Voters' Day (India) - 21 September",
     "National Voters' Day (India) - 1 June",
     "National Voters' Day (India) - 25 January",
     "National Voters' Day (India) - 24 October"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only National Voters' Day (India) - 25 January is correctly matched."
+   "answer": 2,
+   "explanation": "Only National Voters' Day (India) - 25 January is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0874",
-   "q": "Surrender is a synonym of which of the following words?",
-   "o": [
+   "question": "Surrender is a synonym of which of the following words?",
+   "options": [
     "Coerce",
     "Magnanimous",
     "Eulogy",
     "Capitulate"
    ],
-   "a": 3,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Surrender is a synonym of Capitulate."
+   "answer": 3,
+   "explanation": "Surrender is a synonym of Capitulate.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0875",
-   "q": "Prosperity is an antonym of which of the following words?",
-   "o": [
+   "question": "Prosperity is an antonym of which of the following words?",
+   "options": [
     "Pertinent",
     "Vindicate",
     "Adversity",
     "Laconic"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Prosperity is the opposite of Adversity."
+   "answer": 2,
+   "explanation": "Prosperity is the opposite of Adversity.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0876",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Close shave - Be the dominant person",
     "Close shave - A narrow escape",
     "Close shave - Relatives",
     "Close shave - Apologise humbly"
    ],
-   "a": 1,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Close shave - A narrow escape is correctly matched."
+   "answer": 1,
+   "explanation": "Only Close shave - A narrow escape is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0877",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "A word formed from the initial letters of other words - Aquarium",
     "A word formed from the initial letters of other words - Chauvinism",
     "A word formed from the initial letters of other words - Acronym",
     "A word formed from the initial letters of other words - Drunkard"
    ],
-   "a": 2,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only A word formed from the initial letters of other words - Acronym is correctly matched."
+   "answer": 2,
+   "explanation": "Only A word formed from the initial letters of other words - Acronym is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0878",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Secretary - Vaccum",
     "Secretary - Arguement",
     "Secretary - Persistant",
     "Secretary - Secratary"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Secretary - Secratary is correctly matched."
+   "answer": 3,
+   "explanation": "Only Secretary - Secratary is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0879",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Cactus - Salmon",
     "Knife - Knives",
     "Foot - Feet",
     "Lady - Ladies"
    ],
-   "a": 0,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Cactus - Salmon is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Cactus - Salmon is not correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0880",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Tall - Taller",
     "Poor - More courageous",
     "Difficult - More difficult",
     "Small - Smaller"
    ],
-   "a": 1,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Poor - More courageous is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Poor - More courageous is not correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0881",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "Boot - Human readable name of a website",
     "Boot - Process of starting a computer",
     "Boot - Language used to structure web pages",
     "Boot - Step by step method to solve a problem"
    ],
-   "a": 1,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Boot - Process of starting a computer is correctly matched."
+   "answer": 1,
+   "explanation": "Only Boot - Process of starting a computer is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0882",
-   "q": "Which of the following abbreviations stands for Central Board of Indirect Taxes and Customs?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Central Board of Indirect Taxes and Customs?",
+   "options": [
     "CBIC",
     "IAEA",
     "JAM",
     "SCO"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Central Board of Indirect Taxes and Customs is abbreviated as CBIC."
+   "answer": 0,
+   "explanation": "Central Board of Indirect Taxes and Customs is abbreviated as CBIC.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0883",
-   "q": "Which currency is used in Andorra?",
-   "o": [
+   "question": "Which currency is used in Andorra?",
+   "options": [
     "Icelandic Krona",
     "Won",
     "Guinean Franc",
     "Euro"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 2,
-   "s": "generated",
-   "e": "The currency of Andorra is Andorra la Vella."
+   "answer": 3,
+   "explanation": "The currency of Andorra is Andorra la Vella.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0884",
-   "q": "Which element has atomic number 86?",
-   "o": [
+   "question": "Which element has atomic number 86?",
+   "options": [
     "Nitrogen",
     "Lead",
     "Radon",
     "Gadolinium"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "Atomic number 86 belongs to Radon."
+   "answer": 2,
+   "explanation": "Atomic number 86 belongs to Radon.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0885",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Rajgir Wildlife Sanctuary - Rajasthan",
     "Rajgir Wildlife Sanctuary - Mizoram",
     "Rajgir Wildlife Sanctuary - Bihar",
     "Rajgir Wildlife Sanctuary - Odisha"
    ],
-   "a": 2,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Rajgir Wildlife Sanctuary - Bihar is correctly matched."
+   "answer": 2,
+   "explanation": "Only Rajgir Wildlife Sanctuary - Bihar is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0886",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "Treaty of Versailles signed - 1919",
     "Treaty of Versailles signed - 1957",
     "Treaty of Versailles signed - 1789",
     "Treaty of Versailles signed - 2001"
    ],
-   "a": 0,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Treaty of Versailles signed - 1919 is correctly matched."
+   "answer": 0,
+   "explanation": "Only Treaty of Versailles signed - 1919 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0887",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "International Mother Language Day - 4 February",
     "International Mother Language Day - 21 February",
     "International Mother Language Day - 15 October",
     "International Mother Language Day - 21 June"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only International Mother Language Day - 21 February is correctly matched."
+   "answer": 1,
+   "explanation": "Only International Mother Language Day - 21 February is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0888",
-   "q": "Opinionated is a synonym of which of the following words?",
-   "o": [
+   "question": "Opinionated is a synonym of which of the following words?",
+   "options": [
     "Insolent",
     "Adamant",
     "Dogmatic",
     "Precipitate"
    ],
-   "a": 2,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Opinionated is a synonym of Dogmatic."
+   "answer": 2,
+   "explanation": "Opinionated is a synonym of Dogmatic.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0889",
-   "q": "Impossible is an antonym of which of the following words?",
-   "o": [
+   "question": "Impossible is an antonym of which of the following words?",
+   "options": [
     "Anarchy",
     "Vigilant",
     "Feasible",
     "Intrinsic"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Impossible is the opposite of Feasible."
+   "answer": 2,
+   "explanation": "Impossible is the opposite of Feasible.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0890",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "To put the cart before the horse - To be in conflict",
     "To put the cart before the horse - Destroy at an early stage",
     "To put the cart before the horse - To reverse the proper order",
     "To put the cart before the horse - To struggle without hope of success"
    ],
-   "a": 2,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only To put the cart before the horse - To reverse the proper order is correctly matched."
+   "answer": 2,
+   "explanation": "Only To put the cart before the horse - To reverse the proper order is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0891",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "A word formed from the initial letters of other words - Hermit",
     "A word formed from the initial letters of other words - Nuisance",
     "A word formed from the initial letters of other words - Taciturn",
     "A word formed from the initial letters of other words - Acronym"
    ],
-   "a": 3,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only A word formed from the initial letters of other words - Acronym is correctly matched."
+   "answer": 3,
+   "explanation": "Only A word formed from the initial letters of other words - Acronym is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0892",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Secretary - Facinate",
     "Secretary - Separetly",
     "Secretary - Curtesy",
     "Secretary - Secratary"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Secretary - Secratary is correctly matched."
+   "answer": 3,
+   "explanation": "Only Secretary - Secratary is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0893",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Commander-in-Chief - Commanders-in-Chief",
     "Formula - Women",
     "Leaf - Leaves",
     "Vertex - Vertices"
    ],
-   "a": 1,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Formula - Women is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Formula - Women is not correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0894",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Important - More important",
     "Bad - Finer",
     "Late - Later",
     "Rich - Richer"
    ],
-   "a": 1,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Bad - Finer is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Bad - Finer is not correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0895",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "Boot - Small file stored by a website in the browser",
     "Boot - Organised collection of data",
     "Boot - Process of starting a computer",
     "Boot - Address of a resource on the internet"
    ],
-   "a": 2,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Boot - Process of starting a computer is correctly matched."
+   "answer": 2,
+   "explanation": "Only Boot - Process of starting a computer is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0896",
-   "q": "Which of the following abbreviations stands for National Investigation Agency?",
-   "o": [
+   "question": "Which of the following abbreviations stands for National Investigation Agency?",
+   "options": [
     "NIA",
     "CAG",
     "PDS",
     "UPI"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "National Investigation Agency is abbreviated as NIA."
+   "answer": 0,
+   "explanation": "National Investigation Agency is abbreviated as NIA.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0897",
-   "q": "Which currency is used in Liberia?",
-   "o": [
+   "question": "Which currency is used in Liberia?",
+   "options": [
     "Naira",
     "Sol",
     "Riel",
     "Liberian Dollar"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 2,
-   "s": "generated",
-   "e": "The currency of Liberia is Monrovia."
+   "answer": 3,
+   "explanation": "The currency of Liberia is Monrovia.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0898",
-   "q": "Which element has atomic number 45?",
-   "o": [
+   "question": "Which element has atomic number 45?",
+   "options": [
     "Boron",
     "Silicon",
     "Osmium",
     "Rhodium"
    ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "Atomic number 45 belongs to Rhodium."
+   "answer": 3,
+   "explanation": "Atomic number 45 belongs to Rhodium.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0899",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Kishtwar National Park - Jharkhand",
     "Kishtwar National Park - Jammu and Kashmir",
     "Kishtwar National Park - Arunachal Pradesh",
     "Kishtwar National Park - Assam"
    ],
-   "a": 1,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Kishtwar National Park - Jammu and Kashmir is correctly matched."
+   "answer": 1,
+   "explanation": "Only Kishtwar National Park - Jammu and Kashmir is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0900",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "Wall Street Crash and start of the Great Depression - 1865",
     "Wall Street Crash and start of the Great Depression - 1929",
     "Wall Street Crash and start of the Great Depression - 1833",
     "Wall Street Crash and start of the Great Depression - 1903"
    ],
-   "a": 1,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Wall Street Crash and start of the Great Depression - 1929 is correctly matched."
+   "answer": 1,
+   "explanation": "Only Wall Street Crash and start of the Great Depression - 1929 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0901",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "International Mother Language Day - 22 December",
     "International Mother Language Day - 20 March",
     "International Mother Language Day - 8 May",
     "International Mother Language Day - 21 February"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only International Mother Language Day - 21 February is correctly matched."
+   "answer": 3,
+   "explanation": "Only International Mother Language Day - 21 February is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0902",
-   "q": "Practical is a synonym of which of the following words?",
-   "o": [
+   "question": "Practical is a synonym of which of the following words?",
+   "options": [
     "Pragmatic",
     "Notorious",
     "Itinerant",
     "Foster"
    ],
-   "a": 0,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Practical is a synonym of Pragmatic."
+   "answer": 0,
+   "explanation": "Practical is a synonym of Pragmatic.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0903",
-   "q": "Contradict is an antonym of which of the following words?",
-   "o": [
+   "question": "Contradict is an antonym of which of the following words?",
+   "options": [
     "Arduous",
     "Antipathy",
     "Transient",
     "Corroborate"
    ],
-   "a": 3,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Contradict is the opposite of Corroborate."
+   "answer": 3,
+   "explanation": "Contradict is the opposite of Corroborate.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0904",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "To put the cart before the horse - To become very angry",
     "To put the cart before the horse - To be honest",
     "To put the cart before the horse - To reverse the proper order",
     "To put the cart before the horse - To break a promise"
    ],
-   "a": 2,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only To put the cart before the horse - To reverse the proper order is correctly matched."
+   "answer": 2,
+   "explanation": "Only To put the cart before the horse - To reverse the proper order is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0905",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "A place where aircraft are kept - Gullible",
     "A place where aircraft are kept - Hangar",
     "A place where aircraft are kept - Utopia",
     "A place where aircraft are kept - Biennials"
    ],
-   "a": 1,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only A place where aircraft are kept - Hangar is correctly matched."
+   "answer": 1,
+   "explanation": "Only A place where aircraft are kept - Hangar is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0906",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Carriage - Carrage",
     "Carriage - Arguement",
     "Carriage - Embarass",
     "Carriage - Recomend"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Carriage - Carrage is correctly matched."
+   "answer": 0,
+   "explanation": "Only Carriage - Carrage is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0907",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Army - Armies",
     "Salmon - Salmon",
     "Wife - Wives",
     "Datum - Sons-in-law"
    ],
-   "a": 3,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Datum - Sons-in-law is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Datum - Sons-in-law is not correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0908",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Little - Less",
     "Clever - Cleverer",
     "Small - Smaller",
     "Strong - Smaller"
    ],
-   "a": 3,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Strong - Smaller is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Strong - Smaller is not correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0909",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "Virtual memory - Unique address of a device on a network",
     "Virtual memory - Disk space used as an extension of RAM",
     "Virtual memory - Protocol used to transfer web pages",
     "Virtual memory - Non-volatile memory that holds firmware"
    ],
-   "a": 1,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Virtual memory - Disk space used as an extension of RAM is correctly matched."
+   "answer": 1,
+   "explanation": "Only Virtual memory - Disk space used as an extension of RAM is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0910",
-   "q": "Which of the following abbreviations stands for Employee Stock Option Plan?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Employee Stock Option Plan?",
+   "options": [
     "ESOP",
     "ICRC",
     "DC",
     "GPS"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Employee Stock Option Plan is abbreviated as ESOP."
+   "answer": 0,
+   "explanation": "Employee Stock Option Plan is abbreviated as ESOP.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0911",
-   "q": "Which currency is used in Suriname?",
-   "o": [
+   "question": "Which currency is used in Suriname?",
+   "options": [
     "Surinamese Dollar",
     "Loti",
     "Riel",
     "Euro"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 2,
-   "s": "generated",
-   "e": "The currency of Suriname is Paramaribo."
+   "answer": 0,
+   "explanation": "The currency of Suriname is Paramaribo.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0912",
-   "q": "Which element has atomic number 84?",
-   "o": [
+   "question": "Which element has atomic number 84?",
+   "options": [
     "Carbon",
     "Dubnium",
     "Osmium",
     "Polonium"
    ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "Atomic number 84 belongs to Polonium."
+   "answer": 3,
+   "explanation": "Atomic number 84 belongs to Polonium.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0913",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Kishtwar National Park - Odisha",
     "Kishtwar National Park - Jammu and Kashmir",
     "Kishtwar National Park - Karnataka",
     "Kishtwar National Park - Bihar"
    ],
-   "a": 1,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Kishtwar National Park - Jammu and Kashmir is correctly matched."
+   "answer": 1,
+   "explanation": "Only Kishtwar National Park - Jammu and Kashmir is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0914",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "Wall Street Crash and start of the Great Depression - 1990",
     "Wall Street Crash and start of the Great Depression - 1929",
     "Wall Street Crash and start of the Great Depression - 1903",
     "Wall Street Crash and start of the Great Depression - 1863"
    ],
-   "a": 1,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Wall Street Crash and start of the Great Depression - 1929 is correctly matched."
+   "answer": 1,
+   "explanation": "Only Wall Street Crash and start of the Great Depression - 1929 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0915",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "World Press Freedom Day - 3 May",
     "World Press Freedom Day - 28 February",
     "World Press Freedom Day - 16 September",
     "World Press Freedom Day - 23 April"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only World Press Freedom Day - 3 May is correctly matched."
+   "answer": 0,
+   "explanation": "Only World Press Freedom Day - 3 May is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0916",
-   "q": "Deceitful is a synonym of which of the following words?",
-   "o": [
+   "question": "Deceitful is a synonym of which of the following words?",
+   "options": [
     "Fraudulent",
     "Deficient",
     "Laudable",
     "Detrimental"
    ],
-   "a": 0,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Deceitful is a synonym of Fraudulent."
+   "answer": 0,
+   "explanation": "Deceitful is a synonym of Fraudulent.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0917",
-   "q": "Open is an antonym of which of the following words?",
-   "o": [
+   "question": "Open is an antonym of which of the following words?",
+   "options": [
     "Benevolent",
     "Exonerate",
     "Docile",
     "Clandestine"
    ],
-   "a": 3,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Open is the opposite of Clandestine."
+   "answer": 3,
+   "explanation": "Open is the opposite of Clandestine.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0918",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Achilles' heel - A weak point",
     "Achilles' heel - A comfortable situation",
     "Achilles' heel - Spoil a plan",
     "Achilles' heel - A person of no substance"
    ],
-   "a": 0,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Achilles' heel - A weak point is correctly matched."
+   "answer": 0,
+   "explanation": "Only Achilles' heel - A weak point is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0919",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "A place where aircraft are kept - Hangar",
     "A place where aircraft are kept - Carnivores",
     "A place where aircraft are kept - Scapegoat",
     "A place where aircraft are kept - Antiseptic"
    ],
-   "a": 0,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only A place where aircraft are kept - Hangar is correctly matched."
+   "answer": 0,
+   "explanation": "Only A place where aircraft are kept - Hangar is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0920",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Carriage - Buisness",
     "Carriage - Carrage",
     "Carriage - Truely",
     "Carriage - Hunderd"
    ],
-   "a": 1,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Carriage - Carrage is correctly matched."
+   "answer": 1,
+   "explanation": "Only Carriage - Carrage is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0921",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Wife - Echoes",
     "Analysis - Analyses",
     "Hypothesis - Hypotheses",
     "Man - Men"
    ],
-   "a": 0,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Wife - Echoes is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Wife - Echoes is not correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0922",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Happy - Happier",
     "Intelligent - Thinner",
     "Gentle - Gentler",
     "Simple - Simpler"
    ],
-   "a": 1,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Intelligent - Thinner is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Intelligent - Thinner is not correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0923",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "Virtual memory - Disk space used as an extension of RAM",
     "Virtual memory - Software that lets the OS talk to hardware",
     "Virtual memory - Devices that work as soon as they are connected",
     "Virtual memory - System that translates domain names into IP addresses"
    ],
-   "a": 0,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Virtual memory - Disk space used as an extension of RAM is correctly matched."
+   "answer": 0,
+   "explanation": "Only Virtual memory - Disk space used as an extension of RAM is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0924",
-   "q": "Which of the following abbreviations stands for National Institute of Technology?",
-   "o": [
+   "question": "Which of the following abbreviations stands for National Institute of Technology?",
+   "options": [
     "KVK",
     "NIT",
     "PMGSY",
     "FIH"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "National Institute of Technology is abbreviated as NIT."
+   "answer": 1,
+   "explanation": "National Institute of Technology is abbreviated as NIT.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0925",
-   "q": "Which currency is used in Costa Rica?",
-   "o": [
+   "question": "Which currency is used in Costa Rica?",
+   "options": [
     "Sudanese Pound",
     "Zloty",
     "Costa Rican Colon",
     "Rufiyaa"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 2,
-   "s": "generated",
-   "e": "The currency of Costa Rica is San Jose."
+   "answer": 2,
+   "explanation": "The currency of Costa Rica is San Jose.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0926",
-   "q": "Which element has atomic number 58?",
-   "o": [
+   "question": "Which element has atomic number 58?",
+   "options": [
     "Protactinium",
     "Cerium",
     "Calcium",
     "Selenium"
    ],
-   "a": 1,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "Atomic number 58 belongs to Cerium."
+   "answer": 1,
+   "explanation": "Atomic number 58 belongs to Cerium.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0927",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Dalma Wildlife Sanctuary - Jharkhand",
     "Dalma Wildlife Sanctuary - Mizoram",
     "Dalma Wildlife Sanctuary - Maharashtra",
     "Dalma Wildlife Sanctuary - Uttar Pradesh"
    ],
-   "a": 0,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Dalma Wildlife Sanctuary - Jharkhand is correctly matched."
+   "answer": 0,
+   "explanation": "Only Dalma Wildlife Sanctuary - Jharkhand is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0928",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "Bandung Conference - 1492",
     "Bandung Conference - 1955",
     "Bandung Conference - 1815",
     "Bandung Conference - 1993"
    ],
-   "a": 1,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Bandung Conference - 1955 is correctly matched."
+   "answer": 1,
+   "explanation": "Only Bandung Conference - 1955 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0929",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "World Press Freedom Day - 4 October",
     "World Press Freedom Day - 21 November",
     "World Press Freedom Day - 30 November",
     "World Press Freedom Day - 3 May"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only World Press Freedom Day - 3 May is correctly matched."
+   "answer": 3,
+   "explanation": "Only World Press Freedom Day - 3 May is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0930",
-   "q": "Showy is a synonym of which of the following words?",
-   "o": [
+   "question": "Showy is a synonym of which of the following words?",
+   "options": [
     "Heresy",
     "Dormant",
     "Ostentatious",
     "Epitome"
    ],
-   "a": 2,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Showy is a synonym of Ostentatious."
+   "answer": 2,
+   "explanation": "Showy is a synonym of Ostentatious.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0931",
-   "q": "Insufficient is an antonym of which of the following words?",
-   "o": [
+   "question": "Insufficient is an antonym of which of the following words?",
+   "options": [
     "Sumptuous",
     "Pertinent",
     "Ample",
     "Enmity"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Insufficient is the opposite of Ample."
+   "answer": 2,
+   "explanation": "Insufficient is the opposite of Ample.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0932",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Achilles' heel - To suspect foul play",
     "Achilles' heel - Deliberate indifference",
     "Achilles' heel - A person in an uncomfortable situation",
     "Achilles' heel - A weak point"
    ],
-   "a": 3,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Achilles' heel - A weak point is correctly matched."
+   "answer": 3,
+   "explanation": "Only Achilles' heel - A weak point is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0933",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "A person who is new to a profession - Novice",
     "A person who is new to a profession - Epitaph",
     "A person who is new to a profession - Antiseptic",
     "A person who is new to a profession - Synonyms"
    ],
-   "a": 0,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only A person who is new to a profession - Novice is correctly matched."
+   "answer": 0,
+   "explanation": "Only A person who is new to a profession - Novice is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0934",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Possession - Writting",
     "Possession - Interupt",
     "Possession - Irresistable",
     "Possession - Posession"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Possession - Posession is correctly matched."
+   "answer": 3,
+   "explanation": "Only Possession - Posession is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0935",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Thesis - Theses",
     "Basis - Proofs",
     "Box - Boxes",
     "Photo - Photos"
    ],
-   "a": 1,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Basis - Proofs is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Basis - Proofs is not correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0936",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Poor - Poorer",
     "Dangerous - More",
     "Narrow - Narrower",
     "Weak - Weaker"
    ],
-   "a": 1,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Dangerous - More is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Dangerous - More is not correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0937",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "Compiler - Wireless local area networking technology",
     "Compiler - Output device that displays visuals",
     "Compiler - Universal character encoding standard",
     "Compiler - Program that converts source code into machine code"
    ],
-   "a": 3,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Compiler - Program that converts source code into machine code is correctly matched."
+   "answer": 3,
+   "explanation": "Only Compiler - Program that converts source code into machine code is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0938",
-   "q": "Which of the following abbreviations stands for Border Security Force?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Border Security Force?",
+   "options": [
     "BSF",
     "CCTV",
     "CERN",
     "MSP"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Border Security Force is abbreviated as BSF."
+   "answer": 0,
+   "explanation": "Border Security Force is abbreviated as BSF.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0939",
-   "q": "Which currency is used in Brazil?",
-   "o": [
+   "question": "Which currency is used in Brazil?",
+   "options": [
     "Quetzal",
     "Real",
     "Manat",
     "Zambian Kwacha"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 2,
-   "s": "generated",
-   "e": "The currency of Brazil is Brasilia."
+   "answer": 1,
+   "explanation": "The currency of Brazil is Brasilia.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0940",
-   "q": "Which element has atomic number 77?",
-   "o": [
+   "question": "Which element has atomic number 77?",
+   "options": [
     "Hydrogen",
     "Iridium",
     "Tantalum",
     "Roentgenium"
    ],
-   "a": 1,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "Atomic number 77 belongs to Iridium."
+   "answer": 1,
+   "explanation": "Atomic number 77 belongs to Iridium.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0941",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Dalma Wildlife Sanctuary - Haryana",
     "Dalma Wildlife Sanctuary - Uttarakhand",
     "Dalma Wildlife Sanctuary - Kerala",
     "Dalma Wildlife Sanctuary - Jharkhand"
    ],
-   "a": 3,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Dalma Wildlife Sanctuary - Jharkhand is correctly matched."
+   "answer": 3,
+   "explanation": "Only Dalma Wildlife Sanctuary - Jharkhand is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0942",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "Bandung Conference - 1919",
     "Bandung Conference - 1215",
     "Bandung Conference - 1955",
     "Bandung Conference - 2008"
    ],
-   "a": 2,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Bandung Conference - 1955 is correctly matched."
+   "answer": 2,
+   "explanation": "Only Bandung Conference - 1955 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0943",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "Human Rights Day - 4 October",
     "Human Rights Day - 10 December",
     "Human Rights Day - 17 May",
     "Human Rights Day - 30 June"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Human Rights Day - 10 December is correctly matched."
+   "answer": 1,
+   "explanation": "Only Human Rights Day - 10 December is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0944",
-   "q": "Careful is a synonym of which of the following words?",
-   "o": [
+   "question": "Careful is a synonym of which of the following words?",
+   "options": [
     "Lucid",
     "Meticulous",
     "Haughty",
     "Meagre"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Careful is a synonym of Meticulous."
+   "answer": 1,
+   "explanation": "Careful is a synonym of Meticulous.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0945",
-   "q": "Divided is an antonym of which of the following words?",
-   "o": [
+   "question": "Divided is an antonym of which of the following words?",
+   "options": [
     "Complacent",
     "Unanimous",
     "Explicit",
     "Prodigal"
    ],
-   "a": 1,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Divided is the opposite of Unanimous."
+   "answer": 1,
+   "explanation": "Divided is the opposite of Unanimous.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0946",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Let the cat out of the bag - A miser",
     "Let the cat out of the bag - Criticise",
     "Let the cat out of the bag - Reveal a secret",
     "Let the cat out of the bag - To face danger boldly"
    ],
-   "a": 2,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Let the cat out of the bag - Reveal a secret is correctly matched."
+   "answer": 2,
+   "explanation": "Only Let the cat out of the bag - Reveal a secret is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0947",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "A person who is new to a profession - Theocracy",
     "A person who is new to a profession - Nuisance",
     "A person who is new to a profession - Claustrophobic",
     "A person who is new to a profession - Novice"
    ],
-   "a": 3,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only A person who is new to a profession - Novice is correctly matched."
+   "answer": 3,
+   "explanation": "Only A person who is new to a profession - Novice is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0948",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Possession - Independance",
     "Possession - Lightening",
     "Possession - Idiosyncracy",
     "Possession - Posession"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Possession - Posession is correctly matched."
+   "answer": 3,
+   "explanation": "Only Possession - Posession is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0949",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Brush - Sons-in-law",
     "Army - Armies",
     "Shelf - Shelves",
     "Radius - Radii"
    ],
-   "a": 0,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Brush - Sons-in-law is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Brush - Sons-in-law is not correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0950",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Difficult - More difficult",
     "Little - More dangerous",
     "Long - Longer",
     "Wise - Wiser"
    ],
-   "a": 1,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Little - More dangerous is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Little - More dangerous is not correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0951",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "Compiler - Program that converts source code into machine code",
     "Compiler - Human readable name of a website",
     "Compiler - Language used to style web pages",
     "Compiler - Device that modulates signals for data transmission"
    ],
-   "a": 0,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Compiler - Program that converts source code into machine code is correctly matched."
+   "answer": 0,
+   "explanation": "Only Compiler - Program that converts source code into machine code is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0952",
-   "q": "Which of the following abbreviations stands for Gross Domestic Product?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Gross Domestic Product?",
+   "options": [
     "LEO",
     "GEO",
     "IMO",
     "GDP"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Gross Domestic Product is abbreviated as GDP."
+   "answer": 3,
+   "explanation": "Gross Domestic Product is abbreviated as GDP.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0953",
-   "q": "Which currency is used in Togo?",
-   "o": [
+   "question": "Which currency is used in Togo?",
+   "options": [
     "Rwandan Franc",
     "Leu",
     "CFA Franc",
     "New Zealand Dollar"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 2,
-   "s": "generated",
-   "e": "The currency of Togo is Lome."
+   "answer": 2,
+   "explanation": "The currency of Togo is Lome.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0954",
-   "q": "Which element has atomic number 113?",
-   "o": [
+   "question": "Which element has atomic number 113?",
+   "options": [
     "Einsteinium",
     "Carbon",
     "Flerovium",
     "Nihonium"
    ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "Atomic number 113 belongs to Nihonium."
+   "answer": 3,
+   "explanation": "Atomic number 113 belongs to Nihonium.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0955",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Pench National Park - Madhya Pradesh",
     "Pench National Park - Arunachal Pradesh",
     "Pench National Park - Karnataka",
     "Pench National Park - Uttarakhand"
    ],
-   "a": 0,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Pench National Park - Madhya Pradesh is correctly matched."
+   "answer": 0,
+   "explanation": "Only Pench National Park - Madhya Pradesh is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0956",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "Nelson Mandela became President of South Africa - 1993",
     "Nelson Mandela became President of South Africa - 1994",
     "Nelson Mandela became President of South Africa - 1959",
     "Nelson Mandela became President of South Africa - 1688"
    ],
-   "a": 1,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Nelson Mandela became President of South Africa - 1994 is correctly matched."
+   "answer": 1,
+   "explanation": "Only Nelson Mandela became President of South Africa - 1994 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0957",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "Human Rights Day - 4 January",
     "Human Rights Day - 24 October",
     "Human Rights Day - 24 January",
     "Human Rights Day - 10 December"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Human Rights Day - 10 December is correctly matched."
+   "answer": 3,
+   "explanation": "Only Human Rights Day - 10 December is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0958",
-   "q": "Learned is a synonym of which of the following words?",
-   "o": [
+   "question": "Learned is a synonym of which of the following words?",
+   "options": [
     "Inevitable",
     "Obstinate",
     "Erudite",
     "Hamper"
    ],
-   "a": 2,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Learned is a synonym of Erudite."
+   "answer": 2,
+   "explanation": "Learned is a synonym of Erudite.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0959",
-   "q": "Abundance is an antonym of which of the following words?",
-   "o": [
+   "question": "Abundance is an antonym of which of the following words?",
+   "options": [
     "Perpetual",
     "Paucity",
     "Impartial",
     "Adamant"
    ],
-   "a": 1,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Abundance is the opposite of Paucity."
+   "answer": 1,
+   "explanation": "Abundance is the opposite of Paucity.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0960",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Let the cat out of the bag - To discuss private matters openly",
     "Let the cat out of the bag - In good and bad times",
     "Let the cat out of the bag - Reveal a secret",
     "Let the cat out of the bag - Avoid the main point"
    ],
-   "a": 2,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Let the cat out of the bag - Reveal a secret is correctly matched."
+   "answer": 2,
+   "explanation": "Only Let the cat out of the bag - Reveal a secret is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0961",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "One who eats human flesh - Numismatist",
     "One who eats human flesh - Mobocracy",
     "One who eats human flesh - Dockyard",
     "One who eats human flesh - Cannibal"
    ],
-   "a": 3,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only One who eats human flesh - Cannibal is correctly matched."
+   "answer": 3,
+   "explanation": "Only One who eats human flesh - Cannibal is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0962",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Preceding - Greatful",
     "Preceding - Fulfill",
     "Preceding - Compitent",
     "Preceding - Preceeding"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Preceding - Preceeding is correctly matched."
+   "answer": 3,
+   "explanation": "Only Preceding - Preceeding is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0963",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Zoo - Zoos",
     "Calf - Calves",
     "Piano - Commanders-in-Chief",
     "Buffalo - Buffaloes"
    ],
-   "a": 2,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Piano - Commanders-in-Chief is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Piano - Commanders-in-Chief is not correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0964",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Far - Farther",
     "Big - Bigger",
     "Difficult - Cleverer",
     "Wide - Wider"
    ],
-   "a": 2,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Difficult - Cleverer is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Difficult - Cleverer is not correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0965",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "CPU - When data requested is found in cache memory",
     "CPU - The processing unit that executes instructions",
     "CPU - Language used to query databases",
     "CPU - Input device that captures sound"
    ],
-   "a": 1,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only CPU - The processing unit that executes instructions is correctly matched."
+   "answer": 1,
+   "explanation": "Only CPU - The processing unit that executes instructions is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0966",
-   "q": "Which of the following abbreviations stands for Light Emitting Diode?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Light Emitting Diode?",
+   "options": [
     "RBI",
     "CLAT",
     "ECG",
     "LED"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Light Emitting Diode is abbreviated as LED."
+   "answer": 3,
+   "explanation": "Light Emitting Diode is abbreviated as LED.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0967",
-   "q": "Which currency is used in Haiti?",
-   "o": [
+   "question": "Which currency is used in Haiti?",
+   "options": [
     "Som",
     "Turkish Lira",
     "Gourde",
     "Swiss Franc"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 2,
-   "s": "generated",
-   "e": "The currency of Haiti is Port-au-Prince."
+   "answer": 2,
+   "explanation": "The currency of Haiti is Port-au-Prince.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0968",
-   "q": "Which element has atomic number 12?",
-   "o": [
+   "question": "Which element has atomic number 12?",
+   "options": [
     "Beryllium",
     "Magnesium",
     "Roentgenium",
     "Livermorium"
    ],
-   "a": 1,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "Atomic number 12 belongs to Magnesium."
+   "answer": 1,
+   "explanation": "Atomic number 12 belongs to Magnesium.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0969",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Pench National Park - Madhya Pradesh",
     "Pench National Park - Gujarat",
     "Pench National Park - Uttar Pradesh",
     "Pench National Park - Jammu and Kashmir"
    ],
-   "a": 0,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Pench National Park - Madhya Pradesh is correctly matched."
+   "answer": 0,
+   "explanation": "Only Pench National Park - Madhya Pradesh is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0970",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "Nelson Mandela became President of South Africa - 1994",
     "Nelson Mandela became President of South Africa - 2001",
     "Nelson Mandela became President of South Africa - 1989",
     "Nelson Mandela became President of South Africa - 2008"
    ],
-   "a": 0,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Nelson Mandela became President of South Africa - 1994 is correctly matched."
+   "answer": 0,
+   "explanation": "Only Nelson Mandela became President of South Africa - 1994 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0971",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "Independence Day (India) - 29 September",
     "Independence Day (India) - 15 August",
     "Independence Day (India) - 30 April",
     "Independence Day (India) - 14 November"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Independence Day (India) - 15 August is correctly matched."
+   "answer": 1,
+   "explanation": "Only Independence Day (India) - 15 August is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0972",
-   "q": "Everlasting is a synonym of which of the following words?",
-   "o": [
+   "question": "Everlasting is a synonym of which of the following words?",
+   "options": [
     "Perpetual",
     "Penitent",
     "Ominous",
     "Loquacious"
    ],
-   "a": 0,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Everlasting is a synonym of Perpetual."
+   "answer": 0,
+   "explanation": "Everlasting is a synonym of Perpetual.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0973",
-   "q": "Active is an antonym of which of the following words?",
-   "o": [
+   "question": "Active is an antonym of which of the following words?",
+   "options": [
     "Sporadic",
     "Dormant",
     "Transient",
     "Tenacious"
    ],
-   "a": 1,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Active is the opposite of Dormant."
+   "answer": 1,
+   "explanation": "Active is the opposite of Dormant.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0974",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "On cloud nine - Occasionally",
     "On cloud nine - Honest and open",
     "On cloud nine - Extremely happy",
     "On cloud nine - An important day"
    ],
-   "a": 2,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only On cloud nine - Extremely happy is correctly matched."
+   "answer": 2,
+   "explanation": "Only On cloud nine - Extremely happy is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0975",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "One who eats human flesh - Autocracy",
     "One who eats human flesh - Centenarian",
     "One who eats human flesh - Cannibal",
     "One who eats human flesh - Omnipotent"
    ],
-   "a": 2,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only One who eats human flesh - Cannibal is correctly matched."
+   "answer": 2,
+   "explanation": "Only One who eats human flesh - Cannibal is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0976",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Preceding - Preceeding",
     "Preceding - Writting",
     "Preceding - Wierd",
     "Preceding - Excelent"
    ],
-   "a": 0,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Preceding - Preceeding is correctly matched."
+   "answer": 0,
+   "explanation": "Only Preceding - Preceeding is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0977",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Curriculum - Cacti",
     "Criterion - Criteria",
     "Man - Men",
     "Trout - Trout"
    ],
-   "a": 0,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Curriculum - Cacti is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Curriculum - Cacti is not correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0978",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Difficult - More difficult",
     "Rich - Braver",
     "Short - Shorter",
     "Dangerous - More dangerous"
    ],
-   "a": 1,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Rich - Braver is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Rich - Braver is not correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0979",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "CPU - Secure version of the web transfer protocol",
     "CPU - Input device that captures video",
     "CPU - Input device that converts paper documents to digital form",
     "CPU - The processing unit that executes instructions"
    ],
-   "a": 3,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only CPU - The processing unit that executes instructions is correctly matched."
+   "answer": 3,
+   "explanation": "Only CPU - The processing unit that executes instructions is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0980",
-   "q": "Which of the following abbreviations stands for National Institution for Transforming India?",
-   "o": [
+   "question": "Which of the following abbreviations stands for National Institution for Transforming India?",
+   "options": [
     "NITI",
     "BrahMos",
     "RTGS",
     "CPI"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "National Institution for Transforming India is abbreviated as NITI."
+   "answer": 0,
+   "explanation": "National Institution for Transforming India is abbreviated as NITI.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0981",
-   "q": "Which currency is used in South Africa?",
-   "o": [
+   "question": "Which currency is used in South Africa?",
+   "options": [
     "Rand",
     "Cuban Peso",
     "Djiboutian Franc",
     "Yen"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 2,
-   "s": "generated",
-   "e": "The currency of South Africa is Pretoria."
+   "answer": 0,
+   "explanation": "The currency of South Africa is Pretoria.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0982",
-   "q": "Which element has atomic number 111?",
-   "o": [
+   "question": "Which element has atomic number 111?",
+   "options": [
     "Roentgenium",
     "Silver",
     "Gallium",
     "Oganesson"
    ],
-   "a": 0,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "Atomic number 111 belongs to Roentgenium."
+   "answer": 0,
+   "explanation": "Atomic number 111 belongs to Roentgenium.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0983",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Dachigam National Park - Jammu and Kashmir",
     "Dachigam National Park - Odisha",
     "Dachigam National Park - Chhattisgarh",
     "Dachigam National Park - Maharashtra"
    ],
-   "a": 0,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Dachigam National Park - Jammu and Kashmir is correctly matched."
+   "answer": 0,
+   "explanation": "Only Dachigam National Park - Jammu and Kashmir is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0984",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "Russian Revolution - 1979",
     "Russian Revolution - 1863",
     "Russian Revolution - 1492",
     "Russian Revolution - 1917"
    ],
-   "a": 3,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Russian Revolution - 1917 is correctly matched."
+   "answer": 3,
+   "explanation": "Only Russian Revolution - 1917 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0985",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "Independence Day (India) - 1 November",
     "Independence Day (India) - 7 April",
     "Independence Day (India) - 15 August",
     "Independence Day (India) - 18 December"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Independence Day (India) - 15 August is correctly matched."
+   "answer": 2,
+   "explanation": "Only Independence Day (India) - 15 August is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0986",
-   "q": "Agree is a synonym of which of the following words?",
-   "o": [
+   "question": "Agree is a synonym of which of the following words?",
+   "options": [
     "Banal",
     "Terse",
     "Profuse",
     "Concur"
    ],
-   "a": 3,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Agree is a synonym of Concur."
+   "answer": 3,
+   "explanation": "Agree is a synonym of Concur.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0987",
-   "q": "Retain is an antonym of which of the following words?",
-   "o": [
+   "question": "Retain is an antonym of which of the following words?",
+   "options": [
     "Somnolent",
     "Pacify",
     "Abandon",
     "Predicament"
    ],
-   "a": 2,
-   "t": "Antonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Retain is the opposite of Abandon."
+   "answer": 2,
+   "explanation": "Retain is the opposite of Abandon.",
+   "topic": "Antonyms",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0988",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "On cloud nine - Remain undecided",
     "On cloud nine - Use every possible effort",
     "On cloud nine - Extremely happy",
     "On cloud nine - Facing the same difficulty"
    ],
-   "a": 2,
-   "t": "Idioms and Phrases",
-   "l": 3,
-   "s": "generated",
-   "e": "Only On cloud nine - Extremely happy is correctly matched."
+   "answer": 2,
+   "explanation": "Only On cloud nine - Extremely happy is correctly matched.",
+   "topic": "Idioms and Phrases",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0989",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Something that is very obvious - Antidote",
     "Something that is very obvious - Biennials",
     "Something that is very obvious - Manifest",
     "Something that is very obvious - Garrulous"
    ],
-   "a": 2,
-   "t": "One Word Substitution",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Something that is very obvious - Manifest is correctly matched."
+   "answer": 2,
+   "explanation": "Only Something that is very obvious - Manifest is correctly matched.",
+   "topic": "One Word Substitution",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0990",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Withhold - Appropraite",
     "Withhold - Beutiful",
     "Withhold - Bureu",
     "Withhold - Withold"
    ],
-   "a": 3,
-   "t": "Spellings",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Withhold - Withold is correctly matched."
+   "answer": 3,
+   "explanation": "Only Withhold - Withold is correctly matched.",
+   "topic": "Spellings",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0991",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Tomato - Tomatoes",
     "Man - Men",
     "Bacterium - Mice",
     "Criterion - Criteria"
    ],
-   "a": 2,
-   "t": "Plurals",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Bacterium - Mice is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Bacterium - Mice is not correctly matched.",
+   "topic": "Plurals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0992",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Beautiful - More beautiful",
     "Narrow - Narrower",
     "Tall - Braver",
     "Shallow - Shallower"
    ],
-   "a": 2,
-   "t": "Degrees of Comparison",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Tall - Braver is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Tall - Braver is not correctly matched.",
+   "topic": "Degrees of Comparison",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0993",
-   "q": "Which of the following pairs of term and description is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of term and description is correctly matched?",
+   "options": [
     "C - Procedural programming language",
     "C - Diagram of the steps of an algorithm",
     "C - Program that converts assembly language to machine code",
     "C - Non-volatile memory that holds firmware"
    ],
-   "a": 0,
-   "t": "Computer Fundamentals",
-   "l": 3,
-   "s": "generated",
-   "e": "Only C - Procedural programming language is correctly matched."
+   "answer": 0,
+   "explanation": "Only C - Procedural programming language is correctly matched.",
+   "topic": "Computer Fundamentals",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0994",
-   "q": "Which of the following abbreviations stands for Medecins Sans Frontieres?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Medecins Sans Frontieres?",
+   "options": [
     "WIPO",
     "FRBM",
     "CRPF",
     "MSF"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Medecins Sans Frontieres is abbreviated as MSF."
+   "answer": 3,
+   "explanation": "Medecins Sans Frontieres is abbreviated as MSF.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0995",
-   "q": "Which currency is used in Seychelles?",
-   "o": [
+   "question": "Which currency is used in Seychelles?",
+   "options": [
     "Tenge",
     "Seychellois Rupee",
     "Balboa",
     "Euro"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 2,
-   "s": "generated",
-   "e": "The currency of Seychelles is Victoria."
+   "answer": 1,
+   "explanation": "The currency of Seychelles is Victoria.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0996",
-   "q": "Which element has atomic number 40?",
-   "o": [
+   "question": "Which element has atomic number 40?",
+   "options": [
     "Argon",
     "Bismuth",
     "Iridium",
     "Zirconium"
    ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 2,
-   "s": "generated",
-   "e": "Atomic number 40 belongs to Zirconium."
+   "answer": 3,
+   "explanation": "Atomic number 40 belongs to Zirconium.",
+   "topic": "Periodic Table",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0997",
-   "q": "Which of the following pairs of national park and state is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of national park and state is correctly matched?",
+   "options": [
     "Dachigam National Park - Chhattisgarh",
     "Dachigam National Park - Himachal Pradesh",
     "Dachigam National Park - Jharkhand",
     "Dachigam National Park - Jammu and Kashmir"
    ],
-   "a": 3,
-   "t": "National Parks and Tiger Reserves",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Dachigam National Park - Jammu and Kashmir is correctly matched."
+   "answer": 3,
+   "explanation": "Only Dachigam National Park - Jammu and Kashmir is correctly matched.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0998",
-   "q": "Which of the following pairs of event and year is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of event and year is correctly matched?",
+   "options": [
     "Russian Revolution - 1600",
     "Russian Revolution - 1492",
     "Russian Revolution - 1945",
     "Russian Revolution - 1917"
    ],
-   "a": 3,
-   "t": "World History Events",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Russian Revolution - 1917 is correctly matched."
+   "answer": 3,
+   "explanation": "Only Russian Revolution - 1917 is correctly matched.",
+   "topic": "World History Events",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-0999",
-   "q": "Which of the following pairs of day and date is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of day and date is correctly matched?",
+   "options": [
     "World Energy Conservation Day - 14 December",
     "World Energy Conservation Day - 30 April",
     "World Energy Conservation Day - 26 July",
     "World Energy Conservation Day - 16 September"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Only World Energy Conservation Day - 14 December is correctly matched."
+   "answer": 0,
+   "explanation": "Only World Energy Conservation Day - 14 December is correctly matched.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "gk-misc-p14-1000",
-   "q": "Unbiased is a synonym of which of the following words?",
-   "o": [
+   "question": "Unbiased is a synonym of which of the following words?",
+   "options": [
     "Rebuke",
     "Impartial",
     "Latent",
     "Augment"
    ],
-   "a": 1,
-   "t": "Synonyms",
-   "l": 2,
-   "s": "generated",
-   "e": "Unbiased is a synonym of Impartial."
+   "answer": 1,
+   "explanation": "Unbiased is a synonym of Impartial.",
+   "topic": "Synonyms",
+   "level": 2,
+   "source": "generated"
   }
  ]
 };

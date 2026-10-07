@@ -15,6 +15,7 @@ const { tableQuestions, capacity } = require("./forms");
 const { spec } = require("./tables");
 const { CATEGORIES, CLASSES, EXAMS } = require("./spec");
 const numeric = require("./numeric");
+const { assertQuestion } = require("./question-schema");
 
 const ROOT = path.join(__dirname, "..");
 const OUT = path.join(__dirname, "categories");
@@ -52,14 +53,26 @@ const FILL_ORDER = PHASE_A.concat(PHASE_B, PHASE_C.map((p) => p.slug), ["gk-misc
 const seenQuestions = new Set();
 const norm = (s) => String(s).toLowerCase().replace(/\s+/g, " ").trim();
 /** Question identity includes the options, because matched pair items share a stem. */
-const keyOf = (q) => norm(q.q) + "|" + norm((q.o || q.opts || []).slice().sort().join("~"));
+const keyOf = (q) => norm(q.q) + "|" + norm((q.opts || []).slice().sort().join("~"));
 
 function loadAuthored(slug) {
   const f = path.join(AUTHORED, slug + ".js");
   if (!fs.existsSync(f)) return [];
-  return require(f).map((q) => ({
-    q: q.q, o: q.opts, a: q.ans, t: "Curated", l: q.level, s: "curated", e: q.exp || ""
-  }));
+  return require(f).map((q, index) => {
+    assertQuestion(q, slug + " authored question " + (index + 1));
+    return {
+      question: q.question, options: q.options, answer: q.answer, explanation: q.explanation,
+      topic: q.topic || "Curated", level: q.level === undefined ? 1 : q.level, source: "curated"
+    };
+  });
+}
+
+/** Internal generators use compact fields; publish only the documented MCQ schema. */
+function generatedQuestion(q) {
+  return assertQuestion({
+    question: q.q, options: q.opts, answer: q.ans, explanation: q.e,
+    topic: q.topic, level: q.level, source: "generated"
+  }, "Generated question " + q.q);
 }
 
 /** Round robin over a category's table specs, keeping only fresh questions. */
@@ -86,7 +99,7 @@ function poolFor(catSlug, seed) {
           const key = keyOf(q);
           if (seenQuestions.has(key)) continue;
           seenQuestions.add(key);
-          const item = { q: q.q, o: q.opts, a: q.ans, t: q.topic, l: q.level, s: "generated", e: q.e || "" };
+          const item = generatedQuestion(q);
           if (take) take(item);
           out.push(item);
         }
@@ -107,7 +120,7 @@ function numericFill(catSlug, streamFactory, target, seed) {
     const key = keyOf(q);
     if (seenQuestions.has(key)) continue;
     seenQuestions.add(key);
-    out.push({ q: q.q, o: q.opts, a: q.ans, t: q.topic, l: q.level, s: "generated", e: q.e || "" });
+    out.push(generatedQuestion(q));
   }
   return out;
 }

@@ -202,9 +202,14 @@
       "detail": "17 part files"
     },
     {
-      "name": "every question has 4 options and text",
+      "name": "every question follows the question/options/answer/explanation schema",
       "pass": true,
       "detail": "clean"
+    },
+    {
+      "name": "every question has a non-empty explanation",
+      "pass": true,
+      "detail": "0 questions affected"
     },
     {
       "name": "no duplicate option inside a question",

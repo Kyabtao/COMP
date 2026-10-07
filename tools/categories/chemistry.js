@@ -15,3333 +15,3333 @@
  "questions": [
   {
    "id": "chemistry-00001",
-   "q": "Which gas is known as laughing gas?",
-   "o": [
+   "question": "Which gas is known as laughing gas?",
+   "options": [
     "Nitrous oxide",
     "Nitric oxide",
     "Nitrogen dioxide",
     "Ammonia"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Nitrous oxide (N2O) is called laughing gas."
+   "answer": 0,
+   "explanation": "Nitrous oxide (N2O) is called laughing gas.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "chemistry-00002",
-   "q": "What is the chemical formula of common salt?",
-   "o": [
+   "question": "What is the chemical formula of common salt?",
+   "options": [
     "NaCl",
     "KCl",
     "CaCl2",
     "MgCl2"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Common salt is sodium chloride."
+   "answer": 0,
+   "explanation": "Common salt is sodium chloride.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "chemistry-00003",
-   "q": "Which is the lightest element?",
-   "o": [
+   "question": "Which is the lightest element?",
+   "options": [
     "Helium",
     "Hydrogen",
     "Lithium",
     "Carbon"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Hydrogen has the lowest atomic mass."
+   "answer": 1,
+   "explanation": "Hydrogen has the lowest atomic mass.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "chemistry-00004",
-   "q": "What is the chemical symbol for gold?",
-   "o": [
+   "question": "What is the chemical symbol for gold?",
+   "options": [
     "Ag",
     "Au",
     "Gd",
     "Go"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Gold has the symbol Au from the Latin aurum."
+   "answer": 1,
+   "explanation": "Gold has the symbol Au from the Latin aurum.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "chemistry-00005",
-   "q": "Which metal is liquid at room temperature?",
-   "o": [
+   "question": "Which metal is liquid at room temperature?",
+   "options": [
     "Mercury",
     "Sodium",
     "Lead",
     "Zinc"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Mercury is the only metal that is liquid at room temperature."
+   "answer": 0,
+   "explanation": "Mercury is the only metal that is liquid at room temperature.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "chemistry-00006",
-   "q": "What is the pH of a neutral solution?",
-   "o": [
+   "question": "What is the pH of a neutral solution?",
+   "options": [
     "0",
     "7",
     "14",
     "10"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "A neutral solution has a pH of 7."
+   "answer": 1,
+   "explanation": "A neutral solution has a pH of 7.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "chemistry-00007",
-   "q": "Which acid is present in the human stomach?",
-   "o": [
+   "question": "Which acid is present in the human stomach?",
+   "options": [
     "Sulphuric acid",
     "Hydrochloric acid",
     "Nitric acid",
     "Acetic acid"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Hydrochloric acid aids digestion in the stomach."
+   "answer": 1,
+   "explanation": "Hydrochloric acid aids digestion in the stomach.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "chemistry-00008",
-   "q": "Which acid is present in vinegar?",
-   "o": [
+   "question": "Which acid is present in vinegar?",
+   "options": [
     "Citric acid",
     "Acetic acid",
     "Lactic acid",
     "Formic acid"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Vinegar contains acetic acid."
+   "answer": 1,
+   "explanation": "Vinegar contains acetic acid.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "chemistry-00009",
-   "q": "Which acid is present in lemon?",
-   "o": [
+   "question": "Which acid is present in lemon?",
+   "options": [
     "Citric acid",
     "Acetic acid",
     "Oxalic acid",
     "Sulphuric acid"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Citrus fruits contain citric acid."
+   "answer": 0,
+   "explanation": "Citrus fruits contain citric acid.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "chemistry-00010",
-   "q": "The number of protons in an atom is called its:",
-   "o": [
+   "question": "The number of protons in an atom is called its:",
+   "options": [
     "Mass number",
     "Atomic number",
     "Valency",
     "Isotope number"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "The atomic number equals the number of protons."
+   "answer": 1,
+   "explanation": "The atomic number equals the number of protons.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "chemistry-00011",
-   "q": "Which particle carries a negative charge?",
-   "o": [
+   "question": "Which particle carries a negative charge?",
+   "options": [
     "Proton",
     "Neutron",
     "Electron",
     "Nucleus"
    ],
-   "a": 2,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Electrons carry a negative charge."
+   "answer": 2,
+   "explanation": "Electrons carry a negative charge.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "chemistry-00012",
-   "q": "Which is the most electronegative element?",
-   "o": [
+   "question": "Which is the most electronegative element?",
+   "options": [
     "Oxygen",
     "Fluorine",
     "Chlorine",
     "Nitrogen"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Fluorine is the most electronegative element."
+   "answer": 1,
+   "explanation": "Fluorine is the most electronegative element.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "chemistry-00013",
-   "q": "What is the chemical formula of water?",
-   "o": [
+   "question": "What is the chemical formula of water?",
+   "options": [
     "H2O",
     "H2O2",
     "HO2",
     "OH2"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Water is H2O."
+   "answer": 0,
+   "explanation": "Water is H2O.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "chemistry-00014",
-   "q": "Which gas is evolved when zinc reacts with dilute sulphuric acid?",
-   "o": [
+   "question": "Which gas is evolved when zinc reacts with dilute sulphuric acid?",
+   "options": [
     "Oxygen",
     "Hydrogen",
     "Carbon dioxide",
     "Nitrogen"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Zinc displaces hydrogen from dilute acids."
+   "answer": 1,
+   "explanation": "Zinc displaces hydrogen from dilute acids.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "chemistry-00015",
-   "q": "Baking soda is chemically known as:",
-   "o": [
+   "question": "Baking soda is chemically known as:",
+   "options": [
     "Sodium carbonate",
     "Sodium bicarbonate",
     "Sodium hydroxide",
     "Sodium chloride"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Baking soda is sodium bicarbonate."
+   "answer": 1,
+   "explanation": "Baking soda is sodium bicarbonate.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "chemistry-00016",
-   "q": "Washing soda is chemically known as:",
-   "o": [
+   "question": "Washing soda is chemically known as:",
+   "options": [
     "Sodium carbonate",
     "Sodium bicarbonate",
     "Calcium carbonate",
     "Potassium carbonate"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Washing soda is hydrated sodium carbonate."
+   "answer": 0,
+   "explanation": "Washing soda is hydrated sodium carbonate.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "chemistry-00017",
-   "q": "Which is an inert gas?",
-   "o": [
+   "question": "Which is an inert gas?",
+   "options": [
     "Nitrogen",
     "Argon",
     "Oxygen",
     "Chlorine"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Argon is a noble gas and is chemically inert."
+   "answer": 1,
+   "explanation": "Argon is a noble gas and is chemically inert.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "chemistry-00018",
-   "q": "Which alloy is used for making stainless steel along with iron?",
-   "o": [
+   "question": "Which alloy is used for making stainless steel along with iron?",
+   "options": [
     "Copper and zinc",
     "Chromium and nickel",
     "Aluminium and tin",
     "Lead and zinc"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 3,
-   "s": "curated",
-   "e": "Stainless steel contains chromium and nickel with iron."
+   "answer": 1,
+   "explanation": "Stainless steel contains chromium and nickel with iron.",
+   "topic": "Curated",
+   "level": 3,
+   "source": "curated"
   },
   {
    "id": "chemistry-00019",
-   "q": "Which process is used to separate the components of petroleum?",
-   "o": [
+   "question": "Which process is used to separate the components of petroleum?",
+   "options": [
     "Distillation",
     "Filtration",
     "Sublimation",
     "Crystallisation"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Fractional distillation separates petroleum fractions."
+   "answer": 0,
+   "explanation": "Fractional distillation separates petroleum fractions.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "chemistry-00020",
-   "q": "Which gas turns lime water milky?",
-   "o": [
+   "question": "Which gas turns lime water milky?",
+   "options": [
     "Oxygen",
     "Carbon dioxide",
     "Hydrogen",
     "Nitrogen"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Carbon dioxide forms insoluble calcium carbonate, turning lime water milky."
+   "answer": 1,
+   "explanation": "Carbon dioxide forms insoluble calcium carbonate, turning lime water milky.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "chemistry-00021",
-   "q": "Which is the hardest naturally occurring substance?",
-   "o": [
+   "question": "Which is the hardest naturally occurring substance?",
+   "options": [
     "Graphite",
     "Diamond",
     "Quartz",
     "Iron"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Diamond is the hardest natural substance."
+   "answer": 1,
+   "explanation": "Diamond is the hardest natural substance.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "chemistry-00022",
-   "q": "What is the chemical name of plaster of Paris?",
-   "o": [
+   "question": "What is the chemical name of plaster of Paris?",
+   "options": [
     "Calcium sulphate hemihydrate",
     "Calcium carbonate",
     "Calcium oxide",
     "Calcium hydroxide"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 3,
-   "s": "curated",
-   "e": "Plaster of Paris is calcium sulphate hemihydrate."
+   "answer": 0,
+   "explanation": "Plaster of Paris is calcium sulphate hemihydrate.",
+   "topic": "Curated",
+   "level": 3,
+   "source": "curated"
   },
   {
    "id": "chemistry-00023",
-   "q": "What is the chemical name of Borax?",
-   "o": [
+   "question": "What is the chemical name of Borax?",
+   "options": [
     "Acetylsalicylic acid",
     "Calcium hydroxide (Ca(OH)2)",
     "Zinc chloride (ZnCl2)",
     "Sodium tetraborate (Na2B4O7.10H2O)"
    ],
-   "a": 3,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Borax is Sodium tetraborate (Na2B4O7.10H2O)."
+   "answer": 3,
+   "explanation": "Borax is Sodium tetraborate (Na2B4O7.10H2O).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "chemistry-00024",
-   "q": "What is the chemical name of Salt cake?",
-   "o": [
+   "question": "What is the chemical name of Salt cake?",
+   "options": [
     "Trichloromethane (CHCl3)",
     "Calcium carbonate (CaCO3)",
     "Magnesium oxide (MgO)",
     "Sodium sulphate (Na2SO4)"
    ],
-   "a": 3,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Salt cake is Sodium sulphate (Na2SO4)."
+   "answer": 3,
+   "explanation": "Salt cake is Sodium sulphate (Na2SO4).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "chemistry-00025",
-   "q": "What is the chemical name of Caustic potash?",
-   "o": [
+   "question": "What is the chemical name of Caustic potash?",
+   "options": [
     "Potassium hydroxide (KOH)",
     "Deuterium oxide (D2O)",
     "Solid carbon dioxide (CO2)",
     "Sodium sulphate (Na2SO4)"
    ],
-   "a": 0,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Caustic potash is Potassium hydroxide (KOH)."
+   "answer": 0,
+   "explanation": "Caustic potash is Potassium hydroxide (KOH).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "chemistry-00026",
-   "q": "What is the chemical name of Spirit of salt?",
-   "o": [
+   "question": "What is the chemical name of Spirit of salt?",
+   "options": [
     "Ferrous sulphate (FeSO4.7H2O)",
     "Nitrous oxide (N2O)",
     "Hydrochloric acid (HCl)",
     "Aqueous formaldehyde (HCHO)"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Spirit of salt is Hydrochloric acid (HCl)."
+   "answer": 2,
+   "explanation": "Spirit of salt is Hydrochloric acid (HCl).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "chemistry-00027",
-   "q": "What is the chemical name of Butter of zinc?",
-   "o": [
+   "question": "What is the chemical name of Butter of zinc?",
+   "options": [
     "Zinc chloride (ZnCl2)",
     "Trichloromethane (CHCl3)",
     "Potassium hydroxide (KOH)",
     "Acetylsalicylic acid"
    ],
-   "a": 0,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Butter of zinc is Zinc chloride (ZnCl2)."
+   "answer": 0,
+   "explanation": "Butter of zinc is Zinc chloride (ZnCl2).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "chemistry-00028",
-   "q": "What is the chemical name of Alcohol?",
-   "o": [
+   "question": "What is the chemical name of Alcohol?",
+   "options": [
     "Hydrochloric acid (HCl)",
     "Deuterium oxide (D2O)",
     "Ethanol (C2H5OH)",
     "Potassium hydroxide (KOH)"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Alcohol is Ethanol (C2H5OH)."
+   "answer": 2,
+   "explanation": "Alcohol is Ethanol (C2H5OH).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "chemistry-00029",
-   "q": "What is the chemical name of Nitre / saltpetre?",
-   "o": [
+   "question": "What is the chemical name of Nitre / saltpetre?",
+   "options": [
     "Potassium nitrate (KNO3)",
     "Sodium bicarbonate (NaHCO3)",
     "Sodium hydroxide (NaOH)",
     "Magnesium hydroxide (Mg(OH)2)"
    ],
-   "a": 0,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Nitre / saltpetre is Potassium nitrate (KNO3)."
+   "answer": 0,
+   "explanation": "Nitre / saltpetre is Potassium nitrate (KNO3).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "chemistry-00030",
-   "q": "What is the chemical name of Plaster of Paris?",
-   "o": [
+   "question": "What is the chemical name of Plaster of Paris?",
+   "options": [
     "Hydrochloric acid (HCl)",
     "Trinitrotoluene",
     "Magnesium sulphate (MgSO4.7H2O)",
     "Calcium sulphate hemihydrate (CaSO4.1/2H2O)"
    ],
-   "a": 3,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Plaster of Paris is Calcium sulphate hemihydrate (CaSO4.1/2H2O)."
+   "answer": 3,
+   "explanation": "Plaster of Paris is Calcium sulphate hemihydrate (CaSO4.1/2H2O).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "chemistry-00031",
-   "q": "What is the chemical name of Magnesia?",
-   "o": [
+   "question": "What is the chemical name of Magnesia?",
+   "options": [
     "Sulphuric acid (H2SO4)",
     "Magnesium oxide (MgO)",
     "Aqueous formaldehyde (HCHO)",
     "Sodium sulphate (Na2SO4)"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Magnesia is Magnesium oxide (MgO)."
+   "answer": 1,
+   "explanation": "Magnesia is Magnesium oxide (MgO).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "chemistry-00032",
-   "q": "What is the chemical name of Oil of vitriol?",
-   "o": [
+   "question": "What is the chemical name of Oil of vitriol?",
+   "options": [
     "Sodium bicarbonate (NaHCO3)",
     "Copper sulphate (CuSO4.5H2O)",
     "Acetic acid (CH3COOH)",
     "Sulphuric acid (H2SO4)"
    ],
-   "a": 3,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Oil of vitriol is Sulphuric acid (H2SO4)."
+   "answer": 3,
+   "explanation": "Oil of vitriol is Sulphuric acid (H2SO4).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "chemistry-00033",
-   "q": "What is the chemical name of Milk of magnesia?",
-   "o": [
+   "question": "What is the chemical name of Milk of magnesia?",
+   "options": [
     "Magnesium hydroxide (Mg(OH)2)",
     "Magnesium oxide (MgO)",
     "Calcium oxychloride (CaOCl2)",
     "Calcium carbonate (CaCO3)"
    ],
-   "a": 0,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Milk of magnesia is Magnesium hydroxide (Mg(OH)2)."
+   "answer": 0,
+   "explanation": "Milk of magnesia is Magnesium hydroxide (Mg(OH)2).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "chemistry-00034",
-   "q": "What is the chemical name of Slaked lime?",
-   "o": [
+   "question": "What is the chemical name of Slaked lime?",
+   "options": [
     "Silicon dioxide (SiO2)",
     "Calcium hydroxide (Ca(OH)2)",
     "Calcium sulphate hemihydrate (CaSO4.1/2H2O)",
     "Calcium carbonate (CaCO3)"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Slaked lime is Calcium hydroxide (Ca(OH)2)."
+   "answer": 1,
+   "explanation": "Slaked lime is Calcium hydroxide (Ca(OH)2).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "chemistry-00035",
-   "q": "What is the chemical name of Chalk?",
-   "o": [
+   "question": "What is the chemical name of Chalk?",
+   "options": [
     "Acetylsalicylic acid",
     "Acetic acid (CH3COOH)",
     "Nitric acid (HNO3)",
     "Calcium carbonate (CaCO3)"
    ],
-   "a": 3,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Chalk is Calcium carbonate (CaCO3)."
+   "answer": 3,
+   "explanation": "Chalk is Calcium carbonate (CaCO3).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "chemistry-00036",
-   "q": "What is the chemical name of Common salt?",
-   "o": [
+   "question": "What is the chemical name of Common salt?",
+   "options": [
     "Potassium nitrate (KNO3)",
     "Solid carbon dioxide (CO2)",
     "Sodium chloride (NaCl)",
     "Acetic acid (CH3COOH)"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Common salt is Sodium chloride (NaCl)."
+   "answer": 2,
+   "explanation": "Common salt is Sodium chloride (NaCl).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "chemistry-00037",
-   "q": "What is the chemical name of Caustic soda?",
-   "o": [
+   "question": "What is the chemical name of Caustic soda?",
+   "options": [
     "Nitrous oxide (N2O)",
     "Sodium hydroxide (NaOH)",
     "Acetic acid (CH3COOH)",
     "Solid carbon dioxide (CO2)"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Caustic soda is Sodium hydroxide (NaOH)."
+   "answer": 1,
+   "explanation": "Caustic soda is Sodium hydroxide (NaOH).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "chemistry-00038",
-   "q": "What is the chemical name of Vinegar?",
-   "o": [
+   "question": "What is the chemical name of Vinegar?",
+   "options": [
     "Trinitrotoluene",
     "Deuterium oxide (D2O)",
     "Zinc sulphate (ZnSO4.7H2O)",
     "Acetic acid (CH3COOH)"
    ],
-   "a": 3,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Vinegar is Acetic acid (CH3COOH)."
+   "answer": 3,
+   "explanation": "Vinegar is Acetic acid (CH3COOH).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "chemistry-00039",
-   "q": "What is the chemical name of Baking powder?",
-   "o": [
+   "question": "What is the chemical name of Baking powder?",
+   "options": [
     "Calcium carbonate (CaCO3)",
     "Ferrous sulphate (FeSO4.7H2O)",
     "Sodium bicarbonate and tartaric acid",
     "Deuterium oxide (D2O)"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Baking powder is Sodium bicarbonate and tartaric acid."
+   "answer": 2,
+   "explanation": "Baking powder is Sodium bicarbonate and tartaric acid.",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "chemistry-00040",
-   "q": "What is the chemical name of Talc?",
-   "o": [
+   "question": "What is the chemical name of Talc?",
+   "options": [
     "Hydrated magnesium silicate",
     "Magnesium sulphate (MgSO4.7H2O)",
     "Sodium hydroxide (NaOH)",
     "Zinc chloride (ZnCl2)"
    ],
-   "a": 0,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Talc is Hydrated magnesium silicate."
+   "answer": 0,
+   "explanation": "Talc is Hydrated magnesium silicate.",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "chemistry-00041",
-   "q": "What is the chemical name of White vitriol?",
-   "o": [
+   "question": "What is the chemical name of White vitriol?",
+   "options": [
     "Nitric acid (HNO3)",
     "Sodium chloride (NaCl)",
     "Zinc sulphate (ZnSO4.7H2O)",
     "Calcium hydroxide (Ca(OH)2)"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "White vitriol is Zinc sulphate (ZnSO4.7H2O)."
+   "answer": 2,
+   "explanation": "White vitriol is Zinc sulphate (ZnSO4.7H2O).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "chemistry-00042",
-   "q": "What is the chemical name of Gypsum?",
-   "o": [
+   "question": "What is the chemical name of Gypsum?",
+   "options": [
     "Ferrous sulphate (FeSO4.7H2O)",
     "Aqueous formaldehyde (HCHO)",
     "Zinc chloride (ZnCl2)",
     "Calcium sulphate dihydrate (CaSO4.2H2O)"
    ],
-   "a": 3,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Gypsum is Calcium sulphate dihydrate (CaSO4.2H2O)."
+   "answer": 3,
+   "explanation": "Gypsum is Calcium sulphate dihydrate (CaSO4.2H2O).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "chemistry-00043",
-   "q": "What is the chemical name of Quartz?",
-   "o": [
+   "question": "What is the chemical name of Quartz?",
+   "options": [
     "Silicon dioxide (SiO2)",
     "Zinc sulphate (ZnSO4.7H2O)",
     "Trinitrotoluene",
     "Phenol (C6H5OH)"
    ],
-   "a": 0,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Quartz is Silicon dioxide (SiO2)."
+   "answer": 0,
+   "explanation": "Quartz is Silicon dioxide (SiO2).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "chemistry-00044",
-   "q": "What is the chemical name of Aspirin?",
-   "o": [
+   "question": "What is the chemical name of Aspirin?",
+   "options": [
     "Sodium hydroxide (NaOH)",
     "Calcium hydroxide (Ca(OH)2)",
     "Acetylsalicylic acid",
     "Magnesium hydroxide (Mg(OH)2)"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Aspirin is Acetylsalicylic acid."
+   "answer": 2,
+   "explanation": "Aspirin is Acetylsalicylic acid.",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "chemistry-00045",
-   "q": "What is the chemical name of Chloroform?",
-   "o": [
+   "question": "What is the chemical name of Chloroform?",
+   "options": [
     "Potassium hydroxide (KOH)",
     "Solid carbon dioxide (CO2)",
     "Deuterium oxide (D2O)",
     "Trichloromethane (CHCl3)"
    ],
-   "a": 3,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Chloroform is Trichloromethane (CHCl3)."
+   "answer": 3,
+   "explanation": "Chloroform is Trichloromethane (CHCl3).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "chemistry-00046",
-   "q": "What is the chemical name of Lime water?",
-   "o": [
+   "question": "What is the chemical name of Lime water?",
+   "options": [
     "Acetylsalicylic acid",
     "Copper sulphate (CuSO4.5H2O)",
     "Calcium hydroxide (Ca(OH)2)",
     "Aqueous formaldehyde (HCHO)"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Lime water is Calcium hydroxide (Ca(OH)2)."
+   "answer": 2,
+   "explanation": "Lime water is Calcium hydroxide (Ca(OH)2).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "chemistry-00047",
-   "q": "What is the chemical name of TNT?",
-   "o": [
+   "question": "What is the chemical name of TNT?",
+   "options": [
     "Trinitrotoluene",
     "Magnesium oxide (MgO)",
     "Aqueous formaldehyde (HCHO)",
     "Ethanol (C2H5OH)"
    ],
-   "a": 0,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "TNT is Trinitrotoluene."
+   "answer": 0,
+   "explanation": "TNT is Trinitrotoluene.",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "chemistry-00048",
-   "q": "What is the chemical name of Dry ice?",
-   "o": [
+   "question": "What is the chemical name of Dry ice?",
+   "options": [
     "Calcium hydroxide (Ca(OH)2)",
     "Sodium sulphate (Na2SO4)",
     "Solid carbon dioxide (CO2)",
     "Calcium oxide (CaO)"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Dry ice is Solid carbon dioxide (CO2)."
+   "answer": 2,
+   "explanation": "Dry ice is Solid carbon dioxide (CO2).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "chemistry-00049",
-   "q": "What is the chemical name of Epsom salt?",
-   "o": [
+   "question": "What is the chemical name of Epsom salt?",
+   "options": [
     "Deuterium oxide (D2O)",
     "Trichloromethane (CHCl3)",
     "Calcium hydroxide (Ca(OH)2)",
     "Magnesium sulphate (MgSO4.7H2O)"
    ],
-   "a": 3,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Epsom salt is Magnesium sulphate (MgSO4.7H2O)."
+   "answer": 3,
+   "explanation": "Epsom salt is Magnesium sulphate (MgSO4.7H2O).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "chemistry-00050",
-   "q": "What is the chemical name of Marble?",
-   "o": [
+   "question": "What is the chemical name of Marble?",
+   "options": [
     "Acetic acid (CH3COOH)",
     "Deuterium oxide (D2O)",
     "Calcium carbonate (CaCO3)",
     "Potassium hydroxide (KOH)"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Marble is Calcium carbonate (CaCO3)."
+   "answer": 2,
+   "explanation": "Marble is Calcium carbonate (CaCO3).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "chemistry-00051",
-   "q": "What is the chemical name of Formalin?",
-   "o": [
+   "question": "What is the chemical name of Formalin?",
+   "options": [
     "Trinitrotoluene",
     "Deuterium oxide (D2O)",
     "Nitric acid (HNO3)",
     "Aqueous formaldehyde (HCHO)"
    ],
-   "a": 3,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Formalin is Aqueous formaldehyde (HCHO)."
+   "answer": 3,
+   "explanation": "Formalin is Aqueous formaldehyde (HCHO).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "chemistry-00052",
-   "q": "What is the chemical name of Washing soda?",
-   "o": [
+   "question": "What is the chemical name of Washing soda?",
+   "options": [
     "Sodium carbonate (Na2CO3)",
     "Magnesium sulphate (MgSO4.7H2O)",
     "Nitric acid (HNO3)",
     "Magnesium hydroxide (Mg(OH)2)"
    ],
-   "a": 0,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Washing soda is Sodium carbonate (Na2CO3)."
+   "answer": 0,
+   "explanation": "Washing soda is Sodium carbonate (Na2CO3).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "chemistry-00053",
-   "q": "What is the chemical name of Alum?",
-   "o": [
+   "question": "What is the chemical name of Alum?",
+   "options": [
     "Potassium aluminium sulphate",
     "Magnesium hydroxide (Mg(OH)2)",
     "Sodium carbonate (Na2CO3)",
     "Aqueous formaldehyde (HCHO)"
    ],
-   "a": 0,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Alum is Potassium aluminium sulphate."
+   "answer": 0,
+   "explanation": "Alum is Potassium aluminium sulphate.",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "chemistry-00054",
-   "q": "What is the chemical name of Heavy water?",
-   "o": [
+   "question": "What is the chemical name of Heavy water?",
+   "options": [
     "Sodium tetraborate (Na2B4O7.10H2O)",
     "Deuterium oxide (D2O)",
     "Potassium aluminium sulphate",
     "Hydrated magnesium silicate"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Heavy water is Deuterium oxide (D2O)."
+   "answer": 1,
+   "explanation": "Heavy water is Deuterium oxide (D2O).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "chemistry-00055",
-   "q": "What is the chemical name of Aqua fortis?",
-   "o": [
+   "question": "What is the chemical name of Aqua fortis?",
+   "options": [
     "Calcium sulphate dihydrate (CaSO4.2H2O)",
     "Nitrous oxide (N2O)",
     "Silicon dioxide (SiO2)",
     "Nitric acid (HNO3)"
    ],
-   "a": 3,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Aqua fortis is Nitric acid (HNO3)."
+   "answer": 3,
+   "explanation": "Aqua fortis is Nitric acid (HNO3).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "chemistry-00056",
-   "q": "What is the chemical name of Bleaching powder?",
-   "o": [
+   "question": "What is the chemical name of Bleaching powder?",
+   "options": [
     "Calcium oxychloride (CaOCl2)",
     "Sodium tetraborate (Na2B4O7.10H2O)",
     "Sodium bicarbonate (NaHCO3)",
     "Solid carbon dioxide (CO2)"
    ],
-   "a": 0,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Bleaching powder is Calcium oxychloride (CaOCl2)."
+   "answer": 0,
+   "explanation": "Bleaching powder is Calcium oxychloride (CaOCl2).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "chemistry-00057",
-   "q": "What is the chemical name of Laughing gas?",
-   "o": [
+   "question": "What is the chemical name of Laughing gas?",
+   "options": [
     "Trinitrotoluene",
     "Nitrous oxide (N2O)",
     "Calcium carbonate (CaCO3)",
     "Sodium carbonate (Na2CO3)"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Laughing gas is Nitrous oxide (N2O)."
+   "answer": 1,
+   "explanation": "Laughing gas is Nitrous oxide (N2O).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "chemistry-00058",
-   "q": "What is the chemical name of Green vitriol?",
-   "o": [
+   "question": "What is the chemical name of Green vitriol?",
+   "options": [
     "Ferrous sulphate (FeSO4.7H2O)",
     "Potassium hydroxide (KOH)",
     "Solid carbon dioxide (CO2)",
     "Nitrous oxide (N2O)"
    ],
-   "a": 0,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Green vitriol is Ferrous sulphate (FeSO4.7H2O)."
+   "answer": 0,
+   "explanation": "Green vitriol is Ferrous sulphate (FeSO4.7H2O).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "chemistry-00059",
-   "q": "What is the chemical name of Quick lime?",
-   "o": [
+   "question": "What is the chemical name of Quick lime?",
+   "options": [
     "Zinc sulphate (ZnSO4.7H2O)",
     "Potassium aluminium sulphate",
     "Sodium chloride (NaCl)",
     "Calcium oxide (CaO)"
    ],
-   "a": 3,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Quick lime is Calcium oxide (CaO)."
+   "answer": 3,
+   "explanation": "Quick lime is Calcium oxide (CaO).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "chemistry-00060",
-   "q": "What is the chemical name of Carbolic acid?",
-   "o": [
+   "question": "What is the chemical name of Carbolic acid?",
+   "options": [
     "Magnesium hydroxide (Mg(OH)2)",
     "Calcium oxide (CaO)",
     "Sodium bicarbonate (NaHCO3)",
     "Phenol (C6H5OH)"
    ],
-   "a": 3,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Carbolic acid is Phenol (C6H5OH)."
+   "answer": 3,
+   "explanation": "Carbolic acid is Phenol (C6H5OH).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "chemistry-00061",
-   "q": "What is the chemical name of Baking soda?",
-   "o": [
+   "question": "What is the chemical name of Baking soda?",
+   "options": [
     "Sodium bicarbonate (NaHCO3)",
     "Trinitrotoluene",
     "Deuterium oxide (D2O)",
     "Phenol (C6H5OH)"
    ],
-   "a": 0,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Baking soda is Sodium bicarbonate (NaHCO3)."
+   "answer": 0,
+   "explanation": "Baking soda is Sodium bicarbonate (NaHCO3).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "chemistry-00062",
-   "q": "What is the chemical name of Blue vitriol?",
-   "o": [
+   "question": "What is the chemical name of Blue vitriol?",
+   "options": [
     "Calcium carbonate (CaCO3)",
     "Copper sulphate (CuSO4.5H2O)",
     "Zinc chloride (ZnCl2)",
     "Calcium hydroxide (Ca(OH)2)"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Blue vitriol is Copper sulphate (CuSO4.5H2O)."
+   "answer": 1,
+   "explanation": "Blue vitriol is Copper sulphate (CuSO4.5H2O).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "chemistry-00063",
-   "q": "Solid carbon dioxide (CO2) is commonly known as which of the following?",
-   "o": [
+   "question": "Solid carbon dioxide (CO2) is commonly known as which of the following?",
+   "options": [
     "Laughing gas",
     "Dry ice",
     "Baking powder",
     "Aspirin"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Solid carbon dioxide (CO2) is commonly known as Dry ice."
+   "answer": 1,
+   "explanation": "Solid carbon dioxide (CO2) is commonly known as Dry ice.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00064",
-   "q": "Nitrous oxide (N2O) is commonly known as which of the following?",
-   "o": [
+   "question": "Nitrous oxide (N2O) is commonly known as which of the following?",
+   "options": [
     "TNT",
     "Formalin",
     "Caustic potash",
     "Laughing gas"
    ],
-   "a": 3,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Nitrous oxide (N2O) is commonly known as Laughing gas."
+   "answer": 3,
+   "explanation": "Nitrous oxide (N2O) is commonly known as Laughing gas.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00065",
-   "q": "Sulphuric acid (H2SO4) is commonly known as which of the following?",
-   "o": [
+   "question": "Sulphuric acid (H2SO4) is commonly known as which of the following?",
+   "options": [
     "White vitriol",
     "Baking soda",
     "Slaked lime",
     "Oil of vitriol"
    ],
-   "a": 3,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Sulphuric acid (H2SO4) is commonly known as Oil of vitriol."
+   "answer": 3,
+   "explanation": "Sulphuric acid (H2SO4) is commonly known as Oil of vitriol.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00066",
-   "q": "Sodium sulphate (Na2SO4) is commonly known as which of the following?",
-   "o": [
+   "question": "Sodium sulphate (Na2SO4) is commonly known as which of the following?",
+   "options": [
     "Salt cake",
     "Nitre / saltpetre",
     "Alcohol",
     "Spirit of salt"
    ],
-   "a": 0,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Sodium sulphate (Na2SO4) is commonly known as Salt cake."
+   "answer": 0,
+   "explanation": "Sodium sulphate (Na2SO4) is commonly known as Salt cake.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00067",
-   "q": "Calcium oxide (CaO) is commonly known as which of the following?",
-   "o": [
+   "question": "Calcium oxide (CaO) is commonly known as which of the following?",
+   "options": [
     "Caustic soda",
     "Borax",
     "Quick lime",
     "Blue vitriol"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Calcium oxide (CaO) is commonly known as Quick lime."
+   "answer": 2,
+   "explanation": "Calcium oxide (CaO) is commonly known as Quick lime.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00068",
-   "q": "Calcium hydroxide (Ca(OH)2) is commonly known as which of the following?",
-   "o": [
+   "question": "Calcium hydroxide (Ca(OH)2) is commonly known as which of the following?",
+   "options": [
     "Chloroform",
     "Lime water",
     "Heavy water",
     "Epsom salt"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Calcium hydroxide (Ca(OH)2) is commonly known as Lime water."
+   "answer": 1,
+   "explanation": "Calcium hydroxide (Ca(OH)2) is commonly known as Lime water.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00069",
-   "q": "Hydrated magnesium silicate is commonly known as which of the following?",
-   "o": [
+   "question": "Hydrated magnesium silicate is commonly known as which of the following?",
+   "options": [
     "Caustic soda",
     "Borax",
     "Talc",
     "Spirit of salt"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Hydrated magnesium silicate is commonly known as Talc."
+   "answer": 2,
+   "explanation": "Hydrated magnesium silicate is commonly known as Talc.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00070",
-   "q": "Magnesium sulphate (MgSO4.7H2O) is commonly known as which of the following?",
-   "o": [
+   "question": "Magnesium sulphate (MgSO4.7H2O) is commonly known as which of the following?",
+   "options": [
     "Aqua fortis",
     "Marble",
     "Salt cake",
     "Epsom salt"
    ],
-   "a": 3,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Magnesium sulphate (MgSO4.7H2O) is commonly known as Epsom salt."
+   "answer": 3,
+   "explanation": "Magnesium sulphate (MgSO4.7H2O) is commonly known as Epsom salt.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00071",
-   "q": "Trichloromethane (CHCl3) is commonly known as which of the following?",
-   "o": [
+   "question": "Trichloromethane (CHCl3) is commonly known as which of the following?",
+   "options": [
     "Chloroform",
     "Quartz",
     "TNT",
     "Dry ice"
    ],
-   "a": 0,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Trichloromethane (CHCl3) is commonly known as Chloroform."
+   "answer": 0,
+   "explanation": "Trichloromethane (CHCl3) is commonly known as Chloroform.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00072",
-   "q": "Zinc sulphate (ZnSO4.7H2O) is commonly known as which of the following?",
-   "o": [
+   "question": "Zinc sulphate (ZnSO4.7H2O) is commonly known as which of the following?",
+   "options": [
     "Baking powder",
     "Chalk",
     "White vitriol",
     "Oil of vitriol"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Zinc sulphate (ZnSO4.7H2O) is commonly known as White vitriol."
+   "answer": 2,
+   "explanation": "Zinc sulphate (ZnSO4.7H2O) is commonly known as White vitriol.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00073",
-   "q": "Sodium chloride (NaCl) is commonly known as which of the following?",
-   "o": [
+   "question": "Sodium chloride (NaCl) is commonly known as which of the following?",
+   "options": [
     "Common salt",
     "Quick lime",
     "TNT",
     "Chloroform"
    ],
-   "a": 0,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Sodium chloride (NaCl) is commonly known as Common salt."
+   "answer": 0,
+   "explanation": "Sodium chloride (NaCl) is commonly known as Common salt.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00074",
-   "q": "Zinc chloride (ZnCl2) is commonly known as which of the following?",
-   "o": [
+   "question": "Zinc chloride (ZnCl2) is commonly known as which of the following?",
+   "options": [
     "Butter of zinc",
     "Common salt",
     "Milk of magnesia",
     "Plaster of Paris"
    ],
-   "a": 0,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Zinc chloride (ZnCl2) is commonly known as Butter of zinc."
+   "answer": 0,
+   "explanation": "Zinc chloride (ZnCl2) is commonly known as Butter of zinc.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00075",
-   "q": "Sodium bicarbonate (NaHCO3) is commonly known as which of the following?",
-   "o": [
+   "question": "Sodium bicarbonate (NaHCO3) is commonly known as which of the following?",
+   "options": [
     "Borax",
     "Baking soda",
     "Carbolic acid",
     "Epsom salt"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Sodium bicarbonate (NaHCO3) is commonly known as Baking soda."
+   "answer": 1,
+   "explanation": "Sodium bicarbonate (NaHCO3) is commonly known as Baking soda.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00076",
-   "q": "Aqueous formaldehyde (HCHO) is commonly known as which of the following?",
-   "o": [
+   "question": "Aqueous formaldehyde (HCHO) is commonly known as which of the following?",
+   "options": [
     "Formalin",
     "Aspirin",
     "Green vitriol",
     "Quartz"
    ],
-   "a": 0,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Aqueous formaldehyde (HCHO) is commonly known as Formalin."
+   "answer": 0,
+   "explanation": "Aqueous formaldehyde (HCHO) is commonly known as Formalin.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00077",
-   "q": "Sodium hydroxide (NaOH) is commonly known as which of the following?",
-   "o": [
+   "question": "Sodium hydroxide (NaOH) is commonly known as which of the following?",
+   "options": [
     "Bleaching powder",
     "Heavy water",
     "Caustic soda",
     "Caustic potash"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Sodium hydroxide (NaOH) is commonly known as Caustic soda."
+   "answer": 2,
+   "explanation": "Sodium hydroxide (NaOH) is commonly known as Caustic soda.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00078",
-   "q": "Deuterium oxide (D2O) is commonly known as which of the following?",
-   "o": [
+   "question": "Deuterium oxide (D2O) is commonly known as which of the following?",
+   "options": [
     "Talc",
     "Quick lime",
     "Heavy water",
     "Washing soda"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Deuterium oxide (D2O) is commonly known as Heavy water."
+   "answer": 2,
+   "explanation": "Deuterium oxide (D2O) is commonly known as Heavy water.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00079",
-   "q": "Calcium hydroxide (Ca(OH)2) is commonly known as which of the following?",
-   "o": [
+   "question": "Calcium hydroxide (Ca(OH)2) is commonly known as which of the following?",
+   "options": [
     "Butter of zinc",
     "White vitriol",
     "Marble",
     "Slaked lime"
    ],
-   "a": 3,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Calcium hydroxide (Ca(OH)2) is commonly known as Slaked lime."
+   "answer": 3,
+   "explanation": "Calcium hydroxide (Ca(OH)2) is commonly known as Slaked lime.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00080",
-   "q": "Nitric acid (HNO3) is commonly known as which of the following?",
-   "o": [
+   "question": "Nitric acid (HNO3) is commonly known as which of the following?",
+   "options": [
     "Aqua fortis",
     "Baking soda",
     "Caustic soda",
     "Marble"
    ],
-   "a": 0,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Nitric acid (HNO3) is commonly known as Aqua fortis."
+   "answer": 0,
+   "explanation": "Nitric acid (HNO3) is commonly known as Aqua fortis.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00081",
-   "q": "Hydrochloric acid (HCl) is commonly known as which of the following?",
-   "o": [
+   "question": "Hydrochloric acid (HCl) is commonly known as which of the following?",
+   "options": [
     "Spirit of salt",
     "Alcohol",
     "Bleaching powder",
     "Salt cake"
    ],
-   "a": 0,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Hydrochloric acid (HCl) is commonly known as Spirit of salt."
+   "answer": 0,
+   "explanation": "Hydrochloric acid (HCl) is commonly known as Spirit of salt.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00082",
-   "q": "Calcium sulphate dihydrate (CaSO4.2H2O) is commonly known as which of the following?",
-   "o": [
+   "question": "Calcium sulphate dihydrate (CaSO4.2H2O) is commonly known as which of the following?",
+   "options": [
     "Borax",
     "Gypsum",
     "White vitriol",
     "Oil of vitriol"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Calcium sulphate dihydrate (CaSO4.2H2O) is commonly known as Gypsum."
+   "answer": 1,
+   "explanation": "Calcium sulphate dihydrate (CaSO4.2H2O) is commonly known as Gypsum.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00083",
-   "q": "Silicon dioxide (SiO2) is commonly known as which of the following?",
-   "o": [
+   "question": "Silicon dioxide (SiO2) is commonly known as which of the following?",
+   "options": [
     "Gypsum",
     "Quartz",
     "Epsom salt",
     "Milk of magnesia"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Silicon dioxide (SiO2) is commonly known as Quartz."
+   "answer": 1,
+   "explanation": "Silicon dioxide (SiO2) is commonly known as Quartz.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00084",
-   "q": "Sodium tetraborate (Na2B4O7.10H2O) is commonly known as which of the following?",
-   "o": [
+   "question": "Sodium tetraborate (Na2B4O7.10H2O) is commonly known as which of the following?",
+   "options": [
     "Green vitriol",
     "Borax",
     "Magnesia",
     "Dry ice"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Sodium tetraborate (Na2B4O7.10H2O) is commonly known as Borax."
+   "answer": 1,
+   "explanation": "Sodium tetraborate (Na2B4O7.10H2O) is commonly known as Borax.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00085",
-   "q": "Calcium carbonate (CaCO3) is commonly known as which of the following?",
-   "o": [
+   "question": "Calcium carbonate (CaCO3) is commonly known as which of the following?",
+   "options": [
     "Chalk",
     "Spirit of salt",
     "Butter of zinc",
     "Laughing gas"
    ],
-   "a": 0,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Calcium carbonate (CaCO3) is commonly known as Chalk."
+   "answer": 0,
+   "explanation": "Calcium carbonate (CaCO3) is commonly known as Chalk.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00086",
-   "q": "Ferrous sulphate (FeSO4.7H2O) is commonly known as which of the following?",
-   "o": [
+   "question": "Ferrous sulphate (FeSO4.7H2O) is commonly known as which of the following?",
+   "options": [
     "Washing soda",
     "Lime water",
     "Quick lime",
     "Green vitriol"
    ],
-   "a": 3,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Ferrous sulphate (FeSO4.7H2O) is commonly known as Green vitriol."
+   "answer": 3,
+   "explanation": "Ferrous sulphate (FeSO4.7H2O) is commonly known as Green vitriol.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00087",
-   "q": "Copper sulphate (CuSO4.5H2O) is commonly known as which of the following?",
-   "o": [
+   "question": "Copper sulphate (CuSO4.5H2O) is commonly known as which of the following?",
+   "options": [
     "Washing soda",
     "Aqua fortis",
     "Blue vitriol",
     "Oil of vitriol"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Copper sulphate (CuSO4.5H2O) is commonly known as Blue vitriol."
+   "answer": 2,
+   "explanation": "Copper sulphate (CuSO4.5H2O) is commonly known as Blue vitriol.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00088",
-   "q": "Ethanol (C2H5OH) is commonly known as which of the following?",
-   "o": [
+   "question": "Ethanol (C2H5OH) is commonly known as which of the following?",
+   "options": [
     "Laughing gas",
     "Formalin",
     "Alcohol",
     "Washing soda"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Ethanol (C2H5OH) is commonly known as Alcohol."
+   "answer": 2,
+   "explanation": "Ethanol (C2H5OH) is commonly known as Alcohol.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00089",
-   "q": "Acetylsalicylic acid is commonly known as which of the following?",
-   "o": [
+   "question": "Acetylsalicylic acid is commonly known as which of the following?",
+   "options": [
     "Aspirin",
     "Magnesia",
     "Oil of vitriol",
     "Chloroform"
    ],
-   "a": 0,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Acetylsalicylic acid is commonly known as Aspirin."
+   "answer": 0,
+   "explanation": "Acetylsalicylic acid is commonly known as Aspirin.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00090",
-   "q": "Potassium nitrate (KNO3) is commonly known as which of the following?",
-   "o": [
+   "question": "Potassium nitrate (KNO3) is commonly known as which of the following?",
+   "options": [
     "Nitre / saltpetre",
     "Butter of zinc",
     "Formalin",
     "Caustic soda"
    ],
-   "a": 0,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Potassium nitrate (KNO3) is commonly known as Nitre / saltpetre."
+   "answer": 0,
+   "explanation": "Potassium nitrate (KNO3) is commonly known as Nitre / saltpetre.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00091",
-   "q": "Potassium aluminium sulphate is commonly known as which of the following?",
-   "o": [
+   "question": "Potassium aluminium sulphate is commonly known as which of the following?",
+   "options": [
     "Baking soda",
     "Chloroform",
     "Alum",
     "Quick lime"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Potassium aluminium sulphate is commonly known as Alum."
+   "answer": 2,
+   "explanation": "Potassium aluminium sulphate is commonly known as Alum.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00092",
-   "q": "Acetic acid (CH3COOH) is commonly known as which of the following?",
-   "o": [
+   "question": "Acetic acid (CH3COOH) is commonly known as which of the following?",
+   "options": [
     "Quick lime",
     "Vinegar",
     "Formalin",
     "Nitre / saltpetre"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Acetic acid (CH3COOH) is commonly known as Vinegar."
+   "answer": 1,
+   "explanation": "Acetic acid (CH3COOH) is commonly known as Vinegar.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00093",
-   "q": "Calcium sulphate hemihydrate (CaSO4.1/2H2O) is commonly known as which of the following?",
-   "o": [
+   "question": "Calcium sulphate hemihydrate (CaSO4.1/2H2O) is commonly known as which of the following?",
+   "options": [
     "Bleaching powder",
     "Vinegar",
     "Formalin",
     "Plaster of Paris"
    ],
-   "a": 3,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Calcium sulphate hemihydrate (CaSO4.1/2H2O) is commonly known as Plaster of Paris."
+   "answer": 3,
+   "explanation": "Calcium sulphate hemihydrate (CaSO4.1/2H2O) is commonly known as Plaster of Paris.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00094",
-   "q": "Magnesium oxide (MgO) is commonly known as which of the following?",
-   "o": [
+   "question": "Magnesium oxide (MgO) is commonly known as which of the following?",
+   "options": [
     "Aqua fortis",
     "Epsom salt",
     "Vinegar",
     "Magnesia"
    ],
-   "a": 3,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Magnesium oxide (MgO) is commonly known as Magnesia."
+   "answer": 3,
+   "explanation": "Magnesium oxide (MgO) is commonly known as Magnesia.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00095",
-   "q": "Sodium carbonate (Na2CO3) is commonly known as which of the following?",
-   "o": [
+   "question": "Sodium carbonate (Na2CO3) is commonly known as which of the following?",
+   "options": [
     "Aspirin",
     "Blue vitriol",
     "Washing soda",
     "Alum"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Sodium carbonate (Na2CO3) is commonly known as Washing soda."
+   "answer": 2,
+   "explanation": "Sodium carbonate (Na2CO3) is commonly known as Washing soda.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00096",
-   "q": "Trinitrotoluene is commonly known as which of the following?",
-   "o": [
+   "question": "Trinitrotoluene is commonly known as which of the following?",
+   "options": [
     "Borax",
     "TNT",
     "Gypsum",
     "Common salt"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Trinitrotoluene is commonly known as TNT."
+   "answer": 1,
+   "explanation": "Trinitrotoluene is commonly known as TNT.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00097",
-   "q": "Potassium hydroxide (KOH) is commonly known as which of the following?",
-   "o": [
+   "question": "Potassium hydroxide (KOH) is commonly known as which of the following?",
+   "options": [
     "Caustic potash",
     "Epsom salt",
     "Slaked lime",
     "Quick lime"
    ],
-   "a": 0,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Potassium hydroxide (KOH) is commonly known as Caustic potash."
+   "answer": 0,
+   "explanation": "Potassium hydroxide (KOH) is commonly known as Caustic potash.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00098",
-   "q": "Phenol (C6H5OH) is commonly known as which of the following?",
-   "o": [
+   "question": "Phenol (C6H5OH) is commonly known as which of the following?",
+   "options": [
     "Carbolic acid",
     "Slaked lime",
     "Dry ice",
     "Lime water"
    ],
-   "a": 0,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Phenol (C6H5OH) is commonly known as Carbolic acid."
+   "answer": 0,
+   "explanation": "Phenol (C6H5OH) is commonly known as Carbolic acid.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00099",
-   "q": "Sodium bicarbonate and tartaric acid is commonly known as which of the following?",
-   "o": [
+   "question": "Sodium bicarbonate and tartaric acid is commonly known as which of the following?",
+   "options": [
     "Chloroform",
     "Oil of vitriol",
     "Baking powder",
     "Common salt"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Sodium bicarbonate and tartaric acid is commonly known as Baking powder."
+   "answer": 2,
+   "explanation": "Sodium bicarbonate and tartaric acid is commonly known as Baking powder.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00100",
-   "q": "Calcium oxychloride (CaOCl2) is commonly known as which of the following?",
-   "o": [
+   "question": "Calcium oxychloride (CaOCl2) is commonly known as which of the following?",
+   "options": [
     "Washing soda",
     "Bleaching powder",
     "Butter of zinc",
     "Talc"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Calcium oxychloride (CaOCl2) is commonly known as Bleaching powder."
+   "answer": 1,
+   "explanation": "Calcium oxychloride (CaOCl2) is commonly known as Bleaching powder.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00101",
-   "q": "Calcium carbonate (CaCO3) is commonly known as which of the following?",
-   "o": [
+   "question": "Calcium carbonate (CaCO3) is commonly known as which of the following?",
+   "options": [
     "Marble",
     "Milk of magnesia",
     "Baking powder",
     "Lime water"
    ],
-   "a": 0,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Calcium carbonate (CaCO3) is commonly known as Marble."
+   "answer": 0,
+   "explanation": "Calcium carbonate (CaCO3) is commonly known as Marble.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00102",
-   "q": "Magnesium hydroxide (Mg(OH)2) is commonly known as which of the following?",
-   "o": [
+   "question": "Magnesium hydroxide (Mg(OH)2) is commonly known as which of the following?",
+   "options": [
     "Blue vitriol",
     "Talc",
     "Milk of magnesia",
     "Washing soda"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Magnesium hydroxide (Mg(OH)2) is commonly known as Milk of magnesia."
+   "answer": 2,
+   "explanation": "Magnesium hydroxide (Mg(OH)2) is commonly known as Milk of magnesia.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00103",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Chloroform - Calcium oxychloride (CaOCl2)",
     "Chloroform - Trichloromethane (CHCl3)",
     "Chloroform - Calcium sulphate dihydrate (CaSO4.2H2O)",
     "Chloroform - Sulphuric acid (H2SO4)"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Chloroform - Trichloromethane (CHCl3) is correctly matched."
+   "answer": 1,
+   "explanation": "Only Chloroform - Trichloromethane (CHCl3) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00104",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Chloroform - Magnesium hydroxide (Mg(OH)2)",
     "Chloroform - Trichloromethane (CHCl3)",
     "Chloroform - Sodium bicarbonate and tartaric acid",
     "Chloroform - Zinc chloride (ZnCl2)"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Chloroform - Trichloromethane (CHCl3) is correctly matched."
+   "answer": 1,
+   "explanation": "Only Chloroform - Trichloromethane (CHCl3) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00105",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Marble - Magnesium oxide (MgO)",
     "Marble - Phenol (C6H5OH)",
     "Marble - Calcium carbonate (CaCO3)",
     "Marble - Deuterium oxide (D2O)"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Marble - Calcium carbonate (CaCO3) is correctly matched."
+   "answer": 2,
+   "explanation": "Only Marble - Calcium carbonate (CaCO3) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00106",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Marble - Deuterium oxide (D2O)",
     "Marble - Solid carbon dioxide (CO2)",
     "Marble - Nitrous oxide (N2O)",
     "Marble - Calcium carbonate (CaCO3)"
    ],
-   "a": 3,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Marble - Calcium carbonate (CaCO3) is correctly matched."
+   "answer": 3,
+   "explanation": "Only Marble - Calcium carbonate (CaCO3) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00107",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Butter of zinc - Sodium bicarbonate and tartaric acid",
     "Butter of zinc - Zinc chloride (ZnCl2)",
     "Butter of zinc - Hydrochloric acid (HCl)",
     "Butter of zinc - Calcium sulphate hemihydrate (CaSO4.1/2H2O)"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Butter of zinc - Zinc chloride (ZnCl2) is correctly matched."
+   "answer": 1,
+   "explanation": "Only Butter of zinc - Zinc chloride (ZnCl2) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00108",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Butter of zinc - Nitrous oxide (N2O)",
     "Butter of zinc - Sulphuric acid (H2SO4)",
     "Butter of zinc - Sodium bicarbonate (NaHCO3)",
     "Butter of zinc - Zinc chloride (ZnCl2)"
    ],
-   "a": 3,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Butter of zinc - Zinc chloride (ZnCl2) is correctly matched."
+   "answer": 3,
+   "explanation": "Only Butter of zinc - Zinc chloride (ZnCl2) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00109",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Formalin - Calcium oxychloride (CaOCl2)",
     "Formalin - Aqueous formaldehyde (HCHO)",
     "Formalin - Nitrous oxide (N2O)",
     "Formalin - Magnesium oxide (MgO)"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Formalin - Aqueous formaldehyde (HCHO) is correctly matched."
+   "answer": 1,
+   "explanation": "Only Formalin - Aqueous formaldehyde (HCHO) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00110",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Formalin - Hydrochloric acid (HCl)",
     "Formalin - Calcium oxide (CaO)",
     "Formalin - Aqueous formaldehyde (HCHO)",
     "Formalin - Ferrous sulphate (FeSO4.7H2O)"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Formalin - Aqueous formaldehyde (HCHO) is correctly matched."
+   "answer": 2,
+   "explanation": "Only Formalin - Aqueous formaldehyde (HCHO) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00111",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Nitre / saltpetre - Potassium nitrate (KNO3)",
     "Nitre / saltpetre - Sodium sulphate (Na2SO4)",
     "Nitre / saltpetre - Sodium hydroxide (NaOH)",
     "Nitre / saltpetre - Copper sulphate (CuSO4.5H2O)"
    ],
-   "a": 0,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Nitre / saltpetre - Potassium nitrate (KNO3) is correctly matched."
+   "answer": 0,
+   "explanation": "Only Nitre / saltpetre - Potassium nitrate (KNO3) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00112",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Nitre / saltpetre - Solid carbon dioxide (CO2)",
     "Nitre / saltpetre - Copper sulphate (CuSO4.5H2O)",
     "Nitre / saltpetre - Aqueous formaldehyde (HCHO)",
     "Nitre / saltpetre - Potassium nitrate (KNO3)"
    ],
-   "a": 3,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Nitre / saltpetre - Potassium nitrate (KNO3) is correctly matched."
+   "answer": 3,
+   "explanation": "Only Nitre / saltpetre - Potassium nitrate (KNO3) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00113",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Plaster of Paris - Potassium hydroxide (KOH)",
     "Plaster of Paris - Nitric acid (HNO3)",
     "Plaster of Paris - Sulphuric acid (H2SO4)",
     "Plaster of Paris - Calcium sulphate hemihydrate (CaSO4.1/2H2O)"
    ],
-   "a": 3,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Plaster of Paris - Calcium sulphate hemihydrate (CaSO4.1/2H2O) is correctly matched."
+   "answer": 3,
+   "explanation": "Only Plaster of Paris - Calcium sulphate hemihydrate (CaSO4.1/2H2O) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00114",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Plaster of Paris - Calcium sulphate hemihydrate (CaSO4.1/2H2O)",
     "Plaster of Paris - Zinc chloride (ZnCl2)",
     "Plaster of Paris - Hydrated magnesium silicate",
     "Plaster of Paris - Sodium carbonate (Na2CO3)"
    ],
-   "a": 0,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Plaster of Paris - Calcium sulphate hemihydrate (CaSO4.1/2H2O) is correctly matched."
+   "answer": 0,
+   "explanation": "Only Plaster of Paris - Calcium sulphate hemihydrate (CaSO4.1/2H2O) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00115",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Magnesia - Calcium carbonate (CaCO3)",
     "Magnesia - Magnesium oxide (MgO)",
     "Magnesia - Sodium chloride (NaCl)",
     "Magnesia - Calcium sulphate dihydrate (CaSO4.2H2O)"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Magnesia - Magnesium oxide (MgO) is correctly matched."
+   "answer": 1,
+   "explanation": "Only Magnesia - Magnesium oxide (MgO) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00116",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Magnesia - Nitrous oxide (N2O)",
     "Magnesia - Calcium sulphate dihydrate (CaSO4.2H2O)",
     "Magnesia - Ethanol (C2H5OH)",
     "Magnesia - Magnesium oxide (MgO)"
    ],
-   "a": 3,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Magnesia - Magnesium oxide (MgO) is correctly matched."
+   "answer": 3,
+   "explanation": "Only Magnesia - Magnesium oxide (MgO) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00117",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Salt cake - Copper sulphate (CuSO4.5H2O)",
     "Salt cake - Sodium sulphate (Na2SO4)",
     "Salt cake - Ethanol (C2H5OH)",
     "Salt cake - Sodium bicarbonate (NaHCO3)"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Salt cake - Sodium sulphate (Na2SO4) is correctly matched."
+   "answer": 1,
+   "explanation": "Only Salt cake - Sodium sulphate (Na2SO4) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00118",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Salt cake - Nitrous oxide (N2O)",
     "Salt cake - Sodium sulphate (Na2SO4)",
     "Salt cake - Calcium oxychloride (CaOCl2)",
     "Salt cake - Sodium tetraborate (Na2B4O7.10H2O)"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Salt cake - Sodium sulphate (Na2SO4) is correctly matched."
+   "answer": 1,
+   "explanation": "Only Salt cake - Sodium sulphate (Na2SO4) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00119",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Aspirin - Sodium bicarbonate (NaHCO3)",
     "Aspirin - Ferrous sulphate (FeSO4.7H2O)",
     "Aspirin - Copper sulphate (CuSO4.5H2O)",
     "Aspirin - Acetylsalicylic acid"
    ],
-   "a": 3,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Aspirin - Acetylsalicylic acid is correctly matched."
+   "answer": 3,
+   "explanation": "Only Aspirin - Acetylsalicylic acid is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00120",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Aspirin - Acetylsalicylic acid",
     "Aspirin - Calcium hydroxide (Ca(OH)2)",
     "Aspirin - Calcium oxychloride (CaOCl2)",
     "Aspirin - Potassium aluminium sulphate"
    ],
-   "a": 0,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Aspirin - Acetylsalicylic acid is correctly matched."
+   "answer": 0,
+   "explanation": "Only Aspirin - Acetylsalicylic acid is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00121",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Spirit of salt - Calcium hydroxide (Ca(OH)2)",
     "Spirit of salt - Ferrous sulphate (FeSO4.7H2O)",
     "Spirit of salt - Zinc chloride (ZnCl2)",
     "Spirit of salt - Hydrochloric acid (HCl)"
    ],
-   "a": 3,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Spirit of salt - Hydrochloric acid (HCl) is correctly matched."
+   "answer": 3,
+   "explanation": "Only Spirit of salt - Hydrochloric acid (HCl) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00122",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Spirit of salt - Trinitrotoluene",
     "Spirit of salt - Hydrochloric acid (HCl)",
     "Spirit of salt - Magnesium oxide (MgO)",
     "Spirit of salt - Potassium aluminium sulphate"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Spirit of salt - Hydrochloric acid (HCl) is correctly matched."
+   "answer": 1,
+   "explanation": "Only Spirit of salt - Hydrochloric acid (HCl) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00123",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Talc - Calcium oxychloride (CaOCl2)",
     "Talc - Hydrated magnesium silicate",
     "Talc - Calcium hydroxide (Ca(OH)2)",
     "Talc - Nitric acid (HNO3)"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Talc - Hydrated magnesium silicate is correctly matched."
+   "answer": 1,
+   "explanation": "Only Talc - Hydrated magnesium silicate is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00124",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Talc - Sodium hydroxide (NaOH)",
     "Talc - Hydrated magnesium silicate",
     "Talc - Calcium carbonate (CaCO3)",
     "Talc - Calcium sulphate dihydrate (CaSO4.2H2O)"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Talc - Hydrated magnesium silicate is correctly matched."
+   "answer": 1,
+   "explanation": "Only Talc - Hydrated magnesium silicate is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00125",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Dry ice - Nitric acid (HNO3)",
     "Dry ice - Ferrous sulphate (FeSO4.7H2O)",
     "Dry ice - Sodium bicarbonate and tartaric acid",
     "Dry ice - Solid carbon dioxide (CO2)"
    ],
-   "a": 3,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Dry ice - Solid carbon dioxide (CO2) is correctly matched."
+   "answer": 3,
+   "explanation": "Only Dry ice - Solid carbon dioxide (CO2) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00126",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Dry ice - Magnesium hydroxide (Mg(OH)2)",
     "Dry ice - Sodium sulphate (Na2SO4)",
     "Dry ice - Solid carbon dioxide (CO2)",
     "Dry ice - Nitric acid (HNO3)"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Dry ice - Solid carbon dioxide (CO2) is correctly matched."
+   "answer": 2,
+   "explanation": "Only Dry ice - Solid carbon dioxide (CO2) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00127",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Green vitriol - Trinitrotoluene",
     "Green vitriol - Calcium oxychloride (CaOCl2)",
     "Green vitriol - Ferrous sulphate (FeSO4.7H2O)",
     "Green vitriol - Nitrous oxide (N2O)"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Green vitriol - Ferrous sulphate (FeSO4.7H2O) is correctly matched."
+   "answer": 2,
+   "explanation": "Only Green vitriol - Ferrous sulphate (FeSO4.7H2O) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00128",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Green vitriol - Ferrous sulphate (FeSO4.7H2O)",
     "Green vitriol - Potassium nitrate (KNO3)",
     "Green vitriol - Magnesium hydroxide (Mg(OH)2)",
     "Green vitriol - Aqueous formaldehyde (HCHO)"
    ],
-   "a": 0,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Green vitriol - Ferrous sulphate (FeSO4.7H2O) is correctly matched."
+   "answer": 0,
+   "explanation": "Only Green vitriol - Ferrous sulphate (FeSO4.7H2O) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00129",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Oil of vitriol - Acetylsalicylic acid",
     "Oil of vitriol - Sulphuric acid (H2SO4)",
     "Oil of vitriol - Trinitrotoluene",
     "Oil of vitriol - Hydrated magnesium silicate"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Oil of vitriol - Sulphuric acid (H2SO4) is correctly matched."
+   "answer": 1,
+   "explanation": "Only Oil of vitriol - Sulphuric acid (H2SO4) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00130",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Oil of vitriol - Sulphuric acid (H2SO4)",
     "Oil of vitriol - Sodium chloride (NaCl)",
     "Oil of vitriol - Zinc chloride (ZnCl2)",
     "Oil of vitriol - Calcium sulphate dihydrate (CaSO4.2H2O)"
    ],
-   "a": 0,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Oil of vitriol - Sulphuric acid (H2SO4) is correctly matched."
+   "answer": 0,
+   "explanation": "Only Oil of vitriol - Sulphuric acid (H2SO4) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00131",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Caustic soda - Zinc sulphate (ZnSO4.7H2O)",
     "Caustic soda - Trichloromethane (CHCl3)",
     "Caustic soda - Hydrochloric acid (HCl)",
     "Caustic soda - Sodium hydroxide (NaOH)"
    ],
-   "a": 3,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Caustic soda - Sodium hydroxide (NaOH) is correctly matched."
+   "answer": 3,
+   "explanation": "Only Caustic soda - Sodium hydroxide (NaOH) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00132",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Caustic soda - Potassium aluminium sulphate",
     "Caustic soda - Sodium hydroxide (NaOH)",
     "Caustic soda - Sodium bicarbonate (NaHCO3)",
     "Caustic soda - Zinc sulphate (ZnSO4.7H2O)"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Caustic soda - Sodium hydroxide (NaOH) is correctly matched."
+   "answer": 1,
+   "explanation": "Only Caustic soda - Sodium hydroxide (NaOH) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00133",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Quick lime - Calcium oxide (CaO)",
     "Quick lime - Ethanol (C2H5OH)",
     "Quick lime - Silicon dioxide (SiO2)",
     "Quick lime - Sodium tetraborate (Na2B4O7.10H2O)"
    ],
-   "a": 0,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Quick lime - Calcium oxide (CaO) is correctly matched."
+   "answer": 0,
+   "explanation": "Only Quick lime - Calcium oxide (CaO) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00134",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Quick lime - Trinitrotoluene",
     "Quick lime - Calcium oxide (CaO)",
     "Quick lime - Ferrous sulphate (FeSO4.7H2O)",
     "Quick lime - Sodium sulphate (Na2SO4)"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Quick lime - Calcium oxide (CaO) is correctly matched."
+   "answer": 1,
+   "explanation": "Only Quick lime - Calcium oxide (CaO) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00135",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Baking powder - Magnesium sulphate (MgSO4.7H2O)",
     "Baking powder - Sulphuric acid (H2SO4)",
     "Baking powder - Acetylsalicylic acid",
     "Baking powder - Sodium bicarbonate and tartaric acid"
    ],
-   "a": 3,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Baking powder - Sodium bicarbonate and tartaric acid is correctly matched."
+   "answer": 3,
+   "explanation": "Only Baking powder - Sodium bicarbonate and tartaric acid is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00136",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Baking powder - Sodium sulphate (Na2SO4)",
     "Baking powder - Sodium bicarbonate and tartaric acid",
     "Baking powder - Copper sulphate (CuSO4.5H2O)",
     "Baking powder - Ethanol (C2H5OH)"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Baking powder - Sodium bicarbonate and tartaric acid is correctly matched."
+   "answer": 1,
+   "explanation": "Only Baking powder - Sodium bicarbonate and tartaric acid is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00137",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Epsom salt - Nitrous oxide (N2O)",
     "Epsom salt - Ferrous sulphate (FeSO4.7H2O)",
     "Epsom salt - Silicon dioxide (SiO2)",
     "Epsom salt - Magnesium sulphate (MgSO4.7H2O)"
    ],
-   "a": 3,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Epsom salt - Magnesium sulphate (MgSO4.7H2O) is correctly matched."
+   "answer": 3,
+   "explanation": "Only Epsom salt - Magnesium sulphate (MgSO4.7H2O) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00138",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Epsom salt - Ferrous sulphate (FeSO4.7H2O)",
     "Epsom salt - Magnesium sulphate (MgSO4.7H2O)",
     "Epsom salt - Ethanol (C2H5OH)",
     "Epsom salt - Calcium hydroxide (Ca(OH)2)"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Epsom salt - Magnesium sulphate (MgSO4.7H2O) is correctly matched."
+   "answer": 1,
+   "explanation": "Only Epsom salt - Magnesium sulphate (MgSO4.7H2O) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00139",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Aqua fortis - Sodium bicarbonate and tartaric acid",
     "Aqua fortis - Nitric acid (HNO3)",
     "Aqua fortis - Calcium carbonate (CaCO3)",
     "Aqua fortis - Trinitrotoluene"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Aqua fortis - Nitric acid (HNO3) is correctly matched."
+   "answer": 1,
+   "explanation": "Only Aqua fortis - Nitric acid (HNO3) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00140",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Aqua fortis - Magnesium hydroxide (Mg(OH)2)",
     "Aqua fortis - Calcium carbonate (CaCO3)",
     "Aqua fortis - Sodium hydroxide (NaOH)",
     "Aqua fortis - Nitric acid (HNO3)"
    ],
-   "a": 3,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Aqua fortis - Nitric acid (HNO3) is correctly matched."
+   "answer": 3,
+   "explanation": "Only Aqua fortis - Nitric acid (HNO3) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00141",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Bleaching powder - Trinitrotoluene",
     "Bleaching powder - Calcium oxychloride (CaOCl2)",
     "Bleaching powder - Silicon dioxide (SiO2)",
     "Bleaching powder - Sodium hydroxide (NaOH)"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Bleaching powder - Calcium oxychloride (CaOCl2) is correctly matched."
+   "answer": 1,
+   "explanation": "Only Bleaching powder - Calcium oxychloride (CaOCl2) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00142",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Bleaching powder - Calcium oxychloride (CaOCl2)",
     "Bleaching powder - Calcium hydroxide (Ca(OH)2)",
     "Bleaching powder - Magnesium hydroxide (Mg(OH)2)",
     "Bleaching powder - Hydrochloric acid (HCl)"
    ],
-   "a": 0,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Bleaching powder - Calcium oxychloride (CaOCl2) is correctly matched."
+   "answer": 0,
+   "explanation": "Only Bleaching powder - Calcium oxychloride (CaOCl2) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00143",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Blue vitriol - Copper sulphate (CuSO4.5H2O)",
     "Blue vitriol - Calcium carbonate (CaCO3)",
     "Blue vitriol - Sodium chloride (NaCl)",
     "Blue vitriol - Sodium bicarbonate (NaHCO3)"
    ],
-   "a": 0,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Blue vitriol - Copper sulphate (CuSO4.5H2O) is correctly matched."
+   "answer": 0,
+   "explanation": "Only Blue vitriol - Copper sulphate (CuSO4.5H2O) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00144",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Blue vitriol - Magnesium hydroxide (Mg(OH)2)",
     "Blue vitriol - Calcium hydroxide (Ca(OH)2)",
     "Blue vitriol - Hydrated magnesium silicate",
     "Blue vitriol - Copper sulphate (CuSO4.5H2O)"
    ],
-   "a": 3,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Blue vitriol - Copper sulphate (CuSO4.5H2O) is correctly matched."
+   "answer": 3,
+   "explanation": "Only Blue vitriol - Copper sulphate (CuSO4.5H2O) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00145",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Common salt - Sodium chloride (NaCl)",
     "Common salt - Sodium bicarbonate and tartaric acid",
     "Common salt - Magnesium sulphate (MgSO4.7H2O)",
     "Common salt - Ethanol (C2H5OH)"
    ],
-   "a": 0,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Common salt - Sodium chloride (NaCl) is correctly matched."
+   "answer": 0,
+   "explanation": "Only Common salt - Sodium chloride (NaCl) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00146",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Common salt - Sodium chloride (NaCl)",
     "Common salt - Hydrated magnesium silicate",
     "Common salt - Ferrous sulphate (FeSO4.7H2O)",
     "Common salt - Nitric acid (HNO3)"
    ],
-   "a": 0,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Common salt - Sodium chloride (NaCl) is correctly matched."
+   "answer": 0,
+   "explanation": "Only Common salt - Sodium chloride (NaCl) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00147",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Laughing gas - Aqueous formaldehyde (HCHO)",
     "Laughing gas - Zinc chloride (ZnCl2)",
     "Laughing gas - Nitrous oxide (N2O)",
     "Laughing gas - Ethanol (C2H5OH)"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Laughing gas - Nitrous oxide (N2O) is correctly matched."
+   "answer": 2,
+   "explanation": "Only Laughing gas - Nitrous oxide (N2O) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00148",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Laughing gas - Calcium carbonate (CaCO3)",
     "Laughing gas - Nitrous oxide (N2O)",
     "Laughing gas - Magnesium sulphate (MgSO4.7H2O)",
     "Laughing gas - Calcium oxide (CaO)"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Laughing gas - Nitrous oxide (N2O) is correctly matched."
+   "answer": 1,
+   "explanation": "Only Laughing gas - Nitrous oxide (N2O) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00149",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Alum - Sodium chloride (NaCl)",
     "Alum - Deuterium oxide (D2O)",
     "Alum - Potassium aluminium sulphate",
     "Alum - Hydrochloric acid (HCl)"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Alum - Potassium aluminium sulphate is correctly matched."
+   "answer": 2,
+   "explanation": "Only Alum - Potassium aluminium sulphate is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00150",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Alum - Sodium chloride (NaCl)",
     "Alum - Deuterium oxide (D2O)",
     "Alum - Potassium aluminium sulphate",
     "Alum - Calcium hydroxide (Ca(OH)2)"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Alum - Potassium aluminium sulphate is correctly matched."
+   "answer": 2,
+   "explanation": "Only Alum - Potassium aluminium sulphate is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00151",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Slaked lime - Sodium bicarbonate (NaHCO3)",
     "Slaked lime - Magnesium sulphate (MgSO4.7H2O)",
     "Slaked lime - Calcium hydroxide (Ca(OH)2)",
     "Slaked lime - Potassium aluminium sulphate"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Slaked lime - Calcium hydroxide (Ca(OH)2) is correctly matched."
+   "answer": 2,
+   "explanation": "Only Slaked lime - Calcium hydroxide (Ca(OH)2) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00152",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Slaked lime - Calcium hydroxide (Ca(OH)2)",
     "Slaked lime - Sulphuric acid (H2SO4)",
     "Slaked lime - Nitrous oxide (N2O)",
     "Slaked lime - Hydrated magnesium silicate"
    ],
-   "a": 0,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Slaked lime - Calcium hydroxide (Ca(OH)2) is correctly matched."
+   "answer": 0,
+   "explanation": "Only Slaked lime - Calcium hydroxide (Ca(OH)2) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00153",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Chalk - Hydrated magnesium silicate",
     "Chalk - Calcium carbonate (CaCO3)",
     "Chalk - Ferrous sulphate (FeSO4.7H2O)",
     "Chalk - Calcium oxide (CaO)"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Chalk - Calcium carbonate (CaCO3) is correctly matched."
+   "answer": 1,
+   "explanation": "Only Chalk - Calcium carbonate (CaCO3) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00154",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Chalk - Sodium bicarbonate (NaHCO3)",
     "Chalk - Calcium carbonate (CaCO3)",
     "Chalk - Sodium sulphate (Na2SO4)",
     "Chalk - Sodium chloride (NaCl)"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Chalk - Calcium carbonate (CaCO3) is correctly matched."
+   "answer": 1,
+   "explanation": "Only Chalk - Calcium carbonate (CaCO3) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00155",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Caustic potash - Sodium tetraborate (Na2B4O7.10H2O)",
     "Caustic potash - Calcium oxychloride (CaOCl2)",
     "Caustic potash - Sodium chloride (NaCl)",
     "Caustic potash - Potassium hydroxide (KOH)"
    ],
-   "a": 3,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Caustic potash - Potassium hydroxide (KOH) is correctly matched."
+   "answer": 3,
+   "explanation": "Only Caustic potash - Potassium hydroxide (KOH) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00156",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Caustic potash - Trichloromethane (CHCl3)",
     "Caustic potash - Potassium hydroxide (KOH)",
     "Caustic potash - Sodium chloride (NaCl)",
     "Caustic potash - Calcium oxide (CaO)"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Caustic potash - Potassium hydroxide (KOH) is correctly matched."
+   "answer": 1,
+   "explanation": "Only Caustic potash - Potassium hydroxide (KOH) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00157",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Baking soda - Sodium chloride (NaCl)",
     "Baking soda - Silicon dioxide (SiO2)",
     "Baking soda - Sodium bicarbonate (NaHCO3)",
     "Baking soda - Calcium carbonate (CaCO3)"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Baking soda - Sodium bicarbonate (NaHCO3) is correctly matched."
+   "answer": 2,
+   "explanation": "Only Baking soda - Sodium bicarbonate (NaHCO3) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00158",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Baking soda - Sulphuric acid (H2SO4)",
     "Baking soda - Calcium sulphate hemihydrate (CaSO4.1/2H2O)",
     "Baking soda - Sodium bicarbonate (NaHCO3)",
     "Baking soda - Zinc sulphate (ZnSO4.7H2O)"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Baking soda - Sodium bicarbonate (NaHCO3) is correctly matched."
+   "answer": 2,
+   "explanation": "Only Baking soda - Sodium bicarbonate (NaHCO3) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00159",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Gypsum - Magnesium hydroxide (Mg(OH)2)",
     "Gypsum - Calcium sulphate dihydrate (CaSO4.2H2O)",
     "Gypsum - Potassium nitrate (KNO3)",
     "Gypsum - Calcium oxychloride (CaOCl2)"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Gypsum - Calcium sulphate dihydrate (CaSO4.2H2O) is correctly matched."
+   "answer": 1,
+   "explanation": "Only Gypsum - Calcium sulphate dihydrate (CaSO4.2H2O) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00160",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Gypsum - Aqueous formaldehyde (HCHO)",
     "Gypsum - Copper sulphate (CuSO4.5H2O)",
     "Gypsum - Calcium sulphate dihydrate (CaSO4.2H2O)",
     "Gypsum - Nitric acid (HNO3)"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Gypsum - Calcium sulphate dihydrate (CaSO4.2H2O) is correctly matched."
+   "answer": 2,
+   "explanation": "Only Gypsum - Calcium sulphate dihydrate (CaSO4.2H2O) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00161",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Quartz - Sodium hydroxide (NaOH)",
     "Quartz - Sulphuric acid (H2SO4)",
     "Quartz - Silicon dioxide (SiO2)",
     "Quartz - Potassium aluminium sulphate"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Quartz - Silicon dioxide (SiO2) is correctly matched."
+   "answer": 2,
+   "explanation": "Only Quartz - Silicon dioxide (SiO2) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00162",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Quartz - Calcium hydroxide (Ca(OH)2)",
     "Quartz - Silicon dioxide (SiO2)",
     "Quartz - Hydrated magnesium silicate",
     "Quartz - Sodium sulphate (Na2SO4)"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Quartz - Silicon dioxide (SiO2) is correctly matched."
+   "answer": 1,
+   "explanation": "Only Quartz - Silicon dioxide (SiO2) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00163",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "TNT - Sodium tetraborate (Na2B4O7.10H2O)",
     "TNT - Calcium hydroxide (Ca(OH)2)",
     "TNT - Trinitrotoluene",
     "TNT - Calcium carbonate (CaCO3)"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only TNT - Trinitrotoluene is correctly matched."
+   "answer": 2,
+   "explanation": "Only TNT - Trinitrotoluene is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00164",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "TNT - Trinitrotoluene",
     "TNT - Sulphuric acid (H2SO4)",
     "TNT - Calcium sulphate dihydrate (CaSO4.2H2O)",
     "TNT - Magnesium hydroxide (Mg(OH)2)"
    ],
-   "a": 0,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only TNT - Trinitrotoluene is correctly matched."
+   "answer": 0,
+   "explanation": "Only TNT - Trinitrotoluene is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00165",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "White vitriol - Zinc sulphate (ZnSO4.7H2O)",
     "White vitriol - Sodium hydroxide (NaOH)",
     "White vitriol - Calcium oxychloride (CaOCl2)",
     "White vitriol - Calcium oxide (CaO)"
    ],
-   "a": 0,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only White vitriol - Zinc sulphate (ZnSO4.7H2O) is correctly matched."
+   "answer": 0,
+   "explanation": "Only White vitriol - Zinc sulphate (ZnSO4.7H2O) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00166",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "White vitriol - Calcium sulphate hemihydrate (CaSO4.1/2H2O)",
     "White vitriol - Trichloromethane (CHCl3)",
     "White vitriol - Zinc sulphate (ZnSO4.7H2O)",
     "White vitriol - Sulphuric acid (H2SO4)"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only White vitriol - Zinc sulphate (ZnSO4.7H2O) is correctly matched."
+   "answer": 2,
+   "explanation": "Only White vitriol - Zinc sulphate (ZnSO4.7H2O) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00167",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Washing soda - Zinc sulphate (ZnSO4.7H2O)",
     "Washing soda - Magnesium sulphate (MgSO4.7H2O)",
     "Washing soda - Sodium carbonate (Na2CO3)",
     "Washing soda - Acetic acid (CH3COOH)"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Washing soda - Sodium carbonate (Na2CO3) is correctly matched."
+   "answer": 2,
+   "explanation": "Only Washing soda - Sodium carbonate (Na2CO3) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00168",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Washing soda - Aqueous formaldehyde (HCHO)",
     "Washing soda - Nitric acid (HNO3)",
     "Washing soda - Hydrochloric acid (HCl)",
     "Washing soda - Sodium carbonate (Na2CO3)"
    ],
-   "a": 3,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Washing soda - Sodium carbonate (Na2CO3) is correctly matched."
+   "answer": 3,
+   "explanation": "Only Washing soda - Sodium carbonate (Na2CO3) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00169",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Milk of magnesia - Calcium hydroxide (Ca(OH)2)",
     "Milk of magnesia - Sodium bicarbonate (NaHCO3)",
     "Milk of magnesia - Sulphuric acid (H2SO4)",
     "Milk of magnesia - Magnesium hydroxide (Mg(OH)2)"
    ],
-   "a": 3,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Milk of magnesia - Magnesium hydroxide (Mg(OH)2) is correctly matched."
+   "answer": 3,
+   "explanation": "Only Milk of magnesia - Magnesium hydroxide (Mg(OH)2) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00170",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Milk of magnesia - Phenol (C6H5OH)",
     "Milk of magnesia - Magnesium hydroxide (Mg(OH)2)",
     "Milk of magnesia - Zinc sulphate (ZnSO4.7H2O)",
     "Milk of magnesia - Sodium sulphate (Na2SO4)"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Milk of magnesia - Magnesium hydroxide (Mg(OH)2) is correctly matched."
+   "answer": 1,
+   "explanation": "Only Milk of magnesia - Magnesium hydroxide (Mg(OH)2) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00171",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Alcohol - Zinc sulphate (ZnSO4.7H2O)",
     "Alcohol - Phenol (C6H5OH)",
     "Alcohol - Deuterium oxide (D2O)",
     "Alcohol - Ethanol (C2H5OH)"
    ],
-   "a": 3,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Alcohol - Ethanol (C2H5OH) is correctly matched."
+   "answer": 3,
+   "explanation": "Only Alcohol - Ethanol (C2H5OH) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00172",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Alcohol - Ethanol (C2H5OH)",
     "Alcohol - Sulphuric acid (H2SO4)",
     "Alcohol - Copper sulphate (CuSO4.5H2O)",
     "Alcohol - Sodium hydroxide (NaOH)"
    ],
-   "a": 0,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Alcohol - Ethanol (C2H5OH) is correctly matched."
+   "answer": 0,
+   "explanation": "Only Alcohol - Ethanol (C2H5OH) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00173",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Carbolic acid - Sulphuric acid (H2SO4)",
     "Carbolic acid - Zinc chloride (ZnCl2)",
     "Carbolic acid - Ethanol (C2H5OH)",
     "Carbolic acid - Phenol (C6H5OH)"
    ],
-   "a": 3,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Carbolic acid - Phenol (C6H5OH) is correctly matched."
+   "answer": 3,
+   "explanation": "Only Carbolic acid - Phenol (C6H5OH) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00174",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Carbolic acid - Acetylsalicylic acid",
     "Carbolic acid - Phenol (C6H5OH)",
     "Carbolic acid - Calcium hydroxide (Ca(OH)2)",
     "Carbolic acid - Sodium sulphate (Na2SO4)"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Carbolic acid - Phenol (C6H5OH) is correctly matched."
+   "answer": 1,
+   "explanation": "Only Carbolic acid - Phenol (C6H5OH) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00175",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Borax - Deuterium oxide (D2O)",
     "Borax - Magnesium oxide (MgO)",
     "Borax - Sodium tetraborate (Na2B4O7.10H2O)",
     "Borax - Calcium oxychloride (CaOCl2)"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Borax - Sodium tetraborate (Na2B4O7.10H2O) is correctly matched."
+   "answer": 2,
+   "explanation": "Only Borax - Sodium tetraborate (Na2B4O7.10H2O) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00176",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Borax - Zinc sulphate (ZnSO4.7H2O)",
     "Borax - Nitric acid (HNO3)",
     "Borax - Sodium carbonate (Na2CO3)",
     "Borax - Sodium tetraborate (Na2B4O7.10H2O)"
    ],
-   "a": 3,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Borax - Sodium tetraborate (Na2B4O7.10H2O) is correctly matched."
+   "answer": 3,
+   "explanation": "Only Borax - Sodium tetraborate (Na2B4O7.10H2O) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00177",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Lime water - Sodium chloride (NaCl)",
     "Lime water - Potassium hydroxide (KOH)",
     "Lime water - Calcium hydroxide (Ca(OH)2)",
     "Lime water - Sulphuric acid (H2SO4)"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Lime water - Calcium hydroxide (Ca(OH)2) is correctly matched."
+   "answer": 2,
+   "explanation": "Only Lime water - Calcium hydroxide (Ca(OH)2) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00178",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Lime water - Nitrous oxide (N2O)",
     "Lime water - Trinitrotoluene",
     "Lime water - Calcium hydroxide (Ca(OH)2)",
     "Lime water - Calcium oxide (CaO)"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Lime water - Calcium hydroxide (Ca(OH)2) is correctly matched."
+   "answer": 2,
+   "explanation": "Only Lime water - Calcium hydroxide (Ca(OH)2) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00179",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Vinegar - Copper sulphate (CuSO4.5H2O)",
     "Vinegar - Acetic acid (CH3COOH)",
     "Vinegar - Magnesium oxide (MgO)",
     "Vinegar - Sodium tetraborate (Na2B4O7.10H2O)"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Vinegar - Acetic acid (CH3COOH) is correctly matched."
+   "answer": 1,
+   "explanation": "Only Vinegar - Acetic acid (CH3COOH) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00180",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Vinegar - Acetic acid (CH3COOH)",
     "Vinegar - Calcium oxide (CaO)",
     "Vinegar - Calcium hydroxide (Ca(OH)2)",
     "Vinegar - Magnesium hydroxide (Mg(OH)2)"
    ],
-   "a": 0,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Vinegar - Acetic acid (CH3COOH) is correctly matched."
+   "answer": 0,
+   "explanation": "Only Vinegar - Acetic acid (CH3COOH) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00181",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Heavy water - Sodium bicarbonate (NaHCO3)",
     "Heavy water - Sodium sulphate (Na2SO4)",
     "Heavy water - Deuterium oxide (D2O)",
     "Heavy water - Sodium bicarbonate and tartaric acid"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Heavy water - Deuterium oxide (D2O) is correctly matched."
+   "answer": 2,
+   "explanation": "Only Heavy water - Deuterium oxide (D2O) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00182",
-   "q": "Which of the following pairs of common name and chemical name is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is correctly matched?",
+   "options": [
     "Heavy water - Acetic acid (CH3COOH)",
     "Heavy water - Zinc chloride (ZnCl2)",
     "Heavy water - Sodium chloride (NaCl)",
     "Heavy water - Deuterium oxide (D2O)"
    ],
-   "a": 3,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Heavy water - Deuterium oxide (D2O) is correctly matched."
+   "answer": 3,
+   "explanation": "Only Heavy water - Deuterium oxide (D2O) is correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00183",
-   "q": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
+   "options": [
     "Butter of zinc - Zinc chloride (ZnCl2)",
     "Heavy water - Acetylsalicylic acid",
     "Washing soda - Sodium carbonate (Na2CO3)",
     "Alum - Potassium aluminium sulphate"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Heavy water - Acetylsalicylic acid is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Heavy water - Acetylsalicylic acid is not correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00184",
-   "q": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
+   "options": [
     "Epsom salt - Magnesium sulphate (MgSO4.7H2O)",
     "Aspirin - Acetylsalicylic acid",
     "Formalin - Potassium hydroxide (KOH)",
     "Chloroform - Trichloromethane (CHCl3)"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Formalin - Potassium hydroxide (KOH) is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Formalin - Potassium hydroxide (KOH) is not correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00185",
-   "q": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
+   "options": [
     "Carbolic acid - Phenol (C6H5OH)",
     "Spirit of salt - Calcium carbonate (CaCO3)",
     "Quartz - Silicon dioxide (SiO2)",
     "Milk of magnesia - Magnesium hydroxide (Mg(OH)2)"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Spirit of salt - Calcium carbonate (CaCO3) is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Spirit of salt - Calcium carbonate (CaCO3) is not correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00186",
-   "q": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
+   "options": [
     "Aspirin - Nitrous oxide (N2O)",
     "Gypsum - Calcium sulphate dihydrate (CaSO4.2H2O)",
     "TNT - Trinitrotoluene",
     "Salt cake - Sodium sulphate (Na2SO4)"
    ],
-   "a": 0,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Aspirin - Nitrous oxide (N2O) is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Aspirin - Nitrous oxide (N2O) is not correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00187",
-   "q": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
+   "options": [
     "Alcohol - Ethanol (C2H5OH)",
     "Gypsum - Calcium hydroxide (Ca(OH)2)",
     "Caustic potash - Potassium hydroxide (KOH)",
     "Heavy water - Deuterium oxide (D2O)"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Gypsum - Calcium hydroxide (Ca(OH)2) is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Gypsum - Calcium hydroxide (Ca(OH)2) is not correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00188",
-   "q": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
+   "options": [
     "Lime water - Calcium hydroxide (Ca(OH)2)",
     "Alum - Potassium aluminium sulphate",
     "Butter of zinc - Zinc chloride (ZnCl2)",
     "Slaked lime - Nitric acid (HNO3)"
    ],
-   "a": 3,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Slaked lime - Nitric acid (HNO3) is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Slaked lime - Nitric acid (HNO3) is not correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00189",
-   "q": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
+   "options": [
     "Borax - Sodium tetraborate (Na2B4O7.10H2O)",
     "Blue vitriol - Calcium hydroxide (Ca(OH)2)",
     "Talc - Hydrated magnesium silicate",
     "Gypsum - Calcium sulphate dihydrate (CaSO4.2H2O)"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Blue vitriol - Calcium hydroxide (Ca(OH)2) is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Blue vitriol - Calcium hydroxide (Ca(OH)2) is not correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00190",
-   "q": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
+   "options": [
     "Bleaching powder - Calcium hydroxide (Ca(OH)2)",
     "White vitriol - Zinc sulphate (ZnSO4.7H2O)",
     "Dry ice - Solid carbon dioxide (CO2)",
     "Vinegar - Acetic acid (CH3COOH)"
    ],
-   "a": 0,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Bleaching powder - Calcium hydroxide (Ca(OH)2) is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Bleaching powder - Calcium hydroxide (Ca(OH)2) is not correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00191",
-   "q": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
+   "options": [
     "Epsom salt - Magnesium sulphate (MgSO4.7H2O)",
     "Slaked lime - Calcium hydroxide (Ca(OH)2)",
     "Salt cake - Sodium sulphate (Na2SO4)",
     "Chloroform - Magnesium hydroxide (Mg(OH)2)"
    ],
-   "a": 3,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Chloroform - Magnesium hydroxide (Mg(OH)2) is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Chloroform - Magnesium hydroxide (Mg(OH)2) is not correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00192",
-   "q": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
+   "options": [
     "Alum - Potassium aluminium sulphate",
     "Dry ice - Solid carbon dioxide (CO2)",
     "Chalk - Acetic acid (CH3COOH)",
     "Nitre / saltpetre - Potassium nitrate (KNO3)"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Chalk - Acetic acid (CH3COOH) is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Chalk - Acetic acid (CH3COOH) is not correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00193",
-   "q": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
+   "options": [
     "Caustic soda - Sodium hydroxide (NaOH)",
     "Blue vitriol - Copper sulphate (CuSO4.5H2O)",
     "Slaked lime - Calcium hydroxide (Ca(OH)2)",
     "Magnesia - Hydrated magnesium silicate"
    ],
-   "a": 3,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Magnesia - Hydrated magnesium silicate is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Magnesia - Hydrated magnesium silicate is not correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00194",
-   "q": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
+   "options": [
     "Salt cake - Sodium sulphate (Na2SO4)",
     "Washing soda - Calcium sulphate dihydrate (CaSO4.2H2O)",
     "Aqua fortis - Nitric acid (HNO3)",
     "Lime water - Calcium hydroxide (Ca(OH)2)"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Washing soda - Calcium sulphate dihydrate (CaSO4.2H2O) is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Washing soda - Calcium sulphate dihydrate (CaSO4.2H2O) is not correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00195",
-   "q": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
+   "options": [
     "Nitre / saltpetre - Potassium nitrate (KNO3)",
     "Aqua fortis - Nitric acid (HNO3)",
     "Marble - Calcium hydroxide (Ca(OH)2)",
     "Common salt - Sodium chloride (NaCl)"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Marble - Calcium hydroxide (Ca(OH)2) is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Marble - Calcium hydroxide (Ca(OH)2) is not correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00196",
-   "q": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
+   "options": [
     "Bleaching powder - Calcium oxychloride (CaOCl2)",
     "TNT - Zinc sulphate (ZnSO4.7H2O)",
     "Slaked lime - Calcium hydroxide (Ca(OH)2)",
     "White vitriol - Zinc sulphate (ZnSO4.7H2O)"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair TNT - Zinc sulphate (ZnSO4.7H2O) is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair TNT - Zinc sulphate (ZnSO4.7H2O) is not correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00197",
-   "q": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
+   "options": [
     "Talc - Hydrated magnesium silicate",
     "TNT - Trinitrotoluene",
     "White vitriol - Zinc sulphate (ZnSO4.7H2O)",
     "Quick lime - Calcium hydroxide (Ca(OH)2)"
    ],
-   "a": 3,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Quick lime - Calcium hydroxide (Ca(OH)2) is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Quick lime - Calcium hydroxide (Ca(OH)2) is not correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00198",
-   "q": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
+   "options": [
     "Plaster of Paris - Calcium sulphate hemihydrate (CaSO4.1/2H2O)",
     "White vitriol - Silicon dioxide (SiO2)",
     "Salt cake - Sodium sulphate (Na2SO4)",
     "Green vitriol - Ferrous sulphate (FeSO4.7H2O)"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair White vitriol - Silicon dioxide (SiO2) is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair White vitriol - Silicon dioxide (SiO2) is not correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00199",
-   "q": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
+   "options": [
     "Talc - Hydrated magnesium silicate",
     "Aspirin - Acetylsalicylic acid",
     "Gypsum - Calcium sulphate dihydrate (CaSO4.2H2O)",
     "Butter of zinc - Potassium nitrate (KNO3)"
    ],
-   "a": 3,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Butter of zinc - Potassium nitrate (KNO3) is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Butter of zinc - Potassium nitrate (KNO3) is not correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00200",
-   "q": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
+   "options": [
     "Dry ice - Solid carbon dioxide (CO2)",
     "Baking powder - Sodium bicarbonate and tartaric acid",
     "Baking soda - Sodium bicarbonate and tartaric acid",
     "Slaked lime - Calcium hydroxide (Ca(OH)2)"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Baking soda - Sodium bicarbonate and tartaric acid is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Baking soda - Sodium bicarbonate and tartaric acid is not correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00201",
-   "q": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
+   "options": [
     "Baking powder - Sodium bicarbonate and tartaric acid",
     "White vitriol - Zinc sulphate (ZnSO4.7H2O)",
     "Aqua fortis - Magnesium hydroxide (Mg(OH)2)",
     "Caustic potash - Potassium hydroxide (KOH)"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Aqua fortis - Magnesium hydroxide (Mg(OH)2) is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Aqua fortis - Magnesium hydroxide (Mg(OH)2) is not correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00202",
-   "q": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
+   "options": [
     "Borax - Sodium tetraborate (Na2B4O7.10H2O)",
     "Chalk - Calcium carbonate (CaCO3)",
     "Baking powder - Trinitrotoluene",
     "Oil of vitriol - Sulphuric acid (H2SO4)"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Baking powder - Trinitrotoluene is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Baking powder - Trinitrotoluene is not correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00203",
-   "q": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
+   "options": [
     "Baking soda - Sodium bicarbonate (NaHCO3)",
     "Baking powder - Sodium bicarbonate and tartaric acid",
     "Epsom salt - Magnesium sulphate (MgSO4.7H2O)",
     "Caustic potash - Calcium hydroxide (Ca(OH)2)"
    ],
-   "a": 3,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Caustic potash - Calcium hydroxide (Ca(OH)2) is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Caustic potash - Calcium hydroxide (Ca(OH)2) is not correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00204",
-   "q": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
+   "options": [
     "Magnesia - Magnesium oxide (MgO)",
     "Epsom salt - Magnesium sulphate (MgSO4.7H2O)",
     "Blue vitriol - Copper sulphate (CuSO4.5H2O)",
     "Milk of magnesia - Sodium tetraborate (Na2B4O7.10H2O)"
    ],
-   "a": 3,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Milk of magnesia - Sodium tetraborate (Na2B4O7.10H2O) is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Milk of magnesia - Sodium tetraborate (Na2B4O7.10H2O) is not correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00205",
-   "q": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
+   "options": [
     "Marble - Calcium carbonate (CaCO3)",
     "Salt cake - Acetylsalicylic acid",
     "Borax - Sodium tetraborate (Na2B4O7.10H2O)",
     "Baking powder - Sodium bicarbonate and tartaric acid"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Salt cake - Acetylsalicylic acid is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Salt cake - Acetylsalicylic acid is not correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00206",
-   "q": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
+   "options": [
     "Vinegar - Potassium aluminium sulphate",
     "Aqua fortis - Nitric acid (HNO3)",
     "Borax - Sodium tetraborate (Na2B4O7.10H2O)",
     "Lime water - Calcium hydroxide (Ca(OH)2)"
    ],
-   "a": 0,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Vinegar - Potassium aluminium sulphate is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Vinegar - Potassium aluminium sulphate is not correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00207",
-   "q": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
+   "options": [
     "Quartz - Sodium sulphate (Na2SO4)",
     "Vinegar - Acetic acid (CH3COOH)",
     "Blue vitriol - Copper sulphate (CuSO4.5H2O)",
     "Borax - Sodium tetraborate (Na2B4O7.10H2O)"
    ],
-   "a": 0,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Quartz - Sodium sulphate (Na2SO4) is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Quartz - Sodium sulphate (Na2SO4) is not correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00208",
-   "q": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
+   "options": [
     "Aspirin - Acetylsalicylic acid",
     "Common salt - Sodium chloride (NaCl)",
     "Alum - Magnesium sulphate (MgSO4.7H2O)",
     "Chloroform - Trichloromethane (CHCl3)"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Alum - Magnesium sulphate (MgSO4.7H2O) is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Alum - Magnesium sulphate (MgSO4.7H2O) is not correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00209",
-   "q": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
+   "options": [
     "Talc - Hydrated magnesium silicate",
     "Green vitriol - Silicon dioxide (SiO2)",
     "Epsom salt - Magnesium sulphate (MgSO4.7H2O)",
     "Caustic soda - Sodium hydroxide (NaOH)"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Green vitriol - Silicon dioxide (SiO2) is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Green vitriol - Silicon dioxide (SiO2) is not correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00210",
-   "q": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
+   "options": [
     "Magnesia - Magnesium oxide (MgO)",
     "Chloroform - Trichloromethane (CHCl3)",
     "Borax - Magnesium hydroxide (Mg(OH)2)",
     "Milk of magnesia - Magnesium hydroxide (Mg(OH)2)"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Borax - Magnesium hydroxide (Mg(OH)2) is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Borax - Magnesium hydroxide (Mg(OH)2) is not correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00211",
-   "q": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
+   "options": [
     "Laughing gas - Magnesium oxide (MgO)",
     "Heavy water - Deuterium oxide (D2O)",
     "Aqua fortis - Nitric acid (HNO3)",
     "Salt cake - Sodium sulphate (Na2SO4)"
    ],
-   "a": 0,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Laughing gas - Magnesium oxide (MgO) is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Laughing gas - Magnesium oxide (MgO) is not correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00212",
-   "q": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
+   "options": [
     "Quartz - Silicon dioxide (SiO2)",
     "Salt cake - Sodium sulphate (Na2SO4)",
     "Magnesia - Magnesium oxide (MgO)",
     "Plaster of Paris - Ferrous sulphate (FeSO4.7H2O)"
    ],
-   "a": 3,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Plaster of Paris - Ferrous sulphate (FeSO4.7H2O) is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Plaster of Paris - Ferrous sulphate (FeSO4.7H2O) is not correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00213",
-   "q": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
+   "options": [
     "Aqua fortis - Nitric acid (HNO3)",
     "Oil of vitriol - Deuterium oxide (D2O)",
     "Epsom salt - Magnesium sulphate (MgSO4.7H2O)",
     "TNT - Trinitrotoluene"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Oil of vitriol - Deuterium oxide (D2O) is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Oil of vitriol - Deuterium oxide (D2O) is not correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00214",
-   "q": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
+   "options": [
     "Blue vitriol - Copper sulphate (CuSO4.5H2O)",
     "Salt cake - Sodium sulphate (Na2SO4)",
     "Caustic soda - Calcium sulphate dihydrate (CaSO4.2H2O)",
     "White vitriol - Zinc sulphate (ZnSO4.7H2O)"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Caustic soda - Calcium sulphate dihydrate (CaSO4.2H2O) is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Caustic soda - Calcium sulphate dihydrate (CaSO4.2H2O) is not correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00215",
-   "q": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
+   "options": [
     "White vitriol - Zinc sulphate (ZnSO4.7H2O)",
     "Nitre / saltpetre - Sodium carbonate (Na2CO3)",
     "Quick lime - Calcium oxide (CaO)",
     "Carbolic acid - Phenol (C6H5OH)"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Nitre / saltpetre - Sodium carbonate (Na2CO3) is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Nitre / saltpetre - Sodium carbonate (Na2CO3) is not correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00216",
-   "q": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
+   "options": [
     "Marble - Calcium carbonate (CaCO3)",
     "Heavy water - Deuterium oxide (D2O)",
     "Alcohol - Ethanol (C2H5OH)",
     "Talc - Ferrous sulphate (FeSO4.7H2O)"
    ],
-   "a": 3,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Talc - Ferrous sulphate (FeSO4.7H2O) is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Talc - Ferrous sulphate (FeSO4.7H2O) is not correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00217",
-   "q": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
+   "options": [
     "Aspirin - Acetylsalicylic acid",
     "Slaked lime - Calcium hydroxide (Ca(OH)2)",
     "Marble - Calcium carbonate (CaCO3)",
     "Lime water - Magnesium oxide (MgO)"
    ],
-   "a": 3,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Lime water - Magnesium oxide (MgO) is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Lime water - Magnesium oxide (MgO) is not correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00218",
-   "q": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
+   "options": [
     "Borax - Sodium tetraborate (Na2B4O7.10H2O)",
     "Laughing gas - Nitrous oxide (N2O)",
     "Alcohol - Copper sulphate (CuSO4.5H2O)",
     "Nitre / saltpetre - Potassium nitrate (KNO3)"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Alcohol - Copper sulphate (CuSO4.5H2O) is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Alcohol - Copper sulphate (CuSO4.5H2O) is not correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00219",
-   "q": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
+   "options": [
     "Vinegar - Acetic acid (CH3COOH)",
     "Baking soda - Sodium bicarbonate (NaHCO3)",
     "Common salt - Hydrochloric acid (HCl)",
     "Butter of zinc - Zinc chloride (ZnCl2)"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Common salt - Hydrochloric acid (HCl) is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Common salt - Hydrochloric acid (HCl) is not correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00220",
-   "q": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
+   "options": [
     "Chalk - Calcium carbonate (CaCO3)",
     "Vinegar - Acetic acid (CH3COOH)",
     "Dry ice - Calcium carbonate (CaCO3)",
     "Caustic potash - Potassium hydroxide (KOH)"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Dry ice - Calcium carbonate (CaCO3) is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Dry ice - Calcium carbonate (CaCO3) is not correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00221",
-   "q": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
+   "options": [
     "Caustic potash - Potassium hydroxide (KOH)",
     "Carbolic acid - Hydrated magnesium silicate",
     "Slaked lime - Calcium hydroxide (Ca(OH)2)",
     "Butter of zinc - Zinc chloride (ZnCl2)"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Carbolic acid - Hydrated magnesium silicate is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Carbolic acid - Hydrated magnesium silicate is not correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "chemistry-00222",
-   "q": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of common name and chemical name is NOT correctly matched?",
+   "options": [
     "Plaster of Paris - Calcium sulphate hemihydrate (CaSO4.1/2H2O)",
     "Epsom salt - Acetic acid (CH3COOH)",
     "Borax - Sodium tetraborate (Na2B4O7.10H2O)",
     "Caustic potash - Potassium hydroxide (KOH)"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Epsom salt - Acetic acid (CH3COOH) is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Epsom salt - Acetic acid (CH3COOH) is not correctly matched.",
+   "topic": "Chemical Names",
+   "level": 3,
+   "source": "generated"
   }
  ]
 };

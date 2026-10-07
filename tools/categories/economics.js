@@ -15,4203 +15,4203 @@
  "questions": [
   {
    "id": "economics-00001",
-   "q": "Who is known as the father of economics?",
-   "o": [
+   "question": "Who is known as the father of economics?",
+   "options": [
     "Adam Smith",
     "Karl Marx",
     "John Keynes",
     "David Ricardo"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Adam Smith wrote The Wealth of Nations in 1776."
+   "answer": 0,
+   "explanation": "Adam Smith wrote The Wealth of Nations in 1776.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "economics-00002",
-   "q": "In which year was the Reserve Bank of India established?",
-   "o": [
+   "question": "In which year was the Reserve Bank of India established?",
+   "options": [
     "1925",
     "1935",
     "1947",
     "1949"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "The RBI was established in 1935."
+   "answer": 1,
+   "explanation": "The RBI was established in 1935.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "economics-00003",
-   "q": "Which rate does the RBI charge while lending to commercial banks?",
-   "o": [
+   "question": "Which rate does the RBI charge while lending to commercial banks?",
+   "options": [
     "Repo rate",
     "Reverse repo rate",
     "Bank rate",
     "Prime rate"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "The repo rate is the RBI's lending rate against securities."
+   "answer": 0,
+   "explanation": "The repo rate is the RBI's lending rate against securities.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "economics-00004",
-   "q": "Which committee recommended the Goods and Services Tax in India?",
-   "o": [
+   "question": "Which committee recommended the Goods and Services Tax in India?",
+   "options": [
     "Kelkar Committee",
     "Narasimham Committee",
     "Rangarajan Committee",
     "Tendulkar Committee"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 3,
-   "s": "curated",
-   "e": "The Kelkar Committee recommended GST in India."
+   "answer": 0,
+   "explanation": "The Kelkar Committee recommended GST in India.",
+   "topic": "Curated",
+   "level": 3,
+   "source": "curated"
   },
   {
    "id": "economics-00005",
-   "q": "In which year was GST introduced in India?",
-   "o": [
+   "question": "In which year was GST introduced in India?",
+   "options": [
     "2015",
     "2016",
     "2017",
     "2018"
    ],
-   "a": 2,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "GST was rolled out on 1 July 2017."
+   "answer": 2,
+   "explanation": "GST was rolled out on 1 July 2017.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "economics-00006",
-   "q": "Which article of the Constitution provides for the GST Council?",
-   "o": [
+   "question": "Which article of the Constitution provides for the GST Council?",
+   "options": [
     "Article 279A",
     "Article 280",
     "Article 112",
     "Article 148"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 3,
-   "s": "curated",
-   "e": "Article 279A provides for the GST Council."
+   "answer": 0,
+   "explanation": "Article 279A provides for the GST Council.",
+   "topic": "Curated",
+   "level": 3,
+   "source": "curated"
   },
   {
    "id": "economics-00007",
-   "q": "Which body regulates the securities market in India?",
-   "o": [
+   "question": "Which body regulates the securities market in India?",
+   "options": [
     "SEBI",
     "RBI",
     "IRDAI",
     "PFRDA"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "SEBI regulates the securities market."
+   "answer": 0,
+   "explanation": "SEBI regulates the securities market.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "economics-00008",
-   "q": "Which is the apex bank for agricultural credit in India?",
-   "o": [
+   "question": "Which is the apex bank for agricultural credit in India?",
+   "options": [
     "NABARD",
     "SIDBI",
     "EXIM Bank",
     "RBI"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "NABARD is the apex institution for agricultural and rural credit."
+   "answer": 0,
+   "explanation": "NABARD is the apex institution for agricultural and rural credit.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "economics-00009",
-   "q": "Which institution prints currency notes in India?",
-   "o": [
+   "question": "Which institution prints currency notes in India?",
+   "options": [
     "Reserve Bank of India",
     "Government of India",
     "State Bank of India",
     "Ministry of Finance"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "The RBI issues banknotes, while the government issues coins."
+   "answer": 0,
+   "explanation": "The RBI issues banknotes, while the government issues coins.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "economics-00010",
-   "q": "In which year were the first major banks nationalised in India?",
-   "o": [
+   "question": "In which year were the first major banks nationalised in India?",
+   "options": [
     "1949",
     "1955",
     "1969",
     "1980"
    ],
-   "a": 2,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Fourteen banks were nationalised in 1969."
+   "answer": 2,
+   "explanation": "Fourteen banks were nationalised in 1969.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "economics-00011",
-   "q": "Which plan was the first Five Year Plan of India?",
-   "o": [
+   "question": "Which plan was the first Five Year Plan of India?",
+   "options": [
     "1951-56",
     "1947-52",
     "1955-60",
     "1961-66"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "The first Five Year Plan covered 1951-56 with a focus on agriculture."
+   "answer": 0,
+   "explanation": "The first Five Year Plan covered 1951-56 with a focus on agriculture.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "economics-00012",
-   "q": "Which body replaced the Planning Commission of India?",
-   "o": [
+   "question": "Which body replaced the Planning Commission of India?",
+   "options": [
     "NITI Aayog",
     "Finance Commission",
     "NITI Board",
     "Economic Advisory Council"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "NITI Aayog replaced the Planning Commission in 2015."
+   "answer": 0,
+   "explanation": "NITI Aayog replaced the Planning Commission in 2015.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "economics-00013",
-   "q": "Which of these is a direct tax?",
-   "o": [
+   "question": "Which of these is a direct tax?",
+   "options": [
     "Income tax",
     "GST",
     "Customs duty",
     "Excise duty"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Income tax is a direct tax on income."
+   "answer": 0,
+   "explanation": "Income tax is a direct tax on income.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "economics-00014",
-   "q": "Which of these is an indirect tax?",
-   "o": [
+   "question": "Which of these is an indirect tax?",
+   "options": [
     "GST",
     "Income tax",
     "Corporate tax",
     "Wealth tax"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "GST is levied on goods and services and is an indirect tax."
+   "answer": 0,
+   "explanation": "GST is levied on goods and services and is an indirect tax.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "economics-00015",
-   "q": "What does fiscal deficit mean?",
-   "o": [
+   "question": "What does fiscal deficit mean?",
+   "options": [
     "Excess of government expenditure over revenue",
     "Excess of imports over exports",
     "Excess of savings over investment",
     "Excess of revenue over expenditure"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Fiscal deficit is the gap between total expenditure and total receipts excluding borrowings."
+   "answer": 0,
+   "explanation": "Fiscal deficit is the gap between total expenditure and total receipts excluding borrowings.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "economics-00016",
-   "q": "In which year did India adopt liberalisation reforms?",
-   "o": [
+   "question": "In which year did India adopt liberalisation reforms?",
+   "options": [
     "1991",
     "1985",
     "1999",
     "2000"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "India adopted LPG reforms in 1991."
+   "answer": 0,
+   "explanation": "India adopted LPG reforms in 1991.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "economics-00017",
-   "q": "Who is known as the architect of India's 1991 economic reforms?",
-   "o": [
+   "question": "Who is known as the architect of India's 1991 economic reforms?",
+   "options": [
     "Manmohan Singh",
     "P. Chidambaram",
     "Montek Singh Ahluwalia",
     "I. G. Patel"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Dr. Manmohan Singh was Finance Minister and led the reforms."
+   "answer": 0,
+   "explanation": "Dr. Manmohan Singh was Finance Minister and led the reforms.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "economics-00018",
-   "q": "Which sector contributes the largest share to India's GDP?",
-   "o": [
+   "question": "Which sector contributes the largest share to India's GDP?",
+   "options": [
     "Services",
     "Agriculture",
     "Manufacturing",
     "Mining"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "The services sector contributes the largest share of GDP."
+   "answer": 0,
+   "explanation": "The services sector contributes the largest share of GDP.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "economics-00019",
-   "q": "Which organisation publishes the Human Development Index?",
-   "o": [
+   "question": "Which organisation publishes the Human Development Index?",
+   "options": [
     "UNDP",
     "World Bank",
     "IMF",
     "WTO"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "The UNDP publishes the HDI."
+   "answer": 0,
+   "explanation": "The UNDP publishes the HDI.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "economics-00020",
-   "q": "Which index is used to measure retail inflation in India?",
-   "o": [
+   "question": "Which index is used to measure retail inflation in India?",
+   "options": [
     "Consumer Price Index",
     "Wholesale Price Index",
     "Index of Industrial Production",
     "GDP deflator"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Retail inflation is tracked through the CPI."
+   "answer": 0,
+   "explanation": "Retail inflation is tracked through the CPI.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "economics-00021",
-   "q": "Which is the oldest stock exchange in Asia?",
-   "o": [
+   "question": "Which is the oldest stock exchange in Asia?",
+   "options": [
     "Bombay Stock Exchange",
     "National Stock Exchange",
     "Calcutta Stock Exchange",
     "Tokyo Stock Exchange"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "The BSE was established in 1875 and is the oldest in Asia."
+   "answer": 0,
+   "explanation": "The BSE was established in 1875 and is the oldest in Asia.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "economics-00022",
-   "q": "What is the full form of MSP in agriculture?",
-   "o": [
+   "question": "What is the full form of MSP in agriculture?",
+   "options": [
     "Minimum Support Price",
     "Market Selling Price",
     "Maximum Support Price",
     "Minimum Selling Price"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "MSP is the price at which the government buys crops from farmers."
+   "answer": 0,
+   "explanation": "MSP is the price at which the government buys crops from farmers.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "economics-00023",
-   "q": "Which body recommends the minimum support prices in India?",
-   "o": [
+   "question": "Which body recommends the minimum support prices in India?",
+   "options": [
     "CACP",
     "NABARD",
     "FCI",
     "ICAR"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 3,
-   "s": "curated",
-   "e": "The Commission for Agricultural Costs and Prices recommends MSP."
+   "answer": 0,
+   "explanation": "The Commission for Agricultural Costs and Prices recommends MSP.",
+   "topic": "Curated",
+   "level": 3,
+   "source": "curated"
   },
   {
    "id": "economics-00024",
-   "q": "Which revolution is associated with overall agricultural production?",
-   "o": [
+   "question": "Which revolution is associated with overall agricultural production?",
+   "options": [
     "Green Revolution",
     "US Dollar",
     "Beijing",
     "Bank of Baroda"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00025",
-   "q": "The scheme Atmanirbhar Bharat Abhiyan was launched with which objective?",
-   "o": [
+   "question": "The scheme Atmanirbhar Bharat Abhiyan was launched with which objective?",
+   "options": [
     "Piped drinking water to every rural household",
     "Self-reliant India initiative",
     "Irrigation coverage and water use efficiency",
     "Cleaning and conservation of the Ganga"
    ],
-   "a": 1,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Atmanirbhar Bharat Abhiyan — Self-reliant India initiative."
+   "answer": 1,
+   "explanation": "Atmanirbhar Bharat Abhiyan — Self-reliant India initiative.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00026",
-   "q": "What is the term for the difference between exports and imports of goods?",
-   "o": [
+   "question": "What is the term for the difference between exports and imports of goods?",
+   "options": [
     "Karl Marx",
     "Balance of trade",
     "1991",
     "28 per cent"
    ],
-   "a": 1,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 1,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00027",
-   "q": "The scheme PM Janjatiya Unnat Gram Abhiyan was launched with which objective?",
-   "o": [
+   "question": "The scheme PM Janjatiya Unnat Gram Abhiyan was launched with which objective?",
+   "options": [
     "Safety and empowerment of women",
     "Income support of six thousand rupees to small farmers",
     "Development of tribal villages",
     "Piped drinking water to every rural household"
    ],
-   "a": 2,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "PM Janjatiya Unnat Gram Abhiyan — Development of tribal villages."
+   "answer": 2,
+   "explanation": "PM Janjatiya Unnat Gram Abhiyan — Development of tribal villages.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00028",
-   "q": "Which revolution is associated with the production of cotton?",
-   "o": [
+   "question": "Which revolution is associated with the production of cotton?",
+   "options": [
     "Silver Fibre Revolution",
     "Beijing",
     "Liberalisation, Privatisation and Globalisation",
     "Food Corporation of India"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00029",
-   "q": "The scheme Ujjwala 2.0 was launched with which objective?",
-   "o": [
+   "question": "The scheme Ujjwala 2.0 was launched with which objective?",
+   "options": [
     "Extension of free LPG connections to migrant families",
     "Food grain self-sufficiency",
     "Upgraded health and wellness centres",
     "Promoting startups and innovation"
    ],
-   "a": 0,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Ujjwala 2.0 — Extension of free LPG connections to migrant families."
+   "answer": 0,
+   "explanation": "Ujjwala 2.0 — Extension of free LPG connections to migrant families.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00030",
-   "q": "Who is the chairman of the GST Council?",
-   "o": [
+   "question": "Who is the chairman of the GST Council?",
+   "options": [
     "C. D. Deshmukh",
     "Union Finance Minister",
     "1944",
     "Bank of Japan"
    ],
-   "a": 1,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 1,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00031",
-   "q": "The scheme National Food Security Act was launched with which objective?",
-   "o": [
+   "question": "The scheme National Food Security Act was launched with which objective?",
+   "options": [
     "Subsidised food grains to two-thirds of the population",
     "Online national agriculture market for farmers",
     "Universal immunisation of children",
     "Self-reliant India initiative"
    ],
-   "a": 0,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "National Food Security Act — Subsidised food grains to two-thirds of the population."
+   "answer": 0,
+   "explanation": "National Food Security Act — Subsidised food grains to two-thirds of the population.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00032",
-   "q": "Which body regulates the insurance sector in India?",
-   "o": [
+   "question": "Which body regulates the insurance sector in India?",
+   "options": [
     "IRDAI",
     "2015",
     "CACP",
     "New Development Bank"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00033",
-   "q": "The scheme Pradhan Mantri Awas Yojana was launched with which objective?",
-   "o": [
+   "question": "The scheme Pradhan Mantri Awas Yojana was launched with which objective?",
+   "options": [
     "Housing for all",
     "Promoting manufacturing and investment in India",
     "All-weather roads for rural areas",
     "Improving nutrition among children and women"
    ],
-   "a": 0,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Pradhan Mantri Awas Yojana — Housing for all."
+   "answer": 0,
+   "explanation": "Pradhan Mantri Awas Yojana — Housing for all.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00034",
-   "q": "What is the term for dumping goods below cost to capture a market?",
-   "o": [
+   "question": "What is the term for dumping goods below cost to capture a market?",
+   "options": [
     "Dumping",
     "Monopoly",
     "Liberalisation, Privatisation and Globalisation",
     "Silver Revolution"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00035",
-   "q": "The scheme One Nation One Ration Card was launched with which objective?",
-   "o": [
+   "question": "The scheme One Nation One Ration Card was launched with which objective?",
+   "options": [
     "Safety and empowerment of women",
     "Free food grains to the poor",
     "Promotion of electric and hybrid vehicles",
     "Portable food entitlements across states"
    ],
-   "a": 3,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "One Nation One Ration Card — Portable food entitlements across states."
+   "answer": 3,
+   "explanation": "One Nation One Ration Card — Portable food entitlements across states.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00036",
-   "q": "What is the scheme for financial inclusion launched in 2014 called?",
-   "o": [
+   "question": "What is the scheme for financial inclusion launched in 2014 called?",
+   "options": [
     "Food Corporation of India",
     "SARFAESI Act, 2002",
     "Pradhan Mantri Jan Dhan Yojana",
     "Bank of India"
    ],
-   "a": 2,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 2,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00037",
-   "q": "The scheme Pradhan Mantri Matru Vandana Yojana was launched with which objective?",
-   "o": [
+   "question": "The scheme Pradhan Mantri Matru Vandana Yojana was launched with which objective?",
+   "options": [
     "Self-reliance in oilseed production",
     "Working capital loans for street vendors",
     "Cash incentive for pregnant and lactating mothers",
     "Digital health records and health infrastructure"
    ],
-   "a": 2,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Pradhan Mantri Matru Vandana Yojana — Cash incentive for pregnant and lactating mothers."
+   "answer": 2,
+   "explanation": "Pradhan Mantri Matru Vandana Yojana — Cash incentive for pregnant and lactating mothers.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00038",
-   "q": "Which sector is known as the primary sector of the economy?",
-   "o": [
+   "question": "Which sector is known as the primary sector of the economy?",
+   "options": [
     "Bank of England",
     "Agriculture and allied activities",
     "SEBI",
     "Small finance bank"
    ],
-   "a": 1,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 1,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00039",
-   "q": "The scheme Jal Jeevan Mission was launched with which objective?",
-   "o": [
+   "question": "The scheme Jal Jeevan Mission was launched with which objective?",
+   "options": [
     "Piped drinking water to every rural household",
     "Cleaning and conservation of the Ganga",
     "Upgraded health and wellness centres",
     "Self-reliance in edible oil production"
    ],
-   "a": 0,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Jal Jeevan Mission — Piped drinking water to every rural household."
+   "answer": 0,
+   "explanation": "Jal Jeevan Mission — Piped drinking water to every rural household.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00040",
-   "q": "In which year was the Asian Development Bank established?",
-   "o": [
+   "question": "In which year was the Asian Development Bank established?",
+   "options": [
     "1966",
     "US Dollar",
     "Income tax",
     "A price at which the government buys crops from farmers"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00041",
-   "q": "The scheme Mahatma Gandhi National Rural Employment Guarantee Scheme was launched with which objective?",
-   "o": [
+   "question": "The scheme Mahatma Gandhi National Rural Employment Guarantee Scheme was launched with which objective?",
+   "options": [
     "Small savings scheme for the girl child",
     "Cleanliness and sanitation for all",
     "Guaranteed wage employment in rural areas",
     "Online national agriculture market for farmers"
    ],
-   "a": 2,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Mahatma Gandhi National Rural Employment Guarantee Scheme — Guaranteed wage employment in rural areas."
+   "answer": 2,
+   "explanation": "Mahatma Gandhi National Rural Employment Guarantee Scheme — Guaranteed wage employment in rural areas.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00042",
-   "q": "What does the Gini coefficient measure?",
-   "o": [
+   "question": "What does the Gini coefficient measure?",
+   "options": [
     "PFRDA",
     "Stagflation",
     "Lending rate",
     "Income inequality"
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00043",
-   "q": "The scheme Pradhan Mantri Fasal Bima Yojana was launched with which objective?",
-   "o": [
+   "question": "The scheme Pradhan Mantri Fasal Bima Yojana was launched with which objective?",
+   "options": [
     "Development of tribal villages",
     "Integrated infrastructure planning platform",
     "Crop insurance for farmers",
     "Collateral-free loans for micro enterprises"
    ],
-   "a": 2,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Pradhan Mantri Fasal Bima Yojana — Crop insurance for farmers."
+   "answer": 2,
+   "explanation": "Pradhan Mantri Fasal Bima Yojana — Crop insurance for farmers.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00044",
-   "q": "What is the investment in the equity of a company abroad called?",
-   "o": [
+   "question": "What is the investment in the equity of a company abroad called?",
+   "options": [
     "Foreign Direct Investment",
     "Fiscal federalism",
     "Third Five Year Plan",
     "1975"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00045",
-   "q": "The scheme White Revolution 2.0 was launched with which objective?",
-   "o": [
+   "question": "The scheme White Revolution 2.0 was launched with which objective?",
+   "options": [
     "Support to traditional artisans and craftspeople",
     "Cooperative development of the dairy sector",
     "Pension for workers in the unorganised sector",
     "Soil testing and nutrient recommendations"
    ],
-   "a": 1,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "White Revolution 2.0 — Cooperative development of the dairy sector."
+   "answer": 1,
+   "explanation": "White Revolution 2.0 — Cooperative development of the dairy sector.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00046",
-   "q": "What is the minimum percentage of deposits banks must keep with the RBI?",
-   "o": [
+   "question": "What is the minimum percentage of deposits banks must keep with the RBI?",
+   "options": [
     "SARFAESI Act, 2002",
     "Atal Pension Yojana",
     "Goods and Services Tax",
     "Cash Reserve Ratio"
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00047",
-   "q": "The scheme Mission Shakti was launched with which objective?",
-   "o": [
+   "question": "The scheme Mission Shakti was launched with which objective?",
+   "options": [
     "India's central bank digital currency pilot",
     "Skill certification of youth",
     "Safety and empowerment of women",
     "Cleanliness and sanitation for all"
    ],
-   "a": 2,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Mission Shakti — Safety and empowerment of women."
+   "answer": 2,
+   "explanation": "Mission Shakti — Safety and empowerment of women.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00048",
-   "q": "Which sector employs the largest share of India's workforce?",
-   "o": [
+   "question": "Which sector employs the largest share of India's workforce?",
+   "options": [
     "SIDBI",
     "International Development Association",
     "Agriculture sector",
     "Article 112"
    ],
-   "a": 2,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 2,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00049",
-   "q": "The scheme Pradhan Mantri Ujjwala Yojana was launched with which objective?",
-   "o": [
+   "question": "The scheme Pradhan Mantri Ujjwala Yojana was launched with which objective?",
+   "options": [
     "Digital health ecosystem for India",
     "Food grain self-sufficiency",
     "Free LPG connections to women from poor households",
     "Collateral-free loans for micro enterprises"
    ],
-   "a": 2,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Pradhan Mantri Ujjwala Yojana — Free LPG connections to women from poor households."
+   "answer": 2,
+   "explanation": "Pradhan Mantri Ujjwala Yojana — Free LPG connections to women from poor households.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00050",
-   "q": "Which fund holds all revenues received by the Government of India?",
-   "o": [
+   "question": "Which fund holds all revenues received by the Government of India?",
+   "options": [
     "NABARD",
     "Consolidated Fund of India",
     "Bombay Stock Exchange",
     "Pound Sterling"
    ],
-   "a": 1,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 1,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00051",
-   "q": "The scheme PM Gati Shakti was launched with which objective?",
-   "o": [
+   "question": "The scheme PM Gati Shakti was launched with which objective?",
+   "options": [
     "Integrated infrastructure planning platform",
     "Free food grains to the poor",
     "Building a semiconductor ecosystem in India",
     "India's central bank digital currency pilot"
    ],
-   "a": 0,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "PM Gati Shakti — Integrated infrastructure planning platform."
+   "answer": 0,
+   "explanation": "PM Gati Shakti — Integrated infrastructure planning platform.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00052",
-   "q": "What is the minimum reserve system adopted by India for note issue?",
-   "o": [
+   "question": "What is the minimum reserve system adopted by India for note issue?",
+   "options": [
     "Bank of England",
     "Pradhan Mantri Mudra Yojana",
     "Marginal Standing Facility rate",
     "Minimum reserve system"
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00053",
-   "q": "The scheme Skill India Mission was launched with which objective?",
-   "o": [
+   "question": "The scheme Skill India Mission was launched with which objective?",
+   "options": [
     "Skill development and employability of youth",
     "Universal immunisation of children",
     "Working capital loans for street vendors",
     "Health insurance cover of five lakh rupees per family"
    ],
-   "a": 0,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Skill India Mission — Skill development and employability of youth."
+   "answer": 0,
+   "explanation": "Skill India Mission — Skill development and employability of youth.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00054",
-   "q": "Which is the first Indian bank to open an overseas branch?",
-   "o": [
+   "question": "Which is the first Indian bank to open an overseas branch?",
+   "options": [
     "Narasimham Committee",
     "Bretton Woods Conference",
     "Bank of India",
     "Reverse repo"
    ],
-   "a": 2,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 2,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00055",
-   "q": "The scheme Ayushman Arogya Mandir was launched with which objective?",
-   "o": [
+   "question": "The scheme Ayushman Arogya Mandir was launched with which objective?",
+   "options": [
     "Soil testing and nutrient recommendations",
     "Cleaning and conservation of the Ganga",
     "Upgraded health and wellness centres",
     "Promotion of electric and hybrid vehicles"
    ],
-   "a": 2,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Ayushman Arogya Mandir — Upgraded health and wellness centres."
+   "answer": 2,
+   "explanation": "Ayushman Arogya Mandir — Upgraded health and wellness centres.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00056",
-   "q": "In which year did India adopt the policy of liberalisation?",
-   "o": [
+   "question": "In which year did India adopt the policy of liberalisation?",
+   "options": [
     "Consolidated Fund of India",
     "Blue Revolution",
     "The Wealth of Nations",
     "1991"
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00057",
-   "q": "The scheme PM CARES Fund was launched with which objective?",
-   "o": [
+   "question": "The scheme PM CARES Fund was launched with which objective?",
+   "options": [
     "Income support of six thousand rupees to small farmers",
     "Emergency relief during the COVID-19 pandemic",
     "Sustainable and citizen friendly urban development",
     "Incentives to boost manufacturing across sectors"
    ],
-   "a": 1,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "PM CARES Fund — Emergency relief during the COVID-19 pandemic."
+   "answer": 1,
+   "explanation": "PM CARES Fund — Emergency relief during the COVID-19 pandemic.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00058",
-   "q": "Which Five Year Plan is known as the Gadgil Yojana?",
-   "o": [
+   "question": "Which Five Year Plan is known as the Gadgil Yojana?",
+   "options": [
     "5 per cent",
     "Third Five Year Plan",
     "Customs duty",
     "Cash Reserve Ratio"
    ],
-   "a": 1,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 1,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00059",
-   "q": "The scheme Namami Gange was launched with which objective?",
-   "o": [
+   "question": "The scheme Namami Gange was launched with which objective?",
+   "options": [
     "Improving nutrition among children and women",
     "Soil testing and nutrient recommendations",
     "Extension of free LPG connections to migrant families",
     "Cleaning and conservation of the Ganga"
    ],
-   "a": 3,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Namami Gange — Cleaning and conservation of the Ganga."
+   "answer": 3,
+   "explanation": "Namami Gange — Cleaning and conservation of the Ganga.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00060",
-   "q": "Which body regulates telecommunications in India?",
-   "o": [
+   "question": "Which body regulates telecommunications in India?",
+   "options": [
     "TRAI",
     "Government of India",
     "1982",
     "Silver Fibre Revolution"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00061",
-   "q": "The scheme e-NAM was launched with which objective?",
-   "o": [
+   "question": "The scheme e-NAM was launched with which objective?",
+   "options": [
     "Promotion of electric and hybrid vehicles",
     "Online national agriculture market for farmers",
     "Safety and empowerment of women",
     "Skill development and employability of youth"
    ],
-   "a": 1,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "e-NAM — Online national agriculture market for farmers."
+   "answer": 1,
+   "explanation": "e-NAM — Online national agriculture market for farmers.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00062",
-   "q": "Which act governs fiscal discipline in India?",
-   "o": [
+   "question": "Which act governs fiscal discipline in India?",
+   "options": [
     "Fiscal deficit",
     "FRBM Act, 2003",
     "Fourth Five Year Plan",
     "Silver Fibre Revolution"
    ],
-   "a": 1,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 1,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00063",
-   "q": "The scheme PM Surya Ghar Muft Bijli Yojana was launched with which objective?",
-   "o": [
+   "question": "The scheme PM Surya Ghar Muft Bijli Yojana was launched with which objective?",
+   "options": [
     "Rooftop solar power for households",
     "Development of horticulture",
     "Subsidised food grains to two-thirds of the population",
     "Working capital loans for street vendors"
    ],
-   "a": 0,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "PM Surya Ghar Muft Bijli Yojana — Rooftop solar power for households."
+   "answer": 0,
+   "explanation": "PM Surya Ghar Muft Bijli Yojana — Rooftop solar power for households.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00064",
-   "q": "Who wrote Das Kapital?",
-   "o": [
+   "question": "Who wrote Das Kapital?",
+   "options": [
     "Karl Marx",
     "Prime lending rate",
     "Euro",
     "Geneva"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00065",
-   "q": "The scheme Kisan Credit Card was launched with which objective?",
-   "o": [
+   "question": "The scheme Kisan Credit Card was launched with which objective?",
+   "options": [
     "Building a semiconductor ecosystem in India",
     "Guaranteed wage employment in rural areas",
     "Self-reliance in edible oil production",
     "Credit facility for farmers"
    ],
-   "a": 3,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Kisan Credit Card — Credit facility for farmers."
+   "answer": 3,
+   "explanation": "Kisan Credit Card — Credit facility for farmers.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00066",
-   "q": "Which is the currency of Japan?",
-   "o": [
+   "question": "Which is the currency of Japan?",
+   "options": [
     "RBI Act, 1934",
     "28 per cent",
     "Adam Smith",
     "Yen"
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00067",
-   "q": "The scheme Swachh Bharat Mission was launched with which objective?",
-   "o": [
+   "question": "The scheme Swachh Bharat Mission was launched with which objective?",
+   "options": [
     "Subsidised food grains to two-thirds of the population",
     "Self-reliant India initiative",
     "Rapid transformation of backward districts",
     "Cleanliness and sanitation for all"
    ],
-   "a": 3,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Swachh Bharat Mission — Cleanliness and sanitation for all."
+   "answer": 3,
+   "explanation": "Swachh Bharat Mission — Cleanliness and sanitation for all.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00068",
-   "q": "Which is the highest denomination banknote currently in circulation in India?",
-   "o": [
+   "question": "Which is the highest denomination banknote currently in circulation in India?",
+   "options": [
     "Lorenz curve",
     "2000 rupees",
     "Monetary Policy Committee",
     "Manmohan Singh"
    ],
-   "a": 1,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 1,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00069",
-   "q": "The scheme National Digital Health Mission was launched with which objective?",
-   "o": [
+   "question": "The scheme National Digital Health Mission was launched with which objective?",
+   "options": [
     "Self-reliance in edible oil production",
     "Digital health ecosystem for India",
     "Loans to women and scheduled caste entrepreneurs",
     "Financial inclusion through zero balance bank accounts"
    ],
-   "a": 1,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "National Digital Health Mission — Digital health ecosystem for India."
+   "answer": 1,
+   "explanation": "National Digital Health Mission — Digital health ecosystem for India.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00070",
-   "q": "Which is the first Indian bank to be fully owned by Indians?",
-   "o": [
+   "question": "Which is the first Indian bank to be fully owned by Indians?",
+   "options": [
     "Punjab National Bank",
     "Bretton Woods Conference",
     "Per capita income",
     "Fourteen"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00071",
-   "q": "The scheme Aspirational Districts Programme was launched with which objective?",
-   "o": [
+   "question": "The scheme Aspirational Districts Programme was launched with which objective?",
+   "options": [
     "Rapid transformation of backward districts",
     "Self-reliance in oilseed production",
     "Upgraded health and wellness centres",
     "Food grain self-sufficiency"
    ],
-   "a": 0,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Aspirational Districts Programme — Rapid transformation of backward districts."
+   "answer": 0,
+   "explanation": "Aspirational Districts Programme — Rapid transformation of backward districts.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00072",
-   "q": "Which organ of the World Bank provides loans to the poorest countries?",
-   "o": [
+   "question": "Which organ of the World Bank provides loans to the poorest countries?",
+   "options": [
     "Kelkar Committee",
     "Lala Lajpat Rai",
     "US Dollar",
     "International Development Association"
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00073",
-   "q": "The scheme Rashtriya Gokul Mission was launched with which objective?",
-   "o": [
+   "question": "The scheme Rashtriya Gokul Mission was launched with which objective?",
+   "options": [
     "Small savings scheme for the girl child",
     "Self-reliance in edible oil production",
     "Portable food entitlements across states",
     "Conservation and development of indigenous cattle"
    ],
-   "a": 3,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Rashtriya Gokul Mission — Conservation and development of indigenous cattle."
+   "answer": 3,
+   "explanation": "Rashtriya Gokul Mission — Conservation and development of indigenous cattle.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00074",
-   "q": "What is the minimum support price?",
-   "o": [
+   "question": "What is the minimum support price?",
+   "options": [
     "Fiscal federalism",
     "Union Budget",
     "A price at which the government buys crops from farmers",
     "Foreign Direct Investment"
    ],
-   "a": 2,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 2,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00075",
-   "q": "The scheme Green Revolution was launched with which objective?",
-   "o": [
+   "question": "The scheme Green Revolution was launched with which objective?",
+   "options": [
     "Safety and empowerment of women",
     "Universal immunisation of children",
     "Integrated infrastructure planning platform",
     "Food grain self-sufficiency"
    ],
-   "a": 3,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Green Revolution — Food grain self-sufficiency."
+   "answer": 3,
+   "explanation": "Green Revolution — Food grain self-sufficiency.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00076",
-   "q": "Which of these is a quantitative tool of monetary policy?",
-   "o": [
+   "question": "Which of these is a quantitative tool of monetary policy?",
+   "options": [
     "Open market operations",
     "Four",
     "Lending rate",
     "Green Revolution"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00077",
-   "q": "The scheme e-Rupee was launched with which objective?",
-   "o": [
+   "question": "The scheme e-Rupee was launched with which objective?",
+   "options": [
     "Extension of free LPG connections to migrant families",
     "Income support of six thousand rupees to small farmers",
     "Integrated infrastructure planning platform",
     "India's central bank digital currency pilot"
    ],
-   "a": 3,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "e-Rupee — India's central bank digital currency pilot."
+   "answer": 3,
+   "explanation": "e-Rupee — India's central bank digital currency pilot.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00078",
-   "q": "Which is the apex body for agricultural research in India?",
-   "o": [
+   "question": "Which is the apex body for agricultural research in India?",
+   "options": [
     "Net National Product",
     "Rupee symbol",
     "ICAR",
     "Foreign Direct Investment"
    ],
-   "a": 2,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 2,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00079",
-   "q": "The scheme Pradhan Mantri Mudra Yojana was launched with which objective?",
-   "o": [
+   "question": "The scheme Pradhan Mantri Mudra Yojana was launched with which objective?",
+   "options": [
     "Welfare and education of the girl child",
     "Collateral-free loans for micro enterprises",
     "Emergency relief during the COVID-19 pandemic",
     "Digital delivery of services and digital literacy"
    ],
-   "a": 1,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Pradhan Mantri Mudra Yojana — Collateral-free loans for micro enterprises."
+   "answer": 1,
+   "explanation": "Pradhan Mantri Mudra Yojana — Collateral-free loans for micro enterprises.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00080",
-   "q": "Which Indian economist won the Nobel Prize in Economics?",
-   "o": [
+   "question": "Which Indian economist won the Nobel Prize in Economics?",
+   "options": [
     "Third Five Year Plan",
     "Amartya Sen",
     "Mumbai",
     "General Agreement on Tariffs and Trade"
    ],
-   "a": 1,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 1,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00081",
-   "q": "The scheme Smart Cities Mission was launched with which objective?",
-   "o": [
+   "question": "The scheme Smart Cities Mission was launched with which objective?",
+   "options": [
     "Development of horticulture",
     "Integrated infrastructure planning platform",
     "All-weather roads for rural areas",
     "Sustainable and citizen friendly urban development"
    ],
-   "a": 3,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Smart Cities Mission — Sustainable and citizen friendly urban development."
+   "answer": 3,
+   "explanation": "Smart Cities Mission — Sustainable and citizen friendly urban development.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00082",
-   "q": "What is Net National Product divided by population called?",
-   "o": [
+   "question": "What is Net National Product divided by population called?",
+   "options": [
     "Urjit Patel Committee",
     "A price at which the government buys crops from farmers",
     "1991",
     "Per capita income"
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00083",
-   "q": "The scheme Atal Pension Yojana was launched with which objective?",
-   "o": [
+   "question": "The scheme Atal Pension Yojana was launched with which objective?",
+   "options": [
     "Pension for workers in the unorganised sector",
     "Skill certification of youth",
     "Free food grains to the poor",
     "Digital health records and health infrastructure"
    ],
-   "a": 0,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Atal Pension Yojana — Pension for workers in the unorganised sector."
+   "answer": 0,
+   "explanation": "Atal Pension Yojana — Pension for workers in the unorganised sector.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00084",
-   "q": "Which is the apex bank of India?",
-   "o": [
+   "question": "Which is the apex bank of India?",
+   "options": [
     "Federal Reserve",
     "GST",
     "Pradhan Mantri Mudra Yojana",
     "Reserve Bank of India"
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00085",
-   "q": "The scheme FAME India Scheme was launched with which objective?",
-   "o": [
+   "question": "The scheme FAME India Scheme was launched with which objective?",
+   "options": [
     "Promotion of electric and hybrid vehicles",
     "Credit facility for farmers",
     "Incentives to boost manufacturing across sectors",
     "Day care facilities for working mothers"
    ],
-   "a": 0,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "FAME India Scheme — Promotion of electric and hybrid vehicles."
+   "answer": 0,
+   "explanation": "FAME India Scheme — Promotion of electric and hybrid vehicles.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00086",
-   "q": "Which bank was created from the Imperial Bank of India?",
-   "o": [
+   "question": "Which bank was created from the Imperial Bank of India?",
+   "options": [
     "1982",
     "Verghese Kurien",
     "State Bank of India",
     "Karl Marx"
    ],
-   "a": 2,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 2,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00087",
-   "q": "The scheme PM Vishwakarma Yojana was launched with which objective?",
-   "o": [
+   "question": "The scheme PM Vishwakarma Yojana was launched with which objective?",
+   "options": [
     "Support to traditional artisans and craftspeople",
     "Safety and empowerment of women",
     "Day care facilities for working mothers",
     "Guaranteed wage employment in rural areas"
    ],
-   "a": 0,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "PM Vishwakarma Yojana — Support to traditional artisans and craftspeople."
+   "answer": 0,
+   "explanation": "PM Vishwakarma Yojana — Support to traditional artisans and craftspeople.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00088",
-   "q": "Where is the headquarters of the New Development Bank?",
-   "o": [
+   "question": "Where is the headquarters of the New Development Bank?",
+   "options": [
     "Shanghai",
     "D. Udaya Kumar",
     "1992",
     "TRAI"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00089",
-   "q": "The scheme Digital India was launched with which objective?",
-   "o": [
+   "question": "The scheme Digital India was launched with which objective?",
+   "options": [
     "Self-reliance in oilseed production",
     "Digital delivery of services and digital literacy",
     "Promoting manufacturing and investment in India",
     "Health insurance cover of five lakh rupees per family"
    ],
-   "a": 1,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Digital India — Digital delivery of services and digital literacy."
+   "answer": 1,
+   "explanation": "Digital India — Digital delivery of services and digital literacy.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00090",
-   "q": "Which currency is used by most countries of the European Union?",
-   "o": [
+   "question": "Which currency is used by most countries of the European Union?",
+   "options": [
     "Euro",
     "2017",
     "Customs duty",
     "Narasimham Committee"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00091",
-   "q": "The scheme Make in India was launched with which objective?",
-   "o": [
+   "question": "The scheme Make in India was launched with which objective?",
+   "options": [
     "Sustainable and citizen friendly urban development",
     "Soil testing and nutrient recommendations",
     "Promoting manufacturing and investment in India",
     "Cleaning and conservation of the Ganga"
    ],
-   "a": 2,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Make in India — Promoting manufacturing and investment in India."
+   "answer": 2,
+   "explanation": "Make in India — Promoting manufacturing and investment in India.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00092",
-   "q": "Who is known as the father of modern economics?",
-   "o": [
+   "question": "Who is known as the father of modern economics?",
+   "options": [
     "Adam Smith",
     "Unified Payments Interface",
     "Goods and Services Tax",
     "Bank rate"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00093",
-   "q": "The scheme Ayushman Bharat Vay Vandana Card was launched with which objective?",
-   "o": [
+   "question": "The scheme Ayushman Bharat Vay Vandana Card was launched with which objective?",
+   "options": [
     "Crop insurance for farmers",
     "Extension of free LPG connections to migrant families",
     "Free health cover for senior citizens above seventy",
     "Portable food entitlements across states"
    ],
-   "a": 2,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Ayushman Bharat Vay Vandana Card — Free health cover for senior citizens above seventy."
+   "answer": 2,
+   "explanation": "Ayushman Bharat Vay Vandana Card — Free health cover for senior citizens above seventy.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00094",
-   "q": "In which year was the Bombay Stock Exchange established?",
-   "o": [
+   "question": "In which year was the Bombay Stock Exchange established?",
+   "options": [
     "1875",
     "NITI Aayog",
     "Euro",
     "Rupee symbol"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00095",
-   "q": "The scheme Ayushman Bharat was launched with which objective?",
-   "o": [
+   "question": "The scheme Ayushman Bharat was launched with which objective?",
+   "options": [
     "Promoting startups and innovation",
     "Cooperative development of the dairy sector",
     "Development of tribal villages",
     "Health insurance cover of five lakh rupees per family"
    ],
-   "a": 3,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Ayushman Bharat — Health insurance cover of five lakh rupees per family."
+   "answer": 3,
+   "explanation": "Ayushman Bharat — Health insurance cover of five lakh rupees per family.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00096",
-   "q": "Which committee recommended the monetary policy framework in India?",
-   "o": [
+   "question": "Which committee recommended the monetary policy framework in India?",
+   "options": [
     "Income inequality",
     "101st Amendment",
     "People's Bank of China",
     "Urjit Patel Committee"
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00097",
-   "q": "The scheme Pradhan Mantri Jan Dhan Yojana was launched with which objective?",
-   "o": [
+   "question": "The scheme Pradhan Mantri Jan Dhan Yojana was launched with which objective?",
+   "options": [
     "Financial inclusion through zero balance bank accounts",
     "Loans to women and scheduled caste entrepreneurs",
     "Income support of six thousand rupees to small farmers",
     "Development of horticulture"
    ],
-   "a": 0,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Pradhan Mantri Jan Dhan Yojana — Financial inclusion through zero balance bank accounts."
+   "answer": 0,
+   "explanation": "Pradhan Mantri Jan Dhan Yojana — Financial inclusion through zero balance bank accounts.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00098",
-   "q": "Which mission promotes manufacturing in India?",
-   "o": [
+   "question": "Which mission promotes manufacturing in India?",
+   "options": [
     "1951",
     "Make in India",
     "General Agreement on Tariffs and Trade",
     "Silver Revolution"
    ],
-   "a": 1,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 1,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00099",
-   "q": "The scheme India Semiconductor Mission was launched with which objective?",
-   "o": [
+   "question": "The scheme India Semiconductor Mission was launched with which objective?",
+   "options": [
     "Promotion of electric and hybrid vehicles",
     "Digital health ecosystem for India",
     "Free LPG connections to women from poor households",
     "Building a semiconductor ecosystem in India"
    ],
-   "a": 3,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "India Semiconductor Mission — Building a semiconductor ecosystem in India."
+   "answer": 3,
+   "explanation": "India Semiconductor Mission — Building a semiconductor ecosystem in India.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00100",
-   "q": "Which bank is known as the BRICS bank?",
-   "o": [
+   "question": "Which bank is known as the BRICS bank?",
+   "options": [
     "Privatisation",
     "CACP",
     "Payment bank",
     "New Development Bank"
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00101",
-   "q": "The scheme Soil Health Card Scheme was launched with which objective?",
-   "o": [
+   "question": "The scheme Soil Health Card Scheme was launched with which objective?",
+   "options": [
     "Working capital loans for street vendors",
     "Incentives to boost manufacturing across sectors",
     "Health insurance cover of five lakh rupees per family",
     "Soil testing and nutrient recommendations"
    ],
-   "a": 3,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Soil Health Card Scheme — Soil testing and nutrient recommendations."
+   "answer": 3,
+   "explanation": "Soil Health Card Scheme — Soil testing and nutrient recommendations.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00102",
-   "q": "What is the interest rate at which banks lend to their best customers called?",
-   "o": [
+   "question": "What is the interest rate at which banks lend to their best customers called?",
+   "options": [
     "Special Drawing Rights",
     "Prime lending rate",
     "Adam Smith",
     "Four"
    ],
-   "a": 1,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 1,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00103",
-   "q": "The scheme Golden Revolution was launched with which objective?",
-   "o": [
+   "question": "The scheme Golden Revolution was launched with which objective?",
+   "options": [
     "Extension of free LPG connections to migrant families",
     "Development of horticulture",
     "Welfare and education of the girl child",
     "Promotion of electric and hybrid vehicles"
    ],
-   "a": 1,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Golden Revolution — Development of horticulture."
+   "answer": 1,
+   "explanation": "Golden Revolution — Development of horticulture.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00104",
-   "q": "Which body decides monetary policy in India?",
-   "o": [
+   "question": "Which body decides monetary policy in India?",
+   "options": [
     "Monopoly",
     "Pradhan Mantri Mudra Yojana",
     "Microeconomics",
     "Monetary Policy Committee"
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00105",
-   "q": "The scheme Pradhan Mantri Kisan Samman Nidhi was launched with which objective?",
-   "o": [
+   "question": "The scheme Pradhan Mantri Kisan Samman Nidhi was launched with which objective?",
+   "options": [
     "Income support of six thousand rupees to small farmers",
     "Portable food entitlements across states",
     "Skill certification of youth",
     "Housing for all"
    ],
-   "a": 0,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Pradhan Mantri Kisan Samman Nidhi — Income support of six thousand rupees to small farmers."
+   "answer": 0,
+   "explanation": "Pradhan Mantri Kisan Samman Nidhi — Income support of six thousand rupees to small farmers.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00106",
-   "q": "What is a sustained fall in the general price level called?",
-   "o": [
+   "question": "What is a sustained fall in the general price level called?",
+   "options": [
     "1992",
     "2010",
     "Deflation",
     "A price at which the government buys crops from farmers"
    ],
-   "a": 2,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 2,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00107",
-   "q": "The scheme Beti Bachao Beti Padhao was launched with which objective?",
-   "o": [
+   "question": "The scheme Beti Bachao Beti Padhao was launched with which objective?",
+   "options": [
     "Incentives to boost manufacturing across sectors",
     "Welfare and education of the girl child",
     "Upgraded health and wellness centres",
     "Free health cover for senior citizens above seventy"
    ],
-   "a": 1,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Beti Bachao Beti Padhao — Welfare and education of the girl child."
+   "answer": 1,
+   "explanation": "Beti Bachao Beti Padhao — Welfare and education of the girl child.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00108",
-   "q": "In which year was The Wealth of Nations published?",
-   "o": [
+   "question": "In which year was The Wealth of Nations published?",
+   "options": [
     "Services sector",
     "1776",
     "C. D. Deshmukh",
     "US Dollar"
    ],
-   "a": 1,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 1,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00109",
-   "q": "The scheme Yellow Revolution was launched with which objective?",
-   "o": [
+   "question": "The scheme Yellow Revolution was launched with which objective?",
+   "options": [
     "Welfare and education of the girl child",
     "Emergency relief during the COVID-19 pandemic",
     "Portable food entitlements across states",
     "Self-reliance in oilseed production"
    ],
-   "a": 3,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Yellow Revolution — Self-reliance in oilseed production."
+   "answer": 3,
+   "explanation": "Yellow Revolution — Self-reliance in oilseed production.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00110",
-   "q": "Who was the first Indian Governor of the Reserve Bank of India?",
-   "o": [
+   "question": "Who was the first Indian Governor of the Reserve Bank of India?",
+   "options": [
     "C. D. Deshmukh",
     "Oligopoly",
     "Pradhan Mantri Mudra Yojana",
     "Statutory Liquidity Ratio"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00111",
-   "q": "The scheme Sukanya Samriddhi Yojana was launched with which objective?",
-   "o": [
+   "question": "The scheme Sukanya Samriddhi Yojana was launched with which objective?",
+   "options": [
     "Development of tribal villages",
     "Housing for all",
     "Income support of six thousand rupees to small farmers",
     "Small savings scheme for the girl child"
    ],
-   "a": 3,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Sukanya Samriddhi Yojana — Small savings scheme for the girl child."
+   "answer": 3,
+   "explanation": "Sukanya Samriddhi Yojana — Small savings scheme for the girl child.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00112",
-   "q": "Which body replaced the Planning Commission of India?",
-   "o": [
+   "question": "Which body replaced the Planning Commission of India?",
+   "options": [
     "Blue Revolution",
     "Consolidated Fund of India",
     "NITI Aayog",
     "Fiscal deficit"
    ],
-   "a": 2,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 2,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00113",
-   "q": "The scheme Blue Revolution was launched with which objective?",
-   "o": [
+   "question": "The scheme Blue Revolution was launched with which objective?",
+   "options": [
     "Cooperative development of the dairy sector",
     "Safety and empowerment of women",
     "Development of fisheries and aquaculture",
     "Guaranteed wage employment in rural areas"
    ],
-   "a": 2,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Blue Revolution — Development of fisheries and aquaculture."
+   "answer": 2,
+   "explanation": "Blue Revolution — Development of fisheries and aquaculture.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00114",
-   "q": "Which scheme provides loans to micro-enterprises in India?",
-   "o": [
+   "question": "Which scheme provides loans to micro-enterprises in India?",
+   "options": [
     "Mumbai",
     "Consumer Price Index",
     "Pradhan Mantri Mudra Yojana",
     "State Bank of India"
    ],
-   "a": 2,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 2,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00115",
-   "q": "The scheme Pradhan Mantri Krishi Sinchayee Yojana was launched with which objective?",
-   "o": [
+   "question": "The scheme Pradhan Mantri Krishi Sinchayee Yojana was launched with which objective?",
+   "options": [
     "Portable food entitlements across states",
     "Day care facilities for working mothers",
     "Irrigation coverage and water use efficiency",
     "Cleaning and conservation of the Ganga"
    ],
-   "a": 2,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Pradhan Mantri Krishi Sinchayee Yojana — Irrigation coverage and water use efficiency."
+   "answer": 2,
+   "explanation": "Pradhan Mantri Krishi Sinchayee Yojana — Irrigation coverage and water use efficiency.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00116",
-   "q": "In which year was the rupee symbol adopted?",
-   "o": [
+   "question": "In which year was the rupee symbol adopted?",
+   "options": [
     "2010",
     "Special Drawing Rights",
     "Savings bank rate",
     "Fiscal federalism"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00117",
-   "q": "The scheme National Green Hydrogen Mission was launched with which objective?",
-   "o": [
+   "question": "The scheme National Green Hydrogen Mission was launched with which objective?",
+   "options": [
     "Incentives to boost manufacturing across sectors",
     "Development of tribal villages",
     "Production and use of green hydrogen",
     "Promoting manufacturing and investment in India"
    ],
-   "a": 2,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "National Green Hydrogen Mission — Production and use of green hydrogen."
+   "answer": 2,
+   "explanation": "National Green Hydrogen Mission — Production and use of green hydrogen.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00118",
-   "q": "How many major banks were nationalised in India in 1969?",
-   "o": [
+   "question": "How many major banks were nationalised in India in 1969?",
+   "options": [
     "US Dollar",
     "1776",
     "Balance of payments",
     "Fourteen"
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00119",
-   "q": "The scheme Pradhan Mantri Gram Sadak Yojana was launched with which objective?",
-   "o": [
+   "question": "The scheme Pradhan Mantri Gram Sadak Yojana was launched with which objective?",
+   "options": [
     "All-weather roads for rural areas",
     "Promoting manufacturing and investment in India",
     "Digital delivery of services and digital literacy",
     "Free LPG connections to women from poor households"
    ],
-   "a": 0,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Pradhan Mantri Gram Sadak Yojana — All-weather roads for rural areas."
+   "answer": 0,
+   "explanation": "Pradhan Mantri Gram Sadak Yojana — All-weather roads for rural areas.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00120",
-   "q": "Which is the insurance company set up by the Government of India in 1956?",
-   "o": [
+   "question": "Which is the insurance company set up by the Government of India in 1956?",
+   "options": [
     "Life Insurance Corporation of India",
     "1935",
     "SEBI",
     "Manmohan Singh"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00121",
-   "q": "The scheme Pradhan Mantri Garib Kalyan Anna Yojana was launched with which objective?",
-   "o": [
+   "question": "The scheme Pradhan Mantri Garib Kalyan Anna Yojana was launched with which objective?",
+   "options": [
     "Free food grains to the poor",
     "Rooftop solar power for households",
     "Loans to women and scheduled caste entrepreneurs",
     "Working capital loans for street vendors"
    ],
-   "a": 0,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Pradhan Mantri Garib Kalyan Anna Yojana — Free food grains to the poor."
+   "answer": 0,
+   "explanation": "Pradhan Mantri Garib Kalyan Anna Yojana — Free food grains to the poor.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00122",
-   "q": "Which body regulates the pension sector in India?",
-   "o": [
+   "question": "Which body regulates the pension sector in India?",
+   "options": [
     "Abolition of intermediaries",
     "PFRDA",
     "Reverse repo rate",
     "NITI Aayog"
    ],
-   "a": 1,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 1,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00123",
-   "q": "The scheme National Education Policy 2020 was launched with which objective?",
-   "o": [
+   "question": "The scheme National Education Policy 2020 was launched with which objective?",
+   "options": [
     "Working capital loans for street vendors",
     "Reform of school and higher education in India",
     "Extension of free LPG connections to migrant families",
     "Development of tribal villages"
    ],
-   "a": 1,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "National Education Policy 2020 — Reform of school and higher education in India."
+   "answer": 1,
+   "explanation": "National Education Policy 2020 — Reform of school and higher education in India.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00124",
-   "q": "Which is the most widely traded currency in the world?",
-   "o": [
+   "question": "Which is the most widely traded currency in the world?",
+   "options": [
     "US Dollar",
     "Green Revolution",
     "Bank rate",
     "Prime Minister of India"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00125",
-   "q": "The scheme National Creche Scheme was launched with which objective?",
-   "o": [
+   "question": "The scheme National Creche Scheme was launched with which objective?",
+   "options": [
     "Rooftop solar power for households",
     "Day care facilities for working mothers",
     "Self-reliance in oilseed production",
     "Income support of six thousand rupees to small farmers"
    ],
-   "a": 1,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "National Creche Scheme — Day care facilities for working mothers."
+   "answer": 1,
+   "explanation": "National Creche Scheme — Day care facilities for working mothers.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00126",
-   "q": "Which index measures wholesale price changes in India?",
-   "o": [
+   "question": "Which index measures wholesale price changes in India?",
+   "options": [
     "Adam Smith",
     "Bank of Japan",
     "Wholesale Price Index",
     "Twelfth Five Year Plan"
    ],
-   "a": 2,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 2,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00127",
-   "q": "The scheme Startup India was launched with which objective?",
-   "o": [
+   "question": "The scheme Startup India was launched with which objective?",
+   "options": [
     "Incentives to boost manufacturing across sectors",
     "All-weather roads for rural areas",
     "Free food grains to the poor",
     "Promoting startups and innovation"
    ],
-   "a": 3,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Startup India — Promoting startups and innovation."
+   "answer": 3,
+   "explanation": "Startup India — Promoting startups and innovation.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00128",
-   "q": "Which scheme provides subsidised food grains to the poor?",
-   "o": [
+   "question": "Which scheme provides subsidised food grains to the poor?",
+   "options": [
     "Bank rate",
     "Reserve Bank of India",
     "Public Distribution System",
     "1951"
    ],
-   "a": 2,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 2,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00129",
-   "q": "The scheme Mission Indradhanush was launched with which objective?",
-   "o": [
+   "question": "The scheme Mission Indradhanush was launched with which objective?",
+   "options": [
     "Building a semiconductor ecosystem in India",
     "Universal immunisation of children",
     "Self-reliance in oilseed production",
     "Soil testing and nutrient recommendations"
    ],
-   "a": 1,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Mission Indradhanush — Universal immunisation of children."
+   "answer": 1,
+   "explanation": "Mission Indradhanush — Universal immunisation of children.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00130",
-   "q": "Who is the chairman of NITI Aayog?",
-   "o": [
+   "question": "Who is the chairman of NITI Aayog?",
+   "options": [
     "General Agreement on Tariffs and Trade",
     "Prime Minister of India",
     "Karl Marx",
     "Kandla"
    ],
-   "a": 1,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 1,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00131",
-   "q": "The scheme Production Linked Incentive Scheme was launched with which objective?",
-   "o": [
+   "question": "The scheme Production Linked Incentive Scheme was launched with which objective?",
+   "options": [
     "Soil testing and nutrient recommendations",
     "Incentives to boost manufacturing across sectors",
     "Collateral-free loans for micro enterprises",
     "Development of tribal villages"
    ],
-   "a": 1,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Production Linked Incentive Scheme — Incentives to boost manufacturing across sectors."
+   "answer": 1,
+   "explanation": "Production Linked Incentive Scheme — Incentives to boost manufacturing across sectors.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00132",
-   "q": "What is the record of all economic transactions of a country called?",
-   "o": [
+   "question": "What is the record of all economic transactions of a country called?",
+   "options": [
     "Balance of payments",
     "1944",
     "Amartya Sen",
     "Balance of trade"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00133",
-   "q": "The scheme National Mission on Edible Oils was launched with which objective?",
-   "o": [
+   "question": "The scheme National Mission on Edible Oils was launched with which objective?",
+   "options": [
     "Development of horticulture",
     "Self-reliance in edible oil production",
     "Piped drinking water to every rural household",
     "Promoting manufacturing and investment in India"
    ],
-   "a": 1,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "National Mission on Edible Oils — Self-reliance in edible oil production."
+   "answer": 1,
+   "explanation": "National Mission on Edible Oils — Self-reliance in edible oil production.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00134",
-   "q": "Which body administers the collection of direct taxes in India?",
-   "o": [
+   "question": "Which body administers the collection of direct taxes in India?",
+   "options": [
     "Central Board of Direct Taxes",
     "Washington, D.C.",
     "1949",
     "New Development Bank"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00135",
-   "q": "The scheme Pradhan Mantri Kaushal Vikas Yojana was launched with which objective?",
-   "o": [
+   "question": "The scheme Pradhan Mantri Kaushal Vikas Yojana was launched with which objective?",
+   "options": [
     "Crop insurance for farmers",
     "Welfare and education of the girl child",
     "Promoting manufacturing and investment in India",
     "Skill certification of youth"
    ],
-   "a": 3,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Pradhan Mantri Kaushal Vikas Yojana — Skill certification of youth."
+   "answer": 3,
+   "explanation": "Pradhan Mantri Kaushal Vikas Yojana — Skill certification of youth.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00136",
-   "q": "What is the gap between government expenditure and revenue called?",
-   "o": [
+   "question": "What is the gap between government expenditure and revenue called?",
+   "options": [
     "Food Corporation of India",
     "Urjit Patel Committee",
     "Fiscal deficit",
     "Manila"
    ],
-   "a": 2,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 2,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00137",
-   "q": "The scheme Poshan Abhiyaan was launched with which objective?",
-   "o": [
+   "question": "The scheme Poshan Abhiyaan was launched with which objective?",
+   "options": [
     "Rapid transformation of backward districts",
     "Improving nutrition among children and women",
     "Digital delivery of services and digital literacy",
     "Day care facilities for working mothers"
    ],
-   "a": 1,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Poshan Abhiyaan — Improving nutrition among children and women."
+   "answer": 1,
+   "explanation": "Poshan Abhiyaan — Improving nutrition among children and women.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00138",
-   "q": "Which is a direct tax in India?",
-   "o": [
+   "question": "Which is a direct tax in India?",
+   "options": [
     "Fourteen",
     "2017",
     "Prime Minister of India",
     "Income tax"
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00139",
-   "q": "The scheme PM SVANidhi was launched with which objective?",
-   "o": [
+   "question": "The scheme PM SVANidhi was launched with which objective?",
+   "options": [
     "Improving nutrition among children and women",
     "Working capital loans for street vendors",
     "Upgraded health and wellness centres",
     "Production and use of green hydrogen"
    ],
-   "a": 1,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "PM SVANidhi — Working capital loans for street vendors."
+   "answer": 1,
+   "explanation": "PM SVANidhi — Working capital loans for street vendors.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00140",
-   "q": "What is the rate at which the RBI absorbs liquidity from banks called?",
-   "o": [
+   "question": "What is the rate at which the RBI absorbs liquidity from banks called?",
+   "options": [
     "Reverse repo rate",
     "Manila",
     "Beijing",
     "Central Board of Indirect Taxes and Customs"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00141",
-   "q": "The scheme Ayushman Bharat Digital Mission was launched with which objective?",
-   "o": [
+   "question": "The scheme Ayushman Bharat Digital Mission was launched with which objective?",
+   "options": [
     "Support to traditional artisans and craftspeople",
     "Crop insurance for farmers",
     "Safety and empowerment of women",
     "Digital health records and health infrastructure"
    ],
-   "a": 3,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Ayushman Bharat Digital Mission — Digital health records and health infrastructure."
+   "answer": 3,
+   "explanation": "Ayushman Bharat Digital Mission — Digital health records and health infrastructure.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00142",
-   "q": "Which article provides for the Finance Commission?",
-   "o": [
+   "question": "Which article provides for the Finance Commission?",
+   "options": [
     "Abolition of intermediaries",
     "Deposit insurance",
     "Small finance bank",
     "Article 280"
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00143",
-   "q": "The scheme Stand Up India was launched with which objective?",
-   "o": [
+   "question": "The scheme Stand Up India was launched with which objective?",
+   "options": [
     "Digital health ecosystem for India",
     "Portable food entitlements across states",
     "Sustainable and citizen friendly urban development",
     "Loans to women and scheduled caste entrepreneurs"
    ],
-   "a": 3,
-   "t": "Schemes and Programmes",
-   "l": 2,
-   "s": "generated",
-   "e": "Stand Up India — Loans to women and scheduled caste entrepreneurs."
+   "answer": 3,
+   "explanation": "Stand Up India — Loans to women and scheduled caste entrepreneurs.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00144",
-   "q": "What is a tax that takes a larger share of income from the poor called?",
-   "o": [
+   "question": "What is a tax that takes a larger share of income from the poor called?",
+   "options": [
     "Primary deficit",
     "Rupee symbol",
     "Union Finance Minister",
     "Regressive tax"
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00145",
-   "q": "Which scheme is described as: Housing for all?",
-   "o": [
+   "question": "Which scheme is described as: Housing for all?",
+   "options": [
     "PM Surya Ghar Muft Bijli Yojana",
     "Jal Jeevan Mission",
     "Pradhan Mantri Awas Yojana",
     "Sukanya Samriddhi Yojana"
    ],
-   "a": 2,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Housing for all describes Pradhan Mantri Awas Yojana."
+   "answer": 2,
+   "explanation": "Housing for all describes Pradhan Mantri Awas Yojana.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "economics-00146",
-   "q": "Which scheme provides a pension to unorganised sector workers in India?",
-   "o": [
+   "question": "Which scheme provides a pension to unorganised sector workers in India?",
+   "options": [
     "Income tax",
     "State Bank of India",
     "Atal Pension Yojana",
     "Lending rate"
    ],
-   "a": 2,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 2,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00147",
-   "q": "Which scheme is described as: India's central bank digital currency pilot?",
-   "o": [
+   "question": "Which scheme is described as: India's central bank digital currency pilot?",
+   "options": [
     "India Semiconductor Mission",
     "e-NAM",
     "Green Revolution",
     "e-Rupee"
    ],
-   "a": 3,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "India's central bank digital currency pilot describes e-Rupee."
+   "answer": 3,
+   "explanation": "India's central bank digital currency pilot describes e-Rupee.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "economics-00148",
-   "q": "Which body recommends minimum support prices in India?",
-   "o": [
+   "question": "Which body recommends minimum support prices in India?",
+   "options": [
     "NPCI",
     "2016",
     "CACP",
     "5 per cent"
    ],
-   "a": 2,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 2,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00149",
-   "q": "Which scheme is described as: Credit facility for farmers?",
-   "o": [
+   "question": "Which scheme is described as: Credit facility for farmers?",
+   "options": [
     "White Revolution 2.0",
     "Green Revolution",
     "National Digital Health Mission",
     "Kisan Credit Card"
    ],
-   "a": 3,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Credit facility for farmers describes Kisan Credit Card."
+   "answer": 3,
+   "explanation": "Credit facility for farmers describes Kisan Credit Card.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "economics-00150",
-   "q": "Which was India's first export processing zone?",
-   "o": [
+   "question": "Which was India's first export processing zone?",
+   "options": [
     "Agriculture and allied activities",
     "Services",
     "Kandla",
     "Inflation"
    ],
-   "a": 2,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 2,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00151",
-   "q": "Which scheme is described as: Piped drinking water to every rural household?",
-   "o": [
+   "question": "Which scheme is described as: Piped drinking water to every rural household?",
+   "options": [
     "PM Gati Shakti",
     "Jal Jeevan Mission",
     "Rashtriya Gokul Mission",
     "Ujjwala 2.0"
    ],
-   "a": 1,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Piped drinking water to every rural household describes Jal Jeevan Mission."
+   "answer": 1,
+   "explanation": "Piped drinking water to every rural household describes Jal Jeevan Mission.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "economics-00152",
-   "q": "In which year was the Reserve Bank of India established?",
-   "o": [
+   "question": "In which year was the Reserve Bank of India established?",
+   "options": [
     "1935",
     "NABARD",
     "Microeconomics",
     "Net National Product"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00153",
-   "q": "Which scheme is described as: Reform of school and higher education in India?",
-   "o": [
+   "question": "Which scheme is described as: Reform of school and higher education in India?",
+   "options": [
     "Pradhan Mantri Matru Vandana Yojana",
     "Pradhan Mantri Ujjwala Yojana",
     "National Education Policy 2020",
     "Ayushman Bharat"
    ],
-   "a": 2,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Reform of school and higher education in India describes National Education Policy 2020."
+   "answer": 2,
+   "explanation": "Reform of school and higher education in India describes National Education Policy 2020.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "economics-00154",
-   "q": "What is the maximum deposit allowed per customer in a payment bank?",
-   "o": [
+   "question": "What is the maximum deposit allowed per customer in a payment bank?",
+   "options": [
     "Article 279A",
     "Non-performing asset",
     "One lakh rupees",
     "Reserve Bank of India"
    ],
-   "a": 2,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 2,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00155",
-   "q": "Which scheme is described as: Support to traditional artisans and craftspeople?",
-   "o": [
+   "question": "Which scheme is described as: Support to traditional artisans and craftspeople?",
+   "options": [
     "PM Vishwakarma Yojana",
     "National Green Hydrogen Mission",
     "Mission Shakti",
     "Ayushman Bharat Digital Mission"
    ],
-   "a": 0,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Support to traditional artisans and craftspeople describes PM Vishwakarma Yojana."
+   "answer": 0,
+   "explanation": "Support to traditional artisans and craftspeople describes PM Vishwakarma Yojana.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "economics-00156",
-   "q": "Which act governs the issue of banknotes in India?",
-   "o": [
+   "question": "Which act governs the issue of banknotes in India?",
+   "options": [
     "Gross National Product",
     "RBI Act, 1934",
     "2017",
     "Union Finance Minister"
    ],
-   "a": 1,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 1,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00157",
-   "q": "Which scheme is described as: Cash incentive for pregnant and lactating mothers?",
-   "o": [
+   "question": "Which scheme is described as: Cash incentive for pregnant and lactating mothers?",
+   "options": [
     "Yellow Revolution",
     "One Nation One Ration Card",
     "Pradhan Mantri Gram Sadak Yojana",
     "Pradhan Mantri Matru Vandana Yojana"
    ],
-   "a": 3,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Cash incentive for pregnant and lactating mothers describes Pradhan Mantri Matru Vandana Yojana."
+   "answer": 3,
+   "explanation": "Cash incentive for pregnant and lactating mothers describes Pradhan Mantri Matru Vandana Yojana.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "economics-00158",
-   "q": "What is the cost of the next best alternative forgone called?",
-   "o": [
+   "question": "What is the cost of the next best alternative forgone called?",
+   "options": [
     "Microeconomics",
     "Per capita income",
     "Insolvency and Bankruptcy Code, 2016",
     "Opportunity cost"
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00159",
-   "q": "Which scheme is described as: Day care facilities for working mothers?",
-   "o": [
+   "question": "Which scheme is described as: Day care facilities for working mothers?",
+   "options": [
     "Sukanya Samriddhi Yojana",
     "Smart Cities Mission",
     "Pradhan Mantri Mudra Yojana",
     "National Creche Scheme"
    ],
-   "a": 3,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Day care facilities for working mothers describes National Creche Scheme."
+   "answer": 3,
+   "explanation": "Day care facilities for working mothers describes National Creche Scheme.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "economics-00160",
-   "q": "What is a loan that is not being repaid called?",
-   "o": [
+   "question": "What is a loan that is not being repaid called?",
+   "options": [
     "Bank of Japan",
     "Statutory Liquidity Ratio",
     "Make in India",
     "Non-performing asset"
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00161",
-   "q": "Which scheme is described as: Self-reliance in oilseed production?",
-   "o": [
+   "question": "Which scheme is described as: Self-reliance in oilseed production?",
+   "options": [
     "PM Janjatiya Unnat Gram Abhiyan",
     "Yellow Revolution",
     "Atal Pension Yojana",
     "National Digital Health Mission"
    ],
-   "a": 1,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Self-reliance in oilseed production describes Yellow Revolution."
+   "answer": 1,
+   "explanation": "Self-reliance in oilseed production describes Yellow Revolution.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "economics-00162",
-   "q": "Which type of bank accepts deposits but cannot lend?",
-   "o": [
+   "question": "Which type of bank accepts deposits but cannot lend?",
+   "options": [
     "Gross Domestic Product",
     "Make in India",
     "Services sector",
     "Payment bank"
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00163",
-   "q": "Which scheme is described as: Food grain self-sufficiency?",
-   "o": [
+   "question": "Which scheme is described as: Food grain self-sufficiency?",
+   "options": [
     "Green Revolution",
     "Pradhan Mantri Fasal Bima Yojana",
     "e-NAM",
     "Blue Revolution"
    ],
-   "a": 0,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Food grain self-sufficiency describes Green Revolution."
+   "answer": 0,
+   "explanation": "Food grain self-sufficiency describes Green Revolution.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "economics-00164",
-   "q": "Which agreement preceded the World Trade Organization?",
-   "o": [
+   "question": "Which agreement preceded the World Trade Organization?",
+   "options": [
     "Verghese Kurien",
     "Payment bank",
     "Excise duty",
     "General Agreement on Tariffs and Trade"
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00165",
-   "q": "Which scheme is described as: Safety and empowerment of women?",
-   "o": [
+   "question": "Which scheme is described as: Safety and empowerment of women?",
+   "options": [
     "Mission Shakti",
     "National Green Hydrogen Mission",
     "PM CARES Fund",
     "One Nation One Ration Card"
    ],
-   "a": 0,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Safety and empowerment of women describes Mission Shakti."
+   "answer": 0,
+   "explanation": "Safety and empowerment of women describes Mission Shakti.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "economics-00166",
-   "q": "In which year was the Reserve Bank of India nationalised?",
-   "o": [
+   "question": "In which year was the Reserve Bank of India nationalised?",
+   "options": [
     "Silver Fibre Revolution",
     "Adam Smith",
     "Small finance bank",
     "1949"
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00167",
-   "q": "Which scheme is described as: Promotion of electric and hybrid vehicles?",
-   "o": [
+   "question": "Which scheme is described as: Promotion of electric and hybrid vehicles?",
+   "options": [
     "e-NAM",
     "FAME India Scheme",
     "Jal Jeevan Mission",
     "National Digital Health Mission"
    ],
-   "a": 1,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Promotion of electric and hybrid vehicles describes FAME India Scheme."
+   "answer": 1,
+   "explanation": "Promotion of electric and hybrid vehicles describes FAME India Scheme.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "economics-00168",
-   "q": "What is a market with a single seller called?",
-   "o": [
+   "question": "What is a market with a single seller called?",
+   "options": [
     "Monopoly",
     "US Dollar",
     "CACP",
     "1975"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00169",
-   "q": "Which scheme is described as: Development of horticulture?",
-   "o": [
+   "question": "Which scheme is described as: Development of horticulture?",
+   "options": [
     "Golden Revolution",
     "Blue Revolution",
     "Make in India",
     "India Semiconductor Mission"
    ],
-   "a": 0,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Development of horticulture describes Golden Revolution."
+   "answer": 0,
+   "explanation": "Development of horticulture describes Golden Revolution.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "economics-00170",
-   "q": "Who developed the Human Development Index?",
-   "o": [
+   "question": "Who developed the Human Development Index?",
+   "options": [
     "The Wealth of Nations",
     "Mahbub ul Haq",
     "Dumping",
     "Microeconomics"
    ],
-   "a": 1,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 1,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00171",
-   "q": "Which scheme is described as: Cleaning and conservation of the Ganga?",
-   "o": [
+   "question": "Which scheme is described as: Cleaning and conservation of the Ganga?",
+   "options": [
     "Namami Gange",
     "Mahatma Gandhi National Rural Employment Guarantee Scheme",
     "Jal Jeevan Mission",
     "Pradhan Mantri Krishi Sinchayee Yojana"
    ],
-   "a": 0,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Cleaning and conservation of the Ganga describes Namami Gange."
+   "answer": 0,
+   "explanation": "Cleaning and conservation of the Ganga describes Namami Gange.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "economics-00172",
-   "q": "Which type of bank was introduced in India to serve small businesses?",
-   "o": [
+   "question": "Which type of bank was introduced in India to serve small businesses?",
+   "options": [
     "State Bank of India",
     "Small finance bank",
     "Mumbai",
     "PFRDA"
    ],
-   "a": 1,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 1,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00173",
-   "q": "Which scheme is described as: Collateral-free loans for micro enterprises?",
-   "o": [
+   "question": "Which scheme is described as: Collateral-free loans for micro enterprises?",
+   "options": [
     "Pradhan Mantri Mudra Yojana",
     "Soil Health Card Scheme",
     "India Semiconductor Mission",
     "e-NAM"
    ],
-   "a": 0,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Collateral-free loans for micro enterprises describes Pradhan Mantri Mudra Yojana."
+   "answer": 0,
+   "explanation": "Collateral-free loans for micro enterprises describes Pradhan Mantri Mudra Yojana.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "economics-00174",
-   "q": "Where is the headquarters of the Reserve Bank of India?",
-   "o": [
+   "question": "Where is the headquarters of the Reserve Bank of India?",
+   "options": [
     "Statutory Liquidity Ratio",
     "Mumbai",
     "Foreign Direct Investment",
     "Insolvency and Bankruptcy Code, 2016"
    ],
-   "a": 1,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 1,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00175",
-   "q": "Which scheme is described as: Skill certification of youth?",
-   "o": [
+   "question": "Which scheme is described as: Skill certification of youth?",
+   "options": [
     "Ayushman Arogya Mandir",
     "Pradhan Mantri Kaushal Vikas Yojana",
     "Blue Revolution",
     "Digital India"
    ],
-   "a": 1,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Skill certification of youth describes Pradhan Mantri Kaushal Vikas Yojana."
+   "answer": 1,
+   "explanation": "Skill certification of youth describes Pradhan Mantri Kaushal Vikas Yojana.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "economics-00176",
-   "q": "Which revolution is associated with fish production?",
-   "o": [
+   "question": "Which revolution is associated with fish production?",
+   "options": [
     "NITI Aayog",
     "Blue Revolution",
     "Article 280",
     "1975"
    ],
-   "a": 1,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 1,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00177",
-   "q": "Which scheme is described as: Rapid transformation of backward districts?",
-   "o": [
+   "question": "Which scheme is described as: Rapid transformation of backward districts?",
+   "options": [
     "FAME India Scheme",
     "Soil Health Card Scheme",
     "Green Revolution",
     "Aspirational Districts Programme"
    ],
-   "a": 3,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Rapid transformation of backward districts describes Aspirational Districts Programme."
+   "answer": 3,
+   "explanation": "Rapid transformation of backward districts describes Aspirational Districts Programme.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "economics-00178",
-   "q": "What is the insurance scheme for bank deposits in India called?",
-   "o": [
+   "question": "What is the insurance scheme for bank deposits in India called?",
+   "options": [
     "Beijing",
     "Government of India",
     "ICAR",
     "Deposit insurance"
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00179",
-   "q": "Which scheme is described as: Extension of free LPG connections to migrant families?",
-   "o": [
+   "question": "Which scheme is described as: Extension of free LPG connections to migrant families?",
+   "options": [
     "Ujjwala 2.0",
     "PM Janjatiya Unnat Gram Abhiyan",
     "National Digital Health Mission",
     "India Semiconductor Mission"
    ],
-   "a": 0,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Extension of free LPG connections to migrant families describes Ujjwala 2.0."
+   "answer": 0,
+   "explanation": "Extension of free LPG connections to migrant families describes Ujjwala 2.0.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "economics-00180",
-   "q": "Which body is responsible for collecting GST?",
-   "o": [
+   "question": "Which body is responsible for collecting GST?",
+   "options": [
     "Unified Payments Interface",
     "Shanghai",
     "Public Distribution System",
     "GST Council and CBIC"
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00181",
-   "q": "Which scheme is described as: Crop insurance for farmers?",
-   "o": [
+   "question": "Which scheme is described as: Crop insurance for farmers?",
+   "options": [
     "National Digital Health Mission",
     "Pradhan Mantri Krishi Sinchayee Yojana",
     "Ayushman Bharat Digital Mission",
     "Pradhan Mantri Fasal Bima Yojana"
    ],
-   "a": 3,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Crop insurance for farmers describes Pradhan Mantri Fasal Bima Yojana."
+   "answer": 3,
+   "explanation": "Crop insurance for farmers describes Pradhan Mantri Fasal Bima Yojana.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "economics-00182",
-   "q": "Which is the first bank established in India?",
-   "o": [
+   "question": "Which is the first bank established in India?",
+   "options": [
     "2011-12",
     "Bank of Hindustan",
     "State Bank of India",
     "Privatisation"
    ],
-   "a": 1,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 1,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00183",
-   "q": "Which scheme is described as: Self-reliant India initiative?",
-   "o": [
+   "question": "Which scheme is described as: Self-reliant India initiative?",
+   "options": [
     "Pradhan Mantri Jan Dhan Yojana",
     "Atmanirbhar Bharat Abhiyan",
     "Skill India Mission",
     "One Nation One Ration Card"
    ],
-   "a": 1,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Self-reliant India initiative describes Atmanirbhar Bharat Abhiyan."
+   "answer": 1,
+   "explanation": "Self-reliant India initiative describes Atmanirbhar Bharat Abhiyan.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "economics-00184",
-   "q": "In which year was the Goods and Services Tax introduced in India?",
-   "o": [
+   "question": "In which year was the Goods and Services Tax introduced in India?",
+   "options": [
     "1949",
     "2017",
     "Reserve Bank of India",
     "Bank of Baroda"
    ],
-   "a": 1,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 1,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00185",
-   "q": "Which scheme is described as: Building a semiconductor ecosystem in India?",
-   "o": [
+   "question": "Which scheme is described as: Building a semiconductor ecosystem in India?",
+   "options": [
     "Yellow Revolution",
     "Beti Bachao Beti Padhao",
     "Atal Pension Yojana",
     "India Semiconductor Mission"
    ],
-   "a": 3,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Building a semiconductor ecosystem in India describes India Semiconductor Mission."
+   "answer": 3,
+   "explanation": "Building a semiconductor ecosystem in India describes India Semiconductor Mission.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "economics-00186",
-   "q": "Which institution operates retail payment systems like UPI in India?",
-   "o": [
+   "question": "Which institution operates retail payment systems like UPI in India?",
+   "options": [
     "NPCI",
     "Balance of payments",
     "SEBI",
     "Bombay Stock Exchange"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00187",
-   "q": "Which scheme is described as: Welfare and education of the girl child?",
-   "o": [
+   "question": "Which scheme is described as: Welfare and education of the girl child?",
+   "options": [
     "Beti Bachao Beti Padhao",
     "PM Janjatiya Unnat Gram Abhiyan",
     "Smart Cities Mission",
     "Aspirational Districts Programme"
    ],
-   "a": 0,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Welfare and education of the girl child describes Beti Bachao Beti Padhao."
+   "answer": 0,
+   "explanation": "Welfare and education of the girl child describes Beti Bachao Beti Padhao.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "economics-00188",
-   "q": "Which Constitutional amendment introduced GST in India?",
-   "o": [
+   "question": "Which Constitutional amendment introduced GST in India?",
+   "options": [
     "Nifty",
     "Disinvestment",
     "101st Amendment",
     "Bretton Woods Conference"
    ],
-   "a": 2,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 2,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00189",
-   "q": "Which scheme is described as: Promoting startups and innovation?",
-   "o": [
+   "question": "Which scheme is described as: Promoting startups and innovation?",
+   "options": [
     "National Education Policy 2020",
     "PM Surya Ghar Muft Bijli Yojana",
     "Startup India",
     "One Nation One Ration Card"
    ],
-   "a": 2,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Promoting startups and innovation describes Startup India."
+   "answer": 2,
+   "explanation": "Promoting startups and innovation describes Startup India.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "economics-00190",
-   "q": "Which revolution is associated with milk production?",
-   "o": [
+   "question": "Which revolution is associated with milk production?",
+   "options": [
     "Amartya Sen",
     "Repo rate",
     "Minimum reserve system",
     "White Revolution"
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00191",
-   "q": "Which scheme is described as: Online national agriculture market for farmers?",
-   "o": [
+   "question": "Which scheme is described as: Online national agriculture market for farmers?",
+   "options": [
     "e-NAM",
     "Green Revolution",
     "Pradhan Mantri Gram Sadak Yojana",
     "Skill India Mission"
    ],
-   "a": 0,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Online national agriculture market for farmers describes e-NAM."
+   "answer": 0,
+   "explanation": "Online national agriculture market for farmers describes e-NAM.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "economics-00192",
-   "q": "Where is the headquarters of the World Bank?",
-   "o": [
+   "question": "Where is the headquarters of the World Bank?",
+   "options": [
     "Savings bank rate",
     "Manila",
     "Ten",
     "Washington, D.C."
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00193",
-   "q": "Which scheme is described as: Universal immunisation of children?",
-   "o": [
+   "question": "Which scheme is described as: Universal immunisation of children?",
+   "options": [
     "Swachh Bharat Mission",
     "Pradhan Mantri Gram Sadak Yojana",
     "Mission Indradhanush",
     "Make in India"
    ],
-   "a": 2,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Universal immunisation of children describes Mission Indradhanush."
+   "answer": 2,
+   "explanation": "Universal immunisation of children describes Mission Indradhanush.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "economics-00194",
-   "q": "Which corporation provides deposit insurance in India?",
-   "o": [
+   "question": "Which corporation provides deposit insurance in India?",
+   "options": [
     "Minimum reserve system",
     "DICGC",
     "1975",
     "Union Budget"
    ],
-   "a": 1,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 1,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00195",
-   "q": "Which scheme is described as: Conservation and development of indigenous cattle?",
-   "o": [
+   "question": "Which scheme is described as: Conservation and development of indigenous cattle?",
+   "options": [
     "National Digital Health Mission",
     "PM CARES Fund",
     "Rashtriya Gokul Mission",
     "Mission Indradhanush"
    ],
-   "a": 2,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Conservation and development of indigenous cattle describes Rashtriya Gokul Mission."
+   "answer": 2,
+   "explanation": "Conservation and development of indigenous cattle describes Rashtriya Gokul Mission.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "economics-00196",
-   "q": "In which year did SEBI become a statutory body?",
-   "o": [
+   "question": "In which year did SEBI become a statutory body?",
+   "options": [
     "Per capita income",
     "Dumping",
     "1992",
     "Progressive tax"
    ],
-   "a": 2,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 2,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00197",
-   "q": "Which scheme is described as: Free health cover for senior citizens above seventy?",
-   "o": [
+   "question": "Which scheme is described as: Free health cover for senior citizens above seventy?",
+   "options": [
     "National Education Policy 2020",
     "PM Vishwakarma Yojana",
     "Ayushman Bharat Vay Vandana Card",
     "Pradhan Mantri Awas Yojana"
    ],
-   "a": 2,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Free health cover for senior citizens above seventy describes Ayushman Bharat Vay Vandana Card."
+   "answer": 2,
+   "explanation": "Free health cover for senior citizens above seventy describes Ayushman Bharat Vay Vandana Card.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "economics-00198",
-   "q": "Which scheme abolished the zamindari system in India?",
-   "o": [
+   "question": "Which scheme abolished the zamindari system in India?",
+   "options": [
     "Abolition of intermediaries",
     "Adam Smith",
     "Amartya Sen",
     "Reverse repo"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00199",
-   "q": "Which scheme is described as: Development of fisheries and aquaculture?",
-   "o": [
+   "question": "Which scheme is described as: Development of fisheries and aquaculture?",
+   "options": [
     "Ayushman Bharat Digital Mission",
     "PM CARES Fund",
     "National Creche Scheme",
     "Blue Revolution"
    ],
-   "a": 3,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Development of fisheries and aquaculture describes Blue Revolution."
+   "answer": 3,
+   "explanation": "Development of fisheries and aquaculture describes Blue Revolution.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "economics-00200",
-   "q": "What is a tax whose rate rises with income called?",
-   "o": [
+   "question": "What is a tax whose rate rises with income called?",
+   "options": [
     "Punjab National Bank",
     "Six",
     "Progressive tax",
     "Bank rate"
    ],
-   "a": 2,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 2,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00201",
-   "q": "Which scheme is described as: Promoting manufacturing and investment in India?",
-   "o": [
+   "question": "Which scheme is described as: Promoting manufacturing and investment in India?",
+   "options": [
     "National Creche Scheme",
     "Make in India",
     "Mahatma Gandhi National Rural Employment Guarantee Scheme",
     "Yellow Revolution"
    ],
-   "a": 1,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Promoting manufacturing and investment in India describes Make in India."
+   "answer": 1,
+   "explanation": "Promoting manufacturing and investment in India describes Make in India.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "economics-00202",
-   "q": "Which revolution is associated with oilseeds production?",
-   "o": [
+   "question": "Which revolution is associated with oilseeds production?",
+   "options": [
     "Yellow Revolution",
     "Monetary Policy Committee",
     "1776",
     "Yen"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00203",
-   "q": "Which scheme is described as: Loans to women and scheduled caste entrepreneurs?",
-   "o": [
+   "question": "Which scheme is described as: Loans to women and scheduled caste entrepreneurs?",
+   "options": [
     "Jal Jeevan Mission",
     "Stand Up India",
     "Ayushman Arogya Mandir",
     "Pradhan Mantri Matru Vandana Yojana"
    ],
-   "a": 1,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Loans to women and scheduled caste entrepreneurs describes Stand Up India."
+   "answer": 1,
+   "explanation": "Loans to women and scheduled caste entrepreneurs describes Stand Up India.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "economics-00204",
-   "q": "Which organ of the World Bank lends to the private sector?",
-   "o": [
+   "question": "Which organ of the World Bank lends to the private sector?",
+   "options": [
     "1995",
     "International Finance Corporation",
     "Atal Pension Yojana",
     "Opportunity cost"
    ],
-   "a": 1,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 1,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00205",
-   "q": "Which scheme is described as: Free LPG connections to women from poor households?",
-   "o": [
+   "question": "Which scheme is described as: Free LPG connections to women from poor households?",
+   "options": [
     "Green Revolution",
     "Pradhan Mantri Ujjwala Yojana",
     "Pradhan Mantri Krishi Sinchayee Yojana",
     "Pradhan Mantri Awas Yojana"
    ],
-   "a": 1,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Free LPG connections to women from poor households describes Pradhan Mantri Ujjwala Yojana."
+   "answer": 1,
+   "explanation": "Free LPG connections to women from poor households describes Pradhan Mantri Ujjwala Yojana.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "economics-00206",
-   "q": "In which year was NITI Aayog constituted?",
-   "o": [
+   "question": "In which year was NITI Aayog constituted?",
+   "options": [
     "Euro",
     "2015",
     "Repo rate",
     "Union Budget"
    ],
-   "a": 1,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 1,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00207",
-   "q": "Which scheme is described as: All-weather roads for rural areas?",
-   "o": [
+   "question": "Which scheme is described as: All-weather roads for rural areas?",
+   "options": [
     "Pradhan Mantri Gram Sadak Yojana",
     "Pradhan Mantri Garib Kalyan Anna Yojana",
     "Atmanirbhar Bharat Abhiyan",
     "Smart Cities Mission"
    ],
-   "a": 0,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "All-weather roads for rural areas describes Pradhan Mantri Gram Sadak Yojana."
+   "answer": 0,
+   "explanation": "All-weather roads for rural areas describes Pradhan Mantri Gram Sadak Yojana.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "economics-00208",
-   "q": "Who is known as the father of the White Revolution in India?",
-   "o": [
+   "question": "Who is known as the father of the White Revolution in India?",
+   "options": [
     "NITI Aayog",
     "Finance Commission",
     "Verghese Kurien",
     "2011-12"
    ],
-   "a": 2,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 2,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00209",
-   "q": "Which scheme is described as: Improving nutrition among children and women?",
-   "o": [
+   "question": "Which scheme is described as: Improving nutrition among children and women?",
+   "options": [
     "Poshan Abhiyaan",
     "Yellow Revolution",
     "Namami Gange",
     "Ayushman Bharat Vay Vandana Card"
    ],
-   "a": 0,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Improving nutrition among children and women describes Poshan Abhiyaan."
+   "answer": 0,
+   "explanation": "Improving nutrition among children and women describes Poshan Abhiyaan.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "economics-00210",
-   "q": "Which is the largest source of revenue for the Union Government?",
-   "o": [
+   "question": "Which is the largest source of revenue for the Union Government?",
+   "options": [
     "NABARD",
     "Goods and Services Tax",
     "Euro",
     "Union Finance Minister"
    ],
-   "a": 1,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 1,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00211",
-   "q": "Which scheme is described as: Pension for workers in the unorganised sector?",
-   "o": [
+   "question": "Which scheme is described as: Pension for workers in the unorganised sector?",
+   "options": [
     "Poshan Abhiyaan",
     "Atal Pension Yojana",
     "India Semiconductor Mission",
     "Ayushman Bharat"
    ],
-   "a": 1,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Pension for workers in the unorganised sector describes Atal Pension Yojana."
+   "answer": 1,
+   "explanation": "Pension for workers in the unorganised sector describes Atal Pension Yojana.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "economics-00212",
-   "q": "What is a sustained rise in the general price level called?",
-   "o": [
+   "question": "What is a sustained rise in the general price level called?",
+   "options": [
     "Reserve Bank of India",
     "Special Drawing Rights",
     "Inflation",
     "IRDAI"
    ],
-   "a": 2,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 2,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00213",
-   "q": "Which scheme is described as: Cleanliness and sanitation for all?",
-   "o": [
+   "question": "Which scheme is described as: Cleanliness and sanitation for all?",
+   "options": [
     "Swachh Bharat Mission",
     "PM SVANidhi",
     "e-NAM",
     "Soil Health Card Scheme"
    ],
-   "a": 0,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Cleanliness and sanitation for all describes Swachh Bharat Mission."
+   "answer": 0,
+   "explanation": "Cleanliness and sanitation for all describes Swachh Bharat Mission.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "economics-00214",
-   "q": "Which document presents the government's annual receipts and expenditure?",
-   "o": [
+   "question": "Which document presents the government's annual receipts and expenditure?",
+   "options": [
     "Pradhan Mantri Jan Dhan Yojana",
     "Lorenz curve",
     "Insolvency and Bankruptcy Code, 2016",
     "Union Budget"
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00215",
-   "q": "Which scheme is described as: Working capital loans for street vendors?",
-   "o": [
+   "question": "Which scheme is described as: Working capital loans for street vendors?",
+   "options": [
     "PM Vishwakarma Yojana",
     "Pradhan Mantri Matru Vandana Yojana",
     "PM SVANidhi",
     "PM Surya Ghar Muft Bijli Yojana"
    ],
-   "a": 2,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Working capital loans for street vendors describes PM SVANidhi."
+   "answer": 2,
+   "explanation": "Working capital loans for street vendors describes PM SVANidhi.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "economics-00216",
-   "q": "What is the combination of high inflation and high unemployment called?",
-   "o": [
+   "question": "What is the combination of high inflation and high unemployment called?",
+   "options": [
     "Stagflation",
     "Ten",
     "1875",
     "Nifty"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00217",
-   "q": "Which scheme is described as: Sustainable and citizen friendly urban development?",
-   "o": [
+   "question": "Which scheme is described as: Sustainable and citizen friendly urban development?",
+   "options": [
     "e-NAM",
     "Smart Cities Mission",
     "Pradhan Mantri Garib Kalyan Anna Yojana",
     "Ayushman Bharat"
    ],
-   "a": 1,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Sustainable and citizen friendly urban development describes Smart Cities Mission."
+   "answer": 1,
+   "explanation": "Sustainable and citizen friendly urban development describes Smart Cities Mission.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "economics-00218",
-   "q": "In which year was the World Trade Organization established?",
-   "o": [
+   "question": "In which year was the World Trade Organization established?",
+   "options": [
     "Silver Revolution",
     "Insolvency and Bankruptcy Code, 2016",
     "FRBM Act, 2003",
     "1995"
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00219",
-   "q": "Which scheme is described as: Subsidised food grains to two-thirds of the population?",
-   "o": [
+   "question": "Which scheme is described as: Subsidised food grains to two-thirds of the population?",
+   "options": [
     "Pradhan Mantri Garib Kalyan Anna Yojana",
     "Mission Indradhanush",
     "National Food Security Act",
     "Ayushman Arogya Mandir"
    ],
-   "a": 2,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Subsidised food grains to two-thirds of the population describes National Food Security Act."
+   "answer": 2,
+   "explanation": "Subsidised food grains to two-thirds of the population describes National Food Security Act.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "economics-00220",
-   "q": "In which year were regional rural banks established in India?",
-   "o": [
+   "question": "In which year were regional rural banks established in India?",
+   "options": [
     "1975",
     "Manufacturing",
     "Fourth Five Year Plan",
     "Central Board of Direct Taxes"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00221",
-   "q": "Which scheme is described as: Small savings scheme for the girl child?",
-   "o": [
+   "question": "Which scheme is described as: Small savings scheme for the girl child?",
+   "options": [
     "Sukanya Samriddhi Yojana",
     "Atmanirbhar Bharat Abhiyan",
     "Pradhan Mantri Awas Yojana",
     "Pradhan Mantri Kaushal Vikas Yojana"
    ],
-   "a": 0,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Small savings scheme for the girl child describes Sukanya Samriddhi Yojana."
+   "answer": 0,
+   "explanation": "Small savings scheme for the girl child describes Sukanya Samriddhi Yojana.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "economics-00222",
-   "q": "In which year was the Food Corporation of India established?",
-   "o": [
+   "question": "In which year was the Food Corporation of India established?",
+   "options": [
     "1965",
     "Goods and Services Tax",
     "Sensex",
     "Central Board of Indirect Taxes and Customs"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00223",
-   "q": "Which scheme is described as: Income support of six thousand rupees to small farmers?",
-   "o": [
+   "question": "Which scheme is described as: Income support of six thousand rupees to small farmers?",
+   "options": [
     "Yellow Revolution",
     "PM Vishwakarma Yojana",
     "Pradhan Mantri Kisan Samman Nidhi",
     "National Mission on Edible Oils"
    ],
-   "a": 2,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Income support of six thousand rupees to small farmers describes Pradhan Mantri Kisan Samman Nidhi."
+   "answer": 2,
+   "explanation": "Income support of six thousand rupees to small farmers describes Pradhan Mantri Kisan Samman Nidhi.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "economics-00224",
-   "q": "Which corporation handles food procurement and distribution in India?",
-   "o": [
+   "question": "Which corporation handles food procurement and distribution in India?",
+   "options": [
     "Make in India",
     "Article 279A",
     "White Revolution",
     "Food Corporation of India"
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00225",
-   "q": "Which scheme is described as: Financial inclusion through zero balance bank accounts?",
-   "o": [
+   "question": "Which scheme is described as: Financial inclusion through zero balance bank accounts?",
+   "options": [
     "Pradhan Mantri Jan Dhan Yojana",
     "Pradhan Mantri Garib Kalyan Anna Yojana",
     "Green Revolution",
     "National Food Security Act"
    ],
-   "a": 0,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Financial inclusion through zero balance bank accounts describes Pradhan Mantri Jan Dhan Yojana."
+   "answer": 0,
+   "explanation": "Financial inclusion through zero balance bank accounts describes Pradhan Mantri Jan Dhan Yojana.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "economics-00226",
-   "q": "Which institution provides finance to small industries in India?",
-   "o": [
+   "question": "Which institution provides finance to small industries in India?",
+   "options": [
     "SIDBI",
     "Reserve Bank of India",
     "Twelfth Five Year Plan",
     "Fourth Five Year Plan"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00227",
-   "q": "Which scheme is described as: Soil testing and nutrient recommendations?",
-   "o": [
+   "question": "Which scheme is described as: Soil testing and nutrient recommendations?",
+   "options": [
     "Soil Health Card Scheme",
     "Ayushman Bharat",
     "Atmanirbhar Bharat Abhiyan",
     "Mahatma Gandhi National Rural Employment Guarantee Scheme"
    ],
-   "a": 0,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Soil testing and nutrient recommendations describes Soil Health Card Scheme."
+   "answer": 0,
+   "explanation": "Soil testing and nutrient recommendations describes Soil Health Card Scheme.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "economics-00228",
-   "q": "Which code deals with insolvency resolution in India?",
-   "o": [
+   "question": "Which code deals with insolvency resolution in India?",
+   "options": [
     "Insolvency and Bankruptcy Code, 2016",
     "Pradhan Mantri Mudra Yojana",
     "FRBM Act, 2003",
     "1991"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00229",
-   "q": "Which scheme is described as: Rooftop solar power for households?",
-   "o": [
+   "question": "Which scheme is described as: Rooftop solar power for households?",
+   "options": [
     "e-NAM",
     "PM Vishwakarma Yojana",
     "PM Surya Ghar Muft Bijli Yojana",
     "India Semiconductor Mission"
    ],
-   "a": 2,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Rooftop solar power for households describes PM Surya Ghar Muft Bijli Yojana."
+   "answer": 2,
+   "explanation": "Rooftop solar power for households describes PM Surya Ghar Muft Bijli Yojana.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "economics-00230",
-   "q": "Where is the headquarters of the Life Insurance Corporation of India?",
-   "o": [
+   "question": "Where is the headquarters of the Life Insurance Corporation of India?",
+   "options": [
     "Mumbai",
     "Lending rate",
     "1875",
     "Silver Revolution"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00231",
-   "q": "Which scheme is described as: Self-reliance in edible oil production?",
-   "o": [
+   "question": "Which scheme is described as: Self-reliance in edible oil production?",
+   "options": [
     "Smart Cities Mission",
     "National Mission on Edible Oils",
     "Ayushman Bharat Vay Vandana Card",
     "Ayushman Arogya Mandir"
    ],
-   "a": 1,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Self-reliance in edible oil production describes National Mission on Edible Oils."
+   "answer": 1,
+   "explanation": "Self-reliance in edible oil production describes National Mission on Edible Oils.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "economics-00232",
-   "q": "Which index represents the National Stock Exchange?",
-   "o": [
+   "question": "Which index represents the National Stock Exchange?",
+   "options": [
     "Agriculture sector",
     "Wholesale Price Index",
     "Reverse repo",
     "Nifty"
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00233",
-   "q": "Which scheme is described as: Development of tribal villages?",
-   "o": [
+   "question": "Which scheme is described as: Development of tribal villages?",
+   "options": [
     "Green Revolution",
     "Ayushman Bharat",
     "PM Janjatiya Unnat Gram Abhiyan",
     "National Creche Scheme"
    ],
-   "a": 2,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Development of tribal villages describes PM Janjatiya Unnat Gram Abhiyan."
+   "answer": 2,
+   "explanation": "Development of tribal villages describes PM Janjatiya Unnat Gram Abhiyan.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "economics-00234",
-   "q": "Which was the last Five Year Plan of India?",
-   "o": [
+   "question": "Which was the last Five Year Plan of India?",
+   "options": [
     "Statutory Liquidity Ratio",
     "Deposit insurance",
     "Lorenz curve",
     "Twelfth Five Year Plan"
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00235",
-   "q": "Which scheme is described as: Digital health ecosystem for India?",
-   "o": [
+   "question": "Which scheme is described as: Digital health ecosystem for India?",
+   "options": [
     "Atal Pension Yojana",
     "Rashtriya Gokul Mission",
     "National Digital Health Mission",
     "National Green Hydrogen Mission"
    ],
-   "a": 2,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Digital health ecosystem for India describes National Digital Health Mission."
+   "answer": 2,
+   "explanation": "Digital health ecosystem for India describes National Digital Health Mission.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "economics-00236",
-   "q": "Which act deals with the recovery of debts by banks in India?",
-   "o": [
+   "question": "Which act deals with the recovery of debts by banks in India?",
+   "options": [
     "Call money rate",
     "International Finance Corporation",
     "Mahbub ul Haq",
     "SARFAESI Act, 2002"
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00237",
-   "q": "Which scheme is described as: Cooperative development of the dairy sector?",
-   "o": [
+   "question": "Which scheme is described as: Cooperative development of the dairy sector?",
+   "options": [
     "India Semiconductor Mission",
     "Pradhan Mantri Awas Yojana",
     "PM CARES Fund",
     "White Revolution 2.0"
    ],
-   "a": 3,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Cooperative development of the dairy sector describes White Revolution 2.0."
+   "answer": 3,
+   "explanation": "Cooperative development of the dairy sector describes White Revolution 2.0.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "economics-00238",
-   "q": "What is the fiscal deficit minus interest payments called?",
-   "o": [
+   "question": "What is the fiscal deficit minus interest payments called?",
+   "options": [
     "DICGC",
     "Lending rate",
     "Special Drawing Rights",
     "Primary deficit"
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00239",
-   "q": "Which scheme is described as: Emergency relief during the COVID-19 pandemic?",
-   "o": [
+   "question": "Which scheme is described as: Emergency relief during the COVID-19 pandemic?",
+   "options": [
     "Pradhan Mantri Fasal Bima Yojana",
     "Pradhan Mantri Kisan Samman Nidhi",
     "PM CARES Fund",
     "National Creche Scheme"
    ],
-   "a": 2,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Emergency relief during the COVID-19 pandemic describes PM CARES Fund."
+   "answer": 2,
+   "explanation": "Emergency relief during the COVID-19 pandemic describes PM CARES Fund.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "economics-00240",
-   "q": "Who founded the Punjab National Bank?",
-   "o": [
+   "question": "Who founded the Punjab National Bank?",
+   "options": [
     "Food Corporation of India",
     "Deflation",
     "Lala Lajpat Rai",
     "Federal Reserve"
    ],
-   "a": 2,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 2,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00241",
-   "q": "Which scheme is described as: Health insurance cover of five lakh rupees per family?",
-   "o": [
+   "question": "Which scheme is described as: Health insurance cover of five lakh rupees per family?",
+   "options": [
     "Soil Health Card Scheme",
     "Pradhan Mantri Ujjwala Yojana",
     "Ayushman Bharat",
     "Ayushman Bharat Vay Vandana Card"
    ],
-   "a": 2,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Health insurance cover of five lakh rupees per family describes Ayushman Bharat."
+   "answer": 2,
+   "explanation": "Health insurance cover of five lakh rupees per family describes Ayushman Bharat.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "economics-00242",
-   "q": "What does LPG stand for in the context of economic reforms?",
-   "o": [
+   "question": "What does LPG stand for in the context of economic reforms?",
+   "options": [
     "1935",
     "101st Amendment",
     "Union Finance Minister",
     "Liberalisation, Privatisation and Globalisation"
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00243",
-   "q": "Which scheme is described as: Incentives to boost manufacturing across sectors?",
-   "o": [
+   "question": "Which scheme is described as: Incentives to boost manufacturing across sectors?",
+   "options": [
     "Startup India",
     "National Green Hydrogen Mission",
     "Production Linked Incentive Scheme",
     "National Education Policy 2020"
    ],
-   "a": 2,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Incentives to boost manufacturing across sectors describes Production Linked Incentive Scheme."
+   "answer": 2,
+   "explanation": "Incentives to boost manufacturing across sectors describes Production Linked Incentive Scheme.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "economics-00244",
-   "q": "Which committee recommended the establishment of regional rural banks?",
-   "o": [
+   "question": "Which committee recommended the establishment of regional rural banks?",
+   "options": [
     "A price at which the government buys crops from farmers",
     "C. D. Deshmukh",
     "Progressive tax",
     "Narasimham Committee"
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00245",
-   "q": "Which scheme is described as: Digital health records and health infrastructure?",
-   "o": [
+   "question": "Which scheme is described as: Digital health records and health infrastructure?",
+   "options": [
     "Ayushman Bharat Digital Mission",
     "Pradhan Mantri Krishi Sinchayee Yojana",
     "Pradhan Mantri Garib Kalyan Anna Yojana",
     "Namami Gange"
    ],
-   "a": 0,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Digital health records and health infrastructure describes Ayushman Bharat Digital Mission."
+   "answer": 0,
+   "explanation": "Digital health records and health infrastructure describes Ayushman Bharat Digital Mission.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "economics-00246",
-   "q": "In which year was the State Bank of India established?",
-   "o": [
+   "question": "In which year was the State Bank of India established?",
+   "options": [
     "D. Udaya Kumar",
     "New Development Bank",
     "1955",
     "Green Revolution"
    ],
-   "a": 2,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 2,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00247",
-   "q": "Which scheme is described as: Irrigation coverage and water use efficiency?",
-   "o": [
+   "question": "Which scheme is described as: Irrigation coverage and water use efficiency?",
+   "options": [
     "Rashtriya Gokul Mission",
     "Pradhan Mantri Jan Dhan Yojana",
     "Yellow Revolution",
     "Pradhan Mantri Krishi Sinchayee Yojana"
    ],
-   "a": 3,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Irrigation coverage and water use efficiency describes Pradhan Mantri Krishi Sinchayee Yojana."
+   "answer": 3,
+   "explanation": "Irrigation coverage and water use efficiency describes Pradhan Mantri Krishi Sinchayee Yojana.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "economics-00248",
-   "q": "Which body recommends the distribution of taxes between the Centre and States?",
-   "o": [
+   "question": "Which body recommends the distribution of taxes between the Centre and States?",
+   "options": [
     "1944",
     "Per capita income",
     "Services",
     "Finance Commission"
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00249",
-   "q": "Which scheme is described as: Free food grains to the poor?",
-   "o": [
+   "question": "Which scheme is described as: Free food grains to the poor?",
+   "options": [
     "Yellow Revolution",
     "Startup India",
     "Atal Pension Yojana",
     "Pradhan Mantri Garib Kalyan Anna Yojana"
    ],
-   "a": 3,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Free food grains to the poor describes Pradhan Mantri Garib Kalyan Anna Yojana."
+   "answer": 3,
+   "explanation": "Free food grains to the poor describes Pradhan Mantri Garib Kalyan Anna Yojana.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "economics-00250",
-   "q": "What is the minimum percentage of deposits banks must keep in liquid assets?",
-   "o": [
+   "question": "What is the minimum percentage of deposits banks must keep in liquid assets?",
+   "options": [
     "Statutory Liquidity Ratio",
     "SIDBI",
     "1995",
     "Six"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00251",
-   "q": "Which scheme is described as: Upgraded health and wellness centres?",
-   "o": [
+   "question": "Which scheme is described as: Upgraded health and wellness centres?",
+   "options": [
     "Startup India",
     "Ayushman Arogya Mandir",
     "Ayushman Bharat Vay Vandana Card",
     "Yellow Revolution"
    ],
-   "a": 1,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Upgraded health and wellness centres describes Ayushman Arogya Mandir."
+   "answer": 1,
+   "explanation": "Upgraded health and wellness centres describes Ayushman Arogya Mandir.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "economics-00252",
-   "q": "What is the rate at which the RBI lends money to banks for the long term called?",
-   "o": [
+   "question": "What is the rate at which the RBI lends money to banks for the long term called?",
+   "options": [
     "Bretton Woods Conference",
     "Monetary Policy Committee",
     "Bank rate",
     "Services"
    ],
-   "a": 2,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 2,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00253",
-   "q": "Which scheme is described as: Portable food entitlements across states?",
-   "o": [
+   "question": "Which scheme is described as: Portable food entitlements across states?",
+   "options": [
     "Green Revolution",
     "One Nation One Ration Card",
     "Kisan Credit Card",
     "Skill India Mission"
    ],
-   "a": 1,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Portable food entitlements across states describes One Nation One Ration Card."
+   "answer": 1,
+   "explanation": "Portable food entitlements across states describes One Nation One Ration Card.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "economics-00254",
-   "q": "Which is the largest public sector bank of India by assets?",
-   "o": [
+   "question": "Which is the largest public sector bank of India by assets?",
+   "options": [
     "State Bank of India",
     "Lala Lajpat Rai",
     "Adam Smith",
     "Pradhan Mantri Mudra Yojana"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00255",
-   "q": "Which scheme is described as: Skill development and employability of youth?",
-   "o": [
+   "question": "Which scheme is described as: Skill development and employability of youth?",
+   "options": [
     "Swachh Bharat Mission",
     "Sukanya Samriddhi Yojana",
     "Skill India Mission",
     "PM Gati Shakti"
    ],
-   "a": 2,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Skill development and employability of youth describes Skill India Mission."
+   "answer": 2,
+   "explanation": "Skill development and employability of youth describes Skill India Mission.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "economics-00256",
-   "q": "In which year was the International Monetary Fund established?",
-   "o": [
+   "question": "In which year was the International Monetary Fund established?",
+   "options": [
     "Deflation",
     "2010",
     "Blue Revolution",
     "1944"
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00257",
-   "q": "Which scheme is described as: Production and use of green hydrogen?",
-   "o": [
+   "question": "Which scheme is described as: Production and use of green hydrogen?",
+   "options": [
     "Jal Jeevan Mission",
     "Kisan Credit Card",
     "National Green Hydrogen Mission",
     "Ayushman Arogya Mandir"
    ],
-   "a": 2,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Production and use of green hydrogen describes National Green Hydrogen Mission."
+   "answer": 2,
+   "explanation": "Production and use of green hydrogen describes National Green Hydrogen Mission.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "economics-00258",
-   "q": "Which curve depicts income distribution?",
-   "o": [
+   "question": "Which curve depicts income distribution?",
+   "options": [
     "Balance of trade",
     "Lorenz curve",
     "2017",
     "General Agreement on Tariffs and Trade"
    ],
-   "a": 1,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 1,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00259",
-   "q": "Which scheme is described as: Integrated infrastructure planning platform?",
-   "o": [
+   "question": "Which scheme is described as: Integrated infrastructure planning platform?",
+   "options": [
     "Green Revolution",
     "PM CARES Fund",
     "White Revolution 2.0",
     "PM Gati Shakti"
    ],
-   "a": 3,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Integrated infrastructure planning platform describes PM Gati Shakti."
+   "answer": 3,
+   "explanation": "Integrated infrastructure planning platform describes PM Gati Shakti.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "economics-00260",
-   "q": "What is the term for the sharing of power between the Centre and States?",
-   "o": [
+   "question": "What is the term for the sharing of power between the Centre and States?",
+   "options": [
     "Fiscal federalism",
     "1951",
     "Fiscal deficit",
     "Reverse repo"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00261",
-   "q": "Which scheme is described as: Digital delivery of services and digital literacy?",
-   "o": [
+   "question": "Which scheme is described as: Digital delivery of services and digital literacy?",
+   "options": [
     "Make in India",
     "National Digital Health Mission",
     "Pradhan Mantri Awas Yojana",
     "Digital India"
    ],
-   "a": 3,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Digital delivery of services and digital literacy describes Digital India."
+   "answer": 3,
+   "explanation": "Digital delivery of services and digital literacy describes Digital India.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "economics-00262",
-   "q": "In which year was the first Five Year Plan launched in India?",
-   "o": [
+   "question": "In which year was the first Five Year Plan launched in India?",
+   "options": [
     "1951",
     "2000 rupees",
     "Stagflation",
     "Shanghai"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00263",
-   "q": "Which scheme is described as: Guaranteed wage employment in rural areas?",
-   "o": [
+   "question": "Which scheme is described as: Guaranteed wage employment in rural areas?",
+   "options": [
     "National Creche Scheme",
     "Mahatma Gandhi National Rural Employment Guarantee Scheme",
     "Stand Up India",
     "PM Surya Ghar Muft Bijli Yojana"
    ],
-   "a": 1,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Guaranteed wage employment in rural areas describes Mahatma Gandhi National Rural Employment Guarantee Scheme."
+   "answer": 1,
+   "explanation": "Guaranteed wage employment in rural areas describes Mahatma Gandhi National Rural Employment Guarantee Scheme.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "economics-00264",
-   "q": "Which index represents the Bombay Stock Exchange?",
-   "o": [
+   "question": "Which index represents the Bombay Stock Exchange?",
+   "options": [
     "Narasimham Committee",
     "Monopoly",
     "Sensex",
     "Bank of Hindustan"
    ],
-   "a": 2,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 2,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00265",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "One Nation One Ration Card - Promoting startups and innovation",
     "One Nation One Ration Card - Food grain self-sufficiency",
     "One Nation One Ration Card - Portable food entitlements across states",
     "One Nation One Ration Card - Digital health records and health infrastructure"
    ],
-   "a": 2,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only One Nation One Ration Card - Portable food entitlements across states is correctly matched."
+   "answer": 2,
+   "explanation": "Only One Nation One Ration Card - Portable food entitlements across states is correctly matched.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "economics-00266",
-   "q": "What is the minimum number of persons required to start a cooperative bank?",
-   "o": [
+   "question": "What is the minimum number of persons required to start a cooperative bank?",
+   "options": [
     "Ten",
     "Article 112",
     "1966",
     "One lakh rupees"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00267",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "One Nation One Ration Card - Production and use of green hydrogen",
     "One Nation One Ration Card - Portable food entitlements across states",
     "One Nation One Ration Card - Free health cover for senior citizens above seventy",
     "One Nation One Ration Card - Subsidised food grains to two-thirds of the population"
    ],
-   "a": 1,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only One Nation One Ration Card - Portable food entitlements across states is correctly matched."
+   "answer": 1,
+   "explanation": "Only One Nation One Ration Card - Portable food entitlements across states is correctly matched.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "economics-00268",
-   "q": "What is the rate that banks charge each other for short-term funds called?",
-   "o": [
+   "question": "What is the rate that banks charge each other for short-term funds called?",
+   "options": [
     "Call money rate",
     "An area with special economic regulations to promote exports",
     "Bank of Baroda",
     "Consolidated Fund of India"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00269",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Smart Cities Mission - Loans to women and scheduled caste entrepreneurs",
     "Smart Cities Mission - Collateral-free loans for micro enterprises",
     "Smart Cities Mission - Promoting startups and innovation",
     "Smart Cities Mission - Sustainable and citizen friendly urban development"
    ],
-   "a": 3,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Smart Cities Mission - Sustainable and citizen friendly urban development is correctly matched."
+   "answer": 3,
+   "explanation": "Only Smart Cities Mission - Sustainable and citizen friendly urban development is correctly matched.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "economics-00270",
-   "q": "Which book is considered the foundation of classical economics?",
-   "o": [
+   "question": "Which book is considered the foundation of classical economics?",
+   "options": [
     "Article 280",
     "Reserve Bank of India",
     "The Wealth of Nations",
     "Adam Smith"
    ],
-   "a": 2,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 2,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00271",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Smart Cities Mission - Universal immunisation of children",
     "Smart Cities Mission - Sustainable and citizen friendly urban development",
     "Smart Cities Mission - Cash incentive for pregnant and lactating mothers",
     "Smart Cities Mission - India's central bank digital currency pilot"
    ],
-   "a": 1,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Smart Cities Mission - Sustainable and citizen friendly urban development is correctly matched."
+   "answer": 1,
+   "explanation": "Only Smart Cities Mission - Sustainable and citizen friendly urban development is correctly matched.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "economics-00272",
-   "q": "Which organisation publishes the Human Development Index?",
-   "o": [
+   "question": "Which organisation publishes the Human Development Index?",
+   "options": [
     "Net National Product",
     "Six",
     "SARFAESI Act, 2002",
     "UNDP"
    ],
-   "a": 3,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 3,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00273",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Pradhan Mantri Mudra Yojana - Incentives to boost manufacturing across sectors",
     "Pradhan Mantri Mudra Yojana - All-weather roads for rural areas",
     "Pradhan Mantri Mudra Yojana - Self-reliance in oilseed production",
     "Pradhan Mantri Mudra Yojana - Collateral-free loans for micro enterprises"
    ],
-   "a": 3,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Pradhan Mantri Mudra Yojana - Collateral-free loans for micro enterprises is correctly matched."
+   "answer": 3,
+   "explanation": "Only Pradhan Mantri Mudra Yojana - Collateral-free loans for micro enterprises is correctly matched.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "economics-00274",
-   "q": "Where is the headquarters of the International Monetary Fund?",
-   "o": [
+   "question": "Where is the headquarters of the International Monetary Fund?",
+   "options": [
     "Government of India",
     "Blue Revolution",
     "Washington, D.C.",
     "Geneva"
    ],
-   "a": 2,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 2,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00275",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Pradhan Mantri Mudra Yojana - Subsidised food grains to two-thirds of the population",
     "Pradhan Mantri Mudra Yojana - Irrigation coverage and water use efficiency",
     "Pradhan Mantri Mudra Yojana - Collateral-free loans for micro enterprises",
     "Pradhan Mantri Mudra Yojana - Food grain self-sufficiency"
    ],
-   "a": 2,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Pradhan Mantri Mudra Yojana - Collateral-free loans for micro enterprises is correctly matched."
+   "answer": 2,
+   "explanation": "Only Pradhan Mantri Mudra Yojana - Collateral-free loans for micro enterprises is correctly matched.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "economics-00276",
-   "q": "Which base year is used for India's current GDP series?",
-   "o": [
+   "question": "Which base year is used for India's current GDP series?",
+   "options": [
     "1949",
     "2011-12",
     "Contingency Fund",
     "Excise duty"
    ],
-   "a": 1,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 1,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00277",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Jal Jeevan Mission - Improving nutrition among children and women",
     "Jal Jeevan Mission - Upgraded health and wellness centres",
     "Jal Jeevan Mission - Collateral-free loans for micro enterprises",
     "Jal Jeevan Mission - Piped drinking water to every rural household"
    ],
-   "a": 3,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Jal Jeevan Mission - Piped drinking water to every rural household is correctly matched."
+   "answer": 3,
+   "explanation": "Only Jal Jeevan Mission - Piped drinking water to every rural household is correctly matched.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "economics-00278",
-   "q": "Which is the central bank of Japan?",
-   "o": [
+   "question": "Which is the central bank of Japan?",
+   "options": [
     "Federal Reserve",
     "Bank of Japan",
     "Manufacturing",
     "Government of India"
    ],
-   "a": 1,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 1,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "economics-00279",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Jal Jeevan Mission - Income support of six thousand rupees to small farmers",
     "Jal Jeevan Mission - Free food grains to the poor",
     "Jal Jeevan Mission - Piped drinking water to every rural household",
     "Jal Jeevan Mission - Rooftop solar power for households"
    ],
-   "a": 2,
-   "t": "Schemes and Programmes",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Jal Jeevan Mission - Piped drinking water to every rural household is correctly matched."
+   "answer": 2,
+   "explanation": "Only Jal Jeevan Mission - Piped drinking water to every rural household is correctly matched.",
+   "topic": "Schemes and Programmes",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "economics-00280",
-   "q": "What is the transfer of ownership from government to private hands called?",
-   "o": [
+   "question": "What is the transfer of ownership from government to private hands called?",
+   "options": [
     "Privatisation",
     "Income inequality",
     "Punjab National Bank",
     "101st Amendment"
    ],
-   "a": 0,
-   "t": "Economics and Banking",
-   "l": 2,
-   "s": "generated",
-   "e": "Economics and banking fact."
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "generated"
   }
  ]
 };

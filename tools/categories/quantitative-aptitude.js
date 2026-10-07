@@ -16,22503 +16,22503 @@
  "questions": [
   {
    "id": "quantitative-aptitude-00001",
-   "q": "What is 15 per cent of 480?",
-   "o": [
+   "question": "What is 15 per cent of 480?",
+   "options": [
     "72",
     "68",
     "64",
     "76"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "10 per cent is 48 and 5 per cent is 24, so 15 per cent is 72."
+   "answer": 0,
+   "explanation": "10 per cent is 48 and 5 per cent is 24, so 15 per cent is 72.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "quantitative-aptitude-00002",
-   "q": "The average of 5 numbers is 20. If one number is removed, the average becomes 18. What is the removed number?",
-   "o": [
+   "question": "The average of 5 numbers is 20. If one number is removed, the average becomes 18. What is the removed number?",
+   "options": [
     "26",
     "28",
     "30",
     "24"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Total is 100; remaining total is 4 x 18 = 72, so the removed number is 28."
+   "answer": 1,
+   "explanation": "Total is 100; remaining total is 4 x 18 = 72, so the removed number is 28.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "quantitative-aptitude-00003",
-   "q": "A shopkeeper buys an article for 400 rupees and sells it for 500 rupees. What is the profit percentage?",
-   "o": [
+   "question": "A shopkeeper buys an article for 400 rupees and sells it for 500 rupees. What is the profit percentage?",
+   "options": [
     "20 per cent",
     "25 per cent",
     "30 per cent",
     "15 per cent"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Profit is 100 on a cost of 400, so the profit percentage is 25."
+   "answer": 1,
+   "explanation": "Profit is 100 on a cost of 400, so the profit percentage is 25.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "quantitative-aptitude-00004",
-   "q": "What is the simple interest on 5000 rupees at 8 per cent per annum for 3 years?",
-   "o": [
+   "question": "What is the simple interest on 5000 rupees at 8 per cent per annum for 3 years?",
+   "options": [
     "1000 rupees",
     "1200 rupees",
     "1500 rupees",
     "1400 rupees"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Simple interest = P x R x T / 100 = 5000 x 8 x 3 / 100 = 1200."
+   "answer": 1,
+   "explanation": "Simple interest = P x R x T / 100 = 5000 x 8 x 3 / 100 = 1200.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "quantitative-aptitude-00005",
-   "q": "If a train travels 240 km in 3 hours, what is its speed?",
-   "o": [
+   "question": "If a train travels 240 km in 3 hours, what is its speed?",
+   "options": [
     "60 km/h",
     "70 km/h",
     "80 km/h",
     "90 km/h"
    ],
-   "a": 2,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Speed = distance / time = 240 / 3 = 80 km per hour."
+   "answer": 2,
+   "explanation": "Speed = distance / time = 240 / 3 = 80 km per hour.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "quantitative-aptitude-00006",
-   "q": "A train 200 m long crosses a pole in 10 seconds. What is its speed?",
-   "o": [
+   "question": "A train 200 m long crosses a pole in 10 seconds. What is its speed?",
+   "options": [
     "20 m/s",
     "25 m/s",
     "15 m/s",
     "30 m/s"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Speed = length of train / time = 200 / 10 = 20 metres per second."
+   "answer": 0,
+   "explanation": "Speed = length of train / time = 200 / 10 = 20 metres per second.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "quantitative-aptitude-00007",
-   "q": "In what ratio must 30 and 40 be mixed to get an average of 34?",
-   "o": [
+   "question": "In what ratio must 30 and 40 be mixed to get an average of 34?",
+   "options": [
     "3:1",
     "2:3",
     "3:2",
     "1:3"
    ],
-   "a": 2,
-   "t": "Curated",
-   "l": 3,
-   "s": "curated",
-   "e": "By the rule of allegation the ratio is (40-34):(34-30) = 6:4 = 3:2."
+   "answer": 2,
+   "explanation": "By the rule of allegation the ratio is (40-34):(34-30) = 6:4 = 3:2.",
+   "topic": "Curated",
+   "level": 3,
+   "source": "curated"
   },
   {
    "id": "quantitative-aptitude-00008",
-   "q": "Two numbers are in the ratio 3:5 and their sum is 96. What is the larger number?",
-   "o": [
+   "question": "Two numbers are in the ratio 3:5 and their sum is 96. What is the larger number?",
+   "options": [
     "36",
     "48",
     "60",
     "72"
    ],
-   "a": 2,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "The parts are 8 in number, so one part is 12 and the larger number is 5 x 12 = 60."
+   "answer": 2,
+   "explanation": "The parts are 8 in number, so one part is 12 and the larger number is 5 x 12 = 60.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "quantitative-aptitude-00009",
-   "q": "What is the compound interest on 1000 rupees at 10 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 1000 rupees at 10 per cent per annum for 2 years?",
+   "options": [
     "200 rupees",
     "210 rupees",
     "220 rupees",
     "100 rupees"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Amount = 1000 x (1.1)^2 = 1210, so compound interest is 210 rupees."
+   "answer": 1,
+   "explanation": "Amount = 1000 x (1.1)^2 = 1210, so compound interest is 210 rupees.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "quantitative-aptitude-00010",
-   "q": "A can do a work in 12 days and B in 18 days. Working together, how long will they take?",
-   "o": [
+   "question": "A can do a work in 12 days and B in 18 days. Working together, how long will they take?",
+   "options": [
     "6 days",
     "7.2 days",
     "8 days",
     "9 days"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 3,
-   "s": "curated",
-   "e": "Combined one-day work = 1/12 + 1/18 = 5/36, so the time is 36/5 = 7.2 days."
+   "answer": 1,
+   "explanation": "Combined one-day work = 1/12 + 1/18 = 5/36, so the time is 36/5 = 7.2 days.",
+   "topic": "Curated",
+   "level": 3,
+   "source": "curated"
   },
   {
    "id": "quantitative-aptitude-00011",
-   "q": "What is the area of a rectangle 12 m long and 5 m wide?",
-   "o": [
+   "question": "What is the area of a rectangle 12 m long and 5 m wide?",
+   "options": [
     "17 sq m",
     "34 sq m",
     "60 sq m",
     "50 sq m"
    ],
-   "a": 2,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Area = length x breadth = 12 x 5 = 60 square metres."
+   "answer": 2,
+   "explanation": "Area = length x breadth = 12 x 5 = 60 square metres.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "quantitative-aptitude-00012",
-   "q": "The circumference of a circle of radius 7 m is (take pi = 22/7):",
-   "o": [
+   "question": "The circumference of a circle of radius 7 m is (take pi = 22/7):",
+   "options": [
     "22 m",
     "44 m",
     "154 m",
     "49 m"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Circumference = 2 x pi x r = 2 x 22/7 x 7 = 44 metres."
+   "answer": 1,
+   "explanation": "Circumference = 2 x pi x r = 2 x 22/7 x 7 = 44 metres.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "quantitative-aptitude-00013",
-   "q": "What is the square root of 1296?",
-   "o": [
+   "question": "What is the square root of 1296?",
+   "options": [
     "34",
     "36",
     "38",
     "32"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "36 x 36 = 1296."
+   "answer": 1,
+   "explanation": "36 x 36 = 1296.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "quantitative-aptitude-00014",
-   "q": "A sum doubles itself in 8 years at simple interest. What is the rate of interest?",
-   "o": [
+   "question": "A sum doubles itself in 8 years at simple interest. What is the rate of interest?",
+   "options": [
     "10 per cent",
     "12.5 per cent",
     "15 per cent",
     "8 per cent"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 3,
-   "s": "curated",
-   "e": "Interest equal to the principal is earned in 8 years, so the rate is 100/8 = 12.5 per cent."
+   "answer": 1,
+   "explanation": "Interest equal to the principal is earned in 8 years, so the rate is 100/8 = 12.5 per cent.",
+   "topic": "Curated",
+   "level": 3,
+   "source": "curated"
   },
   {
    "id": "quantitative-aptitude-00015",
-   "q": "If a man's income is 20 per cent more than another's, by what per cent is the second income less?",
-   "o": [
+   "question": "If a man's income is 20 per cent more than another's, by what per cent is the second income less?",
+   "options": [
     "20 per cent",
     "16.67 per cent",
     "25 per cent",
     "15 per cent"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 3,
-   "s": "curated",
-   "e": "20/120 expressed as a percentage gives 16.67 per cent."
+   "answer": 1,
+   "explanation": "20/120 expressed as a percentage gives 16.67 per cent.",
+   "topic": "Curated",
+   "level": 3,
+   "source": "curated"
   },
   {
    "id": "quantitative-aptitude-00016",
-   "q": "The average of the first 10 natural numbers is:",
-   "o": [
+   "question": "The average of the first 10 natural numbers is:",
+   "options": [
     "5",
     "5.5",
     "6",
     "6.5"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Sum is 55 and there are 10 numbers, so the average is 5.5."
+   "answer": 1,
+   "explanation": "Sum is 55 and there are 10 numbers, so the average is 5.5.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "quantitative-aptitude-00017",
-   "q": "A boat goes 12 km downstream in 2 hours and the same distance upstream in 3 hours. What is the speed of the stream?",
-   "o": [
+   "question": "A boat goes 12 km downstream in 2 hours and the same distance upstream in 3 hours. What is the speed of the stream?",
+   "options": [
     "1 km/h",
     "2 km/h",
     "3 km/h",
     "4 km/h"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 3,
-   "s": "curated",
-   "e": "Downstream speed is 6 and upstream speed is 4, so the stream speed is (6-4)/2 = 1 km per hour."
+   "answer": 0,
+   "explanation": "Downstream speed is 6 and upstream speed is 4, so the stream speed is (6-4)/2 = 1 km per hour.",
+   "topic": "Curated",
+   "level": 3,
+   "source": "curated"
   },
   {
    "id": "quantitative-aptitude-00018",
-   "q": "If 20 men can build a wall in 15 days, how long will 30 men take?",
-   "o": [
+   "question": "If 20 men can build a wall in 15 days, how long will 30 men take?",
+   "options": [
     "10 days",
     "12 days",
     "8 days",
     "15 days"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Men and days are inversely proportional: 20 x 15 / 30 = 10 days."
+   "answer": 0,
+   "explanation": "Men and days are inversely proportional: 20 x 15 / 30 = 10 days.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "quantitative-aptitude-00019",
-   "q": "What is the value of 25 per cent of 25 per cent of 800?",
-   "o": [
+   "question": "What is the value of 25 per cent of 25 per cent of 800?",
+   "options": [
     "40",
     "50",
     "60",
     "80"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "25 per cent of 800 is 200 and 25 per cent of 200 is 50."
+   "answer": 1,
+   "explanation": "25 per cent of 800 is 200 and 25 per cent of 200 is 50.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "quantitative-aptitude-00020",
-   "q": "The sum of the angles of a triangle is:",
-   "o": [
+   "question": "The sum of the angles of a triangle is:",
+   "options": [
     "90 degrees",
     "180 degrees",
     "270 degrees",
     "360 degrees"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "The interior angles of any triangle add up to 180 degrees."
+   "answer": 1,
+   "explanation": "The interior angles of any triangle add up to 180 degrees.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "quantitative-aptitude-00021",
-   "q": "How many litres are there in 3.5 cubic metres?",
-   "o": [
+   "question": "How many litres are there in 3.5 cubic metres?",
+   "options": [
     "350",
     "3500",
     "35",
     "35000"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "One cubic metre is 1000 litres, so 3.5 cubic metres is 3500 litres."
+   "answer": 1,
+   "explanation": "One cubic metre is 1000 litres, so 3.5 cubic metres is 3500 litres.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "quantitative-aptitude-00022",
-   "q": "A man spends 70 per cent of his income and saves 4500 rupees. What is his income?",
-   "o": [
+   "question": "A man spends 70 per cent of his income and saves 4500 rupees. What is his income?",
+   "options": [
     "12000 rupees",
     "15000 rupees",
     "13500 rupees",
     "18000 rupees"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "30 per cent of income is 4500, so the income is 4500 / 0.3 = 15000 rupees."
+   "answer": 1,
+   "explanation": "30 per cent of income is 4500, so the income is 4500 / 0.3 = 15000 rupees.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "quantitative-aptitude-00023",
-   "q": "What is 79 x 70?",
-   "o": [
+   "question": "What is 79 x 70?",
+   "options": [
     "5526",
     "5600",
     "5530",
     "5460"
    ],
-   "a": 2,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "79 x 70 = 5530."
+   "answer": 2,
+   "explanation": "79 x 70 = 5530.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00024",
-   "q": "What is 25 per cent of 200?",
-   "o": [
+   "question": "What is 25 per cent of 200?",
+   "options": [
     "50",
     "52",
     "49",
     "75"
    ],
-   "a": 0,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "25 per cent of 200 = 50."
+   "answer": 0,
+   "explanation": "25 per cent of 200 = 50.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00025",
-   "q": "What is the simple interest on 100 rupees at 3 per cent per annum for 4 years?",
-   "o": [
+   "question": "What is the simple interest on 100 rupees at 3 per cent per annum for 4 years?",
+   "options": [
     "14.4 rupees",
     "15 rupees",
     "6 rupees",
     "12 rupees"
    ],
-   "a": 3,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 100 x 3 x 4 / 100 = 12."
+   "answer": 3,
+   "explanation": "SI = P x R x T / 100 = 100 x 3 x 4 / 100 = 12.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00026",
-   "q": "What is the average of 33, 37, 41, 48, 55?",
-   "o": [
+   "question": "What is the average of 33, 37, 41, 48, 55?",
+   "options": [
     "40.8",
     "42.8",
     "43.3",
     "44.8"
    ],
-   "a": 1,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 214, average = 42.8."
+   "answer": 1,
+   "explanation": "Sum = 214, average = 42.8.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00027",
-   "q": "A sum of 285 rupees is divided between two people in the ratio 3:2. What is the larger share?",
-   "o": [
+   "question": "A sum of 285 rupees is divided between two people in the ratio 3:2. What is the larger share?",
+   "options": [
     "228 rupees",
     "171 rupees",
     "114 rupees",
     "142.5 rupees"
    ],
-   "a": 1,
-   "t": "Ratio",
-   "l": 2,
-   "s": "generated",
-   "e": "One part is 57 rupees, so the shares are 171 and 114."
+   "answer": 1,
+   "explanation": "One part is 57 rupees, so the shares are 171 and 114.",
+   "topic": "Ratio",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00028",
-   "q": "An article bought for 500 rupees is sold at a profit of 43 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 500 rupees is sold at a profit of 43 per cent. What is the selling price?",
+   "options": [
     "500 rupees",
     "543 rupees",
     "285 rupees",
     "715 rupees"
    ],
-   "a": 3,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 500 x (1 + 43/100) = 715."
+   "answer": 3,
+   "explanation": "Selling price = 500 x (1 + 43/100) = 715.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00029",
-   "q": "A vehicle travels at 52 km per hour for 7 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 52 km per hour for 7 hours. What distance does it cover?",
+   "options": [
     "455 km",
     "416 km",
     "364 km",
     "374 km"
    ],
-   "a": 2,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 52 x 7 = 364 km."
+   "answer": 2,
+   "explanation": "Distance = speed x time = 52 x 7 = 364 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00030",
-   "q": "A train 50 metres long runs at 13 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 50 metres long runs at 13 metres per second. How long will it take to cross a pole?",
+   "options": [
     "1.92 seconds",
     "3.85 seconds",
     "13.85 seconds",
     "7.69 seconds"
    ],
-   "a": 1,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 50 / 13 = 3.85 seconds."
+   "answer": 1,
+   "explanation": "Time = length / speed = 50 / 13 = 3.85 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00031",
-   "q": "A can finish a piece of work in 13 days and B in 9 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 13 days and B in 9 days. Working together, in how many days will they finish it?",
+   "options": [
     "9 days",
     "11 days",
     "10.64 days",
     "5.32 days"
    ],
-   "a": 3,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/13 + 1/9, so time = 5.32 days."
+   "answer": 3,
+   "explanation": "Combined rate = 1/13 + 1/9, so time = 5.32 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00032",
-   "q": "What is the HCF of 22 and 31?",
-   "o": [
+   "question": "What is the HCF of 22 and 31?",
+   "options": [
     "682",
     "3",
     "1",
     "2"
    ],
-   "a": 2,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 22 and 31 is 1."
+   "answer": 2,
+   "explanation": "The highest common factor of 22 and 31 is 1.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00033",
-   "q": "What is the LCM of 6 and 9?",
-   "o": [
+   "question": "What is the LCM of 6 and 9?",
+   "options": [
     "36",
     "9",
     "18",
     "54"
    ],
-   "a": 2,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 6 and 9 is 18."
+   "answer": 2,
+   "explanation": "The least common multiple of 6 and 9 is 18.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00034",
-   "q": "What is the area of a circle of radius 12 cm? (take pi = 22/7)",
-   "o": [
+   "question": "What is the area of a circle of radius 12 cm? (take pi = 22/7)",
+   "options": [
     "144 sq cm",
     "452.57 sq cm",
     "37.71 sq cm",
     "905.14 sq cm"
    ],
-   "a": 1,
-   "t": "Mensuration",
-   "l": 2,
-   "s": "generated",
-   "e": "Area = pi x r^2 = 22/7 x 12 x 12 = 452.57 square centimetres."
+   "answer": 1,
+   "explanation": "Area = pi x r^2 = 22/7 x 12 x 12 = 452.57 square centimetres.",
+   "topic": "Mensuration",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00035",
-   "q": "What is the perimeter of a rectangle 24 m long and 9 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 24 m long and 9 m wide?",
+   "options": [
     "33 m",
     "216 m",
     "57 m",
     "66 m"
    ],
-   "a": 3,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (24 + 9) = 66 m."
+   "answer": 3,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (24 + 9) = 66 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00036",
-   "q": "What is the compound interest on 4000 rupees at 14 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 4000 rupees at 14 per cent per annum for 2 years?",
+   "options": [
     "2396.8 rupees",
     "599.2 rupees",
     "1198.4 rupees",
     "1598.4 rupees"
    ],
-   "a": 2,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 4000 x (1 + 14/100)^2, so CI = 1198.4 rupees."
+   "answer": 2,
+   "explanation": "Amount = 4000 x (1 + 14/100)^2, so CI = 1198.4 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00037",
-   "q": "The marked price of an item is 1000 rupees and a discount of 15 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 1000 rupees and a discount of 15 per cent is given. What is the selling price?",
+   "options": [
     "840 rupees",
     "860 rupees",
     "1150 rupees",
     "850 rupees"
    ],
-   "a": 3,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1000 x (1 - 15/100) = 850 rupees."
+   "answer": 3,
+   "explanation": "Selling price = 1000 x (1 - 15/100) = 850 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00038",
-   "q": "A sum becomes 40 when 27 is added to another number 13. What is the value of 27 + 13?",
-   "o": [
+   "question": "A sum becomes 40 when 27 is added to another number 13. What is the value of 27 + 13?",
+   "options": [
     "41",
     "14",
     "40",
     "351"
    ],
-   "a": 2,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "27 + 13 = 40."
+   "answer": 2,
+   "explanation": "27 + 13 = 40.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00039",
-   "q": "What is 13 cubed?",
-   "o": [
+   "question": "What is 13 cubed?",
+   "options": [
     "169",
     "2744",
     "2197",
     "2210"
    ],
-   "a": 2,
-   "t": "Squares and Cubes",
-   "l": 1,
-   "s": "generated",
-   "e": "13^3 = 2197."
+   "answer": 2,
+   "explanation": "13^3 = 2197.",
+   "topic": "Squares and Cubes",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00040",
-   "q": "If 13 workers can complete a job in 8 days, how long will 10 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 13 workers can complete a job in 8 days, how long will 10 workers take (work at the same rate)?",
+   "options": [
     "8 days",
     "10.4 days",
     "10 days",
     "11.4 days"
    ],
-   "a": 1,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 13 x 8 / 10 = 10.4 days."
+   "answer": 1,
+   "explanation": "Men and time are inversely related: 13 x 8 / 10 = 10.4 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00041",
-   "q": "What is 74 x 58?",
-   "o": [
+   "question": "What is 74 x 58?",
+   "options": [
     "4288",
     "4292",
     "4234",
     "4366"
    ],
-   "a": 1,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "74 x 58 = 4292."
+   "answer": 1,
+   "explanation": "74 x 58 = 4292.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00042",
-   "q": "What is 40 per cent of 300?",
-   "o": [
+   "question": "What is 40 per cent of 300?",
+   "options": [
     "119",
     "180",
     "60",
     "120"
    ],
-   "a": 3,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "40 per cent of 300 = 120."
+   "answer": 3,
+   "explanation": "40 per cent of 300 = 120.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00043",
-   "q": "What is the simple interest on 600 rupees at 7 per cent per annum for 5 years?",
-   "o": [
+   "question": "What is the simple interest on 600 rupees at 7 per cent per annum for 5 years?",
+   "options": [
     "105 rupees",
     "210 rupees",
     "217 rupees",
     "270 rupees"
    ],
-   "a": 1,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 600 x 7 x 5 / 100 = 210."
+   "answer": 1,
+   "explanation": "SI = P x R x T / 100 = 600 x 7 x 5 / 100 = 210.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00044",
-   "q": "What is the average of 26, 35, 44, 51, 57?",
-   "o": [
+   "question": "What is the average of 26, 35, 44, 51, 57?",
+   "options": [
     "43.1",
     "44.6",
     "40.6",
     "42.6"
    ],
-   "a": 3,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 213, average = 42.6."
+   "answer": 3,
+   "explanation": "Sum = 213, average = 42.6.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00045",
-   "q": "An article bought for 100 rupees is sold at a profit of 7 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 100 rupees is sold at a profit of 7 per cent. What is the selling price?",
+   "options": [
     "100 rupees",
     "117 rupees",
     "107 rupees",
     "93 rupees"
    ],
-   "a": 2,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 100 x (1 + 7/100) = 107."
+   "answer": 2,
+   "explanation": "Selling price = 100 x (1 + 7/100) = 107.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00046",
-   "q": "A vehicle travels at 27 km per hour for 2 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 27 km per hour for 2 hours. What distance does it cover?",
+   "options": [
     "64 km",
     "27 km",
     "67.5 km",
     "54 km"
    ],
-   "a": 3,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 27 x 2 = 54 km."
+   "answer": 3,
+   "explanation": "Distance = speed x time = 27 x 2 = 54 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00047",
-   "q": "A train 100 metres long runs at 20 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 100 metres long runs at 20 metres per second. How long will it take to cross a pole?",
+   "options": [
     "5 seconds",
     "10 seconds",
     "2.5 seconds",
     "3 seconds"
    ],
-   "a": 0,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 100 / 20 = 5 seconds."
+   "answer": 0,
+   "explanation": "Time = length / speed = 100 / 20 = 5 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00048",
-   "q": "A can finish a piece of work in 17 days and B in 19 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 17 days and B in 19 days. Working together, in how many days will they finish it?",
+   "options": [
     "36 days",
     "17 days",
     "8.97 days",
     "17.94 days"
    ],
-   "a": 2,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/17 + 1/19, so time = 8.97 days."
+   "answer": 2,
+   "explanation": "Combined rate = 1/17 + 1/19, so time = 8.97 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00049",
-   "q": "What is the HCF of 33 and 7?",
-   "o": [
+   "question": "What is the HCF of 33 and 7?",
+   "options": [
     "231",
     "2",
     "1",
     "3"
    ],
-   "a": 2,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 33 and 7 is 1."
+   "answer": 2,
+   "explanation": "The highest common factor of 33 and 7 is 1.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00050",
-   "q": "What is the LCM of 7 and 9?",
-   "o": [
+   "question": "What is the LCM of 7 and 9?",
+   "options": [
     "70",
     "63",
     "54",
     "126"
    ],
-   "a": 1,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 7 and 9 is 63."
+   "answer": 1,
+   "explanation": "The least common multiple of 7 and 9 is 63.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00051",
-   "q": "What is the area of a circle of radius 8 cm? (take pi = 22/7)",
-   "o": [
+   "question": "What is the area of a circle of radius 8 cm? (take pi = 22/7)",
+   "options": [
     "64 sq cm",
     "50.29 sq cm",
     "25.14 sq cm",
     "201.14 sq cm"
    ],
-   "a": 3,
-   "t": "Mensuration",
-   "l": 2,
-   "s": "generated",
-   "e": "Area = pi x r^2 = 22/7 x 8 x 8 = 201.14 square centimetres."
+   "answer": 3,
+   "explanation": "Area = pi x r^2 = 22/7 x 8 x 8 = 201.14 square centimetres.",
+   "topic": "Mensuration",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00052",
-   "q": "What is the perimeter of a rectangle 7 m long and 17 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 7 m long and 17 m wide?",
+   "options": [
     "59.5 m",
     "119 m",
     "31 m",
     "48 m"
    ],
-   "a": 3,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (7 + 17) = 48 m."
+   "answer": 3,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (7 + 17) = 48 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00053",
-   "q": "What is the compound interest on 1000 rupees at 9 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 1000 rupees at 9 per cent per annum for 2 years?",
+   "options": [
     "376.2 rupees",
     "94.05 rupees",
     "188.1 rupees",
     "288.1 rupees"
    ],
-   "a": 2,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 1000 x (1 + 9/100)^2, so CI = 188.1 rupees."
+   "answer": 2,
+   "explanation": "Amount = 1000 x (1 + 9/100)^2, so CI = 188.1 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00054",
-   "q": "The marked price of an item is 1000 rupees and a discount of 15 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 1000 rupees and a discount of 15 per cent is given. What is the selling price?",
+   "options": [
     "1000 rupees",
     "1150 rupees",
     "850 rupees",
     "860 rupees"
    ],
-   "a": 2,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1000 x (1 - 15/100) = 850 rupees."
+   "answer": 2,
+   "explanation": "Selling price = 1000 x (1 - 15/100) = 850 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00055",
-   "q": "A sum becomes 35 when 25 is added to another number 10. What is the value of 25 + 10?",
-   "o": [
+   "question": "A sum becomes 35 when 25 is added to another number 10. What is the value of 25 + 10?",
+   "options": [
     "36",
     "15",
     "37",
     "35"
    ],
-   "a": 3,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "25 + 10 = 35."
+   "answer": 3,
+   "explanation": "25 + 10 = 35.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00056",
-   "q": "What is 3 cubed?",
-   "o": [
+   "question": "What is 3 cubed?",
+   "options": [
     "64",
     "24",
     "30",
     "27"
    ],
-   "a": 3,
-   "t": "Squares and Cubes",
-   "l": 1,
-   "s": "generated",
-   "e": "3^3 = 27."
+   "answer": 3,
+   "explanation": "3^3 = 27.",
+   "topic": "Squares and Cubes",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00057",
-   "q": "If 24 workers can complete a job in 18 days, how long will 11 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 24 workers can complete a job in 18 days, how long will 11 workers take (work at the same rate)?",
+   "options": [
     "40.27 days",
     "9 days",
     "18 days",
     "39.27 days"
    ],
-   "a": 3,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 24 x 18 / 11 = 39.27 days."
+   "answer": 3,
+   "explanation": "Men and time are inversely related: 24 x 18 / 11 = 39.27 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00058",
-   "q": "What is 99 x 68?",
-   "o": [
+   "question": "What is 99 x 68?",
+   "options": [
     "6728",
     "6831",
     "6732",
     "6664"
    ],
-   "a": 2,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "99 x 68 = 6732."
+   "answer": 2,
+   "explanation": "99 x 68 = 6732.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00059",
-   "q": "What is 75 per cent of 700?",
-   "o": [
+   "question": "What is 75 per cent of 700?",
+   "options": [
     "532",
     "787.5",
     "1050",
     "525"
    ],
-   "a": 3,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "75 per cent of 700 = 525."
+   "answer": 3,
+   "explanation": "75 per cent of 700 = 525.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00060",
-   "q": "What is the simple interest on 1900 rupees at 5 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the simple interest on 1900 rupees at 5 per cent per annum for 2 years?",
+   "options": [
     "190 rupees",
     "195 rupees",
     "380 rupees",
     "228 rupees"
    ],
-   "a": 0,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 1900 x 5 x 2 / 100 = 190."
+   "answer": 0,
+   "explanation": "SI = P x R x T / 100 = 1900 x 5 x 2 / 100 = 190.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00061",
-   "q": "What is the average of 42, 49, 55, 63, 67?",
-   "o": [
+   "question": "What is the average of 42, 49, 55, 63, 67?",
+   "options": [
     "53.2",
     "55.2",
     "56.2",
     "57.2"
    ],
-   "a": 1,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 276, average = 55.2."
+   "answer": 1,
+   "explanation": "Sum = 276, average = 55.2.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00062",
-   "q": "An article bought for 800 rupees is sold at a profit of 34 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 800 rupees is sold at a profit of 34 per cent. What is the selling price?",
+   "options": [
     "800 rupees",
     "1082 rupees",
     "1072 rupees",
     "1067 rupees"
    ],
-   "a": 2,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 800 x (1 + 34/100) = 1072."
+   "answer": 2,
+   "explanation": "Selling price = 800 x (1 + 34/100) = 1072.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00063",
-   "q": "A vehicle travels at 66 km per hour for 3 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 66 km per hour for 3 hours. What distance does it cover?",
+   "options": [
     "198 km",
     "208 km",
     "132 km",
     "247.5 km"
    ],
-   "a": 0,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 66 x 3 = 198 km."
+   "answer": 0,
+   "explanation": "Distance = speed x time = 66 x 3 = 198 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00064",
-   "q": "A train 150 metres long runs at 25 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 150 metres long runs at 25 metres per second. How long will it take to cross a pole?",
+   "options": [
     "4 seconds",
     "16 seconds",
     "6 seconds",
     "3 seconds"
    ],
-   "a": 2,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 150 / 25 = 6 seconds."
+   "answer": 2,
+   "explanation": "Time = length / speed = 150 / 25 = 6 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00065",
-   "q": "A can finish a piece of work in 19 days and B in 19 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 19 days and B in 19 days. Working together, in how many days will they finish it?",
+   "options": [
     "9.5 days",
     "10.5 days",
     "38 days",
     "19 days"
    ],
-   "a": 0,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/19 + 1/19, so time = 9.5 days."
+   "answer": 0,
+   "explanation": "Combined rate = 1/19 + 1/19, so time = 9.5 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00066",
-   "q": "What is the HCF of 9 and 35?",
-   "o": [
+   "question": "What is the HCF of 9 and 35?",
+   "options": [
     "1",
     "2",
     "315",
     "0"
    ],
-   "a": 0,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 9 and 35 is 1."
+   "answer": 0,
+   "explanation": "The highest common factor of 9 and 35 is 1.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00067",
-   "q": "What is the LCM of 19 and 13?",
-   "o": [
+   "question": "What is the LCM of 19 and 13?",
+   "options": [
     "247",
     "234",
     "266",
     "123.5"
    ],
-   "a": 0,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 19 and 13 is 247."
+   "answer": 0,
+   "explanation": "The least common multiple of 19 and 13 is 247.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00068",
-   "q": "What is the area of a circle of radius 10 cm? (take pi = 22/7)",
-   "o": [
+   "question": "What is the area of a circle of radius 10 cm? (take pi = 22/7)",
+   "options": [
     "62.86 sq cm",
     "31.43 sq cm",
     "314.29 sq cm",
     "628.57 sq cm"
    ],
-   "a": 2,
-   "t": "Mensuration",
-   "l": 2,
-   "s": "generated",
-   "e": "Area = pi x r^2 = 22/7 x 10 x 10 = 314.29 square centimetres."
+   "answer": 2,
+   "explanation": "Area = pi x r^2 = 22/7 x 10 x 10 = 314.29 square centimetres.",
+   "topic": "Mensuration",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00069",
-   "q": "What is the perimeter of a rectangle 9 m long and 20 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 9 m long and 20 m wide?",
+   "options": [
     "58 m",
     "36 m",
     "38 m",
     "90 m"
    ],
-   "a": 0,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (9 + 20) = 58 m."
+   "answer": 0,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (9 + 20) = 58 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00070",
-   "q": "What is the compound interest on 9000 rupees at 14 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 9000 rupees at 14 per cent per annum for 2 years?",
+   "options": [
     "3596.4 rupees",
     "2696.4 rupees",
     "5392.8 rupees",
     "1348.2 rupees"
    ],
-   "a": 1,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 9000 x (1 + 14/100)^2, so CI = 2696.4 rupees."
+   "answer": 1,
+   "explanation": "Amount = 9000 x (1 + 14/100)^2, so CI = 2696.4 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00071",
-   "q": "The marked price of an item is 800 rupees and a discount of 25 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 800 rupees and a discount of 25 per cent is given. What is the selling price?",
+   "options": [
     "610 rupees",
     "800 rupees",
     "775 rupees",
     "600 rupees"
    ],
-   "a": 3,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 800 x (1 - 25/100) = 600 rupees."
+   "answer": 3,
+   "explanation": "Selling price = 800 x (1 - 25/100) = 600 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00072",
-   "q": "A sum becomes 35 when 23 is added to another number 12. What is the value of 23 + 12?",
-   "o": [
+   "question": "A sum becomes 35 when 23 is added to another number 12. What is the value of 23 + 12?",
+   "options": [
     "276",
     "35",
     "11",
     "37"
    ],
-   "a": 1,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "23 + 12 = 35."
+   "answer": 1,
+   "explanation": "23 + 12 = 35.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00073",
-   "q": "What is 4 cubed?",
-   "o": [
+   "question": "What is 4 cubed?",
+   "options": [
     "64",
     "68",
     "60",
     "16"
    ],
-   "a": 0,
-   "t": "Squares and Cubes",
-   "l": 1,
-   "s": "generated",
-   "e": "4^3 = 64."
+   "answer": 0,
+   "explanation": "4^3 = 64.",
+   "topic": "Squares and Cubes",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00074",
-   "q": "If 16 workers can complete a job in 5 days, how long will 19 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 16 workers can complete a job in 5 days, how long will 19 workers take (work at the same rate)?",
+   "options": [
     "3.64 days",
     "4.21 days",
     "5.21 days",
     "5 days"
    ],
-   "a": 1,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 16 x 5 / 19 = 4.21 days."
+   "answer": 1,
+   "explanation": "Men and time are inversely related: 16 x 5 / 19 = 4.21 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00075",
-   "q": "What is 75 x 74?",
-   "o": [
+   "question": "What is 75 x 74?",
+   "options": [
     "5476",
     "5546",
     "5550",
     "5624"
    ],
-   "a": 2,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "75 x 74 = 5550."
+   "answer": 2,
+   "explanation": "75 x 74 = 5550.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00076",
-   "q": "What is 50 per cent of 320?",
-   "o": [
+   "question": "What is 50 per cent of 320?",
+   "options": [
     "80",
     "320",
     "160",
     "163.2"
    ],
-   "a": 2,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "50 per cent of 320 = 160."
+   "answer": 2,
+   "explanation": "50 per cent of 320 = 160.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00077",
-   "q": "What is the simple interest on 400 rupees at 12 per cent per annum for 4 years?",
-   "o": [
+   "question": "What is the simple interest on 400 rupees at 12 per cent per annum for 4 years?",
+   "options": [
     "192 rupees",
     "96 rupees",
     "204 rupees",
     "232 rupees"
    ],
-   "a": 0,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 400 x 12 x 4 / 100 = 192."
+   "answer": 0,
+   "explanation": "SI = P x R x T / 100 = 400 x 12 x 4 / 100 = 192.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00078",
-   "q": "What is the average of 32, 39, 40, 49, 55?",
-   "o": [
+   "question": "What is the average of 32, 39, 40, 49, 55?",
+   "options": [
     "43",
     "42",
     "44",
     "43.5"
    ],
-   "a": 0,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 215, average = 43."
+   "answer": 0,
+   "explanation": "Sum = 215, average = 43.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00079",
-   "q": "An article bought for 300 rupees is sold at a profit of 16 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 300 rupees is sold at a profit of 16 per cent. What is the selling price?",
+   "options": [
     "358 rupees",
     "316 rupees",
     "348 rupees",
     "252 rupees"
    ],
-   "a": 2,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 300 x (1 + 16/100) = 348."
+   "answer": 2,
+   "explanation": "Selling price = 300 x (1 + 16/100) = 348.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00080",
-   "q": "A vehicle travels at 64 km per hour for 5 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 64 km per hour for 5 hours. What distance does it cover?",
+   "options": [
     "320 km",
     "160 km",
     "330 km",
     "256 km"
    ],
-   "a": 0,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 64 x 5 = 320 km."
+   "answer": 0,
+   "explanation": "Distance = speed x time = 64 x 5 = 320 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00081",
-   "q": "A train 200 metres long runs at 24 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 200 metres long runs at 24 metres per second. How long will it take to cross a pole?",
+   "options": [
     "8.33 seconds",
     "13.33 seconds",
     "6.33 seconds",
     "16.67 seconds"
    ],
-   "a": 0,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 200 / 24 = 8.33 seconds."
+   "answer": 0,
+   "explanation": "Time = length / speed = 200 / 24 = 8.33 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00082",
-   "q": "A can finish a piece of work in 12 days and B in 16 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 12 days and B in 16 days. Working together, in how many days will they finish it?",
+   "options": [
     "6.86 days",
     "7.86 days",
     "14 days",
     "12 days"
    ],
-   "a": 0,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/12 + 1/16, so time = 6.86 days."
+   "answer": 0,
+   "explanation": "Combined rate = 1/12 + 1/16, so time = 6.86 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00083",
-   "q": "What is the HCF of 23 and 29?",
-   "o": [
+   "question": "What is the HCF of 23 and 29?",
+   "options": [
     "2",
     "1",
     "0",
     "3"
    ],
-   "a": 1,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 23 and 29 is 1."
+   "answer": 1,
+   "explanation": "The highest common factor of 23 and 29 is 1.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00084",
-   "q": "What is the LCM of 20 and 15?",
-   "o": [
+   "question": "What is the LCM of 20 and 15?",
+   "options": [
     "45",
     "30",
     "60",
     "300"
    ],
-   "a": 2,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 20 and 15 is 60."
+   "answer": 2,
+   "explanation": "The least common multiple of 20 and 15 is 60.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00085",
-   "q": "What is the area of a circle of radius 3 cm? (take pi = 22/7)",
-   "o": [
+   "question": "What is the area of a circle of radius 3 cm? (take pi = 22/7)",
+   "options": [
     "9 sq cm",
     "28.29 sq cm",
     "56.57 sq cm",
     "18.86 sq cm"
    ],
-   "a": 1,
-   "t": "Mensuration",
-   "l": 2,
-   "s": "generated",
-   "e": "Area = pi x r^2 = 22/7 x 3 x 3 = 28.29 square centimetres."
+   "answer": 1,
+   "explanation": "Area = pi x r^2 = 22/7 x 3 x 3 = 28.29 square centimetres.",
+   "topic": "Mensuration",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00086",
-   "q": "What is the perimeter of a rectangle 24 m long and 18 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 24 m long and 18 m wide?",
+   "options": [
     "66 m",
     "216 m",
     "42 m",
     "84 m"
    ],
-   "a": 3,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (24 + 18) = 84 m."
+   "answer": 3,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (24 + 18) = 84 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00087",
-   "q": "What is the compound interest on 2000 rupees at 12 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 2000 rupees at 12 per cent per annum for 2 years?",
+   "options": [
     "508.8 rupees",
     "480 rupees",
     "708.8 rupees",
     "496.8 rupees"
    ],
-   "a": 0,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 2000 x (1 + 12/100)^2, so CI = 508.8 rupees."
+   "answer": 0,
+   "explanation": "Amount = 2000 x (1 + 12/100)^2, so CI = 508.8 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00088",
-   "q": "The marked price of an item is 200 rupees and a discount of 5 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 200 rupees and a discount of 5 per cent is given. What is the selling price?",
+   "options": [
     "180 rupees",
     "210 rupees",
     "195 rupees",
     "190 rupees"
    ],
-   "a": 3,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 200 x (1 - 5/100) = 190 rupees."
+   "answer": 3,
+   "explanation": "Selling price = 200 x (1 - 5/100) = 190 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00089",
-   "q": "A sum becomes 38 when 19 is added to another number 19. What is the value of 19 + 19?",
-   "o": [
+   "question": "A sum becomes 38 when 19 is added to another number 19. What is the value of 19 + 19?",
+   "options": [
     "40",
     "37",
     "38",
     "0"
    ],
-   "a": 2,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "19 + 19 = 38."
+   "answer": 2,
+   "explanation": "19 + 19 = 38.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00090",
-   "q": "What is 7 cubed?",
-   "o": [
+   "question": "What is 7 cubed?",
+   "options": [
     "686",
     "49",
     "350",
     "343"
    ],
-   "a": 3,
-   "t": "Squares and Cubes",
-   "l": 1,
-   "s": "generated",
-   "e": "7^3 = 343."
+   "answer": 3,
+   "explanation": "7^3 = 343.",
+   "topic": "Squares and Cubes",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00091",
-   "q": "If 24 workers can complete a job in 4 days, how long will 21 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 24 workers can complete a job in 4 days, how long will 21 workers take (work at the same rate)?",
+   "options": [
     "4.57 days",
     "6 days",
     "5.57 days",
     "2 days"
    ],
-   "a": 0,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 24 x 4 / 21 = 4.57 days."
+   "answer": 0,
+   "explanation": "Men and time are inversely related: 24 x 4 / 21 = 4.57 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00092",
-   "q": "What is 94 x 57?",
-   "o": [
+   "question": "What is 94 x 57?",
+   "options": [
     "5358",
     "5415",
     "5452",
     "5354"
    ],
-   "a": 0,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "94 x 57 = 5358."
+   "answer": 0,
+   "explanation": "94 x 57 = 5358.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00093",
-   "q": "What is 20 per cent of 580?",
-   "o": [
+   "question": "What is 20 per cent of 580?",
+   "options": [
     "121.8",
     "58",
     "232",
     "116"
    ],
-   "a": 3,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "20 per cent of 580 = 116."
+   "answer": 3,
+   "explanation": "20 per cent of 580 = 116.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00094",
-   "q": "What is the simple interest on 1200 rupees at 13 per cent per annum for 1 years?",
-   "o": [
+   "question": "What is the simple interest on 1200 rupees at 13 per cent per annum for 1 years?",
+   "options": [
     "143 rupees",
     "276 rupees",
     "78 rupees",
     "156 rupees"
    ],
-   "a": 3,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 1200 x 13 x 1 / 100 = 156."
+   "answer": 3,
+   "explanation": "SI = P x R x T / 100 = 1200 x 13 x 1 / 100 = 156.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00095",
-   "q": "What is the average of 14, 15, 22, 31, 36?",
-   "o": [
+   "question": "What is the average of 14, 15, 22, 31, 36?",
+   "options": [
     "25.6",
     "24.6",
     "21.6",
     "23.6"
    ],
-   "a": 3,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 118, average = 23.6."
+   "answer": 3,
+   "explanation": "Sum = 118, average = 23.6.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00096",
-   "q": "An article bought for 500 rupees is sold at a profit of 17 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 500 rupees is sold at a profit of 17 per cent. What is the selling price?",
+   "options": [
     "415 rupees",
     "585 rupees",
     "595 rupees",
     "580 rupees"
    ],
-   "a": 1,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 500 x (1 + 17/100) = 585."
+   "answer": 1,
+   "explanation": "Selling price = 500 x (1 + 17/100) = 585.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00097",
-   "q": "A vehicle travels at 64 km per hour for 3 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 64 km per hour for 3 hours. What distance does it cover?",
+   "options": [
     "192 km",
     "202 km",
     "256 km",
     "128 km"
    ],
-   "a": 0,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 64 x 3 = 192 km."
+   "answer": 0,
+   "explanation": "Distance = speed x time = 64 x 3 = 192 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00098",
-   "q": "A train 150 metres long runs at 11 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 150 metres long runs at 11 metres per second. How long will it take to cross a pole?",
+   "options": [
     "13.64 seconds",
     "18.64 seconds",
     "11.64 seconds",
     "6.82 seconds"
    ],
-   "a": 0,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 150 / 11 = 13.64 seconds."
+   "answer": 0,
+   "explanation": "Time = length / speed = 150 / 11 = 13.64 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00099",
-   "q": "A can finish a piece of work in 15 days and B in 22 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 15 days and B in 22 days. Working together, in how many days will they finish it?",
+   "options": [
     "37 days",
     "9.92 days",
     "8.92 days",
     "15 days"
    ],
-   "a": 2,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/15 + 1/22, so time = 8.92 days."
+   "answer": 2,
+   "explanation": "Combined rate = 1/15 + 1/22, so time = 8.92 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00100",
-   "q": "What is the HCF of 29 and 33?",
-   "o": [
+   "question": "What is the HCF of 29 and 33?",
+   "options": [
     "0",
     "1",
     "2",
     "3"
    ],
-   "a": 1,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 29 and 33 is 1."
+   "answer": 1,
+   "explanation": "The highest common factor of 29 and 33 is 1.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00101",
-   "q": "What is the LCM of 11 and 8?",
-   "o": [
+   "question": "What is the LCM of 11 and 8?",
+   "options": [
     "176",
     "80",
     "88",
     "44"
    ],
-   "a": 2,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 11 and 8 is 88."
+   "answer": 2,
+   "explanation": "The least common multiple of 11 and 8 is 88.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00102",
-   "q": "What is the area of a circle of radius 19 cm? (take pi = 22/7)",
-   "o": [
+   "question": "What is the area of a circle of radius 19 cm? (take pi = 22/7)",
+   "options": [
     "1134.57 sq cm",
     "59.71 sq cm",
     "2269.14 sq cm",
     "361 sq cm"
    ],
-   "a": 0,
-   "t": "Mensuration",
-   "l": 2,
-   "s": "generated",
-   "e": "Area = pi x r^2 = 22/7 x 19 x 19 = 1134.57 square centimetres."
+   "answer": 0,
+   "explanation": "Area = pi x r^2 = 22/7 x 19 x 19 = 1134.57 square centimetres.",
+   "topic": "Mensuration",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00103",
-   "q": "What is the perimeter of a rectangle 24 m long and 5 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 24 m long and 5 m wide?",
+   "options": [
     "53 m",
     "120 m",
     "96 m",
     "58 m"
    ],
-   "a": 3,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (24 + 5) = 58 m."
+   "answer": 3,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (24 + 5) = 58 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00104",
-   "q": "What is the compound interest on 5000 rupees at 12 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 5000 rupees at 12 per cent per annum for 2 years?",
+   "options": [
     "1200 rupees",
     "2544 rupees",
     "1260 rupees",
     "1272 rupees"
    ],
-   "a": 3,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 5000 x (1 + 12/100)^2, so CI = 1272 rupees."
+   "answer": 3,
+   "explanation": "Amount = 5000 x (1 + 12/100)^2, so CI = 1272 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00105",
-   "q": "The marked price of an item is 1600 rupees and a discount of 15 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 1600 rupees and a discount of 15 per cent is given. What is the selling price?",
+   "options": [
     "1370 rupees",
     "1585 rupees",
     "1360 rupees",
     "1600 rupees"
    ],
-   "a": 2,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1600 x (1 - 15/100) = 1360 rupees."
+   "answer": 2,
+   "explanation": "Selling price = 1600 x (1 - 15/100) = 1360 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00106",
-   "q": "A sum becomes 50 when 27 is added to another number 23. What is the value of 27 + 23?",
-   "o": [
+   "question": "A sum becomes 50 when 27 is added to another number 23. What is the value of 27 + 23?",
+   "options": [
     "50",
     "4",
     "51",
     "52"
    ],
-   "a": 0,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "27 + 23 = 50."
+   "answer": 0,
+   "explanation": "27 + 23 = 50.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00107",
-   "q": "What is 3 cubed?",
-   "o": [
+   "question": "What is 3 cubed?",
+   "options": [
     "64",
     "27",
     "30",
     "9"
    ],
-   "a": 1,
-   "t": "Squares and Cubes",
-   "l": 1,
-   "s": "generated",
-   "e": "3^3 = 27."
+   "answer": 1,
+   "explanation": "3^3 = 27.",
+   "topic": "Squares and Cubes",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00108",
-   "q": "If 6 workers can complete a job in 17 days, how long will 7 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 6 workers can complete a job in 17 days, how long will 7 workers take (work at the same rate)?",
+   "options": [
     "14.57 days",
     "10.2 days",
     "15.57 days",
     "17 days"
    ],
-   "a": 0,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 6 x 17 / 7 = 14.57 days."
+   "answer": 0,
+   "explanation": "Men and time are inversely related: 6 x 17 / 7 = 14.57 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00109",
-   "q": "What is 58 x 44?",
-   "o": [
+   "question": "What is 58 x 44?",
+   "options": [
     "2508",
     "2610",
     "2596",
     "2552"
    ],
-   "a": 3,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "58 x 44 = 2552."
+   "answer": 3,
+   "explanation": "58 x 44 = 2552.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00110",
-   "q": "What is 20 per cent of 520?",
-   "o": [
+   "question": "What is 20 per cent of 520?",
+   "options": [
     "156",
     "103",
     "104",
     "208"
    ],
-   "a": 2,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "20 per cent of 520 = 104."
+   "answer": 2,
+   "explanation": "20 per cent of 520 = 104.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00111",
-   "q": "What is the simple interest on 1200 rupees at 12 per cent per annum for 6 years?",
-   "o": [
+   "question": "What is the simple interest on 1200 rupees at 12 per cent per annum for 6 years?",
+   "options": [
     "852 rupees",
     "432 rupees",
     "984 rupees",
     "864 rupees"
    ],
-   "a": 3,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 1200 x 12 x 6 / 100 = 864."
+   "answer": 3,
+   "explanation": "SI = P x R x T / 100 = 1200 x 12 x 6 / 100 = 864.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00112",
-   "q": "What is the average of 30, 31, 32, 34, 38?",
-   "o": [
+   "question": "What is the average of 30, 31, 32, 34, 38?",
+   "options": [
     "34",
     "33",
     "35",
     "32"
    ],
-   "a": 1,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 165, average = 33."
+   "answer": 1,
+   "explanation": "Sum = 165, average = 33.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00113",
-   "q": "A sum of 180 rupees is divided between two people in the ratio 5:1. What is the larger share?",
-   "o": [
+   "question": "A sum of 180 rupees is divided between two people in the ratio 5:1. What is the larger share?",
+   "options": [
     "150 rupees",
     "30 rupees",
     "180 rupees",
     "90 rupees"
    ],
-   "a": 0,
-   "t": "Ratio",
-   "l": 2,
-   "s": "generated",
-   "e": "One part is 30 rupees, so the shares are 150 and 30."
+   "answer": 0,
+   "explanation": "One part is 30 rupees, so the shares are 150 and 30.",
+   "topic": "Ratio",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00114",
-   "q": "An article bought for 200 rupees is sold at a profit of 18 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 200 rupees is sold at a profit of 18 per cent. What is the selling price?",
+   "options": [
     "218 rupees",
     "236 rupees",
     "246 rupees",
     "231 rupees"
    ],
-   "a": 1,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 200 x (1 + 18/100) = 236."
+   "answer": 1,
+   "explanation": "Selling price = 200 x (1 + 18/100) = 236.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00115",
-   "q": "A vehicle travels at 42 km per hour for 5 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 42 km per hour for 5 hours. What distance does it cover?",
+   "options": [
     "252 km",
     "105 km",
     "210 km",
     "168 km"
    ],
-   "a": 2,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 42 x 5 = 210 km."
+   "answer": 2,
+   "explanation": "Distance = speed x time = 42 x 5 = 210 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00116",
-   "q": "A train 50 metres long runs at 22 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 50 metres long runs at 22 metres per second. How long will it take to cross a pole?",
+   "options": [
     "4.55 seconds",
     "7.27 seconds",
     "2.27 seconds",
     "12.27 seconds"
    ],
-   "a": 2,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 50 / 22 = 2.27 seconds."
+   "answer": 2,
+   "explanation": "Time = length / speed = 50 / 22 = 2.27 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00117",
-   "q": "A can finish a piece of work in 8 days and B in 14 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 8 days and B in 14 days. Working together, in how many days will they finish it?",
+   "options": [
     "10.18 days",
     "8 days",
     "22 days",
     "5.09 days"
    ],
-   "a": 3,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/8 + 1/14, so time = 5.09 days."
+   "answer": 3,
+   "explanation": "Combined rate = 1/8 + 1/14, so time = 5.09 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00118",
-   "q": "What is the HCF of 21 and 32?",
-   "o": [
+   "question": "What is the HCF of 21 and 32?",
+   "options": [
     "3",
     "1",
     "0",
     "672"
    ],
-   "a": 1,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 21 and 32 is 1."
+   "answer": 1,
+   "explanation": "The highest common factor of 21 and 32 is 1.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00119",
-   "q": "What is the LCM of 14 and 17?",
-   "o": [
+   "question": "What is the LCM of 14 and 17?",
+   "options": [
     "238",
     "252",
     "119",
     "221"
    ],
-   "a": 0,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 14 and 17 is 238."
+   "answer": 0,
+   "explanation": "The least common multiple of 14 and 17 is 238.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00120",
-   "q": "What is the area of a circle of radius 6 cm? (take pi = 22/7)",
-   "o": [
+   "question": "What is the area of a circle of radius 6 cm? (take pi = 22/7)",
+   "options": [
     "226.29 sq cm",
     "113.14 sq cm",
     "37.71 sq cm",
     "36 sq cm"
    ],
-   "a": 1,
-   "t": "Mensuration",
-   "l": 2,
-   "s": "generated",
-   "e": "Area = pi x r^2 = 22/7 x 6 x 6 = 113.14 square centimetres."
+   "answer": 1,
+   "explanation": "Area = pi x r^2 = 22/7 x 6 x 6 = 113.14 square centimetres.",
+   "topic": "Mensuration",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00121",
-   "q": "What is the perimeter of a rectangle 14 m long and 19 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 14 m long and 19 m wide?",
+   "options": [
     "66 m",
     "133 m",
     "33 m",
     "47 m"
    ],
-   "a": 0,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (14 + 19) = 66 m."
+   "answer": 0,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (14 + 19) = 66 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00122",
-   "q": "What is the compound interest on 8000 rupees at 7 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 8000 rupees at 7 per cent per annum for 2 years?",
+   "options": [
     "1152.2 rupees",
     "1959.2 rupees",
     "2318.4 rupees",
     "1159.2 rupees"
    ],
-   "a": 3,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 8000 x (1 + 7/100)^2, so CI = 1159.2 rupees."
+   "answer": 3,
+   "explanation": "Amount = 8000 x (1 + 7/100)^2, so CI = 1159.2 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00123",
-   "q": "The marked price of an item is 600 rupees and a discount of 5 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 600 rupees and a discount of 5 per cent is given. What is the selling price?",
+   "options": [
     "580 rupees",
     "600 rupees",
     "570 rupees",
     "560 rupees"
    ],
-   "a": 2,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 600 x (1 - 5/100) = 570 rupees."
+   "answer": 2,
+   "explanation": "Selling price = 600 x (1 - 5/100) = 570 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00124",
-   "q": "A sum becomes 20 when 9 is added to another number 11. What is the value of 9 + 11?",
-   "o": [
+   "question": "A sum becomes 20 when 9 is added to another number 11. What is the value of 9 + 11?",
+   "options": [
     "19",
     "21",
     "20",
     "99"
    ],
-   "a": 2,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "9 + 11 = 20."
+   "answer": 2,
+   "explanation": "9 + 11 = 20.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00125",
-   "q": "What is 13 cubed?",
-   "o": [
+   "question": "What is 13 cubed?",
+   "options": [
     "169",
     "2197",
     "4394",
     "2744"
    ],
-   "a": 1,
-   "t": "Squares and Cubes",
-   "l": 1,
-   "s": "generated",
-   "e": "13^3 = 2197."
+   "answer": 1,
+   "explanation": "13^3 = 2197.",
+   "topic": "Squares and Cubes",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00126",
-   "q": "If 9 workers can complete a job in 10 days, how long will 10 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 9 workers can complete a job in 10 days, how long will 10 workers take (work at the same rate)?",
+   "options": [
     "5 days",
     "6.92 days",
     "9 days",
     "12 days"
    ],
-   "a": 2,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 9 x 10 / 10 = 9 days."
+   "answer": 2,
+   "explanation": "Men and time are inversely related: 9 x 10 / 10 = 9 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00127",
-   "q": "What is 75 x 35?",
-   "o": [
+   "question": "What is 75 x 35?",
+   "options": [
     "2621",
     "2625",
     "2700",
     "2660"
    ],
-   "a": 1,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "75 x 35 = 2625."
+   "answer": 1,
+   "explanation": "75 x 35 = 2625.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00128",
-   "q": "What is 50 per cent of 240?",
-   "o": [
+   "question": "What is 50 per cent of 240?",
+   "options": [
     "60",
     "119",
     "240",
     "120"
    ],
-   "a": 3,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "50 per cent of 240 = 120."
+   "answer": 3,
+   "explanation": "50 per cent of 240 = 120.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00129",
-   "q": "What is the simple interest on 100 rupees at 10 per cent per annum for 5 years?",
-   "o": [
+   "question": "What is the simple interest on 100 rupees at 10 per cent per annum for 5 years?",
+   "options": [
     "25 rupees",
     "60 rupees",
     "50 rupees",
     "40 rupees"
    ],
-   "a": 2,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 100 x 10 x 5 / 100 = 50."
+   "answer": 2,
+   "explanation": "SI = P x R x T / 100 = 100 x 10 x 5 / 100 = 50.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00130",
-   "q": "What is the average of 12, 14, 17, 21, 23?",
-   "o": [
+   "question": "What is the average of 12, 14, 17, 21, 23?",
+   "options": [
     "17.4",
     "15.399999999999999",
     "17.9",
     "18.4"
    ],
-   "a": 0,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 87, average = 17.4."
+   "answer": 0,
+   "explanation": "Sum = 87, average = 17.4.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00131",
-   "q": "An article bought for 300 rupees is sold at a profit of 25 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 300 rupees is sold at a profit of 25 per cent. What is the selling price?",
+   "options": [
     "300 rupees",
     "375 rupees",
     "385 rupees",
     "325 rupees"
    ],
-   "a": 1,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 300 x (1 + 25/100) = 375."
+   "answer": 1,
+   "explanation": "Selling price = 300 x (1 + 25/100) = 375.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00132",
-   "q": "A vehicle travels at 52 km per hour for 4 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 52 km per hour for 4 hours. What distance does it cover?",
+   "options": [
     "260 km",
     "156 km",
     "208 km",
     "218 km"
    ],
-   "a": 2,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 52 x 4 = 208 km."
+   "answer": 2,
+   "explanation": "Distance = speed x time = 52 x 4 = 208 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00133",
-   "q": "A train 250 metres long runs at 11 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 250 metres long runs at 11 metres per second. How long will it take to cross a pole?",
+   "options": [
     "22.73 seconds",
     "11.36 seconds",
     "27.73 seconds",
     "45.45 seconds"
    ],
-   "a": 0,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 250 / 11 = 22.73 seconds."
+   "answer": 0,
+   "explanation": "Time = length / speed = 250 / 11 = 22.73 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00134",
-   "q": "A can finish a piece of work in 8 days and B in 17 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 8 days and B in 17 days. Working together, in how many days will they finish it?",
+   "options": [
     "25 days",
     "6.44 days",
     "5.44 days",
     "12.5 days"
    ],
-   "a": 2,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/8 + 1/17, so time = 5.44 days."
+   "answer": 2,
+   "explanation": "Combined rate = 1/8 + 1/17, so time = 5.44 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00135",
-   "q": "What is the HCF of 20 and 16?",
-   "o": [
+   "question": "What is the HCF of 20 and 16?",
+   "options": [
     "4",
     "5",
     "3",
     "80"
    ],
-   "a": 0,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 20 and 16 is 4."
+   "answer": 0,
+   "explanation": "The highest common factor of 20 and 16 is 4.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00136",
-   "q": "What is the LCM of 10 and 12?",
-   "o": [
+   "question": "What is the LCM of 10 and 12?",
+   "options": [
     "30",
     "60",
     "48",
     "70"
    ],
-   "a": 1,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 10 and 12 is 60."
+   "answer": 1,
+   "explanation": "The least common multiple of 10 and 12 is 60.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00137",
-   "q": "What is the area of a circle of radius 5 cm? (take pi = 22/7)",
-   "o": [
+   "question": "What is the area of a circle of radius 5 cm? (take pi = 22/7)",
+   "options": [
     "31.43 sq cm",
     "78.57 sq cm",
     "15.71 sq cm",
     "157.14 sq cm"
    ],
-   "a": 1,
-   "t": "Mensuration",
-   "l": 2,
-   "s": "generated",
-   "e": "Area = pi x r^2 = 22/7 x 5 x 5 = 78.57 square centimetres."
+   "answer": 1,
+   "explanation": "Area = pi x r^2 = 22/7 x 5 x 5 = 78.57 square centimetres.",
+   "topic": "Mensuration",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00138",
-   "q": "What is the perimeter of a rectangle 7 m long and 11 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 7 m long and 11 m wide?",
+   "options": [
     "36 m",
     "28 m",
     "18 m",
     "25 m"
    ],
-   "a": 0,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (7 + 11) = 36 m."
+   "answer": 0,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (7 + 11) = 36 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00139",
-   "q": "What is the compound interest on 8000 rupees at 6 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 8000 rupees at 6 per cent per annum for 2 years?",
+   "options": [
     "494.4 rupees",
     "1977.6 rupees",
     "988.8 rupees",
     "1788.8 rupees"
    ],
-   "a": 2,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 8000 x (1 + 6/100)^2, so CI = 988.8 rupees."
+   "answer": 2,
+   "explanation": "Amount = 8000 x (1 + 6/100)^2, so CI = 988.8 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00140",
-   "q": "The marked price of an item is 600 rupees and a discount of 15 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 600 rupees and a discount of 15 per cent is given. What is the selling price?",
+   "options": [
     "510 rupees",
     "690 rupees",
     "520 rupees",
     "500 rupees"
    ],
-   "a": 0,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 600 x (1 - 15/100) = 510 rupees."
+   "answer": 0,
+   "explanation": "Selling price = 600 x (1 - 15/100) = 510 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00141",
-   "q": "A sum becomes 35 when 22 is added to another number 13. What is the value of 22 + 13?",
-   "o": [
+   "question": "A sum becomes 35 when 22 is added to another number 13. What is the value of 22 + 13?",
+   "options": [
     "286",
     "37",
     "35",
     "36"
    ],
-   "a": 2,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "22 + 13 = 35."
+   "answer": 2,
+   "explanation": "22 + 13 = 35.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00142",
-   "q": "What is 9 cubed?",
-   "o": [
+   "question": "What is 9 cubed?",
+   "options": [
     "729",
     "1458",
     "720",
     "1000"
    ],
-   "a": 0,
-   "t": "Squares and Cubes",
-   "l": 1,
-   "s": "generated",
-   "e": "9^3 = 729."
+   "answer": 0,
+   "explanation": "9^3 = 729.",
+   "topic": "Squares and Cubes",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00143",
-   "q": "If 20 workers can complete a job in 17 days, how long will 14 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 20 workers can complete a job in 17 days, how long will 14 workers take (work at the same rate)?",
+   "options": [
     "19 days",
     "25.29 days",
     "24.29 days",
     "20 days"
    ],
-   "a": 2,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 20 x 17 / 14 = 24.29 days."
+   "answer": 2,
+   "explanation": "Men and time are inversely related: 20 x 17 / 14 = 24.29 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00144",
-   "q": "What is 52 x 58?",
-   "o": [
+   "question": "What is 52 x 58?",
+   "options": [
     "3012",
     "3068",
     "3016",
     "2958"
    ],
-   "a": 2,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "52 x 58 = 3016."
+   "answer": 2,
+   "explanation": "52 x 58 = 3016.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00145",
-   "q": "What is 5 per cent of 800?",
-   "o": [
+   "question": "What is 5 per cent of 800?",
+   "options": [
     "60",
     "48",
     "40",
     "20"
    ],
-   "a": 2,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "5 per cent of 800 = 40."
+   "answer": 2,
+   "explanation": "5 per cent of 800 = 40.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00146",
-   "q": "What is the simple interest on 600 rupees at 9 per cent per annum for 3 years?",
-   "o": [
+   "question": "What is the simple interest on 600 rupees at 9 per cent per annum for 3 years?",
+   "options": [
     "81 rupees",
     "194.4 rupees",
     "153 rupees",
     "162 rupees"
    ],
-   "a": 3,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 600 x 9 x 3 / 100 = 162."
+   "answer": 3,
+   "explanation": "SI = P x R x T / 100 = 600 x 9 x 3 / 100 = 162.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00147",
-   "q": "What is the average of 38, 41, 47, 54, 59?",
-   "o": [
+   "question": "What is the average of 38, 41, 47, 54, 59?",
+   "options": [
     "48.8",
     "47.8",
     "46.8",
     "49.8"
    ],
-   "a": 1,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 239, average = 47.8."
+   "answer": 1,
+   "explanation": "Sum = 239, average = 47.8.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00148",
-   "q": "An article bought for 500 rupees is sold at a profit of 14 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 500 rupees is sold at a profit of 14 per cent. What is the selling price?",
+   "options": [
     "570 rupees",
     "430 rupees",
     "500 rupees",
     "514 rupees"
    ],
-   "a": 0,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 500 x (1 + 14/100) = 570."
+   "answer": 0,
+   "explanation": "Selling price = 500 x (1 + 14/100) = 570.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00149",
-   "q": "A vehicle travels at 79 km per hour for 7 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 79 km per hour for 7 hours. What distance does it cover?",
+   "options": [
     "563 km",
     "691.25 km",
     "553 km",
     "276.5 km"
    ],
-   "a": 2,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 79 x 7 = 553 km."
+   "answer": 2,
+   "explanation": "Distance = speed x time = 79 x 7 = 553 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00150",
-   "q": "A train 150 metres long runs at 20 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 150 metres long runs at 20 metres per second. How long will it take to cross a pole?",
+   "options": [
     "15 seconds",
     "7.5 seconds",
     "17.5 seconds",
     "12.5 seconds"
    ],
-   "a": 1,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 150 / 20 = 7.5 seconds."
+   "answer": 1,
+   "explanation": "Time = length / speed = 150 / 20 = 7.5 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00151",
-   "q": "A can finish a piece of work in 9 days and B in 20 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 9 days and B in 20 days. Working together, in how many days will they finish it?",
+   "options": [
     "6.21 days",
     "14.5 days",
     "29 days",
     "7.21 days"
    ],
-   "a": 0,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/9 + 1/20, so time = 6.21 days."
+   "answer": 0,
+   "explanation": "Combined rate = 1/9 + 1/20, so time = 6.21 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00152",
-   "q": "What is the HCF of 11 and 24?",
-   "o": [
+   "question": "What is the HCF of 11 and 24?",
+   "options": [
     "3",
     "264",
     "0",
     "1"
    ],
-   "a": 3,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 11 and 24 is 1."
+   "answer": 3,
+   "explanation": "The highest common factor of 11 and 24 is 1.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00153",
-   "q": "What is the LCM of 14 and 10?",
-   "o": [
+   "question": "What is the LCM of 14 and 10?",
+   "options": [
     "70",
     "35",
     "140",
     "60"
    ],
-   "a": 0,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 14 and 10 is 70."
+   "answer": 0,
+   "explanation": "The least common multiple of 14 and 10 is 70.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00154",
-   "q": "What is the area of a circle of radius 14 cm? (take pi = 22/7)",
-   "o": [
+   "question": "What is the area of a circle of radius 14 cm? (take pi = 22/7)",
+   "options": [
     "44 sq cm",
     "616 sq cm",
     "1232 sq cm",
     "196 sq cm"
    ],
-   "a": 1,
-   "t": "Mensuration",
-   "l": 2,
-   "s": "generated",
-   "e": "Area = pi x r^2 = 22/7 x 14 x 14 = 616 square centimetres."
+   "answer": 1,
+   "explanation": "Area = pi x r^2 = 22/7 x 14 x 14 = 616 square centimetres.",
+   "topic": "Mensuration",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00155",
-   "q": "What is the perimeter of a rectangle 6 m long and 21 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 6 m long and 21 m wide?",
+   "options": [
     "24 m",
     "54 m",
     "126 m",
     "27 m"
    ],
-   "a": 1,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (6 + 21) = 54 m."
+   "answer": 1,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (6 + 21) = 54 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00156",
-   "q": "What is the compound interest on 8000 rupees at 13 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 8000 rupees at 13 per cent per annum for 2 years?",
+   "options": [
     "3015.2 rupees",
     "2202.2 rupees",
     "1107.6 rupees",
     "2215.2 rupees"
    ],
-   "a": 3,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 8000 x (1 + 13/100)^2, so CI = 2215.2 rupees."
+   "answer": 3,
+   "explanation": "Amount = 8000 x (1 + 13/100)^2, so CI = 2215.2 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00157",
-   "q": "The marked price of an item is 1000 rupees and a discount of 15 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 1000 rupees and a discount of 15 per cent is given. What is the selling price?",
+   "options": [
     "985 rupees",
     "1000 rupees",
     "850 rupees",
     "1150 rupees"
    ],
-   "a": 2,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1000 x (1 - 15/100) = 850 rupees."
+   "answer": 2,
+   "explanation": "Selling price = 1000 x (1 - 15/100) = 850 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00158",
-   "q": "A sum becomes 35 when 7 is added to another number 28. What is the value of 7 + 28?",
-   "o": [
+   "question": "A sum becomes 35 when 7 is added to another number 28. What is the value of 7 + 28?",
+   "options": [
     "-21",
     "196",
     "35",
     "34"
    ],
-   "a": 2,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "7 + 28 = 35."
+   "answer": 2,
+   "explanation": "7 + 28 = 35.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00159",
-   "q": "What is 12 cubed?",
-   "o": [
+   "question": "What is 12 cubed?",
+   "options": [
     "1728",
     "2197",
     "1716",
     "3456"
    ],
-   "a": 0,
-   "t": "Squares and Cubes",
-   "l": 1,
-   "s": "generated",
-   "e": "12^3 = 1728."
+   "answer": 0,
+   "explanation": "12^3 = 1728.",
+   "topic": "Squares and Cubes",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00160",
-   "q": "If 20 workers can complete a job in 8 days, how long will 13 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 20 workers can complete a job in 8 days, how long will 13 workers take (work at the same rate)?",
+   "options": [
     "12.31 days",
     "13.31 days",
     "4 days",
     "8 days"
    ],
-   "a": 0,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 20 x 8 / 13 = 12.31 days."
+   "answer": 0,
+   "explanation": "Men and time are inversely related: 20 x 8 / 13 = 12.31 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00161",
-   "q": "What is 45 x 90?",
-   "o": [
+   "question": "What is 45 x 90?",
+   "options": [
     "4046",
     "3960",
     "4050",
     "4140"
    ],
-   "a": 2,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "45 x 90 = 4050."
+   "answer": 2,
+   "explanation": "45 x 90 = 4050.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00162",
-   "q": "What is 12 per cent of 620?",
-   "o": [
+   "question": "What is 12 per cent of 620?",
+   "options": [
     "74.4",
     "73.4",
     "80.60000000000001",
     "148.8"
    ],
-   "a": 0,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "12 per cent of 620 = 74.4."
+   "answer": 0,
+   "explanation": "12 per cent of 620 = 74.4.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00163",
-   "q": "What is the simple interest on 1700 rupees at 8 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the simple interest on 1700 rupees at 8 per cent per annum for 2 years?",
+   "options": [
     "264 rupees",
     "442 rupees",
     "280 rupees",
     "272 rupees"
    ],
-   "a": 3,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 1700 x 8 x 2 / 100 = 272."
+   "answer": 3,
+   "explanation": "SI = P x R x T / 100 = 1700 x 8 x 2 / 100 = 272.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00164",
-   "q": "What is the average of 35, 42, 49, 57, 59?",
-   "o": [
+   "question": "What is the average of 35, 42, 49, 57, 59?",
+   "options": [
     "46.4",
     "48.9",
     "47.4",
     "48.4"
    ],
-   "a": 3,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 242, average = 48.4."
+   "answer": 3,
+   "explanation": "Sum = 242, average = 48.4.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00165",
-   "q": "An article bought for 300 rupees is sold at a profit of 8 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 300 rupees is sold at a profit of 8 per cent. What is the selling price?",
+   "options": [
     "324 rupees",
     "300 rupees",
     "319 rupees",
     "334 rupees"
    ],
-   "a": 0,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 300 x (1 + 8/100) = 324."
+   "answer": 0,
+   "explanation": "Selling price = 300 x (1 + 8/100) = 324.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00166",
-   "q": "A vehicle travels at 20 km per hour for 5 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 20 km per hour for 5 hours. What distance does it cover?",
+   "options": [
     "110 km",
     "50 km",
     "100 km",
     "120 km"
    ],
-   "a": 2,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 20 x 5 = 100 km."
+   "answer": 2,
+   "explanation": "Distance = speed x time = 20 x 5 = 100 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00167",
-   "q": "A train 200 metres long runs at 20 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 200 metres long runs at 20 metres per second. How long will it take to cross a pole?",
+   "options": [
     "15 seconds",
     "8 seconds",
     "20 seconds",
     "10 seconds"
    ],
-   "a": 3,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 200 / 20 = 10 seconds."
+   "answer": 3,
+   "explanation": "Time = length / speed = 200 / 20 = 10 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00168",
-   "q": "A can finish a piece of work in 21 days and B in 10 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 21 days and B in 10 days. Working together, in how many days will they finish it?",
+   "options": [
     "7.77 days",
     "10 days",
     "6.77 days",
     "13.55 days"
    ],
-   "a": 2,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/21 + 1/10, so time = 6.77 days."
+   "answer": 2,
+   "explanation": "Combined rate = 1/21 + 1/10, so time = 6.77 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00169",
-   "q": "What is the HCF of 28 and 32?",
-   "o": [
+   "question": "What is the HCF of 28 and 32?",
+   "options": [
     "5",
     "4",
     "12",
     "8"
    ],
-   "a": 1,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 28 and 32 is 4."
+   "answer": 1,
+   "explanation": "The highest common factor of 28 and 32 is 4.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00170",
-   "q": "What is the LCM of 9 and 14?",
-   "o": [
+   "question": "What is the LCM of 9 and 14?",
+   "options": [
     "126",
     "252",
     "63",
     "112"
    ],
-   "a": 0,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 9 and 14 is 126."
+   "answer": 0,
+   "explanation": "The least common multiple of 9 and 14 is 126.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00171",
-   "q": "What is the area of a circle of radius 3 cm? (take pi = 22/7)",
-   "o": [
+   "question": "What is the area of a circle of radius 3 cm? (take pi = 22/7)",
+   "options": [
     "28.29 sq cm",
     "9 sq cm",
     "9.43 sq cm",
     "18.86 sq cm"
    ],
-   "a": 0,
-   "t": "Mensuration",
-   "l": 2,
-   "s": "generated",
-   "e": "Area = pi x r^2 = 22/7 x 3 x 3 = 28.29 square centimetres."
+   "answer": 0,
+   "explanation": "Area = pi x r^2 = 22/7 x 3 x 3 = 28.29 square centimetres.",
+   "topic": "Mensuration",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00172",
-   "q": "What is the perimeter of a rectangle 17 m long and 21 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 17 m long and 21 m wide?",
+   "options": [
     "38 m",
     "68 m",
     "178.5 m",
     "76 m"
    ],
-   "a": 3,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (17 + 21) = 76 m."
+   "answer": 3,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (17 + 21) = 76 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00173",
-   "q": "What is the compound interest on 10000 rupees at 5 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 10000 rupees at 5 per cent per annum for 2 years?",
+   "options": [
     "1025 rupees",
     "2050 rupees",
     "1000 rupees",
     "512.5 rupees"
    ],
-   "a": 0,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 10000 x (1 + 5/100)^2, so CI = 1025 rupees."
+   "answer": 0,
+   "explanation": "Amount = 10000 x (1 + 5/100)^2, so CI = 1025 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00174",
-   "q": "The marked price of an item is 800 rupees and a discount of 15 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 800 rupees and a discount of 15 per cent is given. What is the selling price?",
+   "options": [
     "800 rupees",
     "670 rupees",
     "680 rupees",
     "785 rupees"
    ],
-   "a": 2,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 800 x (1 - 15/100) = 680 rupees."
+   "answer": 2,
+   "explanation": "Selling price = 800 x (1 - 15/100) = 680 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00175",
-   "q": "A sum becomes 40 when 17 is added to another number 23. What is the value of 17 + 23?",
-   "o": [
+   "question": "A sum becomes 40 when 17 is added to another number 23. What is the value of 17 + 23?",
+   "options": [
     "39",
     "42",
     "41",
     "40"
    ],
-   "a": 3,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "17 + 23 = 40."
+   "answer": 3,
+   "explanation": "17 + 23 = 40.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00176",
-   "q": "What is 7 cubed?",
-   "o": [
+   "question": "What is 7 cubed?",
+   "options": [
     "686",
     "343",
     "49",
     "512"
    ],
-   "a": 1,
-   "t": "Squares and Cubes",
-   "l": 1,
-   "s": "generated",
-   "e": "7^3 = 343."
+   "answer": 1,
+   "explanation": "7^3 = 343.",
+   "topic": "Squares and Cubes",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00177",
-   "q": "If 22 workers can complete a job in 18 days, how long will 5 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 22 workers can complete a job in 18 days, how long will 5 workers take (work at the same rate)?",
+   "options": [
     "80.2 days",
     "9 days",
     "49.5 days",
     "79.2 days"
    ],
-   "a": 3,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 22 x 18 / 5 = 79.2 days."
+   "answer": 3,
+   "explanation": "Men and time are inversely related: 22 x 18 / 5 = 79.2 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00178",
-   "q": "What is 53 x 66?",
-   "o": [
+   "question": "What is 53 x 66?",
+   "options": [
     "3432",
     "3551",
     "3564",
     "3498"
    ],
-   "a": 3,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "53 x 66 = 3498."
+   "answer": 3,
+   "explanation": "53 x 66 = 3498.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00179",
-   "q": "What is 10 per cent of 100?",
-   "o": [
+   "question": "What is 10 per cent of 100?",
+   "options": [
     "15",
     "10",
     "9",
     "11"
    ],
-   "a": 1,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "10 per cent of 100 = 10."
+   "answer": 1,
+   "explanation": "10 per cent of 100 = 10.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00180",
-   "q": "What is the simple interest on 700 rupees at 10 per cent per annum for 1 years?",
-   "o": [
+   "question": "What is the simple interest on 700 rupees at 10 per cent per annum for 1 years?",
+   "options": [
     "84 rupees",
     "70 rupees",
     "80 rupees",
     "35 rupees"
    ],
-   "a": 1,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 700 x 10 x 1 / 100 = 70."
+   "answer": 1,
+   "explanation": "SI = P x R x T / 100 = 700 x 10 x 1 / 100 = 70.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00181",
-   "q": "What is the average of 28, 29, 33, 36, 45?",
-   "o": [
+   "question": "What is the average of 28, 29, 33, 36, 45?",
+   "options": [
     "34.2",
     "33.2",
     "36.2",
     "34.7"
    ],
-   "a": 0,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 171, average = 34.2."
+   "answer": 0,
+   "explanation": "Sum = 171, average = 34.2.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00182",
-   "q": "A sum of 110 rupees is divided between two people in the ratio 3:2. What is the larger share?",
-   "o": [
+   "question": "A sum of 110 rupees is divided between two people in the ratio 3:2. What is the larger share?",
+   "options": [
     "66 rupees",
     "55 rupees",
     "88 rupees",
     "44 rupees"
    ],
-   "a": 0,
-   "t": "Ratio",
-   "l": 2,
-   "s": "generated",
-   "e": "One part is 22 rupees, so the shares are 66 and 44."
+   "answer": 0,
+   "explanation": "One part is 22 rupees, so the shares are 66 and 44.",
+   "topic": "Ratio",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00183",
-   "q": "An article bought for 600 rupees is sold at a profit of 32 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 600 rupees is sold at a profit of 32 per cent. What is the selling price?",
+   "options": [
     "787 rupees",
     "792 rupees",
     "408 rupees",
     "632 rupees"
    ],
-   "a": 1,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 600 x (1 + 32/100) = 792."
+   "answer": 1,
+   "explanation": "Selling price = 600 x (1 + 32/100) = 792.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00184",
-   "q": "A vehicle travels at 38 km per hour for 7 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 38 km per hour for 7 hours. What distance does it cover?",
+   "options": [
     "266 km",
     "228 km",
     "276 km",
     "332.5 km"
    ],
-   "a": 0,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 38 x 7 = 266 km."
+   "answer": 0,
+   "explanation": "Distance = speed x time = 38 x 7 = 266 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00185",
-   "q": "A train 150 metres long runs at 29 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 150 metres long runs at 29 metres per second. How long will it take to cross a pole?",
+   "options": [
     "5.17 seconds",
     "3.17 seconds",
     "15.17 seconds",
     "10.17 seconds"
    ],
-   "a": 0,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 150 / 29 = 5.17 seconds."
+   "answer": 0,
+   "explanation": "Time = length / speed = 150 / 29 = 5.17 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00186",
-   "q": "A can finish a piece of work in 6 days and B in 7 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 6 days and B in 7 days. Working together, in how many days will they finish it?",
+   "options": [
     "4.23 days",
     "3.23 days",
     "6.46 days",
     "6.5 days"
    ],
-   "a": 1,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/6 + 1/7, so time = 3.23 days."
+   "answer": 1,
+   "explanation": "Combined rate = 1/6 + 1/7, so time = 3.23 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00187",
-   "q": "What is the HCF of 13 and 20?",
-   "o": [
+   "question": "What is the HCF of 13 and 20?",
+   "options": [
     "1",
     "2",
     "260",
     "3"
    ],
-   "a": 0,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 13 and 20 is 1."
+   "answer": 0,
+   "explanation": "The highest common factor of 13 and 20 is 1.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00188",
-   "q": "What is the LCM of 17 and 20?",
-   "o": [
+   "question": "What is the LCM of 17 and 20?",
+   "options": [
     "357",
     "340",
     "320",
     "170"
    ],
-   "a": 1,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 17 and 20 is 340."
+   "answer": 1,
+   "explanation": "The least common multiple of 17 and 20 is 340.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00189",
-   "q": "What is the area of a circle of radius 3 cm? (take pi = 22/7)",
-   "o": [
+   "question": "What is the area of a circle of radius 3 cm? (take pi = 22/7)",
+   "options": [
     "18.86 sq cm",
     "56.57 sq cm",
     "28.29 sq cm",
     "9.43 sq cm"
    ],
-   "a": 2,
-   "t": "Mensuration",
-   "l": 2,
-   "s": "generated",
-   "e": "Area = pi x r^2 = 22/7 x 3 x 3 = 28.29 square centimetres."
+   "answer": 2,
+   "explanation": "Area = pi x r^2 = 22/7 x 3 x 3 = 28.29 square centimetres.",
+   "topic": "Mensuration",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00190",
-   "q": "What is the perimeter of a rectangle 9 m long and 15 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 9 m long and 15 m wide?",
+   "options": [
     "48 m",
     "33 m",
     "135 m",
     "67.5 m"
    ],
-   "a": 0,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (9 + 15) = 48 m."
+   "answer": 0,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (9 + 15) = 48 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00191",
-   "q": "What is the compound interest on 3000 rupees at 14 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 3000 rupees at 14 per cent per annum for 2 years?",
+   "options": [
     "898.8 rupees",
     "1198.8 rupees",
     "449.4 rupees",
     "884.8 rupees"
    ],
-   "a": 0,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 3000 x (1 + 14/100)^2, so CI = 898.8 rupees."
+   "answer": 0,
+   "explanation": "Amount = 3000 x (1 + 14/100)^2, so CI = 898.8 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00192",
-   "q": "The marked price of an item is 400 rupees and a discount of 20 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 400 rupees and a discount of 20 per cent is given. What is the selling price?",
+   "options": [
     "330 rupees",
     "320 rupees",
     "400 rupees",
     "380 rupees"
    ],
-   "a": 1,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 400 x (1 - 20/100) = 320 rupees."
+   "answer": 1,
+   "explanation": "Selling price = 400 x (1 - 20/100) = 320 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00193",
-   "q": "A sum becomes 37 when 12 is added to another number 25. What is the value of 12 + 25?",
-   "o": [
+   "question": "A sum becomes 37 when 12 is added to another number 25. What is the value of 12 + 25?",
+   "options": [
     "38",
     "39",
     "37",
     "-13"
    ],
-   "a": 2,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "12 + 25 = 37."
+   "answer": 2,
+   "explanation": "12 + 25 = 37.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00194",
-   "q": "What is 12 cubed?",
-   "o": [
+   "question": "What is 12 cubed?",
+   "options": [
     "144",
     "1716",
     "2197",
     "1728"
    ],
-   "a": 3,
-   "t": "Squares and Cubes",
-   "l": 1,
-   "s": "generated",
-   "e": "12^3 = 1728."
+   "answer": 3,
+   "explanation": "12^3 = 1728.",
+   "topic": "Squares and Cubes",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00195",
-   "q": "If 8 workers can complete a job in 6 days, how long will 24 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 8 workers can complete a job in 6 days, how long will 24 workers take (work at the same rate)?",
+   "options": [
     "6 days",
     "2 days",
     "1.78 days",
     "8 days"
    ],
-   "a": 1,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 8 x 6 / 24 = 2 days."
+   "answer": 1,
+   "explanation": "Men and time are inversely related: 8 x 6 / 24 = 2 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00196",
-   "q": "What is 40 x 98?",
-   "o": [
+   "question": "What is 40 x 98?",
+   "options": [
     "3916",
     "3920",
     "3822",
     "4018"
    ],
-   "a": 1,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "40 x 98 = 3920."
+   "answer": 1,
+   "explanation": "40 x 98 = 3920.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00197",
-   "q": "What is 25 per cent of 600?",
-   "o": [
+   "question": "What is 25 per cent of 600?",
+   "options": [
     "300",
     "156",
     "150",
     "149"
    ],
-   "a": 2,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "25 per cent of 600 = 150."
+   "answer": 2,
+   "explanation": "25 per cent of 600 = 150.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00198",
-   "q": "What is the simple interest on 100 rupees at 3 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the simple interest on 100 rupees at 3 per cent per annum for 2 years?",
+   "options": [
     "6 rupees",
     "7.2 rupees",
     "9 rupees",
     "16 rupees"
    ],
-   "a": 0,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 100 x 3 x 2 / 100 = 6."
+   "answer": 0,
+   "explanation": "SI = P x R x T / 100 = 100 x 3 x 2 / 100 = 6.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00199",
-   "q": "What is the average of 44, 48, 51, 59, 61?",
-   "o": [
+   "question": "What is the average of 44, 48, 51, 59, 61?",
+   "options": [
     "50.6",
     "53.6",
     "54.6",
     "52.6"
    ],
-   "a": 3,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 263, average = 52.6."
+   "answer": 3,
+   "explanation": "Sum = 263, average = 52.6.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00200",
-   "q": "An article bought for 200 rupees is sold at a profit of 10 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 200 rupees is sold at a profit of 10 per cent. What is the selling price?",
+   "options": [
     "180 rupees",
     "220 rupees",
     "215 rupees",
     "210 rupees"
    ],
-   "a": 1,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 200 x (1 + 10/100) = 220."
+   "answer": 1,
+   "explanation": "Selling price = 200 x (1 + 10/100) = 220.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00201",
-   "q": "A vehicle travels at 43 km per hour for 6 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 43 km per hour for 6 hours. What distance does it cover?",
+   "options": [
     "268 km",
     "258 km",
     "215 km",
     "129 km"
    ],
-   "a": 1,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 43 x 6 = 258 km."
+   "answer": 1,
+   "explanation": "Distance = speed x time = 43 x 6 = 258 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00202",
-   "q": "A train 200 metres long runs at 10 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 200 metres long runs at 10 metres per second. How long will it take to cross a pole?",
+   "options": [
     "40 seconds",
     "25 seconds",
     "30 seconds",
     "20 seconds"
    ],
-   "a": 3,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 200 / 10 = 20 seconds."
+   "answer": 3,
+   "explanation": "Time = length / speed = 200 / 10 = 20 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00203",
-   "q": "A can finish a piece of work in 12 days and B in 18 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 12 days and B in 18 days. Working together, in how many days will they finish it?",
+   "options": [
     "30 days",
     "14.4 days",
     "7.2 days",
     "12 days"
    ],
-   "a": 2,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/12 + 1/18, so time = 7.2 days."
+   "answer": 2,
+   "explanation": "Combined rate = 1/12 + 1/18, so time = 7.2 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00204",
-   "q": "What is the HCF of 10 and 34?",
-   "o": [
+   "question": "What is the HCF of 10 and 34?",
+   "options": [
     "1",
     "2",
     "6",
     "3"
    ],
-   "a": 1,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 10 and 34 is 2."
+   "answer": 1,
+   "explanation": "The highest common factor of 10 and 34 is 2.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00205",
-   "q": "What is the LCM of 11 and 13?",
-   "o": [
+   "question": "What is the LCM of 11 and 13?",
+   "options": [
     "130",
     "143",
     "71.5",
     "154"
    ],
-   "a": 1,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 11 and 13 is 143."
+   "answer": 1,
+   "explanation": "The least common multiple of 11 and 13 is 143.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00206",
-   "q": "What is the area of a circle of radius 13 cm? (take pi = 22/7)",
-   "o": [
+   "question": "What is the area of a circle of radius 13 cm? (take pi = 22/7)",
+   "options": [
     "531.14 sq cm",
     "169 sq cm",
     "81.71 sq cm",
     "1062.29 sq cm"
    ],
-   "a": 0,
-   "t": "Mensuration",
-   "l": 2,
-   "s": "generated",
-   "e": "Area = pi x r^2 = 22/7 x 13 x 13 = 531.14 square centimetres."
+   "answer": 0,
+   "explanation": "Area = pi x r^2 = 22/7 x 13 x 13 = 531.14 square centimetres.",
+   "topic": "Mensuration",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00207",
-   "q": "What is the perimeter of a rectangle 21 m long and 15 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 21 m long and 15 m wide?",
+   "options": [
     "36 m",
     "315 m",
     "72 m",
     "157.5 m"
    ],
-   "a": 2,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (21 + 15) = 72 m."
+   "answer": 2,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (21 + 15) = 72 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00208",
-   "q": "What is the compound interest on 4000 rupees at 9 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 4000 rupees at 9 per cent per annum for 2 years?",
+   "options": [
     "752.4 rupees",
     "1504.8 rupees",
     "376.2 rupees",
     "743.4 rupees"
    ],
-   "a": 0,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 4000 x (1 + 9/100)^2, so CI = 752.4 rupees."
+   "answer": 0,
+   "explanation": "Amount = 4000 x (1 + 9/100)^2, so CI = 752.4 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00209",
-   "q": "The marked price of an item is 600 rupees and a discount of 5 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 600 rupees and a discount of 5 per cent is given. What is the selling price?",
+   "options": [
     "570 rupees",
     "630 rupees",
     "580 rupees",
     "595 rupees"
    ],
-   "a": 0,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 600 x (1 - 5/100) = 570 rupees."
+   "answer": 0,
+   "explanation": "Selling price = 600 x (1 - 5/100) = 570 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00210",
-   "q": "A sum becomes 49 when 24 is added to another number 25. What is the value of 24 + 25?",
-   "o": [
+   "question": "A sum becomes 49 when 24 is added to another number 25. What is the value of 24 + 25?",
+   "options": [
     "-1",
     "600",
     "49",
     "48"
    ],
-   "a": 2,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "24 + 25 = 49."
+   "answer": 2,
+   "explanation": "24 + 25 = 49.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00211",
-   "q": "What is 8 cubed?",
-   "o": [
+   "question": "What is 8 cubed?",
+   "options": [
     "512",
     "1024",
     "520",
     "729"
    ],
-   "a": 0,
-   "t": "Squares and Cubes",
-   "l": 1,
-   "s": "generated",
-   "e": "8^3 = 512."
+   "answer": 0,
+   "explanation": "8^3 = 512.",
+   "topic": "Squares and Cubes",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00212",
-   "q": "If 17 workers can complete a job in 16 days, how long will 13 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 17 workers can complete a job in 16 days, how long will 13 workers take (work at the same rate)?",
+   "options": [
     "20.92 days",
     "17 days",
     "16 days",
     "8 days"
    ],
-   "a": 0,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 17 x 16 / 13 = 20.92 days."
+   "answer": 0,
+   "explanation": "Men and time are inversely related: 17 x 16 / 13 = 20.92 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00213",
-   "q": "What is 77 x 72?",
-   "o": [
+   "question": "What is 77 x 72?",
+   "options": [
     "5616",
     "5621",
     "5544",
     "5540"
    ],
-   "a": 2,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "77 x 72 = 5544."
+   "answer": 2,
+   "explanation": "77 x 72 = 5544.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00214",
-   "q": "What is 75 per cent of 600?",
-   "o": [
+   "question": "What is 75 per cent of 600?",
+   "options": [
     "449",
     "450",
     "675",
     "225"
    ],
-   "a": 1,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "75 per cent of 600 = 450."
+   "answer": 1,
+   "explanation": "75 per cent of 600 = 450.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00215",
-   "q": "What is the simple interest on 1300 rupees at 13 per cent per annum for 3 years?",
-   "o": [
+   "question": "What is the simple interest on 1300 rupees at 13 per cent per annum for 3 years?",
+   "options": [
     "507 rupees",
     "520 rupees",
     "637 rupees",
     "494 rupees"
    ],
-   "a": 0,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 1300 x 13 x 3 / 100 = 507."
+   "answer": 0,
+   "explanation": "SI = P x R x T / 100 = 1300 x 13 x 3 / 100 = 507.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00216",
-   "q": "What is the average of 26, 29, 30, 39, 43?",
-   "o": [
+   "question": "What is the average of 26, 29, 30, 39, 43?",
+   "options": [
     "34.4",
     "33.4",
     "35.4",
     "31.4"
    ],
-   "a": 1,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 167, average = 33.4."
+   "answer": 1,
+   "explanation": "Sum = 167, average = 33.4.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00217",
-   "q": "An article bought for 1200 rupees is sold at a profit of 27 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 1200 rupees is sold at a profit of 27 per cent. What is the selling price?",
+   "options": [
     "1227 rupees",
     "1519 rupees",
     "1524 rupees",
     "1200 rupees"
    ],
-   "a": 2,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1200 x (1 + 27/100) = 1524."
+   "answer": 2,
+   "explanation": "Selling price = 1200 x (1 + 27/100) = 1524.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00218",
-   "q": "A vehicle travels at 71 km per hour for 7 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 71 km per hour for 7 hours. What distance does it cover?",
+   "options": [
     "568 km",
     "497 km",
     "621.25 km",
     "426 km"
    ],
-   "a": 1,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 71 x 7 = 497 km."
+   "answer": 1,
+   "explanation": "Distance = speed x time = 71 x 7 = 497 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00219",
-   "q": "A train 100 metres long runs at 10 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 100 metres long runs at 10 metres per second. How long will it take to cross a pole?",
+   "options": [
     "15 seconds",
     "10 seconds",
     "8 seconds",
     "5 seconds"
    ],
-   "a": 1,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 100 / 10 = 10 seconds."
+   "answer": 1,
+   "explanation": "Time = length / speed = 100 / 10 = 10 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00220",
-   "q": "A can finish a piece of work in 10 days and B in 18 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 10 days and B in 18 days. Working together, in how many days will they finish it?",
+   "options": [
     "12.86 days",
     "10 days",
     "7.43 days",
     "6.43 days"
    ],
-   "a": 3,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/10 + 1/18, so time = 6.43 days."
+   "answer": 3,
+   "explanation": "Combined rate = 1/10 + 1/18, so time = 6.43 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00221",
-   "q": "What is the HCF of 18 and 7?",
-   "o": [
+   "question": "What is the HCF of 18 and 7?",
+   "options": [
     "2",
     "126",
     "1",
     "0"
    ],
-   "a": 2,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 18 and 7 is 1."
+   "answer": 2,
+   "explanation": "The highest common factor of 18 and 7 is 1.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00222",
-   "q": "What is the LCM of 22 and 8?",
-   "o": [
+   "question": "What is the LCM of 22 and 8?",
+   "options": [
     "44",
     "110",
     "88",
     "80"
    ],
-   "a": 2,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 22 and 8 is 88."
+   "answer": 2,
+   "explanation": "The least common multiple of 22 and 8 is 88.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00223",
-   "q": "What is the area of a circle of radius 18 cm? (take pi = 22/7)",
-   "o": [
+   "question": "What is the area of a circle of radius 18 cm? (take pi = 22/7)",
+   "options": [
     "1018.29 sq cm",
     "2036.57 sq cm",
     "113.14 sq cm",
     "56.57 sq cm"
    ],
-   "a": 0,
-   "t": "Mensuration",
-   "l": 2,
-   "s": "generated",
-   "e": "Area = pi x r^2 = 22/7 x 18 x 18 = 1018.29 square centimetres."
+   "answer": 0,
+   "explanation": "Area = pi x r^2 = 22/7 x 18 x 18 = 1018.29 square centimetres.",
+   "topic": "Mensuration",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00224",
-   "q": "What is the perimeter of a rectangle 13 m long and 8 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 13 m long and 8 m wide?",
+   "options": [
     "34 m",
     "52 m",
     "21 m",
     "42 m"
    ],
-   "a": 3,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (13 + 8) = 42 m."
+   "answer": 3,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (13 + 8) = 42 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00225",
-   "q": "What is the compound interest on 6000 rupees at 10 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 6000 rupees at 10 per cent per annum for 2 years?",
+   "options": [
     "1260 rupees",
     "630 rupees",
     "2520 rupees",
     "1860 rupees"
    ],
-   "a": 0,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 6000 x (1 + 10/100)^2, so CI = 1260 rupees."
+   "answer": 0,
+   "explanation": "Amount = 6000 x (1 + 10/100)^2, so CI = 1260 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00226",
-   "q": "The marked price of an item is 200 rupees and a discount of 25 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 200 rupees and a discount of 25 per cent is given. What is the selling price?",
+   "options": [
     "140 rupees",
     "150 rupees",
     "175 rupees",
     "160 rupees"
    ],
-   "a": 1,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 200 x (1 - 25/100) = 150 rupees."
+   "answer": 1,
+   "explanation": "Selling price = 200 x (1 - 25/100) = 150 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00227",
-   "q": "A sum becomes 46 when 28 is added to another number 18. What is the value of 28 + 18?",
-   "o": [
+   "question": "A sum becomes 46 when 28 is added to another number 18. What is the value of 28 + 18?",
+   "options": [
     "46",
     "504",
     "47",
     "45"
    ],
-   "a": 0,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "28 + 18 = 46."
+   "answer": 0,
+   "explanation": "28 + 18 = 46.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00228",
-   "q": "What is 6 cubed?",
-   "o": [
+   "question": "What is 6 cubed?",
+   "options": [
     "216",
     "222",
     "210",
     "36"
    ],
-   "a": 0,
-   "t": "Squares and Cubes",
-   "l": 1,
-   "s": "generated",
-   "e": "6^3 = 216."
+   "answer": 0,
+   "explanation": "6^3 = 216.",
+   "topic": "Squares and Cubes",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00229",
-   "q": "If 17 workers can complete a job in 11 days, how long will 24 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 17 workers can complete a job in 11 days, how long will 24 workers take (work at the same rate)?",
+   "options": [
     "7.79 days",
     "6.93 days",
     "13 days",
     "5.5 days"
    ],
-   "a": 0,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 17 x 11 / 24 = 7.79 days."
+   "answer": 0,
+   "explanation": "Men and time are inversely related: 17 x 11 / 24 = 7.79 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00230",
-   "q": "What is 31 x 48?",
-   "o": [
+   "question": "What is 31 x 48?",
+   "options": [
     "1440",
     "1488",
     "1484",
     "1536"
    ],
-   "a": 1,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "31 x 48 = 1488."
+   "answer": 1,
+   "explanation": "31 x 48 = 1488.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00231",
-   "q": "What is 50 per cent of 360?",
-   "o": [
+   "question": "What is 50 per cent of 360?",
+   "options": [
     "180",
     "179",
     "270",
     "90"
    ],
-   "a": 0,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "50 per cent of 360 = 180."
+   "answer": 0,
+   "explanation": "50 per cent of 360 = 180.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00232",
-   "q": "What is the simple interest on 1400 rupees at 3 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the simple interest on 1400 rupees at 3 per cent per annum for 2 years?",
+   "options": [
     "224 rupees",
     "81 rupees",
     "87 rupees",
     "84 rupees"
    ],
-   "a": 3,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 1400 x 3 x 2 / 100 = 84."
+   "answer": 3,
+   "explanation": "SI = P x R x T / 100 = 1400 x 3 x 2 / 100 = 84.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00233",
-   "q": "What is the average of 32, 36, 38, 40, 49?",
-   "o": [
+   "question": "What is the average of 32, 36, 38, 40, 49?",
+   "options": [
     "39",
     "39.5",
     "37",
     "41"
    ],
-   "a": 0,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 195, average = 39."
+   "answer": 0,
+   "explanation": "Sum = 195, average = 39.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00234",
-   "q": "An article bought for 100 rupees is sold at a profit of 5 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 100 rupees is sold at a profit of 5 per cent. What is the selling price?",
+   "options": [
     "105 rupees",
     "115 rupees",
     "100 rupees",
     "95 rupees"
    ],
-   "a": 0,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 100 x (1 + 5/100) = 105."
+   "answer": 0,
+   "explanation": "Selling price = 100 x (1 + 5/100) = 105.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00235",
-   "q": "A vehicle travels at 51 km per hour for 6 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 51 km per hour for 6 hours. What distance does it cover?",
+   "options": [
     "382.5 km",
     "316 km",
     "357 km",
     "306 km"
    ],
-   "a": 3,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 51 x 6 = 306 km."
+   "answer": 3,
+   "explanation": "Distance = speed x time = 51 x 6 = 306 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00236",
-   "q": "A train 150 metres long runs at 12 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 150 metres long runs at 12 metres per second. How long will it take to cross a pole?",
+   "options": [
     "22.5 seconds",
     "12.5 seconds",
     "17.5 seconds",
     "25 seconds"
    ],
-   "a": 1,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 150 / 12 = 12.5 seconds."
+   "answer": 1,
+   "explanation": "Time = length / speed = 150 / 12 = 12.5 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00237",
-   "q": "A can finish a piece of work in 9 days and B in 6 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 9 days and B in 6 days. Working together, in how many days will they finish it?",
+   "options": [
     "6 days",
     "7.2 days",
     "3.6 days",
     "15 days"
    ],
-   "a": 2,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/9 + 1/6, so time = 3.6 days."
+   "answer": 2,
+   "explanation": "Combined rate = 1/9 + 1/6, so time = 3.6 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00238",
-   "q": "What is the HCF of 6 and 9?",
-   "o": [
+   "question": "What is the HCF of 6 and 9?",
+   "options": [
     "3",
     "6",
     "18",
     "4"
    ],
-   "a": 0,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 6 and 9 is 3."
+   "answer": 0,
+   "explanation": "The highest common factor of 6 and 9 is 3.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00239",
-   "q": "What is the LCM of 23 and 16?",
-   "o": [
+   "question": "What is the LCM of 23 and 16?",
+   "options": [
     "391",
     "368",
     "736",
     "352"
    ],
-   "a": 1,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 23 and 16 is 368."
+   "answer": 1,
+   "explanation": "The least common multiple of 23 and 16 is 368.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00240",
-   "q": "What is the area of a circle of radius 4 cm? (take pi = 22/7)",
-   "o": [
+   "question": "What is the area of a circle of radius 4 cm? (take pi = 22/7)",
+   "options": [
     "12.57 sq cm",
     "16 sq cm",
     "100.57 sq cm",
     "50.29 sq cm"
    ],
-   "a": 3,
-   "t": "Mensuration",
-   "l": 2,
-   "s": "generated",
-   "e": "Area = pi x r^2 = 22/7 x 4 x 4 = 50.29 square centimetres."
+   "answer": 3,
+   "explanation": "Area = pi x r^2 = 22/7 x 4 x 4 = 50.29 square centimetres.",
+   "topic": "Mensuration",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00241",
-   "q": "What is the perimeter of a rectangle 8 m long and 22 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 8 m long and 22 m wide?",
+   "options": [
     "30 m",
     "32 m",
     "88 m",
     "60 m"
    ],
-   "a": 3,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (8 + 22) = 60 m."
+   "answer": 3,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (8 + 22) = 60 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00242",
-   "q": "What is the compound interest on 4000 rupees at 6 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 4000 rupees at 6 per cent per annum for 2 years?",
+   "options": [
     "894.4 rupees",
     "480 rupees",
     "494.4 rupees",
     "247.2 rupees"
    ],
-   "a": 2,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 4000 x (1 + 6/100)^2, so CI = 494.4 rupees."
+   "answer": 2,
+   "explanation": "Amount = 4000 x (1 + 6/100)^2, so CI = 494.4 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00243",
-   "q": "The marked price of an item is 200 rupees and a discount of 5 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 200 rupees and a discount of 5 per cent is given. What is the selling price?",
+   "options": [
     "210 rupees",
     "195 rupees",
     "190 rupees",
     "200 rupees"
    ],
-   "a": 2,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 200 x (1 - 5/100) = 190 rupees."
+   "answer": 2,
+   "explanation": "Selling price = 200 x (1 - 5/100) = 190 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00244",
-   "q": "A sum becomes 34 when 16 is added to another number 18. What is the value of 16 + 18?",
-   "o": [
+   "question": "A sum becomes 34 when 16 is added to another number 18. What is the value of 16 + 18?",
+   "options": [
     "35",
     "34",
     "288",
     "33"
    ],
-   "a": 1,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "16 + 18 = 34."
+   "answer": 1,
+   "explanation": "16 + 18 = 34.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00245",
-   "q": "What is 9 cubed?",
-   "o": [
+   "question": "What is 9 cubed?",
+   "options": [
     "738",
     "729",
     "720",
     "81"
    ],
-   "a": 1,
-   "t": "Squares and Cubes",
-   "l": 1,
-   "s": "generated",
-   "e": "9^3 = 729."
+   "answer": 1,
+   "explanation": "9^3 = 729.",
+   "topic": "Squares and Cubes",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00246",
-   "q": "If 16 workers can complete a job in 7 days, how long will 5 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 16 workers can complete a job in 7 days, how long will 5 workers take (work at the same rate)?",
+   "options": [
     "22.4 days",
     "3.5 days",
     "7 days",
     "23.4 days"
    ],
-   "a": 0,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 16 x 7 / 5 = 22.4 days."
+   "answer": 0,
+   "explanation": "Men and time are inversely related: 16 x 7 / 5 = 22.4 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00247",
-   "q": "What is 41 x 33?",
-   "o": [
+   "question": "What is 41 x 33?",
+   "options": [
     "1386",
     "1394",
     "1320",
     "1353"
    ],
-   "a": 3,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "41 x 33 = 1353."
+   "answer": 3,
+   "explanation": "41 x 33 = 1353.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00248",
-   "q": "What is 12 per cent of 740?",
-   "o": [
+   "question": "What is 12 per cent of 740?",
+   "options": [
     "88.8",
     "177.6",
     "133.2",
     "44.4"
    ],
-   "a": 0,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "12 per cent of 740 = 88.8."
+   "answer": 0,
+   "explanation": "12 per cent of 740 = 88.8.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00249",
-   "q": "What is the simple interest on 1200 rupees at 10 per cent per annum for 4 years?",
-   "o": [
+   "question": "What is the simple interest on 1200 rupees at 10 per cent per annum for 4 years?",
+   "options": [
     "470 rupees",
     "480 rupees",
     "600 rupees",
     "490 rupees"
    ],
-   "a": 1,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 1200 x 10 x 4 / 100 = 480."
+   "answer": 1,
+   "explanation": "SI = P x R x T / 100 = 1200 x 10 x 4 / 100 = 480.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00250",
-   "q": "What is the average of 39, 42, 43, 51, 55?",
-   "o": [
+   "question": "What is the average of 39, 42, 43, 51, 55?",
+   "options": [
     "44",
     "47",
     "48",
     "46"
    ],
-   "a": 3,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 230, average = 46."
+   "answer": 3,
+   "explanation": "Sum = 230, average = 46.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00251",
-   "q": "An article bought for 1200 rupees is sold at a profit of 10 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 1200 rupees is sold at a profit of 10 per cent. What is the selling price?",
+   "options": [
     "1200 rupees",
     "1320 rupees",
     "1330 rupees",
     "1080 rupees"
    ],
-   "a": 1,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1200 x (1 + 10/100) = 1320."
+   "answer": 1,
+   "explanation": "Selling price = 1200 x (1 + 10/100) = 1320.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00252",
-   "q": "A vehicle travels at 35 km per hour for 7 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 35 km per hour for 7 hours. What distance does it cover?",
+   "options": [
     "122.5 km",
     "280 km",
     "210 km",
     "245 km"
    ],
-   "a": 3,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 35 x 7 = 245 km."
+   "answer": 3,
+   "explanation": "Distance = speed x time = 35 x 7 = 245 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00253",
-   "q": "A train 200 metres long runs at 12 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 200 metres long runs at 12 metres per second. How long will it take to cross a pole?",
+   "options": [
     "21.67 seconds",
     "14.67 seconds",
     "26.67 seconds",
     "16.67 seconds"
    ],
-   "a": 3,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 200 / 12 = 16.67 seconds."
+   "answer": 3,
+   "explanation": "Time = length / speed = 200 / 12 = 16.67 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00254",
-   "q": "A can finish a piece of work in 16 days and B in 15 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 16 days and B in 15 days. Working together, in how many days will they finish it?",
+   "options": [
     "7.74 days",
     "8.74 days",
     "15 days",
     "15.5 days"
    ],
-   "a": 0,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/16 + 1/15, so time = 7.74 days."
+   "answer": 0,
+   "explanation": "Combined rate = 1/16 + 1/15, so time = 7.74 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00255",
-   "q": "What is the HCF of 23 and 27?",
-   "o": [
+   "question": "What is the HCF of 23 and 27?",
+   "options": [
     "1",
     "3",
     "0",
     "621"
    ],
-   "a": 0,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 23 and 27 is 1."
+   "answer": 0,
+   "explanation": "The highest common factor of 23 and 27 is 1.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00256",
-   "q": "What is the LCM of 16 and 17?",
-   "o": [
+   "question": "What is the LCM of 16 and 17?",
+   "options": [
     "272",
     "136",
     "544",
     "255"
    ],
-   "a": 0,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 16 and 17 is 272."
+   "answer": 0,
+   "explanation": "The least common multiple of 16 and 17 is 272.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00257",
-   "q": "What is the area of a circle of radius 17 cm? (take pi = 22/7)",
-   "o": [
+   "question": "What is the area of a circle of radius 17 cm? (take pi = 22/7)",
+   "options": [
     "908.29 sq cm",
     "106.86 sq cm",
     "289 sq cm",
     "53.43 sq cm"
    ],
-   "a": 0,
-   "t": "Mensuration",
-   "l": 2,
-   "s": "generated",
-   "e": "Area = pi x r^2 = 22/7 x 17 x 17 = 908.29 square centimetres."
+   "answer": 0,
+   "explanation": "Area = pi x r^2 = 22/7 x 17 x 17 = 908.29 square centimetres.",
+   "topic": "Mensuration",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00258",
-   "q": "What is the perimeter of a rectangle 14 m long and 19 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 14 m long and 19 m wide?",
+   "options": [
     "66 m",
     "33 m",
     "266 m",
     "56 m"
    ],
-   "a": 0,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (14 + 19) = 66 m."
+   "answer": 0,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (14 + 19) = 66 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00259",
-   "q": "What is the compound interest on 3000 rupees at 7 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 3000 rupees at 7 per cent per annum for 2 years?",
+   "options": [
     "420 rupees",
     "217.35 rupees",
     "734.7 rupees",
     "434.7 rupees"
    ],
-   "a": 3,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 3000 x (1 + 7/100)^2, so CI = 434.7 rupees."
+   "answer": 3,
+   "explanation": "Amount = 3000 x (1 + 7/100)^2, so CI = 434.7 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00260",
-   "q": "The marked price of an item is 1400 rupees and a discount of 10 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 1400 rupees and a discount of 10 per cent is given. What is the selling price?",
+   "options": [
     "1260 rupees",
     "1270 rupees",
     "1390 rupees",
     "1400 rupees"
    ],
-   "a": 0,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1400 x (1 - 10/100) = 1260 rupees."
+   "answer": 0,
+   "explanation": "Selling price = 1400 x (1 - 10/100) = 1260 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00261",
-   "q": "A sum becomes 34 when 20 is added to another number 14. What is the value of 20 + 14?",
-   "o": [
+   "question": "A sum becomes 34 when 20 is added to another number 14. What is the value of 20 + 14?",
+   "options": [
     "34",
     "35",
     "6",
     "280"
    ],
-   "a": 0,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "20 + 14 = 34."
+   "answer": 0,
+   "explanation": "20 + 14 = 34.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00262",
-   "q": "What is 11 cubed?",
-   "o": [
+   "question": "What is 11 cubed?",
+   "options": [
     "121",
     "1342",
     "1320",
     "1331"
    ],
-   "a": 3,
-   "t": "Squares and Cubes",
-   "l": 1,
-   "s": "generated",
-   "e": "11^3 = 1331."
+   "answer": 3,
+   "explanation": "11^3 = 1331.",
+   "topic": "Squares and Cubes",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00263",
-   "q": "If 18 workers can complete a job in 14 days, how long will 10 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 18 workers can complete a job in 14 days, how long will 10 workers take (work at the same rate)?",
+   "options": [
     "7 days",
     "14 days",
     "19.38 days",
     "25.2 days"
    ],
-   "a": 3,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 18 x 14 / 10 = 25.2 days."
+   "answer": 3,
+   "explanation": "Men and time are inversely related: 18 x 14 / 10 = 25.2 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00264",
-   "q": "What is 15 x 12?",
-   "o": [
+   "question": "What is 15 x 12?",
+   "options": [
     "195",
     "176",
     "168",
     "180"
    ],
-   "a": 3,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "15 x 12 = 180."
+   "answer": 3,
+   "explanation": "15 x 12 = 180.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00265",
-   "q": "What is 40 per cent of 360?",
-   "o": [
+   "question": "What is 40 per cent of 360?",
+   "options": [
     "72",
     "147.6",
     "216",
     "144"
    ],
-   "a": 3,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "40 per cent of 360 = 144."
+   "answer": 3,
+   "explanation": "40 per cent of 360 = 144.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00266",
-   "q": "What is the simple interest on 2000 rupees at 2 per cent per annum for 3 years?",
-   "o": [
+   "question": "What is the simple interest on 2000 rupees at 2 per cent per annum for 3 years?",
+   "options": [
     "60 rupees",
     "118 rupees",
     "120 rupees",
     "144 rupees"
    ],
-   "a": 2,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 2000 x 2 x 3 / 100 = 120."
+   "answer": 2,
+   "explanation": "SI = P x R x T / 100 = 2000 x 2 x 3 / 100 = 120.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00267",
-   "q": "What is the average of 28, 32, 33, 39, 48?",
-   "o": [
+   "question": "What is the average of 28, 32, 33, 39, 48?",
+   "options": [
     "37",
     "34",
     "38",
     "36"
    ],
-   "a": 3,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 180, average = 36."
+   "answer": 3,
+   "explanation": "Sum = 180, average = 36.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00268",
-   "q": "An article bought for 900 rupees is sold at a profit of 40 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 900 rupees is sold at a profit of 40 per cent. What is the selling price?",
+   "options": [
     "1260 rupees",
     "940 rupees",
     "1270 rupees",
     "540 rupees"
    ],
-   "a": 0,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 900 x (1 + 40/100) = 1260."
+   "answer": 0,
+   "explanation": "Selling price = 900 x (1 + 40/100) = 1260.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00269",
-   "q": "A vehicle travels at 76 km per hour for 4 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 76 km per hour for 4 hours. What distance does it cover?",
+   "options": [
     "314 km",
     "304 km",
     "152 km",
     "380 km"
    ],
-   "a": 1,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 76 x 4 = 304 km."
+   "answer": 1,
+   "explanation": "Distance = speed x time = 76 x 4 = 304 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00270",
-   "q": "A train 300 metres long runs at 16 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 300 metres long runs at 16 metres per second. How long will it take to cross a pole?",
+   "options": [
     "28.75 seconds",
     "18.75 seconds",
     "37.5 seconds",
     "23.75 seconds"
    ],
-   "a": 1,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 300 / 16 = 18.75 seconds."
+   "answer": 1,
+   "explanation": "Time = length / speed = 300 / 16 = 18.75 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00271",
-   "q": "A can finish a piece of work in 11 days and B in 15 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 11 days and B in 15 days. Working together, in how many days will they finish it?",
+   "options": [
     "12.69 days",
     "6.35 days",
     "11 days",
     "7.35 days"
    ],
-   "a": 1,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/11 + 1/15, so time = 6.35 days."
+   "answer": 1,
+   "explanation": "Combined rate = 1/11 + 1/15, so time = 6.35 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00272",
-   "q": "What is the HCF of 29 and 7?",
-   "o": [
+   "question": "What is the HCF of 29 and 7?",
+   "options": [
     "0",
     "1",
     "2",
     "203"
    ],
-   "a": 1,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 29 and 7 is 1."
+   "answer": 1,
+   "explanation": "The highest common factor of 29 and 7 is 1.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00273",
-   "q": "What is the LCM of 13 and 14?",
-   "o": [
+   "question": "What is the LCM of 13 and 14?",
+   "options": [
     "91",
     "168",
     "364",
     "182"
    ],
-   "a": 3,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 13 and 14 is 182."
+   "answer": 3,
+   "explanation": "The least common multiple of 13 and 14 is 182.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00274",
-   "q": "What is the area of a circle of radius 15 cm? (take pi = 22/7)",
-   "o": [
+   "question": "What is the area of a circle of radius 15 cm? (take pi = 22/7)",
+   "options": [
     "707.14 sq cm",
     "94.29 sq cm",
     "47.14 sq cm",
     "225 sq cm"
    ],
-   "a": 0,
-   "t": "Mensuration",
-   "l": 2,
-   "s": "generated",
-   "e": "Area = pi x r^2 = 22/7 x 15 x 15 = 707.14 square centimetres."
+   "answer": 0,
+   "explanation": "Area = pi x r^2 = 22/7 x 15 x 15 = 707.14 square centimetres.",
+   "topic": "Mensuration",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00275",
-   "q": "What is the perimeter of a rectangle 20 m long and 17 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 20 m long and 17 m wide?",
+   "options": [
     "57 m",
     "74 m",
     "340 m",
     "80 m"
    ],
-   "a": 1,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (20 + 17) = 74 m."
+   "answer": 1,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (20 + 17) = 74 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00276",
-   "q": "What is the compound interest on 10000 rupees at 14 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 10000 rupees at 14 per cent per annum for 2 years?",
+   "options": [
     "3996 rupees",
     "2996 rupees",
     "2982 rupees",
     "2800 rupees"
    ],
-   "a": 1,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 10000 x (1 + 14/100)^2, so CI = 2996 rupees."
+   "answer": 1,
+   "explanation": "Amount = 10000 x (1 + 14/100)^2, so CI = 2996 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00277",
-   "q": "The marked price of an item is 600 rupees and a discount of 25 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 600 rupees and a discount of 25 per cent is given. What is the selling price?",
+   "options": [
     "450 rupees",
     "575 rupees",
     "600 rupees",
     "440 rupees"
    ],
-   "a": 0,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 600 x (1 - 25/100) = 450 rupees."
+   "answer": 0,
+   "explanation": "Selling price = 600 x (1 - 25/100) = 450 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00278",
-   "q": "A sum becomes 47 when 29 is added to another number 18. What is the value of 29 + 18?",
-   "o": [
+   "question": "A sum becomes 47 when 29 is added to another number 18. What is the value of 29 + 18?",
+   "options": [
     "47",
     "46",
     "522",
     "49"
    ],
-   "a": 0,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "29 + 18 = 47."
+   "answer": 0,
+   "explanation": "29 + 18 = 47.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00279",
-   "q": "What is 2 cubed?",
-   "o": [
+   "question": "What is 2 cubed?",
+   "options": [
     "4",
     "27",
     "10",
     "8"
    ],
-   "a": 3,
-   "t": "Squares and Cubes",
-   "l": 1,
-   "s": "generated",
-   "e": "2^3 = 8."
+   "answer": 3,
+   "explanation": "2^3 = 8.",
+   "topic": "Squares and Cubes",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00280",
-   "q": "If 11 workers can complete a job in 8 days, how long will 12 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 11 workers can complete a job in 8 days, how long will 12 workers take (work at the same rate)?",
+   "options": [
     "7.33 days",
     "8.33 days",
     "5.87 days",
     "10 days"
    ],
-   "a": 0,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 11 x 8 / 12 = 7.33 days."
+   "answer": 0,
+   "explanation": "Men and time are inversely related: 11 x 8 / 12 = 7.33 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00281",
-   "q": "What is 47 x 40?",
-   "o": [
+   "question": "What is 47 x 40?",
+   "options": [
     "1927",
     "1920",
     "1880",
     "1876"
    ],
-   "a": 2,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "47 x 40 = 1880."
+   "answer": 2,
+   "explanation": "47 x 40 = 1880.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00282",
-   "q": "What is 75 per cent of 460?",
-   "o": [
+   "question": "What is 75 per cent of 460?",
+   "options": [
     "344",
     "690",
     "172.5",
     "345"
    ],
-   "a": 3,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "75 per cent of 460 = 345."
+   "answer": 3,
+   "explanation": "75 per cent of 460 = 345.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00283",
-   "q": "What is the simple interest on 300 rupees at 8 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the simple interest on 300 rupees at 8 per cent per annum for 2 years?",
+   "options": [
     "40 rupees",
     "24 rupees",
     "57.6 rupees",
     "48 rupees"
    ],
-   "a": 3,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 300 x 8 x 2 / 100 = 48."
+   "answer": 3,
+   "explanation": "SI = P x R x T / 100 = 300 x 8 x 2 / 100 = 48.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00284",
-   "q": "What is the average of 20, 24, 33, 34, 37?",
-   "o": [
+   "question": "What is the average of 20, 24, 33, 34, 37?",
+   "options": [
     "30.6",
     "28.6",
     "27.6",
     "29.6"
    ],
-   "a": 3,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 148, average = 29.6."
+   "answer": 3,
+   "explanation": "Sum = 148, average = 29.6.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00285",
-   "q": "A sum of 231 rupees is divided between two people in the ratio 3:4. What is the larger share?",
-   "o": [
+   "question": "A sum of 231 rupees is divided between two people in the ratio 3:4. What is the larger share?",
+   "options": [
     "115.5 rupees",
     "99 rupees",
     "132 rupees",
     "66 rupees"
    ],
-   "a": 2,
-   "t": "Ratio",
-   "l": 2,
-   "s": "generated",
-   "e": "One part is 33 rupees, so the shares are 99 and 132."
+   "answer": 2,
+   "explanation": "One part is 33 rupees, so the shares are 99 and 132.",
+   "topic": "Ratio",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00286",
-   "q": "An article bought for 1400 rupees is sold at a profit of 14 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 1400 rupees is sold at a profit of 14 per cent. What is the selling price?",
+   "options": [
     "1400 rupees",
     "1591 rupees",
     "1606 rupees",
     "1596 rupees"
    ],
-   "a": 3,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1400 x (1 + 14/100) = 1596."
+   "answer": 3,
+   "explanation": "Selling price = 1400 x (1 + 14/100) = 1596.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00287",
-   "q": "A vehicle travels at 74 km per hour for 6 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 74 km per hour for 6 hours. What distance does it cover?",
+   "options": [
     "444 km",
     "518 km",
     "370 km",
     "222 km"
    ],
-   "a": 0,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 74 x 6 = 444 km."
+   "answer": 0,
+   "explanation": "Distance = speed x time = 74 x 6 = 444 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00288",
-   "q": "A train 100 metres long runs at 22 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 100 metres long runs at 22 metres per second. How long will it take to cross a pole?",
+   "options": [
     "14.55 seconds",
     "2.27 seconds",
     "4.55 seconds",
     "2.55 seconds"
    ],
-   "a": 2,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 100 / 22 = 4.55 seconds."
+   "answer": 2,
+   "explanation": "Time = length / speed = 100 / 22 = 4.55 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00289",
-   "q": "A can finish a piece of work in 22 days and B in 10 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 22 days and B in 10 days. Working together, in how many days will they finish it?",
+   "options": [
     "6.88 days",
     "16 days",
     "32 days",
     "10 days"
    ],
-   "a": 0,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/22 + 1/10, so time = 6.88 days."
+   "answer": 0,
+   "explanation": "Combined rate = 1/22 + 1/10, so time = 6.88 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00290",
-   "q": "What is the HCF of 35 and 23?",
-   "o": [
+   "question": "What is the HCF of 35 and 23?",
+   "options": [
     "2",
     "1",
     "0",
     "3"
    ],
-   "a": 1,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 35 and 23 is 1."
+   "answer": 1,
+   "explanation": "The highest common factor of 35 and 23 is 1.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00291",
-   "q": "What is the LCM of 6 and 4?",
-   "o": [
+   "question": "What is the LCM of 6 and 4?",
+   "options": [
     "18",
     "8",
     "6",
     "12"
    ],
-   "a": 3,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 6 and 4 is 12."
+   "answer": 3,
+   "explanation": "The least common multiple of 6 and 4 is 12.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00292",
-   "q": "What is the area of a circle of radius 17 cm? (take pi = 22/7)",
-   "o": [
+   "question": "What is the area of a circle of radius 17 cm? (take pi = 22/7)",
+   "options": [
     "1816.57 sq cm",
     "289 sq cm",
     "106.86 sq cm",
     "908.29 sq cm"
    ],
-   "a": 3,
-   "t": "Mensuration",
-   "l": 2,
-   "s": "generated",
-   "e": "Area = pi x r^2 = 22/7 x 17 x 17 = 908.29 square centimetres."
+   "answer": 3,
+   "explanation": "Area = pi x r^2 = 22/7 x 17 x 17 = 908.29 square centimetres.",
+   "topic": "Mensuration",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00293",
-   "q": "What is the perimeter of a rectangle 12 m long and 19 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 12 m long and 19 m wide?",
+   "options": [
     "228 m",
     "114 m",
     "31 m",
     "62 m"
    ],
-   "a": 3,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (12 + 19) = 62 m."
+   "answer": 3,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (12 + 19) = 62 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00294",
-   "q": "The marked price of an item is 400 rupees and a discount of 15 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 400 rupees and a discount of 15 per cent is given. What is the selling price?",
+   "options": [
     "460 rupees",
     "385 rupees",
     "340 rupees",
     "330 rupees"
    ],
-   "a": 2,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 400 x (1 - 15/100) = 340 rupees."
+   "answer": 2,
+   "explanation": "Selling price = 400 x (1 - 15/100) = 340 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00295",
-   "q": "A sum becomes 38 when 13 is added to another number 25. What is the value of 13 + 25?",
-   "o": [
+   "question": "A sum becomes 38 when 13 is added to another number 25. What is the value of 13 + 25?",
+   "options": [
     "325",
     "38",
     "-12",
     "40"
    ],
-   "a": 1,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "13 + 25 = 38."
+   "answer": 1,
+   "explanation": "13 + 25 = 38.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00296",
-   "q": "What is 4 cubed?",
-   "o": [
+   "question": "What is 4 cubed?",
+   "options": [
     "68",
     "64",
     "128",
     "60"
    ],
-   "a": 1,
-   "t": "Squares and Cubes",
-   "l": 1,
-   "s": "generated",
-   "e": "4^3 = 64."
+   "answer": 1,
+   "explanation": "4^3 = 64.",
+   "topic": "Squares and Cubes",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00297",
-   "q": "If 11 workers can complete a job in 7 days, how long will 8 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 11 workers can complete a job in 7 days, how long will 8 workers take (work at the same rate)?",
+   "options": [
     "7 days",
     "10.63 days",
     "9.63 days",
     "3.5 days"
    ],
-   "a": 2,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 11 x 7 / 8 = 9.63 days."
+   "answer": 2,
+   "explanation": "Men and time are inversely related: 11 x 7 / 8 = 9.63 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00298",
-   "q": "What is 57 x 65?",
-   "o": [
+   "question": "What is 57 x 65?",
+   "options": [
     "3762",
     "3640",
     "3705",
     "3770"
    ],
-   "a": 2,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "57 x 65 = 3705."
+   "answer": 2,
+   "explanation": "57 x 65 = 3705.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00299",
-   "q": "What is 12 per cent of 760?",
-   "o": [
+   "question": "What is 12 per cent of 760?",
+   "options": [
     "182.4",
     "45.6",
     "136.8",
     "91.2"
    ],
-   "a": 3,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "12 per cent of 760 = 91.2."
+   "answer": 3,
+   "explanation": "12 per cent of 760 = 91.2.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00300",
-   "q": "What is the simple interest on 200 rupees at 11 per cent per annum for 3 years?",
-   "o": [
+   "question": "What is the simple interest on 200 rupees at 11 per cent per annum for 3 years?",
+   "options": [
     "66 rupees",
     "86 rupees",
     "77 rupees",
     "33 rupees"
    ],
-   "a": 0,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 200 x 11 x 3 / 100 = 66."
+   "answer": 0,
+   "explanation": "SI = P x R x T / 100 = 200 x 11 x 3 / 100 = 66.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00301",
-   "q": "What is the average of 39, 46, 54, 55, 61?",
-   "o": [
+   "question": "What is the average of 39, 46, 54, 55, 61?",
+   "options": [
     "51.5",
     "49",
     "50",
     "51"
    ],
-   "a": 3,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 255, average = 51."
+   "answer": 3,
+   "explanation": "Sum = 255, average = 51.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00302",
-   "q": "An article bought for 500 rupees is sold at a profit of 24 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 500 rupees is sold at a profit of 24 per cent. What is the selling price?",
+   "options": [
     "500 rupees",
     "524 rupees",
     "615 rupees",
     "620 rupees"
    ],
-   "a": 3,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 500 x (1 + 24/100) = 620."
+   "answer": 3,
+   "explanation": "Selling price = 500 x (1 + 24/100) = 620.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00303",
-   "q": "A vehicle travels at 61 km per hour for 3 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 61 km per hour for 3 hours. What distance does it cover?",
+   "options": [
     "91.5 km",
     "193 km",
     "244 km",
     "183 km"
    ],
-   "a": 3,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 61 x 3 = 183 km."
+   "answer": 3,
+   "explanation": "Distance = speed x time = 61 x 3 = 183 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00304",
-   "q": "A train 50 metres long runs at 17 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 50 metres long runs at 17 metres per second. How long will it take to cross a pole?",
+   "options": [
     "1.47 seconds",
     "0.94 seconds",
     "5.88 seconds",
     "2.94 seconds"
    ],
-   "a": 3,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 50 / 17 = 2.94 seconds."
+   "answer": 3,
+   "explanation": "Time = length / speed = 50 / 17 = 2.94 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00305",
-   "q": "A can finish a piece of work in 8 days and B in 8 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 8 days and B in 8 days. Working together, in how many days will they finish it?",
+   "options": [
     "4 days",
     "5 days",
     "8 days",
     "16 days"
    ],
-   "a": 0,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/8 + 1/8, so time = 4 days."
+   "answer": 0,
+   "explanation": "Combined rate = 1/8 + 1/8, so time = 4 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00306",
-   "q": "What is the HCF of 28 and 17?",
-   "o": [
+   "question": "What is the HCF of 28 and 17?",
+   "options": [
     "0",
     "476",
     "2",
     "1"
    ],
-   "a": 3,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 28 and 17 is 1."
+   "answer": 3,
+   "explanation": "The highest common factor of 28 and 17 is 1.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00307",
-   "q": "What is the LCM of 22 and 16?",
-   "o": [
+   "question": "What is the LCM of 22 and 16?",
+   "options": [
     "88",
     "160",
     "198",
     "176"
    ],
-   "a": 3,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 22 and 16 is 176."
+   "answer": 3,
+   "explanation": "The least common multiple of 22 and 16 is 176.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00308",
-   "q": "What is the area of a circle of radius 11 cm? (take pi = 22/7)",
-   "o": [
+   "question": "What is the area of a circle of radius 11 cm? (take pi = 22/7)",
+   "options": [
     "380.29 sq cm",
     "34.57 sq cm",
     "760.57 sq cm",
     "69.14 sq cm"
    ],
-   "a": 0,
-   "t": "Mensuration",
-   "l": 2,
-   "s": "generated",
-   "e": "Area = pi x r^2 = 22/7 x 11 x 11 = 380.29 square centimetres."
+   "answer": 0,
+   "explanation": "Area = pi x r^2 = 22/7 x 11 x 11 = 380.29 square centimetres.",
+   "topic": "Mensuration",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00309",
-   "q": "What is the perimeter of a rectangle 6 m long and 6 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 6 m long and 6 m wide?",
+   "options": [
     "36 m",
     "12 m",
     "18 m",
     "24 m"
    ],
-   "a": 3,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (6 + 6) = 24 m."
+   "answer": 3,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (6 + 6) = 24 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00310",
-   "q": "What is the compound interest on 2000 rupees at 7 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 2000 rupees at 7 per cent per annum for 2 years?",
+   "options": [
     "289.8 rupees",
     "282.8 rupees",
     "579.6 rupees",
     "280 rupees"
    ],
-   "a": 0,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 2000 x (1 + 7/100)^2, so CI = 289.8 rupees."
+   "answer": 0,
+   "explanation": "Amount = 2000 x (1 + 7/100)^2, so CI = 289.8 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00311",
-   "q": "The marked price of an item is 1200 rupees and a discount of 5 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 1200 rupees and a discount of 5 per cent is given. What is the selling price?",
+   "options": [
     "1130 rupees",
     "1260 rupees",
     "1200 rupees",
     "1140 rupees"
    ],
-   "a": 3,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1200 x (1 - 5/100) = 1140 rupees."
+   "answer": 3,
+   "explanation": "Selling price = 1200 x (1 - 5/100) = 1140 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00312",
-   "q": "A sum becomes 22 when 17 is added to another number 5. What is the value of 17 + 5?",
-   "o": [
+   "question": "A sum becomes 22 when 17 is added to another number 5. What is the value of 17 + 5?",
+   "options": [
     "23",
     "85",
     "22",
     "12"
    ],
-   "a": 2,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "17 + 5 = 22."
+   "answer": 2,
+   "explanation": "17 + 5 = 22.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00313",
-   "q": "If 10 workers can complete a job in 13 days, how long will 9 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 10 workers can complete a job in 13 days, how long will 9 workers take (work at the same rate)?",
+   "options": [
     "14.44 days",
     "15 days",
     "13 days",
     "15.44 days"
    ],
-   "a": 0,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 10 x 13 / 9 = 14.44 days."
+   "answer": 0,
+   "explanation": "Men and time are inversely related: 10 x 13 / 9 = 14.44 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00314",
-   "q": "What is 96 x 38?",
-   "o": [
+   "question": "What is 96 x 38?",
+   "options": [
     "3686",
     "3744",
     "3648",
     "3644"
    ],
-   "a": 2,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "96 x 38 = 3648."
+   "answer": 2,
+   "explanation": "96 x 38 = 3648.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00315",
-   "q": "What is 5 per cent of 780?",
-   "o": [
+   "question": "What is 5 per cent of 780?",
+   "options": [
     "39",
     "78",
     "58.5",
     "19.5"
    ],
-   "a": 0,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "5 per cent of 780 = 39."
+   "answer": 0,
+   "explanation": "5 per cent of 780 = 39.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00316",
-   "q": "What is the simple interest on 1800 rupees at 11 per cent per annum for 1 years?",
-   "o": [
+   "question": "What is the simple interest on 1800 rupees at 11 per cent per annum for 1 years?",
+   "options": [
     "198 rupees",
     "209 rupees",
     "187 rupees",
     "378 rupees"
    ],
-   "a": 0,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 1800 x 11 x 1 / 100 = 198."
+   "answer": 0,
+   "explanation": "SI = P x R x T / 100 = 1800 x 11 x 1 / 100 = 198.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00317",
-   "q": "What is the average of 18, 19, 20, 27, 34?",
-   "o": [
+   "question": "What is the average of 18, 19, 20, 27, 34?",
+   "options": [
     "23.6",
     "21.6",
     "24.1",
     "22.6"
    ],
-   "a": 0,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 118, average = 23.6."
+   "answer": 0,
+   "explanation": "Sum = 118, average = 23.6.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00318",
-   "q": "An article bought for 900 rupees is sold at a profit of 8 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 900 rupees is sold at a profit of 8 per cent. What is the selling price?",
+   "options": [
     "828 rupees",
     "972 rupees",
     "967 rupees",
     "982 rupees"
    ],
-   "a": 1,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 900 x (1 + 8/100) = 972."
+   "answer": 1,
+   "explanation": "Selling price = 900 x (1 + 8/100) = 972.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00319",
-   "q": "A vehicle travels at 40 km per hour for 3 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 40 km per hour for 3 hours. What distance does it cover?",
+   "options": [
     "150 km",
     "60 km",
     "80 km",
     "120 km"
    ],
-   "a": 3,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 40 x 3 = 120 km."
+   "answer": 3,
+   "explanation": "Distance = speed x time = 40 x 3 = 120 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00320",
-   "q": "A train 250 metres long runs at 27 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 250 metres long runs at 27 metres per second. How long will it take to cross a pole?",
+   "options": [
     "18.52 seconds",
     "9.26 seconds",
     "14.26 seconds",
     "19.26 seconds"
    ],
-   "a": 1,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 250 / 27 = 9.26 seconds."
+   "answer": 1,
+   "explanation": "Time = length / speed = 250 / 27 = 9.26 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00321",
-   "q": "A can finish a piece of work in 9 days and B in 9 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 9 days and B in 9 days. Working together, in how many days will they finish it?",
+   "options": [
     "5.5 days",
     "4.5 days",
     "9 days",
     "18 days"
    ],
-   "a": 1,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/9 + 1/9, so time = 4.5 days."
+   "answer": 1,
+   "explanation": "Combined rate = 1/9 + 1/9, so time = 4.5 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00322",
-   "q": "What is the HCF of 11 and 12?",
-   "o": [
+   "question": "What is the HCF of 11 and 12?",
+   "options": [
     "1",
     "2",
     "3",
     "132"
    ],
-   "a": 0,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 11 and 12 is 1."
+   "answer": 0,
+   "explanation": "The highest common factor of 11 and 12 is 1.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00323",
-   "q": "What is the LCM of 11 and 18?",
-   "o": [
+   "question": "What is the LCM of 11 and 18?",
+   "options": [
     "198",
     "396",
     "99",
     "180"
    ],
-   "a": 0,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 11 and 18 is 198."
+   "answer": 0,
+   "explanation": "The least common multiple of 11 and 18 is 198.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00324",
-   "q": "What is the area of a circle of radius 14 cm? (take pi = 22/7)",
-   "o": [
+   "question": "What is the area of a circle of radius 14 cm? (take pi = 22/7)",
+   "options": [
     "616 sq cm",
     "1232 sq cm",
     "88 sq cm",
     "196 sq cm"
    ],
-   "a": 0,
-   "t": "Mensuration",
-   "l": 2,
-   "s": "generated",
-   "e": "Area = pi x r^2 = 22/7 x 14 x 14 = 616 square centimetres."
+   "answer": 0,
+   "explanation": "Area = pi x r^2 = 22/7 x 14 x 14 = 616 square centimetres.",
+   "topic": "Mensuration",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00325",
-   "q": "What is the perimeter of a rectangle 17 m long and 11 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 17 m long and 11 m wide?",
+   "options": [
     "56 m",
     "93.5 m",
     "45 m",
     "187 m"
    ],
-   "a": 0,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (17 + 11) = 56 m."
+   "answer": 0,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (17 + 11) = 56 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00326",
-   "q": "What is the compound interest on 10000 rupees at 12 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 10000 rupees at 12 per cent per annum for 2 years?",
+   "options": [
     "2532 rupees",
     "2400 rupees",
     "2544 rupees",
     "5088 rupees"
    ],
-   "a": 2,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 10000 x (1 + 12/100)^2, so CI = 2544 rupees."
+   "answer": 2,
+   "explanation": "Amount = 10000 x (1 + 12/100)^2, so CI = 2544 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00327",
-   "q": "The marked price of an item is 2000 rupees and a discount of 25 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 2000 rupees and a discount of 25 per cent is given. What is the selling price?",
+   "options": [
     "2000 rupees",
     "1975 rupees",
     "2500 rupees",
     "1500 rupees"
    ],
-   "a": 3,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 2000 x (1 - 25/100) = 1500 rupees."
+   "answer": 3,
+   "explanation": "Selling price = 2000 x (1 - 25/100) = 1500 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00328",
-   "q": "A sum becomes 39 when 28 is added to another number 11. What is the value of 28 + 11?",
-   "o": [
+   "question": "A sum becomes 39 when 28 is added to another number 11. What is the value of 28 + 11?",
+   "options": [
     "17",
     "308",
     "39",
     "38"
    ],
-   "a": 2,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "28 + 11 = 39."
+   "answer": 2,
+   "explanation": "28 + 11 = 39.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00329",
-   "q": "What is 5 cubed?",
-   "o": [
+   "question": "What is 5 cubed?",
+   "options": [
     "120",
     "250",
     "125",
     "25"
    ],
-   "a": 2,
-   "t": "Squares and Cubes",
-   "l": 1,
-   "s": "generated",
-   "e": "5^3 = 125."
+   "answer": 2,
+   "explanation": "5^3 = 125.",
+   "topic": "Squares and Cubes",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00330",
-   "q": "If 15 workers can complete a job in 15 days, how long will 11 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 15 workers can complete a job in 15 days, how long will 11 workers take (work at the same rate)?",
+   "options": [
     "16.07 days",
     "7.5 days",
     "20.45 days",
     "17 days"
    ],
-   "a": 2,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 15 x 15 / 11 = 20.45 days."
+   "answer": 2,
+   "explanation": "Men and time are inversely related: 15 x 15 / 11 = 20.45 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00331",
-   "q": "What is 75 x 33?",
-   "o": [
+   "question": "What is 75 x 33?",
+   "options": [
     "2475",
     "2471",
     "2550",
     "2508"
    ],
-   "a": 0,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "75 x 33 = 2475."
+   "answer": 0,
+   "explanation": "75 x 33 = 2475.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00332",
-   "q": "What is 40 per cent of 260?",
-   "o": [
+   "question": "What is 40 per cent of 260?",
+   "options": [
     "103",
     "156",
     "208",
     "104"
    ],
-   "a": 3,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "40 per cent of 260 = 104."
+   "answer": 3,
+   "explanation": "40 per cent of 260 = 104.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00333",
-   "q": "What is the simple interest on 1700 rupees at 2 per cent per annum for 3 years?",
-   "o": [
+   "question": "What is the simple interest on 1700 rupees at 2 per cent per annum for 3 years?",
+   "options": [
     "51 rupees",
     "272 rupees",
     "122.4 rupees",
     "102 rupees"
    ],
-   "a": 3,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 1700 x 2 x 3 / 100 = 102."
+   "answer": 3,
+   "explanation": "SI = P x R x T / 100 = 1700 x 2 x 3 / 100 = 102.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00334",
-   "q": "What is the average of 42, 44, 53, 59, 66?",
-   "o": [
+   "question": "What is the average of 42, 44, 53, 59, 66?",
+   "options": [
     "53.8",
     "52.8",
     "54.8",
     "50.8"
    ],
-   "a": 1,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 264, average = 52.8."
+   "answer": 1,
+   "explanation": "Sum = 264, average = 52.8.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00335",
-   "q": "An article bought for 500 rupees is sold at a profit of 14 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 500 rupees is sold at a profit of 14 per cent. What is the selling price?",
+   "options": [
     "500 rupees",
     "580 rupees",
     "565 rupees",
     "570 rupees"
    ],
-   "a": 3,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 500 x (1 + 14/100) = 570."
+   "answer": 3,
+   "explanation": "Selling price = 500 x (1 + 14/100) = 570.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00336",
-   "q": "A vehicle travels at 30 km per hour for 2 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 30 km per hour for 2 hours. What distance does it cover?",
+   "options": [
     "60 km",
     "70 km",
     "30 km",
     "75 km"
    ],
-   "a": 0,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 30 x 2 = 60 km."
+   "answer": 0,
+   "explanation": "Distance = speed x time = 30 x 2 = 60 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00337",
-   "q": "A train 150 metres long runs at 20 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 150 metres long runs at 20 metres per second. How long will it take to cross a pole?",
+   "options": [
     "15 seconds",
     "7.5 seconds",
     "3.75 seconds",
     "5.5 seconds"
    ],
-   "a": 1,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 150 / 20 = 7.5 seconds."
+   "answer": 1,
+   "explanation": "Time = length / speed = 150 / 20 = 7.5 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00338",
-   "q": "A can finish a piece of work in 7 days and B in 23 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 7 days and B in 23 days. Working together, in how many days will they finish it?",
+   "options": [
     "7 days",
     "15 days",
     "5.37 days",
     "6.37 days"
    ],
-   "a": 2,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/7 + 1/23, so time = 5.37 days."
+   "answer": 2,
+   "explanation": "Combined rate = 1/7 + 1/23, so time = 5.37 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00339",
-   "q": "What is the HCF of 15 and 19?",
-   "o": [
+   "question": "What is the HCF of 15 and 19?",
+   "options": [
     "2",
     "3",
     "1",
     "285"
    ],
-   "a": 2,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 15 and 19 is 1."
+   "answer": 2,
+   "explanation": "The highest common factor of 15 and 19 is 1.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00340",
-   "q": "What is the LCM of 18 and 20?",
-   "o": [
+   "question": "What is the LCM of 18 and 20?",
+   "options": [
     "180",
     "160",
     "198",
     "360"
    ],
-   "a": 0,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 18 and 20 is 180."
+   "answer": 0,
+   "explanation": "The least common multiple of 18 and 20 is 180.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00341",
-   "q": "What is the area of a circle of radius 6 cm? (take pi = 22/7)",
-   "o": [
+   "question": "What is the area of a circle of radius 6 cm? (take pi = 22/7)",
+   "options": [
     "18.86 sq cm",
     "113.14 sq cm",
     "37.71 sq cm",
     "226.29 sq cm"
    ],
-   "a": 1,
-   "t": "Mensuration",
-   "l": 2,
-   "s": "generated",
-   "e": "Area = pi x r^2 = 22/7 x 6 x 6 = 113.14 square centimetres."
+   "answer": 1,
+   "explanation": "Area = pi x r^2 = 22/7 x 6 x 6 = 113.14 square centimetres.",
+   "topic": "Mensuration",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00342",
-   "q": "What is the perimeter of a rectangle 23 m long and 22 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 23 m long and 22 m wide?",
+   "options": [
     "506 m",
     "90 m",
     "45 m",
     "68 m"
    ],
-   "a": 1,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (23 + 22) = 90 m."
+   "answer": 1,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (23 + 22) = 90 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00343",
-   "q": "What is the compound interest on 3000 rupees at 12 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 3000 rupees at 12 per cent per annum for 2 years?",
+   "options": [
     "751.2 rupees",
     "1526.4 rupees",
     "763.2 rupees",
     "381.6 rupees"
    ],
-   "a": 2,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 3000 x (1 + 12/100)^2, so CI = 763.2 rupees."
+   "answer": 2,
+   "explanation": "Amount = 3000 x (1 + 12/100)^2, so CI = 763.2 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00344",
-   "q": "The marked price of an item is 1800 rupees and a discount of 15 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 1800 rupees and a discount of 15 per cent is given. What is the selling price?",
+   "options": [
     "1800 rupees",
     "2070 rupees",
     "1530 rupees",
     "1520 rupees"
    ],
-   "a": 2,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1800 x (1 - 15/100) = 1530 rupees."
+   "answer": 2,
+   "explanation": "Selling price = 1800 x (1 - 15/100) = 1530 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00345",
-   "q": "A sum becomes 28 when 17 is added to another number 11. What is the value of 17 + 11?",
-   "o": [
+   "question": "A sum becomes 28 when 17 is added to another number 11. What is the value of 17 + 11?",
+   "options": [
     "28",
     "27",
     "30",
     "29"
    ],
-   "a": 0,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "17 + 11 = 28."
+   "answer": 0,
+   "explanation": "17 + 11 = 28.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00346",
-   "q": "What is 2 cubed?",
-   "o": [
+   "question": "What is 2 cubed?",
+   "options": [
     "8",
     "4",
     "16",
     "27"
    ],
-   "a": 0,
-   "t": "Squares and Cubes",
-   "l": 1,
-   "s": "generated",
-   "e": "2^3 = 8."
+   "answer": 0,
+   "explanation": "2^3 = 8.",
+   "topic": "Squares and Cubes",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00347",
-   "q": "If 18 workers can complete a job in 11 days, how long will 23 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 18 workers can complete a job in 11 days, how long will 23 workers take (work at the same rate)?",
+   "options": [
     "11 days",
     "8.61 days",
     "5.5 days",
     "9.61 days"
    ],
-   "a": 1,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 18 x 11 / 23 = 8.61 days."
+   "answer": 1,
+   "explanation": "Men and time are inversely related: 18 x 11 / 23 = 8.61 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00348",
-   "q": "What is 39 x 93?",
-   "o": [
+   "question": "What is 39 x 93?",
+   "options": [
     "3534",
     "3666",
     "3720",
     "3627"
    ],
-   "a": 3,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "39 x 93 = 3627."
+   "answer": 3,
+   "explanation": "39 x 93 = 3627.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00349",
-   "q": "What is 20 per cent of 60?",
-   "o": [
+   "question": "What is 20 per cent of 60?",
+   "options": [
     "11",
     "24",
     "12",
     "18"
    ],
-   "a": 2,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "20 per cent of 60 = 12."
+   "answer": 2,
+   "explanation": "20 per cent of 60 = 12.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00350",
-   "q": "What is the simple interest on 1300 rupees at 7 per cent per annum for 6 years?",
-   "o": [
+   "question": "What is the simple interest on 1300 rupees at 7 per cent per annum for 6 years?",
+   "options": [
     "539 rupees",
     "546 rupees",
     "676 rupees",
     "655.2 rupees"
    ],
-   "a": 1,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 1300 x 7 x 6 / 100 = 546."
+   "answer": 1,
+   "explanation": "SI = P x R x T / 100 = 1300 x 7 x 6 / 100 = 546.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00351",
-   "q": "What is the average of 19, 26, 29, 37, 40?",
-   "o": [
+   "question": "What is the average of 19, 26, 29, 37, 40?",
+   "options": [
     "30.2",
     "32.2",
     "29.2",
     "28.2"
    ],
-   "a": 0,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 151, average = 30.2."
+   "answer": 0,
+   "explanation": "Sum = 151, average = 30.2.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00352",
-   "q": "An article bought for 100 rupees is sold at a profit of 12 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 100 rupees is sold at a profit of 12 per cent. What is the selling price?",
+   "options": [
     "107 rupees",
     "100 rupees",
     "122 rupees",
     "112 rupees"
    ],
-   "a": 3,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 100 x (1 + 12/100) = 112."
+   "answer": 3,
+   "explanation": "Selling price = 100 x (1 + 12/100) = 112.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00353",
-   "q": "A vehicle travels at 78 km per hour for 2 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 78 km per hour for 2 hours. What distance does it cover?",
+   "options": [
     "234 km",
     "195 km",
     "78 km",
     "156 km"
    ],
-   "a": 3,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 78 x 2 = 156 km."
+   "answer": 3,
+   "explanation": "Distance = speed x time = 78 x 2 = 156 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00354",
-   "q": "A train 300 metres long runs at 29 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 300 metres long runs at 29 metres per second. How long will it take to cross a pole?",
+   "options": [
     "15.34 seconds",
     "20.34 seconds",
     "5.17 seconds",
     "10.34 seconds"
    ],
-   "a": 3,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 300 / 29 = 10.34 seconds."
+   "answer": 3,
+   "explanation": "Time = length / speed = 300 / 29 = 10.34 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00355",
-   "q": "A can finish a piece of work in 16 days and B in 6 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 16 days and B in 6 days. Working together, in how many days will they finish it?",
+   "options": [
     "11 days",
     "6 days",
     "8.73 days",
     "4.36 days"
    ],
-   "a": 3,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/16 + 1/6, so time = 4.36 days."
+   "answer": 3,
+   "explanation": "Combined rate = 1/16 + 1/6, so time = 4.36 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00356",
-   "q": "What is the HCF of 8 and 30?",
-   "o": [
+   "question": "What is the HCF of 8 and 30?",
+   "options": [
     "1",
     "120",
     "2",
     "3"
    ],
-   "a": 2,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 8 and 30 is 2."
+   "answer": 2,
+   "explanation": "The highest common factor of 8 and 30 is 2.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00357",
-   "q": "What is the LCM of 15 and 11?",
-   "o": [
+   "question": "What is the LCM of 15 and 11?",
+   "options": [
     "330",
     "165",
     "154",
     "180"
    ],
-   "a": 1,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 15 and 11 is 165."
+   "answer": 1,
+   "explanation": "The least common multiple of 15 and 11 is 165.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00358",
-   "q": "What is the area of a circle of radius 3 cm? (take pi = 22/7)",
-   "o": [
+   "question": "What is the area of a circle of radius 3 cm? (take pi = 22/7)",
+   "options": [
     "28.29 sq cm",
     "56.57 sq cm",
     "9 sq cm",
     "9.43 sq cm"
    ],
-   "a": 0,
-   "t": "Mensuration",
-   "l": 2,
-   "s": "generated",
-   "e": "Area = pi x r^2 = 22/7 x 3 x 3 = 28.29 square centimetres."
+   "answer": 0,
+   "explanation": "Area = pi x r^2 = 22/7 x 3 x 3 = 28.29 square centimetres.",
+   "topic": "Mensuration",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00359",
-   "q": "What is the perimeter of a rectangle 10 m long and 19 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 10 m long and 19 m wide?",
+   "options": [
     "40 m",
     "190 m",
     "95 m",
     "58 m"
    ],
-   "a": 3,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (10 + 19) = 58 m."
+   "answer": 3,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (10 + 19) = 58 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00360",
-   "q": "What is the compound interest on 3000 rupees at 8 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 3000 rupees at 8 per cent per annum for 2 years?",
+   "options": [
     "480 rupees",
     "491.2 rupees",
     "799.2 rupees",
     "499.2 rupees"
    ],
-   "a": 3,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 3000 x (1 + 8/100)^2, so CI = 499.2 rupees."
+   "answer": 3,
+   "explanation": "Amount = 3000 x (1 + 8/100)^2, so CI = 499.2 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00361",
-   "q": "The marked price of an item is 1400 rupees and a discount of 5 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 1400 rupees and a discount of 5 per cent is given. What is the selling price?",
+   "options": [
     "1320 rupees",
     "1330 rupees",
     "1400 rupees",
     "1340 rupees"
    ],
-   "a": 1,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1400 x (1 - 5/100) = 1330 rupees."
+   "answer": 1,
+   "explanation": "Selling price = 1400 x (1 - 5/100) = 1330 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00362",
-   "q": "A sum becomes 23 when 13 is added to another number 10. What is the value of 13 + 10?",
-   "o": [
+   "question": "A sum becomes 23 when 13 is added to another number 10. What is the value of 13 + 10?",
+   "options": [
     "23",
     "130",
     "25",
     "24"
    ],
-   "a": 0,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "13 + 10 = 23."
+   "answer": 0,
+   "explanation": "13 + 10 = 23.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00363",
-   "q": "What is 9 cubed?",
-   "o": [
+   "question": "What is 9 cubed?",
+   "options": [
     "1000",
     "729",
     "720",
     "738"
    ],
-   "a": 1,
-   "t": "Squares and Cubes",
-   "l": 1,
-   "s": "generated",
-   "e": "9^3 = 729."
+   "answer": 1,
+   "explanation": "9^3 = 729.",
+   "topic": "Squares and Cubes",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00364",
-   "q": "If 13 workers can complete a job in 6 days, how long will 8 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 13 workers can complete a job in 6 days, how long will 8 workers take (work at the same rate)?",
+   "options": [
     "9.75 days",
     "7.09 days",
     "8 days",
     "3 days"
    ],
-   "a": 0,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 13 x 6 / 8 = 9.75 days."
+   "answer": 0,
+   "explanation": "Men and time are inversely related: 13 x 6 / 8 = 9.75 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00365",
-   "q": "What is 64 x 77?",
-   "o": [
+   "question": "What is 64 x 77?",
+   "options": [
     "4928",
     "4924",
     "5005",
     "4992"
    ],
-   "a": 0,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "64 x 77 = 4928."
+   "answer": 0,
+   "explanation": "64 x 77 = 4928.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00366",
-   "q": "What is 12 per cent of 700?",
-   "o": [
+   "question": "What is 12 per cent of 700?",
+   "options": [
     "126",
     "84",
     "91",
     "83"
    ],
-   "a": 1,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "12 per cent of 700 = 84."
+   "answer": 1,
+   "explanation": "12 per cent of 700 = 84.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00367",
-   "q": "What is the simple interest on 1000 rupees at 8 per cent per annum for 4 years?",
-   "o": [
+   "question": "What is the simple interest on 1000 rupees at 8 per cent per annum for 4 years?",
+   "options": [
     "320 rupees",
     "384 rupees",
     "420 rupees",
     "312 rupees"
    ],
-   "a": 0,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 1000 x 8 x 4 / 100 = 320."
+   "answer": 0,
+   "explanation": "SI = P x R x T / 100 = 1000 x 8 x 4 / 100 = 320.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00368",
-   "q": "What is the average of 22, 25, 30, 36, 40?",
-   "o": [
+   "question": "What is the average of 22, 25, 30, 36, 40?",
+   "options": [
     "31.1",
     "28.6",
     "30.6",
     "32.6"
    ],
-   "a": 2,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 153, average = 30.6."
+   "answer": 2,
+   "explanation": "Sum = 153, average = 30.6.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00369",
-   "q": "An article bought for 1300 rupees is sold at a profit of 35 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 1300 rupees is sold at a profit of 35 per cent. What is the selling price?",
+   "options": [
     "1755 rupees",
     "1765 rupees",
     "1335 rupees",
     "1750 rupees"
    ],
-   "a": 0,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1300 x (1 + 35/100) = 1755."
+   "answer": 0,
+   "explanation": "Selling price = 1300 x (1 + 35/100) = 1755.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00370",
-   "q": "A vehicle travels at 54 km per hour for 6 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 54 km per hour for 6 hours. What distance does it cover?",
+   "options": [
     "324 km",
     "162 km",
     "405 km",
     "378 km"
    ],
-   "a": 0,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 54 x 6 = 324 km."
+   "answer": 0,
+   "explanation": "Distance = speed x time = 54 x 6 = 324 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00371",
-   "q": "A train 100 metres long runs at 25 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 100 metres long runs at 25 metres per second. How long will it take to cross a pole?",
+   "options": [
     "2 seconds",
     "4 seconds",
     "9 seconds",
     "8 seconds"
    ],
-   "a": 1,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 100 / 25 = 4 seconds."
+   "answer": 1,
+   "explanation": "Time = length / speed = 100 / 25 = 4 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00372",
-   "q": "A can finish a piece of work in 23 days and B in 13 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 23 days and B in 13 days. Working together, in how many days will they finish it?",
+   "options": [
     "36 days",
     "9.31 days",
     "8.31 days",
     "16.61 days"
    ],
-   "a": 2,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/23 + 1/13, so time = 8.31 days."
+   "answer": 2,
+   "explanation": "Combined rate = 1/23 + 1/13, so time = 8.31 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00373",
-   "q": "What is the HCF of 17 and 29?",
-   "o": [
+   "question": "What is the HCF of 17 and 29?",
+   "options": [
     "493",
     "3",
     "1",
     "0"
    ],
-   "a": 2,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 17 and 29 is 1."
+   "answer": 2,
+   "explanation": "The highest common factor of 17 and 29 is 1.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00374",
-   "q": "What is the LCM of 8 and 15?",
-   "o": [
+   "question": "What is the LCM of 8 and 15?",
+   "options": [
     "128",
     "105",
     "120",
     "240"
    ],
-   "a": 2,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 8 and 15 is 120."
+   "answer": 2,
+   "explanation": "The least common multiple of 8 and 15 is 120.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00375",
-   "q": "What is the area of a circle of radius 5 cm? (take pi = 22/7)",
-   "o": [
+   "question": "What is the area of a circle of radius 5 cm? (take pi = 22/7)",
+   "options": [
     "25 sq cm",
     "78.57 sq cm",
     "31.43 sq cm",
     "15.71 sq cm"
    ],
-   "a": 1,
-   "t": "Mensuration",
-   "l": 2,
-   "s": "generated",
-   "e": "Area = pi x r^2 = 22/7 x 5 x 5 = 78.57 square centimetres."
+   "answer": 1,
+   "explanation": "Area = pi x r^2 = 22/7 x 5 x 5 = 78.57 square centimetres.",
+   "topic": "Mensuration",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00376",
-   "q": "What is the perimeter of a rectangle 20 m long and 22 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 20 m long and 22 m wide?",
+   "options": [
     "440 m",
     "84 m",
     "42 m",
     "220 m"
    ],
-   "a": 1,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (20 + 22) = 84 m."
+   "answer": 1,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (20 + 22) = 84 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00377",
-   "q": "What is the compound interest on 4000 rupees at 14 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 4000 rupees at 14 per cent per annum for 2 years?",
+   "options": [
     "1198.4 rupees",
     "1598.4 rupees",
     "599.2 rupees",
     "1184.4 rupees"
    ],
-   "a": 0,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 4000 x (1 + 14/100)^2, so CI = 1198.4 rupees."
+   "answer": 0,
+   "explanation": "Amount = 4000 x (1 + 14/100)^2, so CI = 1198.4 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00378",
-   "q": "The marked price of an item is 1400 rupees and a discount of 10 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 1400 rupees and a discount of 10 per cent is given. What is the selling price?",
+   "options": [
     "1270 rupees",
     "1250 rupees",
     "1260 rupees",
     "1400 rupees"
    ],
-   "a": 2,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1400 x (1 - 10/100) = 1260 rupees."
+   "answer": 2,
+   "explanation": "Selling price = 1400 x (1 - 10/100) = 1260 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00379",
-   "q": "A sum becomes 19 when 13 is added to another number 6. What is the value of 13 + 6?",
-   "o": [
+   "question": "A sum becomes 19 when 13 is added to another number 6. What is the value of 13 + 6?",
+   "options": [
     "20",
     "19",
     "7",
     "78"
    ],
-   "a": 1,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "13 + 6 = 19."
+   "answer": 1,
+   "explanation": "13 + 6 = 19.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00380",
-   "q": "What is 6 cubed?",
-   "o": [
+   "question": "What is 6 cubed?",
+   "options": [
     "210",
     "343",
     "216",
     "432"
    ],
-   "a": 2,
-   "t": "Squares and Cubes",
-   "l": 1,
-   "s": "generated",
-   "e": "6^3 = 216."
+   "answer": 2,
+   "explanation": "6^3 = 216.",
+   "topic": "Squares and Cubes",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00381",
-   "q": "If 12 workers can complete a job in 7 days, how long will 8 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 12 workers can complete a job in 7 days, how long will 8 workers take (work at the same rate)?",
+   "options": [
     "11.5 days",
     "3.5 days",
     "7.64 days",
     "10.5 days"
    ],
-   "a": 3,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 12 x 7 / 8 = 10.5 days."
+   "answer": 3,
+   "explanation": "Men and time are inversely related: 12 x 7 / 8 = 10.5 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00382",
-   "q": "What is 17 x 49?",
-   "o": [
+   "question": "What is 17 x 49?",
+   "options": [
     "850",
     "829",
     "833",
     "784"
    ],
-   "a": 2,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "17 x 49 = 833."
+   "answer": 2,
+   "explanation": "17 x 49 = 833.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00383",
-   "q": "What is 75 per cent of 500?",
-   "o": [
+   "question": "What is 75 per cent of 500?",
+   "options": [
     "375",
     "374",
     "750",
     "380"
    ],
-   "a": 0,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "75 per cent of 500 = 375."
+   "answer": 0,
+   "explanation": "75 per cent of 500 = 375.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00384",
-   "q": "What is the simple interest on 100 rupees at 9 per cent per annum for 1 years?",
-   "o": [
+   "question": "What is the simple interest on 100 rupees at 9 per cent per annum for 1 years?",
+   "options": [
     "19 rupees",
     "9 rupees",
     "4.5 rupees",
     "10.8 rupees"
    ],
-   "a": 1,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 100 x 9 x 1 / 100 = 9."
+   "answer": 1,
+   "explanation": "SI = P x R x T / 100 = 100 x 9 x 1 / 100 = 9.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00385",
-   "q": "What is the average of 9, 17, 24, 31, 40?",
-   "o": [
+   "question": "What is the average of 9, 17, 24, 31, 40?",
+   "options": [
     "23.2",
     "25.2",
     "26.2",
     "24.2"
    ],
-   "a": 3,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 121, average = 24.2."
+   "answer": 3,
+   "explanation": "Sum = 121, average = 24.2.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00386",
-   "q": "An article bought for 1500 rupees is sold at a profit of 33 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 1500 rupees is sold at a profit of 33 per cent. What is the selling price?",
+   "options": [
     "1533 rupees",
     "2005 rupees",
     "1995 rupees",
     "1990 rupees"
    ],
-   "a": 2,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1500 x (1 + 33/100) = 1995."
+   "answer": 2,
+   "explanation": "Selling price = 1500 x (1 + 33/100) = 1995.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00387",
-   "q": "A vehicle travels at 20 km per hour for 2 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 20 km per hour for 2 hours. What distance does it cover?",
+   "options": [
     "20 km",
     "60 km",
     "50 km",
     "40 km"
    ],
-   "a": 3,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 20 x 2 = 40 km."
+   "answer": 3,
+   "explanation": "Distance = speed x time = 20 x 2 = 40 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00388",
-   "q": "A train 300 metres long runs at 25 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 300 metres long runs at 25 metres per second. How long will it take to cross a pole?",
+   "options": [
     "17 seconds",
     "12 seconds",
     "10 seconds",
     "6 seconds"
    ],
-   "a": 1,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 300 / 25 = 12 seconds."
+   "answer": 1,
+   "explanation": "Time = length / speed = 300 / 25 = 12 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00389",
-   "q": "A can finish a piece of work in 18 days and B in 19 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 18 days and B in 19 days. Working together, in how many days will they finish it?",
+   "options": [
     "18 days",
     "10.24 days",
     "18.5 days",
     "9.24 days"
    ],
-   "a": 3,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/18 + 1/19, so time = 9.24 days."
+   "answer": 3,
+   "explanation": "Combined rate = 1/18 + 1/19, so time = 9.24 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00390",
-   "q": "What is the HCF of 30 and 30?",
-   "o": [
+   "question": "What is the HCF of 30 and 30?",
+   "options": [
     "31",
     "30",
     "29",
     "60"
    ],
-   "a": 1,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 30 and 30 is 30."
+   "answer": 1,
+   "explanation": "The highest common factor of 30 and 30 is 30.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00391",
-   "q": "What is the LCM of 7 and 17?",
-   "o": [
+   "question": "What is the LCM of 7 and 17?",
+   "options": [
     "59.5",
     "102",
     "119",
     "126"
    ],
-   "a": 2,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 7 and 17 is 119."
+   "answer": 2,
+   "explanation": "The least common multiple of 7 and 17 is 119.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00392",
-   "q": "What is the perimeter of a rectangle 5 m long and 22 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 5 m long and 22 m wide?",
+   "options": [
     "110 m",
     "54 m",
     "32 m",
     "55 m"
    ],
-   "a": 1,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (5 + 22) = 54 m."
+   "answer": 1,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (5 + 22) = 54 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00393",
-   "q": "What is the compound interest on 1000 rupees at 11 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 1000 rupees at 11 per cent per annum for 2 years?",
+   "options": [
     "221.1 rupees",
     "464.2 rupees",
     "220 rupees",
     "232.1 rupees"
    ],
-   "a": 3,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 1000 x (1 + 11/100)^2, so CI = 232.1 rupees."
+   "answer": 3,
+   "explanation": "Amount = 1000 x (1 + 11/100)^2, so CI = 232.1 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00394",
-   "q": "The marked price of an item is 1600 rupees and a discount of 15 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 1600 rupees and a discount of 15 per cent is given. What is the selling price?",
+   "options": [
     "1360 rupees",
     "1370 rupees",
     "1840 rupees",
     "1585 rupees"
    ],
-   "a": 0,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1600 x (1 - 15/100) = 1360 rupees."
+   "answer": 0,
+   "explanation": "Selling price = 1600 x (1 - 15/100) = 1360 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00395",
-   "q": "A sum becomes 49 when 21 is added to another number 28. What is the value of 21 + 28?",
-   "o": [
+   "question": "A sum becomes 49 when 21 is added to another number 28. What is the value of 21 + 28?",
+   "options": [
     "48",
     "51",
     "49",
     "588"
    ],
-   "a": 2,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "21 + 28 = 49."
+   "answer": 2,
+   "explanation": "21 + 28 = 49.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00396",
-   "q": "What is 6 cubed?",
-   "o": [
+   "question": "What is 6 cubed?",
+   "options": [
     "210",
     "36",
     "343",
     "216"
    ],
-   "a": 3,
-   "t": "Squares and Cubes",
-   "l": 1,
-   "s": "generated",
-   "e": "6^3 = 216."
+   "answer": 3,
+   "explanation": "6^3 = 216.",
+   "topic": "Squares and Cubes",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00397",
-   "q": "If 14 workers can complete a job in 12 days, how long will 10 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 14 workers can complete a job in 12 days, how long will 10 workers take (work at the same rate)?",
+   "options": [
     "12.92 days",
     "16.8 days",
     "6 days",
     "14 days"
    ],
-   "a": 1,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 14 x 12 / 10 = 16.8 days."
+   "answer": 1,
+   "explanation": "Men and time are inversely related: 14 x 12 / 10 = 16.8 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00398",
-   "q": "What is 17 x 70?",
-   "o": [
+   "question": "What is 17 x 70?",
+   "options": [
     "1260",
     "1186",
     "1190",
     "1120"
    ],
-   "a": 2,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "17 x 70 = 1190."
+   "answer": 2,
+   "explanation": "17 x 70 = 1190.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00399",
-   "q": "What is 5 per cent of 100?",
-   "o": [
+   "question": "What is 5 per cent of 100?",
+   "options": [
     "7.5",
     "2.5",
     "5",
     "4"
    ],
-   "a": 2,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "5 per cent of 100 = 5."
+   "answer": 2,
+   "explanation": "5 per cent of 100 = 5.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00400",
-   "q": "What is the simple interest on 1300 rupees at 13 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the simple interest on 1300 rupees at 13 per cent per annum for 2 years?",
+   "options": [
     "405.6 rupees",
     "169 rupees",
     "338 rupees",
     "325 rupees"
    ],
-   "a": 2,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 1300 x 13 x 2 / 100 = 338."
+   "answer": 2,
+   "explanation": "SI = P x R x T / 100 = 1300 x 13 x 2 / 100 = 338.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00401",
-   "q": "What is the average of 7, 12, 18, 22, 26?",
-   "o": [
+   "question": "What is the average of 7, 12, 18, 22, 26?",
+   "options": [
     "17.5",
     "19",
     "17",
     "15"
    ],
-   "a": 2,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 85, average = 17."
+   "answer": 2,
+   "explanation": "Sum = 85, average = 17.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00402",
-   "q": "An article bought for 1500 rupees is sold at a profit of 31 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 1500 rupees is sold at a profit of 31 per cent. What is the selling price?",
+   "options": [
     "1975 rupees",
     "1500 rupees",
     "1035 rupees",
     "1965 rupees"
    ],
-   "a": 3,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1500 x (1 + 31/100) = 1965."
+   "answer": 3,
+   "explanation": "Selling price = 1500 x (1 + 31/100) = 1965.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00403",
-   "q": "A vehicle travels at 79 km per hour for 7 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 79 km per hour for 7 hours. What distance does it cover?",
+   "options": [
     "553 km",
     "632 km",
     "276.5 km",
     "563 km"
    ],
-   "a": 0,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 79 x 7 = 553 km."
+   "answer": 0,
+   "explanation": "Distance = speed x time = 79 x 7 = 553 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00404",
-   "q": "A train 300 metres long runs at 27 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 300 metres long runs at 27 metres per second. How long will it take to cross a pole?",
+   "options": [
     "21.11 seconds",
     "11.11 seconds",
     "22.22 seconds",
     "5.56 seconds"
    ],
-   "a": 1,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 300 / 27 = 11.11 seconds."
+   "answer": 1,
+   "explanation": "Time = length / speed = 300 / 27 = 11.11 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00405",
-   "q": "A can finish a piece of work in 22 days and B in 20 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 22 days and B in 20 days. Working together, in how many days will they finish it?",
+   "options": [
     "10.48 days",
     "11.48 days",
     "20.95 days",
     "42 days"
    ],
-   "a": 0,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/22 + 1/20, so time = 10.48 days."
+   "answer": 0,
+   "explanation": "Combined rate = 1/22 + 1/20, so time = 10.48 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00406",
-   "q": "What is the HCF of 24 and 11?",
-   "o": [
+   "question": "What is the HCF of 24 and 11?",
+   "options": [
     "2",
     "1",
     "264",
     "0"
    ],
-   "a": 1,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 24 and 11 is 1."
+   "answer": 1,
+   "explanation": "The highest common factor of 24 and 11 is 1.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00407",
-   "q": "What is the LCM of 20 and 10?",
-   "o": [
+   "question": "What is the LCM of 20 and 10?",
+   "options": [
     "200",
     "20",
     "40",
     "10"
    ],
-   "a": 1,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 20 and 10 is 20."
+   "answer": 1,
+   "explanation": "The least common multiple of 20 and 10 is 20.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00408",
-   "q": "What is the area of a circle of radius 7 cm? (take pi = 22/7)",
-   "o": [
+   "question": "What is the area of a circle of radius 7 cm? (take pi = 22/7)",
+   "options": [
     "154 sq cm",
     "49 sq cm",
     "44 sq cm",
     "22 sq cm"
    ],
-   "a": 0,
-   "t": "Mensuration",
-   "l": 2,
-   "s": "generated",
-   "e": "Area = pi x r^2 = 22/7 x 7 x 7 = 154 square centimetres."
+   "answer": 0,
+   "explanation": "Area = pi x r^2 = 22/7 x 7 x 7 = 154 square centimetres.",
+   "topic": "Mensuration",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00409",
-   "q": "What is the perimeter of a rectangle 11 m long and 22 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 11 m long and 22 m wide?",
+   "options": [
     "242 m",
     "121 m",
     "33 m",
     "66 m"
    ],
-   "a": 3,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (11 + 22) = 66 m."
+   "answer": 3,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (11 + 22) = 66 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00410",
-   "q": "What is the compound interest on 2000 rupees at 7 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 2000 rupees at 7 per cent per annum for 2 years?",
+   "options": [
     "289.8 rupees",
     "489.8 rupees",
     "282.8 rupees",
     "280 rupees"
    ],
-   "a": 0,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 2000 x (1 + 7/100)^2, so CI = 289.8 rupees."
+   "answer": 0,
+   "explanation": "Amount = 2000 x (1 + 7/100)^2, so CI = 289.8 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00411",
-   "q": "The marked price of an item is 800 rupees and a discount of 20 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 800 rupees and a discount of 20 per cent is given. What is the selling price?",
+   "options": [
     "800 rupees",
     "630 rupees",
     "640 rupees",
     "960 rupees"
    ],
-   "a": 2,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 800 x (1 - 20/100) = 640 rupees."
+   "answer": 2,
+   "explanation": "Selling price = 800 x (1 - 20/100) = 640 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00412",
-   "q": "A sum becomes 53 when 26 is added to another number 27. What is the value of 26 + 27?",
-   "o": [
+   "question": "A sum becomes 53 when 26 is added to another number 27. What is the value of 26 + 27?",
+   "options": [
     "55",
     "53",
     "702",
     "-1"
    ],
-   "a": 1,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "26 + 27 = 53."
+   "answer": 1,
+   "explanation": "26 + 27 = 53.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00413",
-   "q": "What is 11 cubed?",
-   "o": [
+   "question": "What is 11 cubed?",
+   "options": [
     "1728",
     "1342",
     "121",
     "1331"
    ],
-   "a": 3,
-   "t": "Squares and Cubes",
-   "l": 1,
-   "s": "generated",
-   "e": "11^3 = 1331."
+   "answer": 3,
+   "explanation": "11^3 = 1331.",
+   "topic": "Squares and Cubes",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00414",
-   "q": "If 22 workers can complete a job in 13 days, how long will 23 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 22 workers can complete a job in 13 days, how long will 23 workers take (work at the same rate)?",
+   "options": [
     "6.5 days",
     "12.43 days",
     "15 days",
     "13.43 days"
    ],
-   "a": 1,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 22 x 13 / 23 = 12.43 days."
+   "answer": 1,
+   "explanation": "Men and time are inversely related: 22 x 13 / 23 = 12.43 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00415",
-   "q": "What is 99 x 50?",
-   "o": [
+   "question": "What is 99 x 50?",
+   "options": [
     "4900",
     "4946",
     "5049",
     "4950"
    ],
-   "a": 3,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "99 x 50 = 4950."
+   "answer": 3,
+   "explanation": "99 x 50 = 4950.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00416",
-   "q": "What is 10 per cent of 260?",
-   "o": [
+   "question": "What is 10 per cent of 260?",
+   "options": [
     "13",
     "39",
     "26",
     "28.6"
    ],
-   "a": 2,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "10 per cent of 260 = 26."
+   "answer": 2,
+   "explanation": "10 per cent of 260 = 26.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00417",
-   "q": "What is the simple interest on 1700 rupees at 12 per cent per annum for 4 years?",
-   "o": [
+   "question": "What is the simple interest on 1700 rupees at 12 per cent per annum for 4 years?",
+   "options": [
     "979.2 rupees",
     "804 rupees",
     "816 rupees",
     "828 rupees"
    ],
-   "a": 2,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 1700 x 12 x 4 / 100 = 816."
+   "answer": 2,
+   "explanation": "SI = P x R x T / 100 = 1700 x 12 x 4 / 100 = 816.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00418",
-   "q": "What is the average of 7, 8, 11, 16, 20?",
-   "o": [
+   "question": "What is the average of 7, 8, 11, 16, 20?",
+   "options": [
     "14.4",
     "10.4",
     "13.4",
     "12.4"
    ],
-   "a": 3,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 62, average = 12.4."
+   "answer": 3,
+   "explanation": "Sum = 62, average = 12.4.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00419",
-   "q": "An article bought for 1100 rupees is sold at a profit of 32 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 1100 rupees is sold at a profit of 32 per cent. What is the selling price?",
+   "options": [
     "1447 rupees",
     "1452 rupees",
     "748 rupees",
     "1100 rupees"
    ],
-   "a": 1,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1100 x (1 + 32/100) = 1452."
+   "answer": 1,
+   "explanation": "Selling price = 1100 x (1 + 32/100) = 1452.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00420",
-   "q": "A vehicle travels at 75 km per hour for 2 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 75 km per hour for 2 hours. What distance does it cover?",
+   "options": [
     "160 km",
     "75 km",
     "187.5 km",
     "150 km"
    ],
-   "a": 3,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 75 x 2 = 150 km."
+   "answer": 3,
+   "explanation": "Distance = speed x time = 75 x 2 = 150 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00421",
-   "q": "A train 100 metres long runs at 24 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 100 metres long runs at 24 metres per second. How long will it take to cross a pole?",
+   "options": [
     "4.17 seconds",
     "2.17 seconds",
     "9.17 seconds",
     "2.08 seconds"
    ],
-   "a": 0,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 100 / 24 = 4.17 seconds."
+   "answer": 0,
+   "explanation": "Time = length / speed = 100 / 24 = 4.17 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00422",
-   "q": "A can finish a piece of work in 23 days and B in 22 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 23 days and B in 22 days. Working together, in how many days will they finish it?",
+   "options": [
     "45 days",
     "22.49 days",
     "22.5 days",
     "11.24 days"
    ],
-   "a": 3,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/23 + 1/22, so time = 11.24 days."
+   "answer": 3,
+   "explanation": "Combined rate = 1/23 + 1/22, so time = 11.24 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00423",
-   "q": "What is the HCF of 19 and 18?",
-   "o": [
+   "question": "What is the HCF of 19 and 18?",
+   "options": [
     "1",
     "342",
     "3",
     "0"
    ],
-   "a": 0,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 19 and 18 is 1."
+   "answer": 0,
+   "explanation": "The highest common factor of 19 and 18 is 1.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00424",
-   "q": "What is the LCM of 6 and 11?",
-   "o": [
+   "question": "What is the LCM of 6 and 11?",
+   "options": [
     "66",
     "132",
     "72",
     "33"
    ],
-   "a": 0,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 6 and 11 is 66."
+   "answer": 0,
+   "explanation": "The least common multiple of 6 and 11 is 66.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00425",
-   "q": "What is the area of a circle of radius 20 cm? (take pi = 22/7)",
-   "o": [
+   "question": "What is the area of a circle of radius 20 cm? (take pi = 22/7)",
+   "options": [
     "62.86 sq cm",
     "125.71 sq cm",
     "1257.14 sq cm",
     "2514.29 sq cm"
    ],
-   "a": 2,
-   "t": "Mensuration",
-   "l": 2,
-   "s": "generated",
-   "e": "Area = pi x r^2 = 22/7 x 20 x 20 = 1257.14 square centimetres."
+   "answer": 2,
+   "explanation": "Area = pi x r^2 = 22/7 x 20 x 20 = 1257.14 square centimetres.",
+   "topic": "Mensuration",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00426",
-   "q": "What is the perimeter of a rectangle 23 m long and 17 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 23 m long and 17 m wide?",
+   "options": [
     "80 m",
     "391 m",
     "195.5 m",
     "92 m"
    ],
-   "a": 0,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (23 + 17) = 80 m."
+   "answer": 0,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (23 + 17) = 80 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00427",
-   "q": "What is the compound interest on 4000 rupees at 14 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 4000 rupees at 14 per cent per annum for 2 years?",
+   "options": [
     "1198.4 rupees",
     "1184.4 rupees",
     "2396.8 rupees",
     "1598.4 rupees"
    ],
-   "a": 0,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 4000 x (1 + 14/100)^2, so CI = 1198.4 rupees."
+   "answer": 0,
+   "explanation": "Amount = 4000 x (1 + 14/100)^2, so CI = 1198.4 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00428",
-   "q": "The marked price of an item is 800 rupees and a discount of 25 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 800 rupees and a discount of 25 per cent is given. What is the selling price?",
+   "options": [
     "610 rupees",
     "600 rupees",
     "1000 rupees",
     "775 rupees"
    ],
-   "a": 1,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 800 x (1 - 25/100) = 600 rupees."
+   "answer": 1,
+   "explanation": "Selling price = 800 x (1 - 25/100) = 600 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00429",
-   "q": "A sum becomes 34 when 12 is added to another number 22. What is the value of 12 + 22?",
-   "o": [
+   "question": "A sum becomes 34 when 12 is added to another number 22. What is the value of 12 + 22?",
+   "options": [
     "36",
     "33",
     "34",
     "35"
    ],
-   "a": 2,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "12 + 22 = 34."
+   "answer": 2,
+   "explanation": "12 + 22 = 34.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00430",
-   "q": "What is 6 cubed?",
-   "o": [
+   "question": "What is 6 cubed?",
+   "options": [
     "216",
     "343",
     "432",
     "36"
    ],
-   "a": 0,
-   "t": "Squares and Cubes",
-   "l": 1,
-   "s": "generated",
-   "e": "6^3 = 216."
+   "answer": 0,
+   "explanation": "6^3 = 216.",
+   "topic": "Squares and Cubes",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00431",
-   "q": "If 16 workers can complete a job in 12 days, how long will 21 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 16 workers can complete a job in 12 days, how long will 21 workers take (work at the same rate)?",
+   "options": [
     "9.14 days",
     "6 days",
     "8 days",
     "12 days"
    ],
-   "a": 0,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 16 x 12 / 21 = 9.14 days."
+   "answer": 0,
+   "explanation": "Men and time are inversely related: 16 x 12 / 21 = 9.14 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00432",
-   "q": "What is 18 x 52?",
-   "o": [
+   "question": "What is 18 x 52?",
+   "options": [
     "988",
     "936",
     "932",
     "954"
    ],
-   "a": 1,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "18 x 52 = 936."
+   "answer": 1,
+   "explanation": "18 x 52 = 936.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00433",
-   "q": "What is 75 per cent of 580?",
-   "o": [
+   "question": "What is 75 per cent of 580?",
+   "options": [
     "435",
     "870",
     "217.5",
     "434"
    ],
-   "a": 0,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "75 per cent of 580 = 435."
+   "answer": 0,
+   "explanation": "75 per cent of 580 = 435.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00434",
-   "q": "What is the simple interest on 300 rupees at 11 per cent per annum for 4 years?",
-   "o": [
+   "question": "What is the simple interest on 300 rupees at 11 per cent per annum for 4 years?",
+   "options": [
     "132 rupees",
     "66 rupees",
     "158.4 rupees",
     "143 rupees"
    ],
-   "a": 0,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 300 x 11 x 4 / 100 = 132."
+   "answer": 0,
+   "explanation": "SI = P x R x T / 100 = 300 x 11 x 4 / 100 = 132.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00435",
-   "q": "What is the average of 42, 43, 47, 50, 51?",
-   "o": [
+   "question": "What is the average of 42, 43, 47, 50, 51?",
+   "options": [
     "46.6",
     "47.6",
     "44.6",
     "47.1"
    ],
-   "a": 0,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 233, average = 46.6."
+   "answer": 0,
+   "explanation": "Sum = 233, average = 46.6.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00436",
-   "q": "A vehicle travels at 40 km per hour for 3 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 40 km per hour for 3 hours. What distance does it cover?",
+   "options": [
     "80 km",
     "160 km",
     "130 km",
     "120 km"
    ],
-   "a": 3,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 40 x 3 = 120 km."
+   "answer": 3,
+   "explanation": "Distance = speed x time = 40 x 3 = 120 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00437",
-   "q": "A train 150 metres long runs at 10 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 150 metres long runs at 10 metres per second. How long will it take to cross a pole?",
+   "options": [
     "13 seconds",
     "7.5 seconds",
     "25 seconds",
     "15 seconds"
    ],
-   "a": 3,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 150 / 10 = 15 seconds."
+   "answer": 3,
+   "explanation": "Time = length / speed = 150 / 10 = 15 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00438",
-   "q": "A can finish a piece of work in 11 days and B in 12 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 11 days and B in 12 days. Working together, in how many days will they finish it?",
+   "options": [
     "5.74 days",
     "23 days",
     "11.5 days",
     "6.74 days"
    ],
-   "a": 0,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/11 + 1/12, so time = 5.74 days."
+   "answer": 0,
+   "explanation": "Combined rate = 1/11 + 1/12, so time = 5.74 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00439",
-   "q": "What is the HCF of 15 and 21?",
-   "o": [
+   "question": "What is the HCF of 15 and 21?",
+   "options": [
     "6",
     "2",
     "9",
     "3"
    ],
-   "a": 3,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 15 and 21 is 3."
+   "answer": 3,
+   "explanation": "The highest common factor of 15 and 21 is 3.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00440",
-   "q": "What is the LCM of 15 and 16?",
-   "o": [
+   "question": "What is the LCM of 15 and 16?",
+   "options": [
     "224",
     "480",
     "120",
     "240"
    ],
-   "a": 3,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 15 and 16 is 240."
+   "answer": 3,
+   "explanation": "The least common multiple of 15 and 16 is 240.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00441",
-   "q": "What is the area of a circle of radius 21 cm? (take pi = 22/7)",
-   "o": [
+   "question": "What is the area of a circle of radius 21 cm? (take pi = 22/7)",
+   "options": [
     "1386 sq cm",
     "132 sq cm",
     "66 sq cm",
     "2772 sq cm"
    ],
-   "a": 0,
-   "t": "Mensuration",
-   "l": 2,
-   "s": "generated",
-   "e": "Area = pi x r^2 = 22/7 x 21 x 21 = 1386 square centimetres."
+   "answer": 0,
+   "explanation": "Area = pi x r^2 = 22/7 x 21 x 21 = 1386 square centimetres.",
+   "topic": "Mensuration",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00442",
-   "q": "What is the perimeter of a rectangle 14 m long and 16 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 14 m long and 16 m wide?",
+   "options": [
     "56 m",
     "224 m",
     "60 m",
     "112 m"
    ],
-   "a": 2,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (14 + 16) = 60 m."
+   "answer": 2,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (14 + 16) = 60 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00443",
-   "q": "The marked price of an item is 400 rupees and a discount of 15 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 400 rupees and a discount of 15 per cent is given. What is the selling price?",
+   "options": [
     "460 rupees",
     "340 rupees",
     "350 rupees",
     "330 rupees"
    ],
-   "a": 1,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 400 x (1 - 15/100) = 340 rupees."
+   "answer": 1,
+   "explanation": "Selling price = 400 x (1 - 15/100) = 340 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00444",
-   "q": "A sum becomes 22 when 13 is added to another number 9. What is the value of 13 + 9?",
-   "o": [
+   "question": "A sum becomes 22 when 13 is added to another number 9. What is the value of 13 + 9?",
+   "options": [
     "23",
     "4",
     "117",
     "22"
    ],
-   "a": 3,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "13 + 9 = 22."
+   "answer": 3,
+   "explanation": "13 + 9 = 22.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00445",
-   "q": "What is 9 cubed?",
-   "o": [
+   "question": "What is 9 cubed?",
+   "options": [
     "1000",
     "81",
     "729",
     "720"
    ],
-   "a": 2,
-   "t": "Squares and Cubes",
-   "l": 1,
-   "s": "generated",
-   "e": "9^3 = 729."
+   "answer": 2,
+   "explanation": "9^3 = 729.",
+   "topic": "Squares and Cubes",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00446",
-   "q": "If 20 workers can complete a job in 10 days, how long will 19 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 20 workers can complete a job in 10 days, how long will 19 workers take (work at the same rate)?",
+   "options": [
     "10 days",
     "11.53 days",
     "5 days",
     "10.53 days"
    ],
-   "a": 3,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 20 x 10 / 19 = 10.53 days."
+   "answer": 3,
+   "explanation": "Men and time are inversely related: 20 x 10 / 19 = 10.53 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00447",
-   "q": "What is 86 x 84?",
-   "o": [
+   "question": "What is 86 x 84?",
+   "options": [
     "7308",
     "7310",
     "7224",
     "7220"
    ],
-   "a": 2,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "86 x 84 = 7224."
+   "answer": 2,
+   "explanation": "86 x 84 = 7224.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00448",
-   "q": "What is 25 per cent of 420?",
-   "o": [
+   "question": "What is 25 per cent of 420?",
+   "options": [
     "104",
     "109.2",
     "52.5",
     "105"
    ],
-   "a": 3,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "25 per cent of 420 = 105."
+   "answer": 3,
+   "explanation": "25 per cent of 420 = 105.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00449",
-   "q": "What is the simple interest on 600 rupees at 12 per cent per annum for 3 years?",
-   "o": [
+   "question": "What is the simple interest on 600 rupees at 12 per cent per annum for 3 years?",
+   "options": [
     "216 rupees",
     "259.2 rupees",
     "276 rupees",
     "108 rupees"
    ],
-   "a": 0,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 600 x 12 x 3 / 100 = 216."
+   "answer": 0,
+   "explanation": "SI = P x R x T / 100 = 600 x 12 x 3 / 100 = 216.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00450",
-   "q": "What is the average of 24, 28, 33, 40, 44?",
-   "o": [
+   "question": "What is the average of 24, 28, 33, 40, 44?",
+   "options": [
     "34.8",
     "32.8",
     "33.8",
     "31.799999999999997"
    ],
-   "a": 2,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 169, average = 33.8."
+   "answer": 2,
+   "explanation": "Sum = 169, average = 33.8.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00451",
-   "q": "An article bought for 1100 rupees is sold at a profit of 5 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 1100 rupees is sold at a profit of 5 per cent. What is the selling price?",
+   "options": [
     "1165 rupees",
     "1045 rupees",
     "1155 rupees",
     "1100 rupees"
    ],
-   "a": 2,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1100 x (1 + 5/100) = 1155."
+   "answer": 2,
+   "explanation": "Selling price = 1100 x (1 + 5/100) = 1155.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00452",
-   "q": "A vehicle travels at 48 km per hour for 7 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 48 km per hour for 7 hours. What distance does it cover?",
+   "options": [
     "336 km",
     "346 km",
     "420 km",
     "168 km"
    ],
-   "a": 0,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 48 x 7 = 336 km."
+   "answer": 0,
+   "explanation": "Distance = speed x time = 48 x 7 = 336 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00453",
-   "q": "A train 100 metres long runs at 11 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 100 metres long runs at 11 metres per second. How long will it take to cross a pole?",
+   "options": [
     "19.09 seconds",
     "4.55 seconds",
     "9.09 seconds",
     "18.18 seconds"
    ],
-   "a": 2,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 100 / 11 = 9.09 seconds."
+   "answer": 2,
+   "explanation": "Time = length / speed = 100 / 11 = 9.09 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00454",
-   "q": "A can finish a piece of work in 19 days and B in 7 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 19 days and B in 7 days. Working together, in how many days will they finish it?",
+   "options": [
     "7 days",
     "5.12 days",
     "13 days",
     "10.23 days"
    ],
-   "a": 1,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/19 + 1/7, so time = 5.12 days."
+   "answer": 1,
+   "explanation": "Combined rate = 1/19 + 1/7, so time = 5.12 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00455",
-   "q": "What is the HCF of 22 and 28?",
-   "o": [
+   "question": "What is the HCF of 22 and 28?",
+   "options": [
     "4",
     "2",
     "6",
     "308"
    ],
-   "a": 1,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 22 and 28 is 2."
+   "answer": 1,
+   "explanation": "The highest common factor of 22 and 28 is 2.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00456",
-   "q": "What is the LCM of 20 and 14?",
-   "o": [
+   "question": "What is the LCM of 20 and 14?",
+   "options": [
     "70",
     "280",
     "160",
     "140"
    ],
-   "a": 3,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 20 and 14 is 140."
+   "answer": 3,
+   "explanation": "The least common multiple of 20 and 14 is 140.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00457",
-   "q": "What is the area of a circle of radius 7 cm? (take pi = 22/7)",
-   "o": [
+   "question": "What is the area of a circle of radius 7 cm? (take pi = 22/7)",
+   "options": [
     "308 sq cm",
     "44 sq cm",
     "22 sq cm",
     "154 sq cm"
    ],
-   "a": 3,
-   "t": "Mensuration",
-   "l": 2,
-   "s": "generated",
-   "e": "Area = pi x r^2 = 22/7 x 7 x 7 = 154 square centimetres."
+   "answer": 3,
+   "explanation": "Area = pi x r^2 = 22/7 x 7 x 7 = 154 square centimetres.",
+   "topic": "Mensuration",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00458",
-   "q": "What is the perimeter of a rectangle 13 m long and 9 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 13 m long and 9 m wide?",
+   "options": [
     "22 m",
     "117 m",
     "52 m",
     "44 m"
    ],
-   "a": 3,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (13 + 9) = 44 m."
+   "answer": 3,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (13 + 9) = 44 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00459",
-   "q": "What is the compound interest on 8000 rupees at 5 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 8000 rupees at 5 per cent per annum for 2 years?",
+   "options": [
     "800 rupees",
     "1640 rupees",
     "1620 rupees",
     "820 rupees"
    ],
-   "a": 3,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 8000 x (1 + 5/100)^2, so CI = 820 rupees."
+   "answer": 3,
+   "explanation": "Amount = 8000 x (1 + 5/100)^2, so CI = 820 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00460",
-   "q": "The marked price of an item is 1200 rupees and a discount of 20 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 1200 rupees and a discount of 20 per cent is given. What is the selling price?",
+   "options": [
     "950 rupees",
     "970 rupees",
     "1440 rupees",
     "960 rupees"
    ],
-   "a": 3,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1200 x (1 - 20/100) = 960 rupees."
+   "answer": 3,
+   "explanation": "Selling price = 1200 x (1 - 20/100) = 960 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00461",
-   "q": "A sum becomes 34 when 18 is added to another number 16. What is the value of 18 + 16?",
-   "o": [
+   "question": "A sum becomes 34 when 18 is added to another number 16. What is the value of 18 + 16?",
+   "options": [
     "34",
     "33",
     "288",
     "2"
    ],
-   "a": 0,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "18 + 16 = 34."
+   "answer": 0,
+   "explanation": "18 + 16 = 34.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00462",
-   "q": "What is 5 cubed?",
-   "o": [
+   "question": "What is 5 cubed?",
+   "options": [
     "125",
     "130",
     "120",
     "250"
    ],
-   "a": 0,
-   "t": "Squares and Cubes",
-   "l": 1,
-   "s": "generated",
-   "e": "5^3 = 125."
+   "answer": 0,
+   "explanation": "5^3 = 125.",
+   "topic": "Squares and Cubes",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00463",
-   "q": "If 7 workers can complete a job in 17 days, how long will 24 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 7 workers can complete a job in 17 days, how long will 24 workers take (work at the same rate)?",
+   "options": [
     "5.96 days",
     "8.5 days",
     "19 days",
     "4.96 days"
    ],
-   "a": 3,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 7 x 17 / 24 = 4.96 days."
+   "answer": 3,
+   "explanation": "Men and time are inversely related: 7 x 17 / 24 = 4.96 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00464",
-   "q": "What is 43 x 39?",
-   "o": [
+   "question": "What is 43 x 39?",
+   "options": [
     "1716",
     "1638",
     "1677",
     "1673"
    ],
-   "a": 2,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "43 x 39 = 1677."
+   "answer": 2,
+   "explanation": "43 x 39 = 1677.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00465",
-   "q": "What is 5 per cent of 800?",
-   "o": [
+   "question": "What is 5 per cent of 800?",
+   "options": [
     "48",
     "39",
     "40",
     "60"
    ],
-   "a": 2,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "5 per cent of 800 = 40."
+   "answer": 2,
+   "explanation": "5 per cent of 800 = 40.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00466",
-   "q": "What is the simple interest on 100 rupees at 6 per cent per annum for 6 years?",
-   "o": [
+   "question": "What is the simple interest on 100 rupees at 6 per cent per annum for 6 years?",
+   "options": [
     "30 rupees",
     "43.2 rupees",
     "36 rupees",
     "46 rupees"
    ],
-   "a": 2,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 100 x 6 x 6 / 100 = 36."
+   "answer": 2,
+   "explanation": "SI = P x R x T / 100 = 100 x 6 x 6 / 100 = 36.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00467",
-   "q": "What is the average of 37, 44, 45, 48, 53?",
-   "o": [
+   "question": "What is the average of 37, 44, 45, 48, 53?",
+   "options": [
     "44.4",
     "45.4",
     "45.9",
     "43.4"
    ],
-   "a": 1,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 227, average = 45.4."
+   "answer": 1,
+   "explanation": "Sum = 227, average = 45.4.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00468",
-   "q": "An article bought for 1100 rupees is sold at a profit of 20 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 1100 rupees is sold at a profit of 20 per cent. What is the selling price?",
+   "options": [
     "1320 rupees",
     "1100 rupees",
     "880 rupees",
     "1330 rupees"
    ],
-   "a": 0,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1100 x (1 + 20/100) = 1320."
+   "answer": 0,
+   "explanation": "Selling price = 1100 x (1 + 20/100) = 1320.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00469",
-   "q": "A vehicle travels at 67 km per hour for 7 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 67 km per hour for 7 hours. What distance does it cover?",
+   "options": [
     "234.5 km",
     "469 km",
     "586.25 km",
     "402 km"
    ],
-   "a": 1,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 67 x 7 = 469 km."
+   "answer": 1,
+   "explanation": "Distance = speed x time = 67 x 7 = 469 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00470",
-   "q": "A train 150 metres long runs at 25 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 150 metres long runs at 25 metres per second. How long will it take to cross a pole?",
+   "options": [
     "6 seconds",
     "12 seconds",
     "11 seconds",
     "4 seconds"
    ],
-   "a": 0,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 150 / 25 = 6 seconds."
+   "answer": 0,
+   "explanation": "Time = length / speed = 150 / 25 = 6 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00471",
-   "q": "A can finish a piece of work in 16 days and B in 21 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 16 days and B in 21 days. Working together, in how many days will they finish it?",
+   "options": [
     "10.08 days",
     "9.08 days",
     "18.16 days",
     "18.5 days"
    ],
-   "a": 1,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/16 + 1/21, so time = 9.08 days."
+   "answer": 1,
+   "explanation": "Combined rate = 1/16 + 1/21, so time = 9.08 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00472",
-   "q": "What is the HCF of 32 and 18?",
-   "o": [
+   "question": "What is the HCF of 32 and 18?",
+   "options": [
     "6",
     "2",
     "3",
     "4"
    ],
-   "a": 1,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 32 and 18 is 2."
+   "answer": 1,
+   "explanation": "The highest common factor of 32 and 18 is 2.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00473",
-   "q": "What is the LCM of 13 and 20?",
-   "o": [
+   "question": "What is the LCM of 13 and 20?",
+   "options": [
     "260",
     "273",
     "240",
     "130"
    ],
-   "a": 0,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 13 and 20 is 260."
+   "answer": 0,
+   "explanation": "The least common multiple of 13 and 20 is 260.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00474",
-   "q": "What is the area of a circle of radius 5 cm? (take pi = 22/7)",
-   "o": [
+   "question": "What is the area of a circle of radius 5 cm? (take pi = 22/7)",
+   "options": [
     "15.71 sq cm",
     "25 sq cm",
     "157.14 sq cm",
     "78.57 sq cm"
    ],
-   "a": 3,
-   "t": "Mensuration",
-   "l": 2,
-   "s": "generated",
-   "e": "Area = pi x r^2 = 22/7 x 5 x 5 = 78.57 square centimetres."
+   "answer": 3,
+   "explanation": "Area = pi x r^2 = 22/7 x 5 x 5 = 78.57 square centimetres.",
+   "topic": "Mensuration",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00475",
-   "q": "What is the perimeter of a rectangle 14 m long and 24 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 14 m long and 24 m wide?",
+   "options": [
     "76 m",
     "38 m",
     "52 m",
     "56 m"
    ],
-   "a": 0,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (14 + 24) = 76 m."
+   "answer": 0,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (14 + 24) = 76 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00476",
-   "q": "What is the compound interest on 7000 rupees at 11 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 7000 rupees at 11 per cent per annum for 2 years?",
+   "options": [
     "1613.7 rupees",
     "812.35 rupees",
     "1624.7 rupees",
     "3249.4 rupees"
    ],
-   "a": 2,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 7000 x (1 + 11/100)^2, so CI = 1624.7 rupees."
+   "answer": 2,
+   "explanation": "Amount = 7000 x (1 + 11/100)^2, so CI = 1624.7 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00477",
-   "q": "The marked price of an item is 600 rupees and a discount of 15 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 600 rupees and a discount of 15 per cent is given. What is the selling price?",
+   "options": [
     "510 rupees",
     "690 rupees",
     "585 rupees",
     "600 rupees"
    ],
-   "a": 0,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 600 x (1 - 15/100) = 510 rupees."
+   "answer": 0,
+   "explanation": "Selling price = 600 x (1 - 15/100) = 510 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00478",
-   "q": "A sum becomes 27 when 14 is added to another number 13. What is the value of 14 + 13?",
-   "o": [
+   "question": "A sum becomes 27 when 14 is added to another number 13. What is the value of 14 + 13?",
+   "options": [
     "28",
     "26",
     "182",
     "27"
    ],
-   "a": 3,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "14 + 13 = 27."
+   "answer": 3,
+   "explanation": "14 + 13 = 27.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00479",
-   "q": "What is 3 cubed?",
-   "o": [
+   "question": "What is 3 cubed?",
+   "options": [
     "9",
     "27",
     "54",
     "30"
    ],
-   "a": 1,
-   "t": "Squares and Cubes",
-   "l": 1,
-   "s": "generated",
-   "e": "3^3 = 27."
+   "answer": 1,
+   "explanation": "3^3 = 27.",
+   "topic": "Squares and Cubes",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00480",
-   "q": "If 14 workers can complete a job in 9 days, how long will 14 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 14 workers can complete a job in 9 days, how long will 14 workers take (work at the same rate)?",
+   "options": [
     "4.5 days",
     "11 days",
     "9 days",
     "7.41 days"
    ],
-   "a": 2,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 14 x 9 / 14 = 9 days."
+   "answer": 2,
+   "explanation": "Men and time are inversely related: 14 x 9 / 14 = 9 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00481",
-   "q": "What is 13 x 75?",
-   "o": [
+   "question": "What is 13 x 75?",
+   "options": [
     "975",
     "971",
     "988",
     "900"
    ],
-   "a": 0,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "13 x 75 = 975."
+   "answer": 0,
+   "explanation": "13 x 75 = 975.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00482",
-   "q": "What is 12 per cent of 140?",
-   "o": [
+   "question": "What is 12 per cent of 140?",
+   "options": [
     "16.8",
     "18.2",
     "33.6",
     "15.8"
    ],
-   "a": 0,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "12 per cent of 140 = 16.8."
+   "answer": 0,
+   "explanation": "12 per cent of 140 = 16.8.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00483",
-   "q": "What is the simple interest on 600 rupees at 3 per cent per annum for 1 years?",
-   "o": [
+   "question": "What is the simple interest on 600 rupees at 3 per cent per annum for 1 years?",
+   "options": [
     "15 rupees",
     "21 rupees",
     "18 rupees",
     "9 rupees"
    ],
-   "a": 2,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 600 x 3 x 1 / 100 = 18."
+   "answer": 2,
+   "explanation": "SI = P x R x T / 100 = 600 x 3 x 1 / 100 = 18.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00484",
-   "q": "What is the average of 17, 24, 29, 37, 40?",
-   "o": [
+   "question": "What is the average of 17, 24, 29, 37, 40?",
+   "options": [
     "28.4",
     "29.4",
     "30.4",
     "29.9"
    ],
-   "a": 1,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 147, average = 29.4."
+   "answer": 1,
+   "explanation": "Sum = 147, average = 29.4.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00485",
-   "q": "An article bought for 1000 rupees is sold at a profit of 39 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 1000 rupees is sold at a profit of 39 per cent. What is the selling price?",
+   "options": [
     "1385 rupees",
     "1390 rupees",
     "610 rupees",
     "1000 rupees"
    ],
-   "a": 1,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1000 x (1 + 39/100) = 1390."
+   "answer": 1,
+   "explanation": "Selling price = 1000 x (1 + 39/100) = 1390.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00486",
-   "q": "A vehicle travels at 67 km per hour for 3 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 67 km per hour for 3 hours. What distance does it cover?",
+   "options": [
     "268 km",
     "100.5 km",
     "211 km",
     "201 km"
    ],
-   "a": 3,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 67 x 3 = 201 km."
+   "answer": 3,
+   "explanation": "Distance = speed x time = 67 x 3 = 201 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00487",
-   "q": "A train 200 metres long runs at 19 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 200 metres long runs at 19 metres per second. How long will it take to cross a pole?",
+   "options": [
     "15.53 seconds",
     "5.26 seconds",
     "10.53 seconds",
     "20.53 seconds"
    ],
-   "a": 2,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 200 / 19 = 10.53 seconds."
+   "answer": 2,
+   "explanation": "Time = length / speed = 200 / 19 = 10.53 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00488",
-   "q": "A can finish a piece of work in 19 days and B in 23 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 19 days and B in 23 days. Working together, in how many days will they finish it?",
+   "options": [
     "10.4 days",
     "20.81 days",
     "19 days",
     "11.4 days"
    ],
-   "a": 0,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/19 + 1/23, so time = 10.4 days."
+   "answer": 0,
+   "explanation": "Combined rate = 1/19 + 1/23, so time = 10.4 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00489",
-   "q": "What is the HCF of 7 and 29?",
-   "o": [
+   "question": "What is the HCF of 7 and 29?",
+   "options": [
     "3",
     "203",
     "1",
     "0"
    ],
-   "a": 2,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 7 and 29 is 1."
+   "answer": 2,
+   "explanation": "The highest common factor of 7 and 29 is 1.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00490",
-   "q": "What is the perimeter of a rectangle 24 m long and 14 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 24 m long and 14 m wide?",
+   "options": [
     "76 m",
     "168 m",
     "336 m",
     "96 m"
    ],
-   "a": 0,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (24 + 14) = 76 m."
+   "answer": 0,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (24 + 14) = 76 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00491",
-   "q": "What is the compound interest on 8000 rupees at 12 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 8000 rupees at 12 per cent per annum for 2 years?",
+   "options": [
     "2023.2 rupees",
     "1920 rupees",
     "2035.2 rupees",
     "1017.6 rupees"
    ],
-   "a": 2,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 8000 x (1 + 12/100)^2, so CI = 2035.2 rupees."
+   "answer": 2,
+   "explanation": "Amount = 8000 x (1 + 12/100)^2, so CI = 2035.2 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00492",
-   "q": "The marked price of an item is 400 rupees and a discount of 25 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 400 rupees and a discount of 25 per cent is given. What is the selling price?",
+   "options": [
     "290 rupees",
     "500 rupees",
     "300 rupees",
     "310 rupees"
    ],
-   "a": 2,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 400 x (1 - 25/100) = 300 rupees."
+   "answer": 2,
+   "explanation": "Selling price = 400 x (1 - 25/100) = 300 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00493",
-   "q": "A sum becomes 20 when 13 is added to another number 7. What is the value of 13 + 7?",
-   "o": [
+   "question": "A sum becomes 20 when 13 is added to another number 7. What is the value of 13 + 7?",
+   "options": [
     "21",
     "20",
     "6",
     "19"
    ],
-   "a": 1,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "13 + 7 = 20."
+   "answer": 1,
+   "explanation": "13 + 7 = 20.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00494",
-   "q": "What is 13 cubed?",
-   "o": [
+   "question": "What is 13 cubed?",
+   "options": [
     "2184",
     "169",
     "2744",
     "2197"
    ],
-   "a": 3,
-   "t": "Squares and Cubes",
-   "l": 1,
-   "s": "generated",
-   "e": "13^3 = 2197."
+   "answer": 3,
+   "explanation": "13^3 = 2197.",
+   "topic": "Squares and Cubes",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00495",
-   "q": "If 13 workers can complete a job in 4 days, how long will 8 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 13 workers can complete a job in 4 days, how long will 8 workers take (work at the same rate)?",
+   "options": [
     "4 days",
     "4.73 days",
     "6.5 days",
     "7.5 days"
    ],
-   "a": 2,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 13 x 4 / 8 = 6.5 days."
+   "answer": 2,
+   "explanation": "Men and time are inversely related: 13 x 4 / 8 = 6.5 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00496",
-   "q": "What is 82 x 84?",
-   "o": [
+   "question": "What is 82 x 84?",
+   "options": [
     "6884",
     "6888",
     "6970",
     "6804"
    ],
-   "a": 1,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "82 x 84 = 6888."
+   "answer": 1,
+   "explanation": "82 x 84 = 6888.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00497",
-   "q": "What is 12 per cent of 680?",
-   "o": [
+   "question": "What is 12 per cent of 680?",
+   "options": [
     "40.8",
     "81.6",
     "80.6",
     "88.39999999999999"
    ],
-   "a": 1,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "12 per cent of 680 = 81.6."
+   "answer": 1,
+   "explanation": "12 per cent of 680 = 81.6.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00498",
-   "q": "What is the simple interest on 400 rupees at 2 per cent per annum for 4 years?",
-   "o": [
+   "question": "What is the simple interest on 400 rupees at 2 per cent per annum for 4 years?",
+   "options": [
     "72 rupees",
     "16 rupees",
     "34 rupees",
     "32 rupees"
    ],
-   "a": 3,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 400 x 2 x 4 / 100 = 32."
+   "answer": 3,
+   "explanation": "SI = P x R x T / 100 = 400 x 2 x 4 / 100 = 32.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00499",
-   "q": "What is the average of 5, 14, 17, 23, 28?",
-   "o": [
+   "question": "What is the average of 5, 14, 17, 23, 28?",
+   "options": [
     "17.4",
     "17.9",
     "16.4",
     "19.4"
    ],
-   "a": 0,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 87, average = 17.4."
+   "answer": 0,
+   "explanation": "Sum = 87, average = 17.4.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00500",
-   "q": "An article bought for 1400 rupees is sold at a profit of 34 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 1400 rupees is sold at a profit of 34 per cent. What is the selling price?",
+   "options": [
     "1400 rupees",
     "1886 rupees",
     "924 rupees",
     "1876 rupees"
    ],
-   "a": 3,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1400 x (1 + 34/100) = 1876."
+   "answer": 3,
+   "explanation": "Selling price = 1400 x (1 + 34/100) = 1876.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00501",
-   "q": "A train 250 metres long runs at 12 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 250 metres long runs at 12 metres per second. How long will it take to cross a pole?",
+   "options": [
     "25.83 seconds",
     "20.83 seconds",
     "18.83 seconds",
     "30.83 seconds"
    ],
-   "a": 1,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 250 / 12 = 20.83 seconds."
+   "answer": 1,
+   "explanation": "Time = length / speed = 250 / 12 = 20.83 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00502",
-   "q": "A can finish a piece of work in 23 days and B in 22 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 23 days and B in 22 days. Working together, in how many days will they finish it?",
+   "options": [
     "12.24 days",
     "11.24 days",
     "22.49 days",
     "22.5 days"
    ],
-   "a": 1,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/23 + 1/22, so time = 11.24 days."
+   "answer": 1,
+   "explanation": "Combined rate = 1/23 + 1/22, so time = 11.24 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00503",
-   "q": "What is the HCF of 16 and 28?",
-   "o": [
+   "question": "What is the HCF of 16 and 28?",
+   "options": [
     "5",
     "8",
     "3",
     "4"
    ],
-   "a": 3,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 16 and 28 is 4."
+   "answer": 3,
+   "explanation": "The highest common factor of 16 and 28 is 4.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00504",
-   "q": "What is the LCM of 15 and 18?",
-   "o": [
+   "question": "What is the LCM of 15 and 18?",
+   "options": [
     "90",
     "72",
     "180",
     "270"
    ],
-   "a": 0,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 15 and 18 is 90."
+   "answer": 0,
+   "explanation": "The least common multiple of 15 and 18 is 90.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00505",
-   "q": "What is the perimeter of a rectangle 14 m long and 8 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 14 m long and 8 m wide?",
+   "options": [
     "36 m",
     "56 m",
     "22 m",
     "44 m"
    ],
-   "a": 3,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (14 + 8) = 44 m."
+   "answer": 3,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (14 + 8) = 44 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00506",
-   "q": "What is the compound interest on 3000 rupees at 14 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 3000 rupees at 14 per cent per annum for 2 years?",
+   "options": [
     "898.8 rupees",
     "449.4 rupees",
     "840 rupees",
     "1797.6 rupees"
    ],
-   "a": 0,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 3000 x (1 + 14/100)^2, so CI = 898.8 rupees."
+   "answer": 0,
+   "explanation": "Amount = 3000 x (1 + 14/100)^2, so CI = 898.8 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00507",
-   "q": "A sum becomes 48 when 28 is added to another number 20. What is the value of 28 + 20?",
-   "o": [
+   "question": "A sum becomes 48 when 28 is added to another number 20. What is the value of 28 + 20?",
+   "options": [
     "560",
     "8",
     "48",
     "47"
    ],
-   "a": 2,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "28 + 20 = 48."
+   "answer": 2,
+   "explanation": "28 + 20 = 48.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00508",
-   "q": "What is 4 cubed?",
-   "o": [
+   "question": "What is 4 cubed?",
+   "options": [
     "64",
     "68",
     "16",
     "125"
    ],
-   "a": 0,
-   "t": "Squares and Cubes",
-   "l": 1,
-   "s": "generated",
-   "e": "4^3 = 64."
+   "answer": 0,
+   "explanation": "4^3 = 64.",
+   "topic": "Squares and Cubes",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00509",
-   "q": "If 10 workers can complete a job in 7 days, how long will 12 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 10 workers can complete a job in 7 days, how long will 12 workers take (work at the same rate)?",
+   "options": [
     "6.83 days",
     "4.67 days",
     "9 days",
     "5.83 days"
    ],
-   "a": 3,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 10 x 7 / 12 = 5.83 days."
+   "answer": 3,
+   "explanation": "Men and time are inversely related: 10 x 7 / 12 = 5.83 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00510",
-   "q": "What is 33 x 34?",
-   "o": [
+   "question": "What is 33 x 34?",
+   "options": [
     "1155",
     "1118",
     "1122",
     "1156"
    ],
-   "a": 2,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "33 x 34 = 1122."
+   "answer": 2,
+   "explanation": "33 x 34 = 1122.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00511",
-   "q": "What is 12 per cent of 460?",
-   "o": [
+   "question": "What is 12 per cent of 460?",
+   "options": [
     "54.2",
     "110.4",
     "55.2",
     "27.6"
    ],
-   "a": 2,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "12 per cent of 460 = 55.2."
+   "answer": 2,
+   "explanation": "12 per cent of 460 = 55.2.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00512",
-   "q": "What is the simple interest on 1000 rupees at 6 per cent per annum for 6 years?",
-   "o": [
+   "question": "What is the simple interest on 1000 rupees at 6 per cent per annum for 6 years?",
+   "options": [
     "180 rupees",
     "366 rupees",
     "432 rupees",
     "360 rupees"
    ],
-   "a": 3,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 1000 x 6 x 6 / 100 = 360."
+   "answer": 3,
+   "explanation": "SI = P x R x T / 100 = 1000 x 6 x 6 / 100 = 360.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00513",
-   "q": "What is the average of 8, 9, 13, 15, 20?",
-   "o": [
+   "question": "What is the average of 8, 9, 13, 15, 20?",
+   "options": [
     "13",
     "15",
     "12",
     "11"
    ],
-   "a": 0,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 65, average = 13."
+   "answer": 0,
+   "explanation": "Sum = 65, average = 13.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00514",
-   "q": "An article bought for 500 rupees is sold at a profit of 31 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 500 rupees is sold at a profit of 31 per cent. What is the selling price?",
+   "options": [
     "345 rupees",
     "650 rupees",
     "531 rupees",
     "655 rupees"
    ],
-   "a": 3,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 500 x (1 + 31/100) = 655."
+   "answer": 3,
+   "explanation": "Selling price = 500 x (1 + 31/100) = 655.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00515",
-   "q": "A vehicle travels at 75 km per hour for 3 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 75 km per hour for 3 hours. What distance does it cover?",
+   "options": [
     "112.5 km",
     "225 km",
     "281.25 km",
     "235 km"
    ],
-   "a": 1,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 75 x 3 = 225 km."
+   "answer": 1,
+   "explanation": "Distance = speed x time = 75 x 3 = 225 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00516",
-   "q": "A train 300 metres long runs at 18 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 300 metres long runs at 18 metres per second. How long will it take to cross a pole?",
+   "options": [
     "26.67 seconds",
     "16.67 seconds",
     "21.67 seconds",
     "33.33 seconds"
    ],
-   "a": 1,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 300 / 18 = 16.67 seconds."
+   "answer": 1,
+   "explanation": "Time = length / speed = 300 / 18 = 16.67 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00517",
-   "q": "A can finish a piece of work in 13 days and B in 23 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 13 days and B in 23 days. Working together, in how many days will they finish it?",
+   "options": [
     "16.61 days",
     "13 days",
     "9.31 days",
     "8.31 days"
    ],
-   "a": 3,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/13 + 1/23, so time = 8.31 days."
+   "answer": 3,
+   "explanation": "Combined rate = 1/13 + 1/23, so time = 8.31 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00518",
-   "q": "What is the HCF of 7 and 19?",
-   "o": [
+   "question": "What is the HCF of 7 and 19?",
+   "options": [
     "0",
     "2",
     "3",
     "1"
    ],
-   "a": 3,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 7 and 19 is 1."
+   "answer": 3,
+   "explanation": "The highest common factor of 7 and 19 is 1.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00519",
-   "q": "What is the LCM of 23 and 8?",
-   "o": [
+   "question": "What is the LCM of 23 and 8?",
+   "options": [
     "184",
     "207",
     "176",
     "92"
    ],
-   "a": 0,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 23 and 8 is 184."
+   "answer": 0,
+   "explanation": "The least common multiple of 23 and 8 is 184.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00520",
-   "q": "What is the perimeter of a rectangle 11 m long and 18 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 11 m long and 18 m wide?",
+   "options": [
     "198 m",
     "58 m",
     "99 m",
     "44 m"
    ],
-   "a": 1,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (11 + 18) = 58 m."
+   "answer": 1,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (11 + 18) = 58 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00521",
-   "q": "What is the compound interest on 2000 rupees at 9 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 2000 rupees at 9 per cent per annum for 2 years?",
+   "options": [
     "376.2 rupees",
     "367.2 rupees",
     "188.1 rupees",
     "576.2 rupees"
    ],
-   "a": 0,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 2000 x (1 + 9/100)^2, so CI = 376.2 rupees."
+   "answer": 0,
+   "explanation": "Amount = 2000 x (1 + 9/100)^2, so CI = 376.2 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00522",
-   "q": "The marked price of an item is 200 rupees and a discount of 10 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 200 rupees and a discount of 10 per cent is given. What is the selling price?",
+   "options": [
     "170 rupees",
     "220 rupees",
     "190 rupees",
     "180 rupees"
    ],
-   "a": 3,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 200 x (1 - 10/100) = 180 rupees."
+   "answer": 3,
+   "explanation": "Selling price = 200 x (1 - 10/100) = 180 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00523",
-   "q": "A sum becomes 13 when 8 is added to another number 5. What is the value of 8 + 5?",
-   "o": [
+   "question": "A sum becomes 13 when 8 is added to another number 5. What is the value of 8 + 5?",
+   "options": [
     "12",
     "15",
     "14",
     "13"
    ],
-   "a": 3,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "8 + 5 = 13."
+   "answer": 3,
+   "explanation": "8 + 5 = 13.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00524",
-   "q": "If 15 workers can complete a job in 6 days, how long will 19 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 15 workers can complete a job in 6 days, how long will 19 workers take (work at the same rate)?",
+   "options": [
     "3 days",
     "4.74 days",
     "5.74 days",
     "6 days"
    ],
-   "a": 1,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 15 x 6 / 19 = 4.74 days."
+   "answer": 1,
+   "explanation": "Men and time are inversely related: 15 x 6 / 19 = 4.74 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00525",
-   "q": "What is 59 x 13?",
-   "o": [
+   "question": "What is 59 x 13?",
+   "options": [
     "754",
     "780",
     "767",
     "826"
    ],
-   "a": 2,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "59 x 13 = 767."
+   "answer": 2,
+   "explanation": "59 x 13 = 767.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00526",
-   "q": "What is 75 per cent of 240?",
-   "o": [
+   "question": "What is 75 per cent of 240?",
+   "options": [
     "270",
     "179",
     "180",
     "182.4"
    ],
-   "a": 2,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "75 per cent of 240 = 180."
+   "answer": 2,
+   "explanation": "75 per cent of 240 = 180.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00527",
-   "q": "What is the simple interest on 500 rupees at 5 per cent per annum for 5 years?",
-   "o": [
+   "question": "What is the simple interest on 500 rupees at 5 per cent per annum for 5 years?",
+   "options": [
     "125 rupees",
     "120 rupees",
     "62.5 rupees",
     "130 rupees"
    ],
-   "a": 0,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 500 x 5 x 5 / 100 = 125."
+   "answer": 0,
+   "explanation": "SI = P x R x T / 100 = 500 x 5 x 5 / 100 = 125.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00528",
-   "q": "What is the average of 17, 25, 27, 29, 38?",
-   "o": [
+   "question": "What is the average of 17, 25, 27, 29, 38?",
+   "options": [
     "27.2",
     "28.2",
     "25.2",
     "26.2"
    ],
-   "a": 0,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 136, average = 27.2."
+   "answer": 0,
+   "explanation": "Sum = 136, average = 27.2.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00529",
-   "q": "An article bought for 200 rupees is sold at a profit of 41 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 200 rupees is sold at a profit of 41 per cent. What is the selling price?",
+   "options": [
     "241 rupees",
     "292 rupees",
     "282 rupees",
     "118 rupees"
    ],
-   "a": 2,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 200 x (1 + 41/100) = 282."
+   "answer": 2,
+   "explanation": "Selling price = 200 x (1 + 41/100) = 282.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00530",
-   "q": "A vehicle travels at 23 km per hour for 3 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 23 km per hour for 3 hours. What distance does it cover?",
+   "options": [
     "92 km",
     "46 km",
     "34.5 km",
     "69 km"
    ],
-   "a": 3,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 23 x 3 = 69 km."
+   "answer": 3,
+   "explanation": "Distance = speed x time = 23 x 3 = 69 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00531",
-   "q": "A train 300 metres long runs at 10 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 300 metres long runs at 10 metres per second. How long will it take to cross a pole?",
+   "options": [
     "35 seconds",
     "30 seconds",
     "28 seconds",
     "60 seconds"
    ],
-   "a": 1,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 300 / 10 = 30 seconds."
+   "answer": 1,
+   "explanation": "Time = length / speed = 300 / 10 = 30 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00532",
-   "q": "A can finish a piece of work in 18 days and B in 15 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 18 days and B in 15 days. Working together, in how many days will they finish it?",
+   "options": [
     "9.18 days",
     "8.18 days",
     "16.36 days",
     "33 days"
    ],
-   "a": 1,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/18 + 1/15, so time = 8.18 days."
+   "answer": 1,
+   "explanation": "Combined rate = 1/18 + 1/15, so time = 8.18 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00533",
-   "q": "What is the HCF of 26 and 18?",
-   "o": [
+   "question": "What is the HCF of 26 and 18?",
+   "options": [
     "3",
     "1",
     "2",
     "4"
    ],
-   "a": 2,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 26 and 18 is 2."
+   "answer": 2,
+   "explanation": "The highest common factor of 26 and 18 is 2.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00534",
-   "q": "What is the LCM of 13 and 4?",
-   "o": [
+   "question": "What is the LCM of 13 and 4?",
+   "options": [
     "48",
     "104",
     "52",
     "26"
    ],
-   "a": 2,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 13 and 4 is 52."
+   "answer": 2,
+   "explanation": "The least common multiple of 13 and 4 is 52.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00535",
-   "q": "What is the perimeter of a rectangle 9 m long and 15 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 9 m long and 15 m wide?",
+   "options": [
     "36 m",
     "67.5 m",
     "48 m",
     "33 m"
    ],
-   "a": 2,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (9 + 15) = 48 m."
+   "answer": 2,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (9 + 15) = 48 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00536",
-   "q": "What is the compound interest on 10000 rupees at 9 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 10000 rupees at 9 per cent per annum for 2 years?",
+   "options": [
     "940.5 rupees",
     "1881 rupees",
     "1800 rupees",
     "2881 rupees"
    ],
-   "a": 1,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 10000 x (1 + 9/100)^2, so CI = 1881 rupees."
+   "answer": 1,
+   "explanation": "Amount = 10000 x (1 + 9/100)^2, so CI = 1881 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00537",
-   "q": "The marked price of an item is 1400 rupees and a discount of 5 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 1400 rupees and a discount of 5 per cent is given. What is the selling price?",
+   "options": [
     "1330 rupees",
     "1340 rupees",
     "1470 rupees",
     "1400 rupees"
    ],
-   "a": 0,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1400 x (1 - 5/100) = 1330 rupees."
+   "answer": 0,
+   "explanation": "Selling price = 1400 x (1 - 5/100) = 1330 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00538",
-   "q": "A sum becomes 45 when 23 is added to another number 22. What is the value of 23 + 22?",
-   "o": [
+   "question": "A sum becomes 45 when 23 is added to another number 22. What is the value of 23 + 22?",
+   "options": [
     "45",
     "1",
     "44",
     "47"
    ],
-   "a": 0,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "23 + 22 = 45."
+   "answer": 0,
+   "explanation": "23 + 22 = 45.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00539",
-   "q": "What is 8 cubed?",
-   "o": [
+   "question": "What is 8 cubed?",
+   "options": [
     "64",
     "520",
     "512",
     "1024"
    ],
-   "a": 2,
-   "t": "Squares and Cubes",
-   "l": 1,
-   "s": "generated",
-   "e": "8^3 = 512."
+   "answer": 2,
+   "explanation": "8^3 = 512.",
+   "topic": "Squares and Cubes",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00540",
-   "q": "If 14 workers can complete a job in 12 days, how long will 12 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 14 workers can complete a job in 12 days, how long will 12 workers take (work at the same rate)?",
+   "options": [
     "14 days",
     "6 days",
     "15 days",
     "12 days"
    ],
-   "a": 0,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 14 x 12 / 12 = 14 days."
+   "answer": 0,
+   "explanation": "Men and time are inversely related: 14 x 12 / 12 = 14 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00541",
-   "q": "What is 44 x 36?",
-   "o": [
+   "question": "What is 44 x 36?",
+   "options": [
     "1620",
     "1548",
     "1584",
     "1628"
    ],
-   "a": 2,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "44 x 36 = 1584."
+   "answer": 2,
+   "explanation": "44 x 36 = 1584.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00542",
-   "q": "What is 20 per cent of 20?",
-   "o": [
+   "question": "What is 20 per cent of 20?",
+   "options": [
     "3",
     "4.2",
     "4",
     "8"
    ],
-   "a": 2,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "20 per cent of 20 = 4."
+   "answer": 2,
+   "explanation": "20 per cent of 20 = 4.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00543",
-   "q": "What is the simple interest on 1300 rupees at 11 per cent per annum for 5 years?",
-   "o": [
+   "question": "What is the simple interest on 1300 rupees at 11 per cent per annum for 5 years?",
+   "options": [
     "715 rupees",
     "858 rupees",
     "704 rupees",
     "726 rupees"
    ],
-   "a": 0,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 1300 x 11 x 5 / 100 = 715."
+   "answer": 0,
+   "explanation": "SI = P x R x T / 100 = 1300 x 11 x 5 / 100 = 715.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00544",
-   "q": "What is the average of 7, 16, 19, 20, 26?",
-   "o": [
+   "question": "What is the average of 7, 16, 19, 20, 26?",
+   "options": [
     "18.6",
     "15.600000000000001",
     "17.6",
     "19.6"
    ],
-   "a": 2,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 88, average = 17.6."
+   "answer": 2,
+   "explanation": "Sum = 88, average = 17.6.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00545",
-   "q": "An article bought for 900 rupees is sold at a profit of 10 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 900 rupees is sold at a profit of 10 per cent. What is the selling price?",
+   "options": [
     "985 rupees",
     "1000 rupees",
     "810 rupees",
     "990 rupees"
    ],
-   "a": 3,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 900 x (1 + 10/100) = 990."
+   "answer": 3,
+   "explanation": "Selling price = 900 x (1 + 10/100) = 990.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00546",
-   "q": "A vehicle travels at 50 km per hour for 4 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 50 km per hour for 4 hours. What distance does it cover?",
+   "options": [
     "100 km",
     "250 km",
     "210 km",
     "200 km"
    ],
-   "a": 3,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 50 x 4 = 200 km."
+   "answer": 3,
+   "explanation": "Distance = speed x time = 50 x 4 = 200 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00547",
-   "q": "A train 300 metres long runs at 23 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 300 metres long runs at 23 metres per second. How long will it take to cross a pole?",
+   "options": [
     "26.09 seconds",
     "6.52 seconds",
     "13.04 seconds",
     "11.04 seconds"
    ],
-   "a": 2,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 300 / 23 = 13.04 seconds."
+   "answer": 2,
+   "explanation": "Time = length / speed = 300 / 23 = 13.04 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00548",
-   "q": "A can finish a piece of work in 10 days and B in 17 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 10 days and B in 17 days. Working together, in how many days will they finish it?",
+   "options": [
     "13.5 days",
     "6.3 days",
     "12.59 days",
     "27 days"
    ],
-   "a": 1,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/10 + 1/17, so time = 6.3 days."
+   "answer": 1,
+   "explanation": "Combined rate = 1/10 + 1/17, so time = 6.3 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00549",
-   "q": "What is the HCF of 8 and 14?",
-   "o": [
+   "question": "What is the HCF of 8 and 14?",
+   "options": [
     "3",
     "1",
     "2",
     "56"
    ],
-   "a": 2,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 8 and 14 is 2."
+   "answer": 2,
+   "explanation": "The highest common factor of 8 and 14 is 2.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00550",
-   "q": "What is the LCM of 6 and 8?",
-   "o": [
+   "question": "What is the LCM of 6 and 8?",
+   "options": [
     "30",
     "24",
     "48",
     "16"
    ],
-   "a": 1,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 6 and 8 is 24."
+   "answer": 1,
+   "explanation": "The least common multiple of 6 and 8 is 24.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00551",
-   "q": "What is the perimeter of a rectangle 7 m long and 20 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 7 m long and 20 m wide?",
+   "options": [
     "27 m",
     "140 m",
     "70 m",
     "54 m"
    ],
-   "a": 3,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (7 + 20) = 54 m."
+   "answer": 3,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (7 + 20) = 54 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00552",
-   "q": "What is the compound interest on 6000 rupees at 11 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 6000 rupees at 11 per cent per annum for 2 years?",
+   "options": [
     "1392.6 rupees",
     "1381.6 rupees",
     "1992.6 rupees",
     "696.3 rupees"
    ],
-   "a": 0,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 6000 x (1 + 11/100)^2, so CI = 1392.6 rupees."
+   "answer": 0,
+   "explanation": "Amount = 6000 x (1 + 11/100)^2, so CI = 1392.6 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00553",
-   "q": "The marked price of an item is 1000 rupees and a discount of 20 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 1000 rupees and a discount of 20 per cent is given. What is the selling price?",
+   "options": [
     "800 rupees",
     "1200 rupees",
     "1000 rupees",
     "810 rupees"
    ],
-   "a": 0,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1000 x (1 - 20/100) = 800 rupees."
+   "answer": 0,
+   "explanation": "Selling price = 1000 x (1 - 20/100) = 800 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00554",
-   "q": "A sum becomes 33 when 16 is added to another number 17. What is the value of 16 + 17?",
-   "o": [
+   "question": "A sum becomes 33 when 16 is added to another number 17. What is the value of 16 + 17?",
+   "options": [
     "32",
     "34",
     "33",
     "35"
    ],
-   "a": 2,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "16 + 17 = 33."
+   "answer": 2,
+   "explanation": "16 + 17 = 33.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00555",
-   "q": "What is 13 cubed?",
-   "o": [
+   "question": "What is 13 cubed?",
+   "options": [
     "2197",
     "2210",
     "2744",
     "4394"
    ],
-   "a": 0,
-   "t": "Squares and Cubes",
-   "l": 1,
-   "s": "generated",
-   "e": "13^3 = 2197."
+   "answer": 0,
+   "explanation": "13^3 = 2197.",
+   "topic": "Squares and Cubes",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00556",
-   "q": "If 15 workers can complete a job in 18 days, how long will 13 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 15 workers can complete a job in 18 days, how long will 13 workers take (work at the same rate)?",
+   "options": [
     "18 days",
     "20.77 days",
     "9 days",
     "21.77 days"
    ],
-   "a": 1,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 15 x 18 / 13 = 20.77 days."
+   "answer": 1,
+   "explanation": "Men and time are inversely related: 15 x 18 / 13 = 20.77 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00557",
-   "q": "What is 96 x 62?",
-   "o": [
+   "question": "What is 96 x 62?",
+   "options": [
     "5890",
     "5948",
     "5952",
     "6048"
    ],
-   "a": 2,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "96 x 62 = 5952."
+   "answer": 2,
+   "explanation": "96 x 62 = 5952.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00558",
-   "q": "What is 20 per cent of 600?",
-   "o": [
+   "question": "What is 20 per cent of 600?",
+   "options": [
     "120",
     "180",
     "240",
     "126"
    ],
-   "a": 0,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "20 per cent of 600 = 120."
+   "answer": 0,
+   "explanation": "20 per cent of 600 = 120.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00559",
-   "q": "What is the simple interest on 200 rupees at 10 per cent per annum for 5 years?",
-   "o": [
+   "question": "What is the simple interest on 200 rupees at 10 per cent per annum for 5 years?",
+   "options": [
     "90 rupees",
     "100 rupees",
     "50 rupees",
     "110 rupees"
    ],
-   "a": 1,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 200 x 10 x 5 / 100 = 100."
+   "answer": 1,
+   "explanation": "SI = P x R x T / 100 = 200 x 10 x 5 / 100 = 100.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00560",
-   "q": "What is the average of 7, 13, 21, 25, 33?",
-   "o": [
+   "question": "What is the average of 7, 13, 21, 25, 33?",
+   "options": [
     "21.8",
     "19.8",
     "18.8",
     "20.3"
    ],
-   "a": 1,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 99, average = 19.8."
+   "answer": 1,
+   "explanation": "Sum = 99, average = 19.8.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00561",
-   "q": "An article bought for 1100 rupees is sold at a profit of 39 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 1100 rupees is sold at a profit of 39 per cent. What is the selling price?",
+   "options": [
     "1539 rupees",
     "671 rupees",
     "1529 rupees",
     "1100 rupees"
    ],
-   "a": 2,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1100 x (1 + 39/100) = 1529."
+   "answer": 2,
+   "explanation": "Selling price = 1100 x (1 + 39/100) = 1529.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00562",
-   "q": "A vehicle travels at 77 km per hour for 5 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 77 km per hour for 5 hours. What distance does it cover?",
+   "options": [
     "308 km",
     "385 km",
     "481.25 km",
     "462 km"
    ],
-   "a": 1,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 77 x 5 = 385 km."
+   "answer": 1,
+   "explanation": "Distance = speed x time = 77 x 5 = 385 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00563",
-   "q": "A train 100 metres long runs at 16 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 100 metres long runs at 16 metres per second. How long will it take to cross a pole?",
+   "options": [
     "12.5 seconds",
     "6.25 seconds",
     "11.25 seconds",
     "16.25 seconds"
    ],
-   "a": 1,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 100 / 16 = 6.25 seconds."
+   "answer": 1,
+   "explanation": "Time = length / speed = 100 / 16 = 6.25 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00564",
-   "q": "A can finish a piece of work in 7 days and B in 19 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 7 days and B in 19 days. Working together, in how many days will they finish it?",
+   "options": [
     "26 days",
     "10.23 days",
     "5.12 days",
     "6.12 days"
    ],
-   "a": 2,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/7 + 1/19, so time = 5.12 days."
+   "answer": 2,
+   "explanation": "Combined rate = 1/7 + 1/19, so time = 5.12 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00565",
-   "q": "What is the HCF of 17 and 7?",
-   "o": [
+   "question": "What is the HCF of 17 and 7?",
+   "options": [
     "1",
     "119",
     "2",
     "0"
    ],
-   "a": 0,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 17 and 7 is 1."
+   "answer": 0,
+   "explanation": "The highest common factor of 17 and 7 is 1.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00566",
-   "q": "What is the LCM of 5 and 14?",
-   "o": [
+   "question": "What is the LCM of 5 and 14?",
+   "options": [
     "35",
     "75",
     "140",
     "70"
    ],
-   "a": 3,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 5 and 14 is 70."
+   "answer": 3,
+   "explanation": "The least common multiple of 5 and 14 is 70.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00567",
-   "q": "What is the perimeter of a rectangle 9 m long and 6 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 9 m long and 6 m wide?",
+   "options": [
     "36 m",
     "54 m",
     "30 m",
     "27 m"
    ],
-   "a": 2,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (9 + 6) = 30 m."
+   "answer": 2,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (9 + 6) = 30 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00568",
-   "q": "What is the compound interest on 10000 rupees at 9 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 10000 rupees at 9 per cent per annum for 2 years?",
+   "options": [
     "1800 rupees",
     "3762 rupees",
     "1881 rupees",
     "2881 rupees"
    ],
-   "a": 2,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 10000 x (1 + 9/100)^2, so CI = 1881 rupees."
+   "answer": 2,
+   "explanation": "Amount = 10000 x (1 + 9/100)^2, so CI = 1881 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00569",
-   "q": "The marked price of an item is 600 rupees and a discount of 25 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 600 rupees and a discount of 25 per cent is given. What is the selling price?",
+   "options": [
     "460 rupees",
     "450 rupees",
     "600 rupees",
     "750 rupees"
    ],
-   "a": 1,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 600 x (1 - 25/100) = 450 rupees."
+   "answer": 1,
+   "explanation": "Selling price = 600 x (1 - 25/100) = 450 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00570",
-   "q": "A sum becomes 28 when 9 is added to another number 19. What is the value of 9 + 19?",
-   "o": [
+   "question": "A sum becomes 28 when 9 is added to another number 19. What is the value of 9 + 19?",
+   "options": [
     "30",
     "27",
     "28",
     "171"
    ],
-   "a": 2,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "9 + 19 = 28."
+   "answer": 2,
+   "explanation": "9 + 19 = 28.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00571",
-   "q": "If 18 workers can complete a job in 13 days, how long will 24 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 18 workers can complete a job in 13 days, how long will 24 workers take (work at the same rate)?",
+   "options": [
     "10.75 days",
     "8.67 days",
     "9.75 days",
     "13 days"
    ],
-   "a": 2,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 18 x 13 / 24 = 9.75 days."
+   "answer": 2,
+   "explanation": "Men and time are inversely related: 18 x 13 / 24 = 9.75 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00572",
-   "q": "What is 57 x 71?",
-   "o": [
+   "question": "What is 57 x 71?",
+   "options": [
     "4118",
     "4104",
     "4047",
     "3976"
    ],
-   "a": 2,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "57 x 71 = 4047."
+   "answer": 2,
+   "explanation": "57 x 71 = 4047.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00573",
-   "q": "What is 20 per cent of 280?",
-   "o": [
+   "question": "What is 20 per cent of 280?",
+   "options": [
     "55",
     "58.8",
     "56",
     "112"
    ],
-   "a": 2,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "20 per cent of 280 = 56."
+   "answer": 2,
+   "explanation": "20 per cent of 280 = 56.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00574",
-   "q": "What is the simple interest on 700 rupees at 8 per cent per annum for 6 years?",
-   "o": [
+   "question": "What is the simple interest on 700 rupees at 8 per cent per annum for 6 years?",
+   "options": [
     "336 rupees",
     "403.2 rupees",
     "328 rupees",
     "168 rupees"
    ],
-   "a": 0,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 700 x 8 x 6 / 100 = 336."
+   "answer": 0,
+   "explanation": "SI = P x R x T / 100 = 700 x 8 x 6 / 100 = 336.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00575",
-   "q": "What is the average of 36, 40, 44, 49, 50?",
-   "o": [
+   "question": "What is the average of 36, 40, 44, 49, 50?",
+   "options": [
     "42.8",
     "43.8",
     "45.8",
     "41.8"
    ],
-   "a": 1,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 219, average = 43.8."
+   "answer": 1,
+   "explanation": "Sum = 219, average = 43.8.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00576",
-   "q": "An article bought for 600 rupees is sold at a profit of 25 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 600 rupees is sold at a profit of 25 per cent. What is the selling price?",
+   "options": [
     "750 rupees",
     "450 rupees",
     "625 rupees",
     "600 rupees"
    ],
-   "a": 0,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 600 x (1 + 25/100) = 750."
+   "answer": 0,
+   "explanation": "Selling price = 600 x (1 + 25/100) = 750.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00577",
-   "q": "A vehicle travels at 36 km per hour for 7 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 36 km per hour for 7 hours. What distance does it cover?",
+   "options": [
     "216 km",
     "126 km",
     "252 km",
     "288 km"
    ],
-   "a": 2,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 36 x 7 = 252 km."
+   "answer": 2,
+   "explanation": "Distance = speed x time = 36 x 7 = 252 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00578",
-   "q": "A train 300 metres long runs at 13 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 300 metres long runs at 13 metres per second. How long will it take to cross a pole?",
+   "options": [
     "21.08 seconds",
     "46.15 seconds",
     "33.08 seconds",
     "23.08 seconds"
    ],
-   "a": 3,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 300 / 13 = 23.08 seconds."
+   "answer": 3,
+   "explanation": "Time = length / speed = 300 / 13 = 23.08 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00579",
-   "q": "A can finish a piece of work in 20 days and B in 15 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 20 days and B in 15 days. Working together, in how many days will they finish it?",
+   "options": [
     "15 days",
     "17.5 days",
     "17.14 days",
     "8.57 days"
    ],
-   "a": 3,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/20 + 1/15, so time = 8.57 days."
+   "answer": 3,
+   "explanation": "Combined rate = 1/20 + 1/15, so time = 8.57 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00580",
-   "q": "What is the HCF of 32 and 27?",
-   "o": [
+   "question": "What is the HCF of 32 and 27?",
+   "options": [
     "3",
     "0",
     "864",
     "1"
    ],
-   "a": 3,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 32 and 27 is 1."
+   "answer": 3,
+   "explanation": "The highest common factor of 32 and 27 is 1.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00581",
-   "q": "What is the LCM of 11 and 11?",
-   "o": [
+   "question": "What is the LCM of 11 and 11?",
+   "options": [
     "22",
     "11",
     "121",
     "0"
    ],
-   "a": 1,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 11 and 11 is 11."
+   "answer": 1,
+   "explanation": "The least common multiple of 11 and 11 is 11.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00582",
-   "q": "What is the area of a circle of radius 4 cm? (take pi = 22/7)",
-   "o": [
+   "question": "What is the area of a circle of radius 4 cm? (take pi = 22/7)",
+   "options": [
     "25.14 sq cm",
     "50.29 sq cm",
     "16 sq cm",
     "12.57 sq cm"
    ],
-   "a": 1,
-   "t": "Mensuration",
-   "l": 2,
-   "s": "generated",
-   "e": "Area = pi x r^2 = 22/7 x 4 x 4 = 50.29 square centimetres."
+   "answer": 1,
+   "explanation": "Area = pi x r^2 = 22/7 x 4 x 4 = 50.29 square centimetres.",
+   "topic": "Mensuration",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00583",
-   "q": "What is the perimeter of a rectangle 14 m long and 5 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 14 m long and 5 m wide?",
+   "options": [
     "38 m",
     "35 m",
     "70 m",
     "33 m"
    ],
-   "a": 0,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (14 + 5) = 38 m."
+   "answer": 0,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (14 + 5) = 38 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00584",
-   "q": "What is the compound interest on 6000 rupees at 13 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 6000 rupees at 13 per cent per annum for 2 years?",
+   "options": [
     "1648.4 rupees",
     "1560 rupees",
     "1661.4 rupees",
     "830.7 rupees"
    ],
-   "a": 2,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 6000 x (1 + 13/100)^2, so CI = 1661.4 rupees."
+   "answer": 2,
+   "explanation": "Amount = 6000 x (1 + 13/100)^2, so CI = 1661.4 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00585",
-   "q": "The marked price of an item is 200 rupees and a discount of 20 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 200 rupees and a discount of 20 per cent is given. What is the selling price?",
+   "options": [
     "170 rupees",
     "200 rupees",
     "160 rupees",
     "240 rupees"
    ],
-   "a": 2,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 200 x (1 - 20/100) = 160 rupees."
+   "answer": 2,
+   "explanation": "Selling price = 200 x (1 - 20/100) = 160 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00586",
-   "q": "A sum becomes 32 when 21 is added to another number 11. What is the value of 21 + 11?",
-   "o": [
+   "question": "A sum becomes 32 when 21 is added to another number 11. What is the value of 21 + 11?",
+   "options": [
     "32",
     "31",
     "33",
     "34"
    ],
-   "a": 0,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "21 + 11 = 32."
+   "answer": 0,
+   "explanation": "21 + 11 = 32.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00587",
-   "q": "What is 2 cubed?",
-   "o": [
+   "question": "What is 2 cubed?",
+   "options": [
     "6",
     "8",
     "10",
     "16"
    ],
-   "a": 1,
-   "t": "Squares and Cubes",
-   "l": 1,
-   "s": "generated",
-   "e": "2^3 = 8."
+   "answer": 1,
+   "explanation": "2^3 = 8.",
+   "topic": "Squares and Cubes",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00588",
-   "q": "If 12 workers can complete a job in 10 days, how long will 21 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 12 workers can complete a job in 10 days, how long will 21 workers take (work at the same rate)?",
+   "options": [
     "5.71 days",
     "6.71 days",
     "12 days",
     "5 days"
    ],
-   "a": 0,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 12 x 10 / 21 = 5.71 days."
+   "answer": 0,
+   "explanation": "Men and time are inversely related: 12 x 10 / 21 = 5.71 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00589",
-   "q": "What is 17 x 20?",
-   "o": [
+   "question": "What is 17 x 20?",
+   "options": [
     "336",
     "340",
     "360",
     "320"
    ],
-   "a": 1,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "17 x 20 = 340."
+   "answer": 1,
+   "explanation": "17 x 20 = 340.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00590",
-   "q": "What is 60 per cent of 240?",
-   "o": [
+   "question": "What is 60 per cent of 240?",
+   "options": [
     "144",
     "288",
     "146.4",
     "216"
    ],
-   "a": 0,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "60 per cent of 240 = 144."
+   "answer": 0,
+   "explanation": "60 per cent of 240 = 144.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00591",
-   "q": "What is the simple interest on 1300 rupees at 5 per cent per annum for 1 years?",
-   "o": [
+   "question": "What is the simple interest on 1300 rupees at 5 per cent per annum for 1 years?",
+   "options": [
     "195 rupees",
     "65 rupees",
     "78 rupees",
     "70 rupees"
    ],
-   "a": 1,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 1300 x 5 x 1 / 100 = 65."
+   "answer": 1,
+   "explanation": "SI = P x R x T / 100 = 1300 x 5 x 1 / 100 = 65.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00592",
-   "q": "What is the average of 41, 44, 53, 56, 62?",
-   "o": [
+   "question": "What is the average of 41, 44, 53, 56, 62?",
+   "options": [
     "50.2",
     "51.2",
     "51.7",
     "52.2"
    ],
-   "a": 1,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 256, average = 51.2."
+   "answer": 1,
+   "explanation": "Sum = 256, average = 51.2.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00593",
-   "q": "An article bought for 200 rupees is sold at a profit of 21 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 200 rupees is sold at a profit of 21 per cent. What is the selling price?",
+   "options": [
     "252 rupees",
     "237 rupees",
     "200 rupees",
     "242 rupees"
    ],
-   "a": 3,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 200 x (1 + 21/100) = 242."
+   "answer": 3,
+   "explanation": "Selling price = 200 x (1 + 21/100) = 242.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00594",
-   "q": "A vehicle travels at 71 km per hour for 7 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 71 km per hour for 7 hours. What distance does it cover?",
+   "options": [
     "621.25 km",
     "426 km",
     "248.5 km",
     "497 km"
    ],
-   "a": 3,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 71 x 7 = 497 km."
+   "answer": 3,
+   "explanation": "Distance = speed x time = 71 x 7 = 497 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00595",
-   "q": "A train 50 metres long runs at 28 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 50 metres long runs at 28 metres per second. How long will it take to cross a pole?",
+   "options": [
     "3.57 seconds",
     "1.79 seconds",
     "0.89 seconds",
     "6.79 seconds"
    ],
-   "a": 1,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 50 / 28 = 1.79 seconds."
+   "answer": 1,
+   "explanation": "Time = length / speed = 50 / 28 = 1.79 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00596",
-   "q": "A can finish a piece of work in 17 days and B in 20 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 17 days and B in 20 days. Working together, in how many days will they finish it?",
+   "options": [
     "10.19 days",
     "37 days",
     "18.5 days",
     "9.19 days"
    ],
-   "a": 3,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/17 + 1/20, so time = 9.19 days."
+   "answer": 3,
+   "explanation": "Combined rate = 1/17 + 1/20, so time = 9.19 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00597",
-   "q": "What is the HCF of 33 and 25?",
-   "o": [
+   "question": "What is the HCF of 33 and 25?",
+   "options": [
     "0",
     "2",
     "825",
     "1"
    ],
-   "a": 3,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 33 and 25 is 1."
+   "answer": 3,
+   "explanation": "The highest common factor of 33 and 25 is 1.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00598",
-   "q": "What is the LCM of 16 and 22?",
-   "o": [
+   "question": "What is the LCM of 16 and 22?",
+   "options": [
     "88",
     "176",
     "154",
     "352"
    ],
-   "a": 1,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 16 and 22 is 176."
+   "answer": 1,
+   "explanation": "The least common multiple of 16 and 22 is 176.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00599",
-   "q": "What is the area of a circle of radius 17 cm? (take pi = 22/7)",
-   "o": [
+   "question": "What is the area of a circle of radius 17 cm? (take pi = 22/7)",
+   "options": [
     "908.29 sq cm",
     "106.86 sq cm",
     "1816.57 sq cm",
     "53.43 sq cm"
    ],
-   "a": 0,
-   "t": "Mensuration",
-   "l": 2,
-   "s": "generated",
-   "e": "Area = pi x r^2 = 22/7 x 17 x 17 = 908.29 square centimetres."
+   "answer": 0,
+   "explanation": "Area = pi x r^2 = 22/7 x 17 x 17 = 908.29 square centimetres.",
+   "topic": "Mensuration",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00600",
-   "q": "What is the perimeter of a rectangle 24 m long and 7 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 24 m long and 7 m wide?",
+   "options": [
     "62 m",
     "96 m",
     "55 m",
     "168 m"
    ],
-   "a": 0,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (24 + 7) = 62 m."
+   "answer": 0,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (24 + 7) = 62 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00601",
-   "q": "What is the compound interest on 4000 rupees at 8 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 4000 rupees at 8 per cent per annum for 2 years?",
+   "options": [
     "640 rupees",
     "665.6 rupees",
     "332.8 rupees",
     "1331.2 rupees"
    ],
-   "a": 1,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 4000 x (1 + 8/100)^2, so CI = 665.6 rupees."
+   "answer": 1,
+   "explanation": "Amount = 4000 x (1 + 8/100)^2, so CI = 665.6 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00602",
-   "q": "The marked price of an item is 1600 rupees and a discount of 25 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 1600 rupees and a discount of 25 per cent is given. What is the selling price?",
+   "options": [
     "1200 rupees",
     "2000 rupees",
     "1190 rupees",
     "1210 rupees"
    ],
-   "a": 0,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1600 x (1 - 25/100) = 1200 rupees."
+   "answer": 0,
+   "explanation": "Selling price = 1600 x (1 - 25/100) = 1200 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00603",
-   "q": "A sum becomes 43 when 23 is added to another number 20. What is the value of 23 + 20?",
-   "o": [
+   "question": "A sum becomes 43 when 23 is added to another number 20. What is the value of 23 + 20?",
+   "options": [
     "45",
     "3",
     "43",
     "42"
    ],
-   "a": 2,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "23 + 20 = 43."
+   "answer": 2,
+   "explanation": "23 + 20 = 43.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00604",
-   "q": "What is 12 cubed?",
-   "o": [
+   "question": "What is 12 cubed?",
+   "options": [
     "1716",
     "2197",
     "1728",
     "1740"
    ],
-   "a": 2,
-   "t": "Squares and Cubes",
-   "l": 1,
-   "s": "generated",
-   "e": "12^3 = 1728."
+   "answer": 2,
+   "explanation": "12^3 = 1728.",
+   "topic": "Squares and Cubes",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00605",
-   "q": "If 18 workers can complete a job in 11 days, how long will 21 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 18 workers can complete a job in 11 days, how long will 21 workers take (work at the same rate)?",
+   "options": [
     "5.5 days",
     "13 days",
     "8.25 days",
     "9.43 days"
    ],
-   "a": 3,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 18 x 11 / 21 = 9.43 days."
+   "answer": 3,
+   "explanation": "Men and time are inversely related: 18 x 11 / 21 = 9.43 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00606",
-   "q": "What is 58 x 79?",
-   "o": [
+   "question": "What is 58 x 79?",
+   "options": [
     "4582",
     "4503",
     "4661",
     "4640"
    ],
-   "a": 0,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "58 x 79 = 4582."
+   "answer": 0,
+   "explanation": "58 x 79 = 4582.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00607",
-   "q": "What is 12 per cent of 360?",
-   "o": [
+   "question": "What is 12 per cent of 360?",
+   "options": [
     "43.2",
     "46.800000000000004",
     "86.4",
     "42.2"
    ],
-   "a": 0,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "12 per cent of 360 = 43.2."
+   "answer": 0,
+   "explanation": "12 per cent of 360 = 43.2.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00608",
-   "q": "What is the simple interest on 1300 rupees at 8 per cent per annum for 3 years?",
-   "o": [
+   "question": "What is the simple interest on 1300 rupees at 8 per cent per annum for 3 years?",
+   "options": [
     "442 rupees",
     "374.4 rupees",
     "312 rupees",
     "304 rupees"
    ],
-   "a": 2,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 1300 x 8 x 3 / 100 = 312."
+   "answer": 2,
+   "explanation": "SI = P x R x T / 100 = 1300 x 8 x 3 / 100 = 312.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00609",
-   "q": "What is the average of 25, 31, 33, 40, 44?",
-   "o": [
+   "question": "What is the average of 25, 31, 33, 40, 44?",
+   "options": [
     "33.6",
     "35.1",
     "32.6",
     "34.6"
    ],
-   "a": 3,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 173, average = 34.6."
+   "answer": 3,
+   "explanation": "Sum = 173, average = 34.6.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00610",
-   "q": "A sum of 486 rupees is divided between two people in the ratio 4:5. What is the larger share?",
-   "o": [
+   "question": "A sum of 486 rupees is divided between two people in the ratio 4:5. What is the larger share?",
+   "options": [
     "216 rupees",
     "270 rupees",
     "243 rupees",
     "108 rupees"
    ],
-   "a": 1,
-   "t": "Ratio",
-   "l": 2,
-   "s": "generated",
-   "e": "One part is 54 rupees, so the shares are 216 and 270."
+   "answer": 1,
+   "explanation": "One part is 54 rupees, so the shares are 216 and 270.",
+   "topic": "Ratio",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00611",
-   "q": "An article bought for 100 rupees is sold at a profit of 37 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 100 rupees is sold at a profit of 37 per cent. What is the selling price?",
+   "options": [
     "132 rupees",
     "100 rupees",
     "147 rupees",
     "137 rupees"
    ],
-   "a": 3,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 100 x (1 + 37/100) = 137."
+   "answer": 3,
+   "explanation": "Selling price = 100 x (1 + 37/100) = 137.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00612",
-   "q": "A vehicle travels at 79 km per hour for 2 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 79 km per hour for 2 hours. What distance does it cover?",
+   "options": [
     "197.5 km",
     "158 km",
     "237 km",
     "79 km"
    ],
-   "a": 1,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 79 x 2 = 158 km."
+   "answer": 1,
+   "explanation": "Distance = speed x time = 79 x 2 = 158 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00613",
-   "q": "A train 50 metres long runs at 15 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 50 metres long runs at 15 metres per second. How long will it take to cross a pole?",
+   "options": [
     "8.33 seconds",
     "3.33 seconds",
     "13.33 seconds",
     "6.67 seconds"
    ],
-   "a": 1,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 50 / 15 = 3.33 seconds."
+   "answer": 1,
+   "explanation": "Time = length / speed = 50 / 15 = 3.33 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00614",
-   "q": "A can finish a piece of work in 16 days and B in 12 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 16 days and B in 12 days. Working together, in how many days will they finish it?",
+   "options": [
     "28 days",
     "14 days",
     "6.86 days",
     "13.71 days"
    ],
-   "a": 2,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/16 + 1/12, so time = 6.86 days."
+   "answer": 2,
+   "explanation": "Combined rate = 1/16 + 1/12, so time = 6.86 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00615",
-   "q": "What is the HCF of 14 and 22?",
-   "o": [
+   "question": "What is the HCF of 14 and 22?",
+   "options": [
     "2",
     "154",
     "1",
     "3"
    ],
-   "a": 0,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 14 and 22 is 2."
+   "answer": 0,
+   "explanation": "The highest common factor of 14 and 22 is 2.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00616",
-   "q": "What is the LCM of 7 and 12?",
-   "o": [
+   "question": "What is the LCM of 7 and 12?",
+   "options": [
     "72",
     "91",
     "84",
     "168"
    ],
-   "a": 2,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 7 and 12 is 84."
+   "answer": 2,
+   "explanation": "The least common multiple of 7 and 12 is 84.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00617",
-   "q": "What is the perimeter of a rectangle 22 m long and 19 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 22 m long and 19 m wide?",
+   "options": [
     "88 m",
     "82 m",
     "63 m",
     "41 m"
    ],
-   "a": 1,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (22 + 19) = 82 m."
+   "answer": 1,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (22 + 19) = 82 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00618",
-   "q": "What is the compound interest on 4000 rupees at 8 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 4000 rupees at 8 per cent per annum for 2 years?",
+   "options": [
     "665.6 rupees",
     "640 rupees",
     "657.6 rupees",
     "1331.2 rupees"
    ],
-   "a": 0,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 4000 x (1 + 8/100)^2, so CI = 665.6 rupees."
+   "answer": 0,
+   "explanation": "Amount = 4000 x (1 + 8/100)^2, so CI = 665.6 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00619",
-   "q": "The marked price of an item is 1600 rupees and a discount of 5 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 1600 rupees and a discount of 5 per cent is given. What is the selling price?",
+   "options": [
     "1600 rupees",
     "1680 rupees",
     "1595 rupees",
     "1520 rupees"
    ],
-   "a": 3,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1600 x (1 - 5/100) = 1520 rupees."
+   "answer": 3,
+   "explanation": "Selling price = 1600 x (1 - 5/100) = 1520 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00620",
-   "q": "A sum becomes 42 when 17 is added to another number 25. What is the value of 17 + 25?",
-   "o": [
+   "question": "A sum becomes 42 when 17 is added to another number 25. What is the value of 17 + 25?",
+   "options": [
     "44",
     "42",
     "-8",
     "425"
    ],
-   "a": 1,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "17 + 25 = 42."
+   "answer": 1,
+   "explanation": "17 + 25 = 42.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00621",
-   "q": "If 24 workers can complete a job in 11 days, how long will 22 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 24 workers can complete a job in 11 days, how long will 22 workers take (work at the same rate)?",
+   "options": [
     "5.5 days",
     "11 days",
     "13 days",
     "12 days"
    ],
-   "a": 3,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 24 x 11 / 22 = 12 days."
+   "answer": 3,
+   "explanation": "Men and time are inversely related: 24 x 11 / 22 = 12 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00622",
-   "q": "What is 80 x 40?",
-   "o": [
+   "question": "What is 80 x 40?",
+   "options": [
     "3196",
     "3280",
     "3160",
     "3200"
    ],
-   "a": 3,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "80 x 40 = 3200."
+   "answer": 3,
+   "explanation": "80 x 40 = 3200.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00623",
-   "q": "What is 30 per cent of 620?",
-   "o": [
+   "question": "What is 30 per cent of 620?",
+   "options": [
     "93",
     "185",
     "279",
     "186"
    ],
-   "a": 3,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "30 per cent of 620 = 186."
+   "answer": 3,
+   "explanation": "30 per cent of 620 = 186.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00624",
-   "q": "What is the simple interest on 1400 rupees at 13 per cent per annum for 1 years?",
-   "o": [
+   "question": "What is the simple interest on 1400 rupees at 13 per cent per annum for 1 years?",
+   "options": [
     "195 rupees",
     "182 rupees",
     "91 rupees",
     "218.4 rupees"
    ],
-   "a": 1,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 1400 x 13 x 1 / 100 = 182."
+   "answer": 1,
+   "explanation": "SI = P x R x T / 100 = 1400 x 13 x 1 / 100 = 182.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00625",
-   "q": "What is the average of 26, 27, 28, 37, 45?",
-   "o": [
+   "question": "What is the average of 26, 27, 28, 37, 45?",
+   "options": [
     "34.6",
     "30.6",
     "31.6",
     "32.6"
    ],
-   "a": 3,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 163, average = 32.6."
+   "answer": 3,
+   "explanation": "Sum = 163, average = 32.6.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00626",
-   "q": "An article bought for 200 rupees is sold at a profit of 29 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 200 rupees is sold at a profit of 29 per cent. What is the selling price?",
+   "options": [
     "268 rupees",
     "142 rupees",
     "258 rupees",
     "229 rupees"
    ],
-   "a": 2,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 200 x (1 + 29/100) = 258."
+   "answer": 2,
+   "explanation": "Selling price = 200 x (1 + 29/100) = 258.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00627",
-   "q": "A vehicle travels at 56 km per hour for 4 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 56 km per hour for 4 hours. What distance does it cover?",
+   "options": [
     "280 km",
     "112 km",
     "224 km",
     "168 km"
    ],
-   "a": 2,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 56 x 4 = 224 km."
+   "answer": 2,
+   "explanation": "Distance = speed x time = 56 x 4 = 224 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00628",
-   "q": "A train 150 metres long runs at 13 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 150 metres long runs at 13 metres per second. How long will it take to cross a pole?",
+   "options": [
     "9.54 seconds",
     "21.54 seconds",
     "11.54 seconds",
     "16.54 seconds"
    ],
-   "a": 2,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 150 / 13 = 11.54 seconds."
+   "answer": 2,
+   "explanation": "Time = length / speed = 150 / 13 = 11.54 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00629",
-   "q": "A can finish a piece of work in 18 days and B in 14 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 18 days and B in 14 days. Working together, in how many days will they finish it?",
+   "options": [
     "32 days",
     "16 days",
     "7.88 days",
     "8.88 days"
    ],
-   "a": 2,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/18 + 1/14, so time = 7.88 days."
+   "answer": 2,
+   "explanation": "Combined rate = 1/18 + 1/14, so time = 7.88 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00630",
-   "q": "What is the HCF of 28 and 24?",
-   "o": [
+   "question": "What is the HCF of 28 and 24?",
+   "options": [
     "4",
     "168",
     "3",
     "12"
    ],
-   "a": 0,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 28 and 24 is 4."
+   "answer": 0,
+   "explanation": "The highest common factor of 28 and 24 is 4.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00631",
-   "q": "What is the LCM of 4 and 23?",
-   "o": [
+   "question": "What is the LCM of 4 and 23?",
+   "options": [
     "184",
     "96",
     "69",
     "92"
    ],
-   "a": 3,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 4 and 23 is 92."
+   "answer": 3,
+   "explanation": "The least common multiple of 4 and 23 is 92.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00632",
-   "q": "What is the area of a circle of radius 19 cm? (take pi = 22/7)",
-   "o": [
+   "question": "What is the area of a circle of radius 19 cm? (take pi = 22/7)",
+   "options": [
     "119.43 sq cm",
     "2269.14 sq cm",
     "361 sq cm",
     "1134.57 sq cm"
    ],
-   "a": 3,
-   "t": "Mensuration",
-   "l": 2,
-   "s": "generated",
-   "e": "Area = pi x r^2 = 22/7 x 19 x 19 = 1134.57 square centimetres."
+   "answer": 3,
+   "explanation": "Area = pi x r^2 = 22/7 x 19 x 19 = 1134.57 square centimetres.",
+   "topic": "Mensuration",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00633",
-   "q": "What is the perimeter of a rectangle 5 m long and 11 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 5 m long and 11 m wide?",
+   "options": [
     "16 m",
     "55 m",
     "32 m",
     "20 m"
    ],
-   "a": 2,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (5 + 11) = 32 m."
+   "answer": 2,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (5 + 11) = 32 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00634",
-   "q": "What is the compound interest on 5000 rupees at 6 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 5000 rupees at 6 per cent per annum for 2 years?",
+   "options": [
     "618 rupees",
     "1236 rupees",
     "612 rupees",
     "1118 rupees"
    ],
-   "a": 0,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 5000 x (1 + 6/100)^2, so CI = 618 rupees."
+   "answer": 0,
+   "explanation": "Amount = 5000 x (1 + 6/100)^2, so CI = 618 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00635",
-   "q": "The marked price of an item is 1400 rupees and a discount of 5 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 1400 rupees and a discount of 5 per cent is given. What is the selling price?",
+   "options": [
     "1320 rupees",
     "1330 rupees",
     "1395 rupees",
     "1400 rupees"
    ],
-   "a": 1,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1400 x (1 - 5/100) = 1330 rupees."
+   "answer": 1,
+   "explanation": "Selling price = 1400 x (1 - 5/100) = 1330 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00636",
-   "q": "A sum becomes 30 when 21 is added to another number 9. What is the value of 21 + 9?",
-   "o": [
+   "question": "A sum becomes 30 when 21 is added to another number 9. What is the value of 21 + 9?",
+   "options": [
     "29",
     "12",
     "189",
     "30"
    ],
-   "a": 3,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "21 + 9 = 30."
+   "answer": 3,
+   "explanation": "21 + 9 = 30.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00637",
-   "q": "If 21 workers can complete a job in 13 days, how long will 7 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 21 workers can complete a job in 13 days, how long will 7 workers take (work at the same rate)?",
+   "options": [
     "39 days",
     "15 days",
     "6.5 days",
     "40 days"
    ],
-   "a": 0,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 21 x 13 / 7 = 39 days."
+   "answer": 0,
+   "explanation": "Men and time are inversely related: 21 x 13 / 7 = 39 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00638",
-   "q": "What is 41 x 45?",
-   "o": [
+   "question": "What is 41 x 45?",
+   "options": [
     "1890",
     "1886",
     "1845",
     "1800"
    ],
-   "a": 2,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "41 x 45 = 1845."
+   "answer": 2,
+   "explanation": "41 x 45 = 1845.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00639",
-   "q": "What is 50 per cent of 60?",
-   "o": [
+   "question": "What is 50 per cent of 60?",
+   "options": [
     "30.6",
     "29",
     "30",
     "60"
    ],
-   "a": 2,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "50 per cent of 60 = 30."
+   "answer": 2,
+   "explanation": "50 per cent of 60 = 30.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00640",
-   "q": "What is the simple interest on 2000 rupees at 11 per cent per annum for 3 years?",
-   "o": [
+   "question": "What is the simple interest on 2000 rupees at 11 per cent per annum for 3 years?",
+   "options": [
     "660 rupees",
     "860 rupees",
     "649 rupees",
     "330 rupees"
    ],
-   "a": 0,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 2000 x 11 x 3 / 100 = 660."
+   "answer": 0,
+   "explanation": "SI = P x R x T / 100 = 2000 x 11 x 3 / 100 = 660.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00641",
-   "q": "What is the average of 32, 41, 50, 53, 59?",
-   "o": [
+   "question": "What is the average of 32, 41, 50, 53, 59?",
+   "options": [
     "48",
     "49",
     "45",
     "47"
    ],
-   "a": 3,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 235, average = 47."
+   "answer": 3,
+   "explanation": "Sum = 235, average = 47.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00642",
-   "q": "An article bought for 600 rupees is sold at a profit of 7 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 600 rupees is sold at a profit of 7 per cent. What is the selling price?",
+   "options": [
     "652 rupees",
     "607 rupees",
     "642 rupees",
     "600 rupees"
    ],
-   "a": 2,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 600 x (1 + 7/100) = 642."
+   "answer": 2,
+   "explanation": "Selling price = 600 x (1 + 7/100) = 642.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00643",
-   "q": "A vehicle travels at 38 km per hour for 2 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 38 km per hour for 2 hours. What distance does it cover?",
+   "options": [
     "38 km",
     "76 km",
     "114 km",
     "95 km"
    ],
-   "a": 1,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 38 x 2 = 76 km."
+   "answer": 1,
+   "explanation": "Distance = speed x time = 38 x 2 = 76 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00644",
-   "q": "A train 100 metres long runs at 21 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 100 metres long runs at 21 metres per second. How long will it take to cross a pole?",
+   "options": [
     "4.76 seconds",
     "9.76 seconds",
     "9.52 seconds",
     "14.76 seconds"
    ],
-   "a": 0,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 100 / 21 = 4.76 seconds."
+   "answer": 0,
+   "explanation": "Time = length / speed = 100 / 21 = 4.76 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00645",
-   "q": "A can finish a piece of work in 16 days and B in 18 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 16 days and B in 18 days. Working together, in how many days will they finish it?",
+   "options": [
     "17 days",
     "9.47 days",
     "8.47 days",
     "16 days"
    ],
-   "a": 2,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/16 + 1/18, so time = 8.47 days."
+   "answer": 2,
+   "explanation": "Combined rate = 1/16 + 1/18, so time = 8.47 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00646",
-   "q": "What is the HCF of 14 and 27?",
-   "o": [
+   "question": "What is the HCF of 14 and 27?",
+   "options": [
     "0",
     "2",
     "378",
     "1"
    ],
-   "a": 3,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 14 and 27 is 1."
+   "answer": 3,
+   "explanation": "The highest common factor of 14 and 27 is 1.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00647",
-   "q": "What is the LCM of 14 and 20?",
-   "o": [
+   "question": "What is the LCM of 14 and 20?",
+   "options": [
     "120",
     "280",
     "140",
     "70"
    ],
-   "a": 2,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 14 and 20 is 140."
+   "answer": 2,
+   "explanation": "The least common multiple of 14 and 20 is 140.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00648",
-   "q": "What is the area of a circle of radius 20 cm? (take pi = 22/7)",
-   "o": [
+   "question": "What is the area of a circle of radius 20 cm? (take pi = 22/7)",
+   "options": [
     "62.86 sq cm",
     "400 sq cm",
     "1257.14 sq cm",
     "2514.29 sq cm"
    ],
-   "a": 2,
-   "t": "Mensuration",
-   "l": 2,
-   "s": "generated",
-   "e": "Area = pi x r^2 = 22/7 x 20 x 20 = 1257.14 square centimetres."
+   "answer": 2,
+   "explanation": "Area = pi x r^2 = 22/7 x 20 x 20 = 1257.14 square centimetres.",
+   "topic": "Mensuration",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00649",
-   "q": "What is the perimeter of a rectangle 7 m long and 6 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 7 m long and 6 m wide?",
+   "options": [
     "21 m",
     "20 m",
     "42 m",
     "26 m"
    ],
-   "a": 3,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (7 + 6) = 26 m."
+   "answer": 3,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (7 + 6) = 26 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00650",
-   "q": "What is the compound interest on 5000 rupees at 5 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 5000 rupees at 5 per cent per annum for 2 years?",
+   "options": [
     "507.5 rupees",
     "1025 rupees",
     "512.5 rupees",
     "256.25 rupees"
    ],
-   "a": 2,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 5000 x (1 + 5/100)^2, so CI = 512.5 rupees."
+   "answer": 2,
+   "explanation": "Amount = 5000 x (1 + 5/100)^2, so CI = 512.5 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00651",
-   "q": "The marked price of an item is 1400 rupees and a discount of 5 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 1400 rupees and a discount of 5 per cent is given. What is the selling price?",
+   "options": [
     "1340 rupees",
     "1330 rupees",
     "1395 rupees",
     "1470 rupees"
    ],
-   "a": 1,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1400 x (1 - 5/100) = 1330 rupees."
+   "answer": 1,
+   "explanation": "Selling price = 1400 x (1 - 5/100) = 1330 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00652",
-   "q": "A sum becomes 32 when 15 is added to another number 17. What is the value of 15 + 17?",
-   "o": [
+   "question": "A sum becomes 32 when 15 is added to another number 17. What is the value of 15 + 17?",
+   "options": [
     "255",
     "-2",
     "31",
     "32"
    ],
-   "a": 3,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "15 + 17 = 32."
+   "answer": 3,
+   "explanation": "15 + 17 = 32.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00653",
-   "q": "If 17 workers can complete a job in 14 days, how long will 5 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 17 workers can complete a job in 14 days, how long will 5 workers take (work at the same rate)?",
+   "options": [
     "47.6 days",
     "48.6 days",
     "14 days",
     "7 days"
    ],
-   "a": 0,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 17 x 14 / 5 = 47.6 days."
+   "answer": 0,
+   "explanation": "Men and time are inversely related: 17 x 14 / 5 = 47.6 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00654",
-   "q": "What is 45 x 40?",
-   "o": [
+   "question": "What is 45 x 40?",
+   "options": [
     "1760",
     "1796",
     "1845",
     "1800"
    ],
-   "a": 3,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "45 x 40 = 1800."
+   "answer": 3,
+   "explanation": "45 x 40 = 1800.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00655",
-   "q": "What is 30 per cent of 100?",
-   "o": [
+   "question": "What is 30 per cent of 100?",
+   "options": [
     "30",
     "29",
     "45",
     "15"
    ],
-   "a": 0,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "30 per cent of 100 = 30."
+   "answer": 0,
+   "explanation": "30 per cent of 100 = 30.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00656",
-   "q": "What is the simple interest on 900 rupees at 6 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the simple interest on 900 rupees at 6 per cent per annum for 2 years?",
+   "options": [
     "102 rupees",
     "108 rupees",
     "198 rupees",
     "54 rupees"
    ],
-   "a": 1,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 900 x 6 x 2 / 100 = 108."
+   "answer": 1,
+   "explanation": "SI = P x R x T / 100 = 900 x 6 x 2 / 100 = 108.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00657",
-   "q": "What is the average of 22, 23, 31, 34, 36?",
-   "o": [
+   "question": "What is the average of 22, 23, 31, 34, 36?",
+   "options": [
     "28.2",
     "31.2",
     "29.2",
     "29.7"
    ],
-   "a": 2,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 146, average = 29.2."
+   "answer": 2,
+   "explanation": "Sum = 146, average = 29.2.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00658",
-   "q": "An article bought for 300 rupees is sold at a profit of 17 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 300 rupees is sold at a profit of 17 per cent. What is the selling price?",
+   "options": [
     "361 rupees",
     "249 rupees",
     "351 rupees",
     "300 rupees"
    ],
-   "a": 2,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 300 x (1 + 17/100) = 351."
+   "answer": 2,
+   "explanation": "Selling price = 300 x (1 + 17/100) = 351.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00659",
-   "q": "A vehicle travels at 71 km per hour for 5 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 71 km per hour for 5 hours. What distance does it cover?",
+   "options": [
     "355 km",
     "365 km",
     "284 km",
     "177.5 km"
    ],
-   "a": 0,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 71 x 5 = 355 km."
+   "answer": 0,
+   "explanation": "Distance = speed x time = 71 x 5 = 355 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00660",
-   "q": "A train 250 metres long runs at 20 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 250 metres long runs at 20 metres per second. How long will it take to cross a pole?",
+   "options": [
     "6.25 seconds",
     "17.5 seconds",
     "22.5 seconds",
     "12.5 seconds"
    ],
-   "a": 3,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 250 / 20 = 12.5 seconds."
+   "answer": 3,
+   "explanation": "Time = length / speed = 250 / 20 = 12.5 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00661",
-   "q": "A can finish a piece of work in 10 days and B in 11 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 10 days and B in 11 days. Working together, in how many days will they finish it?",
+   "options": [
     "5.24 days",
     "10 days",
     "10.5 days",
     "6.24 days"
    ],
-   "a": 0,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/10 + 1/11, so time = 5.24 days."
+   "answer": 0,
+   "explanation": "Combined rate = 1/10 + 1/11, so time = 5.24 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00662",
-   "q": "What is the HCF of 34 and 33?",
-   "o": [
+   "question": "What is the HCF of 34 and 33?",
+   "options": [
     "2",
     "1",
     "3",
     "1122"
    ],
-   "a": 1,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 34 and 33 is 1."
+   "answer": 1,
+   "explanation": "The highest common factor of 34 and 33 is 1.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00663",
-   "q": "What is the area of a circle of radius 9 cm? (take pi = 22/7)",
-   "o": [
+   "question": "What is the area of a circle of radius 9 cm? (take pi = 22/7)",
+   "options": [
     "28.29 sq cm",
     "81 sq cm",
     "254.57 sq cm",
     "56.57 sq cm"
    ],
-   "a": 2,
-   "t": "Mensuration",
-   "l": 2,
-   "s": "generated",
-   "e": "Area = pi x r^2 = 22/7 x 9 x 9 = 254.57 square centimetres."
+   "answer": 2,
+   "explanation": "Area = pi x r^2 = 22/7 x 9 x 9 = 254.57 square centimetres.",
+   "topic": "Mensuration",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00664",
-   "q": "What is the perimeter of a rectangle 22 m long and 9 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 22 m long and 9 m wide?",
+   "options": [
     "53 m",
     "198 m",
     "99 m",
     "62 m"
    ],
-   "a": 3,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (22 + 9) = 62 m."
+   "answer": 3,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (22 + 9) = 62 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00665",
-   "q": "What is the compound interest on 2000 rupees at 7 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 2000 rupees at 7 per cent per annum for 2 years?",
+   "options": [
     "489.8 rupees",
     "579.6 rupees",
     "289.8 rupees",
     "282.8 rupees"
    ],
-   "a": 2,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 2000 x (1 + 7/100)^2, so CI = 289.8 rupees."
+   "answer": 2,
+   "explanation": "Amount = 2000 x (1 + 7/100)^2, so CI = 289.8 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00666",
-   "q": "The marked price of an item is 600 rupees and a discount of 5 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 600 rupees and a discount of 5 per cent is given. What is the selling price?",
+   "options": [
     "580 rupees",
     "570 rupees",
     "630 rupees",
     "560 rupees"
    ],
-   "a": 1,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 600 x (1 - 5/100) = 570 rupees."
+   "answer": 1,
+   "explanation": "Selling price = 600 x (1 - 5/100) = 570 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00667",
-   "q": "A sum becomes 21 when 10 is added to another number 11. What is the value of 10 + 11?",
-   "o": [
+   "question": "A sum becomes 21 when 10 is added to another number 11. What is the value of 10 + 11?",
+   "options": [
     "23",
     "110",
     "21",
     "20"
    ],
-   "a": 2,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "10 + 11 = 21."
+   "answer": 2,
+   "explanation": "10 + 11 = 21.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00668",
-   "q": "If 24 workers can complete a job in 14 days, how long will 9 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 24 workers can complete a job in 14 days, how long will 9 workers take (work at the same rate)?",
+   "options": [
     "38.33 days",
     "37.33 days",
     "28 days",
     "16 days"
    ],
-   "a": 1,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 24 x 14 / 9 = 37.33 days."
+   "answer": 1,
+   "explanation": "Men and time are inversely related: 24 x 14 / 9 = 37.33 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00669",
-   "q": "What is 34 x 73?",
-   "o": [
+   "question": "What is 34 x 73?",
+   "options": [
     "2409",
     "2555",
     "2478",
     "2482"
    ],
-   "a": 3,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "34 x 73 = 2482."
+   "answer": 3,
+   "explanation": "34 x 73 = 2482.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00670",
-   "q": "What is 15 per cent of 220?",
-   "o": [
+   "question": "What is 15 per cent of 220?",
+   "options": [
     "16.5",
     "32",
     "33",
     "35.2"
    ],
-   "a": 2,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "15 per cent of 220 = 33."
+   "answer": 2,
+   "explanation": "15 per cent of 220 = 33.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00671",
-   "q": "What is the simple interest on 400 rupees at 5 per cent per annum for 1 years?",
-   "o": [
+   "question": "What is the simple interest on 400 rupees at 5 per cent per annum for 1 years?",
+   "options": [
     "24 rupees",
     "25 rupees",
     "20 rupees",
     "10 rupees"
    ],
-   "a": 2,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 400 x 5 x 1 / 100 = 20."
+   "answer": 2,
+   "explanation": "SI = P x R x T / 100 = 400 x 5 x 1 / 100 = 20.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00672",
-   "q": "What is the average of 39, 42, 43, 50, 56?",
-   "o": [
+   "question": "What is the average of 39, 42, 43, 50, 56?",
+   "options": [
     "46",
     "47",
     "45",
     "44"
    ],
-   "a": 0,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 230, average = 46."
+   "answer": 0,
+   "explanation": "Sum = 230, average = 46.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00673",
-   "q": "A sum of 395 rupees is divided between two people in the ratio 3:2. What is the larger share?",
-   "o": [
+   "question": "A sum of 395 rupees is divided between two people in the ratio 3:2. What is the larger share?",
+   "options": [
     "158 rupees",
     "316 rupees",
     "237 rupees",
     "197.5 rupees"
    ],
-   "a": 2,
-   "t": "Ratio",
-   "l": 2,
-   "s": "generated",
-   "e": "One part is 79 rupees, so the shares are 237 and 158."
+   "answer": 2,
+   "explanation": "One part is 79 rupees, so the shares are 237 and 158.",
+   "topic": "Ratio",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00674",
-   "q": "An article bought for 1000 rupees is sold at a profit of 40 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 1000 rupees is sold at a profit of 40 per cent. What is the selling price?",
+   "options": [
     "1410 rupees",
     "1400 rupees",
     "1000 rupees",
     "600 rupees"
    ],
-   "a": 1,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1000 x (1 + 40/100) = 1400."
+   "answer": 1,
+   "explanation": "Selling price = 1000 x (1 + 40/100) = 1400.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00675",
-   "q": "A vehicle travels at 63 km per hour for 5 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 63 km per hour for 5 hours. What distance does it cover?",
+   "options": [
     "325 km",
     "157.5 km",
     "378 km",
     "315 km"
    ],
-   "a": 3,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 63 x 5 = 315 km."
+   "answer": 3,
+   "explanation": "Distance = speed x time = 63 x 5 = 315 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00676",
-   "q": "A train 200 metres long runs at 11 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 200 metres long runs at 11 metres per second. How long will it take to cross a pole?",
+   "options": [
     "18.18 seconds",
     "9.09 seconds",
     "28.18 seconds",
     "16.18 seconds"
    ],
-   "a": 0,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 200 / 11 = 18.18 seconds."
+   "answer": 0,
+   "explanation": "Time = length / speed = 200 / 11 = 18.18 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00677",
-   "q": "A can finish a piece of work in 15 days and B in 12 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 15 days and B in 12 days. Working together, in how many days will they finish it?",
+   "options": [
     "27 days",
     "13.5 days",
     "6.67 days",
     "12 days"
    ],
-   "a": 2,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/15 + 1/12, so time = 6.67 days."
+   "answer": 2,
+   "explanation": "Combined rate = 1/15 + 1/12, so time = 6.67 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00678",
-   "q": "What is the LCM of 23 and 14?",
-   "o": [
+   "question": "What is the LCM of 23 and 14?",
+   "options": [
     "161",
     "345",
     "308",
     "322"
    ],
-   "a": 3,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 23 and 14 is 322."
+   "answer": 3,
+   "explanation": "The least common multiple of 23 and 14 is 322.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00679",
-   "q": "What is the area of a circle of radius 16 cm? (take pi = 22/7)",
-   "o": [
+   "question": "What is the area of a circle of radius 16 cm? (take pi = 22/7)",
+   "options": [
     "804.57 sq cm",
     "50.29 sq cm",
     "100.57 sq cm",
     "1609.14 sq cm"
    ],
-   "a": 0,
-   "t": "Mensuration",
-   "l": 2,
-   "s": "generated",
-   "e": "Area = pi x r^2 = 22/7 x 16 x 16 = 804.57 square centimetres."
+   "answer": 0,
+   "explanation": "Area = pi x r^2 = 22/7 x 16 x 16 = 804.57 square centimetres.",
+   "topic": "Mensuration",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00680",
-   "q": "What is the perimeter of a rectangle 8 m long and 13 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 8 m long and 13 m wide?",
+   "options": [
     "42 m",
     "29 m",
     "21 m",
     "32 m"
    ],
-   "a": 0,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (8 + 13) = 42 m."
+   "answer": 0,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (8 + 13) = 42 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00681",
-   "q": "What is the compound interest on 8000 rupees at 10 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 8000 rupees at 10 per cent per annum for 2 years?",
+   "options": [
     "3360 rupees",
     "840 rupees",
     "1670 rupees",
     "1680 rupees"
    ],
-   "a": 3,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 8000 x (1 + 10/100)^2, so CI = 1680 rupees."
+   "answer": 3,
+   "explanation": "Amount = 8000 x (1 + 10/100)^2, so CI = 1680 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00682",
-   "q": "The marked price of an item is 1000 rupees and a discount of 5 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 1000 rupees and a discount of 5 per cent is given. What is the selling price?",
+   "options": [
     "960 rupees",
     "950 rupees",
     "940 rupees",
     "995 rupees"
    ],
-   "a": 1,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1000 x (1 - 5/100) = 950 rupees."
+   "answer": 1,
+   "explanation": "Selling price = 1000 x (1 - 5/100) = 950 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00683",
-   "q": "A sum becomes 26 when 14 is added to another number 12. What is the value of 14 + 12?",
-   "o": [
+   "question": "A sum becomes 26 when 14 is added to another number 12. What is the value of 14 + 12?",
+   "options": [
     "28",
     "168",
     "26",
     "2"
    ],
-   "a": 2,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "14 + 12 = 26."
+   "answer": 2,
+   "explanation": "14 + 12 = 26.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00684",
-   "q": "If 13 workers can complete a job in 4 days, how long will 18 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 13 workers can complete a job in 4 days, how long will 18 workers take (work at the same rate)?",
+   "options": [
     "2.48 days",
     "3.89 days",
     "2.89 days",
     "2 days"
    ],
-   "a": 2,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 13 x 4 / 18 = 2.89 days."
+   "answer": 2,
+   "explanation": "Men and time are inversely related: 13 x 4 / 18 = 2.89 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00685",
-   "q": "What is 76 x 72?",
-   "o": [
+   "question": "What is 76 x 72?",
+   "options": [
     "5472",
     "5468",
     "5548",
     "5400"
    ],
-   "a": 0,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "76 x 72 = 5472."
+   "answer": 0,
+   "explanation": "76 x 72 = 5472.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00686",
-   "q": "What is 5 per cent of 760?",
-   "o": [
+   "question": "What is 5 per cent of 760?",
+   "options": [
     "37",
     "76",
     "19",
     "38"
    ],
-   "a": 3,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "5 per cent of 760 = 38."
+   "answer": 3,
+   "explanation": "5 per cent of 760 = 38.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00687",
-   "q": "What is the simple interest on 1600 rupees at 6 per cent per annum for 3 years?",
-   "o": [
+   "question": "What is the simple interest on 1600 rupees at 6 per cent per annum for 3 years?",
+   "options": [
     "448 rupees",
     "282 rupees",
     "288 rupees",
     "294 rupees"
    ],
-   "a": 2,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 1600 x 6 x 3 / 100 = 288."
+   "answer": 2,
+   "explanation": "SI = P x R x T / 100 = 1600 x 6 x 3 / 100 = 288.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00688",
-   "q": "What is the average of 14, 20, 22, 27, 36?",
-   "o": [
+   "question": "What is the average of 14, 20, 22, 27, 36?",
+   "options": [
     "25.8",
     "23.8",
     "21.8",
     "24.8"
    ],
-   "a": 1,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 119, average = 23.8."
+   "answer": 1,
+   "explanation": "Sum = 119, average = 23.8.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00689",
-   "q": "An article bought for 1500 rupees is sold at a profit of 8 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 1500 rupees is sold at a profit of 8 per cent. What is the selling price?",
+   "options": [
     "1630 rupees",
     "1620 rupees",
     "1508 rupees",
     "1500 rupees"
    ],
-   "a": 1,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1500 x (1 + 8/100) = 1620."
+   "answer": 1,
+   "explanation": "Selling price = 1500 x (1 + 8/100) = 1620.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00690",
-   "q": "A vehicle travels at 58 km per hour for 3 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 58 km per hour for 3 hours. What distance does it cover?",
+   "options": [
     "174 km",
     "87 km",
     "232 km",
     "217.5 km"
    ],
-   "a": 0,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 58 x 3 = 174 km."
+   "answer": 0,
+   "explanation": "Distance = speed x time = 58 x 3 = 174 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00691",
-   "q": "A train 300 metres long runs at 21 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 300 metres long runs at 21 metres per second. How long will it take to cross a pole?",
+   "options": [
     "24.29 seconds",
     "28.57 seconds",
     "14.29 seconds",
     "12.29 seconds"
    ],
-   "a": 2,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 300 / 21 = 14.29 seconds."
+   "answer": 2,
+   "explanation": "Time = length / speed = 300 / 21 = 14.29 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00692",
-   "q": "A can finish a piece of work in 7 days and B in 21 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 7 days and B in 21 days. Working together, in how many days will they finish it?",
+   "options": [
     "10.5 days",
     "5.25 days",
     "14 days",
     "7 days"
    ],
-   "a": 1,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/7 + 1/21, so time = 5.25 days."
+   "answer": 1,
+   "explanation": "Combined rate = 1/7 + 1/21, so time = 5.25 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00693",
-   "q": "What is the HCF of 31 and 21?",
-   "o": [
+   "question": "What is the HCF of 31 and 21?",
+   "options": [
     "651",
     "2",
     "0",
     "1"
    ],
-   "a": 3,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 31 and 21 is 1."
+   "answer": 3,
+   "explanation": "The highest common factor of 31 and 21 is 1.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00694",
-   "q": "What is the LCM of 12 and 14?",
-   "o": [
+   "question": "What is the LCM of 12 and 14?",
+   "options": [
     "84",
     "168",
     "96",
     "42"
    ],
-   "a": 0,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 12 and 14 is 84."
+   "answer": 0,
+   "explanation": "The least common multiple of 12 and 14 is 84.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00695",
-   "q": "What is the perimeter of a rectangle 15 m long and 5 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 15 m long and 5 m wide?",
+   "options": [
     "60 m",
     "40 m",
     "37.5 m",
     "75 m"
    ],
-   "a": 1,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (15 + 5) = 40 m."
+   "answer": 1,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (15 + 5) = 40 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00696",
-   "q": "What is the compound interest on 2000 rupees at 11 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 2000 rupees at 11 per cent per annum for 2 years?",
+   "options": [
     "464.2 rupees",
     "232.1 rupees",
     "440 rupees",
     "928.4 rupees"
    ],
-   "a": 0,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 2000 x (1 + 11/100)^2, so CI = 464.2 rupees."
+   "answer": 0,
+   "explanation": "Amount = 2000 x (1 + 11/100)^2, so CI = 464.2 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00697",
-   "q": "The marked price of an item is 1200 rupees and a discount of 15 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 1200 rupees and a discount of 15 per cent is given. What is the selling price?",
+   "options": [
     "1030 rupees",
     "1200 rupees",
     "1185 rupees",
     "1020 rupees"
    ],
-   "a": 3,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1200 x (1 - 15/100) = 1020 rupees."
+   "answer": 3,
+   "explanation": "Selling price = 1200 x (1 - 15/100) = 1020 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00698",
-   "q": "A sum becomes 57 when 28 is added to another number 29. What is the value of 28 + 29?",
-   "o": [
+   "question": "A sum becomes 57 when 28 is added to another number 29. What is the value of 28 + 29?",
+   "options": [
     "56",
     "-1",
     "57",
     "59"
    ],
-   "a": 2,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "28 + 29 = 57."
+   "answer": 2,
+   "explanation": "28 + 29 = 57.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00699",
-   "q": "What is 3 cubed?",
-   "o": [
+   "question": "What is 3 cubed?",
+   "options": [
     "24",
     "64",
     "9",
     "27"
    ],
-   "a": 3,
-   "t": "Squares and Cubes",
-   "l": 1,
-   "s": "generated",
-   "e": "3^3 = 27."
+   "answer": 3,
+   "explanation": "3^3 = 27.",
+   "topic": "Squares and Cubes",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00700",
-   "q": "If 5 workers can complete a job in 9 days, how long will 5 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 5 workers can complete a job in 9 days, how long will 5 workers take (work at the same rate)?",
+   "options": [
     "9 days",
     "4.5 days",
     "10 days",
     "11 days"
    ],
-   "a": 0,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 5 x 9 / 5 = 9 days."
+   "answer": 0,
+   "explanation": "Men and time are inversely related: 5 x 9 / 5 = 9 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00701",
-   "q": "What is 41 x 92?",
-   "o": [
+   "question": "What is 41 x 92?",
+   "options": [
     "3864",
     "3768",
     "3772",
     "3813"
    ],
-   "a": 2,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "41 x 92 = 3772."
+   "answer": 2,
+   "explanation": "41 x 92 = 3772.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00702",
-   "q": "What is 20 per cent of 600?",
-   "o": [
+   "question": "What is 20 per cent of 600?",
+   "options": [
     "120",
     "126",
     "180",
     "60"
    ],
-   "a": 0,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "20 per cent of 600 = 120."
+   "answer": 0,
+   "explanation": "20 per cent of 600 = 120.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00703",
-   "q": "What is the simple interest on 1200 rupees at 5 per cent per annum for 5 years?",
-   "o": [
+   "question": "What is the simple interest on 1200 rupees at 5 per cent per annum for 5 years?",
+   "options": [
     "295 rupees",
     "300 rupees",
     "420 rupees",
     "360 rupees"
    ],
-   "a": 1,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 1200 x 5 x 5 / 100 = 300."
+   "answer": 1,
+   "explanation": "SI = P x R x T / 100 = 1200 x 5 x 5 / 100 = 300.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00704",
-   "q": "What is the average of 32, 39, 43, 51, 59?",
-   "o": [
+   "question": "What is the average of 32, 39, 43, 51, 59?",
+   "options": [
     "45.3",
     "42.8",
     "46.8",
     "44.8"
    ],
-   "a": 3,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 224, average = 44.8."
+   "answer": 3,
+   "explanation": "Sum = 224, average = 44.8.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00705",
-   "q": "An article bought for 400 rupees is sold at a profit of 24 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 400 rupees is sold at a profit of 24 per cent. What is the selling price?",
+   "options": [
     "496 rupees",
     "304 rupees",
     "424 rupees",
     "400 rupees"
    ],
-   "a": 0,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 400 x (1 + 24/100) = 496."
+   "answer": 0,
+   "explanation": "Selling price = 400 x (1 + 24/100) = 496.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00706",
-   "q": "A vehicle travels at 58 km per hour for 2 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 58 km per hour for 2 hours. What distance does it cover?",
+   "options": [
     "145 km",
     "126 km",
     "174 km",
     "116 km"
    ],
-   "a": 3,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 58 x 2 = 116 km."
+   "answer": 3,
+   "explanation": "Distance = speed x time = 58 x 2 = 116 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00707",
-   "q": "A train 100 metres long runs at 15 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 100 metres long runs at 15 metres per second. How long will it take to cross a pole?",
+   "options": [
     "3.33 seconds",
     "11.67 seconds",
     "6.67 seconds",
     "16.67 seconds"
    ],
-   "a": 2,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 100 / 15 = 6.67 seconds."
+   "answer": 2,
+   "explanation": "Time = length / speed = 100 / 15 = 6.67 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00708",
-   "q": "A can finish a piece of work in 14 days and B in 16 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 14 days and B in 16 days. Working together, in how many days will they finish it?",
+   "options": [
     "14.93 days",
     "15 days",
     "7.47 days",
     "30 days"
    ],
-   "a": 2,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/14 + 1/16, so time = 7.47 days."
+   "answer": 2,
+   "explanation": "Combined rate = 1/14 + 1/16, so time = 7.47 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00709",
-   "q": "What is the HCF of 19 and 22?",
-   "o": [
+   "question": "What is the HCF of 19 and 22?",
+   "options": [
     "0",
     "2",
     "1",
     "418"
    ],
-   "a": 2,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 19 and 22 is 1."
+   "answer": 2,
+   "explanation": "The highest common factor of 19 and 22 is 1.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00710",
-   "q": "What is the LCM of 19 and 20?",
-   "o": [
+   "question": "What is the LCM of 19 and 20?",
+   "options": [
     "380",
     "399",
     "190",
     "760"
    ],
-   "a": 0,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 19 and 20 is 380."
+   "answer": 0,
+   "explanation": "The least common multiple of 19 and 20 is 380.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00711",
-   "q": "What is the perimeter of a rectangle 24 m long and 17 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 24 m long and 17 m wide?",
+   "options": [
     "82 m",
     "65 m",
     "408 m",
     "204 m"
    ],
-   "a": 0,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (24 + 17) = 82 m."
+   "answer": 0,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (24 + 17) = 82 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00712",
-   "q": "What is the compound interest on 2000 rupees at 13 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 2000 rupees at 13 per cent per annum for 2 years?",
+   "options": [
     "276.9 rupees",
     "753.8 rupees",
     "540.8 rupees",
     "553.8 rupees"
    ],
-   "a": 3,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 2000 x (1 + 13/100)^2, so CI = 553.8 rupees."
+   "answer": 3,
+   "explanation": "Amount = 2000 x (1 + 13/100)^2, so CI = 553.8 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00713",
-   "q": "The marked price of an item is 1200 rupees and a discount of 15 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 1200 rupees and a discount of 15 per cent is given. What is the selling price?",
+   "options": [
     "1030 rupees",
     "1380 rupees",
     "1020 rupees",
     "1010 rupees"
    ],
-   "a": 2,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1200 x (1 - 15/100) = 1020 rupees."
+   "answer": 2,
+   "explanation": "Selling price = 1200 x (1 - 15/100) = 1020 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00714",
-   "q": "A sum becomes 25 when 15 is added to another number 10. What is the value of 15 + 10?",
-   "o": [
+   "question": "A sum becomes 25 when 15 is added to another number 10. What is the value of 15 + 10?",
+   "options": [
     "27",
     "150",
     "25",
     "26"
    ],
-   "a": 2,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "15 + 10 = 25."
+   "answer": 2,
+   "explanation": "15 + 10 = 25.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00715",
-   "q": "If 14 workers can complete a job in 10 days, how long will 17 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 14 workers can complete a job in 10 days, how long will 17 workers take (work at the same rate)?",
+   "options": [
     "10 days",
     "8.24 days",
     "12 days",
     "5 days"
    ],
-   "a": 1,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 14 x 10 / 17 = 8.24 days."
+   "answer": 1,
+   "explanation": "Men and time are inversely related: 14 x 10 / 17 = 8.24 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00716",
-   "q": "What is 76 x 69?",
-   "o": [
+   "question": "What is 76 x 69?",
+   "options": [
     "5244",
     "5240",
     "5320",
     "5313"
    ],
-   "a": 0,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "76 x 69 = 5244."
+   "answer": 0,
+   "explanation": "76 x 69 = 5244.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00717",
-   "q": "What is 20 per cent of 160?",
-   "o": [
+   "question": "What is 20 per cent of 160?",
+   "options": [
     "32",
     "33.6",
     "31",
     "64"
    ],
-   "a": 0,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "20 per cent of 160 = 32."
+   "answer": 0,
+   "explanation": "20 per cent of 160 = 32.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00718",
-   "q": "What is the simple interest on 1100 rupees at 5 per cent per annum for 6 years?",
-   "o": [
+   "question": "What is the simple interest on 1100 rupees at 5 per cent per annum for 6 years?",
+   "options": [
     "440 rupees",
     "165 rupees",
     "330 rupees",
     "396 rupees"
    ],
-   "a": 2,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 1100 x 5 x 6 / 100 = 330."
+   "answer": 2,
+   "explanation": "SI = P x R x T / 100 = 1100 x 5 x 6 / 100 = 330.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00719",
-   "q": "What is the average of 9, 15, 16, 24, 27?",
-   "o": [
+   "question": "What is the average of 9, 15, 16, 24, 27?",
+   "options": [
     "18.7",
     "17.2",
     "16.2",
     "18.2"
    ],
-   "a": 3,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 91, average = 18.2."
+   "answer": 3,
+   "explanation": "Sum = 91, average = 18.2.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00720",
-   "q": "An article bought for 400 rupees is sold at a profit of 32 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 400 rupees is sold at a profit of 32 per cent. What is the selling price?",
+   "options": [
     "523 rupees",
     "400 rupees",
     "538 rupees",
     "528 rupees"
    ],
-   "a": 3,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 400 x (1 + 32/100) = 528."
+   "answer": 3,
+   "explanation": "Selling price = 400 x (1 + 32/100) = 528.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00721",
-   "q": "A vehicle travels at 39 km per hour for 7 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 39 km per hour for 7 hours. What distance does it cover?",
+   "options": [
     "273 km",
     "136.5 km",
     "341.25 km",
     "234 km"
    ],
-   "a": 0,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 39 x 7 = 273 km."
+   "answer": 0,
+   "explanation": "Distance = speed x time = 39 x 7 = 273 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00722",
-   "q": "A train 300 metres long runs at 10 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 300 metres long runs at 10 metres per second. How long will it take to cross a pole?",
+   "options": [
     "40 seconds",
     "35 seconds",
     "30 seconds",
     "28 seconds"
    ],
-   "a": 2,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 300 / 10 = 30 seconds."
+   "answer": 2,
+   "explanation": "Time = length / speed = 300 / 10 = 30 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00723",
-   "q": "A can finish a piece of work in 11 days and B in 16 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 11 days and B in 16 days. Working together, in how many days will they finish it?",
+   "options": [
     "13.04 days",
     "6.52 days",
     "13.5 days",
     "27 days"
    ],
-   "a": 1,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/11 + 1/16, so time = 6.52 days."
+   "answer": 1,
+   "explanation": "Combined rate = 1/11 + 1/16, so time = 6.52 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00724",
-   "q": "What is the HCF of 21 and 29?",
-   "o": [
+   "question": "What is the HCF of 21 and 29?",
+   "options": [
     "1",
     "2",
     "3",
     "0"
    ],
-   "a": 0,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 21 and 29 is 1."
+   "answer": 0,
+   "explanation": "The highest common factor of 21 and 29 is 1.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00725",
-   "q": "What is the LCM of 7 and 8?",
-   "o": [
+   "question": "What is the LCM of 7 and 8?",
+   "options": [
     "56",
     "48",
     "28",
     "112"
    ],
-   "a": 0,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 7 and 8 is 56."
+   "answer": 0,
+   "explanation": "The least common multiple of 7 and 8 is 56.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00726",
-   "q": "What is the area of a circle of radius 2 cm? (take pi = 22/7)",
-   "o": [
+   "question": "What is the area of a circle of radius 2 cm? (take pi = 22/7)",
+   "options": [
     "6.29 sq cm",
     "12.57 sq cm",
     "25.14 sq cm",
     "4 sq cm"
    ],
-   "a": 1,
-   "t": "Mensuration",
-   "l": 2,
-   "s": "generated",
-   "e": "Area = pi x r^2 = 22/7 x 2 x 2 = 12.57 square centimetres."
+   "answer": 1,
+   "explanation": "Area = pi x r^2 = 22/7 x 2 x 2 = 12.57 square centimetres.",
+   "topic": "Mensuration",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00727",
-   "q": "What is the perimeter of a rectangle 24 m long and 14 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 24 m long and 14 m wide?",
+   "options": [
     "62 m",
     "336 m",
     "96 m",
     "76 m"
    ],
-   "a": 3,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (24 + 14) = 76 m."
+   "answer": 3,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (24 + 14) = 76 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00728",
-   "q": "What is the compound interest on 8000 rupees at 8 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 8000 rupees at 8 per cent per annum for 2 years?",
+   "options": [
     "2662.4 rupees",
     "1280 rupees",
     "1331.2 rupees",
     "2131.2 rupees"
    ],
-   "a": 2,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 8000 x (1 + 8/100)^2, so CI = 1331.2 rupees."
+   "answer": 2,
+   "explanation": "Amount = 8000 x (1 + 8/100)^2, so CI = 1331.2 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00729",
-   "q": "The marked price of an item is 1800 rupees and a discount of 20 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 1800 rupees and a discount of 20 per cent is given. What is the selling price?",
+   "options": [
     "1800 rupees",
     "1440 rupees",
     "2160 rupees",
     "1780 rupees"
    ],
-   "a": 1,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1800 x (1 - 20/100) = 1440 rupees."
+   "answer": 1,
+   "explanation": "Selling price = 1800 x (1 - 20/100) = 1440 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00730",
-   "q": "A sum becomes 26 when 19 is added to another number 7. What is the value of 19 + 7?",
-   "o": [
+   "question": "A sum becomes 26 when 19 is added to another number 7. What is the value of 19 + 7?",
+   "options": [
     "133",
     "25",
     "28",
     "26"
    ],
-   "a": 3,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "19 + 7 = 26."
+   "answer": 3,
+   "explanation": "19 + 7 = 26.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00731",
-   "q": "What is 7 cubed?",
-   "o": [
+   "question": "What is 7 cubed?",
+   "options": [
     "512",
     "49",
     "343",
     "350"
    ],
-   "a": 2,
-   "t": "Squares and Cubes",
-   "l": 1,
-   "s": "generated",
-   "e": "7^3 = 343."
+   "answer": 2,
+   "explanation": "7^3 = 343.",
+   "topic": "Squares and Cubes",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00732",
-   "q": "If 11 workers can complete a job in 6 days, how long will 8 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 11 workers can complete a job in 6 days, how long will 8 workers take (work at the same rate)?",
+   "options": [
     "3 days",
     "9.25 days",
     "8.25 days",
     "6 days"
    ],
-   "a": 2,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 11 x 6 / 8 = 8.25 days."
+   "answer": 2,
+   "explanation": "Men and time are inversely related: 11 x 6 / 8 = 8.25 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00733",
-   "q": "What is 27 x 90?",
-   "o": [
+   "question": "What is 27 x 90?",
+   "options": [
     "2457",
     "2430",
     "2426",
     "2340"
    ],
-   "a": 1,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "27 x 90 = 2430."
+   "answer": 1,
+   "explanation": "27 x 90 = 2430.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00734",
-   "q": "What is 5 per cent of 260?",
-   "o": [
+   "question": "What is 5 per cent of 260?",
+   "options": [
     "12",
     "19.5",
     "15.6",
     "13"
    ],
-   "a": 3,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "5 per cent of 260 = 13."
+   "answer": 3,
+   "explanation": "5 per cent of 260 = 13.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00735",
-   "q": "What is the simple interest on 900 rupees at 2 per cent per annum for 1 years?",
-   "o": [
+   "question": "What is the simple interest on 900 rupees at 2 per cent per annum for 1 years?",
+   "options": [
     "21.6 rupees",
     "9 rupees",
     "18 rupees",
     "20 rupees"
    ],
-   "a": 2,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 900 x 2 x 1 / 100 = 18."
+   "answer": 2,
+   "explanation": "SI = P x R x T / 100 = 900 x 2 x 1 / 100 = 18.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00736",
-   "q": "What is the average of 16, 17, 26, 29, 33?",
-   "o": [
+   "question": "What is the average of 16, 17, 26, 29, 33?",
+   "options": [
     "24.2",
     "22.2",
     "26.2",
     "25.2"
    ],
-   "a": 0,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 121, average = 24.2."
+   "answer": 0,
+   "explanation": "Sum = 121, average = 24.2.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00737",
-   "q": "An article bought for 900 rupees is sold at a profit of 21 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 900 rupees is sold at a profit of 21 per cent. What is the selling price?",
+   "options": [
     "921 rupees",
     "900 rupees",
     "711 rupees",
     "1089 rupees"
    ],
-   "a": 3,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 900 x (1 + 21/100) = 1089."
+   "answer": 3,
+   "explanation": "Selling price = 900 x (1 + 21/100) = 1089.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00738",
-   "q": "A vehicle travels at 31 km per hour for 6 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 31 km per hour for 6 hours. What distance does it cover?",
+   "options": [
     "93 km",
     "196 km",
     "155 km",
     "186 km"
    ],
-   "a": 3,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 31 x 6 = 186 km."
+   "answer": 3,
+   "explanation": "Distance = speed x time = 31 x 6 = 186 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00739",
-   "q": "A train 250 metres long runs at 28 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 250 metres long runs at 28 metres per second. How long will it take to cross a pole?",
+   "options": [
     "18.93 seconds",
     "8.93 seconds",
     "17.86 seconds",
     "13.93 seconds"
    ],
-   "a": 1,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 250 / 28 = 8.93 seconds."
+   "answer": 1,
+   "explanation": "Time = length / speed = 250 / 28 = 8.93 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00740",
-   "q": "A can finish a piece of work in 12 days and B in 15 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 12 days and B in 15 days. Working together, in how many days will they finish it?",
+   "options": [
     "27 days",
     "6.67 days",
     "12 days",
     "7.67 days"
    ],
-   "a": 1,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/12 + 1/15, so time = 6.67 days."
+   "answer": 1,
+   "explanation": "Combined rate = 1/12 + 1/15, so time = 6.67 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00741",
-   "q": "What is the HCF of 27 and 18?",
-   "o": [
+   "question": "What is the HCF of 27 and 18?",
+   "options": [
     "54",
     "8",
     "18",
     "9"
    ],
-   "a": 3,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 27 and 18 is 9."
+   "answer": 3,
+   "explanation": "The highest common factor of 27 and 18 is 9.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00742",
-   "q": "What is the LCM of 16 and 12?",
-   "o": [
+   "question": "What is the LCM of 16 and 12?",
+   "options": [
     "192",
     "96",
     "64",
     "48"
    ],
-   "a": 3,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 16 and 12 is 48."
+   "answer": 3,
+   "explanation": "The least common multiple of 16 and 12 is 48.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00743",
-   "q": "What is the area of a circle of radius 9 cm? (take pi = 22/7)",
-   "o": [
+   "question": "What is the area of a circle of radius 9 cm? (take pi = 22/7)",
+   "options": [
     "254.57 sq cm",
     "81 sq cm",
     "509.14 sq cm",
     "28.29 sq cm"
    ],
-   "a": 0,
-   "t": "Mensuration",
-   "l": 2,
-   "s": "generated",
-   "e": "Area = pi x r^2 = 22/7 x 9 x 9 = 254.57 square centimetres."
+   "answer": 0,
+   "explanation": "Area = pi x r^2 = 22/7 x 9 x 9 = 254.57 square centimetres.",
+   "topic": "Mensuration",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00744",
-   "q": "What is the perimeter of a rectangle 21 m long and 6 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 21 m long and 6 m wide?",
+   "options": [
     "63 m",
     "48 m",
     "84 m",
     "54 m"
    ],
-   "a": 3,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (21 + 6) = 54 m."
+   "answer": 3,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (21 + 6) = 54 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00745",
-   "q": "What is the compound interest on 1000 rupees at 6 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 1000 rupees at 6 per cent per annum for 2 years?",
+   "options": [
     "247.2 rupees",
     "123.6 rupees",
     "223.6 rupees",
     "120 rupees"
    ],
-   "a": 1,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 1000 x (1 + 6/100)^2, so CI = 123.6 rupees."
+   "answer": 1,
+   "explanation": "Amount = 1000 x (1 + 6/100)^2, so CI = 123.6 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00746",
-   "q": "The marked price of an item is 1200 rupees and a discount of 5 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 1200 rupees and a discount of 5 per cent is given. What is the selling price?",
+   "options": [
     "1140 rupees",
     "1195 rupees",
     "1130 rupees",
     "1260 rupees"
    ],
-   "a": 0,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1200 x (1 - 5/100) = 1140 rupees."
+   "answer": 0,
+   "explanation": "Selling price = 1200 x (1 - 5/100) = 1140 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00747",
-   "q": "A sum becomes 41 when 20 is added to another number 21. What is the value of 20 + 21?",
-   "o": [
+   "question": "A sum becomes 41 when 20 is added to another number 21. What is the value of 20 + 21?",
+   "options": [
     "41",
     "40",
     "42",
     "43"
    ],
-   "a": 0,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "20 + 21 = 41."
+   "answer": 0,
+   "explanation": "20 + 21 = 41.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00748",
-   "q": "If 18 workers can complete a job in 12 days, how long will 16 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 18 workers can complete a job in 12 days, how long will 16 workers take (work at the same rate)?",
+   "options": [
     "13.5 days",
     "6 days",
     "14 days",
     "11.37 days"
    ],
-   "a": 0,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 18 x 12 / 16 = 13.5 days."
+   "answer": 0,
+   "explanation": "Men and time are inversely related: 18 x 12 / 16 = 13.5 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00749",
-   "q": "What is 41 x 68?",
-   "o": [
+   "question": "What is 41 x 68?",
+   "options": [
     "2856",
     "2829",
     "2788",
     "2784"
    ],
-   "a": 2,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "41 x 68 = 2788."
+   "answer": 2,
+   "explanation": "41 x 68 = 2788.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00750",
-   "q": "What is 10 per cent of 140?",
-   "o": [
+   "question": "What is 10 per cent of 140?",
+   "options": [
     "14",
     "21",
     "15.4",
     "7"
    ],
-   "a": 0,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "10 per cent of 140 = 14."
+   "answer": 0,
+   "explanation": "10 per cent of 140 = 14.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00751",
-   "q": "What is the simple interest on 1300 rupees at 13 per cent per annum for 1 years?",
-   "o": [
+   "question": "What is the simple interest on 1300 rupees at 13 per cent per annum for 1 years?",
+   "options": [
     "182 rupees",
     "202.8 rupees",
     "84.5 rupees",
     "169 rupees"
    ],
-   "a": 3,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 1300 x 13 x 1 / 100 = 169."
+   "answer": 3,
+   "explanation": "SI = P x R x T / 100 = 1300 x 13 x 1 / 100 = 169.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00752",
-   "q": "What is the average of 35, 38, 43, 44, 53?",
-   "o": [
+   "question": "What is the average of 35, 38, 43, 44, 53?",
+   "options": [
     "44.6",
     "40.6",
     "43.6",
     "42.6"
    ],
-   "a": 3,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 213, average = 42.6."
+   "answer": 3,
+   "explanation": "Sum = 213, average = 42.6.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00753",
-   "q": "An article bought for 100 rupees is sold at a profit of 38 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 100 rupees is sold at a profit of 38 per cent. What is the selling price?",
+   "options": [
     "100 rupees",
     "148 rupees",
     "138 rupees",
     "133 rupees"
    ],
-   "a": 2,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 100 x (1 + 38/100) = 138."
+   "answer": 2,
+   "explanation": "Selling price = 100 x (1 + 38/100) = 138.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00754",
-   "q": "A vehicle travels at 58 km per hour for 2 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 58 km per hour for 2 hours. What distance does it cover?",
+   "options": [
     "58 km",
     "145 km",
     "174 km",
     "116 km"
    ],
-   "a": 3,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 58 x 2 = 116 km."
+   "answer": 3,
+   "explanation": "Distance = speed x time = 58 x 2 = 116 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00755",
-   "q": "A train 250 metres long runs at 11 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 250 metres long runs at 11 metres per second. How long will it take to cross a pole?",
+   "options": [
     "45.45 seconds",
     "22.73 seconds",
     "32.73 seconds",
     "27.73 seconds"
    ],
-   "a": 1,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 250 / 11 = 22.73 seconds."
+   "answer": 1,
+   "explanation": "Time = length / speed = 250 / 11 = 22.73 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00756",
-   "q": "A can finish a piece of work in 17 days and B in 7 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 17 days and B in 7 days. Working together, in how many days will they finish it?",
+   "options": [
     "12 days",
     "4.96 days",
     "9.92 days",
     "7 days"
    ],
-   "a": 1,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/17 + 1/7, so time = 4.96 days."
+   "answer": 1,
+   "explanation": "Combined rate = 1/17 + 1/7, so time = 4.96 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00757",
-   "q": "What is the HCF of 6 and 31?",
-   "o": [
+   "question": "What is the HCF of 6 and 31?",
+   "options": [
     "1",
     "3",
     "0",
     "2"
    ],
-   "a": 0,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 6 and 31 is 1."
+   "answer": 0,
+   "explanation": "The highest common factor of 6 and 31 is 1.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00758",
-   "q": "What is the LCM of 9 and 20?",
-   "o": [
+   "question": "What is the LCM of 9 and 20?",
+   "options": [
     "160",
     "360",
     "180",
     "189"
    ],
-   "a": 2,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 9 and 20 is 180."
+   "answer": 2,
+   "explanation": "The least common multiple of 9 and 20 is 180.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00759",
-   "q": "What is the area of a circle of radius 21 cm? (take pi = 22/7)",
-   "o": [
+   "question": "What is the area of a circle of radius 21 cm? (take pi = 22/7)",
+   "options": [
     "1386 sq cm",
     "132 sq cm",
     "441 sq cm",
     "2772 sq cm"
    ],
-   "a": 0,
-   "t": "Mensuration",
-   "l": 2,
-   "s": "generated",
-   "e": "Area = pi x r^2 = 22/7 x 21 x 21 = 1386 square centimetres."
+   "answer": 0,
+   "explanation": "Area = pi x r^2 = 22/7 x 21 x 21 = 1386 square centimetres.",
+   "topic": "Mensuration",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00760",
-   "q": "What is the perimeter of a rectangle 10 m long and 24 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 10 m long and 24 m wide?",
+   "options": [
     "40 m",
     "68 m",
     "44 m",
     "120 m"
    ],
-   "a": 1,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (10 + 24) = 68 m."
+   "answer": 1,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (10 + 24) = 68 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00761",
-   "q": "What is the compound interest on 3000 rupees at 5 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 3000 rupees at 5 per cent per annum for 2 years?",
+   "options": [
     "615 rupees",
     "307.5 rupees",
     "153.75 rupees",
     "607.5 rupees"
    ],
-   "a": 1,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 3000 x (1 + 5/100)^2, so CI = 307.5 rupees."
+   "answer": 1,
+   "explanation": "Amount = 3000 x (1 + 5/100)^2, so CI = 307.5 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00762",
-   "q": "The marked price of an item is 1200 rupees and a discount of 10 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 1200 rupees and a discount of 10 per cent is given. What is the selling price?",
+   "options": [
     "1070 rupees",
     "1320 rupees",
     "1080 rupees",
     "1190 rupees"
    ],
-   "a": 2,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1200 x (1 - 10/100) = 1080 rupees."
+   "answer": 2,
+   "explanation": "Selling price = 1200 x (1 - 10/100) = 1080 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00763",
-   "q": "A sum becomes 12 when 6 is added to another number 6. What is the value of 6 + 6?",
-   "o": [
+   "question": "A sum becomes 12 when 6 is added to another number 6. What is the value of 6 + 6?",
+   "options": [
     "14",
     "11",
     "0",
     "12"
    ],
-   "a": 3,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "6 + 6 = 12."
+   "answer": 3,
+   "explanation": "6 + 6 = 12.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00764",
-   "q": "What is 9 cubed?",
-   "o": [
+   "question": "What is 9 cubed?",
+   "options": [
     "729",
     "81",
     "738",
     "1000"
    ],
-   "a": 0,
-   "t": "Squares and Cubes",
-   "l": 1,
-   "s": "generated",
-   "e": "9^3 = 729."
+   "answer": 0,
+   "explanation": "9^3 = 729.",
+   "topic": "Squares and Cubes",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00765",
-   "q": "If 18 workers can complete a job in 17 days, how long will 16 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 18 workers can complete a job in 17 days, how long will 16 workers take (work at the same rate)?",
+   "options": [
     "19 days",
     "16.11 days",
     "20.13 days",
     "19.13 days"
    ],
-   "a": 3,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 18 x 17 / 16 = 19.13 days."
+   "answer": 3,
+   "explanation": "Men and time are inversely related: 18 x 17 / 16 = 19.13 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00766",
-   "q": "What is 69 x 71?",
-   "o": [
+   "question": "What is 69 x 71?",
+   "options": [
     "4970",
     "4899",
     "4828",
     "4968"
    ],
-   "a": 1,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "69 x 71 = 4899."
+   "answer": 1,
+   "explanation": "69 x 71 = 4899.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00767",
-   "q": "What is 75 per cent of 360?",
-   "o": [
+   "question": "What is 75 per cent of 360?",
+   "options": [
     "540",
     "269",
     "270",
     "405"
    ],
-   "a": 2,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "75 per cent of 360 = 270."
+   "answer": 2,
+   "explanation": "75 per cent of 360 = 270.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00768",
-   "q": "What is the simple interest on 800 rupees at 6 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the simple interest on 800 rupees at 6 per cent per annum for 2 years?",
+   "options": [
     "96 rupees",
     "102 rupees",
     "176 rupees",
     "90 rupees"
    ],
-   "a": 0,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 800 x 6 x 2 / 100 = 96."
+   "answer": 0,
+   "explanation": "SI = P x R x T / 100 = 800 x 6 x 2 / 100 = 96.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00769",
-   "q": "What is the average of 27, 28, 37, 39, 40?",
-   "o": [
+   "question": "What is the average of 27, 28, 37, 39, 40?",
+   "options": [
     "34.7",
     "36.2",
     "32.2",
     "34.2"
    ],
-   "a": 3,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 171, average = 34.2."
+   "answer": 3,
+   "explanation": "Sum = 171, average = 34.2.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00770",
-   "q": "An article bought for 1000 rupees is sold at a profit of 28 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 1000 rupees is sold at a profit of 28 per cent. What is the selling price?",
+   "options": [
     "1028 rupees",
     "1000 rupees",
     "1280 rupees",
     "1290 rupees"
    ],
-   "a": 2,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1000 x (1 + 28/100) = 1280."
+   "answer": 2,
+   "explanation": "Selling price = 1000 x (1 + 28/100) = 1280.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00771",
-   "q": "A vehicle travels at 29 km per hour for 2 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 29 km per hour for 2 hours. What distance does it cover?",
+   "options": [
     "58 km",
     "87 km",
     "72.5 km",
     "68 km"
    ],
-   "a": 0,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 29 x 2 = 58 km."
+   "answer": 0,
+   "explanation": "Distance = speed x time = 29 x 2 = 58 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00772",
-   "q": "A train 150 metres long runs at 10 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 150 metres long runs at 10 metres per second. How long will it take to cross a pole?",
+   "options": [
     "20 seconds",
     "15 seconds",
     "7.5 seconds",
     "13 seconds"
    ],
-   "a": 1,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 150 / 10 = 15 seconds."
+   "answer": 1,
+   "explanation": "Time = length / speed = 150 / 10 = 15 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00773",
-   "q": "A can finish a piece of work in 19 days and B in 11 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 19 days and B in 11 days. Working together, in how many days will they finish it?",
+   "options": [
     "6.97 days",
     "11 days",
     "7.97 days",
     "13.93 days"
    ],
-   "a": 0,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/19 + 1/11, so time = 6.97 days."
+   "answer": 0,
+   "explanation": "Combined rate = 1/19 + 1/11, so time = 6.97 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00774",
-   "q": "What is the HCF of 27 and 34?",
-   "o": [
+   "question": "What is the HCF of 27 and 34?",
+   "options": [
     "3",
     "2",
     "918",
     "1"
    ],
-   "a": 3,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 27 and 34 is 1."
+   "answer": 3,
+   "explanation": "The highest common factor of 27 and 34 is 1.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00775",
-   "q": "What is the LCM of 23 and 12?",
-   "o": [
+   "question": "What is the LCM of 23 and 12?",
+   "options": [
     "552",
     "138",
     "276",
     "264"
    ],
-   "a": 2,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 23 and 12 is 276."
+   "answer": 2,
+   "explanation": "The least common multiple of 23 and 12 is 276.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00776",
-   "q": "What is the area of a circle of radius 7 cm? (take pi = 22/7)",
-   "o": [
+   "question": "What is the area of a circle of radius 7 cm? (take pi = 22/7)",
+   "options": [
     "49 sq cm",
     "308 sq cm",
     "22 sq cm",
     "154 sq cm"
    ],
-   "a": 3,
-   "t": "Mensuration",
-   "l": 2,
-   "s": "generated",
-   "e": "Area = pi x r^2 = 22/7 x 7 x 7 = 154 square centimetres."
+   "answer": 3,
+   "explanation": "Area = pi x r^2 = 22/7 x 7 x 7 = 154 square centimetres.",
+   "topic": "Mensuration",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00777",
-   "q": "What is the perimeter of a rectangle 23 m long and 17 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 23 m long and 17 m wide?",
+   "options": [
     "40 m",
     "80 m",
     "391 m",
     "92 m"
    ],
-   "a": 1,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (23 + 17) = 80 m."
+   "answer": 1,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (23 + 17) = 80 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00778",
-   "q": "What is the compound interest on 1000 rupees at 5 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 1000 rupees at 5 per cent per annum for 2 years?",
+   "options": [
     "205 rupees",
     "102.5 rupees",
     "97.5 rupees",
     "51.25 rupees"
    ],
-   "a": 1,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 1000 x (1 + 5/100)^2, so CI = 102.5 rupees."
+   "answer": 1,
+   "explanation": "Amount = 1000 x (1 + 5/100)^2, so CI = 102.5 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00779",
-   "q": "A sum becomes 39 when 21 is added to another number 18. What is the value of 21 + 18?",
-   "o": [
+   "question": "A sum becomes 39 when 21 is added to another number 18. What is the value of 21 + 18?",
+   "options": [
     "41",
     "378",
     "38",
     "39"
    ],
-   "a": 3,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "21 + 18 = 39."
+   "answer": 3,
+   "explanation": "21 + 18 = 39.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00780",
-   "q": "If 7 workers can complete a job in 12 days, how long will 10 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 7 workers can complete a job in 12 days, how long will 10 workers take (work at the same rate)?",
+   "options": [
     "6 days",
     "8.4 days",
     "9.4 days",
     "14 days"
    ],
-   "a": 1,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 7 x 12 / 10 = 8.4 days."
+   "answer": 1,
+   "explanation": "Men and time are inversely related: 7 x 12 / 10 = 8.4 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00781",
-   "q": "What is 40 x 85?",
-   "o": [
+   "question": "What is 40 x 85?",
+   "options": [
     "3396",
     "3400",
     "3440",
     "3315"
    ],
-   "a": 1,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "40 x 85 = 3400."
+   "answer": 1,
+   "explanation": "40 x 85 = 3400.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00782",
-   "q": "What is 15 per cent of 360?",
-   "o": [
+   "question": "What is 15 per cent of 360?",
+   "options": [
     "81",
     "54",
     "53",
     "57.6"
    ],
-   "a": 1,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "15 per cent of 360 = 54."
+   "answer": 1,
+   "explanation": "15 per cent of 360 = 54.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00783",
-   "q": "What is the simple interest on 1800 rupees at 11 per cent per annum for 5 years?",
-   "o": [
+   "question": "What is the simple interest on 1800 rupees at 11 per cent per annum for 5 years?",
+   "options": [
     "495 rupees",
     "1001 rupees",
     "990 rupees",
     "979 rupees"
    ],
-   "a": 2,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 1800 x 11 x 5 / 100 = 990."
+   "answer": 2,
+   "explanation": "SI = P x R x T / 100 = 1800 x 11 x 5 / 100 = 990.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00784",
-   "q": "What is the average of 21, 27, 32, 36, 42?",
-   "o": [
+   "question": "What is the average of 21, 27, 32, 36, 42?",
+   "options": [
     "29.6",
     "31.6",
     "30.6",
     "32.6"
    ],
-   "a": 1,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 158, average = 31.6."
+   "answer": 1,
+   "explanation": "Sum = 158, average = 31.6.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00785",
-   "q": "An article bought for 200 rupees is sold at a profit of 39 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 200 rupees is sold at a profit of 39 per cent. What is the selling price?",
+   "options": [
     "278 rupees",
     "122 rupees",
     "288 rupees",
     "239 rupees"
    ],
-   "a": 0,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 200 x (1 + 39/100) = 278."
+   "answer": 0,
+   "explanation": "Selling price = 200 x (1 + 39/100) = 278.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00786",
-   "q": "A vehicle travels at 35 km per hour for 2 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 35 km per hour for 2 hours. What distance does it cover?",
+   "options": [
     "87.5 km",
     "70 km",
     "105 km",
     "35 km"
    ],
-   "a": 1,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 35 x 2 = 70 km."
+   "answer": 1,
+   "explanation": "Distance = speed x time = 35 x 2 = 70 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00787",
-   "q": "A train 300 metres long runs at 20 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 300 metres long runs at 20 metres per second. How long will it take to cross a pole?",
+   "options": [
     "30 seconds",
     "13 seconds",
     "7.5 seconds",
     "15 seconds"
    ],
-   "a": 3,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 300 / 20 = 15 seconds."
+   "answer": 3,
+   "explanation": "Time = length / speed = 300 / 20 = 15 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00788",
-   "q": "A can finish a piece of work in 7 days and B in 13 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 7 days and B in 13 days. Working together, in how many days will they finish it?",
+   "options": [
     "9.1 days",
     "5.55 days",
     "7 days",
     "4.55 days"
    ],
-   "a": 3,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/7 + 1/13, so time = 4.55 days."
+   "answer": 3,
+   "explanation": "Combined rate = 1/7 + 1/13, so time = 4.55 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00789",
-   "q": "What is the HCF of 30 and 15?",
-   "o": [
+   "question": "What is the HCF of 30 and 15?",
+   "options": [
     "15",
     "14",
     "30",
     "16"
    ],
-   "a": 0,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 30 and 15 is 15."
+   "answer": 0,
+   "explanation": "The highest common factor of 30 and 15 is 15.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00790",
-   "q": "What is the LCM of 12 and 14?",
-   "o": [
+   "question": "What is the LCM of 12 and 14?",
+   "options": [
     "96",
     "84",
     "70",
     "168"
    ],
-   "a": 1,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 12 and 14 is 84."
+   "answer": 1,
+   "explanation": "The least common multiple of 12 and 14 is 84.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00791",
-   "q": "What is the perimeter of a rectangle 5 m long and 14 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 5 m long and 14 m wide?",
+   "options": [
     "20 m",
     "19 m",
     "35 m",
     "38 m"
    ],
-   "a": 3,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (5 + 14) = 38 m."
+   "answer": 3,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (5 + 14) = 38 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00792",
-   "q": "What is the compound interest on 8000 rupees at 5 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 8000 rupees at 5 per cent per annum for 2 years?",
+   "options": [
     "820 rupees",
     "815 rupees",
     "1640 rupees",
     "1620 rupees"
    ],
-   "a": 0,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 8000 x (1 + 5/100)^2, so CI = 820 rupees."
+   "answer": 0,
+   "explanation": "Amount = 8000 x (1 + 5/100)^2, so CI = 820 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00793",
-   "q": "The marked price of an item is 200 rupees and a discount of 5 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 200 rupees and a discount of 5 per cent is given. What is the selling price?",
+   "options": [
     "200 rupees",
     "210 rupees",
     "190 rupees",
     "180 rupees"
    ],
-   "a": 2,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 200 x (1 - 5/100) = 190 rupees."
+   "answer": 2,
+   "explanation": "Selling price = 200 x (1 - 5/100) = 190 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00794",
-   "q": "A sum becomes 31 when 24 is added to another number 7. What is the value of 24 + 7?",
-   "o": [
+   "question": "A sum becomes 31 when 24 is added to another number 7. What is the value of 24 + 7?",
+   "options": [
     "31",
     "30",
     "33",
     "32"
    ],
-   "a": 0,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "24 + 7 = 31."
+   "answer": 0,
+   "explanation": "24 + 7 = 31.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00795",
-   "q": "If 16 workers can complete a job in 12 days, how long will 23 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 16 workers can complete a job in 12 days, how long will 23 workers take (work at the same rate)?",
+   "options": [
     "12 days",
     "9.35 days",
     "6 days",
     "8.35 days"
    ],
-   "a": 3,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 16 x 12 / 23 = 8.35 days."
+   "answer": 3,
+   "explanation": "Men and time are inversely related: 16 x 12 / 23 = 8.35 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00796",
-   "q": "What is 29 x 51?",
-   "o": [
+   "question": "What is 29 x 51?",
+   "options": [
     "1475",
     "1479",
     "1530",
     "1508"
    ],
-   "a": 1,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "29 x 51 = 1479."
+   "answer": 1,
+   "explanation": "29 x 51 = 1479.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00797",
-   "q": "What is 60 per cent of 280?",
-   "o": [
+   "question": "What is 60 per cent of 280?",
+   "options": [
     "252",
     "167",
     "170.8",
     "168"
    ],
-   "a": 3,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "60 per cent of 280 = 168."
+   "answer": 3,
+   "explanation": "60 per cent of 280 = 168.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00798",
-   "q": "What is the simple interest on 1800 rupees at 3 per cent per annum for 3 years?",
-   "o": [
+   "question": "What is the simple interest on 1800 rupees at 3 per cent per annum for 3 years?",
+   "options": [
     "159 rupees",
     "194.4 rupees",
     "162 rupees",
     "81 rupees"
    ],
-   "a": 2,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 1800 x 3 x 3 / 100 = 162."
+   "answer": 2,
+   "explanation": "SI = P x R x T / 100 = 1800 x 3 x 3 / 100 = 162.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00799",
-   "q": "What is the average of 27, 33, 35, 36, 39?",
-   "o": [
+   "question": "What is the average of 27, 33, 35, 36, 39?",
+   "options": [
     "33",
     "36",
     "35",
     "34"
    ],
-   "a": 3,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 170, average = 34."
+   "answer": 3,
+   "explanation": "Sum = 170, average = 34.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00800",
-   "q": "A sum of 208 rupees is divided between two people in the ratio 3:5. What is the larger share?",
-   "o": [
+   "question": "A sum of 208 rupees is divided between two people in the ratio 3:5. What is the larger share?",
+   "options": [
     "78 rupees",
     "104 rupees",
     "130 rupees",
     "52 rupees"
    ],
-   "a": 2,
-   "t": "Ratio",
-   "l": 2,
-   "s": "generated",
-   "e": "One part is 26 rupees, so the shares are 78 and 130."
+   "answer": 2,
+   "explanation": "One part is 26 rupees, so the shares are 78 and 130.",
+   "topic": "Ratio",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00801",
-   "q": "An article bought for 800 rupees is sold at a profit of 13 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 800 rupees is sold at a profit of 13 per cent. What is the selling price?",
+   "options": [
     "696 rupees",
     "899 rupees",
     "904 rupees",
     "800 rupees"
    ],
-   "a": 2,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 800 x (1 + 13/100) = 904."
+   "answer": 2,
+   "explanation": "Selling price = 800 x (1 + 13/100) = 904.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00802",
-   "q": "A vehicle travels at 35 km per hour for 2 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 35 km per hour for 2 hours. What distance does it cover?",
+   "options": [
     "105 km",
     "80 km",
     "70 km",
     "35 km"
    ],
-   "a": 2,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 35 x 2 = 70 km."
+   "answer": 2,
+   "explanation": "Distance = speed x time = 35 x 2 = 70 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00803",
-   "q": "A train 150 metres long runs at 24 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 150 metres long runs at 24 metres per second. How long will it take to cross a pole?",
+   "options": [
     "6.25 seconds",
     "3.13 seconds",
     "11.25 seconds",
     "16.25 seconds"
    ],
-   "a": 0,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 150 / 24 = 6.25 seconds."
+   "answer": 0,
+   "explanation": "Time = length / speed = 150 / 24 = 6.25 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00804",
-   "q": "A can finish a piece of work in 15 days and B in 23 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 15 days and B in 23 days. Working together, in how many days will they finish it?",
+   "options": [
     "9.08 days",
     "19 days",
     "38 days",
     "10.08 days"
    ],
-   "a": 0,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/15 + 1/23, so time = 9.08 days."
+   "answer": 0,
+   "explanation": "Combined rate = 1/15 + 1/23, so time = 9.08 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00805",
-   "q": "What is the HCF of 23 and 28?",
-   "o": [
+   "question": "What is the HCF of 23 and 28?",
+   "options": [
     "2",
     "3",
     "1",
     "644"
    ],
-   "a": 2,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 23 and 28 is 1."
+   "answer": 2,
+   "explanation": "The highest common factor of 23 and 28 is 1.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00806",
-   "q": "What is the LCM of 7 and 5?",
-   "o": [
+   "question": "What is the LCM of 7 and 5?",
+   "options": [
     "42",
     "70",
     "30",
     "35"
    ],
-   "a": 3,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 7 and 5 is 35."
+   "answer": 3,
+   "explanation": "The least common multiple of 7 and 5 is 35.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00807",
-   "q": "What is the compound interest on 3000 rupees at 12 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 3000 rupees at 12 per cent per annum for 2 years?",
+   "options": [
     "1526.4 rupees",
     "763.2 rupees",
     "751.2 rupees",
     "1063.2 rupees"
    ],
-   "a": 1,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 3000 x (1 + 12/100)^2, so CI = 763.2 rupees."
+   "answer": 1,
+   "explanation": "Amount = 3000 x (1 + 12/100)^2, so CI = 763.2 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00808",
-   "q": "The marked price of an item is 1400 rupees and a discount of 15 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 1400 rupees and a discount of 15 per cent is given. What is the selling price?",
+   "options": [
     "1385 rupees",
     "1200 rupees",
     "1190 rupees",
     "1400 rupees"
    ],
-   "a": 2,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1400 x (1 - 15/100) = 1190 rupees."
+   "answer": 2,
+   "explanation": "Selling price = 1400 x (1 - 15/100) = 1190 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00809",
-   "q": "A sum becomes 52 when 29 is added to another number 23. What is the value of 29 + 23?",
-   "o": [
+   "question": "A sum becomes 52 when 29 is added to another number 23. What is the value of 29 + 23?",
+   "options": [
     "53",
     "51",
     "52",
     "54"
    ],
-   "a": 2,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "29 + 23 = 52."
+   "answer": 2,
+   "explanation": "29 + 23 = 52.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00810",
-   "q": "What is 9 cubed?",
-   "o": [
+   "question": "What is 9 cubed?",
+   "options": [
     "738",
     "1458",
     "81",
     "729"
    ],
-   "a": 3,
-   "t": "Squares and Cubes",
-   "l": 1,
-   "s": "generated",
-   "e": "9^3 = 729."
+   "answer": 3,
+   "explanation": "9^3 = 729.",
+   "topic": "Squares and Cubes",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00811",
-   "q": "If 17 workers can complete a job in 13 days, how long will 23 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 17 workers can complete a job in 13 days, how long will 23 workers take (work at the same rate)?",
+   "options": [
     "13 days",
     "9.61 days",
     "15 days",
     "10.61 days"
    ],
-   "a": 1,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 17 x 13 / 23 = 9.61 days."
+   "answer": 1,
+   "explanation": "Men and time are inversely related: 17 x 13 / 23 = 9.61 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00812",
-   "q": "What is 60 x 46?",
-   "o": [
+   "question": "What is 60 x 46?",
+   "options": [
     "2760",
     "2806",
     "2756",
     "2714"
    ],
-   "a": 0,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "60 x 46 = 2760."
+   "answer": 0,
+   "explanation": "60 x 46 = 2760.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00813",
-   "q": "What is 10 per cent of 640?",
-   "o": [
+   "question": "What is 10 per cent of 640?",
+   "options": [
     "70.4",
     "64",
     "96",
     "63"
    ],
-   "a": 1,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "10 per cent of 640 = 64."
+   "answer": 1,
+   "explanation": "10 per cent of 640 = 64.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00814",
-   "q": "What is the simple interest on 1000 rupees at 5 per cent per annum for 4 years?",
-   "o": [
+   "question": "What is the simple interest on 1000 rupees at 5 per cent per annum for 4 years?",
+   "options": [
     "240 rupees",
     "195 rupees",
     "200 rupees",
     "205 rupees"
    ],
-   "a": 2,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 1000 x 5 x 4 / 100 = 200."
+   "answer": 2,
+   "explanation": "SI = P x R x T / 100 = 1000 x 5 x 4 / 100 = 200.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00815",
-   "q": "What is the average of 19, 28, 31, 33, 42?",
-   "o": [
+   "question": "What is the average of 19, 28, 31, 33, 42?",
+   "options": [
     "31.1",
     "29.6",
     "30.6",
     "28.6"
    ],
-   "a": 2,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 153, average = 30.6."
+   "answer": 2,
+   "explanation": "Sum = 153, average = 30.6.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00816",
-   "q": "An article bought for 1200 rupees is sold at a profit of 23 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 1200 rupees is sold at a profit of 23 per cent. What is the selling price?",
+   "options": [
     "1471 rupees",
     "1223 rupees",
     "1476 rupees",
     "924 rupees"
    ],
-   "a": 2,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1200 x (1 + 23/100) = 1476."
+   "answer": 2,
+   "explanation": "Selling price = 1200 x (1 + 23/100) = 1476.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00817",
-   "q": "A vehicle travels at 55 km per hour for 4 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 55 km per hour for 4 hours. What distance does it cover?",
+   "options": [
     "110 km",
     "220 km",
     "165 km",
     "230 km"
    ],
-   "a": 1,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 55 x 4 = 220 km."
+   "answer": 1,
+   "explanation": "Distance = speed x time = 55 x 4 = 220 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00818",
-   "q": "A train 300 metres long runs at 17 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 300 metres long runs at 17 metres per second. How long will it take to cross a pole?",
+   "options": [
     "35.29 seconds",
     "15.65 seconds",
     "8.82 seconds",
     "17.65 seconds"
    ],
-   "a": 3,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 300 / 17 = 17.65 seconds."
+   "answer": 3,
+   "explanation": "Time = length / speed = 300 / 17 = 17.65 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00819",
-   "q": "A can finish a piece of work in 21 days and B in 7 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 21 days and B in 7 days. Working together, in how many days will they finish it?",
+   "options": [
     "5.25 days",
     "10.5 days",
     "14 days",
     "6.25 days"
    ],
-   "a": 0,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/21 + 1/7, so time = 5.25 days."
+   "answer": 0,
+   "explanation": "Combined rate = 1/21 + 1/7, so time = 5.25 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00820",
-   "q": "What is the HCF of 32 and 32?",
-   "o": [
+   "question": "What is the HCF of 32 and 32?",
+   "options": [
     "33",
     "31",
     "96",
     "32"
    ],
-   "a": 3,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 32 and 32 is 32."
+   "answer": 3,
+   "explanation": "The highest common factor of 32 and 32 is 32.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00821",
-   "q": "What is the LCM of 13 and 10?",
-   "o": [
+   "question": "What is the LCM of 13 and 10?",
+   "options": [
     "143",
     "65",
     "120",
     "130"
    ],
-   "a": 3,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 13 and 10 is 130."
+   "answer": 3,
+   "explanation": "The least common multiple of 13 and 10 is 130.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00822",
-   "q": "What is the area of a circle of radius 14 cm? (take pi = 22/7)",
-   "o": [
+   "question": "What is the area of a circle of radius 14 cm? (take pi = 22/7)",
+   "options": [
     "88 sq cm",
     "44 sq cm",
     "616 sq cm",
     "196 sq cm"
    ],
-   "a": 2,
-   "t": "Mensuration",
-   "l": 2,
-   "s": "generated",
-   "e": "Area = pi x r^2 = 22/7 x 14 x 14 = 616 square centimetres."
+   "answer": 2,
+   "explanation": "Area = pi x r^2 = 22/7 x 14 x 14 = 616 square centimetres.",
+   "topic": "Mensuration",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00823",
-   "q": "What is the perimeter of a rectangle 17 m long and 23 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 17 m long and 23 m wide?",
+   "options": [
     "57 m",
     "40 m",
     "391 m",
     "80 m"
    ],
-   "a": 3,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (17 + 23) = 80 m."
+   "answer": 3,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (17 + 23) = 80 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00824",
-   "q": "What is the compound interest on 9000 rupees at 13 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 9000 rupees at 13 per cent per annum for 2 years?",
+   "options": [
     "1246.05 rupees",
     "3392.1 rupees",
     "4984.2 rupees",
     "2492.1 rupees"
    ],
-   "a": 3,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 9000 x (1 + 13/100)^2, so CI = 2492.1 rupees."
+   "answer": 3,
+   "explanation": "Amount = 9000 x (1 + 13/100)^2, so CI = 2492.1 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00825",
-   "q": "The marked price of an item is 400 rupees and a discount of 15 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 400 rupees and a discount of 15 per cent is given. What is the selling price?",
+   "options": [
     "460 rupees",
     "350 rupees",
     "340 rupees",
     "385 rupees"
    ],
-   "a": 2,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 400 x (1 - 15/100) = 340 rupees."
+   "answer": 2,
+   "explanation": "Selling price = 400 x (1 - 15/100) = 340 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00826",
-   "q": "A sum becomes 53 when 28 is added to another number 25. What is the value of 28 + 25?",
-   "o": [
+   "question": "A sum becomes 53 when 28 is added to another number 25. What is the value of 28 + 25?",
+   "options": [
     "54",
     "3",
     "52",
     "53"
    ],
-   "a": 3,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "28 + 25 = 53."
+   "answer": 3,
+   "explanation": "28 + 25 = 53.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00827",
-   "q": "What is 8 cubed?",
-   "o": [
+   "question": "What is 8 cubed?",
+   "options": [
     "64",
     "504",
     "512",
     "729"
    ],
-   "a": 2,
-   "t": "Squares and Cubes",
-   "l": 1,
-   "s": "generated",
-   "e": "8^3 = 512."
+   "answer": 2,
+   "explanation": "8^3 = 512.",
+   "topic": "Squares and Cubes",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00828",
-   "q": "If 5 workers can complete a job in 9 days, how long will 15 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 5 workers can complete a job in 9 days, how long will 15 workers take (work at the same rate)?",
+   "options": [
     "3 days",
     "4.5 days",
     "4 days",
     "9 days"
    ],
-   "a": 0,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 5 x 9 / 15 = 3 days."
+   "answer": 0,
+   "explanation": "Men and time are inversely related: 5 x 9 / 15 = 3 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00829",
-   "q": "What is 34 x 86?",
-   "o": [
+   "question": "What is 34 x 86?",
+   "options": [
     "2920",
     "2838",
     "2958",
     "2924"
    ],
-   "a": 3,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "34 x 86 = 2924."
+   "answer": 3,
+   "explanation": "34 x 86 = 2924.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00830",
-   "q": "What is the simple interest on 100 rupees at 13 per cent per annum for 6 years?",
-   "o": [
+   "question": "What is the simple interest on 100 rupees at 13 per cent per annum for 6 years?",
+   "options": [
     "88 rupees",
     "78 rupees",
     "93.6 rupees",
     "65 rupees"
    ],
-   "a": 1,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 100 x 13 x 6 / 100 = 78."
+   "answer": 1,
+   "explanation": "SI = P x R x T / 100 = 100 x 13 x 6 / 100 = 78.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00831",
-   "q": "What is the average of 31, 33, 39, 42, 44?",
-   "o": [
+   "question": "What is the average of 31, 33, 39, 42, 44?",
+   "options": [
     "37.8",
     "36.8",
     "38.8",
     "39.8"
    ],
-   "a": 0,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 189, average = 37.8."
+   "answer": 0,
+   "explanation": "Sum = 189, average = 37.8.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00832",
-   "q": "An article bought for 1000 rupees is sold at a profit of 10 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 1000 rupees is sold at a profit of 10 per cent. What is the selling price?",
+   "options": [
     "1095 rupees",
     "1000 rupees",
     "1100 rupees",
     "1110 rupees"
    ],
-   "a": 2,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1000 x (1 + 10/100) = 1100."
+   "answer": 2,
+   "explanation": "Selling price = 1000 x (1 + 10/100) = 1100.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00833",
-   "q": "A vehicle travels at 41 km per hour for 5 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 41 km per hour for 5 hours. What distance does it cover?",
+   "options": [
     "246 km",
     "215 km",
     "205 km",
     "102.5 km"
    ],
-   "a": 2,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 41 x 5 = 205 km."
+   "answer": 2,
+   "explanation": "Distance = speed x time = 41 x 5 = 205 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00834",
-   "q": "A train 200 metres long runs at 28 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 200 metres long runs at 28 metres per second. How long will it take to cross a pole?",
+   "options": [
     "5.14 seconds",
     "17.14 seconds",
     "14.29 seconds",
     "7.14 seconds"
    ],
-   "a": 3,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 200 / 28 = 7.14 seconds."
+   "answer": 3,
+   "explanation": "Time = length / speed = 200 / 28 = 7.14 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00835",
-   "q": "A can finish a piece of work in 16 days and B in 13 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 16 days and B in 13 days. Working together, in how many days will they finish it?",
+   "options": [
     "13 days",
     "7.17 days",
     "14.34 days",
     "29 days"
    ],
-   "a": 1,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/16 + 1/13, so time = 7.17 days."
+   "answer": 1,
+   "explanation": "Combined rate = 1/16 + 1/13, so time = 7.17 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00836",
-   "q": "What is the HCF of 33 and 12?",
-   "o": [
+   "question": "What is the HCF of 33 and 12?",
+   "options": [
     "4",
     "9",
     "132",
     "3"
    ],
-   "a": 3,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 33 and 12 is 3."
+   "answer": 3,
+   "explanation": "The highest common factor of 33 and 12 is 3.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00837",
-   "q": "What is the LCM of 11 and 19?",
-   "o": [
+   "question": "What is the LCM of 11 and 19?",
+   "options": [
     "104.5",
     "190",
     "418",
     "209"
    ],
-   "a": 3,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 11 and 19 is 209."
+   "answer": 3,
+   "explanation": "The least common multiple of 11 and 19 is 209.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00838",
-   "q": "What is the perimeter of a rectangle 22 m long and 20 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 22 m long and 20 m wide?",
+   "options": [
     "84 m",
     "42 m",
     "440 m",
     "220 m"
    ],
-   "a": 0,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (22 + 20) = 84 m."
+   "answer": 0,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (22 + 20) = 84 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00839",
-   "q": "What is the compound interest on 9000 rupees at 10 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 9000 rupees at 10 per cent per annum for 2 years?",
+   "options": [
     "1880 rupees",
     "3780 rupees",
     "1890 rupees",
     "1800 rupees"
    ],
-   "a": 2,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 9000 x (1 + 10/100)^2, so CI = 1890 rupees."
+   "answer": 2,
+   "explanation": "Amount = 9000 x (1 + 10/100)^2, so CI = 1890 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00840",
-   "q": "The marked price of an item is 800 rupees and a discount of 10 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 800 rupees and a discount of 10 per cent is given. What is the selling price?",
+   "options": [
     "800 rupees",
     "880 rupees",
     "720 rupees",
     "710 rupees"
    ],
-   "a": 2,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 800 x (1 - 10/100) = 720 rupees."
+   "answer": 2,
+   "explanation": "Selling price = 800 x (1 - 10/100) = 720 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00841",
-   "q": "A sum becomes 19 when 9 is added to another number 10. What is the value of 9 + 10?",
-   "o": [
+   "question": "A sum becomes 19 when 9 is added to another number 10. What is the value of 9 + 10?",
+   "options": [
     "-1",
     "20",
     "18",
     "19"
    ],
-   "a": 3,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "9 + 10 = 19."
+   "answer": 3,
+   "explanation": "9 + 10 = 19.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00842",
-   "q": "If 19 workers can complete a job in 13 days, how long will 21 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 19 workers can complete a job in 13 days, how long will 21 workers take (work at the same rate)?",
+   "options": [
     "15 days",
     "11.76 days",
     "12.76 days",
     "10.29 days"
    ],
-   "a": 1,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 19 x 13 / 21 = 11.76 days."
+   "answer": 1,
+   "explanation": "Men and time are inversely related: 19 x 13 / 21 = 11.76 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00843",
-   "q": "What is 54 x 18?",
-   "o": [
+   "question": "What is 54 x 18?",
+   "options": [
     "954",
     "968",
     "990",
     "972"
    ],
-   "a": 3,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "54 x 18 = 972."
+   "answer": 3,
+   "explanation": "54 x 18 = 972.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00844",
-   "q": "What is 10 per cent of 100?",
-   "o": [
+   "question": "What is 10 per cent of 100?",
+   "options": [
     "5",
     "9",
     "10",
     "20"
    ],
-   "a": 2,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "10 per cent of 100 = 10."
+   "answer": 2,
+   "explanation": "10 per cent of 100 = 10.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00845",
-   "q": "What is the simple interest on 300 rupees at 12 per cent per annum for 6 years?",
-   "o": [
+   "question": "What is the simple interest on 300 rupees at 12 per cent per annum for 6 years?",
+   "options": [
     "204 rupees",
     "216 rupees",
     "259.2 rupees",
     "246 rupees"
    ],
-   "a": 1,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 300 x 12 x 6 / 100 = 216."
+   "answer": 1,
+   "explanation": "SI = P x R x T / 100 = 300 x 12 x 6 / 100 = 216.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00846",
-   "q": "What is the average of 44, 50, 53, 59, 61?",
-   "o": [
+   "question": "What is the average of 44, 50, 53, 59, 61?",
+   "options": [
     "54.4",
     "53.4",
     "52.4",
     "55.4"
    ],
-   "a": 1,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 267, average = 53.4."
+   "answer": 1,
+   "explanation": "Sum = 267, average = 53.4.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00847",
-   "q": "An article bought for 1200 rupees is sold at a profit of 7 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 1200 rupees is sold at a profit of 7 per cent. What is the selling price?",
+   "options": [
     "1284 rupees",
     "1207 rupees",
     "1279 rupees",
     "1116 rupees"
    ],
-   "a": 0,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1200 x (1 + 7/100) = 1284."
+   "answer": 0,
+   "explanation": "Selling price = 1200 x (1 + 7/100) = 1284.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00848",
-   "q": "A vehicle travels at 48 km per hour for 6 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 48 km per hour for 6 hours. What distance does it cover?",
+   "options": [
     "144 km",
     "288 km",
     "336 km",
     "360 km"
    ],
-   "a": 1,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 48 x 6 = 288 km."
+   "answer": 1,
+   "explanation": "Distance = speed x time = 48 x 6 = 288 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00849",
-   "q": "A train 200 metres long runs at 29 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 200 metres long runs at 29 metres per second. How long will it take to cross a pole?",
+   "options": [
     "6.9 seconds",
     "11.9 seconds",
     "13.79 seconds",
     "16.9 seconds"
    ],
-   "a": 0,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 200 / 29 = 6.9 seconds."
+   "answer": 0,
+   "explanation": "Time = length / speed = 200 / 29 = 6.9 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00850",
-   "q": "A can finish a piece of work in 19 days and B in 7 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 19 days and B in 7 days. Working together, in how many days will they finish it?",
+   "options": [
     "5.12 days",
     "10.23 days",
     "7 days",
     "6.12 days"
    ],
-   "a": 0,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/19 + 1/7, so time = 5.12 days."
+   "answer": 0,
+   "explanation": "Combined rate = 1/19 + 1/7, so time = 5.12 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00851",
-   "q": "What is the HCF of 8 and 27?",
-   "o": [
+   "question": "What is the HCF of 8 and 27?",
+   "options": [
     "2",
     "0",
     "3",
     "1"
    ],
-   "a": 3,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 8 and 27 is 1."
+   "answer": 3,
+   "explanation": "The highest common factor of 8 and 27 is 1.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00852",
-   "q": "What is the LCM of 10 and 22?",
-   "o": [
+   "question": "What is the LCM of 10 and 22?",
+   "options": [
     "120",
     "220",
     "88",
     "110"
    ],
-   "a": 3,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 10 and 22 is 110."
+   "answer": 3,
+   "explanation": "The least common multiple of 10 and 22 is 110.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00853",
-   "q": "What is the perimeter of a rectangle 22 m long and 23 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 22 m long and 23 m wide?",
+   "options": [
     "90 m",
     "506 m",
     "253 m",
     "88 m"
    ],
-   "a": 0,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (22 + 23) = 90 m."
+   "answer": 0,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (22 + 23) = 90 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00854",
-   "q": "What is the compound interest on 10000 rupees at 8 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 10000 rupees at 8 per cent per annum for 2 years?",
+   "options": [
     "1656 rupees",
     "1600 rupees",
     "1664 rupees",
     "832 rupees"
    ],
-   "a": 2,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 10000 x (1 + 8/100)^2, so CI = 1664 rupees."
+   "answer": 2,
+   "explanation": "Amount = 10000 x (1 + 8/100)^2, so CI = 1664 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00855",
-   "q": "The marked price of an item is 1600 rupees and a discount of 20 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 1600 rupees and a discount of 20 per cent is given. What is the selling price?",
+   "options": [
     "1600 rupees",
     "1280 rupees",
     "1270 rupees",
     "1290 rupees"
    ],
-   "a": 1,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1600 x (1 - 20/100) = 1280 rupees."
+   "answer": 1,
+   "explanation": "Selling price = 1600 x (1 - 20/100) = 1280 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00856",
-   "q": "A sum becomes 24 when 18 is added to another number 6. What is the value of 18 + 6?",
-   "o": [
+   "question": "A sum becomes 24 when 18 is added to another number 6. What is the value of 18 + 6?",
+   "options": [
     "25",
     "108",
     "24",
     "12"
    ],
-   "a": 2,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "18 + 6 = 24."
+   "answer": 2,
+   "explanation": "18 + 6 = 24.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00857",
-   "q": "If 24 workers can complete a job in 18 days, how long will 21 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 24 workers can complete a job in 18 days, how long will 21 workers take (work at the same rate)?",
+   "options": [
     "9 days",
     "21.57 days",
     "18 days",
     "20.57 days"
    ],
-   "a": 3,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 24 x 18 / 21 = 20.57 days."
+   "answer": 3,
+   "explanation": "Men and time are inversely related: 24 x 18 / 21 = 20.57 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00858",
-   "q": "What is 44 x 99?",
-   "o": [
+   "question": "What is 44 x 99?",
+   "options": [
     "4257",
     "4356",
     "4400",
     "4455"
    ],
-   "a": 1,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "44 x 99 = 4356."
+   "answer": 1,
+   "explanation": "44 x 99 = 4356.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00859",
-   "q": "What is 60 per cent of 640?",
-   "o": [
+   "question": "What is 60 per cent of 640?",
+   "options": [
     "768",
     "390.4",
     "384",
     "576"
    ],
-   "a": 2,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "60 per cent of 640 = 384."
+   "answer": 2,
+   "explanation": "60 per cent of 640 = 384.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00860",
-   "q": "What is the simple interest on 900 rupees at 12 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the simple interest on 900 rupees at 12 per cent per annum for 2 years?",
+   "options": [
     "216 rupees",
     "228 rupees",
     "259.2 rupees",
     "204 rupees"
    ],
-   "a": 0,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 900 x 12 x 2 / 100 = 216."
+   "answer": 0,
+   "explanation": "SI = P x R x T / 100 = 900 x 12 x 2 / 100 = 216.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00861",
-   "q": "What is the average of 42, 44, 46, 47, 53?",
-   "o": [
+   "question": "What is the average of 42, 44, 46, 47, 53?",
+   "options": [
     "44.4",
     "45.4",
     "48.4",
     "46.4"
    ],
-   "a": 3,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 232, average = 46.4."
+   "answer": 3,
+   "explanation": "Sum = 232, average = 46.4.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00862",
-   "q": "An article bought for 400 rupees is sold at a profit of 8 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 400 rupees is sold at a profit of 8 per cent. What is the selling price?",
+   "options": [
     "427 rupees",
     "442 rupees",
     "432 rupees",
     "408 rupees"
    ],
-   "a": 2,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 400 x (1 + 8/100) = 432."
+   "answer": 2,
+   "explanation": "Selling price = 400 x (1 + 8/100) = 432.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00863",
-   "q": "A vehicle travels at 46 km per hour for 4 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 46 km per hour for 4 hours. What distance does it cover?",
+   "options": [
     "230 km",
     "138 km",
     "184 km",
     "194 km"
    ],
-   "a": 2,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 46 x 4 = 184 km."
+   "answer": 2,
+   "explanation": "Distance = speed x time = 46 x 4 = 184 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00864",
-   "q": "A train 200 metres long runs at 17 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 200 metres long runs at 17 metres per second. How long will it take to cross a pole?",
+   "options": [
     "5.88 seconds",
     "11.76 seconds",
     "9.76 seconds",
     "23.53 seconds"
    ],
-   "a": 1,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 200 / 17 = 11.76 seconds."
+   "answer": 1,
+   "explanation": "Time = length / speed = 200 / 17 = 11.76 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00865",
-   "q": "A can finish a piece of work in 10 days and B in 9 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 10 days and B in 9 days. Working together, in how many days will they finish it?",
+   "options": [
     "19 days",
     "4.74 days",
     "9.5 days",
     "9 days"
    ],
-   "a": 1,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/10 + 1/9, so time = 4.74 days."
+   "answer": 1,
+   "explanation": "Combined rate = 1/10 + 1/9, so time = 4.74 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00866",
-   "q": "What is the HCF of 32 and 34?",
-   "o": [
+   "question": "What is the HCF of 32 and 34?",
+   "options": [
     "2",
     "1",
     "3",
     "544"
    ],
-   "a": 0,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 32 and 34 is 2."
+   "answer": 0,
+   "explanation": "The highest common factor of 32 and 34 is 2.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00867",
-   "q": "What is the LCM of 22 and 17?",
-   "o": [
+   "question": "What is the LCM of 22 and 17?",
+   "options": [
     "396",
     "748",
     "374",
     "357"
    ],
-   "a": 2,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 22 and 17 is 374."
+   "answer": 2,
+   "explanation": "The least common multiple of 22 and 17 is 374.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00868",
-   "q": "What is the area of a circle of radius 20 cm? (take pi = 22/7)",
-   "o": [
+   "question": "What is the area of a circle of radius 20 cm? (take pi = 22/7)",
+   "options": [
     "1257.14 sq cm",
     "400 sq cm",
     "125.71 sq cm",
     "2514.29 sq cm"
    ],
-   "a": 0,
-   "t": "Mensuration",
-   "l": 2,
-   "s": "generated",
-   "e": "Area = pi x r^2 = 22/7 x 20 x 20 = 1257.14 square centimetres."
+   "answer": 0,
+   "explanation": "Area = pi x r^2 = 22/7 x 20 x 20 = 1257.14 square centimetres.",
+   "topic": "Mensuration",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00869",
-   "q": "What is the compound interest on 8000 rupees at 14 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 8000 rupees at 14 per cent per annum for 2 years?",
+   "options": [
     "4793.6 rupees",
     "2396.8 rupees",
     "3196.8 rupees",
     "2382.8 rupees"
    ],
-   "a": 1,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 8000 x (1 + 14/100)^2, so CI = 2396.8 rupees."
+   "answer": 1,
+   "explanation": "Amount = 8000 x (1 + 14/100)^2, so CI = 2396.8 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00870",
-   "q": "The marked price of an item is 800 rupees and a discount of 20 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 800 rupees and a discount of 20 per cent is given. What is the selling price?",
+   "options": [
     "640 rupees",
     "800 rupees",
     "780 rupees",
     "650 rupees"
    ],
-   "a": 0,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 800 x (1 - 20/100) = 640 rupees."
+   "answer": 0,
+   "explanation": "Selling price = 800 x (1 - 20/100) = 640 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00871",
-   "q": "A sum becomes 45 when 16 is added to another number 29. What is the value of 16 + 29?",
-   "o": [
+   "question": "A sum becomes 45 when 16 is added to another number 29. What is the value of 16 + 29?",
+   "options": [
     "45",
     "46",
     "44",
     "-13"
    ],
-   "a": 0,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "16 + 29 = 45."
+   "answer": 0,
+   "explanation": "16 + 29 = 45.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00872",
-   "q": "If 6 workers can complete a job in 4 days, how long will 13 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 6 workers can complete a job in 4 days, how long will 13 workers take (work at the same rate)?",
+   "options": [
     "1.5 days",
     "2.85 days",
     "1.85 days",
     "6 days"
    ],
-   "a": 2,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 6 x 4 / 13 = 1.85 days."
+   "answer": 2,
+   "explanation": "Men and time are inversely related: 6 x 4 / 13 = 1.85 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00873",
-   "q": "What is 71 x 46?",
-   "o": [
+   "question": "What is 71 x 46?",
+   "options": [
     "3312",
     "3220",
     "3337",
     "3266"
    ],
-   "a": 3,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "71 x 46 = 3266."
+   "answer": 3,
+   "explanation": "71 x 46 = 3266.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00874",
-   "q": "What is 75 per cent of 480?",
-   "o": [
+   "question": "What is 75 per cent of 480?",
+   "options": [
     "540",
     "359",
     "360",
     "364.8"
    ],
-   "a": 2,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "75 per cent of 480 = 360."
+   "answer": 2,
+   "explanation": "75 per cent of 480 = 360.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00875",
-   "q": "What is the simple interest on 400 rupees at 11 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the simple interest on 400 rupees at 11 per cent per annum for 2 years?",
+   "options": [
     "105.6 rupees",
     "44 rupees",
     "99 rupees",
     "88 rupees"
    ],
-   "a": 3,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 400 x 11 x 2 / 100 = 88."
+   "answer": 3,
+   "explanation": "SI = P x R x T / 100 = 400 x 11 x 2 / 100 = 88.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00876",
-   "q": "What is the average of 22, 28, 34, 37, 41?",
-   "o": [
+   "question": "What is the average of 22, 28, 34, 37, 41?",
+   "options": [
     "33.4",
     "30.4",
     "32.4",
     "34.4"
    ],
-   "a": 2,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 162, average = 32.4."
+   "answer": 2,
+   "explanation": "Sum = 162, average = 32.4.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00877",
-   "q": "A sum of 172 rupees is divided between two people in the ratio 3:1. What is the larger share?",
-   "o": [
+   "question": "A sum of 172 rupees is divided between two people in the ratio 3:1. What is the larger share?",
+   "options": [
     "43 rupees",
     "86 rupees",
     "129 rupees",
     "172 rupees"
    ],
-   "a": 2,
-   "t": "Ratio",
-   "l": 2,
-   "s": "generated",
-   "e": "One part is 43 rupees, so the shares are 129 and 43."
+   "answer": 2,
+   "explanation": "One part is 43 rupees, so the shares are 129 and 43.",
+   "topic": "Ratio",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00878",
-   "q": "An article bought for 1200 rupees is sold at a profit of 37 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 1200 rupees is sold at a profit of 37 per cent. What is the selling price?",
+   "options": [
     "1644 rupees",
     "1237 rupees",
     "1654 rupees",
     "756 rupees"
    ],
-   "a": 0,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1200 x (1 + 37/100) = 1644."
+   "answer": 0,
+   "explanation": "Selling price = 1200 x (1 + 37/100) = 1644.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00879",
-   "q": "A vehicle travels at 57 km per hour for 2 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 57 km per hour for 2 hours. What distance does it cover?",
+   "options": [
     "114 km",
     "171 km",
     "57 km",
     "142.5 km"
    ],
-   "a": 0,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 57 x 2 = 114 km."
+   "answer": 0,
+   "explanation": "Distance = speed x time = 57 x 2 = 114 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00880",
-   "q": "A train 150 metres long runs at 18 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 150 metres long runs at 18 metres per second. How long will it take to cross a pole?",
+   "options": [
     "13.33 seconds",
     "16.67 seconds",
     "4.17 seconds",
     "8.33 seconds"
    ],
-   "a": 3,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 150 / 18 = 8.33 seconds."
+   "answer": 3,
+   "explanation": "Time = length / speed = 150 / 18 = 8.33 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00881",
-   "q": "A can finish a piece of work in 9 days and B in 15 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 9 days and B in 15 days. Working together, in how many days will they finish it?",
+   "options": [
     "24 days",
     "12 days",
     "5.63 days",
     "9 days"
    ],
-   "a": 2,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/9 + 1/15, so time = 5.63 days."
+   "answer": 2,
+   "explanation": "Combined rate = 1/9 + 1/15, so time = 5.63 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00882",
-   "q": "What is the LCM of 6 and 18?",
-   "o": [
+   "question": "What is the LCM of 6 and 18?",
+   "options": [
     "108",
     "18",
     "36",
     "24"
    ],
-   "a": 1,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 6 and 18 is 18."
+   "answer": 1,
+   "explanation": "The least common multiple of 6 and 18 is 18.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00883",
-   "q": "What is the area of a circle of radius 13 cm? (take pi = 22/7)",
-   "o": [
+   "question": "What is the area of a circle of radius 13 cm? (take pi = 22/7)",
+   "options": [
     "531.14 sq cm",
     "1062.29 sq cm",
     "169 sq cm",
     "40.86 sq cm"
    ],
-   "a": 0,
-   "t": "Mensuration",
-   "l": 2,
-   "s": "generated",
-   "e": "Area = pi x r^2 = 22/7 x 13 x 13 = 531.14 square centimetres."
+   "answer": 0,
+   "explanation": "Area = pi x r^2 = 22/7 x 13 x 13 = 531.14 square centimetres.",
+   "topic": "Mensuration",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00884",
-   "q": "What is the perimeter of a rectangle 12 m long and 5 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 12 m long and 5 m wide?",
+   "options": [
     "30 m",
     "29 m",
     "60 m",
     "34 m"
    ],
-   "a": 3,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (12 + 5) = 34 m."
+   "answer": 3,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (12 + 5) = 34 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00885",
-   "q": "What is the compound interest on 4000 rupees at 13 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 4000 rupees at 13 per cent per annum for 2 years?",
+   "options": [
     "1507.6 rupees",
     "553.8 rupees",
     "1094.6 rupees",
     "1107.6 rupees"
    ],
-   "a": 3,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 4000 x (1 + 13/100)^2, so CI = 1107.6 rupees."
+   "answer": 3,
+   "explanation": "Amount = 4000 x (1 + 13/100)^2, so CI = 1107.6 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00886",
-   "q": "A sum becomes 33 when 10 is added to another number 23. What is the value of 10 + 23?",
-   "o": [
+   "question": "A sum becomes 33 when 10 is added to another number 23. What is the value of 10 + 23?",
+   "options": [
     "230",
     "33",
     "35",
     "-13"
    ],
-   "a": 1,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "10 + 23 = 33."
+   "answer": 1,
+   "explanation": "10 + 23 = 33.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00887",
-   "q": "What is 8 cubed?",
-   "o": [
+   "question": "What is 8 cubed?",
+   "options": [
     "504",
     "729",
     "1024",
     "512"
    ],
-   "a": 3,
-   "t": "Squares and Cubes",
-   "l": 1,
-   "s": "generated",
-   "e": "8^3 = 512."
+   "answer": 3,
+   "explanation": "8^3 = 512.",
+   "topic": "Squares and Cubes",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00888",
-   "q": "If 20 workers can complete a job in 13 days, how long will 5 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 20 workers can complete a job in 13 days, how long will 5 workers take (work at the same rate)?",
+   "options": [
     "13 days",
     "52 days",
     "53 days",
     "32.5 days"
    ],
-   "a": 1,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 20 x 13 / 5 = 52 days."
+   "answer": 1,
+   "explanation": "Men and time are inversely related: 20 x 13 / 5 = 52 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00889",
-   "q": "What is 58 x 51?",
-   "o": [
+   "question": "What is 58 x 51?",
+   "options": [
     "3009",
     "2954",
     "3016",
     "2958"
    ],
-   "a": 3,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "58 x 51 = 2958."
+   "answer": 3,
+   "explanation": "58 x 51 = 2958.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00890",
-   "q": "What is 75 per cent of 460?",
-   "o": [
+   "question": "What is 75 per cent of 460?",
+   "options": [
     "345",
     "517.5",
     "344",
     "690"
    ],
-   "a": 0,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "75 per cent of 460 = 345."
+   "answer": 0,
+   "explanation": "75 per cent of 460 = 345.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00891",
-   "q": "What is the simple interest on 500 rupees at 12 per cent per annum for 3 years?",
-   "o": [
+   "question": "What is the simple interest on 500 rupees at 12 per cent per annum for 3 years?",
+   "options": [
     "230 rupees",
     "192 rupees",
     "168 rupees",
     "180 rupees"
    ],
-   "a": 3,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 500 x 12 x 3 / 100 = 180."
+   "answer": 3,
+   "explanation": "SI = P x R x T / 100 = 500 x 12 x 3 / 100 = 180.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00892",
-   "q": "What is the average of 8, 13, 18, 19, 26?",
-   "o": [
+   "question": "What is the average of 8, 13, 18, 19, 26?",
+   "options": [
     "14.8",
     "17.3",
     "15.8",
     "16.8"
    ],
-   "a": 3,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 84, average = 16.8."
+   "answer": 3,
+   "explanation": "Sum = 84, average = 16.8.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00893",
-   "q": "An article bought for 600 rupees is sold at a profit of 23 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 600 rupees is sold at a profit of 23 per cent. What is the selling price?",
+   "options": [
     "738 rupees",
     "733 rupees",
     "600 rupees",
     "462 rupees"
    ],
-   "a": 0,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 600 x (1 + 23/100) = 738."
+   "answer": 0,
+   "explanation": "Selling price = 600 x (1 + 23/100) = 738.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00894",
-   "q": "A vehicle travels at 71 km per hour for 5 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 71 km per hour for 5 hours. What distance does it cover?",
+   "options": [
     "443.75 km",
     "426 km",
     "284 km",
     "355 km"
    ],
-   "a": 3,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 71 x 5 = 355 km."
+   "answer": 3,
+   "explanation": "Distance = speed x time = 71 x 5 = 355 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00895",
-   "q": "A train 100 metres long runs at 16 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 100 metres long runs at 16 metres per second. How long will it take to cross a pole?",
+   "options": [
     "6.25 seconds",
     "11.25 seconds",
     "4.25 seconds",
     "12.5 seconds"
    ],
-   "a": 0,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 100 / 16 = 6.25 seconds."
+   "answer": 0,
+   "explanation": "Time = length / speed = 100 / 16 = 6.25 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00896",
-   "q": "A can finish a piece of work in 20 days and B in 23 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 20 days and B in 23 days. Working together, in how many days will they finish it?",
+   "options": [
     "10.7 days",
     "43 days",
     "11.7 days",
     "21.5 days"
    ],
-   "a": 0,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/20 + 1/23, so time = 10.7 days."
+   "answer": 0,
+   "explanation": "Combined rate = 1/20 + 1/23, so time = 10.7 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00897",
-   "q": "What is the HCF of 21 and 33?",
-   "o": [
+   "question": "What is the HCF of 21 and 33?",
+   "options": [
     "4",
     "2",
     "3",
     "9"
    ],
-   "a": 2,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 21 and 33 is 3."
+   "answer": 2,
+   "explanation": "The highest common factor of 21 and 33 is 3.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00898",
-   "q": "What is the area of a circle of radius 6 cm? (take pi = 22/7)",
-   "o": [
+   "question": "What is the area of a circle of radius 6 cm? (take pi = 22/7)",
+   "options": [
     "113.14 sq cm",
     "36 sq cm",
     "18.86 sq cm",
     "226.29 sq cm"
    ],
-   "a": 0,
-   "t": "Mensuration",
-   "l": 2,
-   "s": "generated",
-   "e": "Area = pi x r^2 = 22/7 x 6 x 6 = 113.14 square centimetres."
+   "answer": 0,
+   "explanation": "Area = pi x r^2 = 22/7 x 6 x 6 = 113.14 square centimetres.",
+   "topic": "Mensuration",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00899",
-   "q": "What is the perimeter of a rectangle 13 m long and 5 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 13 m long and 5 m wide?",
+   "options": [
     "18 m",
     "32.5 m",
     "65 m",
     "36 m"
    ],
-   "a": 3,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (13 + 5) = 36 m."
+   "answer": 3,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (13 + 5) = 36 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00900",
-   "q": "What is the compound interest on 7000 rupees at 13 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 7000 rupees at 13 per cent per annum for 2 years?",
+   "options": [
     "2638.3 rupees",
     "1938.3 rupees",
     "1925.3 rupees",
     "3876.6 rupees"
    ],
-   "a": 1,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 7000 x (1 + 13/100)^2, so CI = 1938.3 rupees."
+   "answer": 1,
+   "explanation": "Amount = 7000 x (1 + 13/100)^2, so CI = 1938.3 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00901",
-   "q": "The marked price of an item is 400 rupees and a discount of 10 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 400 rupees and a discount of 10 per cent is given. What is the selling price?",
+   "options": [
     "360 rupees",
     "440 rupees",
     "350 rupees",
     "400 rupees"
    ],
-   "a": 0,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 400 x (1 - 10/100) = 360 rupees."
+   "answer": 0,
+   "explanation": "Selling price = 400 x (1 - 10/100) = 360 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00902",
-   "q": "What is 11 cubed?",
-   "o": [
+   "question": "What is 11 cubed?",
+   "options": [
     "1320",
     "1331",
     "1728",
     "2662"
    ],
-   "a": 1,
-   "t": "Squares and Cubes",
-   "l": 1,
-   "s": "generated",
-   "e": "11^3 = 1331."
+   "answer": 1,
+   "explanation": "11^3 = 1331.",
+   "topic": "Squares and Cubes",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00903",
-   "q": "If 12 workers can complete a job in 6 days, how long will 9 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 12 workers can complete a job in 6 days, how long will 9 workers take (work at the same rate)?",
+   "options": [
     "9 days",
     "8 days",
     "3 days",
     "6 days"
    ],
-   "a": 1,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 12 x 6 / 9 = 8 days."
+   "answer": 1,
+   "explanation": "Men and time are inversely related: 12 x 6 / 9 = 8 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00904",
-   "q": "What is 22 x 21?",
-   "o": [
+   "question": "What is 22 x 21?",
+   "options": [
     "458",
     "484",
     "483",
     "462"
    ],
-   "a": 3,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "22 x 21 = 462."
+   "answer": 3,
+   "explanation": "22 x 21 = 462.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00905",
-   "q": "What is 10 per cent of 740?",
-   "o": [
+   "question": "What is 10 per cent of 740?",
+   "options": [
     "81.4",
     "148",
     "74",
     "37"
    ],
-   "a": 2,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "10 per cent of 740 = 74."
+   "answer": 2,
+   "explanation": "10 per cent of 740 = 74.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00906",
-   "q": "What is the simple interest on 800 rupees at 4 per cent per annum for 3 years?",
-   "o": [
+   "question": "What is the simple interest on 800 rupees at 4 per cent per annum for 3 years?",
+   "options": [
     "96 rupees",
     "176 rupees",
     "92 rupees",
     "115.2 rupees"
    ],
-   "a": 0,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 800 x 4 x 3 / 100 = 96."
+   "answer": 0,
+   "explanation": "SI = P x R x T / 100 = 800 x 4 x 3 / 100 = 96.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00907",
-   "q": "What is the average of 17, 26, 35, 42, 43?",
-   "o": [
+   "question": "What is the average of 17, 26, 35, 42, 43?",
+   "options": [
     "32.6",
     "33.1",
     "33.6",
     "30.6"
    ],
-   "a": 0,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 163, average = 32.6."
+   "answer": 0,
+   "explanation": "Sum = 163, average = 32.6.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00908",
-   "q": "An article bought for 600 rupees is sold at a profit of 42 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 600 rupees is sold at a profit of 42 per cent. What is the selling price?",
+   "options": [
     "642 rupees",
     "348 rupees",
     "847 rupees",
     "852 rupees"
    ],
-   "a": 3,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 600 x (1 + 42/100) = 852."
+   "answer": 3,
+   "explanation": "Selling price = 600 x (1 + 42/100) = 852.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00909",
-   "q": "A vehicle travels at 65 km per hour for 5 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 65 km per hour for 5 hours. What distance does it cover?",
+   "options": [
     "162.5 km",
     "325 km",
     "406.25 km",
     "260 km"
    ],
-   "a": 1,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 65 x 5 = 325 km."
+   "answer": 1,
+   "explanation": "Distance = speed x time = 65 x 5 = 325 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00910",
-   "q": "A train 300 metres long runs at 24 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 300 metres long runs at 24 metres per second. How long will it take to cross a pole?",
+   "options": [
     "25 seconds",
     "6.25 seconds",
     "17.5 seconds",
     "12.5 seconds"
    ],
-   "a": 3,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 300 / 24 = 12.5 seconds."
+   "answer": 3,
+   "explanation": "Time = length / speed = 300 / 24 = 12.5 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00911",
-   "q": "A can finish a piece of work in 12 days and B in 10 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 12 days and B in 10 days. Working together, in how many days will they finish it?",
+   "options": [
     "10.91 days",
     "5.45 days",
     "11 days",
     "22 days"
    ],
-   "a": 1,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/12 + 1/10, so time = 5.45 days."
+   "answer": 1,
+   "explanation": "Combined rate = 1/12 + 1/10, so time = 5.45 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00912",
-   "q": "What is the HCF of 34 and 9?",
-   "o": [
+   "question": "What is the HCF of 34 and 9?",
+   "options": [
     "306",
     "2",
     "0",
     "1"
    ],
-   "a": 3,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 34 and 9 is 1."
+   "answer": 3,
+   "explanation": "The highest common factor of 34 and 9 is 1.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00913",
-   "q": "What is the LCM of 20 and 19?",
-   "o": [
+   "question": "What is the LCM of 20 and 19?",
+   "options": [
     "361",
     "190",
     "380",
     "760"
    ],
-   "a": 2,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 20 and 19 is 380."
+   "answer": 2,
+   "explanation": "The least common multiple of 20 and 19 is 380.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00914",
-   "q": "What is the perimeter of a rectangle 23 m long and 21 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 23 m long and 21 m wide?",
+   "options": [
     "92 m",
     "483 m",
     "241.5 m",
     "88 m"
    ],
-   "a": 3,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (23 + 21) = 88 m."
+   "answer": 3,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (23 + 21) = 88 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00915",
-   "q": "What is the compound interest on 8000 rupees at 14 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 8000 rupees at 14 per cent per annum for 2 years?",
+   "options": [
     "2396.8 rupees",
     "4793.6 rupees",
     "2240 rupees",
     "1198.4 rupees"
    ],
-   "a": 0,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 8000 x (1 + 14/100)^2, so CI = 2396.8 rupees."
+   "answer": 0,
+   "explanation": "Amount = 8000 x (1 + 14/100)^2, so CI = 2396.8 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00916",
-   "q": "The marked price of an item is 200 rupees and a discount of 10 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 200 rupees and a discount of 10 per cent is given. What is the selling price?",
+   "options": [
     "200 rupees",
     "220 rupees",
     "170 rupees",
     "180 rupees"
    ],
-   "a": 3,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 200 x (1 - 10/100) = 180 rupees."
+   "answer": 3,
+   "explanation": "Selling price = 200 x (1 - 10/100) = 180 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00917",
-   "q": "A sum becomes 41 when 14 is added to another number 27. What is the value of 14 + 27?",
-   "o": [
+   "question": "A sum becomes 41 when 14 is added to another number 27. What is the value of 14 + 27?",
+   "options": [
     "40",
     "42",
     "378",
     "41"
    ],
-   "a": 3,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "14 + 27 = 41."
+   "answer": 3,
+   "explanation": "14 + 27 = 41.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00918",
-   "q": "If 19 workers can complete a job in 18 days, how long will 21 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 19 workers can complete a job in 18 days, how long will 21 workers take (work at the same rate)?",
+   "options": [
     "9 days",
     "16.29 days",
     "14.25 days",
     "17.29 days"
    ],
-   "a": 1,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 19 x 18 / 21 = 16.29 days."
+   "answer": 1,
+   "explanation": "Men and time are inversely related: 19 x 18 / 21 = 16.29 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00919",
-   "q": "What is 97 x 79?",
-   "o": [
+   "question": "What is 97 x 79?",
+   "options": [
     "7659",
     "7663",
     "7584",
     "7742"
    ],
-   "a": 1,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "97 x 79 = 7663."
+   "answer": 1,
+   "explanation": "97 x 79 = 7663.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00920",
-   "q": "What is 40 per cent of 60?",
-   "o": [
+   "question": "What is 40 per cent of 60?",
+   "options": [
     "23",
     "36",
     "12",
     "24"
    ],
-   "a": 3,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "40 per cent of 60 = 24."
+   "answer": 3,
+   "explanation": "40 per cent of 60 = 24.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00921",
-   "q": "What is the simple interest on 1500 rupees at 3 per cent per annum for 5 years?",
-   "o": [
+   "question": "What is the simple interest on 1500 rupees at 3 per cent per annum for 5 years?",
+   "options": [
     "375 rupees",
     "222 rupees",
     "112.5 rupees",
     "225 rupees"
    ],
-   "a": 3,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 1500 x 3 x 5 / 100 = 225."
+   "answer": 3,
+   "explanation": "SI = P x R x T / 100 = 1500 x 3 x 5 / 100 = 225.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00922",
-   "q": "What is the average of 31, 40, 45, 50, 56?",
-   "o": [
+   "question": "What is the average of 31, 40, 45, 50, 56?",
+   "options": [
     "45.4",
     "44.4",
     "44.9",
     "46.4"
    ],
-   "a": 1,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 222, average = 44.4."
+   "answer": 1,
+   "explanation": "Sum = 222, average = 44.4.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00923",
-   "q": "An article bought for 800 rupees is sold at a profit of 22 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 800 rupees is sold at a profit of 22 per cent. What is the selling price?",
+   "options": [
     "822 rupees",
     "971 rupees",
     "976 rupees",
     "986 rupees"
    ],
-   "a": 2,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 800 x (1 + 22/100) = 976."
+   "answer": 2,
+   "explanation": "Selling price = 800 x (1 + 22/100) = 976.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00924",
-   "q": "A vehicle travels at 67 km per hour for 3 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 67 km per hour for 3 hours. What distance does it cover?",
+   "options": [
     "134 km",
     "100.5 km",
     "201 km",
     "268 km"
    ],
-   "a": 2,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 67 x 3 = 201 km."
+   "answer": 2,
+   "explanation": "Distance = speed x time = 67 x 3 = 201 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00925",
-   "q": "A train 50 metres long runs at 19 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 50 metres long runs at 19 metres per second. How long will it take to cross a pole?",
+   "options": [
     "12.63 seconds",
     "5.26 seconds",
     "2.63 seconds",
     "0.63 seconds"
    ],
-   "a": 2,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 50 / 19 = 2.63 seconds."
+   "answer": 2,
+   "explanation": "Time = length / speed = 50 / 19 = 2.63 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00926",
-   "q": "A can finish a piece of work in 23 days and B in 9 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 23 days and B in 9 days. Working together, in how many days will they finish it?",
+   "options": [
     "12.94 days",
     "32 days",
     "7.47 days",
     "6.47 days"
    ],
-   "a": 3,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/23 + 1/9, so time = 6.47 days."
+   "answer": 3,
+   "explanation": "Combined rate = 1/23 + 1/9, so time = 6.47 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00927",
-   "q": "What is the HCF of 24 and 16?",
-   "o": [
+   "question": "What is the HCF of 24 and 16?",
+   "options": [
     "16",
     "24",
     "9",
     "8"
    ],
-   "a": 3,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 24 and 16 is 8."
+   "answer": 3,
+   "explanation": "The highest common factor of 24 and 16 is 8.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00928",
-   "q": "What is the LCM of 15 and 5?",
-   "o": [
+   "question": "What is the LCM of 15 and 5?",
+   "options": [
     "30",
     "7.5",
     "15",
     "10"
    ],
-   "a": 2,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 15 and 5 is 15."
+   "answer": 2,
+   "explanation": "The least common multiple of 15 and 5 is 15.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00929",
-   "q": "What is the area of a circle of radius 19 cm? (take pi = 22/7)",
-   "o": [
+   "question": "What is the area of a circle of radius 19 cm? (take pi = 22/7)",
+   "options": [
     "1134.57 sq cm",
     "119.43 sq cm",
     "59.71 sq cm",
     "361 sq cm"
    ],
-   "a": 0,
-   "t": "Mensuration",
-   "l": 2,
-   "s": "generated",
-   "e": "Area = pi x r^2 = 22/7 x 19 x 19 = 1134.57 square centimetres."
+   "answer": 0,
+   "explanation": "Area = pi x r^2 = 22/7 x 19 x 19 = 1134.57 square centimetres.",
+   "topic": "Mensuration",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00930",
-   "q": "What is the perimeter of a rectangle 11 m long and 13 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 11 m long and 13 m wide?",
+   "options": [
     "48 m",
     "35 m",
     "24 m",
     "143 m"
    ],
-   "a": 0,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (11 + 13) = 48 m."
+   "answer": 0,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (11 + 13) = 48 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00931",
-   "q": "What is the compound interest on 10000 rupees at 10 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 10000 rupees at 10 per cent per annum for 2 years?",
+   "options": [
     "3100 rupees",
     "2100 rupees",
     "1050 rupees",
     "2090 rupees"
    ],
-   "a": 1,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 10000 x (1 + 10/100)^2, so CI = 2100 rupees."
+   "answer": 1,
+   "explanation": "Amount = 10000 x (1 + 10/100)^2, so CI = 2100 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00932",
-   "q": "The marked price of an item is 200 rupees and a discount of 15 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 200 rupees and a discount of 15 per cent is given. What is the selling price?",
+   "options": [
     "170 rupees",
     "230 rupees",
     "180 rupees",
     "185 rupees"
    ],
-   "a": 0,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 200 x (1 - 15/100) = 170 rupees."
+   "answer": 0,
+   "explanation": "Selling price = 200 x (1 - 15/100) = 170 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00933",
-   "q": "A sum becomes 46 when 28 is added to another number 18. What is the value of 28 + 18?",
-   "o": [
+   "question": "A sum becomes 46 when 28 is added to another number 18. What is the value of 28 + 18?",
+   "options": [
     "48",
     "46",
     "47",
     "504"
    ],
-   "a": 1,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "28 + 18 = 46."
+   "answer": 1,
+   "explanation": "28 + 18 = 46.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00934",
-   "q": "If 23 workers can complete a job in 15 days, how long will 8 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 23 workers can complete a job in 15 days, how long will 8 workers take (work at the same rate)?",
+   "options": [
     "31.36 days",
     "43.13 days",
     "7.5 days",
     "44.13 days"
    ],
-   "a": 1,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 23 x 15 / 8 = 43.13 days."
+   "answer": 1,
+   "explanation": "Men and time are inversely related: 23 x 15 / 8 = 43.13 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00935",
-   "q": "What is 37 x 59?",
-   "o": [
+   "question": "What is 37 x 59?",
+   "options": [
     "2242",
     "2179",
     "2183",
     "2220"
    ],
-   "a": 2,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "37 x 59 = 2183."
+   "answer": 2,
+   "explanation": "37 x 59 = 2183.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00936",
-   "q": "What is 10 per cent of 100?",
-   "o": [
+   "question": "What is 10 per cent of 100?",
+   "options": [
     "9",
     "10",
     "15",
     "5"
    ],
-   "a": 1,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "10 per cent of 100 = 10."
+   "answer": 1,
+   "explanation": "10 per cent of 100 = 10.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00937",
-   "q": "What is the simple interest on 1700 rupees at 10 per cent per annum for 3 years?",
-   "o": [
+   "question": "What is the simple interest on 1700 rupees at 10 per cent per annum for 3 years?",
+   "options": [
     "500 rupees",
     "612 rupees",
     "510 rupees",
     "520 rupees"
    ],
-   "a": 2,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 1700 x 10 x 3 / 100 = 510."
+   "answer": 2,
+   "explanation": "SI = P x R x T / 100 = 1700 x 10 x 3 / 100 = 510.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00938",
-   "q": "What is the average of 25, 27, 32, 38, 42?",
-   "o": [
+   "question": "What is the average of 25, 27, 32, 38, 42?",
+   "options": [
     "34.8",
     "33.8",
     "32.8",
     "31.799999999999997"
    ],
-   "a": 2,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 164, average = 32.8."
+   "answer": 2,
+   "explanation": "Sum = 164, average = 32.8.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00939",
-   "q": "A sum of 480 rupees is divided between two people in the ratio 4:1. What is the larger share?",
-   "o": [
+   "question": "A sum of 480 rupees is divided between two people in the ratio 4:1. What is the larger share?",
+   "options": [
     "480 rupees",
     "96 rupees",
     "240 rupees",
     "384 rupees"
    ],
-   "a": 3,
-   "t": "Ratio",
-   "l": 2,
-   "s": "generated",
-   "e": "One part is 96 rupees, so the shares are 384 and 96."
+   "answer": 3,
+   "explanation": "One part is 96 rupees, so the shares are 384 and 96.",
+   "topic": "Ratio",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00940",
-   "q": "An article bought for 100 rupees is sold at a profit of 22 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 100 rupees is sold at a profit of 22 per cent. What is the selling price?",
+   "options": [
     "78 rupees",
     "100 rupees",
     "117 rupees",
     "122 rupees"
    ],
-   "a": 3,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 100 x (1 + 22/100) = 122."
+   "answer": 3,
+   "explanation": "Selling price = 100 x (1 + 22/100) = 122.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00941",
-   "q": "A vehicle travels at 67 km per hour for 3 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 67 km per hour for 3 hours. What distance does it cover?",
+   "options": [
     "201 km",
     "134 km",
     "251.25 km",
     "100.5 km"
    ],
-   "a": 0,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 67 x 3 = 201 km."
+   "answer": 0,
+   "explanation": "Distance = speed x time = 67 x 3 = 201 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00942",
-   "q": "A train 300 metres long runs at 16 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 300 metres long runs at 16 metres per second. How long will it take to cross a pole?",
+   "options": [
     "37.5 seconds",
     "23.75 seconds",
     "18.75 seconds",
     "16.75 seconds"
    ],
-   "a": 2,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 300 / 16 = 18.75 seconds."
+   "answer": 2,
+   "explanation": "Time = length / speed = 300 / 16 = 18.75 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00943",
-   "q": "A can finish a piece of work in 17 days and B in 13 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 17 days and B in 13 days. Working together, in how many days will they finish it?",
+   "options": [
     "15 days",
     "7.37 days",
     "14.73 days",
     "8.37 days"
    ],
-   "a": 1,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/17 + 1/13, so time = 7.37 days."
+   "answer": 1,
+   "explanation": "Combined rate = 1/17 + 1/13, so time = 7.37 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00944",
-   "q": "What is the HCF of 27 and 24?",
-   "o": [
+   "question": "What is the HCF of 27 and 24?",
+   "options": [
     "3",
     "216",
     "9",
     "6"
    ],
-   "a": 0,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 27 and 24 is 3."
+   "answer": 0,
+   "explanation": "The highest common factor of 27 and 24 is 3.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00945",
-   "q": "What is the LCM of 13 and 5?",
-   "o": [
+   "question": "What is the LCM of 13 and 5?",
+   "options": [
     "130",
     "65",
     "60",
     "78"
    ],
-   "a": 1,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 13 and 5 is 65."
+   "answer": 1,
+   "explanation": "The least common multiple of 13 and 5 is 65.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00946",
-   "q": "What is the perimeter of a rectangle 19 m long and 11 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 19 m long and 11 m wide?",
+   "options": [
     "76 m",
     "60 m",
     "104.5 m",
     "209 m"
    ],
-   "a": 1,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (19 + 11) = 60 m."
+   "answer": 1,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (19 + 11) = 60 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00947",
-   "q": "What is the compound interest on 9000 rupees at 13 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 9000 rupees at 13 per cent per annum for 2 years?",
+   "options": [
     "2492.1 rupees",
     "2479.1 rupees",
     "3392.1 rupees",
     "4984.2 rupees"
    ],
-   "a": 0,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 9000 x (1 + 13/100)^2, so CI = 2492.1 rupees."
+   "answer": 0,
+   "explanation": "Amount = 9000 x (1 + 13/100)^2, so CI = 2492.1 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00948",
-   "q": "The marked price of an item is 1000 rupees and a discount of 5 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 1000 rupees and a discount of 5 per cent is given. What is the selling price?",
+   "options": [
     "960 rupees",
     "950 rupees",
     "1000 rupees",
     "1050 rupees"
    ],
-   "a": 1,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1000 x (1 - 5/100) = 950 rupees."
+   "answer": 1,
+   "explanation": "Selling price = 1000 x (1 - 5/100) = 950 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00949",
-   "q": "A sum becomes 19 when 7 is added to another number 12. What is the value of 7 + 12?",
-   "o": [
+   "question": "A sum becomes 19 when 7 is added to another number 12. What is the value of 7 + 12?",
+   "options": [
     "84",
     "19",
     "18",
     "-5"
    ],
-   "a": 1,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "7 + 12 = 19."
+   "answer": 1,
+   "explanation": "7 + 12 = 19.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00950",
-   "q": "What is 5 cubed?",
-   "o": [
+   "question": "What is 5 cubed?",
+   "options": [
     "250",
     "125",
     "25",
     "216"
    ],
-   "a": 1,
-   "t": "Squares and Cubes",
-   "l": 1,
-   "s": "generated",
-   "e": "5^3 = 125."
+   "answer": 1,
+   "explanation": "5^3 = 125.",
+   "topic": "Squares and Cubes",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00951",
-   "q": "If 18 workers can complete a job in 7 days, how long will 23 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 18 workers can complete a job in 7 days, how long will 23 workers take (work at the same rate)?",
+   "options": [
     "3.5 days",
     "7 days",
     "6.48 days",
     "5.48 days"
    ],
-   "a": 3,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 18 x 7 / 23 = 5.48 days."
+   "answer": 3,
+   "explanation": "Men and time are inversely related: 18 x 7 / 23 = 5.48 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00952",
-   "q": "What is 19 x 46?",
-   "o": [
+   "question": "What is 19 x 46?",
+   "options": [
     "828",
     "870",
     "874",
     "920"
    ],
-   "a": 2,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "19 x 46 = 874."
+   "answer": 2,
+   "explanation": "19 x 46 = 874.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00953",
-   "q": "What is 40 per cent of 760?",
-   "o": [
+   "question": "What is 40 per cent of 760?",
+   "options": [
     "456",
     "311.6",
     "304",
     "152"
    ],
-   "a": 2,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "40 per cent of 760 = 304."
+   "answer": 2,
+   "explanation": "40 per cent of 760 = 304.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00954",
-   "q": "What is the simple interest on 1500 rupees at 11 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the simple interest on 1500 rupees at 11 per cent per annum for 2 years?",
+   "options": [
     "396 rupees",
     "319 rupees",
     "330 rupees",
     "480 rupees"
    ],
-   "a": 2,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 1500 x 11 x 2 / 100 = 330."
+   "answer": 2,
+   "explanation": "SI = P x R x T / 100 = 1500 x 11 x 2 / 100 = 330.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00955",
-   "q": "What is the average of 14, 17, 23, 28, 29?",
-   "o": [
+   "question": "What is the average of 14, 17, 23, 28, 29?",
+   "options": [
     "22.7",
     "24.2",
     "23.2",
     "22.2"
    ],
-   "a": 3,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 111, average = 22.2."
+   "answer": 3,
+   "explanation": "Sum = 111, average = 22.2.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00956",
-   "q": "An article bought for 500 rupees is sold at a profit of 10 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 500 rupees is sold at a profit of 10 per cent. What is the selling price?",
+   "options": [
     "500 rupees",
     "550 rupees",
     "560 rupees",
     "545 rupees"
    ],
-   "a": 1,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 500 x (1 + 10/100) = 550."
+   "answer": 1,
+   "explanation": "Selling price = 500 x (1 + 10/100) = 550.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00957",
-   "q": "A vehicle travels at 60 km per hour for 3 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 60 km per hour for 3 hours. What distance does it cover?",
+   "options": [
     "180 km",
     "120 km",
     "90 km",
     "225 km"
    ],
-   "a": 0,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 60 x 3 = 180 km."
+   "answer": 0,
+   "explanation": "Distance = speed x time = 60 x 3 = 180 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00958",
-   "q": "A train 150 metres long runs at 17 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 150 metres long runs at 17 metres per second. How long will it take to cross a pole?",
+   "options": [
     "6.82 seconds",
     "4.41 seconds",
     "13.82 seconds",
     "8.82 seconds"
    ],
-   "a": 3,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 150 / 17 = 8.82 seconds."
+   "answer": 3,
+   "explanation": "Time = length / speed = 150 / 17 = 8.82 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00959",
-   "q": "A can finish a piece of work in 9 days and B in 14 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 9 days and B in 14 days. Working together, in how many days will they finish it?",
+   "options": [
     "6.48 days",
     "11.5 days",
     "5.48 days",
     "9 days"
    ],
-   "a": 2,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/9 + 1/14, so time = 5.48 days."
+   "answer": 2,
+   "explanation": "Combined rate = 1/9 + 1/14, so time = 5.48 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00960",
-   "q": "What is the HCF of 10 and 21?",
-   "o": [
+   "question": "What is the HCF of 10 and 21?",
+   "options": [
     "3",
     "2",
     "1",
     "0"
    ],
-   "a": 2,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 10 and 21 is 1."
+   "answer": 2,
+   "explanation": "The highest common factor of 10 and 21 is 1.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00961",
-   "q": "What is the LCM of 13 and 20?",
-   "o": [
+   "question": "What is the LCM of 13 and 20?",
+   "options": [
     "273",
     "520",
     "260",
     "240"
    ],
-   "a": 2,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 13 and 20 is 260."
+   "answer": 2,
+   "explanation": "The least common multiple of 13 and 20 is 260.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00962",
-   "q": "What is the perimeter of a rectangle 17 m long and 8 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 17 m long and 8 m wide?",
+   "options": [
     "136 m",
     "50 m",
     "42 m",
     "25 m"
    ],
-   "a": 1,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (17 + 8) = 50 m."
+   "answer": 1,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (17 + 8) = 50 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00963",
-   "q": "What is the compound interest on 3000 rupees at 7 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 3000 rupees at 7 per cent per annum for 2 years?",
+   "options": [
     "734.7 rupees",
     "427.7 rupees",
     "420 rupees",
     "434.7 rupees"
    ],
-   "a": 3,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 3000 x (1 + 7/100)^2, so CI = 434.7 rupees."
+   "answer": 3,
+   "explanation": "Amount = 3000 x (1 + 7/100)^2, so CI = 434.7 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00964",
-   "q": "The marked price of an item is 1000 rupees and a discount of 20 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 1000 rupees and a discount of 20 per cent is given. What is the selling price?",
+   "options": [
     "790 rupees",
     "800 rupees",
     "980 rupees",
     "1000 rupees"
    ],
-   "a": 1,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1000 x (1 - 20/100) = 800 rupees."
+   "answer": 1,
+   "explanation": "Selling price = 1000 x (1 - 20/100) = 800 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00965",
-   "q": "What is 5 cubed?",
-   "o": [
+   "question": "What is 5 cubed?",
+   "options": [
     "130",
     "125",
     "216",
     "120"
    ],
-   "a": 1,
-   "t": "Squares and Cubes",
-   "l": 1,
-   "s": "generated",
-   "e": "5^3 = 125."
+   "answer": 1,
+   "explanation": "5^3 = 125.",
+   "topic": "Squares and Cubes",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00966",
-   "q": "If 10 workers can complete a job in 18 days, how long will 13 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 10 workers can complete a job in 18 days, how long will 13 workers take (work at the same rate)?",
+   "options": [
     "13.85 days",
     "11.25 days",
     "20 days",
     "18 days"
    ],
-   "a": 0,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 10 x 18 / 13 = 13.85 days."
+   "answer": 0,
+   "explanation": "Men and time are inversely related: 10 x 18 / 13 = 13.85 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00967",
-   "q": "What is 24 x 16?",
-   "o": [
+   "question": "What is 24 x 16?",
+   "options": [
     "380",
     "408",
     "368",
     "384"
    ],
-   "a": 3,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "24 x 16 = 384."
+   "answer": 3,
+   "explanation": "24 x 16 = 384.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00968",
-   "q": "What is the simple interest on 1100 rupees at 3 per cent per annum for 1 years?",
-   "o": [
+   "question": "What is the simple interest on 1100 rupees at 3 per cent per annum for 1 years?",
+   "options": [
     "33 rupees",
     "30 rupees",
     "143 rupees",
     "39.6 rupees"
    ],
-   "a": 0,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 1100 x 3 x 1 / 100 = 33."
+   "answer": 0,
+   "explanation": "SI = P x R x T / 100 = 1100 x 3 x 1 / 100 = 33.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00969",
-   "q": "What is the average of 30, 32, 35, 43, 48?",
-   "o": [
+   "question": "What is the average of 30, 32, 35, 43, 48?",
+   "options": [
     "35.6",
     "39.6",
     "38.1",
     "37.6"
    ],
-   "a": 3,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 188, average = 37.6."
+   "answer": 3,
+   "explanation": "Sum = 188, average = 37.6.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00970",
-   "q": "An article bought for 100 rupees is sold at a profit of 7 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 100 rupees is sold at a profit of 7 per cent. What is the selling price?",
+   "options": [
     "93 rupees",
     "100 rupees",
     "107 rupees",
     "102 rupees"
    ],
-   "a": 2,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 100 x (1 + 7/100) = 107."
+   "answer": 2,
+   "explanation": "Selling price = 100 x (1 + 7/100) = 107.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00971",
-   "q": "A vehicle travels at 61 km per hour for 4 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 61 km per hour for 4 hours. What distance does it cover?",
+   "options": [
     "122 km",
     "254 km",
     "244 km",
     "305 km"
    ],
-   "a": 2,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 61 x 4 = 244 km."
+   "answer": 2,
+   "explanation": "Distance = speed x time = 61 x 4 = 244 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00972",
-   "q": "A train 200 metres long runs at 22 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 200 metres long runs at 22 metres per second. How long will it take to cross a pole?",
+   "options": [
     "9.09 seconds",
     "4.55 seconds",
     "14.09 seconds",
     "7.09 seconds"
    ],
-   "a": 0,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 200 / 22 = 9.09 seconds."
+   "answer": 0,
+   "explanation": "Time = length / speed = 200 / 22 = 9.09 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00973",
-   "q": "A can finish a piece of work in 18 days and B in 12 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 18 days and B in 12 days. Working together, in how many days will they finish it?",
+   "options": [
     "12 days",
     "30 days",
     "7.2 days",
     "8.2 days"
    ],
-   "a": 2,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/18 + 1/12, so time = 7.2 days."
+   "answer": 2,
+   "explanation": "Combined rate = 1/18 + 1/12, so time = 7.2 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00974",
-   "q": "What is the HCF of 8 and 23?",
-   "o": [
+   "question": "What is the HCF of 8 and 23?",
+   "options": [
     "184",
     "0",
     "1",
     "2"
    ],
-   "a": 2,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 8 and 23 is 1."
+   "answer": 2,
+   "explanation": "The highest common factor of 8 and 23 is 1.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00975",
-   "q": "What is the LCM of 17 and 19?",
-   "o": [
+   "question": "What is the LCM of 17 and 19?",
+   "options": [
     "646",
     "161.5",
     "340",
     "323"
    ],
-   "a": 3,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 17 and 19 is 323."
+   "answer": 3,
+   "explanation": "The least common multiple of 17 and 19 is 323.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00976",
-   "q": "What is the perimeter of a rectangle 13 m long and 5 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 13 m long and 5 m wide?",
+   "options": [
     "32.5 m",
     "36 m",
     "31 m",
     "65 m"
    ],
-   "a": 1,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (13 + 5) = 36 m."
+   "answer": 1,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (13 + 5) = 36 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00977",
-   "q": "What is the compound interest on 10000 rupees at 6 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 10000 rupees at 6 per cent per annum for 2 years?",
+   "options": [
     "1230 rupees",
     "618 rupees",
     "1200 rupees",
     "1236 rupees"
    ],
-   "a": 3,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 10000 x (1 + 6/100)^2, so CI = 1236 rupees."
+   "answer": 3,
+   "explanation": "Amount = 10000 x (1 + 6/100)^2, so CI = 1236 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00978",
-   "q": "The marked price of an item is 1800 rupees and a discount of 15 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 1800 rupees and a discount of 15 per cent is given. What is the selling price?",
+   "options": [
     "1530 rupees",
     "1540 rupees",
     "2070 rupees",
     "1520 rupees"
    ],
-   "a": 0,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1800 x (1 - 15/100) = 1530 rupees."
+   "answer": 0,
+   "explanation": "Selling price = 1800 x (1 - 15/100) = 1530 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00979",
-   "q": "A sum becomes 41 when 20 is added to another number 21. What is the value of 20 + 21?",
-   "o": [
+   "question": "A sum becomes 41 when 20 is added to another number 21. What is the value of 20 + 21?",
+   "options": [
     "41",
     "-1",
     "43",
     "40"
    ],
-   "a": 0,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "20 + 21 = 41."
+   "answer": 0,
+   "explanation": "20 + 21 = 41.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00980",
-   "q": "If 7 workers can complete a job in 5 days, how long will 8 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 7 workers can complete a job in 5 days, how long will 8 workers take (work at the same rate)?",
+   "options": [
     "7 days",
     "3.18 days",
     "4.38 days",
     "5.38 days"
    ],
-   "a": 2,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 7 x 5 / 8 = 4.38 days."
+   "answer": 2,
+   "explanation": "Men and time are inversely related: 7 x 5 / 8 = 4.38 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00981",
-   "q": "What is 59 x 35?",
-   "o": [
+   "question": "What is 59 x 35?",
+   "options": [
     "2065",
     "2100",
     "2061",
     "2124"
    ],
-   "a": 0,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "59 x 35 = 2065."
+   "answer": 0,
+   "explanation": "59 x 35 = 2065.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00982",
-   "q": "What is 75 per cent of 200?",
-   "o": [
+   "question": "What is 75 per cent of 200?",
+   "options": [
     "75",
     "150",
     "225",
     "300"
    ],
-   "a": 1,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "75 per cent of 200 = 150."
+   "answer": 1,
+   "explanation": "75 per cent of 200 = 150.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00983",
-   "q": "What is the simple interest on 1900 rupees at 7 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the simple interest on 1900 rupees at 7 per cent per annum for 2 years?",
+   "options": [
     "266 rupees",
     "319.2 rupees",
     "259 rupees",
     "273 rupees"
    ],
-   "a": 0,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 1900 x 7 x 2 / 100 = 266."
+   "answer": 0,
+   "explanation": "SI = P x R x T / 100 = 1900 x 7 x 2 / 100 = 266.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00984",
-   "q": "What is the average of 37, 45, 52, 56, 61?",
-   "o": [
+   "question": "What is the average of 37, 45, 52, 56, 61?",
+   "options": [
     "52.2",
     "49.2",
     "50.7",
     "50.2"
    ],
-   "a": 3,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 251, average = 50.2."
+   "answer": 3,
+   "explanation": "Sum = 251, average = 50.2.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00985",
-   "q": "An article bought for 100 rupees is sold at a profit of 29 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 100 rupees is sold at a profit of 29 per cent. What is the selling price?",
+   "options": [
     "124 rupees",
     "100 rupees",
     "71 rupees",
     "129 rupees"
    ],
-   "a": 3,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 100 x (1 + 29/100) = 129."
+   "answer": 3,
+   "explanation": "Selling price = 100 x (1 + 29/100) = 129.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00986",
-   "q": "A train 50 metres long runs at 12 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 50 metres long runs at 12 metres per second. How long will it take to cross a pole?",
+   "options": [
     "14.17 seconds",
     "4.17 seconds",
     "9.17 seconds",
     "8.33 seconds"
    ],
-   "a": 1,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 50 / 12 = 4.17 seconds."
+   "answer": 1,
+   "explanation": "Time = length / speed = 50 / 12 = 4.17 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00987",
-   "q": "A can finish a piece of work in 10 days and B in 21 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 10 days and B in 21 days. Working together, in how many days will they finish it?",
+   "options": [
     "7.77 days",
     "31 days",
     "6.77 days",
     "10 days"
    ],
-   "a": 2,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/10 + 1/21, so time = 6.77 days."
+   "answer": 2,
+   "explanation": "Combined rate = 1/10 + 1/21, so time = 6.77 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00988",
-   "q": "What is the HCF of 35 and 15?",
-   "o": [
+   "question": "What is the HCF of 35 and 15?",
+   "options": [
     "10",
     "105",
     "6",
     "5"
    ],
-   "a": 3,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 35 and 15 is 5."
+   "answer": 3,
+   "explanation": "The highest common factor of 35 and 15 is 5.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00989",
-   "q": "What is the LCM of 10 and 12?",
-   "o": [
+   "question": "What is the LCM of 10 and 12?",
+   "options": [
     "120",
     "48",
     "60",
     "70"
    ],
-   "a": 2,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 10 and 12 is 60."
+   "answer": 2,
+   "explanation": "The least common multiple of 10 and 12 is 60.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00990",
-   "q": "What is the area of a circle of radius 7 cm? (take pi = 22/7)",
-   "o": [
+   "question": "What is the area of a circle of radius 7 cm? (take pi = 22/7)",
+   "options": [
     "44 sq cm",
     "154 sq cm",
     "308 sq cm",
     "49 sq cm"
    ],
-   "a": 1,
-   "t": "Mensuration",
-   "l": 2,
-   "s": "generated",
-   "e": "Area = pi x r^2 = 22/7 x 7 x 7 = 154 square centimetres."
+   "answer": 1,
+   "explanation": "Area = pi x r^2 = 22/7 x 7 x 7 = 154 square centimetres.",
+   "topic": "Mensuration",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00991",
-   "q": "What is the perimeter of a rectangle 20 m long and 6 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 20 m long and 6 m wide?",
+   "options": [
     "60 m",
     "120 m",
     "26 m",
     "52 m"
    ],
-   "a": 3,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (20 + 6) = 52 m."
+   "answer": 3,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (20 + 6) = 52 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00992",
-   "q": "What is the compound interest on 4000 rupees at 14 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 4000 rupees at 14 per cent per annum for 2 years?",
+   "options": [
     "1184.4 rupees",
     "2396.8 rupees",
     "599.2 rupees",
     "1198.4 rupees"
    ],
-   "a": 3,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 4000 x (1 + 14/100)^2, so CI = 1198.4 rupees."
+   "answer": 3,
+   "explanation": "Amount = 4000 x (1 + 14/100)^2, so CI = 1198.4 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00993",
-   "q": "The marked price of an item is 1800 rupees and a discount of 25 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 1800 rupees and a discount of 25 per cent is given. What is the selling price?",
+   "options": [
     "1340 rupees",
     "1360 rupees",
     "1775 rupees",
     "1350 rupees"
    ],
-   "a": 3,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1800 x (1 - 25/100) = 1350 rupees."
+   "answer": 3,
+   "explanation": "Selling price = 1800 x (1 - 25/100) = 1350 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00994",
-   "q": "A sum becomes 53 when 24 is added to another number 29. What is the value of 24 + 29?",
-   "o": [
+   "question": "A sum becomes 53 when 24 is added to another number 29. What is the value of 24 + 29?",
+   "options": [
     "53",
     "696",
     "-5",
     "54"
    ],
-   "a": 0,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "24 + 29 = 53."
+   "answer": 0,
+   "explanation": "24 + 29 = 53.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00995",
-   "q": "What is 9 cubed?",
-   "o": [
+   "question": "What is 9 cubed?",
+   "options": [
     "720",
     "729",
     "1458",
     "81"
    ],
-   "a": 1,
-   "t": "Squares and Cubes",
-   "l": 1,
-   "s": "generated",
-   "e": "9^3 = 729."
+   "answer": 1,
+   "explanation": "9^3 = 729.",
+   "topic": "Squares and Cubes",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00996",
-   "q": "If 6 workers can complete a job in 15 days, how long will 19 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 6 workers can complete a job in 15 days, how long will 19 workers take (work at the same rate)?",
+   "options": [
     "4.09 days",
     "17 days",
     "4.74 days",
     "5.74 days"
    ],
-   "a": 2,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 6 x 15 / 19 = 4.74 days."
+   "answer": 2,
+   "explanation": "Men and time are inversely related: 6 x 15 / 19 = 4.74 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00997",
-   "q": "What is 45 x 69?",
-   "o": [
+   "question": "What is 45 x 69?",
+   "options": [
     "3105",
     "3036",
     "3101",
     "3150"
    ],
-   "a": 0,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "45 x 69 = 3105."
+   "answer": 0,
+   "explanation": "45 x 69 = 3105.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00998",
-   "q": "What is 30 per cent of 400?",
-   "o": [
+   "question": "What is 30 per cent of 400?",
+   "options": [
     "180",
     "119",
     "240",
     "120"
    ],
-   "a": 3,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "30 per cent of 400 = 120."
+   "answer": 3,
+   "explanation": "30 per cent of 400 = 120.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-00999",
-   "q": "What is the simple interest on 1800 rupees at 4 per cent per annum for 4 years?",
-   "o": [
+   "question": "What is the simple interest on 1800 rupees at 4 per cent per annum for 4 years?",
+   "options": [
     "288 rupees",
     "292 rupees",
     "144 rupees",
     "284 rupees"
    ],
-   "a": 0,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 1800 x 4 x 4 / 100 = 288."
+   "answer": 0,
+   "explanation": "SI = P x R x T / 100 = 1800 x 4 x 4 / 100 = 288.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01000",
-   "q": "What is the average of 26, 32, 35, 38, 41?",
-   "o": [
+   "question": "What is the average of 26, 32, 35, 38, 41?",
+   "options": [
     "32.4",
     "34.4",
     "33.4",
     "35.4"
    ],
-   "a": 1,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 172, average = 34.4."
+   "answer": 1,
+   "explanation": "Sum = 172, average = 34.4.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01001",
-   "q": "An article bought for 1200 rupees is sold at a profit of 40 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 1200 rupees is sold at a profit of 40 per cent. What is the selling price?",
+   "options": [
     "1690 rupees",
     "1240 rupees",
     "1680 rupees",
     "1200 rupees"
    ],
-   "a": 2,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1200 x (1 + 40/100) = 1680."
+   "answer": 2,
+   "explanation": "Selling price = 1200 x (1 + 40/100) = 1680.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01002",
-   "q": "A vehicle travels at 51 km per hour for 3 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 51 km per hour for 3 hours. What distance does it cover?",
+   "options": [
     "102 km",
     "191.25 km",
     "153 km",
     "204 km"
    ],
-   "a": 2,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 51 x 3 = 153 km."
+   "answer": 2,
+   "explanation": "Distance = speed x time = 51 x 3 = 153 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01003",
-   "q": "A train 250 metres long runs at 26 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 250 metres long runs at 26 metres per second. How long will it take to cross a pole?",
+   "options": [
     "4.81 seconds",
     "9.62 seconds",
     "19.62 seconds",
     "19.23 seconds"
    ],
-   "a": 1,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 250 / 26 = 9.62 seconds."
+   "answer": 1,
+   "explanation": "Time = length / speed = 250 / 26 = 9.62 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01004",
-   "q": "A can finish a piece of work in 21 days and B in 6 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 21 days and B in 6 days. Working together, in how many days will they finish it?",
+   "options": [
     "9.33 days",
     "13.5 days",
     "6 days",
     "4.67 days"
    ],
-   "a": 3,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/21 + 1/6, so time = 4.67 days."
+   "answer": 3,
+   "explanation": "Combined rate = 1/21 + 1/6, so time = 4.67 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01005",
-   "q": "What is the HCF of 18 and 21?",
-   "o": [
+   "question": "What is the HCF of 18 and 21?",
+   "options": [
     "4",
     "126",
     "3",
     "9"
    ],
-   "a": 2,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 18 and 21 is 3."
+   "answer": 2,
+   "explanation": "The highest common factor of 18 and 21 is 3.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01006",
-   "q": "What is the LCM of 7 and 21?",
-   "o": [
+   "question": "What is the LCM of 7 and 21?",
+   "options": [
     "10.5",
     "42",
     "21",
     "147"
    ],
-   "a": 2,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 7 and 21 is 21."
+   "answer": 2,
+   "explanation": "The least common multiple of 7 and 21 is 21.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01007",
-   "q": "What is the perimeter of a rectangle 12 m long and 20 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 12 m long and 20 m wide?",
+   "options": [
     "120 m",
     "48 m",
     "64 m",
     "240 m"
    ],
-   "a": 2,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (12 + 20) = 64 m."
+   "answer": 2,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (12 + 20) = 64 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01008",
-   "q": "What is the compound interest on 7000 rupees at 11 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 7000 rupees at 11 per cent per annum for 2 years?",
+   "options": [
     "3249.4 rupees",
     "2324.7 rupees",
     "1624.7 rupees",
     "1613.7 rupees"
    ],
-   "a": 2,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 7000 x (1 + 11/100)^2, so CI = 1624.7 rupees."
+   "answer": 2,
+   "explanation": "Amount = 7000 x (1 + 11/100)^2, so CI = 1624.7 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01009",
-   "q": "The marked price of an item is 1000 rupees and a discount of 25 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 1000 rupees and a discount of 25 per cent is given. What is the selling price?",
+   "options": [
     "750 rupees",
     "760 rupees",
     "1250 rupees",
     "975 rupees"
    ],
-   "a": 0,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1000 x (1 - 25/100) = 750 rupees."
+   "answer": 0,
+   "explanation": "Selling price = 1000 x (1 - 25/100) = 750 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01010",
-   "q": "A sum becomes 36 when 25 is added to another number 11. What is the value of 25 + 11?",
-   "o": [
+   "question": "A sum becomes 36 when 25 is added to another number 11. What is the value of 25 + 11?",
+   "options": [
     "36",
     "37",
     "38",
     "275"
    ],
-   "a": 0,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "25 + 11 = 36."
+   "answer": 0,
+   "explanation": "25 + 11 = 36.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01011",
-   "q": "What is 11 cubed?",
-   "o": [
+   "question": "What is 11 cubed?",
+   "options": [
     "1331",
     "121",
     "2662",
     "1728"
    ],
-   "a": 0,
-   "t": "Squares and Cubes",
-   "l": 1,
-   "s": "generated",
-   "e": "11^3 = 1331."
+   "answer": 0,
+   "explanation": "11^3 = 1331.",
+   "topic": "Squares and Cubes",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01012",
-   "q": "If 24 workers can complete a job in 18 days, how long will 14 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 24 workers can complete a job in 18 days, how long will 14 workers take (work at the same rate)?",
+   "options": [
     "20 days",
     "9 days",
     "30.86 days",
     "18 days"
    ],
-   "a": 2,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 24 x 18 / 14 = 30.86 days."
+   "answer": 2,
+   "explanation": "Men and time are inversely related: 24 x 18 / 14 = 30.86 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01013",
-   "q": "What is 83 x 83?",
-   "o": [
+   "question": "What is 83 x 83?",
+   "options": [
     "6885",
     "6806",
     "6889",
     "6972"
    ],
-   "a": 2,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "83 x 83 = 6889."
+   "answer": 2,
+   "explanation": "83 x 83 = 6889.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01014",
-   "q": "What is 12 per cent of 340?",
-   "o": [
+   "question": "What is 12 per cent of 340?",
+   "options": [
     "39.8",
     "44.199999999999996",
     "40.8",
     "61.199999999999996"
    ],
-   "a": 2,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "12 per cent of 340 = 40.8."
+   "answer": 2,
+   "explanation": "12 per cent of 340 = 40.8.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01015",
-   "q": "What is the simple interest on 1900 rupees at 9 per cent per annum for 6 years?",
-   "o": [
+   "question": "What is the simple interest on 1900 rupees at 9 per cent per annum for 6 years?",
+   "options": [
     "1026 rupees",
     "1231.2 rupees",
     "1035 rupees",
     "1017 rupees"
    ],
-   "a": 0,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 1900 x 9 x 6 / 100 = 1026."
+   "answer": 0,
+   "explanation": "SI = P x R x T / 100 = 1900 x 9 x 6 / 100 = 1026.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01016",
-   "q": "What is the average of 28, 30, 36, 39, 47?",
-   "o": [
+   "question": "What is the average of 28, 30, 36, 39, 47?",
+   "options": [
     "35",
     "34",
     "38",
     "36"
    ],
-   "a": 3,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 180, average = 36."
+   "answer": 3,
+   "explanation": "Sum = 180, average = 36.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01017",
-   "q": "An article bought for 1000 rupees is sold at a profit of 23 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 1000 rupees is sold at a profit of 23 per cent. What is the selling price?",
+   "options": [
     "1225 rupees",
     "1230 rupees",
     "1240 rupees",
     "1000 rupees"
    ],
-   "a": 1,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1000 x (1 + 23/100) = 1230."
+   "answer": 1,
+   "explanation": "Selling price = 1000 x (1 + 23/100) = 1230.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01018",
-   "q": "A vehicle travels at 67 km per hour for 2 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 67 km per hour for 2 hours. What distance does it cover?",
+   "options": [
     "144 km",
     "67 km",
     "201 km",
     "134 km"
    ],
-   "a": 3,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 67 x 2 = 134 km."
+   "answer": 3,
+   "explanation": "Distance = speed x time = 67 x 2 = 134 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01019",
-   "q": "A train 300 metres long runs at 12 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 300 metres long runs at 12 metres per second. How long will it take to cross a pole?",
+   "options": [
     "35 seconds",
     "25 seconds",
     "50 seconds",
     "12.5 seconds"
    ],
-   "a": 1,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 300 / 12 = 25 seconds."
+   "answer": 1,
+   "explanation": "Time = length / speed = 300 / 12 = 25 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01020",
-   "q": "A can finish a piece of work in 14 days and B in 11 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 14 days and B in 11 days. Working together, in how many days will they finish it?",
+   "options": [
     "6.16 days",
     "25 days",
     "11 days",
     "7.16 days"
    ],
-   "a": 0,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/14 + 1/11, so time = 6.16 days."
+   "answer": 0,
+   "explanation": "Combined rate = 1/14 + 1/11, so time = 6.16 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01021",
-   "q": "What is the HCF of 35 and 17?",
-   "o": [
+   "question": "What is the HCF of 35 and 17?",
+   "options": [
     "3",
     "1",
     "0",
     "2"
    ],
-   "a": 1,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 35 and 17 is 1."
+   "answer": 1,
+   "explanation": "The highest common factor of 35 and 17 is 1.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01022",
-   "q": "What is the LCM of 20 and 11?",
-   "o": [
+   "question": "What is the LCM of 20 and 11?",
+   "options": [
     "240",
     "440",
     "220",
     "209"
    ],
-   "a": 2,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 20 and 11 is 220."
+   "answer": 2,
+   "explanation": "The least common multiple of 20 and 11 is 220.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01023",
-   "q": "What is the perimeter of a rectangle 17 m long and 24 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 17 m long and 24 m wide?",
+   "options": [
     "68 m",
     "408 m",
     "41 m",
     "82 m"
    ],
-   "a": 3,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (17 + 24) = 82 m."
+   "answer": 3,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (17 + 24) = 82 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01024",
-   "q": "What is the compound interest on 8000 rupees at 11 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 8000 rupees at 11 per cent per annum for 2 years?",
+   "options": [
     "928.4 rupees",
     "1856.8 rupees",
     "3713.6 rupees",
     "1760 rupees"
    ],
-   "a": 1,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 8000 x (1 + 11/100)^2, so CI = 1856.8 rupees."
+   "answer": 1,
+   "explanation": "Amount = 8000 x (1 + 11/100)^2, so CI = 1856.8 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01025",
-   "q": "The marked price of an item is 600 rupees and a discount of 10 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 600 rupees and a discount of 10 per cent is given. What is the selling price?",
+   "options": [
     "550 rupees",
     "540 rupees",
     "600 rupees",
     "590 rupees"
    ],
-   "a": 1,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 600 x (1 - 10/100) = 540 rupees."
+   "answer": 1,
+   "explanation": "Selling price = 600 x (1 - 10/100) = 540 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01026",
-   "q": "A sum becomes 38 when 24 is added to another number 14. What is the value of 24 + 14?",
-   "o": [
+   "question": "A sum becomes 38 when 24 is added to another number 14. What is the value of 24 + 14?",
+   "options": [
     "336",
     "38",
     "40",
     "37"
    ],
-   "a": 1,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "24 + 14 = 38."
+   "answer": 1,
+   "explanation": "24 + 14 = 38.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01027",
-   "q": "What is 6 cubed?",
-   "o": [
+   "question": "What is 6 cubed?",
+   "options": [
     "210",
     "216",
     "343",
     "222"
    ],
-   "a": 1,
-   "t": "Squares and Cubes",
-   "l": 1,
-   "s": "generated",
-   "e": "6^3 = 216."
+   "answer": 1,
+   "explanation": "6^3 = 216.",
+   "topic": "Squares and Cubes",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01028",
-   "q": "If 12 workers can complete a job in 17 days, how long will 19 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 12 workers can complete a job in 17 days, how long will 19 workers take (work at the same rate)?",
+   "options": [
     "10.74 days",
     "19 days",
     "9.27 days",
     "8.5 days"
    ],
-   "a": 0,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 12 x 17 / 19 = 10.74 days."
+   "answer": 0,
+   "explanation": "Men and time are inversely related: 12 x 17 / 19 = 10.74 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01029",
-   "q": "What is 87 x 72?",
-   "o": [
+   "question": "What is 87 x 72?",
+   "options": [
     "6351",
     "6260",
     "6264",
     "6192"
    ],
-   "a": 2,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "87 x 72 = 6264."
+   "answer": 2,
+   "explanation": "87 x 72 = 6264.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01030",
-   "q": "What is 12 per cent of 540?",
-   "o": [
+   "question": "What is 12 per cent of 540?",
+   "options": [
     "64.8",
     "63.8",
     "32.4",
     "97.19999999999999"
    ],
-   "a": 0,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "12 per cent of 540 = 64.8."
+   "answer": 0,
+   "explanation": "12 per cent of 540 = 64.8.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01031",
-   "q": "What is the simple interest on 400 rupees at 7 per cent per annum for 4 years?",
-   "o": [
+   "question": "What is the simple interest on 400 rupees at 7 per cent per annum for 4 years?",
+   "options": [
     "112 rupees",
     "134.4 rupees",
     "119 rupees",
     "152 rupees"
    ],
-   "a": 0,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 400 x 7 x 4 / 100 = 112."
+   "answer": 0,
+   "explanation": "SI = P x R x T / 100 = 400 x 7 x 4 / 100 = 112.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01032",
-   "q": "What is the average of 21, 24, 27, 35, 40?",
-   "o": [
+   "question": "What is the average of 21, 24, 27, 35, 40?",
+   "options": [
     "27.4",
     "29.4",
     "28.4",
     "29.9"
    ],
-   "a": 1,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 147, average = 29.4."
+   "answer": 1,
+   "explanation": "Sum = 147, average = 29.4.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01033",
-   "q": "An article bought for 1200 rupees is sold at a profit of 38 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 1200 rupees is sold at a profit of 38 per cent. What is the selling price?",
+   "options": [
     "1656 rupees",
     "1666 rupees",
     "744 rupees",
     "1651 rupees"
    ],
-   "a": 0,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1200 x (1 + 38/100) = 1656."
+   "answer": 0,
+   "explanation": "Selling price = 1200 x (1 + 38/100) = 1656.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01034",
-   "q": "A vehicle travels at 28 km per hour for 3 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 28 km per hour for 3 hours. What distance does it cover?",
+   "options": [
     "94 km",
     "105 km",
     "84 km",
     "42 km"
    ],
-   "a": 2,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 28 x 3 = 84 km."
+   "answer": 2,
+   "explanation": "Distance = speed x time = 28 x 3 = 84 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01035",
-   "q": "A train 100 metres long runs at 13 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 100 metres long runs at 13 metres per second. How long will it take to cross a pole?",
+   "options": [
     "5.69 seconds",
     "15.38 seconds",
     "3.85 seconds",
     "7.69 seconds"
    ],
-   "a": 3,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 100 / 13 = 7.69 seconds."
+   "answer": 3,
+   "explanation": "Time = length / speed = 100 / 13 = 7.69 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01036",
-   "q": "A can finish a piece of work in 9 days and B in 21 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 9 days and B in 21 days. Working together, in how many days will they finish it?",
+   "options": [
     "6.3 days",
     "7.3 days",
     "15 days",
     "30 days"
    ],
-   "a": 0,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/9 + 1/21, so time = 6.3 days."
+   "answer": 0,
+   "explanation": "Combined rate = 1/9 + 1/21, so time = 6.3 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01037",
-   "q": "What is the HCF of 14 and 9?",
-   "o": [
+   "question": "What is the HCF of 14 and 9?",
+   "options": [
     "1",
     "3",
     "2",
     "0"
    ],
-   "a": 0,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 14 and 9 is 1."
+   "answer": 0,
+   "explanation": "The highest common factor of 14 and 9 is 1.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01038",
-   "q": "What is the LCM of 18 and 12?",
-   "o": [
+   "question": "What is the LCM of 18 and 12?",
+   "options": [
     "72",
     "36",
     "54",
     "18"
    ],
-   "a": 1,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 18 and 12 is 36."
+   "answer": 1,
+   "explanation": "The least common multiple of 18 and 12 is 36.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01039",
-   "q": "What is the area of a circle of radius 16 cm? (take pi = 22/7)",
-   "o": [
+   "question": "What is the area of a circle of radius 16 cm? (take pi = 22/7)",
+   "options": [
     "804.57 sq cm",
     "100.57 sq cm",
     "256 sq cm",
     "1609.14 sq cm"
    ],
-   "a": 0,
-   "t": "Mensuration",
-   "l": 2,
-   "s": "generated",
-   "e": "Area = pi x r^2 = 22/7 x 16 x 16 = 804.57 square centimetres."
+   "answer": 0,
+   "explanation": "Area = pi x r^2 = 22/7 x 16 x 16 = 804.57 square centimetres.",
+   "topic": "Mensuration",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01040",
-   "q": "What is the perimeter of a rectangle 19 m long and 21 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 19 m long and 21 m wide?",
+   "options": [
     "199.5 m",
     "80 m",
     "59 m",
     "40 m"
    ],
-   "a": 1,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (19 + 21) = 80 m."
+   "answer": 1,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (19 + 21) = 80 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01041",
-   "q": "What is the compound interest on 6000 rupees at 6 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 6000 rupees at 6 per cent per annum for 2 years?",
+   "options": [
     "1341.6 rupees",
     "735.6 rupees",
     "741.6 rupees",
     "720 rupees"
    ],
-   "a": 2,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 6000 x (1 + 6/100)^2, so CI = 741.6 rupees."
+   "answer": 2,
+   "explanation": "Amount = 6000 x (1 + 6/100)^2, so CI = 741.6 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01042",
-   "q": "The marked price of an item is 1600 rupees and a discount of 5 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 1600 rupees and a discount of 5 per cent is given. What is the selling price?",
+   "options": [
     "1510 rupees",
     "1520 rupees",
     "1600 rupees",
     "1680 rupees"
    ],
-   "a": 1,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1600 x (1 - 5/100) = 1520 rupees."
+   "answer": 1,
+   "explanation": "Selling price = 1600 x (1 - 5/100) = 1520 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01043",
-   "q": "A sum becomes 24 when 16 is added to another number 8. What is the value of 16 + 8?",
-   "o": [
+   "question": "A sum becomes 24 when 16 is added to another number 8. What is the value of 16 + 8?",
+   "options": [
     "8",
     "23",
     "24",
     "26"
    ],
-   "a": 2,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "16 + 8 = 24."
+   "answer": 2,
+   "explanation": "16 + 8 = 24.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01044",
-   "q": "What is 7 cubed?",
-   "o": [
+   "question": "What is 7 cubed?",
+   "options": [
     "686",
     "343",
     "512",
     "350"
    ],
-   "a": 1,
-   "t": "Squares and Cubes",
-   "l": 1,
-   "s": "generated",
-   "e": "7^3 = 343."
+   "answer": 1,
+   "explanation": "7^3 = 343.",
+   "topic": "Squares and Cubes",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01045",
-   "q": "If 15 workers can complete a job in 13 days, how long will 15 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 15 workers can complete a job in 13 days, how long will 15 workers take (work at the same rate)?",
+   "options": [
     "15 days",
     "13 days",
     "14 days",
     "6.5 days"
    ],
-   "a": 1,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 15 x 13 / 15 = 13 days."
+   "answer": 1,
+   "explanation": "Men and time are inversely related: 15 x 13 / 15 = 13 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01046",
-   "q": "What is 81 x 97?",
-   "o": [
+   "question": "What is 81 x 97?",
+   "options": [
     "7853",
     "7954",
     "7938",
     "7857"
    ],
-   "a": 3,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "81 x 97 = 7857."
+   "answer": 3,
+   "explanation": "81 x 97 = 7857.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01047",
-   "q": "What is 10 per cent of 200?",
-   "o": [
+   "question": "What is 10 per cent of 200?",
+   "options": [
     "19",
     "22",
     "30",
     "20"
    ],
-   "a": 3,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "10 per cent of 200 = 20."
+   "answer": 3,
+   "explanation": "10 per cent of 200 = 20.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01048",
-   "q": "What is the simple interest on 500 rupees at 4 per cent per annum for 5 years?",
-   "o": [
+   "question": "What is the simple interest on 500 rupees at 4 per cent per annum for 5 years?",
+   "options": [
     "120 rupees",
     "104 rupees",
     "96 rupees",
     "100 rupees"
    ],
-   "a": 3,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 500 x 4 x 5 / 100 = 100."
+   "answer": 3,
+   "explanation": "SI = P x R x T / 100 = 500 x 4 x 5 / 100 = 100.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01049",
-   "q": "What is the average of 21, 24, 27, 28, 33?",
-   "o": [
+   "question": "What is the average of 21, 24, 27, 28, 33?",
+   "options": [
     "24.6",
     "28.6",
     "26.6",
     "27.1"
    ],
-   "a": 2,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 133, average = 26.6."
+   "answer": 2,
+   "explanation": "Sum = 133, average = 26.6.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01050",
-   "q": "A sum of 380 rupees is divided between two people in the ratio 3:2. What is the larger share?",
-   "o": [
+   "question": "A sum of 380 rupees is divided between two people in the ratio 3:2. What is the larger share?",
+   "options": [
     "152 rupees",
     "190 rupees",
     "304 rupees",
     "228 rupees"
    ],
-   "a": 3,
-   "t": "Ratio",
-   "l": 2,
-   "s": "generated",
-   "e": "One part is 76 rupees, so the shares are 228 and 152."
+   "answer": 3,
+   "explanation": "One part is 76 rupees, so the shares are 228 and 152.",
+   "topic": "Ratio",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01051",
-   "q": "An article bought for 1300 rupees is sold at a profit of 7 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 1300 rupees is sold at a profit of 7 per cent. What is the selling price?",
+   "options": [
     "1391 rupees",
     "1386 rupees",
     "1300 rupees",
     "1209 rupees"
    ],
-   "a": 0,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1300 x (1 + 7/100) = 1391."
+   "answer": 0,
+   "explanation": "Selling price = 1300 x (1 + 7/100) = 1391.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01052",
-   "q": "A vehicle travels at 33 km per hour for 3 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 33 km per hour for 3 hours. What distance does it cover?",
+   "options": [
     "123.75 km",
     "99 km",
     "132 km",
     "49.5 km"
    ],
-   "a": 1,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 33 x 3 = 99 km."
+   "answer": 1,
+   "explanation": "Distance = speed x time = 33 x 3 = 99 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01053",
-   "q": "A train 250 metres long runs at 15 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 250 metres long runs at 15 metres per second. How long will it take to cross a pole?",
+   "options": [
     "14.67 seconds",
     "21.67 seconds",
     "16.67 seconds",
     "8.33 seconds"
    ],
-   "a": 2,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 250 / 15 = 16.67 seconds."
+   "answer": 2,
+   "explanation": "Time = length / speed = 250 / 15 = 16.67 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01054",
-   "q": "A can finish a piece of work in 20 days and B in 23 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 20 days and B in 23 days. Working together, in how many days will they finish it?",
+   "options": [
     "21.5 days",
     "10.7 days",
     "21.4 days",
     "11.7 days"
    ],
-   "a": 1,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/20 + 1/23, so time = 10.7 days."
+   "answer": 1,
+   "explanation": "Combined rate = 1/20 + 1/23, so time = 10.7 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01055",
-   "q": "What is the HCF of 29 and 19?",
-   "o": [
+   "question": "What is the HCF of 29 and 19?",
+   "options": [
     "0",
     "1",
     "551",
     "3"
    ],
-   "a": 1,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 29 and 19 is 1."
+   "answer": 1,
+   "explanation": "The highest common factor of 29 and 19 is 1.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01056",
-   "q": "What is the LCM of 16 and 11?",
-   "o": [
+   "question": "What is the LCM of 16 and 11?",
+   "options": [
     "176",
     "88",
     "352",
     "165"
    ],
-   "a": 0,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 16 and 11 is 176."
+   "answer": 0,
+   "explanation": "The least common multiple of 16 and 11 is 176.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01057",
-   "q": "What is the perimeter of a rectangle 23 m long and 11 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 23 m long and 11 m wide?",
+   "options": [
     "57 m",
     "253 m",
     "92 m",
     "68 m"
    ],
-   "a": 3,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (23 + 11) = 68 m."
+   "answer": 3,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (23 + 11) = 68 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01058",
-   "q": "What is the compound interest on 10000 rupees at 14 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 10000 rupees at 14 per cent per annum for 2 years?",
+   "options": [
     "1498 rupees",
     "5992 rupees",
     "2996 rupees",
     "2982 rupees"
    ],
-   "a": 2,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 10000 x (1 + 14/100)^2, so CI = 2996 rupees."
+   "answer": 2,
+   "explanation": "Amount = 10000 x (1 + 14/100)^2, so CI = 2996 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01059",
-   "q": "The marked price of an item is 1000 rupees and a discount of 10 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 1000 rupees and a discount of 10 per cent is given. What is the selling price?",
+   "options": [
     "1000 rupees",
     "900 rupees",
     "890 rupees",
     "1100 rupees"
    ],
-   "a": 1,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1000 x (1 - 10/100) = 900 rupees."
+   "answer": 1,
+   "explanation": "Selling price = 1000 x (1 - 10/100) = 900 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01060",
-   "q": "A sum becomes 12 when 5 is added to another number 7. What is the value of 5 + 7?",
-   "o": [
+   "question": "A sum becomes 12 when 5 is added to another number 7. What is the value of 5 + 7?",
+   "options": [
     "35",
     "12",
     "13",
     "14"
    ],
-   "a": 1,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "5 + 7 = 12."
+   "answer": 1,
+   "explanation": "5 + 7 = 12.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01061",
-   "q": "If 15 workers can complete a job in 4 days, how long will 12 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 15 workers can complete a job in 4 days, how long will 12 workers take (work at the same rate)?",
+   "options": [
     "5 days",
     "6 days",
     "4 days",
     "2 days"
    ],
-   "a": 0,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 15 x 4 / 12 = 5 days."
+   "answer": 0,
+   "explanation": "Men and time are inversely related: 15 x 4 / 12 = 5 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01062",
-   "q": "What is 44 x 64?",
-   "o": [
+   "question": "What is 44 x 64?",
+   "options": [
     "2880",
     "2816",
     "2752",
     "2812"
    ],
-   "a": 1,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "44 x 64 = 2816."
+   "answer": 1,
+   "explanation": "44 x 64 = 2816.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01063",
-   "q": "What is 30 per cent of 680?",
-   "o": [
+   "question": "What is 30 per cent of 680?",
+   "options": [
     "204",
     "102",
     "306",
     "203"
    ],
-   "a": 0,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "30 per cent of 680 = 204."
+   "answer": 0,
+   "explanation": "30 per cent of 680 = 204.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01064",
-   "q": "What is the simple interest on 1400 rupees at 10 per cent per annum for 6 years?",
-   "o": [
+   "question": "What is the simple interest on 1400 rupees at 10 per cent per annum for 6 years?",
+   "options": [
     "840 rupees",
     "420 rupees",
     "1008 rupees",
     "850 rupees"
    ],
-   "a": 0,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 1400 x 10 x 6 / 100 = 840."
+   "answer": 0,
+   "explanation": "SI = P x R x T / 100 = 1400 x 10 x 6 / 100 = 840.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01065",
-   "q": "What is the average of 33, 37, 41, 44, 52?",
-   "o": [
+   "question": "What is the average of 33, 37, 41, 44, 52?",
+   "options": [
     "39.4",
     "42.4",
     "41.4",
     "40.4"
    ],
-   "a": 2,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 207, average = 41.4."
+   "answer": 2,
+   "explanation": "Sum = 207, average = 41.4.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01066",
-   "q": "An article bought for 1100 rupees is sold at a profit of 24 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 1100 rupees is sold at a profit of 24 per cent. What is the selling price?",
+   "options": [
     "1359 rupees",
     "1364 rupees",
     "1374 rupees",
     "836 rupees"
    ],
-   "a": 1,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1100 x (1 + 24/100) = 1364."
+   "answer": 1,
+   "explanation": "Selling price = 1100 x (1 + 24/100) = 1364.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01067",
-   "q": "A vehicle travels at 72 km per hour for 7 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 72 km per hour for 7 hours. What distance does it cover?",
+   "options": [
     "576 km",
     "630 km",
     "514 km",
     "504 km"
    ],
-   "a": 3,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 72 x 7 = 504 km."
+   "answer": 3,
+   "explanation": "Distance = speed x time = 72 x 7 = 504 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01068",
-   "q": "A train 200 metres long runs at 23 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 200 metres long runs at 23 metres per second. How long will it take to cross a pole?",
+   "options": [
     "8.7 seconds",
     "18.7 seconds",
     "13.7 seconds",
     "4.35 seconds"
    ],
-   "a": 0,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 200 / 23 = 8.7 seconds."
+   "answer": 0,
+   "explanation": "Time = length / speed = 200 / 23 = 8.7 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01069",
-   "q": "A can finish a piece of work in 13 days and B in 13 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 13 days and B in 13 days. Working together, in how many days will they finish it?",
+   "options": [
     "26 days",
     "6.5 days",
     "7.5 days",
     "13 days"
    ],
-   "a": 1,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/13 + 1/13, so time = 6.5 days."
+   "answer": 1,
+   "explanation": "Combined rate = 1/13 + 1/13, so time = 6.5 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01070",
-   "q": "What is the HCF of 7 and 8?",
-   "o": [
+   "question": "What is the HCF of 7 and 8?",
+   "options": [
     "3",
     "0",
     "1",
     "56"
    ],
-   "a": 2,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 7 and 8 is 1."
+   "answer": 2,
+   "explanation": "The highest common factor of 7 and 8 is 1.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01071",
-   "q": "What is the LCM of 7 and 7?",
-   "o": [
+   "question": "What is the LCM of 7 and 7?",
+   "options": [
     "49",
     "3.5",
     "14",
     "7"
    ],
-   "a": 3,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 7 and 7 is 7."
+   "answer": 3,
+   "explanation": "The least common multiple of 7 and 7 is 7.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01072",
-   "q": "What is the perimeter of a rectangle 17 m long and 7 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 17 m long and 7 m wide?",
+   "options": [
     "68 m",
     "48 m",
     "24 m",
     "59.5 m"
    ],
-   "a": 1,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (17 + 7) = 48 m."
+   "answer": 1,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (17 + 7) = 48 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01073",
-   "q": "What is the compound interest on 2000 rupees at 7 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 2000 rupees at 7 per cent per annum for 2 years?",
+   "options": [
     "289.8 rupees",
     "280 rupees",
     "489.8 rupees",
     "144.9 rupees"
    ],
-   "a": 0,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 2000 x (1 + 7/100)^2, so CI = 289.8 rupees."
+   "answer": 0,
+   "explanation": "Amount = 2000 x (1 + 7/100)^2, so CI = 289.8 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01074",
-   "q": "The marked price of an item is 600 rupees and a discount of 20 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 600 rupees and a discount of 20 per cent is given. What is the selling price?",
+   "options": [
     "470 rupees",
     "720 rupees",
     "480 rupees",
     "600 rupees"
    ],
-   "a": 2,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 600 x (1 - 20/100) = 480 rupees."
+   "answer": 2,
+   "explanation": "Selling price = 600 x (1 - 20/100) = 480 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01075",
-   "q": "A sum becomes 51 when 23 is added to another number 28. What is the value of 23 + 28?",
-   "o": [
+   "question": "A sum becomes 51 when 23 is added to another number 28. What is the value of 23 + 28?",
+   "options": [
     "51",
     "53",
     "-5",
     "52"
    ],
-   "a": 0,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "23 + 28 = 51."
+   "answer": 0,
+   "explanation": "23 + 28 = 51.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01076",
-   "q": "What is 4 cubed?",
-   "o": [
+   "question": "What is 4 cubed?",
+   "options": [
     "60",
     "64",
     "125",
     "128"
    ],
-   "a": 1,
-   "t": "Squares and Cubes",
-   "l": 1,
-   "s": "generated",
-   "e": "4^3 = 64."
+   "answer": 1,
+   "explanation": "4^3 = 64.",
+   "topic": "Squares and Cubes",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01077",
-   "q": "If 10 workers can complete a job in 18 days, how long will 18 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 10 workers can complete a job in 18 days, how long will 18 workers take (work at the same rate)?",
+   "options": [
     "20 days",
     "10 days",
     "11 days",
     "8.57 days"
    ],
-   "a": 1,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 10 x 18 / 18 = 10 days."
+   "answer": 1,
+   "explanation": "Men and time are inversely related: 10 x 18 / 18 = 10 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01078",
-   "q": "What is 25 x 81?",
-   "o": [
+   "question": "What is 25 x 81?",
+   "options": [
     "2106",
     "2025",
     "1944",
     "2021"
    ],
-   "a": 1,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "25 x 81 = 2025."
+   "answer": 1,
+   "explanation": "25 x 81 = 2025.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01079",
-   "q": "What is 75 per cent of 360?",
-   "o": [
+   "question": "What is 75 per cent of 360?",
+   "options": [
     "270",
     "273.6",
     "540",
     "135"
    ],
-   "a": 0,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "75 per cent of 360 = 270."
+   "answer": 0,
+   "explanation": "75 per cent of 360 = 270.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01080",
-   "q": "What is the simple interest on 2000 rupees at 3 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the simple interest on 2000 rupees at 3 per cent per annum for 2 years?",
+   "options": [
     "60 rupees",
     "123 rupees",
     "120 rupees",
     "117 rupees"
    ],
-   "a": 2,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 2000 x 3 x 2 / 100 = 120."
+   "answer": 2,
+   "explanation": "SI = P x R x T / 100 = 2000 x 3 x 2 / 100 = 120.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01081",
-   "q": "What is the average of 44, 49, 54, 60, 64?",
-   "o": [
+   "question": "What is the average of 44, 49, 54, 60, 64?",
+   "options": [
     "55.2",
     "52.2",
     "54.2",
     "53.2"
    ],
-   "a": 2,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 271, average = 54.2."
+   "answer": 2,
+   "explanation": "Sum = 271, average = 54.2.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01082",
-   "q": "An article bought for 1100 rupees is sold at a profit of 37 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 1100 rupees is sold at a profit of 37 per cent. What is the selling price?",
+   "options": [
     "1507 rupees",
     "1137 rupees",
     "1100 rupees",
     "693 rupees"
    ],
-   "a": 0,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1100 x (1 + 37/100) = 1507."
+   "answer": 0,
+   "explanation": "Selling price = 1100 x (1 + 37/100) = 1507.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01083",
-   "q": "A vehicle travels at 43 km per hour for 6 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 43 km per hour for 6 hours. What distance does it cover?",
+   "options": [
     "322.5 km",
     "258 km",
     "215 km",
     "301 km"
    ],
-   "a": 1,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 43 x 6 = 258 km."
+   "answer": 1,
+   "explanation": "Distance = speed x time = 43 x 6 = 258 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01084",
-   "q": "A train 50 metres long runs at 13 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 50 metres long runs at 13 metres per second. How long will it take to cross a pole?",
+   "options": [
     "13.85 seconds",
     "8.85 seconds",
     "1.85 seconds",
     "3.85 seconds"
    ],
-   "a": 3,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 50 / 13 = 3.85 seconds."
+   "answer": 3,
+   "explanation": "Time = length / speed = 50 / 13 = 3.85 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01085",
-   "q": "A can finish a piece of work in 14 days and B in 8 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 14 days and B in 8 days. Working together, in how many days will they finish it?",
+   "options": [
     "10.18 days",
     "6.09 days",
     "5.09 days",
     "8 days"
    ],
-   "a": 2,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/14 + 1/8, so time = 5.09 days."
+   "answer": 2,
+   "explanation": "Combined rate = 1/14 + 1/8, so time = 5.09 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01086",
-   "q": "What is the HCF of 15 and 12?",
-   "o": [
+   "question": "What is the HCF of 15 and 12?",
+   "options": [
     "3",
     "4",
     "9",
     "6"
    ],
-   "a": 0,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 15 and 12 is 3."
+   "answer": 0,
+   "explanation": "The highest common factor of 15 and 12 is 3.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01087",
-   "q": "What is the LCM of 17 and 22?",
-   "o": [
+   "question": "What is the LCM of 17 and 22?",
+   "options": [
     "748",
     "187",
     "391",
     "374"
    ],
-   "a": 3,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 17 and 22 is 374."
+   "answer": 3,
+   "explanation": "The least common multiple of 17 and 22 is 374.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01088",
-   "q": "What is the area of a circle of radius 11 cm? (take pi = 22/7)",
-   "o": [
+   "question": "What is the area of a circle of radius 11 cm? (take pi = 22/7)",
+   "options": [
     "121 sq cm",
     "760.57 sq cm",
     "380.29 sq cm",
     "34.57 sq cm"
    ],
-   "a": 2,
-   "t": "Mensuration",
-   "l": 2,
-   "s": "generated",
-   "e": "Area = pi x r^2 = 22/7 x 11 x 11 = 380.29 square centimetres."
+   "answer": 2,
+   "explanation": "Area = pi x r^2 = 22/7 x 11 x 11 = 380.29 square centimetres.",
+   "topic": "Mensuration",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01089",
-   "q": "What is the perimeter of a rectangle 12 m long and 19 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 12 m long and 19 m wide?",
+   "options": [
     "62 m",
     "31 m",
     "228 m",
     "48 m"
    ],
-   "a": 0,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (12 + 19) = 62 m."
+   "answer": 0,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (12 + 19) = 62 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01090",
-   "q": "What is the compound interest on 5000 rupees at 10 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 5000 rupees at 10 per cent per annum for 2 years?",
+   "options": [
     "525 rupees",
     "2100 rupees",
     "1000 rupees",
     "1050 rupees"
    ],
-   "a": 3,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 5000 x (1 + 10/100)^2, so CI = 1050 rupees."
+   "answer": 3,
+   "explanation": "Amount = 5000 x (1 + 10/100)^2, so CI = 1050 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01091",
-   "q": "The marked price of an item is 1200 rupees and a discount of 20 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 1200 rupees and a discount of 20 per cent is given. What is the selling price?",
+   "options": [
     "950 rupees",
     "960 rupees",
     "1200 rupees",
     "1180 rupees"
    ],
-   "a": 1,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1200 x (1 - 20/100) = 960 rupees."
+   "answer": 1,
+   "explanation": "Selling price = 1200 x (1 - 20/100) = 960 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01092",
-   "q": "A sum becomes 35 when 19 is added to another number 16. What is the value of 19 + 16?",
-   "o": [
+   "question": "A sum becomes 35 when 19 is added to another number 16. What is the value of 19 + 16?",
+   "options": [
     "304",
     "37",
     "35",
     "34"
    ],
-   "a": 2,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "19 + 16 = 35."
+   "answer": 2,
+   "explanation": "19 + 16 = 35.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01093",
-   "q": "What is 6 cubed?",
-   "o": [
+   "question": "What is 6 cubed?",
+   "options": [
     "222",
     "216",
     "210",
     "432"
    ],
-   "a": 1,
-   "t": "Squares and Cubes",
-   "l": 1,
-   "s": "generated",
-   "e": "6^3 = 216."
+   "answer": 1,
+   "explanation": "6^3 = 216.",
+   "topic": "Squares and Cubes",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01094",
-   "q": "If 21 workers can complete a job in 4 days, how long will 9 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 21 workers can complete a job in 4 days, how long will 9 workers take (work at the same rate)?",
+   "options": [
     "4 days",
     "10.33 days",
     "9.33 days",
     "6 days"
    ],
-   "a": 2,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 21 x 4 / 9 = 9.33 days."
+   "answer": 2,
+   "explanation": "Men and time are inversely related: 21 x 4 / 9 = 9.33 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01095",
-   "q": "What is 28 x 69?",
-   "o": [
+   "question": "What is 28 x 69?",
+   "options": [
     "1932",
     "1960",
     "2001",
     "1863"
    ],
-   "a": 0,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "28 x 69 = 1932."
+   "answer": 0,
+   "explanation": "28 x 69 = 1932.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01096",
-   "q": "What is 20 per cent of 380?",
-   "o": [
+   "question": "What is 20 per cent of 380?",
+   "options": [
     "76",
     "75",
     "152",
     "79.8"
    ],
-   "a": 0,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "20 per cent of 380 = 76."
+   "answer": 0,
+   "explanation": "20 per cent of 380 = 76.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01097",
-   "q": "What is the simple interest on 1600 rupees at 12 per cent per annum for 4 years?",
-   "o": [
+   "question": "What is the simple interest on 1600 rupees at 12 per cent per annum for 4 years?",
+   "options": [
     "756 rupees",
     "768 rupees",
     "780 rupees",
     "921.6 rupees"
    ],
-   "a": 1,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 1600 x 12 x 4 / 100 = 768."
+   "answer": 1,
+   "explanation": "SI = P x R x T / 100 = 1600 x 12 x 4 / 100 = 768.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01098",
-   "q": "What is the average of 33, 34, 39, 43, 49?",
-   "o": [
+   "question": "What is the average of 33, 34, 39, 43, 49?",
+   "options": [
     "41.6",
     "40.1",
     "39.6",
     "37.6"
    ],
-   "a": 2,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 198, average = 39.6."
+   "answer": 2,
+   "explanation": "Sum = 198, average = 39.6.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01099",
-   "q": "An article bought for 1400 rupees is sold at a profit of 18 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 1400 rupees is sold at a profit of 18 per cent. What is the selling price?",
+   "options": [
     "1652 rupees",
     "1148 rupees",
     "1400 rupees",
     "1418 rupees"
    ],
-   "a": 0,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1400 x (1 + 18/100) = 1652."
+   "answer": 0,
+   "explanation": "Selling price = 1400 x (1 + 18/100) = 1652.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01100",
-   "q": "A vehicle travels at 37 km per hour for 4 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 37 km per hour for 4 hours. What distance does it cover?",
+   "options": [
     "111 km",
     "158 km",
     "148 km",
     "185 km"
    ],
-   "a": 2,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 37 x 4 = 148 km."
+   "answer": 2,
+   "explanation": "Distance = speed x time = 37 x 4 = 148 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01101",
-   "q": "A train 50 metres long runs at 18 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 50 metres long runs at 18 metres per second. How long will it take to cross a pole?",
+   "options": [
     "5.56 seconds",
     "0.78 seconds",
     "12.78 seconds",
     "2.78 seconds"
    ],
-   "a": 3,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 50 / 18 = 2.78 seconds."
+   "answer": 3,
+   "explanation": "Time = length / speed = 50 / 18 = 2.78 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01102",
-   "q": "A can finish a piece of work in 12 days and B in 19 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 12 days and B in 19 days. Working together, in how many days will they finish it?",
+   "options": [
     "7.35 days",
     "14.71 days",
     "31 days",
     "15.5 days"
    ],
-   "a": 0,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/12 + 1/19, so time = 7.35 days."
+   "answer": 0,
+   "explanation": "Combined rate = 1/12 + 1/19, so time = 7.35 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01103",
-   "q": "What is the HCF of 34 and 35?",
-   "o": [
+   "question": "What is the HCF of 34 and 35?",
+   "options": [
     "0",
     "3",
     "1",
     "1190"
    ],
-   "a": 2,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 34 and 35 is 1."
+   "answer": 2,
+   "explanation": "The highest common factor of 34 and 35 is 1.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01104",
-   "q": "What is the LCM of 9 and 15?",
-   "o": [
+   "question": "What is the LCM of 9 and 15?",
+   "options": [
     "30",
     "54",
     "22.5",
     "45"
    ],
-   "a": 3,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 9 and 15 is 45."
+   "answer": 3,
+   "explanation": "The least common multiple of 9 and 15 is 45.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01105",
-   "q": "What is the perimeter of a rectangle 15 m long and 23 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 15 m long and 23 m wide?",
+   "options": [
     "38 m",
     "53 m",
     "60 m",
     "76 m"
    ],
-   "a": 3,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (15 + 23) = 76 m."
+   "answer": 3,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (15 + 23) = 76 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01106",
-   "q": "What is the compound interest on 5000 rupees at 13 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 5000 rupees at 13 per cent per annum for 2 years?",
+   "options": [
     "1884.5 rupees",
     "2769 rupees",
     "1384.5 rupees",
     "1371.5 rupees"
    ],
-   "a": 2,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 5000 x (1 + 13/100)^2, so CI = 1384.5 rupees."
+   "answer": 2,
+   "explanation": "Amount = 5000 x (1 + 13/100)^2, so CI = 1384.5 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01107",
-   "q": "The marked price of an item is 1800 rupees and a discount of 5 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 1800 rupees and a discount of 5 per cent is given. What is the selling price?",
+   "options": [
     "1710 rupees",
     "1800 rupees",
     "1795 rupees",
     "1700 rupees"
    ],
-   "a": 0,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1800 x (1 - 5/100) = 1710 rupees."
+   "answer": 0,
+   "explanation": "Selling price = 1800 x (1 - 5/100) = 1710 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01108",
-   "q": "A sum becomes 17 when 6 is added to another number 11. What is the value of 6 + 11?",
-   "o": [
+   "question": "A sum becomes 17 when 6 is added to another number 11. What is the value of 6 + 11?",
+   "options": [
     "16",
     "-5",
     "17",
     "66"
    ],
-   "a": 2,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "6 + 11 = 17."
+   "answer": 2,
+   "explanation": "6 + 11 = 17.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01109",
-   "q": "If 11 workers can complete a job in 16 days, how long will 23 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 11 workers can complete a job in 16 days, how long will 23 workers take (work at the same rate)?",
+   "options": [
     "8 days",
     "7.65 days",
     "8.65 days",
     "16 days"
    ],
-   "a": 1,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 11 x 16 / 23 = 7.65 days."
+   "answer": 1,
+   "explanation": "Men and time are inversely related: 11 x 16 / 23 = 7.65 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01110",
-   "q": "What is 86 x 42?",
-   "o": [
+   "question": "What is 86 x 42?",
+   "options": [
     "3698",
     "3608",
     "3612",
     "3654"
    ],
-   "a": 2,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "86 x 42 = 3612."
+   "answer": 2,
+   "explanation": "86 x 42 = 3612.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01111",
-   "q": "What is 12 per cent of 720?",
-   "o": [
+   "question": "What is 12 per cent of 720?",
+   "options": [
     "86.4",
     "85.4",
     "129.60000000000002",
     "93.60000000000001"
    ],
-   "a": 0,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "12 per cent of 720 = 86.4."
+   "answer": 0,
+   "explanation": "12 per cent of 720 = 86.4.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01112",
-   "q": "What is the simple interest on 1200 rupees at 9 per cent per annum for 3 years?",
-   "o": [
+   "question": "What is the simple interest on 1200 rupees at 9 per cent per annum for 3 years?",
+   "options": [
     "388.8 rupees",
     "315 rupees",
     "324 rupees",
     "162 rupees"
    ],
-   "a": 2,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 1200 x 9 x 3 / 100 = 324."
+   "answer": 2,
+   "explanation": "SI = P x R x T / 100 = 1200 x 9 x 3 / 100 = 324.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01113",
-   "q": "What is the average of 18, 22, 24, 28, 30?",
-   "o": [
+   "question": "What is the average of 18, 22, 24, 28, 30?",
+   "options": [
     "24.4",
     "26.4",
     "25.4",
     "23.4"
    ],
-   "a": 0,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 122, average = 24.4."
+   "answer": 0,
+   "explanation": "Sum = 122, average = 24.4.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01114",
-   "q": "An article bought for 1000 rupees is sold at a profit of 36 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 1000 rupees is sold at a profit of 36 per cent. What is the selling price?",
+   "options": [
     "1036 rupees",
     "640 rupees",
     "1000 rupees",
     "1360 rupees"
    ],
-   "a": 3,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1000 x (1 + 36/100) = 1360."
+   "answer": 3,
+   "explanation": "Selling price = 1000 x (1 + 36/100) = 1360.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01115",
-   "q": "A vehicle travels at 52 km per hour for 6 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 52 km per hour for 6 hours. What distance does it cover?",
+   "options": [
     "312 km",
     "156 km",
     "322 km",
     "260 km"
    ],
-   "a": 0,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 52 x 6 = 312 km."
+   "answer": 0,
+   "explanation": "Distance = speed x time = 52 x 6 = 312 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01116",
-   "q": "A can finish a piece of work in 6 days and B in 16 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 6 days and B in 16 days. Working together, in how many days will they finish it?",
+   "options": [
     "4.36 days",
     "22 days",
     "8.73 days",
     "6 days"
    ],
-   "a": 0,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/6 + 1/16, so time = 4.36 days."
+   "answer": 0,
+   "explanation": "Combined rate = 1/6 + 1/16, so time = 4.36 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01117",
-   "q": "What is the HCF of 15 and 8?",
-   "o": [
+   "question": "What is the HCF of 15 and 8?",
+   "options": [
     "2",
     "1",
     "0",
     "120"
    ],
-   "a": 1,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 15 and 8 is 1."
+   "answer": 1,
+   "explanation": "The highest common factor of 15 and 8 is 1.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01118",
-   "q": "What is the LCM of 13 and 8?",
-   "o": [
+   "question": "What is the LCM of 13 and 8?",
+   "options": [
     "117",
     "208",
     "96",
     "104"
    ],
-   "a": 3,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 13 and 8 is 104."
+   "answer": 3,
+   "explanation": "The least common multiple of 13 and 8 is 104.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01119",
-   "q": "What is the area of a circle of radius 4 cm? (take pi = 22/7)",
-   "o": [
+   "question": "What is the area of a circle of radius 4 cm? (take pi = 22/7)",
+   "options": [
     "100.57 sq cm",
     "16 sq cm",
     "50.29 sq cm",
     "25.14 sq cm"
    ],
-   "a": 2,
-   "t": "Mensuration",
-   "l": 2,
-   "s": "generated",
-   "e": "Area = pi x r^2 = 22/7 x 4 x 4 = 50.29 square centimetres."
+   "answer": 2,
+   "explanation": "Area = pi x r^2 = 22/7 x 4 x 4 = 50.29 square centimetres.",
+   "topic": "Mensuration",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01120",
-   "q": "What is the perimeter of a rectangle 17 m long and 11 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 17 m long and 11 m wide?",
+   "options": [
     "45 m",
     "68 m",
     "56 m",
     "28 m"
    ],
-   "a": 2,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (17 + 11) = 56 m."
+   "answer": 2,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (17 + 11) = 56 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01121",
-   "q": "What is the compound interest on 1000 rupees at 11 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 1000 rupees at 11 per cent per annum for 2 years?",
+   "options": [
     "220 rupees",
     "464.2 rupees",
     "116.05 rupees",
     "232.1 rupees"
    ],
-   "a": 3,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 1000 x (1 + 11/100)^2, so CI = 232.1 rupees."
+   "answer": 3,
+   "explanation": "Amount = 1000 x (1 + 11/100)^2, so CI = 232.1 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01122",
-   "q": "The marked price of an item is 800 rupees and a discount of 25 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 800 rupees and a discount of 25 per cent is given. What is the selling price?",
+   "options": [
     "800 rupees",
     "590 rupees",
     "600 rupees",
     "610 rupees"
    ],
-   "a": 2,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 800 x (1 - 25/100) = 600 rupees."
+   "answer": 2,
+   "explanation": "Selling price = 800 x (1 - 25/100) = 600 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01123",
-   "q": "A sum becomes 37 when 22 is added to another number 15. What is the value of 22 + 15?",
-   "o": [
+   "question": "A sum becomes 37 when 22 is added to another number 15. What is the value of 22 + 15?",
+   "options": [
     "37",
     "7",
     "38",
     "36"
    ],
-   "a": 0,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "22 + 15 = 37."
+   "answer": 0,
+   "explanation": "22 + 15 = 37.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01124",
-   "q": "What is 2 cubed?",
-   "o": [
+   "question": "What is 2 cubed?",
+   "options": [
     "8",
     "6",
     "16",
     "27"
    ],
-   "a": 0,
-   "t": "Squares and Cubes",
-   "l": 1,
-   "s": "generated",
-   "e": "2^3 = 8."
+   "answer": 0,
+   "explanation": "2^3 = 8.",
+   "topic": "Squares and Cubes",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01125",
-   "q": "If 21 workers can complete a job in 16 days, how long will 17 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 21 workers can complete a job in 16 days, how long will 17 workers take (work at the same rate)?",
+   "options": [
     "16.8 days",
     "20.76 days",
     "19.76 days",
     "16 days"
    ],
-   "a": 2,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 21 x 16 / 17 = 19.76 days."
+   "answer": 2,
+   "explanation": "Men and time are inversely related: 21 x 16 / 17 = 19.76 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01126",
-   "q": "What is 87 x 26?",
-   "o": [
+   "question": "What is 87 x 26?",
+   "options": [
     "2258",
     "2262",
     "2236",
     "2349"
    ],
-   "a": 1,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "87 x 26 = 2262."
+   "answer": 1,
+   "explanation": "87 x 26 = 2262.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01127",
-   "q": "What is 20 per cent of 200?",
-   "o": [
+   "question": "What is 20 per cent of 200?",
+   "options": [
     "40",
     "60",
     "39",
     "80"
    ],
-   "a": 0,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "20 per cent of 200 = 40."
+   "answer": 0,
+   "explanation": "20 per cent of 200 = 40.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01128",
-   "q": "What is the simple interest on 2000 rupees at 8 per cent per annum for 4 years?",
-   "o": [
+   "question": "What is the simple interest on 2000 rupees at 8 per cent per annum for 4 years?",
+   "options": [
     "840 rupees",
     "648 rupees",
     "632 rupees",
     "640 rupees"
    ],
-   "a": 3,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 2000 x 8 x 4 / 100 = 640."
+   "answer": 3,
+   "explanation": "SI = P x R x T / 100 = 2000 x 8 x 4 / 100 = 640.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01129",
-   "q": "What is the average of 20, 25, 28, 34, 40?",
-   "o": [
+   "question": "What is the average of 20, 25, 28, 34, 40?",
+   "options": [
     "27.4",
     "31.4",
     "29.9",
     "29.4"
    ],
-   "a": 3,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 147, average = 29.4."
+   "answer": 3,
+   "explanation": "Sum = 147, average = 29.4.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01130",
-   "q": "An article bought for 1000 rupees is sold at a profit of 37 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 1000 rupees is sold at a profit of 37 per cent. What is the selling price?",
+   "options": [
     "1370 rupees",
     "1380 rupees",
     "1000 rupees",
     "1365 rupees"
    ],
-   "a": 0,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1000 x (1 + 37/100) = 1370."
+   "answer": 0,
+   "explanation": "Selling price = 1000 x (1 + 37/100) = 1370.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01131",
-   "q": "A vehicle travels at 36 km per hour for 3 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 36 km per hour for 3 hours. What distance does it cover?",
+   "options": [
     "135 km",
     "108 km",
     "144 km",
     "72 km"
    ],
-   "a": 1,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 36 x 3 = 108 km."
+   "answer": 1,
+   "explanation": "Distance = speed x time = 36 x 3 = 108 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01132",
-   "q": "A can finish a piece of work in 7 days and B in 11 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 7 days and B in 11 days. Working together, in how many days will they finish it?",
+   "options": [
     "7 days",
     "4.28 days",
     "9 days",
     "5.28 days"
    ],
-   "a": 1,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/7 + 1/11, so time = 4.28 days."
+   "answer": 1,
+   "explanation": "Combined rate = 1/7 + 1/11, so time = 4.28 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01133",
-   "q": "What is the HCF of 29 and 27?",
-   "o": [
+   "question": "What is the HCF of 29 and 27?",
+   "options": [
     "1",
     "783",
     "0",
     "2"
    ],
-   "a": 0,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 29 and 27 is 1."
+   "answer": 0,
+   "explanation": "The highest common factor of 29 and 27 is 1.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01134",
-   "q": "What is the perimeter of a rectangle 5 m long and 8 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 5 m long and 8 m wide?",
+   "options": [
     "40 m",
     "26 m",
     "13 m",
     "20 m"
    ],
-   "a": 1,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (5 + 8) = 26 m."
+   "answer": 1,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (5 + 8) = 26 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01135",
-   "q": "The marked price of an item is 1400 rupees and a discount of 10 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 1400 rupees and a discount of 10 per cent is given. What is the selling price?",
+   "options": [
     "1540 rupees",
     "1260 rupees",
     "1250 rupees",
     "1390 rupees"
    ],
-   "a": 1,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1400 x (1 - 10/100) = 1260 rupees."
+   "answer": 1,
+   "explanation": "Selling price = 1400 x (1 - 10/100) = 1260 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01136",
-   "q": "A sum becomes 17 when 8 is added to another number 9. What is the value of 8 + 9?",
-   "o": [
+   "question": "A sum becomes 17 when 8 is added to another number 9. What is the value of 8 + 9?",
+   "options": [
     "-1",
     "16",
     "17",
     "18"
    ],
-   "a": 2,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "8 + 9 = 17."
+   "answer": 2,
+   "explanation": "8 + 9 = 17.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01137",
-   "q": "What is 4 cubed?",
-   "o": [
+   "question": "What is 4 cubed?",
+   "options": [
     "128",
     "125",
     "64",
     "16"
    ],
-   "a": 2,
-   "t": "Squares and Cubes",
-   "l": 1,
-   "s": "generated",
-   "e": "4^3 = 64."
+   "answer": 2,
+   "explanation": "4^3 = 64.",
+   "topic": "Squares and Cubes",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01138",
-   "q": "If 22 workers can complete a job in 13 days, how long will 23 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 22 workers can complete a job in 13 days, how long will 23 workers take (work at the same rate)?",
+   "options": [
     "13 days",
     "12.43 days",
     "11 days",
     "15 days"
    ],
-   "a": 1,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 22 x 13 / 23 = 12.43 days."
+   "answer": 1,
+   "explanation": "Men and time are inversely related: 22 x 13 / 23 = 12.43 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01139",
-   "q": "What is 45 x 34?",
-   "o": [
+   "question": "What is 45 x 34?",
+   "options": [
     "1564",
     "1526",
     "1575",
     "1530"
    ],
-   "a": 3,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "45 x 34 = 1530."
+   "answer": 3,
+   "explanation": "45 x 34 = 1530.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01140",
-   "q": "What is 50 per cent of 700?",
-   "o": [
+   "question": "What is 50 per cent of 700?",
+   "options": [
     "175",
     "357",
     "700",
     "350"
    ],
-   "a": 3,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "50 per cent of 700 = 350."
+   "answer": 3,
+   "explanation": "50 per cent of 700 = 350.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01141",
-   "q": "What is the simple interest on 1900 rupees at 4 per cent per annum for 5 years?",
-   "o": [
+   "question": "What is the simple interest on 1900 rupees at 4 per cent per annum for 5 years?",
+   "options": [
     "190 rupees",
     "570 rupees",
     "380 rupees",
     "384 rupees"
    ],
-   "a": 2,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 1900 x 4 x 5 / 100 = 380."
+   "answer": 2,
+   "explanation": "SI = P x R x T / 100 = 1900 x 4 x 5 / 100 = 380.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01142",
-   "q": "What is the average of 35, 41, 50, 59, 61?",
-   "o": [
+   "question": "What is the average of 35, 41, 50, 59, 61?",
+   "options": [
     "50.2",
     "51.2",
     "49.2",
     "49.7"
    ],
-   "a": 2,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 246, average = 49.2."
+   "answer": 2,
+   "explanation": "Sum = 246, average = 49.2.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01143",
-   "q": "An article bought for 700 rupees is sold at a profit of 17 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 700 rupees is sold at a profit of 17 per cent. What is the selling price?",
+   "options": [
     "829 rupees",
     "819 rupees",
     "717 rupees",
     "700 rupees"
    ],
-   "a": 1,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 700 x (1 + 17/100) = 819."
+   "answer": 1,
+   "explanation": "Selling price = 700 x (1 + 17/100) = 819.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01144",
-   "q": "A vehicle travels at 74 km per hour for 3 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 74 km per hour for 3 hours. What distance does it cover?",
+   "options": [
     "277.5 km",
     "148 km",
     "111 km",
     "222 km"
    ],
-   "a": 3,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 74 x 3 = 222 km."
+   "answer": 3,
+   "explanation": "Distance = speed x time = 74 x 3 = 222 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01145",
-   "q": "A train 200 metres long runs at 19 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 200 metres long runs at 19 metres per second. How long will it take to cross a pole?",
+   "options": [
     "5.26 seconds",
     "10.53 seconds",
     "8.53 seconds",
     "15.53 seconds"
    ],
-   "a": 1,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 200 / 19 = 10.53 seconds."
+   "answer": 1,
+   "explanation": "Time = length / speed = 200 / 19 = 10.53 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01146",
-   "q": "A can finish a piece of work in 17 days and B in 8 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 17 days and B in 8 days. Working together, in how many days will they finish it?",
+   "options": [
     "10.88 days",
     "5.44 days",
     "6.44 days",
     "8 days"
    ],
-   "a": 1,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/17 + 1/8, so time = 5.44 days."
+   "answer": 1,
+   "explanation": "Combined rate = 1/17 + 1/8, so time = 5.44 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01147",
-   "q": "What is the HCF of 21 and 18?",
-   "o": [
+   "question": "What is the HCF of 21 and 18?",
+   "options": [
     "6",
     "126",
     "3",
     "9"
    ],
-   "a": 2,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 21 and 18 is 3."
+   "answer": 2,
+   "explanation": "The highest common factor of 21 and 18 is 3.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01148",
-   "q": "What is the LCM of 15 and 20?",
-   "o": [
+   "question": "What is the LCM of 15 and 20?",
+   "options": [
     "60",
     "75",
     "30",
     "40"
    ],
-   "a": 0,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 15 and 20 is 60."
+   "answer": 0,
+   "explanation": "The least common multiple of 15 and 20 is 60.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01149",
-   "q": "What is the perimeter of a rectangle 8 m long and 15 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 8 m long and 15 m wide?",
+   "options": [
     "46 m",
     "31 m",
     "60 m",
     "23 m"
    ],
-   "a": 0,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (8 + 15) = 46 m."
+   "answer": 0,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (8 + 15) = 46 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01150",
-   "q": "What is the compound interest on 3000 rupees at 11 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 3000 rupees at 11 per cent per annum for 2 years?",
+   "options": [
     "696.3 rupees",
     "996.3 rupees",
     "1392.6 rupees",
     "660 rupees"
    ],
-   "a": 0,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 3000 x (1 + 11/100)^2, so CI = 696.3 rupees."
+   "answer": 0,
+   "explanation": "Amount = 3000 x (1 + 11/100)^2, so CI = 696.3 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01151",
-   "q": "A sum becomes 22 when 15 is added to another number 7. What is the value of 15 + 7?",
-   "o": [
+   "question": "A sum becomes 22 when 15 is added to another number 7. What is the value of 15 + 7?",
+   "options": [
     "23",
     "8",
     "22",
     "105"
    ],
-   "a": 2,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "15 + 7 = 22."
+   "answer": 2,
+   "explanation": "15 + 7 = 22.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01152",
-   "q": "What is 13 cubed?",
-   "o": [
+   "question": "What is 13 cubed?",
+   "options": [
     "2210",
     "2197",
     "169",
     "4394"
    ],
-   "a": 1,
-   "t": "Squares and Cubes",
-   "l": 1,
-   "s": "generated",
-   "e": "13^3 = 2197."
+   "answer": 1,
+   "explanation": "13^3 = 2197.",
+   "topic": "Squares and Cubes",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01153",
-   "q": "If 17 workers can complete a job in 16 days, how long will 13 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 17 workers can complete a job in 16 days, how long will 13 workers take (work at the same rate)?",
+   "options": [
     "20.92 days",
     "16 days",
     "21.92 days",
     "17 days"
    ],
-   "a": 0,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 17 x 16 / 13 = 20.92 days."
+   "answer": 0,
+   "explanation": "Men and time are inversely related: 17 x 16 / 13 = 20.92 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01154",
-   "q": "What is 84 x 86?",
-   "o": [
+   "question": "What is 84 x 86?",
+   "options": [
     "7224",
     "7308",
     "7310",
     "7220"
    ],
-   "a": 0,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "84 x 86 = 7224."
+   "answer": 0,
+   "explanation": "84 x 86 = 7224.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01155",
-   "q": "What is 20 per cent of 580?",
-   "o": [
+   "question": "What is 20 per cent of 580?",
+   "options": [
     "58",
     "116",
     "121.8",
     "115"
    ],
-   "a": 1,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "20 per cent of 580 = 116."
+   "answer": 1,
+   "explanation": "20 per cent of 580 = 116.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01156",
-   "q": "What is the simple interest on 400 rupees at 2 per cent per annum for 6 years?",
-   "o": [
+   "question": "What is the simple interest on 400 rupees at 2 per cent per annum for 6 years?",
+   "options": [
     "48 rupees",
     "50 rupees",
     "46 rupees",
     "24 rupees"
    ],
-   "a": 0,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 400 x 2 x 6 / 100 = 48."
+   "answer": 0,
+   "explanation": "SI = P x R x T / 100 = 400 x 2 x 6 / 100 = 48.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01157",
-   "q": "What is the average of 18, 25, 26, 32, 41?",
-   "o": [
+   "question": "What is the average of 18, 25, 26, 32, 41?",
+   "options": [
     "28.9",
     "28.4",
     "27.4",
     "29.4"
    ],
-   "a": 1,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 142, average = 28.4."
+   "answer": 1,
+   "explanation": "Sum = 142, average = 28.4.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01158",
-   "q": "An article bought for 300 rupees is sold at a profit of 16 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 300 rupees is sold at a profit of 16 per cent. What is the selling price?",
+   "options": [
     "316 rupees",
     "348 rupees",
     "300 rupees",
     "358 rupees"
    ],
-   "a": 1,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 300 x (1 + 16/100) = 348."
+   "answer": 1,
+   "explanation": "Selling price = 300 x (1 + 16/100) = 348.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01159",
-   "q": "A vehicle travels at 31 km per hour for 2 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 31 km per hour for 2 hours. What distance does it cover?",
+   "options": [
     "93 km",
     "77.5 km",
     "72 km",
     "62 km"
    ],
-   "a": 3,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 31 x 2 = 62 km."
+   "answer": 3,
+   "explanation": "Distance = speed x time = 31 x 2 = 62 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01160",
-   "q": "A train 200 metres long runs at 19 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 200 metres long runs at 19 metres per second. How long will it take to cross a pole?",
+   "options": [
     "20.53 seconds",
     "10.53 seconds",
     "21.05 seconds",
     "5.26 seconds"
    ],
-   "a": 1,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 200 / 19 = 10.53 seconds."
+   "answer": 1,
+   "explanation": "Time = length / speed = 200 / 19 = 10.53 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01161",
-   "q": "A can finish a piece of work in 11 days and B in 10 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 11 days and B in 10 days. Working together, in how many days will they finish it?",
+   "options": [
     "10.48 days",
     "5.24 days",
     "21 days",
     "10.5 days"
    ],
-   "a": 1,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/11 + 1/10, so time = 5.24 days."
+   "answer": 1,
+   "explanation": "Combined rate = 1/11 + 1/10, so time = 5.24 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01162",
-   "q": "What is the HCF of 17 and 6?",
-   "o": [
+   "question": "What is the HCF of 17 and 6?",
+   "options": [
     "2",
     "0",
     "1",
     "102"
    ],
-   "a": 2,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 17 and 6 is 1."
+   "answer": 2,
+   "explanation": "The highest common factor of 17 and 6 is 1.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01163",
-   "q": "What is the LCM of 7 and 22?",
-   "o": [
+   "question": "What is the LCM of 7 and 22?",
+   "options": [
     "132",
     "161",
     "154",
     "308"
    ],
-   "a": 2,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 7 and 22 is 154."
+   "answer": 2,
+   "explanation": "The least common multiple of 7 and 22 is 154.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01164",
-   "q": "What is the area of a circle of radius 20 cm? (take pi = 22/7)",
-   "o": [
+   "question": "What is the area of a circle of radius 20 cm? (take pi = 22/7)",
+   "options": [
     "400 sq cm",
     "1257.14 sq cm",
     "125.71 sq cm",
     "62.86 sq cm"
    ],
-   "a": 1,
-   "t": "Mensuration",
-   "l": 2,
-   "s": "generated",
-   "e": "Area = pi x r^2 = 22/7 x 20 x 20 = 1257.14 square centimetres."
+   "answer": 1,
+   "explanation": "Area = pi x r^2 = 22/7 x 20 x 20 = 1257.14 square centimetres.",
+   "topic": "Mensuration",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01165",
-   "q": "What is the perimeter of a rectangle 19 m long and 13 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 19 m long and 13 m wide?",
+   "options": [
     "64 m",
     "76 m",
     "247 m",
     "32 m"
    ],
-   "a": 0,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (19 + 13) = 64 m."
+   "answer": 0,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (19 + 13) = 64 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01166",
-   "q": "What is the compound interest on 1000 rupees at 9 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 1000 rupees at 9 per cent per annum for 2 years?",
+   "options": [
     "179.1 rupees",
     "180 rupees",
     "188.1 rupees",
     "376.2 rupees"
    ],
-   "a": 2,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 1000 x (1 + 9/100)^2, so CI = 188.1 rupees."
+   "answer": 2,
+   "explanation": "Amount = 1000 x (1 + 9/100)^2, so CI = 188.1 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01167",
-   "q": "The marked price of an item is 1400 rupees and a discount of 20 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 1400 rupees and a discount of 20 per cent is given. What is the selling price?",
+   "options": [
     "1400 rupees",
     "1380 rupees",
     "1680 rupees",
     "1120 rupees"
    ],
-   "a": 3,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1400 x (1 - 20/100) = 1120 rupees."
+   "answer": 3,
+   "explanation": "Selling price = 1400 x (1 - 20/100) = 1120 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01168",
-   "q": "A sum becomes 46 when 26 is added to another number 20. What is the value of 26 + 20?",
-   "o": [
+   "question": "A sum becomes 46 when 26 is added to another number 20. What is the value of 26 + 20?",
+   "options": [
     "47",
     "520",
     "6",
     "46"
    ],
-   "a": 3,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "26 + 20 = 46."
+   "answer": 3,
+   "explanation": "26 + 20 = 46.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01169",
-   "q": "If 10 workers can complete a job in 8 days, how long will 6 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 10 workers can complete a job in 8 days, how long will 6 workers take (work at the same rate)?",
+   "options": [
     "13.33 days",
     "8 days",
     "10 days",
     "14.33 days"
    ],
-   "a": 0,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 10 x 8 / 6 = 13.33 days."
+   "answer": 0,
+   "explanation": "Men and time are inversely related: 10 x 8 / 6 = 13.33 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01170",
-   "q": "What is 76 x 28?",
-   "o": [
+   "question": "What is 76 x 28?",
+   "options": [
     "2124",
     "2128",
     "2100",
     "2204"
    ],
-   "a": 1,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "76 x 28 = 2128."
+   "answer": 1,
+   "explanation": "76 x 28 = 2128.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01171",
-   "q": "What is 40 per cent of 260?",
-   "o": [
+   "question": "What is 40 per cent of 260?",
+   "options": [
     "52",
     "104",
     "156",
     "103"
    ],
-   "a": 1,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "40 per cent of 260 = 104."
+   "answer": 1,
+   "explanation": "40 per cent of 260 = 104.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01172",
-   "q": "What is the simple interest on 1600 rupees at 13 per cent per annum for 4 years?",
-   "o": [
+   "question": "What is the simple interest on 1600 rupees at 13 per cent per annum for 4 years?",
+   "options": [
     "845 rupees",
     "819 rupees",
     "416 rupees",
     "832 rupees"
    ],
-   "a": 3,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 1600 x 13 x 4 / 100 = 832."
+   "answer": 3,
+   "explanation": "SI = P x R x T / 100 = 1600 x 13 x 4 / 100 = 832.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01173",
-   "q": "What is the average of 38, 47, 50, 56, 64?",
-   "o": [
+   "question": "What is the average of 38, 47, 50, 56, 64?",
+   "options": [
     "51",
     "53",
     "50",
     "51.5"
    ],
-   "a": 0,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 255, average = 51."
+   "answer": 0,
+   "explanation": "Sum = 255, average = 51.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01174",
-   "q": "An article bought for 1200 rupees is sold at a profit of 43 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 1200 rupees is sold at a profit of 43 per cent. What is the selling price?",
+   "options": [
     "1711 rupees",
     "1200 rupees",
     "1716 rupees",
     "1243 rupees"
    ],
-   "a": 2,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1200 x (1 + 43/100) = 1716."
+   "answer": 2,
+   "explanation": "Selling price = 1200 x (1 + 43/100) = 1716.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01175",
-   "q": "A vehicle travels at 73 km per hour for 5 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 73 km per hour for 5 hours. What distance does it cover?",
+   "options": [
     "182.5 km",
     "365 km",
     "438 km",
     "292 km"
    ],
-   "a": 1,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 73 x 5 = 365 km."
+   "answer": 1,
+   "explanation": "Distance = speed x time = 73 x 5 = 365 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01176",
-   "q": "A can finish a piece of work in 13 days and B in 16 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 13 days and B in 16 days. Working together, in how many days will they finish it?",
+   "options": [
     "8.17 days",
     "29 days",
     "7.17 days",
     "14.34 days"
    ],
-   "a": 2,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/13 + 1/16, so time = 7.17 days."
+   "answer": 2,
+   "explanation": "Combined rate = 1/13 + 1/16, so time = 7.17 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01177",
-   "q": "What is the HCF of 25 and 16?",
-   "o": [
+   "question": "What is the HCF of 25 and 16?",
+   "options": [
     "0",
     "2",
     "3",
     "1"
    ],
-   "a": 3,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 25 and 16 is 1."
+   "answer": 3,
+   "explanation": "The highest common factor of 25 and 16 is 1.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01178",
-   "q": "What is the LCM of 6 and 19?",
-   "o": [
+   "question": "What is the LCM of 6 and 19?",
+   "options": [
     "57",
     "114",
     "95",
     "120"
    ],
-   "a": 1,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 6 and 19 is 114."
+   "answer": 1,
+   "explanation": "The least common multiple of 6 and 19 is 114.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01179",
-   "q": "What is the perimeter of a rectangle 5 m long and 13 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 5 m long and 13 m wide?",
+   "options": [
     "23 m",
     "20 m",
     "65 m",
     "36 m"
    ],
-   "a": 3,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (5 + 13) = 36 m."
+   "answer": 3,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (5 + 13) = 36 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01180",
-   "q": "What is the compound interest on 5000 rupees at 6 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 5000 rupees at 6 per cent per annum for 2 years?",
+   "options": [
     "1118 rupees",
     "618 rupees",
     "600 rupees",
     "612 rupees"
    ],
-   "a": 1,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 5000 x (1 + 6/100)^2, so CI = 618 rupees."
+   "answer": 1,
+   "explanation": "Amount = 5000 x (1 + 6/100)^2, so CI = 618 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01181",
-   "q": "The marked price of an item is 2000 rupees and a discount of 15 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 2000 rupees and a discount of 15 per cent is given. What is the selling price?",
+   "options": [
     "1700 rupees",
     "1690 rupees",
     "2000 rupees",
     "1985 rupees"
    ],
-   "a": 0,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 2000 x (1 - 15/100) = 1700 rupees."
+   "answer": 0,
+   "explanation": "Selling price = 2000 x (1 - 15/100) = 1700 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01182",
-   "q": "A sum becomes 36 when 26 is added to another number 10. What is the value of 26 + 10?",
-   "o": [
+   "question": "A sum becomes 36 when 26 is added to another number 10. What is the value of 26 + 10?",
+   "options": [
     "36",
     "16",
     "260",
     "35"
    ],
-   "a": 0,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "26 + 10 = 36."
+   "answer": 0,
+   "explanation": "26 + 10 = 36.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01183",
-   "q": "If 7 workers can complete a job in 18 days, how long will 17 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 7 workers can complete a job in 18 days, how long will 17 workers take (work at the same rate)?",
+   "options": [
     "18 days",
     "7.41 days",
     "20 days",
     "6.3 days"
    ],
-   "a": 1,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 7 x 18 / 17 = 7.41 days."
+   "answer": 1,
+   "explanation": "Men and time are inversely related: 7 x 18 / 17 = 7.41 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01184",
-   "q": "What is 65 x 24?",
-   "o": [
+   "question": "What is 65 x 24?",
+   "options": [
     "1536",
     "1625",
     "1560",
     "1584"
    ],
-   "a": 2,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "65 x 24 = 1560."
+   "answer": 2,
+   "explanation": "65 x 24 = 1560.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01185",
-   "q": "What is 5 per cent of 580?",
-   "o": [
+   "question": "What is 5 per cent of 580?",
+   "options": [
     "28",
     "58",
     "34.8",
     "29"
    ],
-   "a": 3,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "5 per cent of 580 = 29."
+   "answer": 3,
+   "explanation": "5 per cent of 580 = 29.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01186",
-   "q": "What is the simple interest on 1600 rupees at 11 per cent per annum for 1 years?",
-   "o": [
+   "question": "What is the simple interest on 1600 rupees at 11 per cent per annum for 1 years?",
+   "options": [
     "187 rupees",
     "211.2 rupees",
     "176 rupees",
     "336 rupees"
    ],
-   "a": 2,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 1600 x 11 x 1 / 100 = 176."
+   "answer": 2,
+   "explanation": "SI = P x R x T / 100 = 1600 x 11 x 1 / 100 = 176.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01187",
-   "q": "What is the average of 23, 30, 39, 46, 47?",
-   "o": [
+   "question": "What is the average of 23, 30, 39, 46, 47?",
+   "options": [
     "37",
     "38",
     "35",
     "36"
    ],
-   "a": 0,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 185, average = 37."
+   "answer": 0,
+   "explanation": "Sum = 185, average = 37.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01188",
-   "q": "An article bought for 800 rupees is sold at a profit of 31 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 800 rupees is sold at a profit of 31 per cent. What is the selling price?",
+   "options": [
     "1043 rupees",
     "831 rupees",
     "1048 rupees",
     "800 rupees"
    ],
-   "a": 2,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 800 x (1 + 31/100) = 1048."
+   "answer": 2,
+   "explanation": "Selling price = 800 x (1 + 31/100) = 1048.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01189",
-   "q": "A vehicle travels at 56 km per hour for 2 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 56 km per hour for 2 hours. What distance does it cover?",
+   "options": [
     "112 km",
     "140 km",
     "168 km",
     "56 km"
    ],
-   "a": 0,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 56 x 2 = 112 km."
+   "answer": 0,
+   "explanation": "Distance = speed x time = 56 x 2 = 112 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01190",
-   "q": "A train 200 metres long runs at 26 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 200 metres long runs at 26 metres per second. How long will it take to cross a pole?",
+   "options": [
     "17.69 seconds",
     "7.69 seconds",
     "12.69 seconds",
     "3.85 seconds"
    ],
-   "a": 1,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 200 / 26 = 7.69 seconds."
+   "answer": 1,
+   "explanation": "Time = length / speed = 200 / 26 = 7.69 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01191",
-   "q": "A can finish a piece of work in 20 days and B in 11 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 20 days and B in 11 days. Working together, in how many days will they finish it?",
+   "options": [
     "15.5 days",
     "11 days",
     "14.19 days",
     "7.1 days"
    ],
-   "a": 3,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/20 + 1/11, so time = 7.1 days."
+   "answer": 3,
+   "explanation": "Combined rate = 1/20 + 1/11, so time = 7.1 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01192",
-   "q": "What is the HCF of 33 and 8?",
-   "o": [
+   "question": "What is the HCF of 33 and 8?",
+   "options": [
     "0",
     "1",
     "3",
     "2"
    ],
-   "a": 1,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 33 and 8 is 1."
+   "answer": 1,
+   "explanation": "The highest common factor of 33 and 8 is 1.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01193",
-   "q": "What is the LCM of 20 and 5?",
-   "o": [
+   "question": "What is the LCM of 20 and 5?",
+   "options": [
     "15",
     "10",
     "100",
     "20"
    ],
-   "a": 3,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 20 and 5 is 20."
+   "answer": 3,
+   "explanation": "The least common multiple of 20 and 5 is 20.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01194",
-   "q": "What is the perimeter of a rectangle 8 m long and 18 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 8 m long and 18 m wide?",
+   "options": [
     "72 m",
     "26 m",
     "34 m",
     "52 m"
    ],
-   "a": 3,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (8 + 18) = 52 m."
+   "answer": 3,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (8 + 18) = 52 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01195",
-   "q": "What is the compound interest on 7000 rupees at 7 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 7000 rupees at 7 per cent per annum for 2 years?",
+   "options": [
     "2028.6 rupees",
     "1014.3 rupees",
     "1714.3 rupees",
     "980 rupees"
    ],
-   "a": 1,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 7000 x (1 + 7/100)^2, so CI = 1014.3 rupees."
+   "answer": 1,
+   "explanation": "Amount = 7000 x (1 + 7/100)^2, so CI = 1014.3 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01196",
-   "q": "The marked price of an item is 200 rupees and a discount of 5 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 200 rupees and a discount of 5 per cent is given. What is the selling price?",
+   "options": [
     "180 rupees",
     "190 rupees",
     "195 rupees",
     "200 rupees"
    ],
-   "a": 1,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 200 x (1 - 5/100) = 190 rupees."
+   "answer": 1,
+   "explanation": "Selling price = 200 x (1 - 5/100) = 190 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01197",
-   "q": "A sum becomes 30 when 9 is added to another number 21. What is the value of 9 + 21?",
-   "o": [
+   "question": "A sum becomes 30 when 9 is added to another number 21. What is the value of 9 + 21?",
+   "options": [
     "189",
     "30",
     "31",
     "-12"
    ],
-   "a": 1,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "9 + 21 = 30."
+   "answer": 1,
+   "explanation": "9 + 21 = 30.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01198",
-   "q": "What is 12 cubed?",
-   "o": [
+   "question": "What is 12 cubed?",
+   "options": [
     "1740",
     "3456",
     "1728",
     "1716"
    ],
-   "a": 2,
-   "t": "Squares and Cubes",
-   "l": 1,
-   "s": "generated",
-   "e": "12^3 = 1728."
+   "answer": 2,
+   "explanation": "12^3 = 1728.",
+   "topic": "Squares and Cubes",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01199",
-   "q": "If 15 workers can complete a job in 6 days, how long will 24 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 15 workers can complete a job in 6 days, how long will 24 workers take (work at the same rate)?",
+   "options": [
     "3.33 days",
     "3.75 days",
     "4.75 days",
     "8 days"
    ],
-   "a": 1,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 15 x 6 / 24 = 3.75 days."
+   "answer": 1,
+   "explanation": "Men and time are inversely related: 15 x 6 / 24 = 3.75 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01200",
-   "q": "What is 66 x 83?",
-   "o": [
+   "question": "What is 66 x 83?",
+   "options": [
     "5478",
     "5561",
     "5395",
     "5544"
    ],
-   "a": 0,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "66 x 83 = 5478."
+   "answer": 0,
+   "explanation": "66 x 83 = 5478.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01201",
-   "q": "What is 75 per cent of 400?",
-   "o": [
+   "question": "What is 75 per cent of 400?",
+   "options": [
     "300",
     "304",
     "150",
     "450"
    ],
-   "a": 0,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "75 per cent of 400 = 300."
+   "answer": 0,
+   "explanation": "75 per cent of 400 = 300.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01202",
-   "q": "What is the simple interest on 700 rupees at 12 per cent per annum for 6 years?",
-   "o": [
+   "question": "What is the simple interest on 700 rupees at 12 per cent per annum for 6 years?",
+   "options": [
     "492 rupees",
     "504 rupees",
     "516 rupees",
     "604.8 rupees"
    ],
-   "a": 1,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 700 x 12 x 6 / 100 = 504."
+   "answer": 1,
+   "explanation": "SI = P x R x T / 100 = 700 x 12 x 6 / 100 = 504.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01203",
-   "q": "What is the average of 10, 15, 24, 31, 32?",
-   "o": [
+   "question": "What is the average of 10, 15, 24, 31, 32?",
+   "options": [
     "22.4",
     "20.4",
     "24.4",
     "21.4"
    ],
-   "a": 0,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 112, average = 22.4."
+   "answer": 0,
+   "explanation": "Sum = 112, average = 22.4.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01204",
-   "q": "An article bought for 1400 rupees is sold at a profit of 12 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 1400 rupees is sold at a profit of 12 per cent. What is the selling price?",
+   "options": [
     "1232 rupees",
     "1563 rupees",
     "1568 rupees",
     "1400 rupees"
    ],
-   "a": 2,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1400 x (1 + 12/100) = 1568."
+   "answer": 2,
+   "explanation": "Selling price = 1400 x (1 + 12/100) = 1568.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01205",
-   "q": "A vehicle travels at 45 km per hour for 4 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 45 km per hour for 4 hours. What distance does it cover?",
+   "options": [
     "135 km",
     "190 km",
     "180 km",
     "90 km"
    ],
-   "a": 2,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 45 x 4 = 180 km."
+   "answer": 2,
+   "explanation": "Distance = speed x time = 45 x 4 = 180 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01206",
-   "q": "A train 50 metres long runs at 15 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 50 metres long runs at 15 metres per second. How long will it take to cross a pole?",
+   "options": [
     "3.33 seconds",
     "1.33 seconds",
     "8.33 seconds",
     "13.33 seconds"
    ],
-   "a": 0,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 50 / 15 = 3.33 seconds."
+   "answer": 0,
+   "explanation": "Time = length / speed = 50 / 15 = 3.33 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01207",
-   "q": "A can finish a piece of work in 10 days and B in 20 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 10 days and B in 20 days. Working together, in how many days will they finish it?",
+   "options": [
     "10 days",
     "13.33 days",
     "30 days",
     "6.67 days"
    ],
-   "a": 3,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/10 + 1/20, so time = 6.67 days."
+   "answer": 3,
+   "explanation": "Combined rate = 1/10 + 1/20, so time = 6.67 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01208",
-   "q": "What is the HCF of 21 and 23?",
-   "o": [
+   "question": "What is the HCF of 21 and 23?",
+   "options": [
     "1",
     "3",
     "2",
     "483"
    ],
-   "a": 0,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 21 and 23 is 1."
+   "answer": 0,
+   "explanation": "The highest common factor of 21 and 23 is 1.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01209",
-   "q": "What is the LCM of 11 and 4?",
-   "o": [
+   "question": "What is the LCM of 11 and 4?",
+   "options": [
     "44",
     "88",
     "22",
     "55"
    ],
-   "a": 0,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 11 and 4 is 44."
+   "answer": 0,
+   "explanation": "The least common multiple of 11 and 4 is 44.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01210",
-   "q": "What is the perimeter of a rectangle 19 m long and 21 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 19 m long and 21 m wide?",
+   "options": [
     "76 m",
     "80 m",
     "40 m",
     "399 m"
    ],
-   "a": 1,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (19 + 21) = 80 m."
+   "answer": 1,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (19 + 21) = 80 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01211",
-   "q": "What is the compound interest on 1000 rupees at 7 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 1000 rupees at 7 per cent per annum for 2 years?",
+   "options": [
     "144.9 rupees",
     "137.9 rupees",
     "72.45 rupees",
     "244.9 rupees"
    ],
-   "a": 0,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 1000 x (1 + 7/100)^2, so CI = 144.9 rupees."
+   "answer": 0,
+   "explanation": "Amount = 1000 x (1 + 7/100)^2, so CI = 144.9 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01212",
-   "q": "A sum becomes 29 when 13 is added to another number 16. What is the value of 13 + 16?",
-   "o": [
+   "question": "A sum becomes 29 when 13 is added to another number 16. What is the value of 13 + 16?",
+   "options": [
     "-3",
     "29",
     "208",
     "28"
    ],
-   "a": 1,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "13 + 16 = 29."
+   "answer": 1,
+   "explanation": "13 + 16 = 29.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01213",
-   "q": "What is 5 cubed?",
-   "o": [
+   "question": "What is 5 cubed?",
+   "options": [
     "216",
     "25",
     "125",
     "120"
    ],
-   "a": 2,
-   "t": "Squares and Cubes",
-   "l": 1,
-   "s": "generated",
-   "e": "5^3 = 125."
+   "answer": 2,
+   "explanation": "5^3 = 125.",
+   "topic": "Squares and Cubes",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01214",
-   "q": "If 20 workers can complete a job in 15 days, how long will 13 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 20 workers can complete a job in 15 days, how long will 13 workers take (work at the same rate)?",
+   "options": [
     "7.5 days",
     "15 days",
     "23.08 days",
     "17 days"
    ],
-   "a": 2,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 20 x 15 / 13 = 23.08 days."
+   "answer": 2,
+   "explanation": "Men and time are inversely related: 20 x 15 / 13 = 23.08 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01215",
-   "q": "What is 22 x 87?",
-   "o": [
+   "question": "What is 22 x 87?",
+   "options": [
     "1827",
     "1910",
     "1936",
     "1914"
    ],
-   "a": 3,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "22 x 87 = 1914."
+   "answer": 3,
+   "explanation": "22 x 87 = 1914.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01216",
-   "q": "What is 10 per cent of 580?",
-   "o": [
+   "question": "What is 10 per cent of 580?",
+   "options": [
     "29",
     "58",
     "116",
     "87"
    ],
-   "a": 1,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "10 per cent of 580 = 58."
+   "answer": 1,
+   "explanation": "10 per cent of 580 = 58.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01217",
-   "q": "What is the simple interest on 1800 rupees at 3 per cent per annum for 6 years?",
-   "o": [
+   "question": "What is the simple interest on 1800 rupees at 3 per cent per annum for 6 years?",
+   "options": [
     "162 rupees",
     "327 rupees",
     "324 rupees",
     "388.8 rupees"
    ],
-   "a": 2,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 1800 x 3 x 6 / 100 = 324."
+   "answer": 2,
+   "explanation": "SI = P x R x T / 100 = 1800 x 3 x 6 / 100 = 324.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01218",
-   "q": "What is the average of 7, 9, 17, 26, 27?",
-   "o": [
+   "question": "What is the average of 7, 9, 17, 26, 27?",
+   "options": [
     "15.2",
     "17.2",
     "18.2",
     "17.7"
    ],
-   "a": 1,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 86, average = 17.2."
+   "answer": 1,
+   "explanation": "Sum = 86, average = 17.2.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01219",
-   "q": "An article bought for 500 rupees is sold at a profit of 34 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 500 rupees is sold at a profit of 34 per cent. What is the selling price?",
+   "options": [
     "500 rupees",
     "670 rupees",
     "534 rupees",
     "680 rupees"
    ],
-   "a": 1,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 500 x (1 + 34/100) = 670."
+   "answer": 1,
+   "explanation": "Selling price = 500 x (1 + 34/100) = 670.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01220",
-   "q": "A vehicle travels at 63 km per hour for 5 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 63 km per hour for 5 hours. What distance does it cover?",
+   "options": [
     "325 km",
     "393.75 km",
     "315 km",
     "378 km"
    ],
-   "a": 2,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 63 x 5 = 315 km."
+   "answer": 2,
+   "explanation": "Distance = speed x time = 63 x 5 = 315 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01221",
-   "q": "A train 200 metres long runs at 29 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 200 metres long runs at 29 metres per second. How long will it take to cross a pole?",
+   "options": [
     "6.9 seconds",
     "3.45 seconds",
     "16.9 seconds",
     "13.79 seconds"
    ],
-   "a": 0,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 200 / 29 = 6.9 seconds."
+   "answer": 0,
+   "explanation": "Time = length / speed = 200 / 29 = 6.9 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01222",
-   "q": "A can finish a piece of work in 15 days and B in 11 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 15 days and B in 11 days. Working together, in how many days will they finish it?",
+   "options": [
     "26 days",
     "6.35 days",
     "12.69 days",
     "7.35 days"
    ],
-   "a": 1,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/15 + 1/11, so time = 6.35 days."
+   "answer": 1,
+   "explanation": "Combined rate = 1/15 + 1/11, so time = 6.35 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01223",
-   "q": "What is the HCF of 16 and 6?",
-   "o": [
+   "question": "What is the HCF of 16 and 6?",
+   "options": [
     "48",
     "6",
     "4",
     "2"
    ],
-   "a": 3,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 16 and 6 is 2."
+   "answer": 3,
+   "explanation": "The highest common factor of 16 and 6 is 2.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01224",
-   "q": "What is the LCM of 19 and 7?",
-   "o": [
+   "question": "What is the LCM of 19 and 7?",
+   "options": [
     "152",
     "266",
     "66.5",
     "133"
    ],
-   "a": 3,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 19 and 7 is 133."
+   "answer": 3,
+   "explanation": "The least common multiple of 19 and 7 is 133.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01225",
-   "q": "What is the perimeter of a rectangle 17 m long and 19 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 17 m long and 19 m wide?",
+   "options": [
     "161.5 m",
     "72 m",
     "36 m",
     "68 m"
    ],
-   "a": 1,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (17 + 19) = 72 m."
+   "answer": 1,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (17 + 19) = 72 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01226",
-   "q": "What is the compound interest on 10000 rupees at 12 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 10000 rupees at 12 per cent per annum for 2 years?",
+   "options": [
     "2544 rupees",
     "1272 rupees",
     "2532 rupees",
     "2400 rupees"
    ],
-   "a": 0,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 10000 x (1 + 12/100)^2, so CI = 2544 rupees."
+   "answer": 0,
+   "explanation": "Amount = 10000 x (1 + 12/100)^2, so CI = 2544 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01227",
-   "q": "The marked price of an item is 1200 rupees and a discount of 10 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 1200 rupees and a discount of 10 per cent is given. What is the selling price?",
+   "options": [
     "1080 rupees",
     "1090 rupees",
     "1320 rupees",
     "1190 rupees"
    ],
-   "a": 0,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1200 x (1 - 10/100) = 1080 rupees."
+   "answer": 0,
+   "explanation": "Selling price = 1200 x (1 - 10/100) = 1080 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01228",
-   "q": "A sum becomes 36 when 26 is added to another number 10. What is the value of 26 + 10?",
-   "o": [
+   "question": "A sum becomes 36 when 26 is added to another number 10. What is the value of 26 + 10?",
+   "options": [
     "37",
     "16",
     "36",
     "260"
    ],
-   "a": 2,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "26 + 10 = 36."
+   "answer": 2,
+   "explanation": "26 + 10 = 36.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01229",
-   "q": "What is 9 cubed?",
-   "o": [
+   "question": "What is 9 cubed?",
+   "options": [
     "738",
     "1000",
     "1458",
     "729"
    ],
-   "a": 3,
-   "t": "Squares and Cubes",
-   "l": 1,
-   "s": "generated",
-   "e": "9^3 = 729."
+   "answer": 3,
+   "explanation": "9^3 = 729.",
+   "topic": "Squares and Cubes",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01230",
-   "q": "If 7 workers can complete a job in 17 days, how long will 5 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 7 workers can complete a job in 17 days, how long will 5 workers take (work at the same rate)?",
+   "options": [
     "17 days",
     "8.5 days",
     "14.88 days",
     "23.8 days"
    ],
-   "a": 3,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 7 x 17 / 5 = 23.8 days."
+   "answer": 3,
+   "explanation": "Men and time are inversely related: 7 x 17 / 5 = 23.8 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01231",
-   "q": "What is 75 x 15?",
-   "o": [
+   "question": "What is 75 x 15?",
+   "options": [
     "1200",
     "1125",
     "1121",
     "1110"
    ],
-   "a": 1,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "75 x 15 = 1125."
+   "answer": 1,
+   "explanation": "75 x 15 = 1125.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01232",
-   "q": "What is 20 per cent of 60?",
-   "o": [
+   "question": "What is 20 per cent of 60?",
+   "options": [
     "12",
     "12.6",
     "11",
     "24"
    ],
-   "a": 0,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "20 per cent of 60 = 12."
+   "answer": 0,
+   "explanation": "20 per cent of 60 = 12.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01233",
-   "q": "What is the average of 20, 22, 25, 30, 36?",
-   "o": [
+   "question": "What is the average of 20, 22, 25, 30, 36?",
+   "options": [
     "25.6",
     "27.6",
     "24.6",
     "26.6"
    ],
-   "a": 3,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 133, average = 26.6."
+   "answer": 3,
+   "explanation": "Sum = 133, average = 26.6.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01234",
-   "q": "An article bought for 100 rupees is sold at a profit of 11 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 100 rupees is sold at a profit of 11 per cent. What is the selling price?",
+   "options": [
     "106 rupees",
     "111 rupees",
     "121 rupees",
     "89 rupees"
    ],
-   "a": 1,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 100 x (1 + 11/100) = 111."
+   "answer": 1,
+   "explanation": "Selling price = 100 x (1 + 11/100) = 111.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01235",
-   "q": "A vehicle travels at 62 km per hour for 3 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 62 km per hour for 3 hours. What distance does it cover?",
+   "options": [
     "196 km",
     "93 km",
     "186 km",
     "248 km"
    ],
-   "a": 2,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 62 x 3 = 186 km."
+   "answer": 2,
+   "explanation": "Distance = speed x time = 62 x 3 = 186 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01236",
-   "q": "A train 300 metres long runs at 15 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 300 metres long runs at 15 metres per second. How long will it take to cross a pole?",
+   "options": [
     "20 seconds",
     "25 seconds",
     "18 seconds",
     "10 seconds"
    ],
-   "a": 0,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 300 / 15 = 20 seconds."
+   "answer": 0,
+   "explanation": "Time = length / speed = 300 / 15 = 20 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01237",
-   "q": "A can finish a piece of work in 14 days and B in 9 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 14 days and B in 9 days. Working together, in how many days will they finish it?",
+   "options": [
     "5.48 days",
     "9 days",
     "6.48 days",
     "11.5 days"
    ],
-   "a": 0,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/14 + 1/9, so time = 5.48 days."
+   "answer": 0,
+   "explanation": "Combined rate = 1/14 + 1/9, so time = 5.48 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01238",
-   "q": "What is the HCF of 22 and 14?",
-   "o": [
+   "question": "What is the HCF of 22 and 14?",
+   "options": [
     "6",
     "1",
     "2",
     "3"
    ],
-   "a": 2,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 22 and 14 is 2."
+   "answer": 2,
+   "explanation": "The highest common factor of 22 and 14 is 2.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01239",
-   "q": "What is the LCM of 12 and 10?",
-   "o": [
+   "question": "What is the LCM of 12 and 10?",
+   "options": [
     "60",
     "120",
     "72",
     "30"
    ],
-   "a": 0,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 12 and 10 is 60."
+   "answer": 0,
+   "explanation": "The least common multiple of 12 and 10 is 60.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01240",
-   "q": "What is the area of a circle of radius 5 cm? (take pi = 22/7)",
-   "o": [
+   "question": "What is the area of a circle of radius 5 cm? (take pi = 22/7)",
+   "options": [
     "157.14 sq cm",
     "31.43 sq cm",
     "78.57 sq cm",
     "25 sq cm"
    ],
-   "a": 2,
-   "t": "Mensuration",
-   "l": 2,
-   "s": "generated",
-   "e": "Area = pi x r^2 = 22/7 x 5 x 5 = 78.57 square centimetres."
+   "answer": 2,
+   "explanation": "Area = pi x r^2 = 22/7 x 5 x 5 = 78.57 square centimetres.",
+   "topic": "Mensuration",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01241",
-   "q": "What is the perimeter of a rectangle 21 m long and 19 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 21 m long and 19 m wide?",
+   "options": [
     "61 m",
     "80 m",
     "399 m",
     "199.5 m"
    ],
-   "a": 1,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (21 + 19) = 80 m."
+   "answer": 1,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (21 + 19) = 80 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01242",
-   "q": "What is the compound interest on 5000 rupees at 14 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 5000 rupees at 14 per cent per annum for 2 years?",
+   "options": [
     "1400 rupees",
     "1484 rupees",
     "749 rupees",
     "1498 rupees"
    ],
-   "a": 3,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 5000 x (1 + 14/100)^2, so CI = 1498 rupees."
+   "answer": 3,
+   "explanation": "Amount = 5000 x (1 + 14/100)^2, so CI = 1498 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01243",
-   "q": "The marked price of an item is 1000 rupees and a discount of 15 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 1000 rupees and a discount of 15 per cent is given. What is the selling price?",
+   "options": [
     "985 rupees",
     "860 rupees",
     "850 rupees",
     "1150 rupees"
    ],
-   "a": 2,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1000 x (1 - 15/100) = 850 rupees."
+   "answer": 2,
+   "explanation": "Selling price = 1000 x (1 - 15/100) = 850 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01244",
-   "q": "A sum becomes 45 when 25 is added to another number 20. What is the value of 25 + 20?",
-   "o": [
+   "question": "A sum becomes 45 when 25 is added to another number 20. What is the value of 25 + 20?",
+   "options": [
     "5",
     "47",
     "45",
     "44"
    ],
-   "a": 2,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "25 + 20 = 45."
+   "answer": 2,
+   "explanation": "25 + 20 = 45.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01245",
-   "q": "What is 10 cubed?",
-   "o": [
+   "question": "What is 10 cubed?",
+   "options": [
     "1010",
     "2000",
     "100",
     "1000"
    ],
-   "a": 3,
-   "t": "Squares and Cubes",
-   "l": 1,
-   "s": "generated",
-   "e": "10^3 = 1000."
+   "answer": 3,
+   "explanation": "10^3 = 1000.",
+   "topic": "Squares and Cubes",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01246",
-   "q": "If 19 workers can complete a job in 16 days, how long will 22 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 19 workers can complete a job in 16 days, how long will 22 workers take (work at the same rate)?",
+   "options": [
     "13.82 days",
     "14.82 days",
     "16 days",
     "12.16 days"
    ],
-   "a": 0,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 19 x 16 / 22 = 13.82 days."
+   "answer": 0,
+   "explanation": "Men and time are inversely related: 19 x 16 / 22 = 13.82 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01247",
-   "q": "What is 22 x 65?",
-   "o": [
+   "question": "What is 22 x 65?",
+   "options": [
     "1452",
     "1430",
     "1495",
     "1365"
    ],
-   "a": 1,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "22 x 65 = 1430."
+   "answer": 1,
+   "explanation": "22 x 65 = 1430.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01248",
-   "q": "What is the simple interest on 1400 rupees at 7 per cent per annum for 3 years?",
-   "o": [
+   "question": "What is the simple interest on 1400 rupees at 7 per cent per annum for 3 years?",
+   "options": [
     "294 rupees",
     "147 rupees",
     "434 rupees",
     "287 rupees"
    ],
-   "a": 0,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 1400 x 7 x 3 / 100 = 294."
+   "answer": 0,
+   "explanation": "SI = P x R x T / 100 = 1400 x 7 x 3 / 100 = 294.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01249",
-   "q": "What is the average of 15, 19, 20, 24, 26?",
-   "o": [
+   "question": "What is the average of 15, 19, 20, 24, 26?",
+   "options": [
     "20.8",
     "22.8",
     "21.3",
     "19.8"
    ],
-   "a": 0,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 104, average = 20.8."
+   "answer": 0,
+   "explanation": "Sum = 104, average = 20.8.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01250",
-   "q": "An article bought for 1000 rupees is sold at a profit of 10 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 1000 rupees is sold at a profit of 10 per cent. What is the selling price?",
+   "options": [
     "900 rupees",
     "1000 rupees",
     "1095 rupees",
     "1100 rupees"
    ],
-   "a": 3,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1000 x (1 + 10/100) = 1100."
+   "answer": 3,
+   "explanation": "Selling price = 1000 x (1 + 10/100) = 1100.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01251",
-   "q": "A vehicle travels at 40 km per hour for 4 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 40 km per hour for 4 hours. What distance does it cover?",
+   "options": [
     "160 km",
     "80 km",
     "200 km",
     "170 km"
    ],
-   "a": 0,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 40 x 4 = 160 km."
+   "answer": 0,
+   "explanation": "Distance = speed x time = 40 x 4 = 160 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01252",
-   "q": "A train 100 metres long runs at 23 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 100 metres long runs at 23 metres per second. How long will it take to cross a pole?",
+   "options": [
     "2.17 seconds",
     "8.7 seconds",
     "4.35 seconds",
     "2.35 seconds"
    ],
-   "a": 2,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 100 / 23 = 4.35 seconds."
+   "answer": 2,
+   "explanation": "Time = length / speed = 100 / 23 = 4.35 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01253",
-   "q": "A can finish a piece of work in 20 days and B in 19 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 20 days and B in 19 days. Working together, in how many days will they finish it?",
+   "options": [
     "19 days",
     "9.74 days",
     "10.74 days",
     "19.49 days"
    ],
-   "a": 1,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/20 + 1/19, so time = 9.74 days."
+   "answer": 1,
+   "explanation": "Combined rate = 1/20 + 1/19, so time = 9.74 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01254",
-   "q": "What is the HCF of 34 and 26?",
-   "o": [
+   "question": "What is the HCF of 34 and 26?",
+   "options": [
     "6",
     "3",
     "442",
     "2"
    ],
-   "a": 3,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 34 and 26 is 2."
+   "answer": 3,
+   "explanation": "The highest common factor of 34 and 26 is 2.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01255",
-   "q": "What is the LCM of 17 and 16?",
-   "o": [
+   "question": "What is the LCM of 17 and 16?",
+   "options": [
     "272",
     "256",
     "289",
     "544"
    ],
-   "a": 0,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 17 and 16 is 272."
+   "answer": 0,
+   "explanation": "The least common multiple of 17 and 16 is 272.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01256",
-   "q": "What is the area of a circle of radius 15 cm? (take pi = 22/7)",
-   "o": [
+   "question": "What is the area of a circle of radius 15 cm? (take pi = 22/7)",
+   "options": [
     "47.14 sq cm",
     "94.29 sq cm",
     "1414.29 sq cm",
     "707.14 sq cm"
    ],
-   "a": 3,
-   "t": "Mensuration",
-   "l": 2,
-   "s": "generated",
-   "e": "Area = pi x r^2 = 22/7 x 15 x 15 = 707.14 square centimetres."
+   "answer": 3,
+   "explanation": "Area = pi x r^2 = 22/7 x 15 x 15 = 707.14 square centimetres.",
+   "topic": "Mensuration",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01257",
-   "q": "What is the perimeter of a rectangle 22 m long and 6 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 22 m long and 6 m wide?",
+   "options": [
     "56 m",
     "66 m",
     "88 m",
     "28 m"
    ],
-   "a": 0,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (22 + 6) = 56 m."
+   "answer": 0,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (22 + 6) = 56 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01258",
-   "q": "What is the compound interest on 2000 rupees at 10 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 2000 rupees at 10 per cent per annum for 2 years?",
+   "options": [
     "410 rupees",
     "840 rupees",
     "420 rupees",
     "400 rupees"
    ],
-   "a": 2,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 2000 x (1 + 10/100)^2, so CI = 420 rupees."
+   "answer": 2,
+   "explanation": "Amount = 2000 x (1 + 10/100)^2, so CI = 420 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01259",
-   "q": "A sum becomes 24 when 7 is added to another number 17. What is the value of 7 + 17?",
-   "o": [
+   "question": "A sum becomes 24 when 7 is added to another number 17. What is the value of 7 + 17?",
+   "options": [
     "-10",
     "119",
     "24",
     "26"
    ],
-   "a": 2,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "7 + 17 = 24."
+   "answer": 2,
+   "explanation": "7 + 17 = 24.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01260",
-   "q": "What is 3 cubed?",
-   "o": [
+   "question": "What is 3 cubed?",
+   "options": [
     "24",
     "27",
     "9",
     "54"
    ],
-   "a": 1,
-   "t": "Squares and Cubes",
-   "l": 1,
-   "s": "generated",
-   "e": "3^3 = 27."
+   "answer": 1,
+   "explanation": "3^3 = 27.",
+   "topic": "Squares and Cubes",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01261",
-   "q": "If 20 workers can complete a job in 4 days, how long will 16 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 20 workers can complete a job in 4 days, how long will 16 workers take (work at the same rate)?",
+   "options": [
     "2 days",
     "4 days",
     "6 days",
     "5 days"
    ],
-   "a": 3,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 20 x 4 / 16 = 5 days."
+   "answer": 3,
+   "explanation": "Men and time are inversely related: 20 x 4 / 16 = 5 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01262",
-   "q": "What is 36 x 24?",
-   "o": [
+   "question": "What is 36 x 24?",
+   "options": [
     "864",
     "900",
     "840",
     "888"
    ],
-   "a": 0,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "36 x 24 = 864."
+   "answer": 0,
+   "explanation": "36 x 24 = 864.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01263",
-   "q": "What is 25 per cent of 780?",
-   "o": [
+   "question": "What is 25 per cent of 780?",
+   "options": [
     "202.8",
     "195",
     "194",
     "292.5"
    ],
-   "a": 1,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "25 per cent of 780 = 195."
+   "answer": 1,
+   "explanation": "25 per cent of 780 = 195.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01264",
-   "q": "What is the simple interest on 1400 rupees at 5 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the simple interest on 1400 rupees at 5 per cent per annum for 2 years?",
+   "options": [
     "140 rupees",
     "135 rupees",
     "168 rupees",
     "70 rupees"
    ],
-   "a": 0,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 1400 x 5 x 2 / 100 = 140."
+   "answer": 0,
+   "explanation": "SI = P x R x T / 100 = 1400 x 5 x 2 / 100 = 140.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01265",
-   "q": "What is the average of 43, 48, 50, 59, 65?",
-   "o": [
+   "question": "What is the average of 43, 48, 50, 59, 65?",
+   "options": [
     "55",
     "51",
     "53",
     "52"
    ],
-   "a": 2,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 265, average = 53."
+   "answer": 2,
+   "explanation": "Sum = 265, average = 53.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01266",
-   "q": "An article bought for 1000 rupees is sold at a profit of 17 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 1000 rupees is sold at a profit of 17 per cent. What is the selling price?",
+   "options": [
     "1170 rupees",
     "1165 rupees",
     "1017 rupees",
     "1180 rupees"
    ],
-   "a": 0,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1000 x (1 + 17/100) = 1170."
+   "answer": 0,
+   "explanation": "Selling price = 1000 x (1 + 17/100) = 1170.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01267",
-   "q": "A vehicle travels at 61 km per hour for 6 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 61 km per hour for 6 hours. What distance does it cover?",
+   "options": [
     "376 km",
     "457.5 km",
     "366 km",
     "305 km"
    ],
-   "a": 2,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 61 x 6 = 366 km."
+   "answer": 2,
+   "explanation": "Distance = speed x time = 61 x 6 = 366 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01268",
-   "q": "A train 50 metres long runs at 29 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 50 metres long runs at 29 metres per second. How long will it take to cross a pole?",
+   "options": [
     "6.72 seconds",
     "3.45 seconds",
     "1.72 seconds",
     "11.72 seconds"
    ],
-   "a": 2,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 50 / 29 = 1.72 seconds."
+   "answer": 2,
+   "explanation": "Time = length / speed = 50 / 29 = 1.72 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01269",
-   "q": "A can finish a piece of work in 6 days and B in 19 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 6 days and B in 19 days. Working together, in how many days will they finish it?",
+   "options": [
     "6 days",
     "12.5 days",
     "5.56 days",
     "4.56 days"
    ],
-   "a": 3,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/6 + 1/19, so time = 4.56 days."
+   "answer": 3,
+   "explanation": "Combined rate = 1/6 + 1/19, so time = 4.56 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01270",
-   "q": "What is the HCF of 21 and 12?",
-   "o": [
+   "question": "What is the HCF of 21 and 12?",
+   "options": [
     "6",
     "84",
     "3",
     "9"
    ],
-   "a": 2,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 21 and 12 is 3."
+   "answer": 2,
+   "explanation": "The highest common factor of 21 and 12 is 3.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01271",
-   "q": "What is the LCM of 20 and 20?",
-   "o": [
+   "question": "What is the LCM of 20 and 20?",
+   "options": [
     "40",
     "20",
     "0",
     "10"
    ],
-   "a": 1,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 20 and 20 is 20."
+   "answer": 1,
+   "explanation": "The least common multiple of 20 and 20 is 20.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01272",
-   "q": "What is the perimeter of a rectangle 12 m long and 5 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 12 m long and 5 m wide?",
+   "options": [
     "30 m",
     "29 m",
     "17 m",
     "34 m"
    ],
-   "a": 3,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (12 + 5) = 34 m."
+   "answer": 3,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (12 + 5) = 34 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01273",
-   "q": "The marked price of an item is 2000 rupees and a discount of 10 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 2000 rupees and a discount of 10 per cent is given. What is the selling price?",
+   "options": [
     "1990 rupees",
     "2200 rupees",
     "2000 rupees",
     "1800 rupees"
    ],
-   "a": 3,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 2000 x (1 - 10/100) = 1800 rupees."
+   "answer": 3,
+   "explanation": "Selling price = 2000 x (1 - 10/100) = 1800 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01274",
-   "q": "A sum becomes 26 when 5 is added to another number 21. What is the value of 5 + 21?",
-   "o": [
+   "question": "A sum becomes 26 when 5 is added to another number 21. What is the value of 5 + 21?",
+   "options": [
     "25",
     "26",
     "105",
     "28"
    ],
-   "a": 1,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "5 + 21 = 26."
+   "answer": 1,
+   "explanation": "5 + 21 = 26.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01275",
-   "q": "What is 5 cubed?",
-   "o": [
+   "question": "What is 5 cubed?",
+   "options": [
     "125",
     "120",
     "216",
     "250"
    ],
-   "a": 0,
-   "t": "Squares and Cubes",
-   "l": 1,
-   "s": "generated",
-   "e": "5^3 = 125."
+   "answer": 0,
+   "explanation": "5^3 = 125.",
+   "topic": "Squares and Cubes",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01276",
-   "q": "If 7 workers can complete a job in 12 days, how long will 16 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 7 workers can complete a job in 12 days, how long will 16 workers take (work at the same rate)?",
+   "options": [
     "5.25 days",
     "14 days",
     "6.25 days",
     "4.42 days"
    ],
-   "a": 0,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 7 x 12 / 16 = 5.25 days."
+   "answer": 0,
+   "explanation": "Men and time are inversely related: 7 x 12 / 16 = 5.25 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01277",
-   "q": "What is 95 x 25?",
-   "o": [
+   "question": "What is 95 x 25?",
+   "options": [
     "2470",
     "2375",
     "2400",
     "2350"
    ],
-   "a": 1,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "95 x 25 = 2375."
+   "answer": 1,
+   "explanation": "95 x 25 = 2375.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01278",
-   "q": "What is 30 per cent of 780?",
-   "o": [
+   "question": "What is 30 per cent of 780?",
+   "options": [
     "233",
     "234",
     "468",
     "241.8"
    ],
-   "a": 1,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "30 per cent of 780 = 234."
+   "answer": 1,
+   "explanation": "30 per cent of 780 = 234.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01279",
-   "q": "What is the simple interest on 1800 rupees at 9 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the simple interest on 1800 rupees at 9 per cent per annum for 2 years?",
+   "options": [
     "315 rupees",
     "324 rupees",
     "162 rupees",
     "333 rupees"
    ],
-   "a": 1,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 1800 x 9 x 2 / 100 = 324."
+   "answer": 1,
+   "explanation": "SI = P x R x T / 100 = 1800 x 9 x 2 / 100 = 324.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01280",
-   "q": "What is the average of 27, 28, 37, 44, 53?",
-   "o": [
+   "question": "What is the average of 27, 28, 37, 44, 53?",
+   "options": [
     "36.8",
     "38.3",
     "37.8",
     "39.8"
    ],
-   "a": 2,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 189, average = 37.8."
+   "answer": 2,
+   "explanation": "Sum = 189, average = 37.8.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01281",
-   "q": "A sum of 354 rupees is divided between two people in the ratio 4:2. What is the larger share?",
-   "o": [
+   "question": "A sum of 354 rupees is divided between two people in the ratio 4:2. What is the larger share?",
+   "options": [
     "295 rupees",
     "118 rupees",
     "177 rupees",
     "236 rupees"
    ],
-   "a": 3,
-   "t": "Ratio",
-   "l": 2,
-   "s": "generated",
-   "e": "One part is 59 rupees, so the shares are 236 and 118."
+   "answer": 3,
+   "explanation": "One part is 59 rupees, so the shares are 236 and 118.",
+   "topic": "Ratio",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01282",
-   "q": "An article bought for 1000 rupees is sold at a profit of 17 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 1000 rupees is sold at a profit of 17 per cent. What is the selling price?",
+   "options": [
     "1165 rupees",
     "1170 rupees",
     "830 rupees",
     "1017 rupees"
    ],
-   "a": 1,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1000 x (1 + 17/100) = 1170."
+   "answer": 1,
+   "explanation": "Selling price = 1000 x (1 + 17/100) = 1170.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01283",
-   "q": "A vehicle travels at 59 km per hour for 3 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 59 km per hour for 3 hours. What distance does it cover?",
+   "options": [
     "187 km",
     "88.5 km",
     "177 km",
     "118 km"
    ],
-   "a": 2,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 59 x 3 = 177 km."
+   "answer": 2,
+   "explanation": "Distance = speed x time = 59 x 3 = 177 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01284",
-   "q": "A train 200 metres long runs at 24 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 200 metres long runs at 24 metres per second. How long will it take to cross a pole?",
+   "options": [
     "4.17 seconds",
     "8.33 seconds",
     "13.33 seconds",
     "18.33 seconds"
    ],
-   "a": 1,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 200 / 24 = 8.33 seconds."
+   "answer": 1,
+   "explanation": "Time = length / speed = 200 / 24 = 8.33 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01285",
-   "q": "A can finish a piece of work in 17 days and B in 8 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 17 days and B in 8 days. Working together, in how many days will they finish it?",
+   "options": [
     "6.44 days",
     "5.44 days",
     "25 days",
     "8 days"
    ],
-   "a": 1,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/17 + 1/8, so time = 5.44 days."
+   "answer": 1,
+   "explanation": "Combined rate = 1/17 + 1/8, so time = 5.44 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01286",
-   "q": "What is the HCF of 31 and 32?",
-   "o": [
+   "question": "What is the HCF of 31 and 32?",
+   "options": [
     "0",
     "992",
     "1",
     "2"
    ],
-   "a": 2,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 31 and 32 is 1."
+   "answer": 2,
+   "explanation": "The highest common factor of 31 and 32 is 1.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01287",
-   "q": "What is the LCM of 17 and 19?",
-   "o": [
+   "question": "What is the LCM of 17 and 19?",
+   "options": [
     "304",
     "340",
     "646",
     "323"
    ],
-   "a": 3,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 17 and 19 is 323."
+   "answer": 3,
+   "explanation": "The least common multiple of 17 and 19 is 323.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01288",
-   "q": "What is the perimeter of a rectangle 24 m long and 6 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 24 m long and 6 m wide?",
+   "options": [
     "144 m",
     "72 m",
     "60 m",
     "54 m"
    ],
-   "a": 2,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (24 + 6) = 60 m."
+   "answer": 2,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (24 + 6) = 60 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01289",
-   "q": "What is the compound interest on 2000 rupees at 10 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 2000 rupees at 10 per cent per annum for 2 years?",
+   "options": [
     "620 rupees",
     "410 rupees",
     "420 rupees",
     "840 rupees"
    ],
-   "a": 2,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 2000 x (1 + 10/100)^2, so CI = 420 rupees."
+   "answer": 2,
+   "explanation": "Amount = 2000 x (1 + 10/100)^2, so CI = 420 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01290",
-   "q": "The marked price of an item is 1800 rupees and a discount of 20 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 1800 rupees and a discount of 20 per cent is given. What is the selling price?",
+   "options": [
     "1780 rupees",
     "1440 rupees",
     "1450 rupees",
     "2160 rupees"
    ],
-   "a": 1,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1800 x (1 - 20/100) = 1440 rupees."
+   "answer": 1,
+   "explanation": "Selling price = 1800 x (1 - 20/100) = 1440 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01291",
-   "q": "A sum becomes 44 when 23 is added to another number 21. What is the value of 23 + 21?",
-   "o": [
+   "question": "A sum becomes 44 when 23 is added to another number 21. What is the value of 23 + 21?",
+   "options": [
     "45",
     "44",
     "2",
     "483"
    ],
-   "a": 1,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "23 + 21 = 44."
+   "answer": 1,
+   "explanation": "23 + 21 = 44.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01292",
-   "q": "What is 5 cubed?",
-   "o": [
+   "question": "What is 5 cubed?",
+   "options": [
     "125",
     "25",
     "250",
     "130"
    ],
-   "a": 0,
-   "t": "Squares and Cubes",
-   "l": 1,
-   "s": "generated",
-   "e": "5^3 = 125."
+   "answer": 0,
+   "explanation": "5^3 = 125.",
+   "topic": "Squares and Cubes",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01293",
-   "q": "If 6 workers can complete a job in 6 days, how long will 16 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 6 workers can complete a job in 6 days, how long will 16 workers take (work at the same rate)?",
+   "options": [
     "3 days",
     "3.25 days",
     "6 days",
     "2.25 days"
    ],
-   "a": 3,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 6 x 6 / 16 = 2.25 days."
+   "answer": 3,
+   "explanation": "Men and time are inversely related: 6 x 6 / 16 = 2.25 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01294",
-   "q": "What is 48 x 16?",
-   "o": [
+   "question": "What is 48 x 16?",
+   "options": [
     "768",
     "816",
     "752",
     "764"
    ],
-   "a": 0,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "48 x 16 = 768."
+   "answer": 0,
+   "explanation": "48 x 16 = 768.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01295",
-   "q": "What is 75 per cent of 180?",
-   "o": [
+   "question": "What is 75 per cent of 180?",
+   "options": [
     "270",
     "134",
     "136.8",
     "135"
    ],
-   "a": 3,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "75 per cent of 180 = 135."
+   "answer": 3,
+   "explanation": "75 per cent of 180 = 135.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01296",
-   "q": "What is the simple interest on 200 rupees at 7 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the simple interest on 200 rupees at 7 per cent per annum for 2 years?",
+   "options": [
     "14 rupees",
     "33.6 rupees",
     "28 rupees",
     "35 rupees"
    ],
-   "a": 2,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 200 x 7 x 2 / 100 = 28."
+   "answer": 2,
+   "explanation": "SI = P x R x T / 100 = 200 x 7 x 2 / 100 = 28.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01297",
-   "q": "What is the average of 7, 15, 17, 26, 30?",
-   "o": [
+   "question": "What is the average of 7, 15, 17, 26, 30?",
+   "options": [
     "19.5",
     "21",
     "18",
     "19"
    ],
-   "a": 3,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 95, average = 19."
+   "answer": 3,
+   "explanation": "Sum = 95, average = 19.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01298",
-   "q": "An article bought for 500 rupees is sold at a profit of 26 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 500 rupees is sold at a profit of 26 per cent. What is the selling price?",
+   "options": [
     "640 rupees",
     "630 rupees",
     "370 rupees",
     "500 rupees"
    ],
-   "a": 1,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 500 x (1 + 26/100) = 630."
+   "answer": 1,
+   "explanation": "Selling price = 500 x (1 + 26/100) = 630.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01299",
-   "q": "A vehicle travels at 62 km per hour for 7 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 62 km per hour for 7 hours. What distance does it cover?",
+   "options": [
     "372 km",
     "434 km",
     "542.5 km",
     "217 km"
    ],
-   "a": 1,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 62 x 7 = 434 km."
+   "answer": 1,
+   "explanation": "Distance = speed x time = 62 x 7 = 434 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01300",
-   "q": "A train 200 metres long runs at 17 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 200 metres long runs at 17 metres per second. How long will it take to cross a pole?",
+   "options": [
     "11.76 seconds",
     "21.76 seconds",
     "23.53 seconds",
     "5.88 seconds"
    ],
-   "a": 0,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 200 / 17 = 11.76 seconds."
+   "answer": 0,
+   "explanation": "Time = length / speed = 200 / 17 = 11.76 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01301",
-   "q": "A can finish a piece of work in 15 days and B in 10 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 15 days and B in 10 days. Working together, in how many days will they finish it?",
+   "options": [
     "6 days",
     "12.5 days",
     "7 days",
     "12 days"
    ],
-   "a": 0,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/15 + 1/10, so time = 6 days."
+   "answer": 0,
+   "explanation": "Combined rate = 1/15 + 1/10, so time = 6 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01302",
-   "q": "What is the HCF of 29 and 11?",
-   "o": [
+   "question": "What is the HCF of 29 and 11?",
+   "options": [
     "1",
     "2",
     "0",
     "319"
    ],
-   "a": 0,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 29 and 11 is 1."
+   "answer": 0,
+   "explanation": "The highest common factor of 29 and 11 is 1.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01303",
-   "q": "What is the LCM of 11 and 13?",
-   "o": [
+   "question": "What is the LCM of 11 and 13?",
+   "options": [
     "154",
     "143",
     "71.5",
     "286"
    ],
-   "a": 1,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 11 and 13 is 143."
+   "answer": 1,
+   "explanation": "The least common multiple of 11 and 13 is 143.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01304",
-   "q": "What is the compound interest on 3000 rupees at 9 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 3000 rupees at 9 per cent per annum for 2 years?",
+   "options": [
     "282.15 rupees",
     "555.3 rupees",
     "564.3 rupees",
     "540 rupees"
    ],
-   "a": 2,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 3000 x (1 + 9/100)^2, so CI = 564.3 rupees."
+   "answer": 2,
+   "explanation": "Amount = 3000 x (1 + 9/100)^2, so CI = 564.3 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01305",
-   "q": "The marked price of an item is 1200 rupees and a discount of 5 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 1200 rupees and a discount of 5 per cent is given. What is the selling price?",
+   "options": [
     "1140 rupees",
     "1260 rupees",
     "1195 rupees",
     "1200 rupees"
    ],
-   "a": 0,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1200 x (1 - 5/100) = 1140 rupees."
+   "answer": 0,
+   "explanation": "Selling price = 1200 x (1 - 5/100) = 1140 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01306",
-   "q": "A sum becomes 35 when 8 is added to another number 27. What is the value of 8 + 27?",
-   "o": [
+   "question": "A sum becomes 35 when 8 is added to another number 27. What is the value of 8 + 27?",
+   "options": [
     "36",
     "35",
     "-19",
     "216"
    ],
-   "a": 1,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "8 + 27 = 35."
+   "answer": 1,
+   "explanation": "8 + 27 = 35.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01307",
-   "q": "What is 2 cubed?",
-   "o": [
+   "question": "What is 2 cubed?",
+   "options": [
     "27",
     "8",
     "10",
     "6"
    ],
-   "a": 1,
-   "t": "Squares and Cubes",
-   "l": 1,
-   "s": "generated",
-   "e": "2^3 = 8."
+   "answer": 1,
+   "explanation": "2^3 = 8.",
+   "topic": "Squares and Cubes",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01308",
-   "q": "If 21 workers can complete a job in 4 days, how long will 22 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 21 workers can complete a job in 4 days, how long will 22 workers take (work at the same rate)?",
+   "options": [
     "3.82 days",
     "2 days",
     "6 days",
     "4.82 days"
    ],
-   "a": 0,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 21 x 4 / 22 = 3.82 days."
+   "answer": 0,
+   "explanation": "Men and time are inversely related: 21 x 4 / 22 = 3.82 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01309",
-   "q": "What is 49 x 30?",
-   "o": [
+   "question": "What is 49 x 30?",
+   "options": [
     "1500",
     "1470",
     "1519",
     "1440"
    ],
-   "a": 1,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "49 x 30 = 1470."
+   "answer": 1,
+   "explanation": "49 x 30 = 1470.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01310",
-   "q": "What is 12 per cent of 620?",
-   "o": [
+   "question": "What is 12 per cent of 620?",
+   "options": [
     "148.8",
     "73.4",
     "74.4",
     "37.2"
    ],
-   "a": 2,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "12 per cent of 620 = 74.4."
+   "answer": 2,
+   "explanation": "12 per cent of 620 = 74.4.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01311",
-   "q": "What is the simple interest on 900 rupees at 9 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the simple interest on 900 rupees at 9 per cent per annum for 2 years?",
+   "options": [
     "162 rupees",
     "81 rupees",
     "252 rupees",
     "153 rupees"
    ],
-   "a": 0,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 900 x 9 x 2 / 100 = 162."
+   "answer": 0,
+   "explanation": "SI = P x R x T / 100 = 900 x 9 x 2 / 100 = 162.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01312",
-   "q": "What is the average of 16, 24, 27, 28, 34?",
-   "o": [
+   "question": "What is the average of 16, 24, 27, 28, 34?",
+   "options": [
     "27.8",
     "23.8",
     "26.8",
     "25.8"
    ],
-   "a": 3,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 129, average = 25.8."
+   "answer": 3,
+   "explanation": "Sum = 129, average = 25.8.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01313",
-   "q": "An article bought for 700 rupees is sold at a profit of 32 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 700 rupees is sold at a profit of 32 per cent. What is the selling price?",
+   "options": [
     "924 rupees",
     "476 rupees",
     "700 rupees",
     "934 rupees"
    ],
-   "a": 0,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 700 x (1 + 32/100) = 924."
+   "answer": 0,
+   "explanation": "Selling price = 700 x (1 + 32/100) = 924.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01314",
-   "q": "A vehicle travels at 42 km per hour for 6 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 42 km per hour for 6 hours. What distance does it cover?",
+   "options": [
     "315 km",
     "294 km",
     "252 km",
     "126 km"
    ],
-   "a": 2,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 42 x 6 = 252 km."
+   "answer": 2,
+   "explanation": "Distance = speed x time = 42 x 6 = 252 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01315",
-   "q": "A train 250 metres long runs at 10 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 250 metres long runs at 10 metres per second. How long will it take to cross a pole?",
+   "options": [
     "35 seconds",
     "25 seconds",
     "30 seconds",
     "50 seconds"
    ],
-   "a": 1,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 250 / 10 = 25 seconds."
+   "answer": 1,
+   "explanation": "Time = length / speed = 250 / 10 = 25 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01316",
-   "q": "A can finish a piece of work in 13 days and B in 18 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 13 days and B in 18 days. Working together, in how many days will they finish it?",
+   "options": [
     "8.55 days",
     "13 days",
     "7.55 days",
     "15.5 days"
    ],
-   "a": 2,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/13 + 1/18, so time = 7.55 days."
+   "answer": 2,
+   "explanation": "Combined rate = 1/13 + 1/18, so time = 7.55 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01317",
-   "q": "What is the HCF of 17 and 22?",
-   "o": [
+   "question": "What is the HCF of 17 and 22?",
+   "options": [
     "3",
     "1",
     "374",
     "2"
    ],
-   "a": 1,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 17 and 22 is 1."
+   "answer": 1,
+   "explanation": "The highest common factor of 17 and 22 is 1.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01318",
-   "q": "What is the LCM of 13 and 17?",
-   "o": [
+   "question": "What is the LCM of 13 and 17?",
+   "options": [
     "234",
     "442",
     "204",
     "221"
    ],
-   "a": 3,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 13 and 17 is 221."
+   "answer": 3,
+   "explanation": "The least common multiple of 13 and 17 is 221.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01319",
-   "q": "What is the area of a circle of radius 10 cm? (take pi = 22/7)",
-   "o": [
+   "question": "What is the area of a circle of radius 10 cm? (take pi = 22/7)",
+   "options": [
     "628.57 sq cm",
     "31.43 sq cm",
     "100 sq cm",
     "314.29 sq cm"
    ],
-   "a": 3,
-   "t": "Mensuration",
-   "l": 2,
-   "s": "generated",
-   "e": "Area = pi x r^2 = 22/7 x 10 x 10 = 314.29 square centimetres."
+   "answer": 3,
+   "explanation": "Area = pi x r^2 = 22/7 x 10 x 10 = 314.29 square centimetres.",
+   "topic": "Mensuration",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01320",
-   "q": "What is the perimeter of a rectangle 13 m long and 24 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 13 m long and 24 m wide?",
+   "options": [
     "312 m",
     "74 m",
     "156 m",
     "37 m"
    ],
-   "a": 1,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (13 + 24) = 74 m."
+   "answer": 1,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (13 + 24) = 74 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01321",
-   "q": "What is the compound interest on 8000 rupees at 10 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 8000 rupees at 10 per cent per annum for 2 years?",
+   "options": [
     "840 rupees",
     "1680 rupees",
     "2480 rupees",
     "3360 rupees"
    ],
-   "a": 1,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 8000 x (1 + 10/100)^2, so CI = 1680 rupees."
+   "answer": 1,
+   "explanation": "Amount = 8000 x (1 + 10/100)^2, so CI = 1680 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01322",
-   "q": "The marked price of an item is 1600 rupees and a discount of 25 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 1600 rupees and a discount of 25 per cent is given. What is the selling price?",
+   "options": [
     "1575 rupees",
     "1200 rupees",
     "2000 rupees",
     "1210 rupees"
    ],
-   "a": 1,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1600 x (1 - 25/100) = 1200 rupees."
+   "answer": 1,
+   "explanation": "Selling price = 1600 x (1 - 25/100) = 1200 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01323",
-   "q": "A sum becomes 37 when 11 is added to another number 26. What is the value of 11 + 26?",
-   "o": [
+   "question": "A sum becomes 37 when 11 is added to another number 26. What is the value of 11 + 26?",
+   "options": [
     "37",
     "-15",
     "38",
     "286"
    ],
-   "a": 0,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "11 + 26 = 37."
+   "answer": 0,
+   "explanation": "11 + 26 = 37.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01324",
-   "q": "What is 5 cubed?",
-   "o": [
+   "question": "What is 5 cubed?",
+   "options": [
     "120",
     "25",
     "130",
     "125"
    ],
-   "a": 3,
-   "t": "Squares and Cubes",
-   "l": 1,
-   "s": "generated",
-   "e": "5^3 = 125."
+   "answer": 3,
+   "explanation": "5^3 = 125.",
+   "topic": "Squares and Cubes",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01325",
-   "q": "If 14 workers can complete a job in 14 days, how long will 6 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 14 workers can complete a job in 14 days, how long will 6 workers take (work at the same rate)?",
+   "options": [
     "33.67 days",
     "16 days",
     "32.67 days",
     "14 days"
    ],
-   "a": 2,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 14 x 14 / 6 = 32.67 days."
+   "answer": 2,
+   "explanation": "Men and time are inversely related: 14 x 14 / 6 = 32.67 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01326",
-   "q": "What is 43 x 84?",
-   "o": [
+   "question": "What is 43 x 84?",
+   "options": [
     "3528",
     "3608",
     "3612",
     "3655"
    ],
-   "a": 2,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "43 x 84 = 3612."
+   "answer": 2,
+   "explanation": "43 x 84 = 3612.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01327",
-   "q": "What is 25 per cent of 320?",
-   "o": [
+   "question": "What is 25 per cent of 320?",
+   "options": [
     "80",
     "79",
     "83.2",
     "40"
    ],
-   "a": 0,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "25 per cent of 320 = 80."
+   "answer": 0,
+   "explanation": "25 per cent of 320 = 80.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01328",
-   "q": "What is the simple interest on 1400 rupees at 10 per cent per annum for 3 years?",
-   "o": [
+   "question": "What is the simple interest on 1400 rupees at 10 per cent per annum for 3 years?",
+   "options": [
     "504 rupees",
     "420 rupees",
     "210 rupees",
     "430 rupees"
    ],
-   "a": 1,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 1400 x 10 x 3 / 100 = 420."
+   "answer": 1,
+   "explanation": "SI = P x R x T / 100 = 1400 x 10 x 3 / 100 = 420.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01329",
-   "q": "What is the average of 41, 50, 53, 54, 59?",
-   "o": [
+   "question": "What is the average of 41, 50, 53, 54, 59?",
+   "options": [
     "51.9",
     "50.4",
     "52.4",
     "51.4"
    ],
-   "a": 3,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 257, average = 51.4."
+   "answer": 3,
+   "explanation": "Sum = 257, average = 51.4.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01330",
-   "q": "An article bought for 700 rupees is sold at a profit of 19 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 700 rupees is sold at a profit of 19 per cent. What is the selling price?",
+   "options": [
     "843 rupees",
     "719 rupees",
     "828 rupees",
     "833 rupees"
    ],
-   "a": 3,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 700 x (1 + 19/100) = 833."
+   "answer": 3,
+   "explanation": "Selling price = 700 x (1 + 19/100) = 833.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01331",
-   "q": "A vehicle travels at 54 km per hour for 4 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 54 km per hour for 4 hours. What distance does it cover?",
+   "options": [
     "226 km",
     "270 km",
     "216 km",
     "108 km"
    ],
-   "a": 2,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 54 x 4 = 216 km."
+   "answer": 2,
+   "explanation": "Distance = speed x time = 54 x 4 = 216 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01332",
-   "q": "A train 50 metres long runs at 29 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 50 metres long runs at 29 metres per second. How long will it take to cross a pole?",
+   "options": [
     "3.45 seconds",
     "1.72 seconds",
     "0.86 seconds",
     "6.72 seconds"
    ],
-   "a": 1,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 50 / 29 = 1.72 seconds."
+   "answer": 1,
+   "explanation": "Time = length / speed = 50 / 29 = 1.72 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01333",
-   "q": "A can finish a piece of work in 7 days and B in 16 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 7 days and B in 16 days. Working together, in how many days will they finish it?",
+   "options": [
     "9.74 days",
     "11.5 days",
     "7 days",
     "4.87 days"
    ],
-   "a": 3,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/7 + 1/16, so time = 4.87 days."
+   "answer": 3,
+   "explanation": "Combined rate = 1/7 + 1/16, so time = 4.87 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01334",
-   "q": "What is the HCF of 12 and 23?",
-   "o": [
+   "question": "What is the HCF of 12 and 23?",
+   "options": [
     "1",
     "2",
     "3",
     "0"
    ],
-   "a": 0,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 12 and 23 is 1."
+   "answer": 0,
+   "explanation": "The highest common factor of 12 and 23 is 1.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01335",
-   "q": "What is the LCM of 12 and 10?",
-   "o": [
+   "question": "What is the LCM of 12 and 10?",
+   "options": [
     "72",
     "30",
     "60",
     "50"
    ],
-   "a": 2,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 12 and 10 is 60."
+   "answer": 2,
+   "explanation": "The least common multiple of 12 and 10 is 60.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01336",
-   "q": "What is the area of a circle of radius 8 cm? (take pi = 22/7)",
-   "o": [
+   "question": "What is the area of a circle of radius 8 cm? (take pi = 22/7)",
+   "options": [
     "201.14 sq cm",
     "50.29 sq cm",
     "402.29 sq cm",
     "25.14 sq cm"
    ],
-   "a": 0,
-   "t": "Mensuration",
-   "l": 2,
-   "s": "generated",
-   "e": "Area = pi x r^2 = 22/7 x 8 x 8 = 201.14 square centimetres."
+   "answer": 0,
+   "explanation": "Area = pi x r^2 = 22/7 x 8 x 8 = 201.14 square centimetres.",
+   "topic": "Mensuration",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01337",
-   "q": "What is the perimeter of a rectangle 11 m long and 7 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 11 m long and 7 m wide?",
+   "options": [
     "38.5 m",
     "36 m",
     "77 m",
     "18 m"
    ],
-   "a": 1,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (11 + 7) = 36 m."
+   "answer": 1,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (11 + 7) = 36 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01338",
-   "q": "What is the compound interest on 8000 rupees at 14 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 8000 rupees at 14 per cent per annum for 2 years?",
+   "options": [
     "3196.8 rupees",
     "2396.8 rupees",
     "2382.8 rupees",
     "1198.4 rupees"
    ],
-   "a": 1,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 8000 x (1 + 14/100)^2, so CI = 2396.8 rupees."
+   "answer": 1,
+   "explanation": "Amount = 8000 x (1 + 14/100)^2, so CI = 2396.8 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01339",
-   "q": "The marked price of an item is 1800 rupees and a discount of 15 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 1800 rupees and a discount of 15 per cent is given. What is the selling price?",
+   "options": [
     "1530 rupees",
     "1785 rupees",
     "2070 rupees",
     "1800 rupees"
    ],
-   "a": 0,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1800 x (1 - 15/100) = 1530 rupees."
+   "answer": 0,
+   "explanation": "Selling price = 1800 x (1 - 15/100) = 1530 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01340",
-   "q": "A sum becomes 31 when 24 is added to another number 7. What is the value of 24 + 7?",
-   "o": [
+   "question": "A sum becomes 31 when 24 is added to another number 7. What is the value of 24 + 7?",
+   "options": [
     "33",
     "30",
     "17",
     "31"
    ],
-   "a": 3,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "24 + 7 = 31."
+   "answer": 3,
+   "explanation": "24 + 7 = 31.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01341",
-   "q": "If 24 workers can complete a job in 16 days, how long will 23 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 24 workers can complete a job in 16 days, how long will 23 workers take (work at the same rate)?",
+   "options": [
     "8 days",
     "18 days",
     "16 days",
     "16.7 days"
    ],
-   "a": 3,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 24 x 16 / 23 = 16.7 days."
+   "answer": 3,
+   "explanation": "Men and time are inversely related: 24 x 16 / 23 = 16.7 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01342",
-   "q": "What is 82 x 88?",
-   "o": [
+   "question": "What is 82 x 88?",
+   "options": [
     "7216",
     "7212",
     "7304",
     "7128"
    ],
-   "a": 0,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "82 x 88 = 7216."
+   "answer": 0,
+   "explanation": "82 x 88 = 7216.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01343",
-   "q": "What is 10 per cent of 180?",
-   "o": [
+   "question": "What is 10 per cent of 180?",
+   "options": [
     "9",
     "17",
     "27",
     "18"
    ],
-   "a": 3,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "10 per cent of 180 = 18."
+   "answer": 3,
+   "explanation": "10 per cent of 180 = 18.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01344",
-   "q": "What is the simple interest on 1900 rupees at 8 per cent per annum for 6 years?",
-   "o": [
+   "question": "What is the simple interest on 1900 rupees at 8 per cent per annum for 6 years?",
+   "options": [
     "904 rupees",
     "920 rupees",
     "912 rupees",
     "1094.4 rupees"
    ],
-   "a": 2,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 1900 x 8 x 6 / 100 = 912."
+   "answer": 2,
+   "explanation": "SI = P x R x T / 100 = 1900 x 8 x 6 / 100 = 912.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01345",
-   "q": "What is the average of 12, 19, 26, 33, 36?",
-   "o": [
+   "question": "What is the average of 12, 19, 26, 33, 36?",
+   "options": [
     "25.2",
     "26.2",
     "27.2",
     "25.7"
    ],
-   "a": 0,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 126, average = 25.2."
+   "answer": 0,
+   "explanation": "Sum = 126, average = 25.2.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01346",
-   "q": "An article bought for 1400 rupees is sold at a profit of 15 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 1400 rupees is sold at a profit of 15 per cent. What is the selling price?",
+   "options": [
     "1190 rupees",
     "1610 rupees",
     "1400 rupees",
     "1605 rupees"
    ],
-   "a": 1,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1400 x (1 + 15/100) = 1610."
+   "answer": 1,
+   "explanation": "Selling price = 1400 x (1 + 15/100) = 1610.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01347",
-   "q": "A vehicle travels at 37 km per hour for 2 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 37 km per hour for 2 hours. What distance does it cover?",
+   "options": [
     "74 km",
     "37 km",
     "111 km",
     "84 km"
    ],
-   "a": 0,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 37 x 2 = 74 km."
+   "answer": 0,
+   "explanation": "Distance = speed x time = 37 x 2 = 74 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01348",
-   "q": "A train 50 metres long runs at 14 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 50 metres long runs at 14 metres per second. How long will it take to cross a pole?",
+   "options": [
     "13.57 seconds",
     "1.79 seconds",
     "3.57 seconds",
     "1.57 seconds"
    ],
-   "a": 2,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 50 / 14 = 3.57 seconds."
+   "answer": 2,
+   "explanation": "Time = length / speed = 50 / 14 = 3.57 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01349",
-   "q": "A can finish a piece of work in 20 days and B in 19 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 20 days and B in 19 days. Working together, in how many days will they finish it?",
+   "options": [
     "19 days",
     "39 days",
     "9.74 days",
     "10.74 days"
    ],
-   "a": 2,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/20 + 1/19, so time = 9.74 days."
+   "answer": 2,
+   "explanation": "Combined rate = 1/20 + 1/19, so time = 9.74 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01350",
-   "q": "What is the LCM of 15 and 7?",
-   "o": [
+   "question": "What is the LCM of 15 and 7?",
+   "options": [
     "105",
     "120",
     "52.5",
     "210"
    ],
-   "a": 0,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 15 and 7 is 105."
+   "answer": 0,
+   "explanation": "The least common multiple of 15 and 7 is 105.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01351",
-   "q": "What is the perimeter of a rectangle 13 m long and 5 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 13 m long and 5 m wide?",
+   "options": [
     "32.5 m",
     "18 m",
     "36 m",
     "31 m"
    ],
-   "a": 2,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (13 + 5) = 36 m."
+   "answer": 2,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (13 + 5) = 36 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01352",
-   "q": "The marked price of an item is 1400 rupees and a discount of 25 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 1400 rupees and a discount of 25 per cent is given. What is the selling price?",
+   "options": [
     "1400 rupees",
     "1040 rupees",
     "1375 rupees",
     "1050 rupees"
    ],
-   "a": 3,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1400 x (1 - 25/100) = 1050 rupees."
+   "answer": 3,
+   "explanation": "Selling price = 1400 x (1 - 25/100) = 1050 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01353",
-   "q": "A sum becomes 34 when 6 is added to another number 28. What is the value of 6 + 28?",
-   "o": [
+   "question": "A sum becomes 34 when 6 is added to another number 28. What is the value of 6 + 28?",
+   "options": [
     "36",
     "34",
     "35",
     "-22"
    ],
-   "a": 1,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "6 + 28 = 34."
+   "answer": 1,
+   "explanation": "6 + 28 = 34.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01354",
-   "q": "If 11 workers can complete a job in 10 days, how long will 9 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 11 workers can complete a job in 10 days, how long will 9 workers take (work at the same rate)?",
+   "options": [
     "12.22 days",
     "5 days",
     "13.22 days",
     "10 days"
    ],
-   "a": 0,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 11 x 10 / 9 = 12.22 days."
+   "answer": 0,
+   "explanation": "Men and time are inversely related: 11 x 10 / 9 = 12.22 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01355",
-   "q": "What is 50 x 81?",
-   "o": [
+   "question": "What is 50 x 81?",
+   "options": [
     "4100",
     "3969",
     "4046",
     "4050"
    ],
-   "a": 3,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "50 x 81 = 4050."
+   "answer": 3,
+   "explanation": "50 x 81 = 4050.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01356",
-   "q": "What is 50 per cent of 480?",
-   "o": [
+   "question": "What is 50 per cent of 480?",
+   "options": [
     "240",
     "244.8",
     "480",
     "239"
    ],
-   "a": 0,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "50 per cent of 480 = 240."
+   "answer": 0,
+   "explanation": "50 per cent of 480 = 240.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01357",
-   "q": "What is the simple interest on 1400 rupees at 8 per cent per annum for 5 years?",
-   "o": [
+   "question": "What is the simple interest on 1400 rupees at 8 per cent per annum for 5 years?",
+   "options": [
     "568 rupees",
     "560 rupees",
     "672 rupees",
     "280 rupees"
    ],
-   "a": 1,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 1400 x 8 x 5 / 100 = 560."
+   "answer": 1,
+   "explanation": "SI = P x R x T / 100 = 1400 x 8 x 5 / 100 = 560.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01358",
-   "q": "What is the average of 39, 45, 46, 48, 51?",
-   "o": [
+   "question": "What is the average of 39, 45, 46, 48, 51?",
+   "options": [
     "46.3",
     "46.8",
     "45.8",
     "43.8"
    ],
-   "a": 2,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 229, average = 45.8."
+   "answer": 2,
+   "explanation": "Sum = 229, average = 45.8.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01359",
-   "q": "An article bought for 300 rupees is sold at a profit of 31 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 300 rupees is sold at a profit of 31 per cent. What is the selling price?",
+   "options": [
     "393 rupees",
     "331 rupees",
     "388 rupees",
     "207 rupees"
    ],
-   "a": 0,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 300 x (1 + 31/100) = 393."
+   "answer": 0,
+   "explanation": "Selling price = 300 x (1 + 31/100) = 393.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01360",
-   "q": "A vehicle travels at 68 km per hour for 5 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 68 km per hour for 5 hours. What distance does it cover?",
+   "options": [
     "272 km",
     "340 km",
     "408 km",
     "425 km"
    ],
-   "a": 1,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 68 x 5 = 340 km."
+   "answer": 1,
+   "explanation": "Distance = speed x time = 68 x 5 = 340 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01361",
-   "q": "A train 250 metres long runs at 10 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 250 metres long runs at 10 metres per second. How long will it take to cross a pole?",
+   "options": [
     "12.5 seconds",
     "25 seconds",
     "23 seconds",
     "35 seconds"
    ],
-   "a": 1,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 250 / 10 = 25 seconds."
+   "answer": 1,
+   "explanation": "Time = length / speed = 250 / 10 = 25 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01362",
-   "q": "A can finish a piece of work in 8 days and B in 11 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 8 days and B in 11 days. Working together, in how many days will they finish it?",
+   "options": [
     "8 days",
     "9.26 days",
     "9.5 days",
     "4.63 days"
    ],
-   "a": 3,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/8 + 1/11, so time = 4.63 days."
+   "answer": 3,
+   "explanation": "Combined rate = 1/8 + 1/11, so time = 4.63 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01363",
-   "q": "What is the HCF of 10 and 34?",
-   "o": [
+   "question": "What is the HCF of 10 and 34?",
+   "options": [
     "2",
     "4",
     "170",
     "6"
    ],
-   "a": 0,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 10 and 34 is 2."
+   "answer": 0,
+   "explanation": "The highest common factor of 10 and 34 is 2.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01364",
-   "q": "What is the LCM of 12 and 11?",
-   "o": [
+   "question": "What is the LCM of 12 and 11?",
+   "options": [
     "121",
     "264",
     "132",
     "144"
    ],
-   "a": 2,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 12 and 11 is 132."
+   "answer": 2,
+   "explanation": "The least common multiple of 12 and 11 is 132.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01365",
-   "q": "What is the perimeter of a rectangle 19 m long and 22 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 19 m long and 22 m wide?",
+   "options": [
     "418 m",
     "82 m",
     "41 m",
     "209 m"
    ],
-   "a": 1,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (19 + 22) = 82 m."
+   "answer": 1,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (19 + 22) = 82 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01366",
-   "q": "A sum becomes 16 when 11 is added to another number 5. What is the value of 11 + 5?",
-   "o": [
+   "question": "A sum becomes 16 when 11 is added to another number 5. What is the value of 11 + 5?",
+   "options": [
     "17",
     "15",
     "16",
     "55"
    ],
-   "a": 2,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "11 + 5 = 16."
+   "answer": 2,
+   "explanation": "11 + 5 = 16.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01367",
-   "q": "If 8 workers can complete a job in 18 days, how long will 18 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 8 workers can complete a job in 18 days, how long will 18 workers take (work at the same rate)?",
+   "options": [
     "6.86 days",
     "18 days",
     "8 days",
     "20 days"
    ],
-   "a": 2,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 8 x 18 / 18 = 8 days."
+   "answer": 2,
+   "explanation": "Men and time are inversely related: 8 x 18 / 18 = 8 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01368",
-   "q": "What is 65 x 48?",
-   "o": [
+   "question": "What is 65 x 48?",
+   "options": [
     "3168",
     "3120",
     "3185",
     "3116"
    ],
-   "a": 1,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "65 x 48 = 3120."
+   "answer": 1,
+   "explanation": "65 x 48 = 3120.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01369",
-   "q": "What is 60 per cent of 720?",
-   "o": [
+   "question": "What is 60 per cent of 720?",
+   "options": [
     "648",
     "431",
     "432",
     "439.2"
    ],
-   "a": 2,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "60 per cent of 720 = 432."
+   "answer": 2,
+   "explanation": "60 per cent of 720 = 432.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01370",
-   "q": "What is the simple interest on 1300 rupees at 12 per cent per annum for 4 years?",
-   "o": [
+   "question": "What is the simple interest on 1300 rupees at 12 per cent per annum for 4 years?",
+   "options": [
     "754 rupees",
     "612 rupees",
     "624 rupees",
     "748.8 rupees"
    ],
-   "a": 2,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 1300 x 12 x 4 / 100 = 624."
+   "answer": 2,
+   "explanation": "SI = P x R x T / 100 = 1300 x 12 x 4 / 100 = 624.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01371",
-   "q": "What is the average of 23, 28, 36, 39, 42?",
-   "o": [
+   "question": "What is the average of 23, 28, 36, 39, 42?",
+   "options": [
     "31.6",
     "34.1",
     "32.6",
     "33.6"
    ],
-   "a": 3,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 168, average = 33.6."
+   "answer": 3,
+   "explanation": "Sum = 168, average = 33.6.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01372",
-   "q": "An article bought for 600 rupees is sold at a profit of 27 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 600 rupees is sold at a profit of 27 per cent. What is the selling price?",
+   "options": [
     "772 rupees",
     "762 rupees",
     "757 rupees",
     "627 rupees"
    ],
-   "a": 1,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 600 x (1 + 27/100) = 762."
+   "answer": 1,
+   "explanation": "Selling price = 600 x (1 + 27/100) = 762.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01373",
-   "q": "A vehicle travels at 44 km per hour for 2 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 44 km per hour for 2 hours. What distance does it cover?",
+   "options": [
     "132 km",
     "88 km",
     "44 km",
     "110 km"
    ],
-   "a": 1,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 44 x 2 = 88 km."
+   "answer": 1,
+   "explanation": "Distance = speed x time = 44 x 2 = 88 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01374",
-   "q": "A train 50 metres long runs at 17 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 50 metres long runs at 17 metres per second. How long will it take to cross a pole?",
+   "options": [
     "12.94 seconds",
     "2.94 seconds",
     "1.47 seconds",
     "0.94 seconds"
    ],
-   "a": 1,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 50 / 17 = 2.94 seconds."
+   "answer": 1,
+   "explanation": "Time = length / speed = 50 / 17 = 2.94 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01375",
-   "q": "A can finish a piece of work in 23 days and B in 15 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 23 days and B in 15 days. Working together, in how many days will they finish it?",
+   "options": [
     "9.08 days",
     "18.16 days",
     "19 days",
     "15 days"
    ],
-   "a": 0,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/23 + 1/15, so time = 9.08 days."
+   "answer": 0,
+   "explanation": "Combined rate = 1/23 + 1/15, so time = 9.08 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01376",
-   "q": "What is the HCF of 6 and 29?",
-   "o": [
+   "question": "What is the HCF of 6 and 29?",
+   "options": [
     "1",
     "3",
     "174",
     "2"
    ],
-   "a": 0,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 6 and 29 is 1."
+   "answer": 0,
+   "explanation": "The highest common factor of 6 and 29 is 1.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01377",
-   "q": "What is the LCM of 20 and 12?",
-   "o": [
+   "question": "What is the LCM of 20 and 12?",
+   "options": [
     "60",
     "80",
     "48",
     "120"
    ],
-   "a": 0,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 20 and 12 is 60."
+   "answer": 0,
+   "explanation": "The least common multiple of 20 and 12 is 60.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01378",
-   "q": "What is the perimeter of a rectangle 20 m long and 14 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 20 m long and 14 m wide?",
+   "options": [
     "80 m",
     "68 m",
     "34 m",
     "280 m"
    ],
-   "a": 1,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (20 + 14) = 68 m."
+   "answer": 1,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (20 + 14) = 68 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01379",
-   "q": "What is the compound interest on 9000 rupees at 6 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 9000 rupees at 6 per cent per annum for 2 years?",
+   "options": [
     "556.2 rupees",
     "1112.4 rupees",
     "2224.8 rupees",
     "1080 rupees"
    ],
-   "a": 1,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 9000 x (1 + 6/100)^2, so CI = 1112.4 rupees."
+   "answer": 1,
+   "explanation": "Amount = 9000 x (1 + 6/100)^2, so CI = 1112.4 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01380",
-   "q": "The marked price of an item is 1000 rupees and a discount of 5 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 1000 rupees and a discount of 5 per cent is given. What is the selling price?",
+   "options": [
     "950 rupees",
     "940 rupees",
     "1000 rupees",
     "960 rupees"
    ],
-   "a": 0,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1000 x (1 - 5/100) = 950 rupees."
+   "answer": 0,
+   "explanation": "Selling price = 1000 x (1 - 5/100) = 950 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01381",
-   "q": "A sum becomes 22 when 11 is added to another number 11. What is the value of 11 + 11?",
-   "o": [
+   "question": "A sum becomes 22 when 11 is added to another number 11. What is the value of 11 + 11?",
+   "options": [
     "23",
     "21",
     "22",
     "24"
    ],
-   "a": 2,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "11 + 11 = 22."
+   "answer": 2,
+   "explanation": "11 + 11 = 22.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01382",
-   "q": "What is 10 cubed?",
-   "o": [
+   "question": "What is 10 cubed?",
+   "options": [
     "1331",
     "2000",
     "1000",
     "100"
    ],
-   "a": 2,
-   "t": "Squares and Cubes",
-   "l": 1,
-   "s": "generated",
-   "e": "10^3 = 1000."
+   "answer": 2,
+   "explanation": "10^3 = 1000.",
+   "topic": "Squares and Cubes",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01383",
-   "q": "If 23 workers can complete a job in 15 days, how long will 12 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 23 workers can complete a job in 15 days, how long will 12 workers take (work at the same rate)?",
+   "options": [
     "28.75 days",
     "15 days",
     "29.75 days",
     "23 days"
    ],
-   "a": 0,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 23 x 15 / 12 = 28.75 days."
+   "answer": 0,
+   "explanation": "Men and time are inversely related: 23 x 15 / 12 = 28.75 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01384",
-   "q": "What is 43 x 75?",
-   "o": [
+   "question": "What is 43 x 75?",
+   "options": [
     "3225",
     "3268",
     "3221",
     "3300"
    ],
-   "a": 0,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "43 x 75 = 3225."
+   "answer": 0,
+   "explanation": "43 x 75 = 3225.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01385",
-   "q": "What is 25 per cent of 260?",
-   "o": [
+   "question": "What is 25 per cent of 260?",
+   "options": [
     "32.5",
     "130",
     "64",
     "65"
    ],
-   "a": 3,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "25 per cent of 260 = 65."
+   "answer": 3,
+   "explanation": "25 per cent of 260 = 65.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01386",
-   "q": "What is the simple interest on 500 rupees at 11 per cent per annum for 3 years?",
-   "o": [
+   "question": "What is the simple interest on 500 rupees at 11 per cent per annum for 3 years?",
+   "options": [
     "82.5 rupees",
     "198 rupees",
     "215 rupees",
     "165 rupees"
    ],
-   "a": 3,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 500 x 11 x 3 / 100 = 165."
+   "answer": 3,
+   "explanation": "SI = P x R x T / 100 = 500 x 11 x 3 / 100 = 165.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01387",
-   "q": "What is the average of 11, 12, 13, 18, 24?",
-   "o": [
+   "question": "What is the average of 11, 12, 13, 18, 24?",
+   "options": [
     "15.6",
     "13.6",
     "17.6",
     "14.6"
    ],
-   "a": 0,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 78, average = 15.6."
+   "answer": 0,
+   "explanation": "Sum = 78, average = 15.6.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01388",
-   "q": "An article bought for 300 rupees is sold at a profit of 14 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 300 rupees is sold at a profit of 14 per cent. What is the selling price?",
+   "options": [
     "258 rupees",
     "342 rupees",
     "300 rupees",
     "314 rupees"
    ],
-   "a": 1,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 300 x (1 + 14/100) = 342."
+   "answer": 1,
+   "explanation": "Selling price = 300 x (1 + 14/100) = 342.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01389",
-   "q": "A vehicle travels at 64 km per hour for 5 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 64 km per hour for 5 hours. What distance does it cover?",
+   "options": [
     "400 km",
     "320 km",
     "256 km",
     "384 km"
    ],
-   "a": 1,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 64 x 5 = 320 km."
+   "answer": 1,
+   "explanation": "Distance = speed x time = 64 x 5 = 320 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01390",
-   "q": "A train 50 metres long runs at 21 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 50 metres long runs at 21 metres per second. How long will it take to cross a pole?",
+   "options": [
     "7.38 seconds",
     "4.76 seconds",
     "1.19 seconds",
     "2.38 seconds"
    ],
-   "a": 3,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 50 / 21 = 2.38 seconds."
+   "answer": 3,
+   "explanation": "Time = length / speed = 50 / 21 = 2.38 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01391",
-   "q": "A can finish a piece of work in 15 days and B in 10 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 15 days and B in 10 days. Working together, in how many days will they finish it?",
+   "options": [
     "6 days",
     "12 days",
     "7 days",
     "25 days"
    ],
-   "a": 0,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/15 + 1/10, so time = 6 days."
+   "answer": 0,
+   "explanation": "Combined rate = 1/15 + 1/10, so time = 6 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01392",
-   "q": "What is the HCF of 26 and 33?",
-   "o": [
+   "question": "What is the HCF of 26 and 33?",
+   "options": [
     "1",
     "858",
     "0",
     "3"
    ],
-   "a": 0,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 26 and 33 is 1."
+   "answer": 0,
+   "explanation": "The highest common factor of 26 and 33 is 1.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01393",
-   "q": "What is the LCM of 9 and 12?",
-   "o": [
+   "question": "What is the LCM of 9 and 12?",
+   "options": [
     "45",
     "36",
     "72",
     "24"
    ],
-   "a": 1,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 9 and 12 is 36."
+   "answer": 1,
+   "explanation": "The least common multiple of 9 and 12 is 36.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01394",
-   "q": "What is the area of a circle of radius 18 cm? (take pi = 22/7)",
-   "o": [
+   "question": "What is the area of a circle of radius 18 cm? (take pi = 22/7)",
+   "options": [
     "1018.29 sq cm",
     "324 sq cm",
     "113.14 sq cm",
     "56.57 sq cm"
    ],
-   "a": 0,
-   "t": "Mensuration",
-   "l": 2,
-   "s": "generated",
-   "e": "Area = pi x r^2 = 22/7 x 18 x 18 = 1018.29 square centimetres."
+   "answer": 0,
+   "explanation": "Area = pi x r^2 = 22/7 x 18 x 18 = 1018.29 square centimetres.",
+   "topic": "Mensuration",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01395",
-   "q": "What is the perimeter of a rectangle 20 m long and 24 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 20 m long and 24 m wide?",
+   "options": [
     "240 m",
     "88 m",
     "44 m",
     "480 m"
    ],
-   "a": 1,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (20 + 24) = 88 m."
+   "answer": 1,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (20 + 24) = 88 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01396",
-   "q": "What is the compound interest on 2000 rupees at 6 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 2000 rupees at 6 per cent per annum for 2 years?",
+   "options": [
     "247.2 rupees",
     "240 rupees",
     "494.4 rupees",
     "123.6 rupees"
    ],
-   "a": 0,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 2000 x (1 + 6/100)^2, so CI = 247.2 rupees."
+   "answer": 0,
+   "explanation": "Amount = 2000 x (1 + 6/100)^2, so CI = 247.2 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01397",
-   "q": "The marked price of an item is 1000 rupees and a discount of 5 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 1000 rupees and a discount of 5 per cent is given. What is the selling price?",
+   "options": [
     "940 rupees",
     "1050 rupees",
     "950 rupees",
     "960 rupees"
    ],
-   "a": 2,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1000 x (1 - 5/100) = 950 rupees."
+   "answer": 2,
+   "explanation": "Selling price = 1000 x (1 - 5/100) = 950 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01398",
-   "q": "A sum becomes 37 when 25 is added to another number 12. What is the value of 25 + 12?",
-   "o": [
+   "question": "A sum becomes 37 when 25 is added to another number 12. What is the value of 25 + 12?",
+   "options": [
     "300",
     "37",
     "38",
     "39"
    ],
-   "a": 1,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "25 + 12 = 37."
+   "answer": 1,
+   "explanation": "25 + 12 = 37.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01399",
-   "q": "If 13 workers can complete a job in 7 days, how long will 10 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 13 workers can complete a job in 7 days, how long will 10 workers take (work at the same rate)?",
+   "options": [
     "10.1 days",
     "9.1 days",
     "9 days",
     "7 days"
    ],
-   "a": 1,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 13 x 7 / 10 = 9.1 days."
+   "answer": 1,
+   "explanation": "Men and time are inversely related: 13 x 7 / 10 = 9.1 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01400",
-   "q": "What is 46 x 47?",
-   "o": [
+   "question": "What is 46 x 47?",
+   "options": [
     "2115",
     "2158",
     "2162",
     "2209"
    ],
-   "a": 2,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "46 x 47 = 2162."
+   "answer": 2,
+   "explanation": "46 x 47 = 2162.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01401",
-   "q": "What is 75 per cent of 540?",
-   "o": [
+   "question": "What is 75 per cent of 540?",
+   "options": [
     "405",
     "607.5",
     "810",
     "410.4"
    ],
-   "a": 0,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "75 per cent of 540 = 405."
+   "answer": 0,
+   "explanation": "75 per cent of 540 = 405.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01402",
-   "q": "What is the simple interest on 1000 rupees at 7 per cent per annum for 4 years?",
-   "o": [
+   "question": "What is the simple interest on 1000 rupees at 7 per cent per annum for 4 years?",
+   "options": [
     "273 rupees",
     "287 rupees",
     "380 rupees",
     "280 rupees"
    ],
-   "a": 3,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 1000 x 7 x 4 / 100 = 280."
+   "answer": 3,
+   "explanation": "SI = P x R x T / 100 = 1000 x 7 x 4 / 100 = 280.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01403",
-   "q": "What is the average of 28, 30, 35, 44, 49?",
-   "o": [
+   "question": "What is the average of 28, 30, 35, 44, 49?",
+   "options": [
     "37.2",
     "39.2",
     "36.2",
     "37.7"
    ],
-   "a": 0,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 186, average = 37.2."
+   "answer": 0,
+   "explanation": "Sum = 186, average = 37.2.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01404",
-   "q": "An article bought for 1400 rupees is sold at a profit of 44 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 1400 rupees is sold at a profit of 44 per cent. What is the selling price?",
+   "options": [
     "1444 rupees",
     "784 rupees",
     "1400 rupees",
     "2016 rupees"
    ],
-   "a": 3,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1400 x (1 + 44/100) = 2016."
+   "answer": 3,
+   "explanation": "Selling price = 1400 x (1 + 44/100) = 2016.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01405",
-   "q": "A vehicle travels at 72 km per hour for 5 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 72 km per hour for 5 hours. What distance does it cover?",
+   "options": [
     "370 km",
     "450 km",
     "360 km",
     "432 km"
    ],
-   "a": 2,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 72 x 5 = 360 km."
+   "answer": 2,
+   "explanation": "Distance = speed x time = 72 x 5 = 360 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01406",
-   "q": "A can finish a piece of work in 12 days and B in 16 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 12 days and B in 16 days. Working together, in how many days will they finish it?",
+   "options": [
     "6.86 days",
     "12 days",
     "14 days",
     "28 days"
    ],
-   "a": 0,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/12 + 1/16, so time = 6.86 days."
+   "answer": 0,
+   "explanation": "Combined rate = 1/12 + 1/16, so time = 6.86 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01407",
-   "q": "What is the HCF of 28 and 34?",
-   "o": [
+   "question": "What is the HCF of 28 and 34?",
+   "options": [
     "2",
     "1",
     "3",
     "6"
    ],
-   "a": 0,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 28 and 34 is 2."
+   "answer": 0,
+   "explanation": "The highest common factor of 28 and 34 is 2.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01408",
-   "q": "What is the LCM of 17 and 18?",
-   "o": [
+   "question": "What is the LCM of 17 and 18?",
+   "options": [
     "612",
     "288",
     "153",
     "306"
    ],
-   "a": 3,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 17 and 18 is 306."
+   "answer": 3,
+   "explanation": "The least common multiple of 17 and 18 is 306.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01409",
-   "q": "What is the perimeter of a rectangle 23 m long and 11 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 23 m long and 11 m wide?",
+   "options": [
     "253 m",
     "68 m",
     "34 m",
     "57 m"
    ],
-   "a": 1,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (23 + 11) = 68 m."
+   "answer": 1,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (23 + 11) = 68 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01410",
-   "q": "What is the compound interest on 2000 rupees at 14 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 2000 rupees at 14 per cent per annum for 2 years?",
+   "options": [
     "585.2 rupees",
     "1198.4 rupees",
     "299.6 rupees",
     "599.2 rupees"
    ],
-   "a": 3,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 2000 x (1 + 14/100)^2, so CI = 599.2 rupees."
+   "answer": 3,
+   "explanation": "Amount = 2000 x (1 + 14/100)^2, so CI = 599.2 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01411",
-   "q": "The marked price of an item is 200 rupees and a discount of 15 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 200 rupees and a discount of 15 per cent is given. What is the selling price?",
+   "options": [
     "230 rupees",
     "160 rupees",
     "200 rupees",
     "170 rupees"
    ],
-   "a": 3,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 200 x (1 - 15/100) = 170 rupees."
+   "answer": 3,
+   "explanation": "Selling price = 200 x (1 - 15/100) = 170 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01412",
-   "q": "A sum becomes 50 when 28 is added to another number 22. What is the value of 28 + 22?",
-   "o": [
+   "question": "A sum becomes 50 when 28 is added to another number 22. What is the value of 28 + 22?",
+   "options": [
     "52",
     "49",
     "50",
     "616"
    ],
-   "a": 2,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "28 + 22 = 50."
+   "answer": 2,
+   "explanation": "28 + 22 = 50.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01413",
-   "q": "If 15 workers can complete a job in 15 days, how long will 8 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 15 workers can complete a job in 15 days, how long will 8 workers take (work at the same rate)?",
+   "options": [
     "15 days",
     "17 days",
     "28.13 days",
     "7.5 days"
    ],
-   "a": 2,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 15 x 15 / 8 = 28.13 days."
+   "answer": 2,
+   "explanation": "Men and time are inversely related: 15 x 15 / 8 = 28.13 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01414",
-   "q": "What is 34 x 98?",
-   "o": [
+   "question": "What is 34 x 98?",
+   "options": [
     "3366",
     "3328",
     "3430",
     "3332"
    ],
-   "a": 3,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "34 x 98 = 3332."
+   "answer": 3,
+   "explanation": "34 x 98 = 3332.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01415",
-   "q": "What is 30 per cent of 460?",
-   "o": [
+   "question": "What is 30 per cent of 460?",
+   "options": [
     "69",
     "137",
     "207",
     "138"
    ],
-   "a": 3,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "30 per cent of 460 = 138."
+   "answer": 3,
+   "explanation": "30 per cent of 460 = 138.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01416",
-   "q": "What is the simple interest on 200 rupees at 12 per cent per annum for 1 years?",
-   "o": [
+   "question": "What is the simple interest on 200 rupees at 12 per cent per annum for 1 years?",
+   "options": [
     "12 rupees",
     "24 rupees",
     "44 rupees",
     "28.8 rupees"
    ],
-   "a": 1,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 200 x 12 x 1 / 100 = 24."
+   "answer": 1,
+   "explanation": "SI = P x R x T / 100 = 200 x 12 x 1 / 100 = 24.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01417",
-   "q": "What is the average of 21, 27, 30, 39, 47?",
-   "o": [
+   "question": "What is the average of 21, 27, 30, 39, 47?",
+   "options": [
     "32.8",
     "30.799999999999997",
     "34.8",
     "33.8"
    ],
-   "a": 0,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 164, average = 32.8."
+   "answer": 0,
+   "explanation": "Sum = 164, average = 32.8.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01418",
-   "q": "A sum of 285 rupees is divided between two people in the ratio 4:1. What is the larger share?",
-   "o": [
+   "question": "A sum of 285 rupees is divided between two people in the ratio 4:1. What is the larger share?",
+   "options": [
     "142.5 rupees",
     "228 rupees",
     "57 rupees",
     "114 rupees"
    ],
-   "a": 1,
-   "t": "Ratio",
-   "l": 2,
-   "s": "generated",
-   "e": "One part is 57 rupees, so the shares are 228 and 57."
+   "answer": 1,
+   "explanation": "One part is 57 rupees, so the shares are 228 and 57.",
+   "topic": "Ratio",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01419",
-   "q": "An article bought for 100 rupees is sold at a profit of 31 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 100 rupees is sold at a profit of 31 per cent. What is the selling price?",
+   "options": [
     "69 rupees",
     "100 rupees",
     "131 rupees",
     "126 rupees"
    ],
-   "a": 2,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 100 x (1 + 31/100) = 131."
+   "answer": 2,
+   "explanation": "Selling price = 100 x (1 + 31/100) = 131.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01420",
-   "q": "A train 300 metres long runs at 25 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 300 metres long runs at 25 metres per second. How long will it take to cross a pole?",
+   "options": [
     "24 seconds",
     "22 seconds",
     "12 seconds",
     "10 seconds"
    ],
-   "a": 2,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 300 / 25 = 12 seconds."
+   "answer": 2,
+   "explanation": "Time = length / speed = 300 / 25 = 12 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01421",
-   "q": "A can finish a piece of work in 7 days and B in 16 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 7 days and B in 16 days. Working together, in how many days will they finish it?",
+   "options": [
     "4.87 days",
     "9.74 days",
     "11.5 days",
     "23 days"
    ],
-   "a": 0,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/7 + 1/16, so time = 4.87 days."
+   "answer": 0,
+   "explanation": "Combined rate = 1/7 + 1/16, so time = 4.87 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01422",
-   "q": "What is the HCF of 21 and 22?",
-   "o": [
+   "question": "What is the HCF of 21 and 22?",
+   "options": [
     "462",
     "3",
     "2",
     "1"
    ],
-   "a": 3,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 21 and 22 is 1."
+   "answer": 3,
+   "explanation": "The highest common factor of 21 and 22 is 1.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01423",
-   "q": "What is the LCM of 13 and 15?",
-   "o": [
+   "question": "What is the LCM of 13 and 15?",
+   "options": [
     "390",
     "180",
     "208",
     "195"
    ],
-   "a": 3,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 13 and 15 is 195."
+   "answer": 3,
+   "explanation": "The least common multiple of 13 and 15 is 195.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01424",
-   "q": "What is the perimeter of a rectangle 7 m long and 17 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 7 m long and 17 m wide?",
+   "options": [
     "28 m",
     "24 m",
     "119 m",
     "48 m"
    ],
-   "a": 3,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (7 + 17) = 48 m."
+   "answer": 3,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (7 + 17) = 48 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01425",
-   "q": "What is the compound interest on 4000 rupees at 9 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 4000 rupees at 9 per cent per annum for 2 years?",
+   "options": [
     "720 rupees",
     "376.2 rupees",
     "1504.8 rupees",
     "752.4 rupees"
    ],
-   "a": 3,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 4000 x (1 + 9/100)^2, so CI = 752.4 rupees."
+   "answer": 3,
+   "explanation": "Amount = 4000 x (1 + 9/100)^2, so CI = 752.4 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01426",
-   "q": "A sum becomes 39 when 14 is added to another number 25. What is the value of 14 + 25?",
-   "o": [
+   "question": "A sum becomes 39 when 14 is added to another number 25. What is the value of 14 + 25?",
+   "options": [
     "39",
     "40",
     "350",
     "38"
    ],
-   "a": 0,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "14 + 25 = 39."
+   "answer": 0,
+   "explanation": "14 + 25 = 39.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01427",
-   "q": "What is 10 cubed?",
-   "o": [
+   "question": "What is 10 cubed?",
+   "options": [
     "1000",
     "990",
     "1010",
     "1331"
    ],
-   "a": 0,
-   "t": "Squares and Cubes",
-   "l": 1,
-   "s": "generated",
-   "e": "10^3 = 1000."
+   "answer": 0,
+   "explanation": "10^3 = 1000.",
+   "topic": "Squares and Cubes",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01428",
-   "q": "If 20 workers can complete a job in 8 days, how long will 10 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 20 workers can complete a job in 8 days, how long will 10 workers take (work at the same rate)?",
+   "options": [
     "8 days",
     "16 days",
     "10 days",
     "12.31 days"
    ],
-   "a": 1,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 20 x 8 / 10 = 16 days."
+   "answer": 1,
+   "explanation": "Men and time are inversely related: 20 x 8 / 10 = 16 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01429",
-   "q": "What is 18 x 71?",
-   "o": [
+   "question": "What is 18 x 71?",
+   "options": [
     "1278",
     "1296",
     "1274",
     "1349"
    ],
-   "a": 0,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "18 x 71 = 1278."
+   "answer": 0,
+   "explanation": "18 x 71 = 1278.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01430",
-   "q": "What is 20 per cent of 480?",
-   "o": [
+   "question": "What is 20 per cent of 480?",
+   "options": [
     "95",
     "96",
     "144",
     "192"
    ],
-   "a": 1,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "20 per cent of 480 = 96."
+   "answer": 1,
+   "explanation": "20 per cent of 480 = 96.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01431",
-   "q": "What is the simple interest on 700 rupees at 2 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the simple interest on 700 rupees at 2 per cent per annum for 2 years?",
+   "options": [
     "33.6 rupees",
     "30 rupees",
     "98 rupees",
     "28 rupees"
    ],
-   "a": 3,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 700 x 2 x 2 / 100 = 28."
+   "answer": 3,
+   "explanation": "SI = P x R x T / 100 = 700 x 2 x 2 / 100 = 28.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01432",
-   "q": "What is the average of 24, 27, 30, 39, 48?",
-   "o": [
+   "question": "What is the average of 24, 27, 30, 39, 48?",
+   "options": [
     "34.6",
     "35.6",
     "34.1",
     "33.6"
    ],
-   "a": 3,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 168, average = 33.6."
+   "answer": 3,
+   "explanation": "Sum = 168, average = 33.6.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01433",
-   "q": "An article bought for 100 rupees is sold at a profit of 23 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 100 rupees is sold at a profit of 23 per cent. What is the selling price?",
+   "options": [
     "77 rupees",
     "133 rupees",
     "118 rupees",
     "123 rupees"
    ],
-   "a": 3,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 100 x (1 + 23/100) = 123."
+   "answer": 3,
+   "explanation": "Selling price = 100 x (1 + 23/100) = 123.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01434",
-   "q": "A vehicle travels at 62 km per hour for 5 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 62 km per hour for 5 hours. What distance does it cover?",
+   "options": [
     "387.5 km",
     "372 km",
     "310 km",
     "320 km"
    ],
-   "a": 2,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 62 x 5 = 310 km."
+   "answer": 2,
+   "explanation": "Distance = speed x time = 62 x 5 = 310 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01435",
-   "q": "A can finish a piece of work in 18 days and B in 22 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 18 days and B in 22 days. Working together, in how many days will they finish it?",
+   "options": [
     "19.8 days",
     "20 days",
     "10.9 days",
     "9.9 days"
    ],
-   "a": 3,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/18 + 1/22, so time = 9.9 days."
+   "answer": 3,
+   "explanation": "Combined rate = 1/18 + 1/22, so time = 9.9 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01436",
-   "q": "What is the HCF of 32 and 9?",
-   "o": [
+   "question": "What is the HCF of 32 and 9?",
+   "options": [
     "0",
     "288",
     "2",
     "1"
    ],
-   "a": 3,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 32 and 9 is 1."
+   "answer": 3,
+   "explanation": "The highest common factor of 32 and 9 is 1.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01437",
-   "q": "What is the LCM of 7 and 7?",
-   "o": [
+   "question": "What is the LCM of 7 and 7?",
+   "options": [
     "3.5",
     "7",
     "0",
     "49"
    ],
-   "a": 1,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 7 and 7 is 7."
+   "answer": 1,
+   "explanation": "The least common multiple of 7 and 7 is 7.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01438",
-   "q": "What is the perimeter of a rectangle 22 m long and 19 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 22 m long and 19 m wide?",
+   "options": [
     "41 m",
     "82 m",
     "88 m",
     "418 m"
    ],
-   "a": 1,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (22 + 19) = 82 m."
+   "answer": 1,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (22 + 19) = 82 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01439",
-   "q": "What is the compound interest on 6000 rupees at 11 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 6000 rupees at 11 per cent per annum for 2 years?",
+   "options": [
     "2785.2 rupees",
     "1381.6 rupees",
     "1392.6 rupees",
     "1320 rupees"
    ],
-   "a": 2,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 6000 x (1 + 11/100)^2, so CI = 1392.6 rupees."
+   "answer": 2,
+   "explanation": "Amount = 6000 x (1 + 11/100)^2, so CI = 1392.6 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01440",
-   "q": "The marked price of an item is 200 rupees and a discount of 25 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 200 rupees and a discount of 25 per cent is given. What is the selling price?",
+   "options": [
     "175 rupees",
     "200 rupees",
     "140 rupees",
     "150 rupees"
    ],
-   "a": 3,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 200 x (1 - 25/100) = 150 rupees."
+   "answer": 3,
+   "explanation": "Selling price = 200 x (1 - 25/100) = 150 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01441",
-   "q": "A sum becomes 36 when 25 is added to another number 11. What is the value of 25 + 11?",
-   "o": [
+   "question": "A sum becomes 36 when 25 is added to another number 11. What is the value of 25 + 11?",
+   "options": [
     "35",
     "275",
     "37",
     "36"
    ],
-   "a": 3,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "25 + 11 = 36."
+   "answer": 3,
+   "explanation": "25 + 11 = 36.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01442",
-   "q": "If 7 workers can complete a job in 15 days, how long will 12 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 7 workers can complete a job in 15 days, how long will 12 workers take (work at the same rate)?",
+   "options": [
     "17 days",
     "7 days",
     "7.5 days",
     "8.75 days"
    ],
-   "a": 3,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 7 x 15 / 12 = 8.75 days."
+   "answer": 3,
+   "explanation": "Men and time are inversely related: 7 x 15 / 12 = 8.75 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01443",
-   "q": "What is 74 x 34?",
-   "o": [
+   "question": "What is 74 x 34?",
+   "options": [
     "2482",
     "2590",
     "2512",
     "2516"
    ],
-   "a": 3,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "74 x 34 = 2516."
+   "answer": 3,
+   "explanation": "74 x 34 = 2516.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01444",
-   "q": "What is 50 per cent of 80?",
-   "o": [
+   "question": "What is 50 per cent of 80?",
+   "options": [
     "39",
     "80",
     "20",
     "40"
    ],
-   "a": 3,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "50 per cent of 80 = 40."
+   "answer": 3,
+   "explanation": "50 per cent of 80 = 40.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01445",
-   "q": "What is the simple interest on 1000 rupees at 8 per cent per annum for 4 years?",
-   "o": [
+   "question": "What is the simple interest on 1000 rupees at 8 per cent per annum for 4 years?",
+   "options": [
     "328 rupees",
     "160 rupees",
     "312 rupees",
     "320 rupees"
    ],
-   "a": 3,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 1000 x 8 x 4 / 100 = 320."
+   "answer": 3,
+   "explanation": "SI = P x R x T / 100 = 1000 x 8 x 4 / 100 = 320.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01446",
-   "q": "What is the average of 18, 25, 29, 38, 44?",
-   "o": [
+   "question": "What is the average of 18, 25, 29, 38, 44?",
+   "options": [
     "30.8",
     "29.8",
     "32.8",
     "28.8"
    ],
-   "a": 0,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 154, average = 30.8."
+   "answer": 0,
+   "explanation": "Sum = 154, average = 30.8.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01447",
-   "q": "An article bought for 300 rupees is sold at a profit of 44 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 300 rupees is sold at a profit of 44 per cent. What is the selling price?",
+   "options": [
     "432 rupees",
     "344 rupees",
     "427 rupees",
     "168 rupees"
    ],
-   "a": 0,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 300 x (1 + 44/100) = 432."
+   "answer": 0,
+   "explanation": "Selling price = 300 x (1 + 44/100) = 432.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01448",
-   "q": "A vehicle travels at 39 km per hour for 6 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 39 km per hour for 6 hours. What distance does it cover?",
+   "options": [
     "234 km",
     "195 km",
     "117 km",
     "273 km"
    ],
-   "a": 0,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 39 x 6 = 234 km."
+   "answer": 0,
+   "explanation": "Distance = speed x time = 39 x 6 = 234 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01449",
-   "q": "A train 50 metres long runs at 16 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 50 metres long runs at 16 metres per second. How long will it take to cross a pole?",
+   "options": [
     "13.13 seconds",
     "1.13 seconds",
     "6.25 seconds",
     "3.13 seconds"
    ],
-   "a": 3,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 50 / 16 = 3.13 seconds."
+   "answer": 3,
+   "explanation": "Time = length / speed = 50 / 16 = 3.13 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01450",
-   "q": "A can finish a piece of work in 12 days and B in 13 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 12 days and B in 13 days. Working together, in how many days will they finish it?",
+   "options": [
     "7.24 days",
     "6.24 days",
     "12.5 days",
     "12 days"
    ],
-   "a": 1,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/12 + 1/13, so time = 6.24 days."
+   "answer": 1,
+   "explanation": "Combined rate = 1/12 + 1/13, so time = 6.24 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01451",
-   "q": "What is the HCF of 23 and 31?",
-   "o": [
+   "question": "What is the HCF of 23 and 31?",
+   "options": [
     "2",
     "1",
     "0",
     "3"
    ],
-   "a": 1,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 23 and 31 is 1."
+   "answer": 1,
+   "explanation": "The highest common factor of 23 and 31 is 1.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01452",
-   "q": "What is the LCM of 8 and 23?",
-   "o": [
+   "question": "What is the LCM of 8 and 23?",
+   "options": [
     "192",
     "368",
     "184",
     "161"
    ],
-   "a": 2,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 8 and 23 is 184."
+   "answer": 2,
+   "explanation": "The least common multiple of 8 and 23 is 184.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01453",
-   "q": "What is the perimeter of a rectangle 22 m long and 13 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 22 m long and 13 m wide?",
+   "options": [
     "88 m",
     "35 m",
     "70 m",
     "57 m"
    ],
-   "a": 2,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (22 + 13) = 70 m."
+   "answer": 2,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (22 + 13) = 70 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01454",
-   "q": "What is the compound interest on 8000 rupees at 11 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 8000 rupees at 11 per cent per annum for 2 years?",
+   "options": [
     "1760 rupees",
     "1845.8 rupees",
     "3713.6 rupees",
     "1856.8 rupees"
    ],
-   "a": 3,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 8000 x (1 + 11/100)^2, so CI = 1856.8 rupees."
+   "answer": 3,
+   "explanation": "Amount = 8000 x (1 + 11/100)^2, so CI = 1856.8 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01455",
-   "q": "The marked price of an item is 1600 rupees and a discount of 10 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 1600 rupees and a discount of 10 per cent is given. What is the selling price?",
+   "options": [
     "1440 rupees",
     "1590 rupees",
     "1430 rupees",
     "1450 rupees"
    ],
-   "a": 0,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1600 x (1 - 10/100) = 1440 rupees."
+   "answer": 0,
+   "explanation": "Selling price = 1600 x (1 - 10/100) = 1440 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01456",
-   "q": "A sum becomes 41 when 22 is added to another number 19. What is the value of 22 + 19?",
-   "o": [
+   "question": "A sum becomes 41 when 22 is added to another number 19. What is the value of 22 + 19?",
+   "options": [
     "42",
     "418",
     "41",
     "43"
    ],
-   "a": 2,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "22 + 19 = 41."
+   "answer": 2,
+   "explanation": "22 + 19 = 41.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01457",
-   "q": "What is 4 cubed?",
-   "o": [
+   "question": "What is 4 cubed?",
+   "options": [
     "64",
     "60",
     "16",
     "128"
    ],
-   "a": 0,
-   "t": "Squares and Cubes",
-   "l": 1,
-   "s": "generated",
-   "e": "4^3 = 64."
+   "answer": 0,
+   "explanation": "4^3 = 64.",
+   "topic": "Squares and Cubes",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01458",
-   "q": "If 15 workers can complete a job in 14 days, how long will 5 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 15 workers can complete a job in 14 days, how long will 5 workers take (work at the same rate)?",
+   "options": [
     "7 days",
     "26.25 days",
     "16 days",
     "42 days"
    ],
-   "a": 3,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 15 x 14 / 5 = 42 days."
+   "answer": 3,
+   "explanation": "Men and time are inversely related: 15 x 14 / 5 = 42 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01459",
-   "q": "What is 74 x 97?",
-   "o": [
+   "question": "What is 74 x 97?",
+   "options": [
     "7178",
     "7275",
     "7174",
     "7252"
    ],
-   "a": 0,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "74 x 97 = 7178."
+   "answer": 0,
+   "explanation": "74 x 97 = 7178.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01460",
-   "q": "What is 50 per cent of 620?",
-   "o": [
+   "question": "What is 50 per cent of 620?",
+   "options": [
     "310",
     "309",
     "465",
     "316.2"
    ],
-   "a": 0,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "50 per cent of 620 = 310."
+   "answer": 0,
+   "explanation": "50 per cent of 620 = 310.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01461",
-   "q": "What is the simple interest on 1300 rupees at 6 per cent per annum for 5 years?",
-   "o": [
+   "question": "What is the simple interest on 1300 rupees at 6 per cent per annum for 5 years?",
+   "options": [
     "468 rupees",
     "390 rupees",
     "396 rupees",
     "195 rupees"
    ],
-   "a": 1,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 1300 x 6 x 5 / 100 = 390."
+   "answer": 1,
+   "explanation": "SI = P x R x T / 100 = 1300 x 6 x 5 / 100 = 390.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01462",
-   "q": "What is the average of 19, 26, 27, 34, 42?",
-   "o": [
+   "question": "What is the average of 19, 26, 27, 34, 42?",
+   "options": [
     "30.1",
     "29.6",
     "31.6",
     "28.6"
    ],
-   "a": 1,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 148, average = 29.6."
+   "answer": 1,
+   "explanation": "Sum = 148, average = 29.6.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01463",
-   "q": "An article bought for 1300 rupees is sold at a profit of 17 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 1300 rupees is sold at a profit of 17 per cent. What is the selling price?",
+   "options": [
     "1521 rupees",
     "1300 rupees",
     "1531 rupees",
     "1317 rupees"
    ],
-   "a": 0,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1300 x (1 + 17/100) = 1521."
+   "answer": 0,
+   "explanation": "Selling price = 1300 x (1 + 17/100) = 1521.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01464",
-   "q": "A vehicle travels at 33 km per hour for 3 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 33 km per hour for 3 hours. What distance does it cover?",
+   "options": [
     "66 km",
     "49.5 km",
     "109 km",
     "99 km"
    ],
-   "a": 3,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 33 x 3 = 99 km."
+   "answer": 3,
+   "explanation": "Distance = speed x time = 33 x 3 = 99 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01465",
-   "q": "A train 200 metres long runs at 11 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 200 metres long runs at 11 metres per second. How long will it take to cross a pole?",
+   "options": [
     "18.18 seconds",
     "23.18 seconds",
     "28.18 seconds",
     "9.09 seconds"
    ],
-   "a": 0,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 200 / 11 = 18.18 seconds."
+   "answer": 0,
+   "explanation": "Time = length / speed = 200 / 11 = 18.18 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01466",
-   "q": "A can finish a piece of work in 12 days and B in 23 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 12 days and B in 23 days. Working together, in how many days will they finish it?",
+   "options": [
     "12 days",
     "35 days",
     "7.89 days",
     "17.5 days"
    ],
-   "a": 2,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/12 + 1/23, so time = 7.89 days."
+   "answer": 2,
+   "explanation": "Combined rate = 1/12 + 1/23, so time = 7.89 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01467",
-   "q": "What is the HCF of 9 and 30?",
-   "o": [
+   "question": "What is the HCF of 9 and 30?",
+   "options": [
     "2",
     "90",
     "3",
     "9"
    ],
-   "a": 2,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 9 and 30 is 3."
+   "answer": 2,
+   "explanation": "The highest common factor of 9 and 30 is 3.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01468",
-   "q": "What is the LCM of 11 and 17?",
-   "o": [
+   "question": "What is the LCM of 11 and 17?",
+   "options": [
     "93.5",
     "374",
     "187",
     "170"
    ],
-   "a": 2,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 11 and 17 is 187."
+   "answer": 2,
+   "explanation": "The least common multiple of 11 and 17 is 187.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01469",
-   "q": "What is the perimeter of a rectangle 7 m long and 17 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 7 m long and 17 m wide?",
+   "options": [
     "28 m",
     "48 m",
     "59.5 m",
     "24 m"
    ],
-   "a": 1,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (7 + 17) = 48 m."
+   "answer": 1,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (7 + 17) = 48 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01470",
-   "q": "What is the compound interest on 7000 rupees at 11 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 7000 rupees at 11 per cent per annum for 2 years?",
+   "options": [
     "3249.4 rupees",
     "1624.7 rupees",
     "2324.7 rupees",
     "812.35 rupees"
    ],
-   "a": 1,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 7000 x (1 + 11/100)^2, so CI = 1624.7 rupees."
+   "answer": 1,
+   "explanation": "Amount = 7000 x (1 + 11/100)^2, so CI = 1624.7 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01471",
-   "q": "The marked price of an item is 1600 rupees and a discount of 15 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 1600 rupees and a discount of 15 per cent is given. What is the selling price?",
+   "options": [
     "1350 rupees",
     "1360 rupees",
     "1585 rupees",
     "1600 rupees"
    ],
-   "a": 1,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1600 x (1 - 15/100) = 1360 rupees."
+   "answer": 1,
+   "explanation": "Selling price = 1600 x (1 - 15/100) = 1360 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01472",
-   "q": "A sum becomes 47 when 23 is added to another number 24. What is the value of 23 + 24?",
-   "o": [
+   "question": "A sum becomes 47 when 23 is added to another number 24. What is the value of 23 + 24?",
+   "options": [
     "-1",
     "552",
     "47",
     "46"
    ],
-   "a": 2,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "23 + 24 = 47."
+   "answer": 2,
+   "explanation": "23 + 24 = 47.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01473",
-   "q": "If 7 workers can complete a job in 4 days, how long will 13 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 7 workers can complete a job in 4 days, how long will 13 workers take (work at the same rate)?",
+   "options": [
     "2.15 days",
     "1.75 days",
     "6 days",
     "4 days"
    ],
-   "a": 0,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 7 x 4 / 13 = 2.15 days."
+   "answer": 0,
+   "explanation": "Men and time are inversely related: 7 x 4 / 13 = 2.15 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01474",
-   "q": "What is 22 x 26?",
-   "o": [
+   "question": "What is 22 x 26?",
+   "options": [
     "568",
     "572",
     "594",
     "598"
    ],
-   "a": 1,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "22 x 26 = 572."
+   "answer": 1,
+   "explanation": "22 x 26 = 572.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01475",
-   "q": "What is 10 per cent of 800?",
-   "o": [
+   "question": "What is 10 per cent of 800?",
+   "options": [
     "79",
     "160",
     "80",
     "88"
    ],
-   "a": 2,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "10 per cent of 800 = 80."
+   "answer": 2,
+   "explanation": "10 per cent of 800 = 80.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01476",
-   "q": "What is the simple interest on 1900 rupees at 13 per cent per annum for 1 years?",
-   "o": [
+   "question": "What is the simple interest on 1900 rupees at 13 per cent per annum for 1 years?",
+   "options": [
     "260 rupees",
     "123.5 rupees",
     "437 rupees",
     "247 rupees"
    ],
-   "a": 3,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 1900 x 13 x 1 / 100 = 247."
+   "answer": 3,
+   "explanation": "SI = P x R x T / 100 = 1900 x 13 x 1 / 100 = 247.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01477",
-   "q": "What is the average of 41, 44, 46, 53, 61?",
-   "o": [
+   "question": "What is the average of 41, 44, 46, 53, 61?",
+   "options": [
     "49.5",
     "47",
     "51",
     "49"
    ],
-   "a": 3,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 245, average = 49."
+   "answer": 3,
+   "explanation": "Sum = 245, average = 49.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01478",
-   "q": "An article bought for 500 rupees is sold at a profit of 28 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 500 rupees is sold at a profit of 28 per cent. What is the selling price?",
+   "options": [
     "640 rupees",
     "650 rupees",
     "528 rupees",
     "500 rupees"
    ],
-   "a": 0,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 500 x (1 + 28/100) = 640."
+   "answer": 0,
+   "explanation": "Selling price = 500 x (1 + 28/100) = 640.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01479",
-   "q": "A vehicle travels at 28 km per hour for 5 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 28 km per hour for 5 hours. What distance does it cover?",
+   "options": [
     "150 km",
     "112 km",
     "140 km",
     "175 km"
    ],
-   "a": 2,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 28 x 5 = 140 km."
+   "answer": 2,
+   "explanation": "Distance = speed x time = 28 x 5 = 140 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01480",
-   "q": "A train 250 metres long runs at 28 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 250 metres long runs at 28 metres per second. How long will it take to cross a pole?",
+   "options": [
     "13.93 seconds",
     "6.93 seconds",
     "8.93 seconds",
     "18.93 seconds"
    ],
-   "a": 2,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 250 / 28 = 8.93 seconds."
+   "answer": 2,
+   "explanation": "Time = length / speed = 250 / 28 = 8.93 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01481",
-   "q": "A can finish a piece of work in 11 days and B in 18 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 11 days and B in 18 days. Working together, in how many days will they finish it?",
+   "options": [
     "14.5 days",
     "6.83 days",
     "7.83 days",
     "29 days"
    ],
-   "a": 1,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/11 + 1/18, so time = 6.83 days."
+   "answer": 1,
+   "explanation": "Combined rate = 1/11 + 1/18, so time = 6.83 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01482",
-   "q": "What is the HCF of 18 and 32?",
-   "o": [
+   "question": "What is the HCF of 18 and 32?",
+   "options": [
     "6",
     "288",
     "1",
     "2"
    ],
-   "a": 3,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 18 and 32 is 2."
+   "answer": 3,
+   "explanation": "The highest common factor of 18 and 32 is 2.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01483",
-   "q": "What is the LCM of 23 and 5?",
-   "o": [
+   "question": "What is the LCM of 23 and 5?",
+   "options": [
     "57.5",
     "138",
     "115",
     "110"
    ],
-   "a": 2,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 23 and 5 is 115."
+   "answer": 2,
+   "explanation": "The least common multiple of 23 and 5 is 115.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01484",
-   "q": "What is the perimeter of a rectangle 6 m long and 7 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 6 m long and 7 m wide?",
+   "options": [
     "24 m",
     "42 m",
     "26 m",
     "21 m"
    ],
-   "a": 2,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (6 + 7) = 26 m."
+   "answer": 2,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (6 + 7) = 26 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01485",
-   "q": "What is the compound interest on 8000 rupees at 11 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 8000 rupees at 11 per cent per annum for 2 years?",
+   "options": [
     "2656.8 rupees",
     "1845.8 rupees",
     "1856.8 rupees",
     "928.4 rupees"
    ],
-   "a": 2,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 8000 x (1 + 11/100)^2, so CI = 1856.8 rupees."
+   "answer": 2,
+   "explanation": "Amount = 8000 x (1 + 11/100)^2, so CI = 1856.8 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01486",
-   "q": "The marked price of an item is 2000 rupees and a discount of 15 per cent is given. What is the selling price?",
-   "o": [
+   "question": "The marked price of an item is 2000 rupees and a discount of 15 per cent is given. What is the selling price?",
+   "options": [
     "1985 rupees",
     "1700 rupees",
     "2300 rupees",
     "1710 rupees"
    ],
-   "a": 1,
-   "t": "Discount",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 2000 x (1 - 15/100) = 1700 rupees."
+   "answer": 1,
+   "explanation": "Selling price = 2000 x (1 - 15/100) = 1700 rupees.",
+   "topic": "Discount",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01487",
-   "q": "A sum becomes 21 when 13 is added to another number 8. What is the value of 13 + 8?",
-   "o": [
+   "question": "A sum becomes 21 when 13 is added to another number 8. What is the value of 13 + 8?",
+   "options": [
     "22",
     "20",
     "104",
     "21"
    ],
-   "a": 3,
-   "t": "Arithmetic",
-   "l": 1,
-   "s": "generated",
-   "e": "13 + 8 = 21."
+   "answer": 3,
+   "explanation": "13 + 8 = 21.",
+   "topic": "Arithmetic",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01488",
-   "q": "If 7 workers can complete a job in 17 days, how long will 15 workers take (work at the same rate)?",
-   "o": [
+   "question": "If 7 workers can complete a job in 17 days, how long will 15 workers take (work at the same rate)?",
+   "options": [
     "6.61 days",
     "7.93 days",
     "8.5 days",
     "17 days"
    ],
-   "a": 1,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Men and time are inversely related: 7 x 17 / 15 = 7.93 days."
+   "answer": 1,
+   "explanation": "Men and time are inversely related: 7 x 17 / 15 = 7.93 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01489",
-   "q": "What is 23 x 42?",
-   "o": [
+   "question": "What is 23 x 42?",
+   "options": [
     "924",
     "989",
     "966",
     "1008"
    ],
-   "a": 2,
-   "t": "Multiplication",
-   "l": 1,
-   "s": "generated",
-   "e": "23 x 42 = 966."
+   "answer": 2,
+   "explanation": "23 x 42 = 966.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01490",
-   "q": "What is 25 per cent of 100?",
-   "o": [
+   "question": "What is 25 per cent of 100?",
+   "options": [
     "50",
     "26",
     "12.5",
     "25"
    ],
-   "a": 3,
-   "t": "Percentage",
-   "l": 1,
-   "s": "generated",
-   "e": "25 per cent of 100 = 25."
+   "answer": 3,
+   "explanation": "25 per cent of 100 = 25.",
+   "topic": "Percentage",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01491",
-   "q": "What is the simple interest on 100 rupees at 9 per cent per annum for 3 years?",
-   "o": [
+   "question": "What is the simple interest on 100 rupees at 9 per cent per annum for 3 years?",
+   "options": [
     "13.5 rupees",
     "36 rupees",
     "27 rupees",
     "37 rupees"
    ],
-   "a": 2,
-   "t": "Simple Interest",
-   "l": 2,
-   "s": "generated",
-   "e": "SI = P x R x T / 100 = 100 x 9 x 3 / 100 = 27."
+   "answer": 2,
+   "explanation": "SI = P x R x T / 100 = 100 x 9 x 3 / 100 = 27.",
+   "topic": "Simple Interest",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01492",
-   "q": "What is the average of 28, 30, 35, 39, 42?",
-   "o": [
+   "question": "What is the average of 28, 30, 35, 39, 42?",
+   "options": [
     "36.8",
     "34.8",
     "35.8",
     "35.3"
    ],
-   "a": 1,
-   "t": "Average",
-   "l": 1,
-   "s": "generated",
-   "e": "Sum = 174, average = 34.8."
+   "answer": 1,
+   "explanation": "Sum = 174, average = 34.8.",
+   "topic": "Average",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01493",
-   "q": "An article bought for 1100 rupees is sold at a profit of 38 per cent. What is the selling price?",
-   "o": [
+   "question": "An article bought for 1100 rupees is sold at a profit of 38 per cent. What is the selling price?",
+   "options": [
     "1513 rupees",
     "1100 rupees",
     "1518 rupees",
     "1528 rupees"
    ],
-   "a": 2,
-   "t": "Profit and Loss",
-   "l": 2,
-   "s": "generated",
-   "e": "Selling price = 1100 x (1 + 38/100) = 1518."
+   "answer": 2,
+   "explanation": "Selling price = 1100 x (1 + 38/100) = 1518.",
+   "topic": "Profit and Loss",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01494",
-   "q": "A vehicle travels at 34 km per hour for 6 hours. What distance does it cover?",
-   "o": [
+   "question": "A vehicle travels at 34 km per hour for 6 hours. What distance does it cover?",
+   "options": [
     "238 km",
     "255 km",
     "204 km",
     "102 km"
    ],
-   "a": 2,
-   "t": "Speed and Distance",
-   "l": 1,
-   "s": "generated",
-   "e": "Distance = speed x time = 34 x 6 = 204 km."
+   "answer": 2,
+   "explanation": "Distance = speed x time = 34 x 6 = 204 km.",
+   "topic": "Speed and Distance",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01495",
-   "q": "A train 300 metres long runs at 22 metres per second. How long will it take to cross a pole?",
-   "o": [
+   "question": "A train 300 metres long runs at 22 metres per second. How long will it take to cross a pole?",
+   "options": [
     "13.64 seconds",
     "27.27 seconds",
     "23.64 seconds",
     "6.82 seconds"
    ],
-   "a": 0,
-   "t": "Trains",
-   "l": 2,
-   "s": "generated",
-   "e": "Time = length / speed = 300 / 22 = 13.64 seconds."
+   "answer": 0,
+   "explanation": "Time = length / speed = 300 / 22 = 13.64 seconds.",
+   "topic": "Trains",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01496",
-   "q": "A can finish a piece of work in 23 days and B in 13 days. Working together, in how many days will they finish it?",
-   "o": [
+   "question": "A can finish a piece of work in 23 days and B in 13 days. Working together, in how many days will they finish it?",
+   "options": [
     "16.61 days",
     "8.31 days",
     "18 days",
     "9.31 days"
    ],
-   "a": 1,
-   "t": "Time and Work",
-   "l": 3,
-   "s": "generated",
-   "e": "Combined rate = 1/23 + 1/13, so time = 8.31 days."
+   "answer": 1,
+   "explanation": "Combined rate = 1/23 + 1/13, so time = 8.31 days.",
+   "topic": "Time and Work",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01497",
-   "q": "What is the HCF of 20 and 14?",
-   "o": [
+   "question": "What is the HCF of 20 and 14?",
+   "options": [
     "140",
     "6",
     "3",
     "2"
    ],
-   "a": 3,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The highest common factor of 20 and 14 is 2."
+   "answer": 3,
+   "explanation": "The highest common factor of 20 and 14 is 2.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01498",
-   "q": "What is the LCM of 22 and 10?",
-   "o": [
+   "question": "What is the LCM of 22 and 10?",
+   "options": [
     "100",
     "110",
     "132",
     "220"
    ],
-   "a": 1,
-   "t": "HCF and LCM",
-   "l": 2,
-   "s": "generated",
-   "e": "The least common multiple of 22 and 10 is 110."
+   "answer": 1,
+   "explanation": "The least common multiple of 22 and 10 is 110.",
+   "topic": "HCF and LCM",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01499",
-   "q": "What is the perimeter of a rectangle 10 m long and 24 m wide?",
-   "o": [
+   "question": "What is the perimeter of a rectangle 10 m long and 24 m wide?",
+   "options": [
     "44 m",
     "68 m",
     "40 m",
     "34 m"
    ],
-   "a": 1,
-   "t": "Mensuration",
-   "l": 1,
-   "s": "generated",
-   "e": "Perimeter = 2 x (length + breadth) = 2 x (10 + 24) = 68 m."
+   "answer": 1,
+   "explanation": "Perimeter = 2 x (length + breadth) = 2 x (10 + 24) = 68 m.",
+   "topic": "Mensuration",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "quantitative-aptitude-01500",
-   "q": "What is the compound interest on 9000 rupees at 10 per cent per annum for 2 years?",
-   "o": [
+   "question": "What is the compound interest on 9000 rupees at 10 per cent per annum for 2 years?",
+   "options": [
     "2790 rupees",
     "3780 rupees",
     "1890 rupees",
     "945 rupees"
    ],
-   "a": 2,
-   "t": "Compound Interest",
-   "l": 3,
-   "s": "generated",
-   "e": "Amount = 9000 x (1 + 10/100)^2, so CI = 1890 rupees."
+   "answer": 2,
+   "explanation": "Amount = 9000 x (1 + 10/100)^2, so CI = 1890 rupees.",
+   "topic": "Compound Interest",
+   "level": 3,
+   "source": "generated"
   }
  ]
 };

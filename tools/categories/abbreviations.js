@@ -17,4203 +17,4203 @@
  "questions": [
   {
    "id": "abbreviations-00001",
-   "q": "What does RBI stand for?",
-   "o": [
+   "question": "What does RBI stand for?",
+   "options": [
     "Reserve Bank of India",
     "Regional Bank of India",
     "Rural Bank of India",
     "Reserve Board of India"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "RBI is the Reserve Bank of India, the central bank."
+   "answer": 0,
+   "explanation": "RBI is the Reserve Bank of India, the central bank.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "abbreviations-00002",
-   "q": "What does ISRO stand for?",
-   "o": [
+   "question": "What does ISRO stand for?",
+   "options": [
     "Indian Space Research Organisation",
     "International Space Research Organisation",
     "Indian Science Research Office",
     "Indian Satellite Research Organisation"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "ISRO is the Indian Space Research Organisation."
+   "answer": 0,
+   "explanation": "ISRO is the Indian Space Research Organisation.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "abbreviations-00003",
-   "q": "What does NASA stand for?",
-   "o": [
+   "question": "What does NASA stand for?",
+   "options": [
     "National Aeronautics and Space Administration",
     "National Astronomy and Science Agency",
     "Northern American Space Agency",
     "National Air and Space Association"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "NASA is the National Aeronautics and Space Administration."
+   "answer": 0,
+   "explanation": "NASA is the National Aeronautics and Space Administration.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "abbreviations-00004",
-   "q": "What does UNESCO stand for?",
-   "o": [
+   "question": "What does UNESCO stand for?",
+   "options": [
     "United Nations Educational, Scientific and Cultural Organization",
     "United Nations Economic and Social Council",
     "United Nations Environment and Science Commission",
     "Union of Nations for Education and Culture"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "UNESCO is the UN Educational, Scientific and Cultural Organization."
+   "answer": 0,
+   "explanation": "UNESCO is the UN Educational, Scientific and Cultural Organization.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "abbreviations-00005",
-   "q": "What does WHO stand for?",
-   "o": [
+   "question": "What does WHO stand for?",
+   "options": [
     "World Health Organization",
     "World Housing Organization",
     "World Human Organization",
     "World Hospital Organization"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "WHO is the World Health Organization."
+   "answer": 0,
+   "explanation": "WHO is the World Health Organization.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "abbreviations-00006",
-   "q": "What does IMF stand for?",
-   "o": [
+   "question": "What does IMF stand for?",
+   "options": [
     "International Monetary Fund",
     "Indian Monetary Fund",
     "International Marketing Fund",
     "International Money Federation"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "The IMF is the International Monetary Fund."
+   "answer": 0,
+   "explanation": "The IMF is the International Monetary Fund.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "abbreviations-00007",
-   "q": "What does WTO stand for?",
-   "o": [
+   "question": "What does WTO stand for?",
+   "options": [
     "World Trade Organization",
     "World Transport Organization",
     "World Tariff Organization",
     "Western Trade Organization"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "WTO is the World Trade Organization."
+   "answer": 0,
+   "explanation": "WTO is the World Trade Organization.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "abbreviations-00008",
-   "q": "What does GST stand for?",
-   "o": [
+   "question": "What does GST stand for?",
+   "options": [
     "Goods and Services Tax",
     "General Sales Tax",
     "Government Service Tax",
     "Gross Service Tax"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "GST is the Goods and Services Tax."
+   "answer": 0,
+   "explanation": "GST is the Goods and Services Tax.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "abbreviations-00009",
-   "q": "What does GDP stand for?",
-   "o": [
+   "question": "What does GDP stand for?",
+   "options": [
     "Gross Domestic Product",
     "General Domestic Product",
     "Gross Development Product",
     "Gross Domestic Price"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "GDP is Gross Domestic Product."
+   "answer": 0,
+   "explanation": "GDP is Gross Domestic Product.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "abbreviations-00010",
-   "q": "What does UPSC stand for?",
-   "o": [
+   "question": "What does UPSC stand for?",
+   "options": [
     "Union Public Service Commission",
     "United Public Service Commission",
     "Union Public Selection Committee",
     "Union Police Service Commission"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "UPSC is the Union Public Service Commission."
+   "answer": 0,
+   "explanation": "UPSC is the Union Public Service Commission.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "abbreviations-00011",
-   "q": "What does NITI in NITI Aayog stand for?",
-   "o": [
+   "question": "What does NITI in NITI Aayog stand for?",
+   "options": [
     "National Institution for Transforming India",
     "National Institute for Technical India",
     "National Initiative for Trade in India",
     "National Investment Trust of India"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "NITI stands for National Institution for Transforming India."
+   "answer": 0,
+   "explanation": "NITI stands for National Institution for Transforming India.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "abbreviations-00012",
-   "q": "What does SEBI stand for?",
-   "o": [
+   "question": "What does SEBI stand for?",
+   "options": [
     "Securities and Exchange Board of India",
     "State Exchange Board of India",
     "Securities and Economic Board of India",
     "Stock Exchange Bureau of India"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "SEBI regulates the Indian securities market."
+   "answer": 0,
+   "explanation": "SEBI regulates the Indian securities market.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "abbreviations-00013",
-   "q": "What does NABARD stand for?",
-   "o": [
+   "question": "What does NABARD stand for?",
+   "options": [
     "National Bank for Agriculture and Rural Development",
     "National Bank for Agriculture and Regional Development",
     "National Board for Agriculture and Rural Development",
     "National Bank for African and Rural Development"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "NABARD is the National Bank for Agriculture and Rural Development."
+   "answer": 0,
+   "explanation": "NABARD is the National Bank for Agriculture and Rural Development.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "abbreviations-00014",
-   "q": "What does UPI stand for?",
-   "o": [
+   "question": "What does UPI stand for?",
+   "options": [
     "Unified Payments Interface",
     "United Payments Interface",
     "Universal Payment Interface",
     "Unified Payment Integration"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "UPI is the Unified Payments Interface."
+   "answer": 0,
+   "explanation": "UPI is the Unified Payments Interface.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "abbreviations-00015",
-   "q": "What does NPCI stand for?",
-   "o": [
+   "question": "What does NPCI stand for?",
+   "options": [
     "National Payments Corporation of India",
     "National Payment Council of India",
     "National Payments Commission of India",
     "National Public Credit Institution"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "NPCI runs UPI, IMPS and other retail payment systems."
+   "answer": 0,
+   "explanation": "NPCI runs UPI, IMPS and other retail payment systems.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "abbreviations-00016",
-   "q": "What does ATM stand for?",
-   "o": [
+   "question": "What does ATM stand for?",
+   "options": [
     "Automated Teller Machine",
     "Automatic Transfer Machine",
     "Automated Transaction Machine",
     "Automatic Teller Mechanism"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "ATM means Automated Teller Machine."
+   "answer": 0,
+   "explanation": "ATM means Automated Teller Machine.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "abbreviations-00017",
-   "q": "What does IFSC stand for?",
-   "o": [
+   "question": "What does IFSC stand for?",
+   "options": [
     "Indian Financial System Code",
     "International Financial Service Code",
     "Indian Fund Settlement Code",
     "Indian Financial Security Code"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "IFSC is the Indian Financial System Code used for bank transfers."
+   "answer": 0,
+   "explanation": "IFSC is the Indian Financial System Code used for bank transfers.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "abbreviations-00018",
-   "q": "What does PAN stand for?",
-   "o": [
+   "question": "What does PAN stand for?",
+   "options": [
     "Permanent Account Number",
     "Personal Account Number",
     "Permanent Assessment Number",
     "Primary Account Number"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "PAN is the Permanent Account Number issued by the Income Tax Department."
+   "answer": 0,
+   "explanation": "PAN is the Permanent Account Number issued by the Income Tax Department.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "abbreviations-00019",
-   "q": "What does LPG (reforms) stand for in economics?",
-   "o": [
+   "question": "What does LPG (reforms) stand for in economics?",
+   "options": [
     "Liberalisation, Privatisation and Globalisation",
     "Loan, Payment and Growth",
     "Licence, Permit and Grant",
     "Liberal Policy and Growth"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "The 1991 reforms are known as LPG reforms."
+   "answer": 0,
+   "explanation": "The 1991 reforms are known as LPG reforms.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "abbreviations-00020",
-   "q": "What does CRR stand for in banking?",
-   "o": [
+   "question": "What does CRR stand for in banking?",
+   "options": [
     "Cash Reserve Ratio",
     "Credit Reserve Ratio",
     "Current Reserve Ratio",
     "Cash Revenue Ratio"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "CRR is the share of deposits banks must keep with the RBI."
+   "answer": 0,
+   "explanation": "CRR is the share of deposits banks must keep with the RBI.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "abbreviations-00021",
-   "q": "What does SLR stand for in banking?",
-   "o": [
+   "question": "What does SLR stand for in banking?",
+   "options": [
     "Statutory Liquidity Ratio",
     "Standard Liquidity Ratio",
     "State Liquidity Ratio",
     "Statutory Loan Ratio"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "SLR is the share of deposits banks must hold in liquid assets."
+   "answer": 0,
+   "explanation": "SLR is the share of deposits banks must hold in liquid assets.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "abbreviations-00022",
-   "q": "What does NPA stand for in banking?",
-   "o": [
+   "question": "What does NPA stand for in banking?",
+   "options": [
     "Non-Performing Asset",
     "New Public Account",
     "National Payment Authority",
     "Net Payable Amount"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "An NPA is a loan on which repayment has stopped."
+   "answer": 0,
+   "explanation": "An NPA is a loan on which repayment has stopped.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "abbreviations-00023",
-   "q": "What does SAARC stand for?",
-   "o": [
+   "question": "What does SAARC stand for?",
+   "options": [
     "South Asian Association for Regional Cooperation",
     "South Asian Alliance for Rural Cooperation",
     "Southern Asian Association for Regional Council",
     "South Asian Agency for Regional Commerce"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "SAARC is the South Asian Association for Regional Cooperation."
+   "answer": 0,
+   "explanation": "SAARC is the South Asian Association for Regional Cooperation.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "abbreviations-00024",
-   "q": "What does BRICS stand for?",
-   "o": [
+   "question": "What does BRICS stand for?",
+   "options": [
     "Brazil, Russia, India, China, South Africa",
     "Brazil, Russia, Indonesia, China, Singapore",
     "Britain, Russia, India, Canada, South Africa",
     "Brazil, Romania, India, China, Spain"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "BRICS groups Brazil, Russia, India, China and South Africa."
+   "answer": 0,
+   "explanation": "BRICS groups Brazil, Russia, India, China and South Africa.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "abbreviations-00025",
-   "q": "What does OPEC stand for?",
-   "o": [
+   "question": "What does OPEC stand for?",
+   "options": [
     "Organization of the Petroleum Exporting Countries",
     "Organization of Petroleum Exporting Companies",
     "Oil Producing and Exporting Council",
     "Organization of Petrochemical Exporting Countries"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "OPEC coordinates petroleum policies of member countries."
+   "answer": 0,
+   "explanation": "OPEC coordinates petroleum policies of member countries.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "abbreviations-00026",
-   "q": "What does NATO stand for?",
-   "o": [
+   "question": "What does NATO stand for?",
+   "options": [
     "North Atlantic Treaty Organization",
     "Northern American Treaty Organization",
     "North Atlantic Trade Organization",
     "National Atlantic Treaty Organization"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "NATO is the North Atlantic Treaty Organization."
+   "answer": 0,
+   "explanation": "NATO is the North Atlantic Treaty Organization.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "abbreviations-00027",
-   "q": "What does ICC stand for in cricket?",
-   "o": [
+   "question": "What does ICC stand for in cricket?",
+   "options": [
     "International Cricket Council",
     "Indian Cricket Council",
     "International Cricket Committee",
     "International Club Cricket"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "The ICC governs international cricket."
+   "answer": 0,
+   "explanation": "The ICC governs international cricket.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "abbreviations-00028",
-   "q": "What does BCCI stand for?",
-   "o": [
+   "question": "What does BCCI stand for?",
+   "options": [
     "Board of Control for Cricket in India",
     "Board of Cricket Clubs in India",
     "Bureau of Control for Cricket in India",
     "Board of Cricket Control of India"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "BCCI is the Board of Control for Cricket in India."
+   "answer": 0,
+   "explanation": "BCCI is the Board of Control for Cricket in India.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "abbreviations-00029",
-   "q": "What is the full form of FAO?",
-   "o": [
+   "question": "What is the full form of FAO?",
+   "options": [
     "World Intellectual Property Organization",
     "Food and Agriculture Organization",
     "Central Board of Direct Taxes",
     "Organisation for Economic Co-operation and Development"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "FAO stands for Food and Agriculture Organization."
+   "answer": 1,
+   "explanation": "FAO stands for Food and Agriculture Organization.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00030",
-   "q": "What is the full form of PMJDY?",
-   "o": [
+   "question": "What is the full form of PMJDY?",
+   "options": [
     "Polar Satellite Launch Vehicle",
     "Pradhan Mantri Gram Sadak Yojana",
     "Pradhan Mantri Jan Dhan Yojana",
     "All India Council for Technical Education"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "PMJDY stands for Pradhan Mantri Jan Dhan Yojana."
+   "answer": 2,
+   "explanation": "PMJDY stands for Pradhan Mantri Jan Dhan Yojana.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00031",
-   "q": "What is the full form of FIFA?",
-   "o": [
+   "question": "What is the full form of FIFA?",
+   "options": [
     "Indian Premier League",
     "Central Statistics Office",
     "Federation Internationale de Football Association",
     "World Wide Fund for Nature"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "FIFA stands for Federation Internationale de Football Association."
+   "answer": 2,
+   "explanation": "FIFA stands for Federation Internationale de Football Association.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00032",
-   "q": "What is the full form of UPSC?",
-   "o": [
+   "question": "What is the full form of UPSC?",
+   "options": [
     "United Nations Educational, Scientific and Cultural Organization",
     "Digital Infrastructure for Knowledge Sharing",
     "Union Public Service Commission",
     "National Testing Agency"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "UPSC stands for Union Public Service Commission."
+   "answer": 2,
+   "explanation": "UPSC stands for Union Public Service Commission.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00033",
-   "q": "What is the full form of G20?",
-   "o": [
+   "question": "What is the full form of G20?",
+   "options": [
     "International Telecommunication Union",
     "Group of Twenty major economies",
     "Indian Standards Institution",
     "Indian Financial System Code"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "G20 stands for Group of Twenty major economies."
+   "answer": 1,
+   "explanation": "G20 stands for Group of Twenty major economies.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00034",
-   "q": "What is the full form of PMJAY?",
-   "o": [
+   "question": "What is the full form of PMJAY?",
+   "options": [
     "Border Security Force",
     "Pradhan Mantri Jan Arogya Yojana",
     "Subscriber Identity Module",
     "Indian Institute of Management"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "PMJAY stands for Pradhan Mantri Jan Arogya Yojana."
+   "answer": 1,
+   "explanation": "PMJAY stands for Pradhan Mantri Jan Arogya Yojana.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00035",
-   "q": "What is the full form of IPL?",
-   "o": [
+   "question": "What is the full form of IPL?",
+   "options": [
     "Alternating Current",
     "Global Positioning System",
     "Indian Premier League",
     "United Nations Development Programme"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "IPL stands for Indian Premier League."
+   "answer": 2,
+   "explanation": "IPL stands for Indian Premier League.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00036",
-   "q": "What is the full form of NIA?",
-   "o": [
+   "question": "What is the full form of NIA?",
+   "options": [
     "Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest",
     "National Investigation Agency",
     "Food Safety and Standards Authority of India",
     "Global Positioning System"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "NIA stands for National Investigation Agency."
+   "answer": 1,
+   "explanation": "NIA stands for National Investigation Agency.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00037",
-   "q": "What is the full form of ICMR?",
-   "o": [
+   "question": "What is the full form of ICMR?",
+   "options": [
     "New Development Bank",
     "National Company Law Tribunal",
     "Indian Council of Medical Research",
     "Indian Standards Institution"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "ICMR stands for Indian Council of Medical Research."
+   "answer": 2,
+   "explanation": "ICMR stands for Indian Council of Medical Research.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00038",
-   "q": "What is the full form of KYC?",
-   "o": [
+   "question": "What is the full form of KYC?",
+   "options": [
     "World Health Organization",
     "Know Your Customer",
     "Electrocardiogram",
     "Mahatma Gandhi National Rural Employment Guarantee Scheme"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "KYC stands for Know Your Customer."
+   "answer": 1,
+   "explanation": "KYC stands for Know Your Customer.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00039",
-   "q": "What is the full form of SAARC?",
-   "o": [
+   "question": "What is the full form of SAARC?",
+   "options": [
     "Insurance Regulatory and Development Authority of India",
     "Right to Education",
     "Research and Analysis Wing",
     "South Asian Association for Regional Cooperation"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "SAARC stands for South Asian Association for Regional Cooperation."
+   "answer": 3,
+   "explanation": "SAARC stands for South Asian Association for Regional Cooperation.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00040",
-   "q": "What is the full form of CERN?",
-   "o": [
+   "question": "What is the full form of CERN?",
+   "options": [
     "Bombay Stock Exchange",
     "International Union for Conservation of Nature",
     "Magnetic Resonance Imaging",
     "European Organization for Nuclear Research"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "CERN stands for European Organization for Nuclear Research."
+   "answer": 3,
+   "explanation": "CERN stands for European Organization for Nuclear Research.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00041",
-   "q": "What is the full form of BCCI?",
-   "o": [
+   "question": "What is the full form of BCCI?",
+   "options": [
     "Board of Control for Cricket in India",
     "Food Safety and Standards Authority of India",
     "Index of Industrial Production",
     "World Intellectual Property Organization"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "BCCI stands for Board of Control for Cricket in India."
+   "answer": 0,
+   "explanation": "BCCI stands for Board of Control for Cricket in India.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00042",
-   "q": "What is the full form of UNESCO?",
-   "o": [
+   "question": "What is the full form of UNESCO?",
+   "options": [
     "Insurance Regulatory and Development Authority of India",
     "European Space Agency",
     "United Nations Educational, Scientific and Cultural Organization",
     "Sashastra Seema Bal"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "UNESCO stands for United Nations Educational, Scientific and Cultural Organization."
+   "answer": 2,
+   "explanation": "UNESCO stands for United Nations Educational, Scientific and Cultural Organization.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00043",
-   "q": "What is the full form of MSP?",
-   "o": [
+   "question": "What is the full form of MSP?",
+   "options": [
     "Indian Financial System Code",
     "Unmanned Aerial Vehicle",
     "Bureau of Indian Standards",
     "Minimum Support Price"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "MSP stands for Minimum Support Price."
+   "answer": 3,
+   "explanation": "MSP stands for Minimum Support Price.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00044",
-   "q": "What is the full form of ICAO?",
-   "o": [
+   "question": "What is the full form of ICAO?",
+   "options": [
     "International Civil Aviation Organization",
     "National Company Law Tribunal",
     "United Nations High Commissioner for Refugees",
     "Central Board of Secondary Education"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "ICAO stands for International Civil Aviation Organization."
+   "answer": 0,
+   "explanation": "ICAO stands for International Civil Aviation Organization.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00045",
-   "q": "What is the full form of WWF?",
-   "o": [
+   "question": "What is the full form of WWF?",
+   "options": [
     "Ribonucleic Acid",
     "Micro, Small and Medium Enterprises",
     "Pradhan Mantri Kisan Samman Nidhi",
     "World Wide Fund for Nature"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "WWF stands for World Wide Fund for Nature."
+   "answer": 3,
+   "explanation": "WWF stands for World Wide Fund for Nature.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00046",
-   "q": "What is the full form of GSLV?",
-   "o": [
+   "question": "What is the full form of GSLV?",
+   "options": [
     "Non Performing Asset",
     "Geosynchronous Satellite Launch Vehicle",
     "Goods and Services Tax",
     "International Union for Conservation of Nature"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "GSLV stands for Geosynchronous Satellite Launch Vehicle."
+   "answer": 1,
+   "explanation": "GSLV stands for Geosynchronous Satellite Launch Vehicle.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00047",
-   "q": "What is the full form of IUCN?",
-   "o": [
+   "question": "What is the full form of IUCN?",
+   "options": [
     "World Anti-Doping Agency",
     "International Union for Conservation of Nature",
     "Permanent Account Number",
     "Minimum Support Price"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "IUCN stands for International Union for Conservation of Nature."
+   "answer": 1,
+   "explanation": "IUCN stands for International Union for Conservation of Nature.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00048",
-   "q": "What is the full form of PIN?",
-   "o": [
+   "question": "What is the full form of PIN?",
+   "options": [
     "Permanent Account Number",
     "Personal Identification Number",
     "United Nations Development Programme",
     "Indian Space Research Organisation"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "PIN stands for Personal Identification Number."
+   "answer": 1,
+   "explanation": "PIN stands for Personal Identification Number.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00049",
-   "q": "What is the full form of SBI?",
-   "o": [
+   "question": "What is the full form of SBI?",
+   "options": [
     "Central Statistics Office",
     "International Telecommunication Union",
     "State Bank of India",
     "Navigation with Indian Constellation"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "SBI stands for State Bank of India."
+   "answer": 2,
+   "explanation": "SBI stands for State Bank of India.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00050",
-   "q": "What is the full form of ADB?",
-   "o": [
+   "question": "What is the full form of ADB?",
+   "options": [
     "Deoxyribonucleic Acid",
     "Asian Development Bank",
     "Association of Mutual Funds in India",
     "Indian Space Research Organisation"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "ADB stands for Asian Development Bank."
+   "answer": 1,
+   "explanation": "ADB stands for Asian Development Bank.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00051",
-   "q": "What is the full form of PMUY?",
-   "o": [
+   "question": "What is the full form of PMUY?",
+   "options": [
     "Association of South East Asian Nations",
     "Pradhan Mantri Ujjwala Yojana",
     "Board of Control for Cricket in India",
     "World Intellectual Property Organization"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "PMUY stands for Pradhan Mantri Ujjwala Yojana."
+   "answer": 1,
+   "explanation": "PMUY stands for Pradhan Mantri Ujjwala Yojana.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00052",
-   "q": "What is the full form of NITI?",
-   "o": [
+   "question": "What is the full form of NITI?",
+   "options": [
     "Atal Pension Yojana",
     "National Institution for Transforming India",
     "National Aeronautics and Space Administration",
     "Computed Tomography"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "NITI stands for National Institution for Transforming India."
+   "answer": 1,
+   "explanation": "NITI stands for National Institution for Transforming India.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00053",
-   "q": "What is the full form of ITU?",
-   "o": [
+   "question": "What is the full form of ITU?",
+   "options": [
     "Krishi Vigyan Kendra",
     "International Maritime Organization",
     "International Telecommunication Union",
     "Indian Institute of Technology"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "ITU stands for International Telecommunication Union."
+   "answer": 2,
+   "explanation": "ITU stands for International Telecommunication Union.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00054",
-   "q": "What is the full form of UGC?",
-   "o": [
+   "question": "What is the full form of UGC?",
+   "options": [
     "University Grants Commission",
     "Organisation for Economic Co-operation and Development",
     "Net National Product",
     "Brazil, Russia, India, China and South Africa"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "UGC stands for University Grants Commission."
+   "answer": 0,
+   "explanation": "UGC stands for University Grants Commission.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00055",
-   "q": "What is the full form of AICTE?",
-   "o": [
+   "question": "What is the full form of AICTE?",
+   "options": [
     "All India Council for Technical Education",
     "Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest",
     "International Labour Organization",
     "Pradhan Mantri Jan Arogya Yojana"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "AICTE stands for All India Council for Technical Education."
+   "answer": 0,
+   "explanation": "AICTE stands for All India Council for Technical Education.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00056",
-   "q": "What is the full form of BSE?",
-   "o": [
+   "question": "What is the full form of BSE?",
+   "options": [
     "Indian Council of Agricultural Research",
     "Punjab National Bank",
     "Bombay Stock Exchange",
     "Bhabha Atomic Research Centre"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "BSE stands for Bombay Stock Exchange."
+   "answer": 2,
+   "explanation": "BSE stands for Bombay Stock Exchange.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00057",
-   "q": "What is the full form of NPS?",
-   "o": [
+   "question": "What is the full form of NPS?",
+   "options": [
     "Small Industries Development Bank of India",
     "International Organization for Standardization",
     "National Pension System",
     "Light Emitting Diode"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "NPS stands for National Pension System."
+   "answer": 2,
+   "explanation": "NPS stands for National Pension System.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00058",
-   "q": "What is the full form of NIT?",
-   "o": [
+   "question": "What is the full form of NIT?",
+   "options": [
     "Light Emitting Diode",
     "National Institute of Technology",
     "Liquid Crystal Display",
     "Wholesale Price Index"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "NIT stands for National Institute of Technology."
+   "answer": 1,
+   "explanation": "NIT stands for National Institute of Technology.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00059",
-   "q": "What is the full form of RNA?",
-   "o": [
+   "question": "What is the full form of RNA?",
+   "options": [
     "Tuberculosis",
     "Railway Recruitment Board",
     "University Grants Commission",
     "Ribonucleic Acid"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "RNA stands for Ribonucleic Acid."
+   "answer": 3,
+   "explanation": "RNA stands for Ribonucleic Acid.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00060",
-   "q": "What is the full form of NDB?",
-   "o": [
+   "question": "What is the full form of NDB?",
+   "options": [
     "Punjab National Bank",
     "New Development Bank",
     "Permanent Account Number",
     "Commission for Agricultural Costs and Prices"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "NDB stands for New Development Bank."
+   "answer": 1,
+   "explanation": "NDB stands for New Development Bank.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00061",
-   "q": "What is the full form of CBI?",
-   "o": [
+   "question": "What is the full form of CBI?",
+   "options": [
     "United Nations Educational, Scientific and Cultural Organization",
     "Geosynchronous Satellite Launch Vehicle",
     "Central Bureau of Investigation",
     "World Trade Organization"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "CBI stands for Central Bureau of Investigation."
+   "answer": 2,
+   "explanation": "CBI stands for Central Bureau of Investigation.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00062",
-   "q": "What is the full form of NSS?",
-   "o": [
+   "question": "What is the full form of NSS?",
+   "options": [
     "Reserve Bank of India",
     "National Service Scheme",
     "International Monetary Fund",
     "International Space Station"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "NSS stands for National Service Scheme."
+   "answer": 1,
+   "explanation": "NSS stands for National Service Scheme.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00063",
-   "q": "What is the full form of ICJ?",
-   "o": [
+   "question": "What is the full form of ICJ?",
+   "options": [
     "Low Earth Orbit",
     "Medecins Sans Frontieres",
     "Central Teacher Eligibility Test",
     "International Court of Justice"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "ICJ stands for International Court of Justice."
+   "answer": 3,
+   "explanation": "ICJ stands for International Court of Justice.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00064",
-   "q": "What is the full form of CSIR?",
-   "o": [
+   "question": "What is the full form of CSIR?",
+   "options": [
     "Liquid Crystal Display",
     "Council of Scientific and Industrial Research",
     "Gross Domestic Product",
     "Securities and Exchange Board of India"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "CSIR stands for Council of Scientific and Industrial Research."
+   "answer": 1,
+   "explanation": "CSIR stands for Council of Scientific and Industrial Research.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00065",
-   "q": "What is the full form of ICAR?",
-   "o": [
+   "question": "What is the full form of ICAR?",
+   "options": [
     "Gross Domestic Product",
     "Indian Council of Agricultural Research",
     "Global Positioning System",
     "International Labour Organization"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "ICAR stands for Indian Council of Agricultural Research."
+   "answer": 1,
+   "explanation": "ICAR stands for Indian Council of Agricultural Research.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00066",
-   "q": "What is the full form of RTGS?",
-   "o": [
+   "question": "What is the full form of RTGS?",
+   "options": [
     "Jan Dhan, Aadhaar and Mobile",
     "Magnetic Resonance Imaging",
     "Atal Pension Yojana",
     "Real Time Gross Settlement"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "RTGS stands for Real Time Gross Settlement."
+   "answer": 3,
+   "explanation": "RTGS stands for Real Time Gross Settlement.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00067",
-   "q": "What is the full form of NPA?",
-   "o": [
+   "question": "What is the full form of NPA?",
+   "options": [
     "Fiscal Responsibility and Budget Management",
     "Unique Identification Authority of India",
     "Non Performing Asset",
     "Pradhan Mantri Fasal Bima Yojana"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "NPA stands for Non Performing Asset."
+   "answer": 2,
+   "explanation": "NPA stands for Non Performing Asset.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00068",
-   "q": "What is the full form of IPO?",
-   "o": [
+   "question": "What is the full form of IPO?",
+   "options": [
     "Micro, Small and Medium Enterprises",
     "Initial Public Offering",
     "Central Board of Indirect Taxes and Customs",
     "World Meteorological Organization"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "IPO stands for Initial Public Offering."
+   "answer": 1,
+   "explanation": "IPO stands for Initial Public Offering.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00069",
-   "q": "What is the full form of ASEAN?",
-   "o": [
+   "question": "What is the full form of ASEAN?",
+   "options": [
     "National Defence Academy",
     "Insurance Regulatory and Development Authority of India",
     "Association of South East Asian Nations",
     "International Olympic Committee"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "ASEAN stands for Association of South East Asian Nations."
+   "answer": 2,
+   "explanation": "ASEAN stands for Association of South East Asian Nations.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00070",
-   "q": "What is the full form of ESI?",
-   "o": [
+   "question": "What is the full form of ESI?",
+   "options": [
     "Employees' State Insurance",
     "International Committee of the Red Cross",
     "Closed Circuit Television",
     "Central Reserve Police Force"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "ESI stands for Employees' State Insurance."
+   "answer": 0,
+   "explanation": "ESI stands for Employees' State Insurance.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00071",
-   "q": "What is the full form of ED?",
-   "o": [
+   "question": "What is the full form of ED?",
+   "options": [
     "Special Economic Zone",
     "Enforcement Directorate",
     "National Eligibility Test",
     "National Stock Exchange"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "ED stands for Enforcement Directorate."
+   "answer": 1,
+   "explanation": "ED stands for Enforcement Directorate.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00072",
-   "q": "What is the full form of WTO?",
-   "o": [
+   "question": "What is the full form of WTO?",
+   "options": [
     "Association of South East Asian Nations",
     "Indian Institute of Management",
     "World Trade Organization",
     "International Telecommunication Union"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "WTO stands for World Trade Organization."
+   "answer": 2,
+   "explanation": "WTO stands for World Trade Organization.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00073",
-   "q": "What is the full form of SARFAESI?",
-   "o": [
+   "question": "What is the full form of SARFAESI?",
+   "options": [
     "National Education Policy",
     "Border Security Force",
     "Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest",
     "Asian Development Bank"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "SARFAESI stands for Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest."
+   "answer": 2,
+   "explanation": "SARFAESI stands for Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00074",
-   "q": "What is the full form of SSC?",
-   "o": [
+   "question": "What is the full form of SSC?",
+   "options": [
     "Staff Selection Commission",
     "Union Public Service Commission",
     "World Wide Fund for Nature",
     "Electrocardiogram"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "SSC stands for Staff Selection Commission."
+   "answer": 0,
+   "explanation": "SSC stands for Staff Selection Commission.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00075",
-   "q": "What is the full form of NPCI?",
-   "o": [
+   "question": "What is the full form of NPCI?",
+   "options": [
     "National Payments Corporation of India",
     "Out Patient Department",
     "Indo-Tibetan Border Police",
     "Athletics track and field club naming"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "NPCI stands for National Payments Corporation of India."
+   "answer": 0,
+   "explanation": "NPCI stands for National Payments Corporation of India.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00076",
-   "q": "What is the full form of WHO?",
-   "o": [
+   "question": "What is the full form of WHO?",
+   "options": [
     "World Health Organization",
     "Human Immunodeficiency Virus",
     "Common Law Admission Test",
     "National Pension System"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "WHO stands for World Health Organization."
+   "answer": 0,
+   "explanation": "WHO stands for World Health Organization.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00077",
-   "q": "What is the full form of PMFBY?",
-   "o": [
+   "question": "What is the full form of PMFBY?",
+   "options": [
     "National Payments Corporation of India",
     "Gross Domestic Product",
     "Pradhan Mantri Fasal Bima Yojana",
     "Computed Tomography"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "PMFBY stands for Pradhan Mantri Fasal Bima Yojana."
+   "answer": 2,
+   "explanation": "PMFBY stands for Pradhan Mantri Fasal Bima Yojana.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00078",
-   "q": "What is the full form of SSB?",
-   "o": [
+   "question": "What is the full form of SSB?",
+   "options": [
     "Sashastra Seema Bal",
     "Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest",
     "Know Your Customer",
     "Adenosine Triphosphate"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "SSB stands for Sashastra Seema Bal."
+   "answer": 0,
+   "explanation": "SSB stands for Sashastra Seema Bal.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00079",
-   "q": "What is the full form of GPS?",
-   "o": [
+   "question": "What is the full form of GPS?",
+   "options": [
     "Central Industrial Security Force",
     "National Institution for Transforming India",
     "Small Industries Development Bank of India",
     "Global Positioning System"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "GPS stands for Global Positioning System."
+   "answer": 3,
+   "explanation": "GPS stands for Global Positioning System.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00080",
-   "q": "What is the full form of CTET?",
-   "o": [
+   "question": "What is the full form of CTET?",
+   "options": [
     "Central Teacher Eligibility Test",
     "International Maritime Organization",
     "Acquired Immune Deficiency Syndrome",
     "Joint Entrance Examination"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "CTET stands for Central Teacher Eligibility Test."
+   "answer": 0,
+   "explanation": "CTET stands for Central Teacher Eligibility Test.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00081",
-   "q": "What is the full form of CRPF?",
-   "o": [
+   "question": "What is the full form of CRPF?",
+   "options": [
     "National Testing Agency",
     "United Nations Environment Programme",
     "Central Reserve Police Force",
     "Foreign Direct Investment"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "CRPF stands for Central Reserve Police Force."
+   "answer": 2,
+   "explanation": "CRPF stands for Central Reserve Police Force.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00082",
-   "q": "What is the full form of CSR?",
-   "o": [
+   "question": "What is the full form of CSR?",
+   "options": [
     "Systeme International d'Unites",
     "Corporate Social Responsibility",
     "Defence Research and Development Organisation",
     "Non Performing Asset"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "CSR stands for Corporate Social Responsibility."
+   "answer": 1,
+   "explanation": "CSR stands for Corporate Social Responsibility.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00083",
-   "q": "What is the full form of MSME?",
-   "o": [
+   "question": "What is the full form of MSME?",
+   "options": [
     "Food Corporation of India",
     "Food and Agriculture Organization",
     "Micro, Small and Medium Enterprises",
     "Computed Tomography"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "MSME stands for Micro, Small and Medium Enterprises."
+   "answer": 2,
+   "explanation": "MSME stands for Micro, Small and Medium Enterprises.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00084",
-   "q": "What is the full form of IAEA?",
-   "o": [
+   "question": "What is the full form of IAEA?",
+   "options": [
     "Punjab National Bank",
     "International Atomic Energy Agency",
     "Study Webs of Active Learning for Young Aspiring Minds",
     "Airborne Warning and Control System"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "IAEA stands for International Atomic Energy Agency."
+   "answer": 1,
+   "explanation": "IAEA stands for International Atomic Energy Agency.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00085",
-   "q": "What is the full form of UPI?",
-   "o": [
+   "question": "What is the full form of UPI?",
+   "options": [
     "Navigation with Indian Constellation",
     "Foreign Portfolio Investment",
     "Unified Payments Interface",
     "World Health Organization"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "UPI stands for Unified Payments Interface."
+   "answer": 2,
+   "explanation": "UPI stands for Unified Payments Interface.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00086",
-   "q": "What is the full form of IOC?",
-   "o": [
+   "question": "What is the full form of IOC?",
+   "options": [
     "Direct Benefit Transfer",
     "Corporate Social Responsibility",
     "Electromotive Force",
     "International Olympic Committee"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "IOC stands for International Olympic Committee."
+   "answer": 3,
+   "explanation": "IOC stands for International Olympic Committee.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00087",
-   "q": "What is the full form of SCO?",
-   "o": [
+   "question": "What is the full form of SCO?",
+   "options": [
     "Union Public Service Commission",
     "Initial Public Offering",
     "Staff Selection Commission",
     "Shanghai Cooperation Organisation"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "SCO stands for Shanghai Cooperation Organisation."
+   "answer": 3,
+   "explanation": "SCO stands for Shanghai Cooperation Organisation.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00088",
-   "q": "What is the full form of LEO?",
-   "o": [
+   "question": "What is the full form of LEO?",
+   "options": [
     "Low Earth Orbit",
     "State Bank of India",
     "Food Corporation of India",
     "Bureau of Indian Standards"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "LEO stands for Low Earth Orbit."
+   "answer": 0,
+   "explanation": "LEO stands for Low Earth Orbit.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00089",
-   "q": "What is the full form of IIP?",
-   "o": [
+   "question": "What is the full form of IIP?",
+   "options": [
     "Index of Industrial Production",
     "Employees' State Insurance",
     "Atal Pension Yojana",
     "National Institute of Technology"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "IIP stands for Index of Industrial Production."
+   "answer": 0,
+   "explanation": "IIP stands for Index of Industrial Production.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00090",
-   "q": "What is the full form of NAV?",
-   "o": [
+   "question": "What is the full form of NAV?",
+   "options": [
     "Net Asset Value",
     "National Investigation Agency",
     "Staff Selection Commission",
     "Electromotive Force"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "NAV stands for Net Asset Value."
+   "answer": 0,
+   "explanation": "NAV stands for Net Asset Value.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00091",
-   "q": "What is the full form of DRDO?",
-   "o": [
+   "question": "What is the full form of DRDO?",
+   "options": [
     "Central Reserve Police Force",
     "International Securities Identification Number",
     "Indian Institute of Technology",
     "Defence Research and Development Organisation"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "DRDO stands for Defence Research and Development Organisation."
+   "answer": 3,
+   "explanation": "DRDO stands for Defence Research and Development Organisation.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00092",
-   "q": "What is the full form of UIDAI?",
-   "o": [
+   "question": "What is the full form of UIDAI?",
+   "options": [
     "United Nations Children's Fund",
     "Electromotive Force",
     "Unique Identification Authority of India",
     "Staff Selection Commission"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "UIDAI stands for Unique Identification Authority of India."
+   "answer": 2,
+   "explanation": "UIDAI stands for Unique Identification Authority of India.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00093",
-   "q": "What is the full form of CBIC?",
-   "o": [
+   "question": "What is the full form of CBIC?",
+   "options": [
     "Light Emitting Diode",
     "Oral Rehydration Solution",
     "All India Council for Technical Education",
     "Central Board of Indirect Taxes and Customs"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "CBIC stands for Central Board of Indirect Taxes and Customs."
+   "answer": 3,
+   "explanation": "CBIC stands for Central Board of Indirect Taxes and Customs.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00094",
-   "q": "What is the full form of OPD?",
-   "o": [
+   "question": "What is the full form of OPD?",
+   "options": [
     "World Wide Fund for Nature",
     "Out Patient Department",
     "World Health Organization",
     "Bombay Stock Exchange"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "OPD stands for Out Patient Department."
+   "answer": 1,
+   "explanation": "OPD stands for Out Patient Department.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00095",
-   "q": "What is the full form of RRB?",
-   "o": [
+   "question": "What is the full form of RRB?",
+   "options": [
     "Union Public Service Commission",
     "Competition Commission of India",
     "Regional Rural Bank",
     "Organization of the Petroleum Exporting Countries"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "RRB stands for Regional Rural Bank."
+   "answer": 2,
+   "explanation": "RRB stands for Regional Rural Bank.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00096",
-   "q": "What is the full form of LED?",
-   "o": [
+   "question": "What is the full form of LED?",
+   "options": [
     "Railway Recruitment Board",
     "Universal Postal Union",
     "National Payments Corporation of India",
     "Light Emitting Diode"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "LED stands for Light Emitting Diode."
+   "answer": 3,
+   "explanation": "LED stands for Light Emitting Diode.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00097",
-   "q": "What is the full form of ISIN?",
-   "o": [
+   "question": "What is the full form of ISIN?",
+   "options": [
     "Non Performing Asset",
     "Fiscal Responsibility and Budget Management",
     "Food Corporation of India",
     "International Securities Identification Number"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "ISIN stands for International Securities Identification Number."
+   "answer": 3,
+   "explanation": "ISIN stands for International Securities Identification Number.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00098",
-   "q": "What is the full form of FPI?",
-   "o": [
+   "question": "What is the full form of FPI?",
+   "options": [
     "Foreign Portfolio Investment",
     "Immediate Payment Service",
     "International Union for Conservation of Nature",
     "Mahatma Gandhi National Rural Employment Guarantee Scheme"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "FPI stands for Foreign Portfolio Investment."
+   "answer": 0,
+   "explanation": "FPI stands for Foreign Portfolio Investment.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00099",
-   "q": "What is the full form of NavIC?",
-   "o": [
+   "question": "What is the full form of NavIC?",
+   "options": [
     "Light Emitting Diode",
     "Navigation with Indian Constellation",
     "Indian Premier League",
     "National Company Law Tribunal"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "NavIC stands for Navigation with Indian Constellation."
+   "answer": 1,
+   "explanation": "NavIC stands for Navigation with Indian Constellation.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00100",
-   "q": "What is the full form of MRI?",
-   "o": [
+   "question": "What is the full form of MRI?",
+   "options": [
     "Tuberculosis",
     "Bombay Stock Exchange",
     "New Development Bank",
     "Magnetic Resonance Imaging"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "MRI stands for Magnetic Resonance Imaging."
+   "answer": 3,
+   "explanation": "MRI stands for Magnetic Resonance Imaging.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00101",
-   "q": "What is the full form of SWAYAM?",
-   "o": [
+   "question": "What is the full form of SWAYAM?",
+   "options": [
     "Pradhan Mantri Jan Arogya Yojana",
     "Food Safety and Standards Authority of India",
     "Study Webs of Active Learning for Young Aspiring Minds",
     "Alternating Current"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "SWAYAM stands for Study Webs of Active Learning for Young Aspiring Minds."
+   "answer": 2,
+   "explanation": "SWAYAM stands for Study Webs of Active Learning for Young Aspiring Minds.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00102",
-   "q": "What is the full form of NET?",
-   "o": [
+   "question": "What is the full form of NET?",
+   "options": [
     "National Eligibility Test",
     "Atal Pension Yojana",
     "Study Webs of Active Learning for Young Aspiring Minds",
     "Magnetic Resonance Imaging"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "NET stands for National Eligibility Test."
+   "answer": 0,
+   "explanation": "NET stands for National Eligibility Test.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00103",
-   "q": "What is the full form of PPP?",
-   "o": [
+   "question": "What is the full form of PPP?",
+   "options": [
     "United Nations Children's Fund",
     "Public Private Partnership",
     "Pradhan Mantri Jan Arogya Yojana",
     "International Space Station"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "PPP stands for Public Private Partnership."
+   "answer": 1,
+   "explanation": "PPP stands for Public Private Partnership.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00104",
-   "q": "What is the full form of NEET?",
-   "o": [
+   "question": "What is the full form of NEET?",
+   "options": [
     "Direct Current",
     "National Education Policy",
     "National Eligibility cum Entrance Test",
     "Defence Research and Development Organisation"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "NEET stands for National Eligibility cum Entrance Test."
+   "answer": 2,
+   "explanation": "NEET stands for National Eligibility cum Entrance Test.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00105",
-   "q": "What is the full form of CT?",
-   "o": [
+   "question": "What is the full form of CT?",
+   "options": [
     "Computed Tomography",
     "Intensive Care Unit",
     "Minimum Support Price",
     "Union Public Service Commission"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "CT stands for Computed Tomography."
+   "answer": 0,
+   "explanation": "CT stands for Computed Tomography.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00106",
-   "q": "What is the full form of UNDP?",
-   "o": [
+   "question": "What is the full form of UNDP?",
+   "options": [
     "National Pension System",
     "Wholesale Price Index",
     "United Nations Development Programme",
     "Asian Development Bank"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "UNDP stands for United Nations Development Programme."
+   "answer": 2,
+   "explanation": "UNDP stands for United Nations Development Programme.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00107",
-   "q": "What is the full form of NCLT?",
-   "o": [
+   "question": "What is the full form of NCLT?",
+   "options": [
     "National Company Law Tribunal",
     "Insurance Regulatory and Development Authority of India",
     "Fiscal Responsibility and Budget Management",
     "Pension Fund Regulatory and Development Authority"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "NCLT stands for National Company Law Tribunal."
+   "answer": 0,
+   "explanation": "NCLT stands for National Company Law Tribunal.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00108",
-   "q": "What is the full form of GST?",
-   "o": [
+   "question": "What is the full form of GST?",
+   "options": [
     "Goods and Services Tax",
     "Consumer Price Index",
     "Bureau of Indian Standards",
     "Organisation for Economic Co-operation and Development"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "GST stands for Goods and Services Tax."
+   "answer": 0,
+   "explanation": "GST stands for Goods and Services Tax.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00109",
-   "q": "What is the full form of IMA?",
-   "o": [
+   "question": "What is the full form of IMA?",
+   "options": [
     "Fiscal Responsibility and Budget Management",
     "Indian Military Academy",
     "Consumer Price Index",
     "Indian Standards Institution"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "IMA stands for Indian Military Academy."
+   "answer": 1,
+   "explanation": "IMA stands for Indian Military Academy.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00110",
-   "q": "What is the full form of ISO?",
-   "o": [
+   "question": "What is the full form of ISO?",
+   "options": [
     "North Atlantic Treaty Organization",
     "International Organization for Standardization",
     "Permanent Account Number",
     "National Testing Agency"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "ISO stands for International Organization for Standardization."
+   "answer": 1,
+   "explanation": "ISO stands for International Organization for Standardization.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00111",
-   "q": "What is the full form of ISI?",
-   "o": [
+   "question": "What is the full form of ISI?",
+   "options": [
     "Indian Standards Institution",
     "International Hockey Federation",
     "Out Patient Department",
     "Bureau of Indian Standards"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "ISI stands for Indian Standards Institution."
+   "answer": 0,
+   "explanation": "ISI stands for Indian Standards Institution.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00112",
-   "q": "What is the full form of BrahMos?",
-   "o": [
+   "question": "What is the full form of BrahMos?",
+   "options": [
     "Digital Infrastructure for Knowledge Sharing",
     "Brahmaputra Moscow missile",
     "Sashastra Seema Bal",
     "Oral Rehydration Solution"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "BrahMos stands for Brahmaputra Moscow missile."
+   "answer": 1,
+   "explanation": "BrahMos stands for Brahmaputra Moscow missile.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00113",
-   "q": "What is the full form of FRBM?",
-   "o": [
+   "question": "What is the full form of FRBM?",
+   "options": [
     "Fiscal Responsibility and Budget Management",
     "National Payments Corporation of India",
     "National Human Rights Commission",
     "Joint Entrance Examination"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "FRBM stands for Fiscal Responsibility and Budget Management."
+   "answer": 0,
+   "explanation": "FRBM stands for Fiscal Responsibility and Budget Management.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00114",
-   "q": "What is the full form of NABARD?",
-   "o": [
+   "question": "What is the full form of NABARD?",
+   "options": [
     "International Organization for Standardization",
     "Tuberculosis",
     "National Bank for Agriculture and Rural Development",
     "Central Board of Secondary Education"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "NABARD stands for National Bank for Agriculture and Rural Development."
+   "answer": 2,
+   "explanation": "NABARD stands for National Bank for Agriculture and Rural Development.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00115",
-   "q": "What is the full form of NNP?",
-   "o": [
+   "question": "What is the full form of NNP?",
+   "options": [
     "Food Safety and Standards Authority of India",
     "Automated Teller Machine",
     "Point of Sale",
     "Net National Product"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "NNP stands for Net National Product."
+   "answer": 3,
+   "explanation": "NNP stands for Net National Product.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00116",
-   "q": "What is the full form of PNB?",
-   "o": [
+   "question": "What is the full form of PNB?",
+   "options": [
     "National Electronic Funds Transfer",
     "Public Private Partnership",
     "Punjab National Bank",
     "Wholesale Price Index"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "PNB stands for Punjab National Bank."
+   "answer": 2,
+   "explanation": "PNB stands for Punjab National Bank.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00117",
-   "q": "What is the full form of IBC?",
-   "o": [
+   "question": "What is the full form of IBC?",
+   "options": [
     "World Meteorological Organization",
     "Insolvency and Bankruptcy Code",
     "International Monetary Fund",
     "International Court of Justice"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "IBC stands for Insolvency and Bankruptcy Code."
+   "answer": 1,
+   "explanation": "IBC stands for Insolvency and Bankruptcy Code.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00118",
-   "q": "What is the full form of LVM3?",
-   "o": [
+   "question": "What is the full form of LVM3?",
+   "options": [
     "North Atlantic Treaty Organization",
     "Launch Vehicle Mark 3",
     "United Nations Educational, Scientific and Cultural Organization",
     "National Stock Exchange"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "LVM3 stands for Launch Vehicle Mark 3."
+   "answer": 1,
+   "explanation": "LVM3 stands for Launch Vehicle Mark 3.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00119",
-   "q": "What is the full form of NDA?",
-   "o": [
+   "question": "What is the full form of NDA?",
+   "options": [
     "International Cricket Council",
     "National Defence Academy",
     "Geostationary Earth Orbit",
     "Acquired Immune Deficiency Syndrome"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "NDA stands for National Defence Academy."
+   "answer": 1,
+   "explanation": "NDA stands for National Defence Academy.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00120",
-   "q": "What is the full form of UNEP?",
-   "o": [
+   "question": "What is the full form of UNEP?",
+   "options": [
     "International Organization for Standardization",
     "United Nations Environment Programme",
     "Athletics track and field club naming",
     "Bureau of Indian Standards"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "UNEP stands for United Nations Environment Programme."
+   "answer": 1,
+   "explanation": "UNEP stands for United Nations Environment Programme.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00121",
-   "q": "What is the full form of NSE?",
-   "o": [
+   "question": "What is the full form of NSE?",
+   "options": [
     "International Atomic Energy Agency",
     "Magnetic Resonance Imaging",
     "National Stock Exchange",
     "Punjab National Bank"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "NSE stands for National Stock Exchange."
+   "answer": 2,
+   "explanation": "NSE stands for National Stock Exchange.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00122",
-   "q": "What is the full form of GNP?",
-   "o": [
+   "question": "What is the full form of GNP?",
+   "options": [
     "Gross Domestic Product",
     "Pension Fund Regulatory and Development Authority",
     "National Pension System",
     "Gross National Product"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "GNP stands for Gross National Product."
+   "answer": 3,
+   "explanation": "GNP stands for Gross National Product.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00123",
-   "q": "What is the full form of ISS?",
-   "o": [
+   "question": "What is the full form of ISS?",
+   "options": [
     "Deoxyribonucleic Acid",
     "International Space Station",
     "Launch Vehicle Mark 3",
     "Reserve Bank of India"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "ISS stands for International Space Station."
+   "answer": 1,
+   "explanation": "ISS stands for International Space Station.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00124",
-   "q": "What is the full form of NHRC?",
-   "o": [
+   "question": "What is the full form of NHRC?",
+   "options": [
     "National Institute of Technology",
     "National Human Rights Commission",
     "National Institution for Transforming India",
     "Computed Tomography"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "NHRC stands for National Human Rights Commission."
+   "answer": 1,
+   "explanation": "NHRC stands for National Human Rights Commission.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00125",
-   "q": "What is the full form of CSO?",
-   "o": [
+   "question": "What is the full form of CSO?",
+   "options": [
     "United Nations Environment Programme",
     "Employees' State Insurance",
     "Central Statistics Office",
     "Public Private Partnership"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "CSO stands for Central Statistics Office."
+   "answer": 2,
+   "explanation": "CSO stands for Central Statistics Office.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00126",
-   "q": "What is the full form of FIH?",
-   "o": [
+   "question": "What is the full form of FIH?",
+   "options": [
     "Low Earth Orbit",
     "Council of Scientific and Industrial Research",
     "United Nations Development Programme",
     "International Hockey Federation"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "FIH stands for International Hockey Federation."
+   "answer": 3,
+   "explanation": "FIH stands for International Hockey Federation.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00127",
-   "q": "What is the full form of APY?",
-   "o": [
+   "question": "What is the full form of APY?",
+   "options": [
     "Atal Pension Yojana",
     "Systeme International d'Unites",
     "Employee Stock Option Plan",
     "Indian Institute of Technology"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "APY stands for Atal Pension Yojana."
+   "answer": 0,
+   "explanation": "APY stands for Atal Pension Yojana.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00128",
-   "q": "What is the full form of EPF?",
-   "o": [
+   "question": "What is the full form of EPF?",
+   "options": [
     "World Intellectual Property Organization",
     "Employees' Provident Fund",
     "Consumer Price Index",
     "Non Performing Asset"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "EPF stands for Employees' Provident Fund."
+   "answer": 1,
+   "explanation": "EPF stands for Employees' Provident Fund.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00129",
-   "q": "What is the full form of ICRC?",
-   "o": [
+   "question": "What is the full form of ICRC?",
+   "options": [
     "International Atomic Energy Agency",
     "Systeme International d'Unites",
     "International Telecommunication Union",
     "International Committee of the Red Cross"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "ICRC stands for International Committee of the Red Cross."
+   "answer": 3,
+   "explanation": "ICRC stands for International Committee of the Red Cross.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00130",
-   "q": "What is the full form of BIS?",
-   "o": [
+   "question": "What is the full form of BIS?",
+   "options": [
     "Bureau of Indian Standards",
     "Intensive Care Unit",
     "World Health Organization",
     "Magnetic Resonance Imaging"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "BIS stands for Bureau of Indian Standards."
+   "answer": 0,
+   "explanation": "BIS stands for Bureau of Indian Standards.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00131",
-   "q": "What is the full form of NCERT?",
-   "o": [
+   "question": "What is the full form of NCERT?",
+   "options": [
     "World Intellectual Property Organization",
     "International Securities Identification Number",
     "Indian Standards Institution",
     "National Council of Educational Research and Training"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "NCERT stands for National Council of Educational Research and Training."
+   "answer": 3,
+   "explanation": "NCERT stands for National Council of Educational Research and Training.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00132",
-   "q": "What is the full form of CCI?",
-   "o": [
+   "question": "What is the full form of CCI?",
+   "options": [
     "Deoxyribonucleic Acid",
     "Central Reserve Police Force",
     "Competition Commission of India",
     "National Defence Academy"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "CCI stands for Competition Commission of India."
+   "answer": 2,
+   "explanation": "CCI stands for Competition Commission of India.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00133",
-   "q": "What is the full form of AMFI?",
-   "o": [
+   "question": "What is the full form of AMFI?",
+   "options": [
     "Deoxyribonucleic Acid",
     "Mahatma Gandhi National Rural Employment Guarantee Scheme",
     "Association of Mutual Funds in India",
     "Gross National Product"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "AMFI stands for Association of Mutual Funds in India."
+   "answer": 2,
+   "explanation": "AMFI stands for Association of Mutual Funds in India.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00134",
-   "q": "What is the full form of ESOP?",
-   "o": [
+   "question": "What is the full form of ESOP?",
+   "options": [
     "Pradhan Mantri Jan Arogya Yojana",
     "Digital Infrastructure for Knowledge Sharing",
     "Study Webs of Active Learning for Young Aspiring Minds",
     "Employee Stock Option Plan"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "ESOP stands for Employee Stock Option Plan."
+   "answer": 3,
+   "explanation": "ESOP stands for Employee Stock Option Plan.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00135",
-   "q": "What is the full form of WPI?",
-   "o": [
+   "question": "What is the full form of WPI?",
+   "options": [
     "Initial Public Offering",
     "Wholesale Price Index",
     "National Institute of Technology",
     "Common Law Admission Test"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "WPI stands for Wholesale Price Index."
+   "answer": 1,
+   "explanation": "WPI stands for Wholesale Price Index.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00136",
-   "q": "What is the full form of ICC cricket?",
-   "o": [
+   "question": "What is the full form of ICC cricket?",
+   "options": [
     "World Wide Fund for Nature",
     "International Cricket Council",
     "Asian Infrastructure Investment Bank",
     "Electrocardiogram"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "ICC cricket stands for International Cricket Council."
+   "answer": 1,
+   "explanation": "ICC cricket stands for International Cricket Council.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00137",
-   "q": "What is the full form of ILO?",
-   "o": [
+   "question": "What is the full form of ILO?",
+   "options": [
     "Comptroller and Auditor General",
     "Employee Stock Option Plan",
     "International Labour Organization",
     "International Olympic Committee"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "ILO stands for International Labour Organization."
+   "answer": 2,
+   "explanation": "ILO stands for International Labour Organization.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00138",
-   "q": "What is the full form of IIT?",
-   "o": [
+   "question": "What is the full form of IIT?",
+   "options": [
     "Indian Institute of Technology",
     "Asian Development Bank",
     "International Space Station",
     "Fiscal Responsibility and Budget Management"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "IIT stands for Indian Institute of Technology."
+   "answer": 0,
+   "explanation": "IIT stands for Indian Institute of Technology.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00139",
-   "q": "What is the full form of LCD?",
-   "o": [
+   "question": "What is the full form of LCD?",
+   "options": [
     "Liquid Crystal Display",
     "Unified Payments Interface",
     "Oral Rehydration Solution",
     "Research and Analysis Wing"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "LCD stands for Liquid Crystal Display."
+   "answer": 0,
+   "explanation": "LCD stands for Liquid Crystal Display.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00140",
-   "q": "What is the full form of MSF?",
-   "o": [
+   "question": "What is the full form of MSF?",
+   "options": [
     "Medecins Sans Frontieres",
     "United Nations Children's Fund",
     "Employees' State Insurance",
     "Central Industrial Security Force"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "MSF stands for Medecins Sans Frontieres."
+   "answer": 0,
+   "explanation": "MSF stands for Medecins Sans Frontieres.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00141",
-   "q": "What is the full form of KVK?",
-   "o": [
+   "question": "What is the full form of KVK?",
+   "options": [
     "Comptroller and Auditor General",
     "Central Teacher Eligibility Test",
     "Krishi Vigyan Kendra",
     "Intensive Care Unit"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "KVK stands for Krishi Vigyan Kendra."
+   "answer": 2,
+   "explanation": "KVK stands for Krishi Vigyan Kendra.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00142",
-   "q": "What is the full form of ISRO?",
-   "o": [
+   "question": "What is the full form of ISRO?",
+   "options": [
     "Indian Space Research Organisation",
     "State Bank of India",
     "Tax Deducted at Source",
     "Unified Payments Interface"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "ISRO stands for Indian Space Research Organisation."
+   "answer": 0,
+   "explanation": "ISRO stands for Indian Space Research Organisation.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00143",
-   "q": "What is the full form of NEP?",
-   "o": [
+   "question": "What is the full form of NEP?",
+   "options": [
     "National Education Policy",
     "Non Performing Asset",
     "National Company Law Tribunal",
     "United Nations Environment Programme"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "NEP stands for National Education Policy."
+   "answer": 0,
+   "explanation": "NEP stands for National Education Policy.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00144",
-   "q": "What is the full form of CPI?",
-   "o": [
+   "question": "What is the full form of CPI?",
+   "options": [
     "Consumer Price Index",
     "National Aeronautics and Space Administration",
     "Intensive Care Unit",
     "Staff Selection Commission"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "CPI stands for Consumer Price Index."
+   "answer": 0,
+   "explanation": "CPI stands for Consumer Price Index.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00145",
-   "q": "What is the full form of CVC?",
-   "o": [
+   "question": "What is the full form of CVC?",
+   "options": [
     "International Hockey Federation",
     "State Bank of India",
     "National Institute of Technology",
     "Central Vigilance Commission"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "CVC stands for Central Vigilance Commission."
+   "answer": 3,
+   "explanation": "CVC stands for Central Vigilance Commission.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00146",
-   "q": "What is the full form of PAN?",
-   "o": [
+   "question": "What is the full form of PAN?",
+   "options": [
     "Foreign Portfolio Investment",
     "National Company Law Tribunal",
     "European Space Agency",
     "Permanent Account Number"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "PAN stands for Permanent Account Number."
+   "answer": 3,
+   "explanation": "PAN stands for Permanent Account Number.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00147",
-   "q": "What is the full form of DBT?",
-   "o": [
+   "question": "What is the full form of DBT?",
+   "options": [
     "Direct Benefit Transfer",
     "National Council of Educational Research and Training",
     "Ribonucleic Acid",
     "Direct Current"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "DBT stands for Direct Benefit Transfer."
+   "answer": 0,
+   "explanation": "DBT stands for Direct Benefit Transfer.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00148",
-   "q": "What is the full form of SEBI?",
-   "o": [
+   "question": "What is the full form of SEBI?",
+   "options": [
     "National Council of Educational Research and Training",
     "Securities and Exchange Board of India",
     "National Investigation Agency",
     "Central Teacher Eligibility Test"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "SEBI stands for Securities and Exchange Board of India."
+   "answer": 1,
+   "explanation": "SEBI stands for Securities and Exchange Board of India.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00149",
-   "q": "What is the full form of ECG?",
-   "o": [
+   "question": "What is the full form of ECG?",
+   "options": [
     "Electrocardiogram",
     "National Defence Academy",
     "Personal Identification Number",
     "Point of Sale"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "ECG stands for Electrocardiogram."
+   "answer": 0,
+   "explanation": "ECG stands for Electrocardiogram.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00150",
-   "q": "What is the full form of NATO?",
-   "o": [
+   "question": "What is the full form of NATO?",
+   "options": [
     "North Atlantic Treaty Organization",
     "International Monetary Fund",
     "Low Earth Orbit",
     "Net Asset Value"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "NATO stands for North Atlantic Treaty Organization."
+   "answer": 0,
+   "explanation": "NATO stands for North Atlantic Treaty Organization.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00151",
-   "q": "What is the full form of UNICEF?",
-   "o": [
+   "question": "What is the full form of UNICEF?",
+   "options": [
     "United Nations Children's Fund",
     "Permanent Account Number",
     "International Civil Aviation Organization",
     "Federation Internationale de Football Association"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "UNICEF stands for United Nations Children's Fund."
+   "answer": 0,
+   "explanation": "UNICEF stands for United Nations Children's Fund.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00152",
-   "q": "What is the full form of ATM?",
-   "o": [
+   "question": "What is the full form of ATM?",
+   "options": [
     "Automated Teller Machine",
     "Central Board of Secondary Education",
     "State Bank of India",
     "Computed Tomography"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "ATM stands for Automated Teller Machine."
+   "answer": 0,
+   "explanation": "ATM stands for Automated Teller Machine.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00153",
-   "q": "What is the full form of CACP?",
-   "o": [
+   "question": "What is the full form of CACP?",
+   "options": [
     "Deoxyribonucleic Acid",
     "Commission for Agricultural Costs and Prices",
     "Pension Fund Regulatory and Development Authority",
     "International Telecommunication Union"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "CACP stands for Commission for Agricultural Costs and Prices."
+   "answer": 1,
+   "explanation": "CACP stands for Commission for Agricultural Costs and Prices.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00154",
-   "q": "What is the full form of JEE?",
-   "o": [
+   "question": "What is the full form of JEE?",
+   "options": [
     "Mahatma Gandhi National Rural Employment Guarantee Scheme",
     "Automated Teller Machine",
     "Joint Entrance Examination",
     "Electrocardiogram"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "JEE stands for Joint Entrance Examination."
+   "answer": 2,
+   "explanation": "JEE stands for Joint Entrance Examination.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00155",
-   "q": "What is the full form of PM-KISAN?",
-   "o": [
+   "question": "What is the full form of PM-KISAN?",
+   "options": [
     "Subscriber Identity Module",
     "Pradhan Mantri Kisan Samman Nidhi",
     "National Security Guard",
     "Magnetic Resonance Imaging"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "PM-KISAN stands for Pradhan Mantri Kisan Samman Nidhi."
+   "answer": 1,
+   "explanation": "PM-KISAN stands for Pradhan Mantri Kisan Samman Nidhi.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00156",
-   "q": "What is the full form of PFRDA?",
-   "o": [
+   "question": "What is the full form of PFRDA?",
+   "options": [
     "International Monetary Fund",
     "Intelligence Bureau",
     "International Union for Conservation of Nature",
     "Pension Fund Regulatory and Development Authority"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "PFRDA stands for Pension Fund Regulatory and Development Authority."
+   "answer": 3,
+   "explanation": "PFRDA stands for Pension Fund Regulatory and Development Authority.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00157",
-   "q": "What is the full form of DIKSHA?",
-   "o": [
+   "question": "What is the full form of DIKSHA?",
+   "options": [
     "Digital Infrastructure for Knowledge Sharing",
     "Asian Infrastructure Investment Bank",
     "Pradhan Mantri Gram Sadak Yojana",
     "Union Public Service Commission"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "DIKSHA stands for Digital Infrastructure for Knowledge Sharing."
+   "answer": 0,
+   "explanation": "DIKSHA stands for Digital Infrastructure for Knowledge Sharing.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00158",
-   "q": "What is the full form of CBSE?",
-   "o": [
+   "question": "What is the full form of CBSE?",
+   "options": [
     "Research and Analysis Wing",
     "Central Board of Secondary Education",
     "Deoxyribonucleic Acid",
     "Association of South East Asian Nations"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "CBSE stands for Central Board of Secondary Education."
+   "answer": 1,
+   "explanation": "CBSE stands for Central Board of Secondary Education.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00159",
-   "q": "What is the full form of PDS?",
-   "o": [
+   "question": "What is the full form of PDS?",
+   "options": [
     "National Defence Academy",
     "European Organization for Nuclear Research",
     "Public Distribution System",
     "Central Board of Direct Taxes"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "PDS stands for Public Distribution System."
+   "answer": 2,
+   "explanation": "PDS stands for Public Distribution System.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00160",
-   "q": "What is the full form of CAG?",
-   "o": [
+   "question": "What is the full form of CAG?",
+   "options": [
     "Dematerialised account for shares",
     "Comptroller and Auditor General",
     "International Olympic Committee",
     "Indian Council of Agricultural Research"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "CAG stands for Comptroller and Auditor General."
+   "answer": 1,
+   "explanation": "CAG stands for Comptroller and Auditor General.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00161",
-   "q": "What is the full form of TB?",
-   "o": [
+   "question": "What is the full form of TB?",
+   "options": [
     "Tuberculosis",
     "Wholesale Price Index",
     "World Trade Organization",
     "Intensive Care Unit"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "TB stands for Tuberculosis."
+   "answer": 0,
+   "explanation": "TB stands for Tuberculosis.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00162",
-   "q": "What is the full form of RAW?",
-   "o": [
+   "question": "What is the full form of RAW?",
+   "options": [
     "National Service Scheme",
     "Central Industrial Security Force",
     "Research and Analysis Wing",
     "United Nations High Commissioner for Refugees"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "RAW stands for Research and Analysis Wing."
+   "answer": 2,
+   "explanation": "RAW stands for Research and Analysis Wing.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00163",
-   "q": "What is the full form of MGNREGS?",
-   "o": [
+   "question": "What is the full form of MGNREGS?",
+   "options": [
     "Mahatma Gandhi National Rural Employment Guarantee Scheme",
     "European Space Agency",
     "National Pension System",
     "Global Positioning System"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "MGNREGS stands for Mahatma Gandhi National Rural Employment Guarantee Scheme."
+   "answer": 0,
+   "explanation": "MGNREGS stands for Mahatma Gandhi National Rural Employment Guarantee Scheme.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00164",
-   "q": "What is the full form of IB?",
-   "o": [
+   "question": "What is the full form of IB?",
+   "options": [
     "Goods and Services Tax",
     "Mahatma Gandhi National Rural Employment Guarantee Scheme",
     "Subscriber Identity Module",
     "Intelligence Bureau"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "IB stands for Intelligence Bureau."
+   "answer": 3,
+   "explanation": "IB stands for Intelligence Bureau.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00165",
-   "q": "What is the full form of AWACS?",
-   "o": [
+   "question": "What is the full form of AWACS?",
+   "options": [
     "World Wide Fund for Nature",
     "Closed Circuit Television",
     "Airborne Warning and Control System",
     "National Testing Agency"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "AWACS stands for Airborne Warning and Control System."
+   "answer": 2,
+   "explanation": "AWACS stands for Airborne Warning and Control System.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00166",
-   "q": "What is the full form of UAV?",
-   "o": [
+   "question": "What is the full form of UAV?",
+   "options": [
     "Ribonucleic Acid",
     "National Electronic Funds Transfer",
     "Geostationary Earth Orbit",
     "Unmanned Aerial Vehicle"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "UAV stands for Unmanned Aerial Vehicle."
+   "answer": 3,
+   "explanation": "UAV stands for Unmanned Aerial Vehicle.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00167",
-   "q": "What is the full form of IMPS?",
-   "o": [
+   "question": "What is the full form of IMPS?",
+   "options": [
     "Immediate Payment Service",
     "Competition Commission of India",
     "World Health Organization",
     "Micro, Small and Medium Enterprises"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "IMPS stands for Immediate Payment Service."
+   "answer": 0,
+   "explanation": "IMPS stands for Immediate Payment Service.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00168",
-   "q": "What is the full form of ICU?",
-   "o": [
+   "question": "What is the full form of ICU?",
+   "options": [
     "Employees' State Insurance",
     "Intensive Care Unit",
     "Mahatma Gandhi National Rural Employment Guarantee Scheme",
     "International Hockey Federation"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "ICU stands for Intensive Care Unit."
+   "answer": 1,
+   "explanation": "ICU stands for Intensive Care Unit.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00169",
-   "q": "What is the full form of OTP?",
-   "o": [
+   "question": "What is the full form of OTP?",
+   "options": [
     "Athletics track and field club naming",
     "United Nations Children's Fund",
     "One Time Password",
     "Dematerialised account for shares"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "OTP stands for One Time Password."
+   "answer": 2,
+   "explanation": "OTP stands for One Time Password.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00170",
-   "q": "What is the full form of NTA?",
-   "o": [
+   "question": "What is the full form of NTA?",
+   "options": [
     "Mahatma Gandhi National Rural Employment Guarantee Scheme",
     "Asian Development Bank",
     "Reserve Bank of India",
     "National Testing Agency"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "NTA stands for National Testing Agency."
+   "answer": 3,
+   "explanation": "NTA stands for National Testing Agency.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00171",
-   "q": "What is the full form of AC?",
-   "o": [
+   "question": "What is the full form of AC?",
+   "options": [
     "Alternating Current",
     "Group of Twenty major economies",
     "United Nations Educational, Scientific and Cultural Organization",
     "Navigation with Indian Constellation"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "AC stands for Alternating Current."
+   "answer": 0,
+   "explanation": "AC stands for Alternating Current.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00172",
-   "q": "What is the full form of WIPO?",
-   "o": [
+   "question": "What is the full form of WIPO?",
+   "options": [
     "Asian Infrastructure Investment Bank",
     "Sports Authority of India",
     "World Intellectual Property Organization",
     "National Pension System"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "WIPO stands for World Intellectual Property Organization."
+   "answer": 2,
+   "explanation": "WIPO stands for World Intellectual Property Organization.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00173",
-   "q": "What is the full form of IRDAI?",
-   "o": [
+   "question": "What is the full form of IRDAI?",
+   "options": [
     "Insurance Regulatory and Development Authority of India",
     "Commission for Agricultural Costs and Prices",
     "Tuberculosis",
     "International Union for Conservation of Nature"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "IRDAI stands for Insurance Regulatory and Development Authority of India."
+   "answer": 0,
+   "explanation": "IRDAI stands for Insurance Regulatory and Development Authority of India.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00174",
-   "q": "What is the full form of ESA?",
-   "o": [
+   "question": "What is the full form of ESA?",
+   "options": [
     "United Nations Children's Fund",
     "European Space Agency",
     "Automated Teller Machine",
     "Union Public Service Commission"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "ESA stands for European Space Agency."
+   "answer": 1,
+   "explanation": "ESA stands for European Space Agency.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00175",
-   "q": "What is the full form of SEZ?",
-   "o": [
+   "question": "What is the full form of SEZ?",
+   "options": [
     "Food Corporation of India",
     "Systeme International d'Unites",
     "World Meteorological Organization",
     "Special Economic Zone"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "SEZ stands for Special Economic Zone."
+   "answer": 3,
+   "explanation": "SEZ stands for Special Economic Zone.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00176",
-   "q": "What is the full form of FCI?",
-   "o": [
+   "question": "What is the full form of FCI?",
+   "options": [
     "Food Corporation of India",
     "Central Board of Indirect Taxes and Customs",
     "National Testing Agency",
     "Gross National Product"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "FCI stands for Food Corporation of India."
+   "answer": 0,
+   "explanation": "FCI stands for Food Corporation of India.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00177",
-   "q": "What is the full form of PSLV?",
-   "o": [
+   "question": "What is the full form of PSLV?",
+   "options": [
     "National Security Guard",
     "Association of Mutual Funds in India",
     "Polar Satellite Launch Vehicle",
     "Defence Research and Development Organisation"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "PSLV stands for Polar Satellite Launch Vehicle."
+   "answer": 2,
+   "explanation": "PSLV stands for Polar Satellite Launch Vehicle.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00178",
-   "q": "What is the full form of ORS?",
-   "o": [
+   "question": "What is the full form of ORS?",
+   "options": [
     "Public Distribution System",
     "Oral Rehydration Solution",
     "World Wide Fund for Nature",
     "Indian Institute of Technology"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "ORS stands for Oral Rehydration Solution."
+   "answer": 1,
+   "explanation": "ORS stands for Oral Rehydration Solution.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00179",
-   "q": "What is the full form of UPU?",
-   "o": [
+   "question": "What is the full form of UPU?",
+   "options": [
     "National Cadet Corps",
     "Universal Postal Union",
     "Central Reserve Police Force",
     "Intensive Care Unit"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "UPU stands for Universal Postal Union."
+   "answer": 1,
+   "explanation": "UPU stands for Universal Postal Union.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00180",
-   "q": "What is the full form of MICR?",
-   "o": [
+   "question": "What is the full form of MICR?",
+   "options": [
     "Public Distribution System",
     "Magnetic Ink Character Recognition",
     "International Committee of the Red Cross",
     "Employees' Provident Fund"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "MICR stands for Magnetic Ink Character Recognition."
+   "answer": 1,
+   "explanation": "MICR stands for Magnetic Ink Character Recognition.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00181",
-   "q": "What is the full form of DNA?",
-   "o": [
+   "question": "What is the full form of DNA?",
+   "options": [
     "Deoxyribonucleic Acid",
     "Study Webs of Active Learning for Young Aspiring Minds",
     "International Cricket Council",
     "State Bank of India"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "DNA stands for Deoxyribonucleic Acid."
+   "answer": 0,
+   "explanation": "DNA stands for Deoxyribonucleic Acid.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00182",
-   "q": "What is the full form of WADA?",
-   "o": [
+   "question": "What is the full form of WADA?",
+   "options": [
     "Foreign Direct Investment",
     "United Nations High Commissioner for Refugees",
     "World Anti-Doping Agency",
     "Ribonucleic Acid"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "WADA stands for World Anti-Doping Agency."
+   "answer": 2,
+   "explanation": "WADA stands for World Anti-Doping Agency.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00183",
-   "q": "What is the full form of CBDT?",
-   "o": [
+   "question": "What is the full form of CBDT?",
+   "options": [
     "Fiscal Responsibility and Budget Management",
     "Central Board of Direct Taxes",
     "National Testing Agency",
     "National Cadet Corps"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "CBDT stands for Central Board of Direct Taxes."
+   "answer": 1,
+   "explanation": "CBDT stands for Central Board of Direct Taxes.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00184",
-   "q": "What is the full form of NEFT?",
-   "o": [
+   "question": "What is the full form of NEFT?",
+   "options": [
     "National Aeronautics and Space Administration",
     "New Development Bank",
     "National Electronic Funds Transfer",
     "Indian Military Academy"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "NEFT stands for National Electronic Funds Transfer."
+   "answer": 2,
+   "explanation": "NEFT stands for National Electronic Funds Transfer.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00185",
-   "q": "What is the full form of RTE?",
-   "o": [
+   "question": "What is the full form of RTE?",
+   "options": [
     "New Development Bank",
     "Airborne Warning and Control System",
     "World Health Organization",
     "Right to Education"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "RTE stands for Right to Education."
+   "answer": 3,
+   "explanation": "RTE stands for Right to Education.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00186",
-   "q": "What is the full form of IMF?",
-   "o": [
+   "question": "What is the full form of IMF?",
+   "options": [
     "United Nations Children's Fund",
     "Dematerialised account for shares",
     "International Monetary Fund",
     "Border Security Force"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "IMF stands for International Monetary Fund."
+   "answer": 2,
+   "explanation": "IMF stands for International Monetary Fund.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00187",
-   "q": "What is the full form of UNHCR?",
-   "o": [
+   "question": "What is the full form of UNHCR?",
+   "options": [
     "Organization of the Petroleum Exporting Countries",
     "United Nations High Commissioner for Refugees",
     "International Organization for Standardization",
     "University Grants Commission"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "UNHCR stands for United Nations High Commissioner for Refugees."
+   "answer": 1,
+   "explanation": "UNHCR stands for United Nations High Commissioner for Refugees.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00188",
-   "q": "What is the full form of OECD?",
-   "o": [
+   "question": "What is the full form of OECD?",
+   "options": [
     "National Defence Academy",
     "Organisation for Economic Co-operation and Development",
     "Pradhan Mantri Jan Dhan Yojana",
     "International Securities Identification Number"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "OECD stands for Organisation for Economic Co-operation and Development."
+   "answer": 1,
+   "explanation": "OECD stands for Organisation for Economic Co-operation and Development.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00189",
-   "q": "What is the full form of AIIB?",
-   "o": [
+   "question": "What is the full form of AIIB?",
+   "options": [
     "Asian Infrastructure Investment Bank",
     "Polar Satellite Launch Vehicle",
     "Computed Tomography",
     "Closed Circuit Television"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "AIIB stands for Asian Infrastructure Investment Bank."
+   "answer": 0,
+   "explanation": "AIIB stands for Asian Infrastructure Investment Bank.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00190",
-   "q": "What is the full form of IMO?",
-   "o": [
+   "question": "What is the full form of IMO?",
+   "options": [
     "Central Industrial Security Force",
     "Real Time Gross Settlement",
     "Public Distribution System",
     "International Maritime Organization"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "IMO stands for International Maritime Organization."
+   "answer": 3,
+   "explanation": "IMO stands for International Maritime Organization.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00191",
-   "q": "What is the full form of NCC?",
-   "o": [
+   "question": "What is the full form of NCC?",
+   "options": [
     "National Cadet Corps",
     "Employees' Provident Fund",
     "Institute of Banking Personnel Selection",
     "Unique Identification Authority of India"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "NCC stands for National Cadet Corps."
+   "answer": 0,
+   "explanation": "NCC stands for National Cadet Corps.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00192",
-   "q": "What is the full form of SIDBI?",
-   "o": [
+   "question": "What is the full form of SIDBI?",
+   "options": [
     "Small Industries Development Bank of India",
     "Pradhan Mantri Gram Sadak Yojana",
     "Joint Entrance Examination",
     "World Wide Fund for Nature"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "SIDBI stands for Small Industries Development Bank of India."
+   "answer": 0,
+   "explanation": "SIDBI stands for Small Industries Development Bank of India.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00193",
-   "q": "What is the full form of IFSC?",
-   "o": [
+   "question": "What is the full form of IFSC?",
+   "options": [
     "Geostationary Earth Orbit",
     "Indian Financial System Code",
     "Atal Pension Yojana",
     "Border Security Force"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "IFSC stands for Indian Financial System Code."
+   "answer": 1,
+   "explanation": "IFSC stands for Indian Financial System Code.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00194",
-   "q": "What is the full form of GDP?",
-   "o": [
+   "question": "What is the full form of GDP?",
+   "options": [
     "United Nations Children's Fund",
     "Gross Domestic Product",
     "Deoxyribonucleic Acid",
     "Central Vigilance Commission"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "GDP stands for Gross Domestic Product."
+   "answer": 1,
+   "explanation": "GDP stands for Gross Domestic Product.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00195",
-   "q": "What is the full form of BSF?",
-   "o": [
+   "question": "What is the full form of BSF?",
+   "options": [
     "National Institution for Transforming India",
     "Tax Deducted at Source",
     "Border Security Force",
     "Indian Council of Agricultural Research"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "BSF stands for Border Security Force."
+   "answer": 2,
+   "explanation": "BSF stands for Border Security Force.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00196",
-   "q": "What is the full form of DC?",
-   "o": [
+   "question": "What is the full form of DC?",
+   "options": [
     "Micro, Small and Medium Enterprises",
     "Telecom Regulatory Authority of India",
     "Direct Current",
     "Unmanned Aerial Vehicle"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "DC stands for Direct Current."
+   "answer": 2,
+   "explanation": "DC stands for Direct Current.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00197",
-   "q": "What is the full form of OPEC?",
-   "o": [
+   "question": "What is the full form of OPEC?",
+   "options": [
     "National Pension System",
     "Organization of the Petroleum Exporting Countries",
     "Ribonucleic Acid",
     "United Nations Children's Fund"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "OPEC stands for Organization of the Petroleum Exporting Countries."
+   "answer": 1,
+   "explanation": "OPEC stands for Organization of the Petroleum Exporting Countries.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00198",
-   "q": "What is the full form of ATP?",
-   "o": [
+   "question": "What is the full form of ATP?",
+   "options": [
     "Mahatma Gandhi National Rural Employment Guarantee Scheme",
     "United Nations Environment Programme",
     "Defence Research and Development Organisation",
     "Adenosine Triphosphate"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "ATP stands for Adenosine Triphosphate."
+   "answer": 3,
+   "explanation": "ATP stands for Adenosine Triphosphate.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00199",
-   "q": "What is the full form of JAM?",
-   "o": [
+   "question": "What is the full form of JAM?",
+   "options": [
     "Know Your Customer",
     "Union Public Service Commission",
     "Bombay Stock Exchange",
     "Jan Dhan, Aadhaar and Mobile"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "JAM stands for Jan Dhan, Aadhaar and Mobile."
+   "answer": 3,
+   "explanation": "JAM stands for Jan Dhan, Aadhaar and Mobile.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00200",
-   "q": "What is the full form of RRB?",
-   "o": [
+   "question": "What is the full form of RRB?",
+   "options": [
     "Foreign Direct Investment",
     "Railway Recruitment Board",
     "Commission for Agricultural Costs and Prices",
     "Securities and Exchange Board of India"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "RRB stands for Railway Recruitment Board."
+   "answer": 1,
+   "explanation": "RRB stands for Railway Recruitment Board.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00201",
-   "q": "What is the full form of PMGSY?",
-   "o": [
+   "question": "What is the full form of PMGSY?",
+   "options": [
     "National Education Policy",
     "Central Board of Secondary Education",
     "Pradhan Mantri Gram Sadak Yojana",
     "Unique Identification Authority of India"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "PMGSY stands for Pradhan Mantri Gram Sadak Yojana."
+   "answer": 2,
+   "explanation": "PMGSY stands for Pradhan Mantri Gram Sadak Yojana.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00202",
-   "q": "What is the full form of IIM?",
-   "o": [
+   "question": "What is the full form of IIM?",
+   "options": [
     "Direct Benefit Transfer",
     "Indian Institute of Management",
     "Food and Agriculture Organization",
     "National Security Guard"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "IIM stands for Indian Institute of Management."
+   "answer": 1,
+   "explanation": "IIM stands for Indian Institute of Management.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00203",
-   "q": "What is the full form of AIDS?",
-   "o": [
+   "question": "What is the full form of AIDS?",
+   "options": [
     "Acquired Immune Deficiency Syndrome",
     "University Grants Commission",
     "Pradhan Mantri Kisan Samman Nidhi",
     "Indian Standards Institution"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "AIDS stands for Acquired Immune Deficiency Syndrome."
+   "answer": 0,
+   "explanation": "AIDS stands for Acquired Immune Deficiency Syndrome.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00204",
-   "q": "What is the full form of TDS?",
-   "o": [
+   "question": "What is the full form of TDS?",
+   "options": [
     "Tax Deducted at Source",
     "Universal Postal Union",
     "Systeme International d'Unites",
     "Jan Dhan, Aadhaar and Mobile"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "TDS stands for Tax Deducted at Source."
+   "answer": 0,
+   "explanation": "TDS stands for Tax Deducted at Source.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00205",
-   "q": "What is the full form of GEO?",
-   "o": [
+   "question": "What is the full form of GEO?",
+   "options": [
     "Punjab National Bank",
     "Bureau of Indian Standards",
     "Geostationary Earth Orbit",
     "Electromotive Force"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "GEO stands for Geostationary Earth Orbit."
+   "answer": 2,
+   "explanation": "GEO stands for Geostationary Earth Orbit.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00206",
-   "q": "What is the full form of SAI?",
-   "o": [
+   "question": "What is the full form of SAI?",
+   "options": [
     "Magnetic Ink Character Recognition",
     "Sports Authority of India",
     "United Nations Development Programme",
     "New Development Bank"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "SAI stands for Sports Authority of India."
+   "answer": 1,
+   "explanation": "SAI stands for Sports Authority of India.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00207",
-   "q": "What is the full form of NASA?",
-   "o": [
+   "question": "What is the full form of NASA?",
+   "options": [
     "Immediate Payment Service",
     "Pension Fund Regulatory and Development Authority",
     "International Cricket Council",
     "National Aeronautics and Space Administration"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "NASA stands for National Aeronautics and Space Administration."
+   "answer": 3,
+   "explanation": "NASA stands for National Aeronautics and Space Administration.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00208",
-   "q": "What is the full form of IBPS?",
-   "o": [
+   "question": "What is the full form of IBPS?",
+   "options": [
     "Direct Current",
     "Brazil, Russia, India, China and South Africa",
     "Employees' Provident Fund",
     "Institute of Banking Personnel Selection"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "IBPS stands for Institute of Banking Personnel Selection."
+   "answer": 3,
+   "explanation": "IBPS stands for Institute of Banking Personnel Selection.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00209",
-   "q": "What is the full form of TRAI?",
-   "o": [
+   "question": "What is the full form of TRAI?",
+   "options": [
     "Food and Agriculture Organization",
     "Mahatma Gandhi National Rural Employment Guarantee Scheme",
     "Telecom Regulatory Authority of India",
     "Bureau of Indian Standards"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "TRAI stands for Telecom Regulatory Authority of India."
+   "answer": 2,
+   "explanation": "TRAI stands for Telecom Regulatory Authority of India.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00210",
-   "q": "What is the full form of BRICS?",
-   "o": [
+   "question": "What is the full form of BRICS?",
+   "options": [
     "Brazil, Russia, India, China and South Africa",
     "World Anti-Doping Agency",
     "United Nations Development Programme",
     "Competition Commission of India"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "BRICS stands for Brazil, Russia, India, China and South Africa."
+   "answer": 0,
+   "explanation": "BRICS stands for Brazil, Russia, India, China and South Africa.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00211",
-   "q": "What is the full form of FDI?",
-   "o": [
+   "question": "What is the full form of FDI?",
+   "options": [
     "Bureau of Indian Standards",
     "Ribonucleic Acid",
     "Intelligence Bureau",
     "Foreign Direct Investment"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "FDI stands for Foreign Direct Investment."
+   "answer": 3,
+   "explanation": "FDI stands for Foreign Direct Investment.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00212",
-   "q": "What is the full form of SIM?",
-   "o": [
+   "question": "What is the full form of SIM?",
+   "options": [
     "Right to Education",
     "Direct Benefit Transfer",
     "Subscriber Identity Module",
     "Indian Institute of Management"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "SIM stands for Subscriber Identity Module."
+   "answer": 2,
+   "explanation": "SIM stands for Subscriber Identity Module.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00213",
-   "q": "What is the full form of CISF?",
-   "o": [
+   "question": "What is the full form of CISF?",
+   "options": [
     "Ribonucleic Acid",
     "Liquid Crystal Display",
     "Central Industrial Security Force",
     "Light Emitting Diode"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "CISF stands for Central Industrial Security Force."
+   "answer": 2,
+   "explanation": "CISF stands for Central Industrial Security Force.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00214",
-   "q": "What is the full form of CCTV?",
-   "o": [
+   "question": "What is the full form of CCTV?",
+   "options": [
     "Closed Circuit Television",
     "Initial Public Offering",
     "United Nations Children's Fund",
     "Universal Postal Union"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "CCTV stands for Closed Circuit Television."
+   "answer": 0,
+   "explanation": "CCTV stands for Closed Circuit Television.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00215",
-   "q": "What is the full form of ITBP?",
-   "o": [
+   "question": "What is the full form of ITBP?",
+   "options": [
     "National Pension System",
     "Geosynchronous Satellite Launch Vehicle",
     "Indo-Tibetan Border Police",
     "Food Corporation of India"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "ITBP stands for Indo-Tibetan Border Police."
+   "answer": 2,
+   "explanation": "ITBP stands for Indo-Tibetan Border Police.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00216",
-   "q": "What is the full form of SI?",
-   "o": [
+   "question": "What is the full form of SI?",
+   "options": [
     "New Development Bank",
     "Central Statistics Office",
     "Systeme International d'Unites",
     "International Union for Conservation of Nature"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "SI stands for Systeme International d'Unites."
+   "answer": 2,
+   "explanation": "SI stands for Systeme International d'Unites.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00217",
-   "q": "What is the full form of EMF?",
-   "o": [
+   "question": "What is the full form of EMF?",
+   "options": [
     "Electromotive Force",
     "Indian Institute of Technology",
     "National Council of Educational Research and Training",
     "Intelligence Bureau"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "EMF stands for Electromotive Force."
+   "answer": 0,
+   "explanation": "EMF stands for Electromotive Force.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00218",
-   "q": "What is the full form of D-mat?",
-   "o": [
+   "question": "What is the full form of D-mat?",
+   "options": [
     "Dematerialised account for shares",
     "International Cricket Council",
     "National Defence Academy",
     "International Hockey Federation"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "D-mat stands for Dematerialised account for shares."
+   "answer": 0,
+   "explanation": "D-mat stands for Dematerialised account for shares.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00219",
-   "q": "What is the full form of BARC?",
-   "o": [
+   "question": "What is the full form of BARC?",
+   "options": [
     "National Aeronautics and Space Administration",
     "International Securities Identification Number",
     "Bhabha Atomic Research Centre",
     "Indian Institute of Management"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "BARC stands for Bhabha Atomic Research Centre."
+   "answer": 2,
+   "explanation": "BARC stands for Bhabha Atomic Research Centre.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00220",
-   "q": "What is the full form of POS?",
-   "o": [
+   "question": "What is the full form of POS?",
+   "options": [
     "Electrocardiogram",
     "Point of Sale",
     "International Hockey Federation",
     "National Institute of Technology"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "POS stands for Point of Sale."
+   "answer": 1,
+   "explanation": "POS stands for Point of Sale.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00221",
-   "q": "What is the full form of FSSAI?",
-   "o": [
+   "question": "What is the full form of FSSAI?",
+   "options": [
     "Organization of the Petroleum Exporting Countries",
     "Central Board of Secondary Education",
     "Railway Recruitment Board",
     "Food Safety and Standards Authority of India"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "FSSAI stands for Food Safety and Standards Authority of India."
+   "answer": 3,
+   "explanation": "FSSAI stands for Food Safety and Standards Authority of India.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00222",
-   "q": "What is the full form of ATK?",
-   "o": [
+   "question": "What is the full form of ATK?",
+   "options": [
     "North Atlantic Treaty Organization",
     "Brazil, Russia, India, China and South Africa",
     "Bombay Stock Exchange",
     "Athletics track and field club naming"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "ATK stands for Athletics track and field club naming."
+   "answer": 3,
+   "explanation": "ATK stands for Athletics track and field club naming.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00223",
-   "q": "What is the full form of NSG?",
-   "o": [
+   "question": "What is the full form of NSG?",
+   "options": [
     "National Security Guard",
     "Magnetic Ink Character Recognition",
     "International Hockey Federation",
     "Low Earth Orbit"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "NSG stands for National Security Guard."
+   "answer": 0,
+   "explanation": "NSG stands for National Security Guard.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00224",
-   "q": "What is the full form of CLAT?",
-   "o": [
+   "question": "What is the full form of CLAT?",
+   "options": [
     "Corporate Social Responsibility",
     "Indian Council of Agricultural Research",
     "Common Law Admission Test",
     "Federation Internationale de Football Association"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "CLAT stands for Common Law Admission Test."
+   "answer": 2,
+   "explanation": "CLAT stands for Common Law Admission Test.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00225",
-   "q": "What is the full form of RBI?",
-   "o": [
+   "question": "What is the full form of RBI?",
+   "options": [
     "Central Teacher Eligibility Test",
     "Minimum Support Price",
     "Competition Commission of India",
     "Reserve Bank of India"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "RBI stands for Reserve Bank of India."
+   "answer": 3,
+   "explanation": "RBI stands for Reserve Bank of India.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00226",
-   "q": "What is the full form of WMO?",
-   "o": [
+   "question": "What is the full form of WMO?",
+   "options": [
     "Krishi Vigyan Kendra",
     "World Meteorological Organization",
     "Group of Twenty major economies",
     "National Testing Agency"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "WMO stands for World Meteorological Organization."
+   "answer": 1,
+   "explanation": "WMO stands for World Meteorological Organization.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00227",
-   "q": "What is the full form of HIV?",
-   "o": [
+   "question": "What is the full form of HIV?",
+   "options": [
     "Light Emitting Diode",
     "National Investigation Agency",
     "Public Private Partnership",
     "Human Immunodeficiency Virus"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 2,
-   "s": "generated",
-   "e": "HIV stands for Human Immunodeficiency Virus."
+   "answer": 3,
+   "explanation": "HIV stands for Human Immunodeficiency Virus.",
+   "topic": "Abbreviations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00228",
-   "q": "Which of the following abbreviations stands for Commission for Agricultural Costs and Prices?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Commission for Agricultural Costs and Prices?",
+   "options": [
     "WPI",
     "OTP",
     "RRB",
     "CACP"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Commission for Agricultural Costs and Prices is abbreviated as CACP."
+   "answer": 3,
+   "explanation": "Commission for Agricultural Costs and Prices is abbreviated as CACP.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00229",
-   "q": "Which of the following abbreviations stands for Central Reserve Police Force?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Central Reserve Police Force?",
+   "options": [
     "NABARD",
     "UAV",
     "SIDBI",
     "CRPF"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Central Reserve Police Force is abbreviated as CRPF."
+   "answer": 3,
+   "explanation": "Central Reserve Police Force is abbreviated as CRPF.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00230",
-   "q": "Which of the following abbreviations stands for Bhabha Atomic Research Centre?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Bhabha Atomic Research Centre?",
+   "options": [
     "GNP",
     "UNEP",
     "BARC",
     "FIH"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Bhabha Atomic Research Centre is abbreviated as BARC."
+   "answer": 2,
+   "explanation": "Bhabha Atomic Research Centre is abbreviated as BARC.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00231",
-   "q": "Which of the following abbreviations stands for Computed Tomography?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Computed Tomography?",
+   "options": [
     "UPSC",
     "SI",
     "UPU",
     "CT"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Computed Tomography is abbreviated as CT."
+   "answer": 3,
+   "explanation": "Computed Tomography is abbreviated as CT.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00232",
-   "q": "Which of the following abbreviations stands for Brahmaputra Moscow missile?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Brahmaputra Moscow missile?",
+   "options": [
     "ICAO",
     "ASEAN",
     "BrahMos",
     "FIH"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Brahmaputra Moscow missile is abbreviated as BrahMos."
+   "answer": 2,
+   "explanation": "Brahmaputra Moscow missile is abbreviated as BrahMos.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00233",
-   "q": "Which of the following abbreviations stands for Sports Authority of India?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Sports Authority of India?",
+   "options": [
     "ESOP",
     "CCI",
     "SAI",
     "BCCI"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Sports Authority of India is abbreviated as SAI."
+   "answer": 2,
+   "explanation": "Sports Authority of India is abbreviated as SAI.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00234",
-   "q": "Which of the following abbreviations stands for North Atlantic Treaty Organization?",
-   "o": [
+   "question": "Which of the following abbreviations stands for North Atlantic Treaty Organization?",
+   "options": [
     "BCCI",
     "JAM",
     "CRPF",
     "NATO"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "North Atlantic Treaty Organization is abbreviated as NATO."
+   "answer": 3,
+   "explanation": "North Atlantic Treaty Organization is abbreviated as NATO.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00235",
-   "q": "Which of the following abbreviations stands for National Institute of Technology?",
-   "o": [
+   "question": "Which of the following abbreviations stands for National Institute of Technology?",
+   "options": [
     "ICJ",
     "RBI",
     "NIT",
     "AC"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "National Institute of Technology is abbreviated as NIT."
+   "answer": 2,
+   "explanation": "National Institute of Technology is abbreviated as NIT.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00236",
-   "q": "Which of the following abbreviations stands for National Electronic Funds Transfer?",
-   "o": [
+   "question": "Which of the following abbreviations stands for National Electronic Funds Transfer?",
+   "options": [
     "NEFT",
     "NavIC",
     "SAI",
     "AC"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "National Electronic Funds Transfer is abbreviated as NEFT."
+   "answer": 0,
+   "explanation": "National Electronic Funds Transfer is abbreviated as NEFT.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00237",
-   "q": "Which of the following abbreviations stands for Pradhan Mantri Fasal Bima Yojana?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Pradhan Mantri Fasal Bima Yojana?",
+   "options": [
     "PMFBY",
     "CCI",
     "NAV",
     "WHO"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Pradhan Mantri Fasal Bima Yojana is abbreviated as PMFBY."
+   "answer": 0,
+   "explanation": "Pradhan Mantri Fasal Bima Yojana is abbreviated as PMFBY.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00238",
-   "q": "Which of the following abbreviations stands for International Atomic Energy Agency?",
-   "o": [
+   "question": "Which of the following abbreviations stands for International Atomic Energy Agency?",
+   "options": [
     "WADA",
     "CRPF",
     "IAEA",
     "ORS"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "International Atomic Energy Agency is abbreviated as IAEA."
+   "answer": 2,
+   "explanation": "International Atomic Energy Agency is abbreviated as IAEA.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00239",
-   "q": "Which of the following abbreviations stands for United Nations High Commissioner for Refugees?",
-   "o": [
+   "question": "Which of the following abbreviations stands for United Nations High Commissioner for Refugees?",
+   "options": [
     "UNHCR",
     "NavIC",
     "GDP",
     "DNA"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "United Nations High Commissioner for Refugees is abbreviated as UNHCR."
+   "answer": 0,
+   "explanation": "United Nations High Commissioner for Refugees is abbreviated as UNHCR.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00240",
-   "q": "Which of the following abbreviations stands for Polar Satellite Launch Vehicle?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Polar Satellite Launch Vehicle?",
+   "options": [
     "PSLV",
     "PMJDY",
     "TB",
     "ESA"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Polar Satellite Launch Vehicle is abbreviated as PSLV."
+   "answer": 0,
+   "explanation": "Polar Satellite Launch Vehicle is abbreviated as PSLV.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00241",
-   "q": "Which of the following abbreviations stands for Pradhan Mantri Jan Arogya Yojana?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Pradhan Mantri Jan Arogya Yojana?",
+   "options": [
     "PMJAY",
     "FAO",
     "IUCN",
     "SEZ"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Pradhan Mantri Jan Arogya Yojana is abbreviated as PMJAY."
+   "answer": 0,
+   "explanation": "Pradhan Mantri Jan Arogya Yojana is abbreviated as PMJAY.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00242",
-   "q": "Which of the following abbreviations stands for Magnetic Ink Character Recognition?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Magnetic Ink Character Recognition?",
+   "options": [
     "MICR",
     "MRI",
     "CPI",
     "PMUY"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Magnetic Ink Character Recognition is abbreviated as MICR."
+   "answer": 0,
+   "explanation": "Magnetic Ink Character Recognition is abbreviated as MICR.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00243",
-   "q": "Which of the following abbreviations stands for Human Immunodeficiency Virus?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Human Immunodeficiency Virus?",
+   "options": [
     "AIDS",
     "HIV",
     "SCO",
     "FRBM"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Human Immunodeficiency Virus is abbreviated as HIV."
+   "answer": 1,
+   "explanation": "Human Immunodeficiency Virus is abbreviated as HIV.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00244",
-   "q": "Which of the following abbreviations stands for European Organization for Nuclear Research?",
-   "o": [
+   "question": "Which of the following abbreviations stands for European Organization for Nuclear Research?",
+   "options": [
     "IBC",
     "SAARC",
     "NEP",
     "CERN"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "European Organization for Nuclear Research is abbreviated as CERN."
+   "answer": 3,
+   "explanation": "European Organization for Nuclear Research is abbreviated as CERN.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00245",
-   "q": "Which of the following abbreviations stands for National Council of Educational Research and Training?",
-   "o": [
+   "question": "Which of the following abbreviations stands for National Council of Educational Research and Training?",
+   "options": [
     "NCERT",
     "CBIC",
     "ITU",
     "NPS"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "National Council of Educational Research and Training is abbreviated as NCERT."
+   "answer": 0,
+   "explanation": "National Council of Educational Research and Training is abbreviated as NCERT.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00246",
-   "q": "Which of the following abbreviations stands for South Asian Association for Regional Cooperation?",
-   "o": [
+   "question": "Which of the following abbreviations stands for South Asian Association for Regional Cooperation?",
+   "options": [
     "IOC",
     "SAARC",
     "LEO",
     "GNP"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "South Asian Association for Regional Cooperation is abbreviated as SAARC."
+   "answer": 1,
+   "explanation": "South Asian Association for Regional Cooperation is abbreviated as SAARC.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00247",
-   "q": "Which of the following abbreviations stands for Navigation with Indian Constellation?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Navigation with Indian Constellation?",
+   "options": [
     "BIS",
     "FAO",
     "AIIB",
     "NavIC"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Navigation with Indian Constellation is abbreviated as NavIC."
+   "answer": 3,
+   "explanation": "Navigation with Indian Constellation is abbreviated as NavIC.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00248",
-   "q": "Which of the following abbreviations stands for Association of Mutual Funds in India?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Association of Mutual Funds in India?",
+   "options": [
     "ASEAN",
     "AMFI",
     "SEZ",
     "ISIN"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Association of Mutual Funds in India is abbreviated as AMFI."
+   "answer": 1,
+   "explanation": "Association of Mutual Funds in India is abbreviated as AMFI.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00249",
-   "q": "Which of the following abbreviations stands for Central Board of Secondary Education?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Central Board of Secondary Education?",
+   "options": [
     "NET",
     "SEZ",
     "GDP",
     "CBSE"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Central Board of Secondary Education is abbreviated as CBSE."
+   "answer": 3,
+   "explanation": "Central Board of Secondary Education is abbreviated as CBSE.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00250",
-   "q": "Which of the following abbreviations stands for Common Law Admission Test?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Common Law Admission Test?",
+   "options": [
     "KVK",
     "CLAT",
     "HIV",
     "PFRDA"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Common Law Admission Test is abbreviated as CLAT."
+   "answer": 1,
+   "explanation": "Common Law Admission Test is abbreviated as CLAT.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00251",
-   "q": "Which of the following abbreviations stands for Tax Deducted at Source?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Tax Deducted at Source?",
+   "options": [
     "NEET",
     "ADB",
     "TDS",
     "SAARC"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Tax Deducted at Source is abbreviated as TDS."
+   "answer": 2,
+   "explanation": "Tax Deducted at Source is abbreviated as TDS.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00252",
-   "q": "Which of the following abbreviations stands for Deoxyribonucleic Acid?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Deoxyribonucleic Acid?",
+   "options": [
     "PNB",
     "IRDAI",
     "DNA",
     "LCD"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Deoxyribonucleic Acid is abbreviated as DNA."
+   "answer": 2,
+   "explanation": "Deoxyribonucleic Acid is abbreviated as DNA.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00253",
-   "q": "Which of the following abbreviations stands for Know Your Customer?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Know Your Customer?",
+   "options": [
     "KYC",
     "EMF",
     "ESA",
     "IMO"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Know Your Customer is abbreviated as KYC."
+   "answer": 0,
+   "explanation": "Know Your Customer is abbreviated as KYC.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00254",
-   "q": "Which of the following abbreviations stands for Point of Sale?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Point of Sale?",
+   "options": [
     "NCLT",
     "NEET",
     "BSF",
     "POS"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Point of Sale is abbreviated as POS."
+   "answer": 3,
+   "explanation": "Point of Sale is abbreviated as POS.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00255",
-   "q": "Which of the following abbreviations stands for Wholesale Price Index?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Wholesale Price Index?",
+   "options": [
     "IMO",
     "WPI",
     "NAV",
     "ADB"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Wholesale Price Index is abbreviated as WPI."
+   "answer": 1,
+   "explanation": "Wholesale Price Index is abbreviated as WPI.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00256",
-   "q": "Which of the following abbreviations stands for Council of Scientific and Industrial Research?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Council of Scientific and Industrial Research?",
+   "options": [
     "CSIR",
     "IMA",
     "IB",
     "PSLV"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Council of Scientific and Industrial Research is abbreviated as CSIR."
+   "answer": 0,
+   "explanation": "Council of Scientific and Industrial Research is abbreviated as CSIR.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00257",
-   "q": "Which of the following abbreviations stands for Pradhan Mantri Jan Dhan Yojana?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Pradhan Mantri Jan Dhan Yojana?",
+   "options": [
     "RNA",
     "NTA",
     "ICMR",
     "PMJDY"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Pradhan Mantri Jan Dhan Yojana is abbreviated as PMJDY."
+   "answer": 3,
+   "explanation": "Pradhan Mantri Jan Dhan Yojana is abbreviated as PMJDY.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00258",
-   "q": "Which of the following abbreviations stands for National Eligibility Test?",
-   "o": [
+   "question": "Which of the following abbreviations stands for National Eligibility Test?",
+   "options": [
     "G20",
     "NPA",
     "LED",
     "NET"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "National Eligibility Test is abbreviated as NET."
+   "answer": 3,
+   "explanation": "National Eligibility Test is abbreviated as NET.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00259",
-   "q": "Which of the following abbreviations stands for Liquid Crystal Display?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Liquid Crystal Display?",
+   "options": [
     "ISS",
     "CBI",
     "CERN",
     "LCD"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Liquid Crystal Display is abbreviated as LCD."
+   "answer": 3,
+   "explanation": "Liquid Crystal Display is abbreviated as LCD.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00260",
-   "q": "Which of the following abbreviations stands for Small Industries Development Bank of India?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Small Industries Development Bank of India?",
+   "options": [
     "PM-KISAN",
     "SIDBI",
     "GEO",
     "CACP"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Small Industries Development Bank of India is abbreviated as SIDBI."
+   "answer": 1,
+   "explanation": "Small Industries Development Bank of India is abbreviated as SIDBI.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00261",
-   "q": "Which of the following abbreviations stands for World Intellectual Property Organization?",
-   "o": [
+   "question": "Which of the following abbreviations stands for World Intellectual Property Organization?",
+   "options": [
     "UNDP",
     "ADB",
     "IOC",
     "WIPO"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "World Intellectual Property Organization is abbreviated as WIPO."
+   "answer": 3,
+   "explanation": "World Intellectual Property Organization is abbreviated as WIPO.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00262",
-   "q": "Which of the following abbreviations stands for National Institution for Transforming India?",
-   "o": [
+   "question": "Which of the following abbreviations stands for National Institution for Transforming India?",
+   "options": [
     "RRB",
     "NITI",
     "BSE",
     "FPI"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "National Institution for Transforming India is abbreviated as NITI."
+   "answer": 1,
+   "explanation": "National Institution for Transforming India is abbreviated as NITI.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00263",
-   "q": "Which of the following abbreviations stands for Securities and Exchange Board of India?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Securities and Exchange Board of India?",
+   "options": [
     "PPP",
     "ESA",
     "JEE",
     "SEBI"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Securities and Exchange Board of India is abbreviated as SEBI."
+   "answer": 3,
+   "explanation": "Securities and Exchange Board of India is abbreviated as SEBI.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00264",
-   "q": "Which of the following abbreviations stands for Micro, Small and Medium Enterprises?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Micro, Small and Medium Enterprises?",
+   "options": [
     "MSME",
     "ICAO",
     "SWAYAM",
     "CSIR"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Micro, Small and Medium Enterprises is abbreviated as MSME."
+   "answer": 0,
+   "explanation": "Micro, Small and Medium Enterprises is abbreviated as MSME.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00265",
-   "q": "Which of the following abbreviations stands for State Bank of India?",
-   "o": [
+   "question": "Which of the following abbreviations stands for State Bank of India?",
+   "options": [
     "IRDAI",
     "LED",
     "IIP",
     "SBI"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "State Bank of India is abbreviated as SBI."
+   "answer": 3,
+   "explanation": "State Bank of India is abbreviated as SBI.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00266",
-   "q": "Which of the following abbreviations stands for International Maritime Organization?",
-   "o": [
+   "question": "Which of the following abbreviations stands for International Maritime Organization?",
+   "options": [
     "IMO",
     "UGC",
     "UNICEF",
     "NNP"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "International Maritime Organization is abbreviated as IMO."
+   "answer": 0,
+   "explanation": "International Maritime Organization is abbreviated as IMO.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00267",
-   "q": "Which of the following abbreviations stands for World Meteorological Organization?",
-   "o": [
+   "question": "Which of the following abbreviations stands for World Meteorological Organization?",
+   "options": [
     "JAM",
     "PSLV",
     "RTE",
     "WMO"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "World Meteorological Organization is abbreviated as WMO."
+   "answer": 3,
+   "explanation": "World Meteorological Organization is abbreviated as WMO.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00268",
-   "q": "Which of the following abbreviations stands for National Service Scheme?",
-   "o": [
+   "question": "Which of the following abbreviations stands for National Service Scheme?",
+   "options": [
     "MICR",
     "NSS",
     "AIIB",
     "LED"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "National Service Scheme is abbreviated as NSS."
+   "answer": 1,
+   "explanation": "National Service Scheme is abbreviated as NSS.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00269",
-   "q": "Which of the following abbreviations stands for Indian Council of Medical Research?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Indian Council of Medical Research?",
+   "options": [
     "IMA",
     "IMO",
     "ATK",
     "ICMR"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Indian Council of Medical Research is abbreviated as ICMR."
+   "answer": 3,
+   "explanation": "Indian Council of Medical Research is abbreviated as ICMR.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00270",
-   "q": "Which of the following abbreviations stands for Corporate Social Responsibility?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Corporate Social Responsibility?",
+   "options": [
     "CSR",
     "CVC",
     "HIV",
     "GPS"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Corporate Social Responsibility is abbreviated as CSR."
+   "answer": 0,
+   "explanation": "Corporate Social Responsibility is abbreviated as CSR.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00271",
-   "q": "Which of the following abbreviations stands for Subscriber Identity Module?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Subscriber Identity Module?",
+   "options": [
     "PIN",
     "AIIB",
     "SIM",
     "RRB"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Subscriber Identity Module is abbreviated as SIM."
+   "answer": 2,
+   "explanation": "Subscriber Identity Module is abbreviated as SIM.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00272",
-   "q": "Which of the following abbreviations stands for Enforcement Directorate?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Enforcement Directorate?",
+   "options": [
     "SCO",
     "ED",
     "ITU",
     "BrahMos"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Enforcement Directorate is abbreviated as ED."
+   "answer": 1,
+   "explanation": "Enforcement Directorate is abbreviated as ED.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00273",
-   "q": "Which of the following abbreviations stands for Sashastra Seema Bal?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Sashastra Seema Bal?",
+   "options": [
     "SSB",
     "PMJDY",
     "ESI",
     "UNHCR"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Sashastra Seema Bal is abbreviated as SSB."
+   "answer": 0,
+   "explanation": "Sashastra Seema Bal is abbreviated as SSB.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00274",
-   "q": "Which of the following abbreviations stands for Asian Infrastructure Investment Bank?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Asian Infrastructure Investment Bank?",
+   "options": [
     "AIIB",
     "DRDO",
     "FRBM",
     "ATK"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Asian Infrastructure Investment Bank is abbreviated as AIIB."
+   "answer": 0,
+   "explanation": "Asian Infrastructure Investment Bank is abbreviated as AIIB.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00275",
-   "q": "Which of the following abbreviations stands for Alternating Current?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Alternating Current?",
+   "options": [
     "SAI",
     "AMFI",
     "WPI",
     "AC"
    ],
-   "a": 3,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Alternating Current is abbreviated as AC."
+   "answer": 3,
+   "explanation": "Alternating Current is abbreviated as AC.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00276",
-   "q": "Which of the following abbreviations stands for Joint Entrance Examination?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Joint Entrance Examination?",
+   "options": [
     "DBT",
     "JEE",
     "ATP",
     "NIA"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Joint Entrance Examination is abbreviated as JEE."
+   "answer": 1,
+   "explanation": "Joint Entrance Examination is abbreviated as JEE.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00277",
-   "q": "Which of the following abbreviations stands for Foreign Portfolio Investment?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Foreign Portfolio Investment?",
+   "options": [
     "FPI",
     "ESI",
     "CBDT",
     "ICAO"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Foreign Portfolio Investment is abbreviated as FPI."
+   "answer": 0,
+   "explanation": "Foreign Portfolio Investment is abbreviated as FPI.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00278",
-   "q": "Which of the following abbreviations stands for Digital Infrastructure for Knowledge Sharing?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Digital Infrastructure for Knowledge Sharing?",
+   "options": [
     "DBT",
     "DIKSHA",
     "IPL",
     "CCTV"
    ],
-   "a": 1,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Digital Infrastructure for Knowledge Sharing is abbreviated as DIKSHA."
+   "answer": 1,
+   "explanation": "Digital Infrastructure for Knowledge Sharing is abbreviated as DIKSHA.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00279",
-   "q": "Which of the following abbreviations stands for Indian Military Academy?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Indian Military Academy?",
+   "options": [
     "CERN",
     "NCC",
     "IMA",
     "NSG"
    ],
-   "a": 2,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Indian Military Academy is abbreviated as IMA."
+   "answer": 2,
+   "explanation": "Indian Military Academy is abbreviated as IMA.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "abbreviations-00280",
-   "q": "Which of the following abbreviations stands for Brazil, Russia, India, China and South Africa?",
-   "o": [
+   "question": "Which of the following abbreviations stands for Brazil, Russia, India, China and South Africa?",
+   "options": [
     "BRICS",
     "UNICEF",
     "D-mat",
     "CCTV"
    ],
-   "a": 0,
-   "t": "Abbreviations",
-   "l": 3,
-   "s": "generated",
-   "e": "Brazil, Russia, India, China and South Africa is abbreviated as BRICS."
+   "answer": 0,
+   "explanation": "Brazil, Russia, India, China and South Africa is abbreviated as BRICS.",
+   "topic": "Abbreviations",
+   "level": 3,
+   "source": "generated"
   }
  ]
 };

@@ -16,3903 +16,3903 @@
  "questions": [
   {
    "id": "sports-00001",
-   "q": "How many players are there in a cricket team on the field?",
-   "o": [
+   "question": "How many players are there in a cricket team on the field?",
+   "options": [
     "10",
     "11",
     "12",
     "9"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "A cricket team fields 11 players."
+   "answer": 1,
+   "explanation": "A cricket team fields 11 players.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "sports-00002",
-   "q": "How many players are there in a football team on the field?",
-   "o": [
+   "question": "How many players are there in a football team on the field?",
+   "options": [
     "9",
     "10",
     "11",
     "12"
    ],
-   "a": 2,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "A football team has 11 players on the field."
+   "answer": 2,
+   "explanation": "A football team has 11 players on the field.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "sports-00003",
-   "q": "How many players are there in a kabaddi team on the court?",
-   "o": [
+   "question": "How many players are there in a kabaddi team on the court?",
+   "options": [
     "5",
     "6",
     "7",
     "8"
    ],
-   "a": 2,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Each kabaddi team has 7 players on the court."
+   "answer": 2,
+   "explanation": "Each kabaddi team has 7 players on the court.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "sports-00004",
-   "q": "How many players are there in a volleyball team?",
-   "o": [
+   "question": "How many players are there in a volleyball team?",
+   "options": [
     "5",
     "6",
     "7",
     "8"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "A volleyball team has 6 players on the court."
+   "answer": 1,
+   "explanation": "A volleyball team has 6 players on the court.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "sports-00005",
-   "q": "How many players are there in a basketball team on the court?",
-   "o": [
+   "question": "How many players are there in a basketball team on the court?",
+   "options": [
     "5",
     "6",
     "7",
     "4"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "A basketball team has 5 players on the court."
+   "answer": 0,
+   "explanation": "A basketball team has 5 players on the court.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "sports-00006",
-   "q": "Which country won the first Cricket World Cup in 1975?",
-   "o": [
+   "question": "Which country won the first Cricket World Cup in 1975?",
+   "options": [
     "Australia",
     "West Indies",
     "England",
     "India"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "West Indies won the first Cricket World Cup in 1975."
+   "answer": 1,
+   "explanation": "West Indies won the first Cricket World Cup in 1975.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "sports-00007",
-   "q": "Which country has won the most FIFA World Cups?",
-   "o": [
+   "question": "Which country has won the most FIFA World Cups?",
+   "options": [
     "Germany",
     "Italy",
     "Brazil",
     "Argentina"
    ],
-   "a": 2,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Brazil has won the FIFA World Cup five times."
+   "answer": 2,
+   "explanation": "Brazil has won the FIFA World Cup five times.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "sports-00008",
-   "q": "The Ashes series is played between:",
-   "o": [
+   "question": "The Ashes series is played between:",
+   "options": [
     "India and Australia",
     "England and Australia",
     "England and South Africa",
     "New Zealand and Australia"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "The Ashes is contested between England and Australia."
+   "answer": 1,
+   "explanation": "The Ashes is contested between England and Australia.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "sports-00009",
-   "q": "In which sport is the Davis Cup awarded?",
-   "o": [
+   "question": "In which sport is the Davis Cup awarded?",
+   "options": [
     "Badminton",
     "Tennis",
     "Hockey",
     "Table tennis"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "The Davis Cup is a men's international tennis team competition."
+   "answer": 1,
+   "explanation": "The Davis Cup is a men's international tennis team competition.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "sports-00010",
-   "q": "The Ryder Cup is associated with which sport?",
-   "o": [
+   "question": "The Ryder Cup is associated with which sport?",
+   "options": [
     "Golf",
     "Polo",
     "Cricket",
     "Hockey"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "The Ryder Cup is a golf competition between teams from the USA and Europe."
+   "answer": 0,
+   "explanation": "The Ryder Cup is a golf competition between teams from the USA and Europe.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "sports-00011",
-   "q": "Which sport is associated with the Thomas Cup?",
-   "o": [
+   "question": "Which sport is associated with the Thomas Cup?",
+   "options": [
     "Badminton",
     "Tennis",
     "Squash",
     "Boxing"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "The Thomas Cup is the men's world badminton team championship."
+   "answer": 0,
+   "explanation": "The Thomas Cup is the men's world badminton team championship.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "sports-00012",
-   "q": "The Ranji Trophy is associated with which sport?",
-   "o": [
+   "question": "The Ranji Trophy is associated with which sport?",
+   "options": [
     "Football",
     "Cricket",
     "Hockey",
     "Kabaddi"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "The Ranji Trophy is a domestic cricket championship in India."
+   "answer": 1,
+   "explanation": "The Ranji Trophy is a domestic cricket championship in India.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "sports-00013",
-   "q": "Santosh Trophy is associated with which sport?",
-   "o": [
+   "question": "Santosh Trophy is associated with which sport?",
+   "options": [
     "Football",
     "Cricket",
     "Hockey",
     "Volleyball"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "The Santosh Trophy is a football competition in India."
+   "answer": 0,
+   "explanation": "The Santosh Trophy is a football competition in India.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "sports-00014",
-   "q": "How many rings are there in the Olympic symbol?",
-   "o": [
+   "question": "How many rings are there in the Olympic symbol?",
+   "options": [
     "4",
     "5",
     "6",
     "7"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "The Olympic symbol has five interlocking rings."
+   "answer": 1,
+   "explanation": "The Olympic symbol has five interlocking rings.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "sports-00015",
-   "q": "In which country were the first modern Olympic Games held?",
-   "o": [
+   "question": "In which country were the first modern Olympic Games held?",
+   "options": [
     "France",
     "Greece",
     "Italy",
     "England"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "The first modern Olympics were held in Athens, Greece, in 1896."
+   "answer": 1,
+   "explanation": "The first modern Olympics were held in Athens, Greece, in 1896.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "sports-00016",
-   "q": "Which Indian won the first individual Olympic gold medal?",
-   "o": [
+   "question": "Which Indian won the first individual Olympic gold medal?",
+   "options": [
     "Abhinav Bindra",
     "Sushil Kumar",
     "Vijender Singh",
     "Neeraj Chopra"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Abhinav Bindra won gold in shooting at the 2008 Beijing Olympics."
+   "answer": 0,
+   "explanation": "Abhinav Bindra won gold in shooting at the 2008 Beijing Olympics.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "sports-00017",
-   "q": "Which Indian athlete won gold in the javelin throw at the Tokyo Olympics?",
-   "o": [
+   "question": "Which Indian athlete won gold in the javelin throw at the Tokyo Olympics?",
+   "options": [
     "Neeraj Chopra",
     "Bajrang Punia",
     "Ravi Dahiya",
     "Mirabai Chanu"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Neeraj Chopra won India's first athletics Olympic gold in 2021."
+   "answer": 0,
+   "explanation": "Neeraj Chopra won India's first athletics Olympic gold in 2021.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "sports-00018",
-   "q": "Who is known as the Flying Sikh?",
-   "o": [
+   "question": "Who is known as the Flying Sikh?",
+   "options": [
     "Milkha Singh",
     "P. T. Usha",
     "Dhyan Chand",
     "Kapil Dev"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Milkha Singh was nicknamed the Flying Sikh."
+   "answer": 0,
+   "explanation": "Milkha Singh was nicknamed the Flying Sikh.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "sports-00019",
-   "q": "Who is known as the Wizard of Hockey?",
-   "o": [
+   "question": "Who is known as the Wizard of Hockey?",
+   "options": [
     "Dhyan Chand",
     "Roop Singh",
     "Balbir Singh",
     "Ajit Pal Singh"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Major Dhyan Chand is called the Wizard of Hockey."
+   "answer": 0,
+   "explanation": "Major Dhyan Chand is called the Wizard of Hockey.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "sports-00020",
-   "q": "In which sport is the term 'googly' used?",
-   "o": [
+   "question": "In which sport is the term 'googly' used?",
+   "options": [
     "Hockey",
     "Cricket",
     "Football",
     "Tennis"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "A googly is a deceptive delivery bowled in cricket."
+   "answer": 1,
+   "explanation": "A googly is a deceptive delivery bowled in cricket.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "sports-00021",
-   "q": "In which sport is the term 'love' used for a score of zero?",
-   "o": [
+   "question": "In which sport is the term 'love' used for a score of zero?",
+   "options": [
     "Badminton",
     "Tennis",
     "Squash",
     "Polo"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "In tennis, zero is called love."
+   "answer": 1,
+   "explanation": "In tennis, zero is called love.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "sports-00022",
-   "q": "Which country hosted the 2020 Summer Olympics (held in 2021)?",
-   "o": [
+   "question": "Which country hosted the 2020 Summer Olympics (held in 2021)?",
+   "options": [
     "China",
     "Japan",
     "Brazil",
     "France"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "The Tokyo Olympics were held in Japan in 2021."
+   "answer": 1,
+   "explanation": "The Tokyo Olympics were held in Japan in 2021.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "sports-00023",
-   "q": "Which Indian sportsperson is called the Queen of Indian Boxing?",
-   "o": [
+   "question": "Which Indian sportsperson is called the Queen of Indian Boxing?",
+   "options": [
     "Mary Kom",
     "Sakshi Malik",
     "P. T. Usha",
     "Sania Mirza"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Mary Kom is a multiple world champion boxer from Manipur."
+   "answer": 0,
+   "explanation": "Mary Kom is a multiple world champion boxer from Manipur.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "sports-00024",
-   "q": "How many players are there in a Cricket team?",
-   "o": [
+   "question": "How many players are there in a Cricket team?",
+   "options": [
     "2",
     "15",
     "4",
     "11"
    ],
-   "a": 3,
-   "t": "Sports Teams",
-   "l": 2,
-   "s": "generated",
-   "e": "A Cricket team has 11 players."
+   "answer": 3,
+   "explanation": "A Cricket team has 11 players.",
+   "topic": "Sports Teams",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00025",
-   "q": "FIH Hockey World Cup is associated with which sport?",
-   "o": [
+   "question": "FIH Hockey World Cup is associated with which sport?",
+   "options": [
     "Football",
     "Hockey",
     "Multi-sport",
     "Cricket"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "FIH Hockey World Cup is associated with Hockey."
+   "answer": 1,
+   "explanation": "FIH Hockey World Cup is associated with Hockey.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00026",
-   "q": "How many players are there in a Polo team?",
-   "o": [
+   "question": "How many players are there in a Polo team?",
+   "options": [
     "4",
     "6",
     "8",
     "7"
    ],
-   "a": 0,
-   "t": "Sports Teams",
-   "l": 2,
-   "s": "generated",
-   "e": "A Polo team has 4 players."
+   "answer": 0,
+   "explanation": "A Polo team has 4 players.",
+   "topic": "Sports Teams",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00027",
-   "q": "Davis Cup is associated with which sport?",
-   "o": [
+   "question": "Davis Cup is associated with which sport?",
+   "options": [
     "Badminton",
     "Cricket",
     "Football",
     "Tennis"
    ],
-   "a": 3,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Davis Cup is associated with Tennis."
+   "answer": 3,
+   "explanation": "Davis Cup is associated with Tennis.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00028",
-   "q": "How many players are there in a Table tennis (singles) team?",
-   "o": [
+   "question": "How many players are there in a Table tennis (singles) team?",
+   "options": [
     "7",
     "15",
     "2",
     "1"
    ],
-   "a": 3,
-   "t": "Sports Teams",
-   "l": 2,
-   "s": "generated",
-   "e": "A Table tennis (singles) team has 1 players."
+   "answer": 3,
+   "explanation": "A Table tennis (singles) team has 1 players.",
+   "topic": "Sports Teams",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00029",
-   "q": "Deodhar Trophy is associated with which sport?",
-   "o": [
+   "question": "Deodhar Trophy is associated with which sport?",
+   "options": [
     "Football",
     "Table Tennis",
     "Cricket",
     "Tennis"
    ],
-   "a": 2,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Deodhar Trophy is associated with Cricket."
+   "answer": 2,
+   "explanation": "Deodhar Trophy is associated with Cricket.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00030",
-   "q": "How many players are there in a Ice hockey team?",
-   "o": [
+   "question": "How many players are there in a Ice hockey team?",
+   "options": [
     "7",
     "2",
     "6",
     "5"
    ],
-   "a": 2,
-   "t": "Sports Teams",
-   "l": 2,
-   "s": "generated",
-   "e": "A Ice hockey team has 6 players."
+   "answer": 2,
+   "explanation": "A Ice hockey team has 6 players.",
+   "topic": "Sports Teams",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00031",
-   "q": "Santosh Trophy is associated with which sport?",
-   "o": [
+   "question": "Santosh Trophy is associated with which sport?",
+   "options": [
     "Badminton",
     "Football",
     "Cricket",
     "Tennis"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Santosh Trophy is associated with Football."
+   "answer": 1,
+   "explanation": "Santosh Trophy is associated with Football.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00032",
-   "q": "How many players are there in a Rugby union team?",
-   "o": [
+   "question": "How many players are there in a Rugby union team?",
+   "options": [
     "15",
     "7",
     "5",
     "6"
    ],
-   "a": 0,
-   "t": "Sports Teams",
-   "l": 2,
-   "s": "generated",
-   "e": "A Rugby union team has 15 players."
+   "answer": 0,
+   "explanation": "A Rugby union team has 15 players.",
+   "topic": "Sports Teams",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00033",
-   "q": "World Cup (Cricket) is associated with which sport?",
-   "o": [
+   "question": "World Cup (Cricket) is associated with which sport?",
+   "options": [
     "Tennis",
     "Football",
     "Hockey",
     "Cricket"
    ],
-   "a": 3,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "World Cup (Cricket) is associated with Cricket."
+   "answer": 3,
+   "explanation": "World Cup (Cricket) is associated with Cricket.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00034",
-   "q": "How many players are there in a Kho Kho team?",
-   "o": [
+   "question": "How many players are there in a Kho Kho team?",
+   "options": [
     "2",
     "8",
     "9",
     "6"
    ],
-   "a": 2,
-   "t": "Sports Teams",
-   "l": 2,
-   "s": "generated",
-   "e": "A Kho Kho team has 9 players."
+   "answer": 2,
+   "explanation": "A Kho Kho team has 9 players.",
+   "topic": "Sports Teams",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00035",
-   "q": "Champions Trophy (Cricket) is associated with which sport?",
-   "o": [
+   "question": "Champions Trophy (Cricket) is associated with which sport?",
+   "options": [
     "Badminton",
     "Multi-sport",
     "Cricket",
     "Football"
    ],
-   "a": 2,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Champions Trophy (Cricket) is associated with Cricket."
+   "answer": 2,
+   "explanation": "Champions Trophy (Cricket) is associated with Cricket.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00036",
-   "q": "How many players are there in a Throwball team?",
-   "o": [
+   "question": "How many players are there in a Throwball team?",
+   "options": [
     "5",
     "6",
     "7",
     "11"
    ],
-   "a": 2,
-   "t": "Sports Teams",
-   "l": 2,
-   "s": "generated",
-   "e": "A Throwball team has 7 players."
+   "answer": 2,
+   "explanation": "A Throwball team has 7 players.",
+   "topic": "Sports Teams",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00037",
-   "q": "Irani Cup is associated with which sport?",
-   "o": [
+   "question": "Irani Cup is associated with which sport?",
+   "options": [
     "Football",
     "Multi-sport",
     "Cricket",
     "Tennis"
    ],
-   "a": 2,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Irani Cup is associated with Cricket."
+   "answer": 2,
+   "explanation": "Irani Cup is associated with Cricket.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00038",
-   "q": "How many players are there in a Badminton (doubles) team?",
-   "o": [
+   "question": "How many players are there in a Badminton (doubles) team?",
+   "options": [
     "9",
     "2",
     "6",
     "7"
    ],
-   "a": 1,
-   "t": "Sports Teams",
-   "l": 2,
-   "s": "generated",
-   "e": "A Badminton (doubles) team has 2 players."
+   "answer": 1,
+   "explanation": "A Badminton (doubles) team has 2 players.",
+   "topic": "Sports Teams",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00039",
-   "q": "Syed Mushtaq Ali Trophy is associated with which sport?",
-   "o": [
+   "question": "Syed Mushtaq Ali Trophy is associated with which sport?",
+   "options": [
     "Hockey",
     "Tennis",
     "Badminton",
     "Cricket"
    ],
-   "a": 3,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Syed Mushtaq Ali Trophy is associated with Cricket."
+   "answer": 3,
+   "explanation": "Syed Mushtaq Ali Trophy is associated with Cricket.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00040",
-   "q": "How many players are there in a Hockey team?",
-   "o": [
+   "question": "How many players are there in a Hockey team?",
+   "options": [
     "6",
     "15",
     "11",
     "7"
    ],
-   "a": 2,
-   "t": "Sports Teams",
-   "l": 2,
-   "s": "generated",
-   "e": "A Hockey team has 11 players."
+   "answer": 2,
+   "explanation": "A Hockey team has 11 players.",
+   "topic": "Sports Teams",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00041",
-   "q": "The Ashes is associated with which sport?",
-   "o": [
+   "question": "The Ashes is associated with which sport?",
+   "options": [
     "Football",
     "Badminton",
     "Cricket",
     "Hockey"
    ],
-   "a": 2,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "The Ashes is associated with Cricket."
+   "answer": 2,
+   "explanation": "The Ashes is associated with Cricket.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00042",
-   "q": "How many players are there in a Volleyball team?",
-   "o": [
+   "question": "How many players are there in a Volleyball team?",
+   "options": [
     "11",
     "7",
     "6",
     "8"
    ],
-   "a": 2,
-   "t": "Sports Teams",
-   "l": 2,
-   "s": "generated",
-   "e": "A Volleyball team has 6 players."
+   "answer": 2,
+   "explanation": "A Volleyball team has 6 players.",
+   "topic": "Sports Teams",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00043",
-   "q": "Asia Cup is associated with which sport?",
-   "o": [
+   "question": "Asia Cup is associated with which sport?",
+   "options": [
     "Cricket",
     "Badminton",
     "Tennis",
     "Hockey"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Asia Cup is associated with Cricket."
+   "answer": 0,
+   "explanation": "Asia Cup is associated with Cricket.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00044",
-   "q": "How many players are there in a Water polo team?",
-   "o": [
+   "question": "How many players are there in a Water polo team?",
+   "options": [
     "7",
     "11",
     "9",
     "1"
    ],
-   "a": 0,
-   "t": "Sports Teams",
-   "l": 2,
-   "s": "generated",
-   "e": "A Water polo team has 7 players."
+   "answer": 0,
+   "explanation": "A Water polo team has 7 players.",
+   "topic": "Sports Teams",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00045",
-   "q": "Subroto Cup is associated with which sport?",
-   "o": [
+   "question": "Subroto Cup is associated with which sport?",
+   "options": [
     "Badminton",
     "Multi-sport",
     "Football",
     "Tennis"
    ],
-   "a": 2,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Subroto Cup is associated with Football."
+   "answer": 2,
+   "explanation": "Subroto Cup is associated with Football.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00046",
-   "q": "How many players are there in a Baseball team?",
-   "o": [
+   "question": "How many players are there in a Baseball team?",
+   "options": [
     "7",
     "9",
     "11",
     "6"
    ],
-   "a": 1,
-   "t": "Sports Teams",
-   "l": 2,
-   "s": "generated",
-   "e": "A Baseball team has 9 players."
+   "answer": 1,
+   "explanation": "A Baseball team has 9 players.",
+   "topic": "Sports Teams",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00047",
-   "q": "Copa America is associated with which sport?",
-   "o": [
+   "question": "Copa America is associated with which sport?",
+   "options": [
     "Football",
     "Hockey",
     "Cricket",
     "Badminton"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Copa America is associated with Football."
+   "answer": 0,
+   "explanation": "Copa America is associated with Football.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00048",
-   "q": "How many players are there in a Football team?",
-   "o": [
+   "question": "How many players are there in a Football team?",
+   "options": [
     "11",
     "7",
     "2",
     "4"
    ],
-   "a": 0,
-   "t": "Sports Teams",
-   "l": 2,
-   "s": "generated",
-   "e": "A Football team has 11 players."
+   "answer": 0,
+   "explanation": "A Football team has 11 players.",
+   "topic": "Sports Teams",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00049",
-   "q": "Ranji Trophy is associated with which sport?",
-   "o": [
+   "question": "Ranji Trophy is associated with which sport?",
+   "options": [
     "Tennis",
     "Football",
     "Cricket",
     "Table Tennis"
    ],
-   "a": 2,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Ranji Trophy is associated with Cricket."
+   "answer": 2,
+   "explanation": "Ranji Trophy is associated with Cricket.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00050",
-   "q": "How many players are there in a Basketball team?",
-   "o": [
+   "question": "How many players are there in a Basketball team?",
+   "options": [
     "11",
     "6",
     "5",
     "7"
    ],
-   "a": 2,
-   "t": "Sports Teams",
-   "l": 2,
-   "s": "generated",
-   "e": "A Basketball team has 5 players."
+   "answer": 2,
+   "explanation": "A Basketball team has 5 players.",
+   "topic": "Sports Teams",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00051",
-   "q": "Rovers Cup is associated with which sport?",
-   "o": [
+   "question": "Rovers Cup is associated with which sport?",
+   "options": [
     "Football",
     "Cricket",
     "Multi-sport",
     "Badminton"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Rovers Cup is associated with Football."
+   "answer": 0,
+   "explanation": "Rovers Cup is associated with Football.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00052",
-   "q": "How many players are there in a Korfball team?",
-   "o": [
+   "question": "How many players are there in a Korfball team?",
+   "options": [
     "11",
     "7",
     "8",
     "2"
    ],
-   "a": 2,
-   "t": "Sports Teams",
-   "l": 2,
-   "s": "generated",
-   "e": "A Korfball team has 8 players."
+   "answer": 2,
+   "explanation": "A Korfball team has 8 players.",
+   "topic": "Sports Teams",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00053",
-   "q": "Corbillon Cup is associated with which sport?",
-   "o": [
+   "question": "Corbillon Cup is associated with which sport?",
+   "options": [
     "Table Tennis",
     "Cricket",
     "Tennis",
     "Football"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Corbillon Cup is associated with Table Tennis."
+   "answer": 0,
+   "explanation": "Corbillon Cup is associated with Table Tennis.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00054",
-   "q": "How many players are there in a Rugby sevens team?",
-   "o": [
+   "question": "How many players are there in a Rugby sevens team?",
+   "options": [
     "4",
     "2",
     "7",
     "5"
    ],
-   "a": 2,
-   "t": "Sports Teams",
-   "l": 2,
-   "s": "generated",
-   "e": "A Rugby sevens team has 7 players."
+   "answer": 2,
+   "explanation": "A Rugby sevens team has 7 players.",
+   "topic": "Sports Teams",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00055",
-   "q": "Duleep Trophy is associated with which sport?",
-   "o": [
+   "question": "Duleep Trophy is associated with which sport?",
+   "options": [
     "Football",
     "Cricket",
     "Golf",
     "Multi-sport"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Duleep Trophy is associated with Cricket."
+   "answer": 1,
+   "explanation": "Duleep Trophy is associated with Cricket.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00056",
-   "q": "How many players are there in a Netball team?",
-   "o": [
+   "question": "How many players are there in a Netball team?",
+   "options": [
     "9",
     "11",
     "7",
     "15"
    ],
-   "a": 2,
-   "t": "Sports Teams",
-   "l": 2,
-   "s": "generated",
-   "e": "A Netball team has 7 players."
+   "answer": 2,
+   "explanation": "A Netball team has 7 players.",
+   "topic": "Sports Teams",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00057",
-   "q": "Australian Open is associated with which sport?",
-   "o": [
+   "question": "Australian Open is associated with which sport?",
+   "options": [
     "Cricket",
     "Table Tennis",
     "Tennis",
     "Football"
    ],
-   "a": 2,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Australian Open is associated with Tennis."
+   "answer": 2,
+   "explanation": "Australian Open is associated with Tennis.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00058",
-   "q": "How many players are there in a Kabaddi team?",
-   "o": [
+   "question": "How many players are there in a Kabaddi team?",
+   "options": [
     "11",
     "9",
     "7",
     "8"
    ],
-   "a": 2,
-   "t": "Sports Teams",
-   "l": 2,
-   "s": "generated",
-   "e": "A Kabaddi team has 7 players."
+   "answer": 2,
+   "explanation": "A Kabaddi team has 7 players.",
+   "topic": "Sports Teams",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00059",
-   "q": "Nehru Cup is associated with which sport?",
-   "o": [
+   "question": "Nehru Cup is associated with which sport?",
+   "options": [
     "Badminton",
     "Hockey",
     "Tennis",
     "Football"
    ],
-   "a": 3,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Nehru Cup is associated with Football."
+   "answer": 3,
+   "explanation": "Nehru Cup is associated with Football.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00060",
-   "q": "How many players are there in a Handball team?",
-   "o": [
+   "question": "How many players are there in a Handball team?",
+   "options": [
     "4",
     "9",
     "7",
     "1"
    ],
-   "a": 2,
-   "t": "Sports Teams",
-   "l": 2,
-   "s": "generated",
-   "e": "A Handball team has 7 players."
+   "answer": 2,
+   "explanation": "A Handball team has 7 players.",
+   "topic": "Sports Teams",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00061",
-   "q": "French Open is associated with which sport?",
-   "o": [
+   "question": "French Open is associated with which sport?",
+   "options": [
     "Hockey",
     "Tennis",
     "Cricket",
     "Football"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "French Open is associated with Tennis."
+   "answer": 1,
+   "explanation": "French Open is associated with Tennis.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00062",
-   "q": "Which sport uses teams of 7 players?",
-   "o": [
+   "question": "Which sport uses teams of 7 players?",
+   "options": [
     "Table tennis (singles)",
     "Netball",
     "Rugby union",
     "Baseball"
    ],
-   "a": 1,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Teams of 7 players play Netball."
+   "answer": 1,
+   "explanation": "Teams of 7 players play Netball.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00063",
-   "q": "Sudirman Cup is associated with which sport?",
-   "o": [
+   "question": "Sudirman Cup is associated with which sport?",
+   "options": [
     "Badminton",
     "Cricket",
     "Table Tennis",
     "Tennis"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Sudirman Cup is associated with Badminton."
+   "answer": 0,
+   "explanation": "Sudirman Cup is associated with Badminton.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00064",
-   "q": "Which sport uses teams of 11 players?",
-   "o": [
+   "question": "Which sport uses teams of 11 players?",
+   "options": [
     "Kho Kho",
     "Basketball",
     "Baseball",
     "Football"
    ],
-   "a": 3,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Teams of 11 players play Football."
+   "answer": 3,
+   "explanation": "Teams of 11 players play Football.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00065",
-   "q": "Bordoloi Trophy is associated with which sport?",
-   "o": [
+   "question": "Bordoloi Trophy is associated with which sport?",
+   "options": [
     "Football",
     "Hockey",
     "Badminton",
     "Cricket"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Bordoloi Trophy is associated with Football."
+   "answer": 0,
+   "explanation": "Bordoloi Trophy is associated with Football.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00066",
-   "q": "Which sport uses teams of 2 players?",
-   "o": [
+   "question": "Which sport uses teams of 2 players?",
+   "options": [
     "Baseball",
     "Badminton (doubles)",
     "Volleyball",
     "Hockey"
    ],
-   "a": 1,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Teams of 2 players play Badminton (doubles)."
+   "answer": 1,
+   "explanation": "Teams of 2 players play Badminton (doubles).",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00067",
-   "q": "Ryder Cup is associated with which sport?",
-   "o": [
+   "question": "Ryder Cup is associated with which sport?",
+   "options": [
     "Tennis",
     "Golf",
     "Cricket",
     "Badminton"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Ryder Cup is associated with Golf."
+   "answer": 1,
+   "explanation": "Ryder Cup is associated with Golf.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00068",
-   "q": "Which sport uses teams of 6 players?",
-   "o": [
+   "question": "Which sport uses teams of 6 players?",
+   "options": [
     "Badminton (doubles)",
     "Volleyball",
     "Basketball",
     "Hockey"
    ],
-   "a": 1,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Teams of 6 players play Volleyball."
+   "answer": 1,
+   "explanation": "Teams of 6 players play Volleyball.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00069",
-   "q": "Wimbledon is associated with which sport?",
-   "o": [
+   "question": "Wimbledon is associated with which sport?",
+   "options": [
     "Cricket",
     "Football",
     "Tennis",
     "Table Tennis"
    ],
-   "a": 2,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Wimbledon is associated with Tennis."
+   "answer": 2,
+   "explanation": "Wimbledon is associated with Tennis.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00070",
-   "q": "Which sport uses teams of 5 players?",
-   "o": [
+   "question": "Which sport uses teams of 5 players?",
+   "options": [
     "Ice hockey",
     "Water polo",
     "Football",
     "Basketball"
    ],
-   "a": 3,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Teams of 5 players play Basketball."
+   "answer": 3,
+   "explanation": "Teams of 5 players play Basketball.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00071",
-   "q": "Vijay Hazare Trophy is associated with which sport?",
-   "o": [
+   "question": "Vijay Hazare Trophy is associated with which sport?",
+   "options": [
     "Table Tennis",
     "Golf",
     "Tennis",
     "Cricket"
    ],
-   "a": 3,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Vijay Hazare Trophy is associated with Cricket."
+   "answer": 3,
+   "explanation": "Vijay Hazare Trophy is associated with Cricket.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00072",
-   "q": "Which sport uses teams of 11 players?",
-   "o": [
+   "question": "Which sport uses teams of 11 players?",
+   "options": [
     "Rugby union",
     "Rugby sevens",
     "Kho Kho",
     "Cricket"
    ],
-   "a": 3,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Teams of 11 players play Cricket."
+   "answer": 3,
+   "explanation": "Teams of 11 players play Cricket.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00073",
-   "q": "All England Open is associated with which sport?",
-   "o": [
+   "question": "All England Open is associated with which sport?",
+   "options": [
     "Tennis",
     "Cricket",
     "Badminton",
     "Golf"
    ],
-   "a": 2,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "All England Open is associated with Badminton."
+   "answer": 2,
+   "explanation": "All England Open is associated with Badminton.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00074",
-   "q": "Which sport uses teams of 7 players?",
-   "o": [
+   "question": "Which sport uses teams of 7 players?",
+   "options": [
     "Netball",
     "Rugby sevens",
     "Hockey",
     "Volleyball"
    ],
-   "a": 1,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Teams of 7 players play Rugby sevens."
+   "answer": 1,
+   "explanation": "Teams of 7 players play Rugby sevens.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00075",
-   "q": "Beighton Cup is associated with which sport?",
-   "o": [
+   "question": "Beighton Cup is associated with which sport?",
+   "options": [
     "Table Tennis",
     "Hockey",
     "Football",
     "Cricket"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Beighton Cup is associated with Hockey."
+   "answer": 1,
+   "explanation": "Beighton Cup is associated with Hockey.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00076",
-   "q": "Which sport uses teams of 7 players?",
-   "o": [
+   "question": "Which sport uses teams of 7 players?",
+   "options": [
     "Netball",
     "Hockey",
     "Kho Kho",
     "Kabaddi"
    ],
-   "a": 3,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Teams of 7 players play Kabaddi."
+   "answer": 3,
+   "explanation": "Teams of 7 players play Kabaddi.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00077",
-   "q": "Uber Cup is associated with which sport?",
-   "o": [
+   "question": "Uber Cup is associated with which sport?",
+   "options": [
     "Tennis",
     "Badminton",
     "Hockey",
     "Cricket"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Uber Cup is associated with Badminton."
+   "answer": 1,
+   "explanation": "Uber Cup is associated with Badminton.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00078",
-   "q": "Which sport uses teams of 9 players?",
-   "o": [
+   "question": "Which sport uses teams of 9 players?",
+   "options": [
     "Kabaddi",
     "Cricket",
     "Badminton (doubles)",
     "Kho Kho"
    ],
-   "a": 3,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Teams of 9 players play Kho Kho."
+   "answer": 3,
+   "explanation": "Teams of 9 players play Kho Kho.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00079",
-   "q": "Durand Cup is associated with which sport?",
-   "o": [
+   "question": "Durand Cup is associated with which sport?",
+   "options": [
     "Football",
     "Tennis",
     "Golf",
     "Cricket"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Durand Cup is associated with Football."
+   "answer": 0,
+   "explanation": "Durand Cup is associated with Football.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00080",
-   "q": "Which sport uses teams of 1 players?",
-   "o": [
+   "question": "Which sport uses teams of 1 players?",
+   "options": [
     "Volleyball",
     "Rugby union",
     "Table tennis (singles)",
     "Badminton (doubles)"
    ],
-   "a": 2,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Teams of 1 players play Table tennis (singles)."
+   "answer": 2,
+   "explanation": "Teams of 1 players play Table tennis (singles).",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00081",
-   "q": "UEFA Champions League is associated with which sport?",
-   "o": [
+   "question": "UEFA Champions League is associated with which sport?",
+   "options": [
     "Cricket",
     "Tennis",
     "Badminton",
     "Football"
    ],
-   "a": 3,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "UEFA Champions League is associated with Football."
+   "answer": 3,
+   "explanation": "UEFA Champions League is associated with Football.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00082",
-   "q": "Which sport uses teams of 7 players?",
-   "o": [
+   "question": "Which sport uses teams of 7 players?",
+   "options": [
     "Handball",
     "Football",
     "Basketball",
     "Kabaddi"
    ],
-   "a": 0,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Teams of 7 players play Handball."
+   "answer": 0,
+   "explanation": "Teams of 7 players play Handball.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00083",
-   "q": "Thomas Cup is associated with which sport?",
-   "o": [
+   "question": "Thomas Cup is associated with which sport?",
+   "options": [
     "Cricket",
     "Football",
     "Hockey",
     "Badminton"
    ],
-   "a": 3,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Thomas Cup is associated with Badminton."
+   "answer": 3,
+   "explanation": "Thomas Cup is associated with Badminton.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00084",
-   "q": "Which sport uses teams of 9 players?",
-   "o": [
+   "question": "Which sport uses teams of 9 players?",
+   "options": [
     "Cricket",
     "Baseball",
     "Kho Kho",
     "Handball"
    ],
-   "a": 1,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Teams of 9 players play Baseball."
+   "answer": 1,
+   "explanation": "Teams of 9 players play Baseball.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00085",
-   "q": "Azlan Shah Trophy is associated with which sport?",
-   "o": [
+   "question": "Azlan Shah Trophy is associated with which sport?",
+   "options": [
     "Football",
     "Tennis",
     "Hockey",
     "Golf"
    ],
-   "a": 2,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Azlan Shah Trophy is associated with Hockey."
+   "answer": 2,
+   "explanation": "Azlan Shah Trophy is associated with Hockey.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00086",
-   "q": "Which sport uses teams of 8 players?",
-   "o": [
+   "question": "Which sport uses teams of 8 players?",
+   "options": [
     "Korfball",
     "Netball",
     "Badminton (doubles)",
     "Kho Kho"
    ],
-   "a": 0,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Teams of 8 players play Korfball."
+   "answer": 0,
+   "explanation": "Teams of 8 players play Korfball.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00087",
-   "q": "Swaythling Cup is associated with which sport?",
-   "o": [
+   "question": "Swaythling Cup is associated with which sport?",
+   "options": [
     "Table Tennis",
     "Football",
     "Hockey",
     "Tennis"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Swaythling Cup is associated with Table Tennis."
+   "answer": 0,
+   "explanation": "Swaythling Cup is associated with Table Tennis.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00088",
-   "q": "Which sport uses teams of 4 players?",
-   "o": [
+   "question": "Which sport uses teams of 4 players?",
+   "options": [
     "Netball",
     "Polo",
     "Rugby sevens",
     "Hockey"
    ],
-   "a": 1,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Teams of 4 players play Polo."
+   "answer": 1,
+   "explanation": "Teams of 4 players play Polo.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00089",
-   "q": "Aga Khan Cup is associated with which sport?",
-   "o": [
+   "question": "Aga Khan Cup is associated with which sport?",
+   "options": [
     "Golf",
     "Football",
     "Hockey",
     "Table Tennis"
    ],
-   "a": 2,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Aga Khan Cup is associated with Hockey."
+   "answer": 2,
+   "explanation": "Aga Khan Cup is associated with Hockey.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00090",
-   "q": "Which sport uses teams of 15 players?",
-   "o": [
+   "question": "Which sport uses teams of 15 players?",
+   "options": [
     "Baseball",
     "Throwball",
     "Rugby union",
     "Badminton (doubles)"
    ],
-   "a": 2,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Teams of 15 players play Rugby union."
+   "answer": 2,
+   "explanation": "Teams of 15 players play Rugby union.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00091",
-   "q": "FIFA World Cup is associated with which sport?",
-   "o": [
+   "question": "FIFA World Cup is associated with which sport?",
+   "options": [
     "Hockey",
     "Football",
     "Cricket",
     "Tennis"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "FIFA World Cup is associated with Football."
+   "answer": 1,
+   "explanation": "FIFA World Cup is associated with Football.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00092",
-   "q": "Which sport uses teams of 6 players?",
-   "o": [
+   "question": "Which sport uses teams of 6 players?",
+   "options": [
     "Badminton (doubles)",
     "Handball",
     "Ice hockey",
     "Table tennis (singles)"
    ],
-   "a": 2,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Teams of 6 players play Ice hockey."
+   "answer": 2,
+   "explanation": "Teams of 6 players play Ice hockey.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00093",
-   "q": "Grand Slam (Tennis) is associated with which sport?",
-   "o": [
+   "question": "Grand Slam (Tennis) is associated with which sport?",
+   "options": [
     "Badminton",
     "Football",
     "Tennis",
     "Cricket"
    ],
-   "a": 2,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Grand Slam (Tennis) is associated with Tennis."
+   "answer": 2,
+   "explanation": "Grand Slam (Tennis) is associated with Tennis.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00094",
-   "q": "Which sport uses teams of 7 players?",
-   "o": [
+   "question": "Which sport uses teams of 7 players?",
+   "options": [
     "Badminton (doubles)",
     "Rugby union",
     "Water polo",
     "Netball"
    ],
-   "a": 2,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Teams of 7 players play Water polo."
+   "answer": 2,
+   "explanation": "Teams of 7 players play Water polo.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00095",
-   "q": "Sultan Azlan Shah Cup is associated with which sport?",
-   "o": [
+   "question": "Sultan Azlan Shah Cup is associated with which sport?",
+   "options": [
     "Football",
     "Hockey",
     "Badminton",
     "Tennis"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Sultan Azlan Shah Cup is associated with Hockey."
+   "answer": 1,
+   "explanation": "Sultan Azlan Shah Cup is associated with Hockey.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00096",
-   "q": "Which sport uses teams of 11 players?",
-   "o": [
+   "question": "Which sport uses teams of 11 players?",
+   "options": [
     "Badminton (doubles)",
     "Throwball",
     "Table tennis (singles)",
     "Hockey"
    ],
-   "a": 3,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Teams of 11 players play Hockey."
+   "answer": 3,
+   "explanation": "Teams of 11 players play Hockey.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00097",
-   "q": "US Open is associated with which sport?",
-   "o": [
+   "question": "US Open is associated with which sport?",
+   "options": [
     "Tennis",
     "Table Tennis",
     "Cricket",
     "Football"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "US Open is associated with Tennis."
+   "answer": 0,
+   "explanation": "US Open is associated with Tennis.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00098",
-   "q": "Which sport uses teams of 7 players?",
-   "o": [
+   "question": "Which sport uses teams of 7 players?",
+   "options": [
     "Handball",
     "Throwball",
     "Rugby union",
     "Table tennis (singles)"
    ],
-   "a": 1,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Teams of 7 players play Throwball."
+   "answer": 1,
+   "explanation": "Teams of 7 players play Throwball.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00099",
-   "q": "Indian Premier League is associated with which sport?",
-   "o": [
+   "question": "Indian Premier League is associated with which sport?",
+   "options": [
     "Cricket",
     "Football",
     "Badminton",
     "Hockey"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Indian Premier League is associated with Cricket."
+   "answer": 0,
+   "explanation": "Indian Premier League is associated with Cricket.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00100",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Water polo - 1",
     "Water polo - 7",
     "Water polo - 11",
     "Water polo - 5"
    ],
-   "a": 1,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Water polo - 7 is correctly matched."
+   "answer": 1,
+   "explanation": "Only Water polo - 7 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00101",
-   "q": "Merdeka Cup is associated with which sport?",
-   "o": [
+   "question": "Merdeka Cup is associated with which sport?",
+   "options": [
     "Table Tennis",
     "Football",
     "Badminton",
     "Tennis"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Merdeka Cup is associated with Football."
+   "answer": 1,
+   "explanation": "Merdeka Cup is associated with Football.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00102",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Water polo - 2",
     "Water polo - 9",
     "Water polo - 11",
     "Water polo - 7"
    ],
-   "a": 3,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Water polo - 7 is correctly matched."
+   "answer": 3,
+   "explanation": "Only Water polo - 7 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00103",
-   "q": "Khelo India Games is associated with which sport?",
-   "o": [
+   "question": "Khelo India Games is associated with which sport?",
+   "options": [
     "Football",
     "Table Tennis",
     "Hockey",
     "Multi-sport"
    ],
-   "a": 3,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Khelo India Games is associated with Multi-sport."
+   "answer": 3,
+   "explanation": "Khelo India Games is associated with Multi-sport.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00104",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Badminton (doubles) - 5",
     "Badminton (doubles) - 2",
     "Badminton (doubles) - 9",
     "Badminton (doubles) - 11"
    ],
-   "a": 1,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Badminton (doubles) - 2 is correctly matched."
+   "answer": 1,
+   "explanation": "Only Badminton (doubles) - 2 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00105",
-   "q": "World Test Championship is associated with which sport?",
-   "o": [
+   "question": "World Test Championship is associated with which sport?",
+   "options": [
     "Cricket",
     "Football",
     "Badminton",
     "Tennis"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "World Test Championship is associated with Cricket."
+   "answer": 0,
+   "explanation": "World Test Championship is associated with Cricket.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00106",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Badminton (doubles) - 8",
     "Badminton (doubles) - 2",
     "Badminton (doubles) - 9",
     "Badminton (doubles) - 7"
    ],
-   "a": 1,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Badminton (doubles) - 2 is correctly matched."
+   "answer": 1,
+   "explanation": "Only Badminton (doubles) - 2 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00107",
-   "q": "Which trophy or cup is associated with Cricket?",
-   "o": [
+   "question": "Which trophy or cup is associated with Cricket?",
+   "options": [
     "Syed Mushtaq Ali Trophy",
     "Bordoloi Trophy",
     "Grand Slam (Tennis)",
     "Swaythling Cup"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Syed Mushtaq Ali Trophy is associated with Cricket."
+   "answer": 0,
+   "explanation": "Syed Mushtaq Ali Trophy is associated with Cricket.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00108",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Basketball - 6",
     "Basketball - 5",
     "Basketball - 9",
     "Basketball - 7"
    ],
-   "a": 1,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Basketball - 5 is correctly matched."
+   "answer": 1,
+   "explanation": "Only Basketball - 5 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00109",
-   "q": "Which trophy or cup is associated with Cricket?",
-   "o": [
+   "question": "Which trophy or cup is associated with Cricket?",
+   "options": [
     "Durand Cup",
     "All England Open",
     "Rovers Cup",
     "World Cup (Cricket)"
    ],
-   "a": 3,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "World Cup (Cricket) is associated with Cricket."
+   "answer": 3,
+   "explanation": "World Cup (Cricket) is associated with Cricket.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00110",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Basketball - 15",
     "Basketball - 7",
     "Basketball - 5",
     "Basketball - 9"
    ],
-   "a": 2,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Basketball - 5 is correctly matched."
+   "answer": 2,
+   "explanation": "Only Basketball - 5 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00111",
-   "q": "Which trophy or cup is associated with Table Tennis?",
-   "o": [
+   "question": "Which trophy or cup is associated with Table Tennis?",
+   "options": [
     "Corbillon Cup",
     "Khelo India Games",
     "Sudirman Cup",
     "Azlan Shah Trophy"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Corbillon Cup is associated with Table Tennis."
+   "answer": 0,
+   "explanation": "Corbillon Cup is associated with Table Tennis.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00112",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Volleyball - 2",
     "Volleyball - 4",
     "Volleyball - 7",
     "Volleyball - 6"
    ],
-   "a": 3,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Volleyball - 6 is correctly matched."
+   "answer": 3,
+   "explanation": "Only Volleyball - 6 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00113",
-   "q": "Which trophy or cup is associated with Tennis?",
-   "o": [
+   "question": "Which trophy or cup is associated with Tennis?",
+   "options": [
     "US Open",
     "World Cup (Cricket)",
     "Aga Khan Cup",
     "Swaythling Cup"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "US Open is associated with Tennis."
+   "answer": 0,
+   "explanation": "US Open is associated with Tennis.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00114",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Volleyball - 9",
     "Volleyball - 6",
     "Volleyball - 7",
     "Volleyball - 15"
    ],
-   "a": 1,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Volleyball - 6 is correctly matched."
+   "answer": 1,
+   "explanation": "Only Volleyball - 6 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00115",
-   "q": "Which trophy or cup is associated with Football?",
-   "o": [
+   "question": "Which trophy or cup is associated with Football?",
+   "options": [
     "Grand Slam (Tennis)",
     "Subroto Cup",
     "World Test Championship",
     "Azlan Shah Trophy"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Subroto Cup is associated with Football."
+   "answer": 1,
+   "explanation": "Subroto Cup is associated with Football.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00116",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Hockey - 7",
     "Hockey - 8",
     "Hockey - 11",
     "Hockey - 4"
    ],
-   "a": 2,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Hockey - 11 is correctly matched."
+   "answer": 2,
+   "explanation": "Only Hockey - 11 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00117",
-   "q": "Which trophy or cup is associated with Hockey?",
-   "o": [
+   "question": "Which trophy or cup is associated with Hockey?",
+   "options": [
     "Sudirman Cup",
     "Beighton Cup",
     "Syed Mushtaq Ali Trophy",
     "Australian Open"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Beighton Cup is associated with Hockey."
+   "answer": 1,
+   "explanation": "Beighton Cup is associated with Hockey.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00118",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Hockey - 7",
     "Hockey - 4",
     "Hockey - 11",
     "Hockey - 5"
    ],
-   "a": 2,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Hockey - 11 is correctly matched."
+   "answer": 2,
+   "explanation": "Only Hockey - 11 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00119",
-   "q": "Which trophy or cup is associated with Football?",
-   "o": [
+   "question": "Which trophy or cup is associated with Football?",
+   "options": [
     "Nehru Cup",
     "Syed Mushtaq Ali Trophy",
     "Vijay Hazare Trophy",
     "World Cup (Cricket)"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Nehru Cup is associated with Football."
+   "answer": 0,
+   "explanation": "Nehru Cup is associated with Football.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00120",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Polo - 7",
     "Polo - 8",
     "Polo - 4",
     "Polo - 5"
    ],
-   "a": 2,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Polo - 4 is correctly matched."
+   "answer": 2,
+   "explanation": "Only Polo - 4 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00121",
-   "q": "Which trophy or cup is associated with Hockey?",
-   "o": [
+   "question": "Which trophy or cup is associated with Hockey?",
+   "options": [
     "Champions Trophy (Cricket)",
     "Azlan Shah Trophy",
     "FIH Hockey World Cup",
     "Khelo India Games"
    ],
-   "a": 2,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "FIH Hockey World Cup is associated with Hockey."
+   "answer": 2,
+   "explanation": "FIH Hockey World Cup is associated with Hockey.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00122",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Polo - 4",
     "Polo - 7",
     "Polo - 6",
     "Polo - 5"
    ],
-   "a": 0,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Polo - 4 is correctly matched."
+   "answer": 0,
+   "explanation": "Only Polo - 4 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00123",
-   "q": "Which trophy or cup is associated with Tennis?",
-   "o": [
+   "question": "Which trophy or cup is associated with Tennis?",
+   "options": [
     "Grand Slam (Tennis)",
     "Subroto Cup",
     "UEFA Champions League",
     "Swaythling Cup"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Grand Slam (Tennis) is associated with Tennis."
+   "answer": 0,
+   "explanation": "Grand Slam (Tennis) is associated with Tennis.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00124",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Rugby sevens - 11",
     "Rugby sevens - 9",
     "Rugby sevens - 7",
     "Rugby sevens - 8"
    ],
-   "a": 2,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Rugby sevens - 7 is correctly matched."
+   "answer": 2,
+   "explanation": "Only Rugby sevens - 7 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00125",
-   "q": "Which trophy or cup is associated with Cricket?",
-   "o": [
+   "question": "Which trophy or cup is associated with Cricket?",
+   "options": [
     "Davis Cup",
     "Vijay Hazare Trophy",
     "Swaythling Cup",
     "US Open"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Vijay Hazare Trophy is associated with Cricket."
+   "answer": 1,
+   "explanation": "Vijay Hazare Trophy is associated with Cricket.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00126",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Rugby sevens - 7",
     "Rugby sevens - 15",
     "Rugby sevens - 1",
     "Rugby sevens - 11"
    ],
-   "a": 0,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Rugby sevens - 7 is correctly matched."
+   "answer": 0,
+   "explanation": "Only Rugby sevens - 7 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00127",
-   "q": "Which trophy or cup is associated with Cricket?",
-   "o": [
+   "question": "Which trophy or cup is associated with Cricket?",
+   "options": [
     "World Test Championship",
     "Duleep Trophy",
     "The Ashes",
     "Azlan Shah Trophy"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "World Test Championship is associated with Cricket."
+   "answer": 0,
+   "explanation": "World Test Championship is associated with Cricket.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00128",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Cricket - 9",
     "Cricket - 11",
     "Cricket - 15",
     "Cricket - 2"
    ],
-   "a": 1,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Cricket - 11 is correctly matched."
+   "answer": 1,
+   "explanation": "Only Cricket - 11 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00129",
-   "q": "Which trophy or cup is associated with Cricket?",
-   "o": [
+   "question": "Which trophy or cup is associated with Cricket?",
+   "options": [
     "Indian Premier League",
     "Swaythling Cup",
     "Wimbledon",
     "World Test Championship"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Indian Premier League is associated with Cricket."
+   "answer": 0,
+   "explanation": "Indian Premier League is associated with Cricket.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00130",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Cricket - 11",
     "Cricket - 2",
     "Cricket - 6",
     "Cricket - 8"
    ],
-   "a": 0,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Cricket - 11 is correctly matched."
+   "answer": 0,
+   "explanation": "Only Cricket - 11 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00131",
-   "q": "Which trophy or cup is associated with Table Tennis?",
-   "o": [
+   "question": "Which trophy or cup is associated with Table Tennis?",
+   "options": [
     "Khelo India Games",
     "Sultan Azlan Shah Cup",
     "Beighton Cup",
     "Swaythling Cup"
    ],
-   "a": 3,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Swaythling Cup is associated with Table Tennis."
+   "answer": 3,
+   "explanation": "Swaythling Cup is associated with Table Tennis.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00132",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Kho Kho - 9",
     "Kho Kho - 7",
     "Kho Kho - 6",
     "Kho Kho - 15"
    ],
-   "a": 0,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Kho Kho - 9 is correctly matched."
+   "answer": 0,
+   "explanation": "Only Kho Kho - 9 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00133",
-   "q": "Which trophy or cup is associated with Badminton?",
-   "o": [
+   "question": "Which trophy or cup is associated with Badminton?",
+   "options": [
     "French Open",
     "All England Open",
     "Aga Khan Cup",
     "Thomas Cup"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "All England Open is associated with Badminton."
+   "answer": 1,
+   "explanation": "All England Open is associated with Badminton.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00134",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Kho Kho - 6",
     "Kho Kho - 8",
     "Kho Kho - 11",
     "Kho Kho - 9"
    ],
-   "a": 3,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Kho Kho - 9 is correctly matched."
+   "answer": 3,
+   "explanation": "Only Kho Kho - 9 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00135",
-   "q": "Which trophy or cup is associated with Football?",
-   "o": [
+   "question": "Which trophy or cup is associated with Football?",
+   "options": [
     "World Cup (Cricket)",
     "Duleep Trophy",
     "UEFA Champions League",
     "Uber Cup"
    ],
-   "a": 2,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "UEFA Champions League is associated with Football."
+   "answer": 2,
+   "explanation": "UEFA Champions League is associated with Football.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00136",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Netball - 4",
     "Netball - 11",
     "Netball - 6",
     "Netball - 7"
    ],
-   "a": 3,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Netball - 7 is correctly matched."
+   "answer": 3,
+   "explanation": "Only Netball - 7 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00137",
-   "q": "Which trophy or cup is associated with Tennis?",
-   "o": [
+   "question": "Which trophy or cup is associated with Tennis?",
+   "options": [
     "Khelo India Games",
     "Wimbledon",
     "Merdeka Cup",
     "FIFA World Cup"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Wimbledon is associated with Tennis."
+   "answer": 1,
+   "explanation": "Wimbledon is associated with Tennis.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00138",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Netball - 7",
     "Netball - 1",
     "Netball - 8",
     "Netball - 5"
    ],
-   "a": 0,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Netball - 7 is correctly matched."
+   "answer": 0,
+   "explanation": "Only Netball - 7 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00139",
-   "q": "Which trophy or cup is associated with Tennis?",
-   "o": [
+   "question": "Which trophy or cup is associated with Tennis?",
+   "options": [
     "Duleep Trophy",
     "Irani Cup",
     "Sultan Azlan Shah Cup",
     "French Open"
    ],
-   "a": 3,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "French Open is associated with Tennis."
+   "answer": 3,
+   "explanation": "French Open is associated with Tennis.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00140",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Baseball - 1",
     "Baseball - 7",
     "Baseball - 2",
     "Baseball - 9"
    ],
-   "a": 3,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Baseball - 9 is correctly matched."
+   "answer": 3,
+   "explanation": "Only Baseball - 9 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00141",
-   "q": "Which trophy or cup is associated with Football?",
-   "o": [
+   "question": "Which trophy or cup is associated with Football?",
+   "options": [
     "Sultan Azlan Shah Cup",
     "Bordoloi Trophy",
     "Merdeka Cup",
     "Vijay Hazare Trophy"
    ],
-   "a": 2,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Merdeka Cup is associated with Football."
+   "answer": 2,
+   "explanation": "Merdeka Cup is associated with Football.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00142",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Baseball - 7",
     "Baseball - 9",
     "Baseball - 4",
     "Baseball - 11"
    ],
-   "a": 1,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Baseball - 9 is correctly matched."
+   "answer": 1,
+   "explanation": "Only Baseball - 9 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00143",
-   "q": "Which trophy or cup is associated with Football?",
-   "o": [
+   "question": "Which trophy or cup is associated with Football?",
+   "options": [
     "US Open",
     "Santosh Trophy",
     "Aga Khan Cup",
     "Grand Slam (Tennis)"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Santosh Trophy is associated with Football."
+   "answer": 1,
+   "explanation": "Santosh Trophy is associated with Football.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00144",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Throwball - 7",
     "Throwball - 11",
     "Throwball - 6",
     "Throwball - 5"
    ],
-   "a": 0,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Throwball - 7 is correctly matched."
+   "answer": 0,
+   "explanation": "Only Throwball - 7 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00145",
-   "q": "Which trophy or cup is associated with Golf?",
-   "o": [
+   "question": "Which trophy or cup is associated with Golf?",
+   "options": [
     "Ryder Cup",
     "Nehru Cup",
     "Corbillon Cup",
     "Irani Cup"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Ryder Cup is associated with Golf."
+   "answer": 0,
+   "explanation": "Ryder Cup is associated with Golf.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00146",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Throwball - 7",
     "Throwball - 5",
     "Throwball - 9",
     "Throwball - 1"
    ],
-   "a": 0,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Throwball - 7 is correctly matched."
+   "answer": 0,
+   "explanation": "Only Throwball - 7 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00147",
-   "q": "Which trophy or cup is associated with Hockey?",
-   "o": [
+   "question": "Which trophy or cup is associated with Hockey?",
+   "options": [
     "Grand Slam (Tennis)",
     "Aga Khan Cup",
     "Durand Cup",
     "World Cup (Cricket)"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Aga Khan Cup is associated with Hockey."
+   "answer": 1,
+   "explanation": "Aga Khan Cup is associated with Hockey.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00148",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Handball - 5",
     "Handball - 11",
     "Handball - 9",
     "Handball - 7"
    ],
-   "a": 3,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Handball - 7 is correctly matched."
+   "answer": 3,
+   "explanation": "Only Handball - 7 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00149",
-   "q": "Which trophy or cup is associated with Tennis?",
-   "o": [
+   "question": "Which trophy or cup is associated with Tennis?",
+   "options": [
     "Davis Cup",
     "Sultan Azlan Shah Cup",
     "Ranji Trophy",
     "Syed Mushtaq Ali Trophy"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Davis Cup is associated with Tennis."
+   "answer": 0,
+   "explanation": "Davis Cup is associated with Tennis.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00150",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Handball - 7",
     "Handball - 4",
     "Handball - 15",
     "Handball - 2"
    ],
-   "a": 0,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Handball - 7 is correctly matched."
+   "answer": 0,
+   "explanation": "Only Handball - 7 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00151",
-   "q": "Which trophy or cup is associated with Football?",
-   "o": [
+   "question": "Which trophy or cup is associated with Football?",
+   "options": [
     "US Open",
     "Beighton Cup",
     "Syed Mushtaq Ali Trophy",
     "Copa America"
    ],
-   "a": 3,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Copa America is associated with Football."
+   "answer": 3,
+   "explanation": "Copa America is associated with Football.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00152",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Table tennis (singles) - 1",
     "Table tennis (singles) - 9",
     "Table tennis (singles) - 7",
     "Table tennis (singles) - 2"
    ],
-   "a": 0,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Table tennis (singles) - 1 is correctly matched."
+   "answer": 0,
+   "explanation": "Only Table tennis (singles) - 1 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00153",
-   "q": "Which trophy or cup is associated with Badminton?",
-   "o": [
+   "question": "Which trophy or cup is associated with Badminton?",
+   "options": [
     "Sudirman Cup",
     "Indian Premier League",
     "Grand Slam (Tennis)",
     "French Open"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Sudirman Cup is associated with Badminton."
+   "answer": 0,
+   "explanation": "Sudirman Cup is associated with Badminton.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00154",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Table tennis (singles) - 6",
     "Table tennis (singles) - 5",
     "Table tennis (singles) - 11",
     "Table tennis (singles) - 1"
    ],
-   "a": 3,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Table tennis (singles) - 1 is correctly matched."
+   "answer": 3,
+   "explanation": "Only Table tennis (singles) - 1 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00155",
-   "q": "Which trophy or cup is associated with Football?",
-   "o": [
+   "question": "Which trophy or cup is associated with Football?",
+   "options": [
     "The Ashes",
     "Bordoloi Trophy",
     "Rovers Cup",
     "Indian Premier League"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Bordoloi Trophy is associated with Football."
+   "answer": 1,
+   "explanation": "Bordoloi Trophy is associated with Football.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00156",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Korfball - 7",
     "Korfball - 5",
     "Korfball - 11",
     "Korfball - 8"
    ],
-   "a": 3,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Korfball - 8 is correctly matched."
+   "answer": 3,
+   "explanation": "Only Korfball - 8 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00157",
-   "q": "Which trophy or cup is associated with Cricket?",
-   "o": [
+   "question": "Which trophy or cup is associated with Cricket?",
+   "options": [
     "Rovers Cup",
     "Davis Cup",
     "Asia Cup",
     "Sultan Azlan Shah Cup"
    ],
-   "a": 2,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Asia Cup is associated with Cricket."
+   "answer": 2,
+   "explanation": "Asia Cup is associated with Cricket.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00158",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Korfball - 2",
     "Korfball - 8",
     "Korfball - 7",
     "Korfball - 11"
    ],
-   "a": 1,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Korfball - 8 is correctly matched."
+   "answer": 1,
+   "explanation": "Only Korfball - 8 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00159",
-   "q": "Which trophy or cup is associated with Cricket?",
-   "o": [
+   "question": "Which trophy or cup is associated with Cricket?",
+   "options": [
     "Ryder Cup",
     "Champions Trophy (Cricket)",
     "Grand Slam (Tennis)",
     "Uber Cup"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Champions Trophy (Cricket) is associated with Cricket."
+   "answer": 1,
+   "explanation": "Champions Trophy (Cricket) is associated with Cricket.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00160",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Kabaddi - 7",
     "Kabaddi - 8",
     "Kabaddi - 6",
     "Kabaddi - 5"
    ],
-   "a": 0,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Kabaddi - 7 is correctly matched."
+   "answer": 0,
+   "explanation": "Only Kabaddi - 7 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00161",
-   "q": "Which trophy or cup is associated with Football?",
-   "o": [
+   "question": "Which trophy or cup is associated with Football?",
+   "options": [
     "Rovers Cup",
     "Subroto Cup",
     "Aga Khan Cup",
     "Corbillon Cup"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Rovers Cup is associated with Football."
+   "answer": 0,
+   "explanation": "Rovers Cup is associated with Football.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00162",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Kabaddi - 11",
     "Kabaddi - 7",
     "Kabaddi - 4",
     "Kabaddi - 9"
    ],
-   "a": 1,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Kabaddi - 7 is correctly matched."
+   "answer": 1,
+   "explanation": "Only Kabaddi - 7 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00163",
-   "q": "Which trophy or cup is associated with Cricket?",
-   "o": [
+   "question": "Which trophy or cup is associated with Cricket?",
+   "options": [
     "Duleep Trophy",
     "Merdeka Cup",
     "Grand Slam (Tennis)",
     "FIFA World Cup"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Duleep Trophy is associated with Cricket."
+   "answer": 0,
+   "explanation": "Duleep Trophy is associated with Cricket.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00164",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Football - 15",
     "Football - 5",
     "Football - 1",
     "Football - 11"
    ],
-   "a": 3,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Football - 11 is correctly matched."
+   "answer": 3,
+   "explanation": "Only Football - 11 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00165",
-   "q": "Which trophy or cup is associated with Cricket?",
-   "o": [
+   "question": "Which trophy or cup is associated with Cricket?",
+   "options": [
     "Deodhar Trophy",
     "Vijay Hazare Trophy",
     "Aga Khan Cup",
     "Corbillon Cup"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Deodhar Trophy is associated with Cricket."
+   "answer": 0,
+   "explanation": "Deodhar Trophy is associated with Cricket.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00166",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Football - 2",
     "Football - 6",
     "Football - 11",
     "Football - 9"
    ],
-   "a": 2,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Football - 11 is correctly matched."
+   "answer": 2,
+   "explanation": "Only Football - 11 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00167",
-   "q": "Which trophy or cup is associated with Multi-sport?",
-   "o": [
+   "question": "Which trophy or cup is associated with Multi-sport?",
+   "options": [
     "Beighton Cup",
     "Santosh Trophy",
     "Khelo India Games",
     "Champions Trophy (Cricket)"
    ],
-   "a": 2,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Khelo India Games is associated with Multi-sport."
+   "answer": 2,
+   "explanation": "Khelo India Games is associated with Multi-sport.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00168",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Ice hockey - 2",
     "Ice hockey - 5",
     "Ice hockey - 6",
     "Ice hockey - 7"
    ],
-   "a": 2,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ice hockey - 6 is correctly matched."
+   "answer": 2,
+   "explanation": "Only Ice hockey - 6 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00169",
-   "q": "Which trophy or cup is associated with Cricket?",
-   "o": [
+   "question": "Which trophy or cup is associated with Cricket?",
+   "options": [
     "Champions Trophy (Cricket)",
     "The Ashes",
     "Merdeka Cup",
     "All England Open"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "The Ashes is associated with Cricket."
+   "answer": 1,
+   "explanation": "The Ashes is associated with Cricket.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00170",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Ice hockey - 2",
     "Ice hockey - 7",
     "Ice hockey - 11",
     "Ice hockey - 6"
    ],
-   "a": 3,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ice hockey - 6 is correctly matched."
+   "answer": 3,
+   "explanation": "Only Ice hockey - 6 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00171",
-   "q": "Which trophy or cup is associated with Hockey?",
-   "o": [
+   "question": "Which trophy or cup is associated with Hockey?",
+   "options": [
     "Sultan Azlan Shah Cup",
     "Grand Slam (Tennis)",
     "Swaythling Cup",
     "Deodhar Trophy"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Sultan Azlan Shah Cup is associated with Hockey."
+   "answer": 0,
+   "explanation": "Sultan Azlan Shah Cup is associated with Hockey.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00172",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Rugby union - 11",
     "Rugby union - 15",
     "Rugby union - 7",
     "Rugby union - 1"
    ],
-   "a": 1,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Rugby union - 15 is correctly matched."
+   "answer": 1,
+   "explanation": "Only Rugby union - 15 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00173",
-   "q": "Which trophy or cup is associated with Football?",
-   "o": [
+   "question": "Which trophy or cup is associated with Football?",
+   "options": [
     "Champions Trophy (Cricket)",
     "Ranji Trophy",
     "Durand Cup",
     "Uber Cup"
    ],
-   "a": 2,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Durand Cup is associated with Football."
+   "answer": 2,
+   "explanation": "Durand Cup is associated with Football.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00174",
-   "q": "Which of the following pairs of sport and number of players is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is correctly matched?",
+   "options": [
     "Rugby union - 7",
     "Rugby union - 15",
     "Rugby union - 9",
     "Rugby union - 1"
    ],
-   "a": 1,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Rugby union - 15 is correctly matched."
+   "answer": 1,
+   "explanation": "Only Rugby union - 15 is correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00175",
-   "q": "Which trophy or cup is associated with Cricket?",
-   "o": [
+   "question": "Which trophy or cup is associated with Cricket?",
+   "options": [
     "Ranji Trophy",
     "US Open",
     "Irani Cup",
     "UEFA Champions League"
    ],
-   "a": 2,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Irani Cup is associated with Cricket."
+   "answer": 2,
+   "explanation": "Irani Cup is associated with Cricket.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00176",
-   "q": "Which of the following pairs of sport and number of players is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is NOT correctly matched?",
+   "options": [
     "Rugby sevens - 7",
     "Water polo - 7",
     "Basketball - 6",
     "Baseball - 9"
    ],
-   "a": 2,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Basketball - 6 is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Basketball - 6 is not correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00177",
-   "q": "Which trophy or cup is associated with Badminton?",
-   "o": [
+   "question": "Which trophy or cup is associated with Badminton?",
+   "options": [
     "Thomas Cup",
     "Merdeka Cup",
     "Irani Cup",
     "Beighton Cup"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Thomas Cup is associated with Badminton."
+   "answer": 0,
+   "explanation": "Thomas Cup is associated with Badminton.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00178",
-   "q": "Which of the following pairs of sport and number of players is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is NOT correctly matched?",
+   "options": [
     "Volleyball - 6",
     "Rugby union - 15",
     "Rugby sevens - 7",
     "Kabaddi - 11"
    ],
-   "a": 3,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Kabaddi - 11 is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Kabaddi - 11 is not correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00179",
-   "q": "Which trophy or cup is associated with Badminton?",
-   "o": [
+   "question": "Which trophy or cup is associated with Badminton?",
+   "options": [
     "Uber Cup",
     "World Cup (Cricket)",
     "Champions Trophy (Cricket)",
     "All England Open"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Uber Cup is associated with Badminton."
+   "answer": 0,
+   "explanation": "Uber Cup is associated with Badminton.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00180",
-   "q": "Which of the following pairs of sport and number of players is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is NOT correctly matched?",
+   "options": [
     "Kabaddi - 7",
     "Polo - 7",
     "Rugby union - 15",
     "Water polo - 7"
    ],
-   "a": 1,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Polo - 7 is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Polo - 7 is not correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00181",
-   "q": "Which trophy or cup is associated with Hockey?",
-   "o": [
+   "question": "Which trophy or cup is associated with Hockey?",
+   "options": [
     "Azlan Shah Trophy",
     "Durand Cup",
     "Uber Cup",
     "UEFA Champions League"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Azlan Shah Trophy is associated with Hockey."
+   "answer": 0,
+   "explanation": "Azlan Shah Trophy is associated with Hockey.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00182",
-   "q": "Which of the following pairs of sport and number of players is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is NOT correctly matched?",
+   "options": [
     "Football - 11",
     "Handball - 7",
     "Rugby sevens - 6",
     "Polo - 4"
    ],
-   "a": 2,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Rugby sevens - 6 is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Rugby sevens - 6 is not correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00183",
-   "q": "Which trophy or cup is associated with Cricket?",
-   "o": [
+   "question": "Which trophy or cup is associated with Cricket?",
+   "options": [
     "Santosh Trophy",
     "Champions Trophy (Cricket)",
     "Subroto Cup",
     "Ranji Trophy"
    ],
-   "a": 3,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Ranji Trophy is associated with Cricket."
+   "answer": 3,
+   "explanation": "Ranji Trophy is associated with Cricket.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00184",
-   "q": "Which of the following pairs of sport and number of players is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is NOT correctly matched?",
+   "options": [
     "Kho Kho - 9",
     "Rugby union - 15",
     "Volleyball - 7",
     "Polo - 4"
    ],
-   "a": 2,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Volleyball - 7 is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Volleyball - 7 is not correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00185",
-   "q": "Which trophy or cup is associated with Football?",
-   "o": [
+   "question": "Which trophy or cup is associated with Football?",
+   "options": [
     "Beighton Cup",
     "Davis Cup",
     "FIFA World Cup",
     "Grand Slam (Tennis)"
    ],
-   "a": 2,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "FIFA World Cup is associated with Football."
+   "answer": 2,
+   "explanation": "FIFA World Cup is associated with Football.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00186",
-   "q": "Which of the following pairs of sport and number of players is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is NOT correctly matched?",
+   "options": [
     "Baseball - 9",
     "Rugby sevens - 7",
     "Football - 9",
     "Table tennis (singles) - 1"
    ],
-   "a": 2,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Football - 9 is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Football - 9 is not correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00187",
-   "q": "Which trophy or cup is associated with Tennis?",
-   "o": [
+   "question": "Which trophy or cup is associated with Tennis?",
+   "options": [
     "Irani Cup",
     "US Open",
     "Corbillon Cup",
     "Australian Open"
    ],
-   "a": 3,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Australian Open is associated with Tennis."
+   "answer": 3,
+   "explanation": "Australian Open is associated with Tennis.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "sports-00188",
-   "q": "Which of the following pairs of sport and number of players is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is NOT correctly matched?",
+   "options": [
     "Netball - 7",
     "Polo - 4",
     "Cricket - 7",
     "Kabaddi - 7"
    ],
-   "a": 2,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Cricket - 7 is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Cricket - 7 is not correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00189",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "Davis Cup - Tennis",
     "Davis Cup - Hockey",
     "Davis Cup - Cricket",
     "Davis Cup - Badminton"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Davis Cup - Tennis is correctly matched."
+   "answer": 0,
+   "explanation": "Only Davis Cup - Tennis is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00190",
-   "q": "Which of the following pairs of sport and number of players is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is NOT correctly matched?",
+   "options": [
     "Rugby sevens - 7",
     "Kabaddi - 7",
     "Throwball - 1",
     "Kho Kho - 9"
    ],
-   "a": 2,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Throwball - 1 is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Throwball - 1 is not correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00191",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "Davis Cup - Cricket",
     "Davis Cup - Tennis",
     "Davis Cup - Golf",
     "Davis Cup - Hockey"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Davis Cup - Tennis is correctly matched."
+   "answer": 1,
+   "explanation": "Only Davis Cup - Tennis is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00192",
-   "q": "Which of the following pairs of sport and number of players is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is NOT correctly matched?",
+   "options": [
     "Rugby union - 15",
     "Football - 11",
     "Kabaddi - 7",
     "Baseball - 8"
    ],
-   "a": 3,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Baseball - 8 is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Baseball - 8 is not correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00193",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "Subroto Cup - Cricket",
     "Subroto Cup - Football",
     "Subroto Cup - Hockey",
     "Subroto Cup - Tennis"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Subroto Cup - Football is correctly matched."
+   "answer": 1,
+   "explanation": "Only Subroto Cup - Football is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00194",
-   "q": "Which of the following pairs of sport and number of players is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is NOT correctly matched?",
+   "options": [
     "Rugby union - 15",
     "Ice hockey - 15",
     "Netball - 7",
     "Kabaddi - 7"
    ],
-   "a": 1,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Ice hockey - 15 is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Ice hockey - 15 is not correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00195",
-   "q": "Which of the following pairs of sport and number of players is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is NOT correctly matched?",
+   "options": [
     "Hockey - 11",
     "Korfball - 8",
     "Kabaddi - 7",
     "Badminton (doubles) - 9"
    ],
-   "a": 3,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Badminton (doubles) - 9 is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Badminton (doubles) - 9 is not correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00196",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "Sultan Azlan Shah Cup - Multi-sport",
     "Sultan Azlan Shah Cup - Hockey",
     "Sultan Azlan Shah Cup - Cricket",
     "Sultan Azlan Shah Cup - Badminton"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Sultan Azlan Shah Cup - Hockey is correctly matched."
+   "answer": 1,
+   "explanation": "Only Sultan Azlan Shah Cup - Hockey is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00197",
-   "q": "Which of the following pairs of sport and number of players is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is NOT correctly matched?",
+   "options": [
     "Water polo - 11",
     "Rugby sevens - 7",
     "Kabaddi - 7",
     "Volleyball - 6"
    ],
-   "a": 0,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Water polo - 11 is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Water polo - 11 is not correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00198",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "Sultan Azlan Shah Cup - Hockey",
     "Sultan Azlan Shah Cup - Football",
     "Sultan Azlan Shah Cup - Cricket",
     "Sultan Azlan Shah Cup - Table Tennis"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Sultan Azlan Shah Cup - Hockey is correctly matched."
+   "answer": 0,
+   "explanation": "Only Sultan Azlan Shah Cup - Hockey is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00199",
-   "q": "Which of the following pairs of sport and number of players is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is NOT correctly matched?",
+   "options": [
     "Cricket - 11",
     "Netball - 6",
     "Throwball - 7",
     "Ice hockey - 6"
    ],
-   "a": 1,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Netball - 6 is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Netball - 6 is not correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00200",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "Champions Trophy (Cricket) - Cricket",
     "Champions Trophy (Cricket) - Badminton",
     "Champions Trophy (Cricket) - Football",
     "Champions Trophy (Cricket) - Tennis"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Champions Trophy (Cricket) - Cricket is correctly matched."
+   "answer": 0,
+   "explanation": "Only Champions Trophy (Cricket) - Cricket is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00201",
-   "q": "Which of the following pairs of sport and number of players is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is NOT correctly matched?",
+   "options": [
     "Hockey - 7",
     "Rugby sevens - 7",
     "Netball - 7",
     "Ice hockey - 6"
    ],
-   "a": 0,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Hockey - 7 is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Hockey - 7 is not correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00202",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "Champions Trophy (Cricket) - Football",
     "Champions Trophy (Cricket) - Cricket",
     "Champions Trophy (Cricket) - Badminton",
     "Champions Trophy (Cricket) - Hockey"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Champions Trophy (Cricket) - Cricket is correctly matched."
+   "answer": 1,
+   "explanation": "Only Champions Trophy (Cricket) - Cricket is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00203",
-   "q": "Which of the following pairs of sport and number of players is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is NOT correctly matched?",
+   "options": [
     "Table tennis (singles) - 7",
     "Cricket - 11",
     "Basketball - 5",
     "Handball - 7"
    ],
-   "a": 0,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Table tennis (singles) - 7 is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Table tennis (singles) - 7 is not correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00204",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "Duleep Trophy - Badminton",
     "Duleep Trophy - Football",
     "Duleep Trophy - Cricket",
     "Duleep Trophy - Tennis"
    ],
-   "a": 2,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Duleep Trophy - Cricket is correctly matched."
+   "answer": 2,
+   "explanation": "Only Duleep Trophy - Cricket is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00205",
-   "q": "Which of the following pairs of sport and number of players is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is NOT correctly matched?",
+   "options": [
     "Kho Kho - 9",
     "Basketball - 5",
     "Korfball - 11",
     "Table tennis (singles) - 1"
    ],
-   "a": 2,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Korfball - 11 is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Korfball - 11 is not correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00206",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "Duleep Trophy - Football",
     "Duleep Trophy - Cricket",
     "Duleep Trophy - Tennis",
     "Duleep Trophy - Hockey"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Duleep Trophy - Cricket is correctly matched."
+   "answer": 1,
+   "explanation": "Only Duleep Trophy - Cricket is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00207",
-   "q": "Which of the following pairs of sport and number of players is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is NOT correctly matched?",
+   "options": [
     "Cricket - 11",
     "Rugby sevens - 7",
     "Throwball - 7",
     "Kho Kho - 11"
    ],
-   "a": 3,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Kho Kho - 11 is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Kho Kho - 11 is not correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00208",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "Asia Cup - Cricket",
     "Asia Cup - Tennis",
     "Asia Cup - Badminton",
     "Asia Cup - Football"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Asia Cup - Cricket is correctly matched."
+   "answer": 0,
+   "explanation": "Only Asia Cup - Cricket is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00209",
-   "q": "Which of the following pairs of sport and number of players is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is NOT correctly matched?",
+   "options": [
     "Ice hockey - 6",
     "Rugby union - 11",
     "Basketball - 5",
     "Handball - 7"
    ],
-   "a": 1,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Rugby union - 11 is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Rugby union - 11 is not correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00210",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "Asia Cup - Tennis",
     "Asia Cup - Cricket",
     "Asia Cup - Football",
     "Asia Cup - Hockey"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Asia Cup - Cricket is correctly matched."
+   "answer": 1,
+   "explanation": "Only Asia Cup - Cricket is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00211",
-   "q": "Which of the following pairs of sport and number of players is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of sport and number of players is NOT correctly matched?",
+   "options": [
     "Handball - 15",
     "Water polo - 7",
     "Basketball - 5",
     "Volleyball - 6"
    ],
-   "a": 0,
-   "t": "Sports Teams",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Handball - 15 is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Handball - 15 is not correctly matched.",
+   "topic": "Sports Teams",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00212",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "Ryder Cup - Cricket",
     "Ryder Cup - Golf",
     "Ryder Cup - Football",
     "Ryder Cup - Badminton"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ryder Cup - Golf is correctly matched."
+   "answer": 1,
+   "explanation": "Only Ryder Cup - Golf is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00213",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "Ryder Cup - Golf",
     "Ryder Cup - Badminton",
     "Ryder Cup - Football",
     "Ryder Cup - Tennis"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ryder Cup - Golf is correctly matched."
+   "answer": 0,
+   "explanation": "Only Ryder Cup - Golf is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00214",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "Wimbledon - Tennis",
     "Wimbledon - Cricket",
     "Wimbledon - Badminton",
     "Wimbledon - Football"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Wimbledon - Tennis is correctly matched."
+   "answer": 0,
+   "explanation": "Only Wimbledon - Tennis is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00215",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "Wimbledon - Tennis",
     "Wimbledon - Badminton",
     "Wimbledon - Multi-sport",
     "Wimbledon - Cricket"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Wimbledon - Tennis is correctly matched."
+   "answer": 0,
+   "explanation": "Only Wimbledon - Tennis is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00216",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "All England Open - Badminton",
     "All England Open - Cricket",
     "All England Open - Hockey",
     "All England Open - Multi-sport"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only All England Open - Badminton is correctly matched."
+   "answer": 0,
+   "explanation": "Only All England Open - Badminton is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00217",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "All England Open - Cricket",
     "All England Open - Tennis",
     "All England Open - Badminton",
     "All England Open - Football"
    ],
-   "a": 2,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only All England Open - Badminton is correctly matched."
+   "answer": 2,
+   "explanation": "Only All England Open - Badminton is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00218",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "Khelo India Games - Tennis",
     "Khelo India Games - Football",
     "Khelo India Games - Multi-sport",
     "Khelo India Games - Table Tennis"
    ],
-   "a": 2,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Khelo India Games - Multi-sport is correctly matched."
+   "answer": 2,
+   "explanation": "Only Khelo India Games - Multi-sport is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00219",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "Khelo India Games - Football",
     "Khelo India Games - Cricket",
     "Khelo India Games - Multi-sport",
     "Khelo India Games - Table Tennis"
    ],
-   "a": 2,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Khelo India Games - Multi-sport is correctly matched."
+   "answer": 2,
+   "explanation": "Only Khelo India Games - Multi-sport is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00220",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "Uber Cup - Football",
     "Uber Cup - Table Tennis",
     "Uber Cup - Tennis",
     "Uber Cup - Badminton"
    ],
-   "a": 3,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Uber Cup - Badminton is correctly matched."
+   "answer": 3,
+   "explanation": "Only Uber Cup - Badminton is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00221",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "Uber Cup - Badminton",
     "Uber Cup - Football",
     "Uber Cup - Cricket",
     "Uber Cup - Hockey"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Uber Cup - Badminton is correctly matched."
+   "answer": 0,
+   "explanation": "Only Uber Cup - Badminton is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00222",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "Thomas Cup - Badminton",
     "Thomas Cup - Football",
     "Thomas Cup - Cricket",
     "Thomas Cup - Table Tennis"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Thomas Cup - Badminton is correctly matched."
+   "answer": 0,
+   "explanation": "Only Thomas Cup - Badminton is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00223",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "Thomas Cup - Badminton",
     "Thomas Cup - Football",
     "Thomas Cup - Hockey",
     "Thomas Cup - Tennis"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Thomas Cup - Badminton is correctly matched."
+   "answer": 0,
+   "explanation": "Only Thomas Cup - Badminton is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00224",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "Bordoloi Trophy - Multi-sport",
     "Bordoloi Trophy - Football",
     "Bordoloi Trophy - Hockey",
     "Bordoloi Trophy - Badminton"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Bordoloi Trophy - Football is correctly matched."
+   "answer": 1,
+   "explanation": "Only Bordoloi Trophy - Football is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00225",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "Bordoloi Trophy - Football",
     "Bordoloi Trophy - Table Tennis",
     "Bordoloi Trophy - Hockey",
     "Bordoloi Trophy - Multi-sport"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Bordoloi Trophy - Football is correctly matched."
+   "answer": 0,
+   "explanation": "Only Bordoloi Trophy - Football is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00226",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "French Open - Cricket",
     "French Open - Football",
     "French Open - Tennis",
     "French Open - Badminton"
    ],
-   "a": 2,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only French Open - Tennis is correctly matched."
+   "answer": 2,
+   "explanation": "Only French Open - Tennis is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00227",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "Corbillon Cup - Cricket",
     "Corbillon Cup - Tennis",
     "Corbillon Cup - Table Tennis",
     "Corbillon Cup - Hockey"
    ],
-   "a": 2,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Corbillon Cup - Table Tennis is correctly matched."
+   "answer": 2,
+   "explanation": "Only Corbillon Cup - Table Tennis is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00228",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "Corbillon Cup - Table Tennis",
     "Corbillon Cup - Cricket",
     "Corbillon Cup - Golf",
     "Corbillon Cup - Hockey"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Corbillon Cup - Table Tennis is correctly matched."
+   "answer": 0,
+   "explanation": "Only Corbillon Cup - Table Tennis is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00229",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "Durand Cup - Tennis",
     "Durand Cup - Cricket",
     "Durand Cup - Football",
     "Durand Cup - Badminton"
    ],
-   "a": 2,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Durand Cup - Football is correctly matched."
+   "answer": 2,
+   "explanation": "Only Durand Cup - Football is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00230",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "Durand Cup - Hockey",
     "Durand Cup - Badminton",
     "Durand Cup - Football",
     "Durand Cup - Cricket"
    ],
-   "a": 2,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Durand Cup - Football is correctly matched."
+   "answer": 2,
+   "explanation": "Only Durand Cup - Football is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00231",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "Copa America - Football",
     "Copa America - Hockey",
     "Copa America - Tennis",
     "Copa America - Cricket"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Copa America - Football is correctly matched."
+   "answer": 0,
+   "explanation": "Only Copa America - Football is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00232",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "Copa America - Cricket",
     "Copa America - Hockey",
     "Copa America - Golf",
     "Copa America - Football"
    ],
-   "a": 3,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Copa America - Football is correctly matched."
+   "answer": 3,
+   "explanation": "Only Copa America - Football is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00233",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "The Ashes - Tennis",
     "The Ashes - Cricket",
     "The Ashes - Hockey",
     "The Ashes - Football"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only The Ashes - Cricket is correctly matched."
+   "answer": 1,
+   "explanation": "Only The Ashes - Cricket is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00234",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "The Ashes - Cricket",
     "The Ashes - Football",
     "The Ashes - Badminton",
     "The Ashes - Tennis"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only The Ashes - Cricket is correctly matched."
+   "answer": 0,
+   "explanation": "Only The Ashes - Cricket is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00235",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "Swaythling Cup - Tennis",
     "Swaythling Cup - Table Tennis",
     "Swaythling Cup - Hockey",
     "Swaythling Cup - Cricket"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Swaythling Cup - Table Tennis is correctly matched."
+   "answer": 1,
+   "explanation": "Only Swaythling Cup - Table Tennis is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00236",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "Swaythling Cup - Cricket",
     "Swaythling Cup - Table Tennis",
     "Swaythling Cup - Tennis",
     "Swaythling Cup - Football"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Swaythling Cup - Table Tennis is correctly matched."
+   "answer": 1,
+   "explanation": "Only Swaythling Cup - Table Tennis is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00237",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "Grand Slam (Tennis) - Football",
     "Grand Slam (Tennis) - Hockey",
     "Grand Slam (Tennis) - Cricket",
     "Grand Slam (Tennis) - Tennis"
    ],
-   "a": 3,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Grand Slam (Tennis) - Tennis is correctly matched."
+   "answer": 3,
+   "explanation": "Only Grand Slam (Tennis) - Tennis is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00238",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "Grand Slam (Tennis) - Football",
     "Grand Slam (Tennis) - Cricket",
     "Grand Slam (Tennis) - Tennis",
     "Grand Slam (Tennis) - Multi-sport"
    ],
-   "a": 2,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Grand Slam (Tennis) - Tennis is correctly matched."
+   "answer": 2,
+   "explanation": "Only Grand Slam (Tennis) - Tennis is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00239",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "Beighton Cup - Hockey",
     "Beighton Cup - Football",
     "Beighton Cup - Badminton",
     "Beighton Cup - Cricket"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Beighton Cup - Hockey is correctly matched."
+   "answer": 0,
+   "explanation": "Only Beighton Cup - Hockey is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00240",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "Santosh Trophy - Table Tennis",
     "Santosh Trophy - Hockey",
     "Santosh Trophy - Tennis",
     "Santosh Trophy - Football"
    ],
-   "a": 3,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Santosh Trophy - Football is correctly matched."
+   "answer": 3,
+   "explanation": "Only Santosh Trophy - Football is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00241",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "Santosh Trophy - Cricket",
     "Santosh Trophy - Tennis",
     "Santosh Trophy - Golf",
     "Santosh Trophy - Football"
    ],
-   "a": 3,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Santosh Trophy - Football is correctly matched."
+   "answer": 3,
+   "explanation": "Only Santosh Trophy - Football is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00242",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "Azlan Shah Trophy - Tennis",
     "Azlan Shah Trophy - Hockey",
     "Azlan Shah Trophy - Cricket",
     "Azlan Shah Trophy - Football"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Azlan Shah Trophy - Hockey is correctly matched."
+   "answer": 1,
+   "explanation": "Only Azlan Shah Trophy - Hockey is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00243",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "Azlan Shah Trophy - Badminton",
     "Azlan Shah Trophy - Football",
     "Azlan Shah Trophy - Multi-sport",
     "Azlan Shah Trophy - Hockey"
    ],
-   "a": 3,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Azlan Shah Trophy - Hockey is correctly matched."
+   "answer": 3,
+   "explanation": "Only Azlan Shah Trophy - Hockey is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00244",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "Sudirman Cup - Tennis",
     "Sudirman Cup - Badminton",
     "Sudirman Cup - Hockey",
     "Sudirman Cup - Cricket"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Sudirman Cup - Badminton is correctly matched."
+   "answer": 1,
+   "explanation": "Only Sudirman Cup - Badminton is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00245",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "Sudirman Cup - Hockey",
     "Sudirman Cup - Badminton",
     "Sudirman Cup - Table Tennis",
     "Sudirman Cup - Football"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Sudirman Cup - Badminton is correctly matched."
+   "answer": 1,
+   "explanation": "Only Sudirman Cup - Badminton is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00246",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "Merdeka Cup - Hockey",
     "Merdeka Cup - Multi-sport",
     "Merdeka Cup - Tennis",
     "Merdeka Cup - Football"
    ],
-   "a": 3,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Merdeka Cup - Football is correctly matched."
+   "answer": 3,
+   "explanation": "Only Merdeka Cup - Football is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00247",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "Merdeka Cup - Football",
     "Merdeka Cup - Hockey",
     "Merdeka Cup - Table Tennis",
     "Merdeka Cup - Tennis"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Merdeka Cup - Football is correctly matched."
+   "answer": 0,
+   "explanation": "Only Merdeka Cup - Football is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00248",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "World Cup (Cricket) - Football",
     "World Cup (Cricket) - Tennis",
     "World Cup (Cricket) - Badminton",
     "World Cup (Cricket) - Cricket"
    ],
-   "a": 3,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only World Cup (Cricket) - Cricket is correctly matched."
+   "answer": 3,
+   "explanation": "Only World Cup (Cricket) - Cricket is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00249",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "World Cup (Cricket) - Hockey",
     "World Cup (Cricket) - Tennis",
     "World Cup (Cricket) - Multi-sport",
     "World Cup (Cricket) - Cricket"
    ],
-   "a": 3,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only World Cup (Cricket) - Cricket is correctly matched."
+   "answer": 3,
+   "explanation": "Only World Cup (Cricket) - Cricket is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00250",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "FIH Hockey World Cup - Hockey",
     "FIH Hockey World Cup - Football",
     "FIH Hockey World Cup - Badminton",
     "FIH Hockey World Cup - Table Tennis"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only FIH Hockey World Cup - Hockey is correctly matched."
+   "answer": 0,
+   "explanation": "Only FIH Hockey World Cup - Hockey is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00251",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "FIH Hockey World Cup - Hockey",
     "FIH Hockey World Cup - Football",
     "FIH Hockey World Cup - Tennis",
     "FIH Hockey World Cup - Cricket"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only FIH Hockey World Cup - Hockey is correctly matched."
+   "answer": 0,
+   "explanation": "Only FIH Hockey World Cup - Hockey is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00252",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "UEFA Champions League - Football",
     "UEFA Champions League - Table Tennis",
     "UEFA Champions League - Cricket",
     "UEFA Champions League - Tennis"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only UEFA Champions League - Football is correctly matched."
+   "answer": 0,
+   "explanation": "Only UEFA Champions League - Football is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00253",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "UEFA Champions League - Cricket",
     "UEFA Champions League - Football",
     "UEFA Champions League - Table Tennis",
     "UEFA Champions League - Badminton"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only UEFA Champions League - Football is correctly matched."
+   "answer": 1,
+   "explanation": "Only UEFA Champions League - Football is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00254",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "FIFA World Cup - Hockey",
     "FIFA World Cup - Football",
     "FIFA World Cup - Cricket",
     "FIFA World Cup - Tennis"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only FIFA World Cup - Football is correctly matched."
+   "answer": 1,
+   "explanation": "Only FIFA World Cup - Football is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00255",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "FIFA World Cup - Tennis",
     "FIFA World Cup - Hockey",
     "FIFA World Cup - Football",
     "FIFA World Cup - Badminton"
    ],
-   "a": 2,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only FIFA World Cup - Football is correctly matched."
+   "answer": 2,
+   "explanation": "Only FIFA World Cup - Football is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00256",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "US Open - Football",
     "US Open - Cricket",
     "US Open - Tennis",
     "US Open - Badminton"
    ],
-   "a": 2,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only US Open - Tennis is correctly matched."
+   "answer": 2,
+   "explanation": "Only US Open - Tennis is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00257",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "US Open - Tennis",
     "US Open - Table Tennis",
     "US Open - Football",
     "US Open - Cricket"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only US Open - Tennis is correctly matched."
+   "answer": 0,
+   "explanation": "Only US Open - Tennis is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00258",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "Irani Cup - Badminton",
     "Irani Cup - Cricket",
     "Irani Cup - Football",
     "Irani Cup - Tennis"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Irani Cup - Cricket is correctly matched."
+   "answer": 1,
+   "explanation": "Only Irani Cup - Cricket is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00259",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "Irani Cup - Football",
     "Irani Cup - Cricket",
     "Irani Cup - Golf",
     "Irani Cup - Badminton"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Irani Cup - Cricket is correctly matched."
+   "answer": 1,
+   "explanation": "Only Irani Cup - Cricket is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "sports-00260",
-   "q": "Which of the following pairs of trophy and sport is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of trophy and sport is correctly matched?",
+   "options": [
     "Rovers Cup - Golf",
     "Rovers Cup - Football",
     "Rovers Cup - Table Tennis",
     "Rovers Cup - Cricket"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Rovers Cup - Football is correctly matched."
+   "answer": 1,
+   "explanation": "Only Rovers Cup - Football is correctly matched.",
+   "topic": "Trophies and Cups",
+   "level": 3,
+   "source": "generated"
   }
  ]
 };

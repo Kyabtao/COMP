@@ -15,4203 +15,4203 @@
  "questions": [
   {
    "id": "biology-00001",
-   "q": "Which organ pumps blood in the human body?",
-   "o": [
+   "question": "Which organ pumps blood in the human body?",
+   "options": [
     "Liver",
     "Heart",
     "Lungs",
     "Kidney"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "The heart pumps blood through the circulatory system."
+   "answer": 1,
+   "explanation": "The heart pumps blood through the circulatory system.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "biology-00002",
-   "q": "Which is the largest organ of the human body?",
-   "o": [
+   "question": "Which is the largest organ of the human body?",
+   "options": [
     "Skin",
     "Liver",
     "Brain",
     "Lungs"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "The skin is the largest organ by surface area and weight."
+   "answer": 0,
+   "explanation": "The skin is the largest organ by surface area and weight.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "biology-00003",
-   "q": "How many bones are there in the adult human body?",
-   "o": [
+   "question": "How many bones are there in the adult human body?",
+   "options": [
     "206",
     "300",
     "180",
     "220"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "An adult human skeleton has 206 bones."
+   "answer": 0,
+   "explanation": "An adult human skeleton has 206 bones.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "biology-00004",
-   "q": "Which blood group is called the universal donor?",
-   "o": [
+   "question": "Which blood group is called the universal donor?",
+   "options": [
     "AB positive",
     "O negative",
     "A positive",
     "B negative"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "O negative blood can be given to almost any recipient."
+   "answer": 1,
+   "explanation": "O negative blood can be given to almost any recipient.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "biology-00005",
-   "q": "Which pigment gives colour to human blood?",
-   "o": [
+   "question": "Which pigment gives colour to human blood?",
+   "options": [
     "Chlorophyll",
     "Haemoglobin",
     "Melanin",
     "Carotene"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Haemoglobin in red blood cells carries oxygen and gives blood its colour."
+   "answer": 1,
+   "explanation": "Haemoglobin in red blood cells carries oxygen and gives blood its colour.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "biology-00006",
-   "q": "Which vitamin is produced in the skin in sunlight?",
-   "o": [
+   "question": "Which vitamin is produced in the skin in sunlight?",
+   "options": [
     "Vitamin A",
     "Vitamin B12",
     "Vitamin C",
     "Vitamin D"
    ],
-   "a": 3,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Sunlight helps the skin synthesise vitamin D."
+   "answer": 3,
+   "explanation": "Sunlight helps the skin synthesise vitamin D.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "biology-00007",
-   "q": "Which gland is called the master gland of the body?",
-   "o": [
+   "question": "Which gland is called the master gland of the body?",
+   "options": [
     "Thyroid",
     "Pituitary",
     "Adrenal",
     "Pancreas"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "The pituitary gland controls the secretions of other endocrine glands."
+   "answer": 1,
+   "explanation": "The pituitary gland controls the secretions of other endocrine glands.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "biology-00008",
-   "q": "Which part of the brain controls balance and coordination?",
-   "o": [
+   "question": "Which part of the brain controls balance and coordination?",
+   "options": [
     "Cerebrum",
     "Cerebellum",
     "Medulla",
     "Hypothalamus"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "The cerebellum maintains posture and balance."
+   "answer": 1,
+   "explanation": "The cerebellum maintains posture and balance.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "biology-00009",
-   "q": "Which is the powerhouse of the cell?",
-   "o": [
+   "question": "Which is the powerhouse of the cell?",
+   "options": [
     "Nucleus",
     "Ribosome",
     "Mitochondria",
     "Golgi body"
    ],
-   "a": 2,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Mitochondria release energy in the form of ATP."
+   "answer": 2,
+   "explanation": "Mitochondria release energy in the form of ATP.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "biology-00010",
-   "q": "Which structure is responsible for photosynthesis in plants?",
-   "o": [
+   "question": "Which structure is responsible for photosynthesis in plants?",
+   "options": [
     "Mitochondria",
     "Chloroplast",
     "Vacuole",
     "Nucleus"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Chloroplasts contain chlorophyll that traps light energy."
+   "answer": 1,
+   "explanation": "Chloroplasts contain chlorophyll that traps light energy.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "biology-00011",
-   "q": "Which is the male reproductive cell in plants?",
-   "o": [
+   "question": "Which is the male reproductive cell in plants?",
+   "options": [
     "Ovum",
     "Pollen grain",
     "Zygote",
     "Embryo"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Pollen grains carry the male gametes in flowering plants."
+   "answer": 1,
+   "explanation": "Pollen grains carry the male gametes in flowering plants.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "biology-00012",
-   "q": "Which gas do plants absorb during photosynthesis?",
-   "o": [
+   "question": "Which gas do plants absorb during photosynthesis?",
+   "options": [
     "Oxygen",
     "Carbon dioxide",
     "Nitrogen",
     "Hydrogen"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Plants use carbon dioxide and release oxygen during photosynthesis."
+   "answer": 1,
+   "explanation": "Plants use carbon dioxide and release oxygen during photosynthesis.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "biology-00013",
-   "q": "Which microbe causes malaria?",
-   "o": [
+   "question": "Which microbe causes malaria?",
+   "options": [
     "Virus",
     "Plasmodium",
     "Bacteria",
     "Fungus"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Malaria is caused by the protozoan Plasmodium."
+   "answer": 1,
+   "explanation": "Malaria is caused by the protozoan Plasmodium.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "biology-00014",
-   "q": "Which microbe causes tuberculosis?",
-   "o": [
+   "question": "Which microbe causes tuberculosis?",
+   "options": [
     "Bacteria",
     "Virus",
     "Fungus",
     "Protozoa"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Tuberculosis is caused by Mycobacterium tuberculosis, a bacterium."
+   "answer": 0,
+   "explanation": "Tuberculosis is caused by Mycobacterium tuberculosis, a bacterium.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "biology-00015",
-   "q": "Which deficiency causes scurvy?",
-   "o": [
+   "question": "Which deficiency causes scurvy?",
+   "options": [
     "Vitamin A",
     "Vitamin B",
     "Vitamin C",
     "Vitamin D"
    ],
-   "a": 2,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Lack of vitamin C causes scurvy."
+   "answer": 2,
+   "explanation": "Lack of vitamin C causes scurvy.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "biology-00016",
-   "q": "Which deficiency causes night blindness?",
-   "o": [
+   "question": "Which deficiency causes night blindness?",
+   "options": [
     "Vitamin A",
     "Vitamin C",
     "Vitamin D",
     "Vitamin K"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Vitamin A deficiency impairs vision in dim light."
+   "answer": 0,
+   "explanation": "Vitamin A deficiency impairs vision in dim light.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "biology-00017",
-   "q": "Which disease is caused by the deficiency of iodine?",
-   "o": [
+   "question": "Which disease is caused by the deficiency of iodine?",
+   "options": [
     "Anaemia",
     "Goitre",
     "Rickets",
     "Beri Beri"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Iodine deficiency causes enlargement of the thyroid gland."
+   "answer": 1,
+   "explanation": "Iodine deficiency causes enlargement of the thyroid gland.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "biology-00018",
-   "q": "Hemoglobin is present in which type of blood cell?",
-   "o": [
+   "question": "Hemoglobin is present in which type of blood cell?",
+   "options": [
     "White blood cells",
     "Red blood cells",
     "Platelets",
     "Plasma"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Red blood cells contain haemoglobin."
+   "answer": 1,
+   "explanation": "Red blood cells contain haemoglobin.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "biology-00019",
-   "q": "Which part of the human body produces insulin?",
-   "o": [
+   "question": "Which part of the human body produces insulin?",
+   "options": [
     "Liver",
     "Pancreas",
     "Kidney",
     "Spleen"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "The beta cells of the pancreas produce insulin."
+   "answer": 1,
+   "explanation": "The beta cells of the pancreas produce insulin.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "biology-00020",
-   "q": "Which is the smallest bone in the human body?",
-   "o": [
+   "question": "Which is the smallest bone in the human body?",
+   "options": [
     "Stapes",
     "Femur",
     "Tibia",
     "Radius"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 3,
-   "s": "curated",
-   "e": "The stapes in the middle ear is the smallest bone."
+   "answer": 0,
+   "explanation": "The stapes in the middle ear is the smallest bone.",
+   "topic": "Curated",
+   "level": 3,
+   "source": "curated"
   },
   {
    "id": "biology-00021",
-   "q": "Which is the longest bone in the human body?",
-   "o": [
+   "question": "Which is the longest bone in the human body?",
+   "options": [
     "Femur",
     "Tibia",
     "Humerus",
     "Fibula"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "The femur or thigh bone is the longest bone."
+   "answer": 0,
+   "explanation": "The femur or thigh bone is the longest bone.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "biology-00022",
-   "q": "The study of birds is called:",
-   "o": [
+   "question": "The study of birds is called:",
+   "options": [
     "Ornithology",
     "Entomology",
     "Ichthyology",
     "Herpetology"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Ornithology is the study of birds."
+   "answer": 0,
+   "explanation": "Ornithology is the study of birds.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "biology-00023",
-   "q": "What is the main function of the Neurons in the human body?",
-   "o": [
+   "question": "What is the main function of the Neurons in the human body?",
+   "options": [
     "Helps in breathing",
     "Transmission of nerve impulses",
     "Sensitive layer of the eye",
     "Pumping blood"
    ],
-   "a": 1,
-   "t": "Human Body",
-   "l": 2,
-   "s": "generated",
-   "e": "The Neurons is responsible for Transmission of nerve impulses."
+   "answer": 1,
+   "explanation": "The Neurons is responsible for Transmission of nerve impulses.",
+   "topic": "Human Body",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00024",
-   "q": "Deficiency of which nutrient causes Anaemia?",
-   "o": [
+   "question": "Deficiency of which nutrient causes Anaemia?",
+   "options": [
     "Vitamin E",
     "Potassium",
     "Vitamin B6",
     "Iron"
    ],
-   "a": 2,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Vitamin B6 causes Anaemia."
+   "answer": 2,
+   "explanation": "Deficiency of Vitamin B6 causes Anaemia.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00025",
-   "q": "Which of the following causes Hepatitis B?",
-   "o": [
+   "question": "Which of the following causes Hepatitis B?",
+   "options": [
     "Leishmania donovani",
     "Hepatitis B virus",
     "Measles virus",
     "Plasmodium"
    ],
-   "a": 1,
-   "t": "Diseases and Causative Agents",
-   "l": 2,
-   "s": "generated",
-   "e": "Hepatitis B is caused by Hepatitis B virus."
+   "answer": 1,
+   "explanation": "Hepatitis B is caused by Hepatitis B virus.",
+   "topic": "Diseases and Causative Agents",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00026",
-   "q": "What is the main function of the Skin in the human body?",
-   "o": [
+   "question": "What is the main function of the Skin in the human body?",
+   "options": [
     "Protection and temperature regulation",
     "Increase surface area for absorption",
     "Basic filtering units of the kidney",
     "Helps in breathing"
    ],
-   "a": 0,
-   "t": "Human Body",
-   "l": 2,
-   "s": "generated",
-   "e": "The Skin is responsible for Protection and temperature regulation."
+   "answer": 0,
+   "explanation": "The Skin is responsible for Protection and temperature regulation.",
+   "topic": "Human Body",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00027",
-   "q": "Deficiency of which nutrient causes Anaemia and bone disorders?",
-   "o": [
+   "question": "Deficiency of which nutrient causes Anaemia and bone disorders?",
+   "options": [
     "Vitamin B2",
     "Vitamin A",
     "Copper",
     "Vitamin B1"
    ],
-   "a": 2,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Copper causes Anaemia and bone disorders."
+   "answer": 2,
+   "explanation": "Deficiency of Copper causes Anaemia and bone disorders.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00028",
-   "q": "Which of the following causes Poliomyelitis?",
-   "o": [
+   "question": "Which of the following causes Poliomyelitis?",
+   "options": [
     "Poliovirus",
     "Sarcoptes scabiei mite",
     "Hepatitis A virus",
     "Leishmania donovani"
    ],
-   "a": 0,
-   "t": "Diseases and Causative Agents",
-   "l": 2,
-   "s": "generated",
-   "e": "Poliomyelitis is caused by Poliovirus."
+   "answer": 0,
+   "explanation": "Poliomyelitis is caused by Poliovirus.",
+   "topic": "Diseases and Causative Agents",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00029",
-   "q": "What is the main function of the Stomach in the human body?",
-   "o": [
+   "question": "What is the main function of the Stomach in the human body?",
+   "options": [
     "Controls body metabolism",
     "Transport of oxygen",
     "Master gland of the body",
     "Digestion of food"
    ],
-   "a": 3,
-   "t": "Human Body",
-   "l": 2,
-   "s": "generated",
-   "e": "The Stomach is responsible for Digestion of food."
+   "answer": 3,
+   "explanation": "The Stomach is responsible for Digestion of food.",
+   "topic": "Human Body",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00030",
-   "q": "Deficiency of which nutrient causes Megaloblastic anaemia?",
-   "o": [
+   "question": "Deficiency of which nutrient causes Megaloblastic anaemia?",
+   "options": [
     "Vitamin B1",
     "Sodium",
     "Vitamin B9",
     "Vitamin K"
    ],
-   "a": 2,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Vitamin B9 causes Megaloblastic anaemia."
+   "answer": 2,
+   "explanation": "Deficiency of Vitamin B9 causes Megaloblastic anaemia.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00031",
-   "q": "Which of the following causes Tuberculosis?",
-   "o": [
+   "question": "Which of the following causes Tuberculosis?",
+   "options": [
     "Streptococcus pneumoniae bacteria",
     "Wuchereria bancrofti",
     "Bacillus anthracis bacteria",
     "Mycobacterium tuberculosis bacteria"
    ],
-   "a": 3,
-   "t": "Diseases and Causative Agents",
-   "l": 2,
-   "s": "generated",
-   "e": "Tuberculosis is caused by Mycobacterium tuberculosis bacteria."
+   "answer": 3,
+   "explanation": "Tuberculosis is caused by Mycobacterium tuberculosis bacteria.",
+   "topic": "Diseases and Causative Agents",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00032",
-   "q": "What is the main function of the Hemoglobin in the human body?",
-   "o": [
+   "question": "What is the main function of the Hemoglobin in the human body?",
+   "options": [
     "Oxygen carrying pigment",
     "Filtration of blood and urine formation",
     "Basic filtering units of the kidney",
     "Production of sperm"
    ],
-   "a": 0,
-   "t": "Human Body",
-   "l": 2,
-   "s": "generated",
-   "e": "The Hemoglobin is responsible for Oxygen carrying pigment."
+   "answer": 0,
+   "explanation": "The Hemoglobin is responsible for Oxygen carrying pigment.",
+   "topic": "Human Body",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00033",
-   "q": "Deficiency of which nutrient causes Tetany?",
-   "o": [
+   "question": "Deficiency of which nutrient causes Tetany?",
+   "options": [
     "Vitamin B2",
     "Vitamin B1",
     "Magnesium",
     "Vitamin B5"
    ],
-   "a": 2,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Magnesium causes Tetany."
+   "answer": 2,
+   "explanation": "Deficiency of Magnesium causes Tetany.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00034",
-   "q": "Which of the following causes Common cold?",
-   "o": [
+   "question": "Which of the following causes Common cold?",
+   "options": [
     "Rhinovirus",
     "Salmonella typhi bacteria",
     "Hepatitis A virus",
     "Neisseria gonorrhoeae bacteria"
    ],
-   "a": 0,
-   "t": "Diseases and Causative Agents",
-   "l": 2,
-   "s": "generated",
-   "e": "Common cold is caused by Rhinovirus."
+   "answer": 0,
+   "explanation": "Common cold is caused by Rhinovirus.",
+   "topic": "Diseases and Causative Agents",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00035",
-   "q": "What is the main function of the Platelets in the human body?",
-   "o": [
+   "question": "What is the main function of the Platelets in the human body?",
+   "options": [
     "Production of blood cells",
     "Clotting of blood",
     "Protection and temperature regulation",
     "Pumping blood"
    ],
-   "a": 1,
-   "t": "Human Body",
-   "l": 2,
-   "s": "generated",
-   "e": "The Platelets is responsible for Clotting of blood."
+   "answer": 1,
+   "explanation": "The Platelets is responsible for Clotting of blood.",
+   "topic": "Human Body",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00036",
-   "q": "Deficiency of which nutrient causes Growth retardation?",
-   "o": [
+   "question": "Deficiency of which nutrient causes Growth retardation?",
+   "options": [
     "Vitamin K",
     "Vitamin B5",
     "Copper",
     "Zinc"
    ],
-   "a": 3,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Zinc causes Growth retardation."
+   "answer": 3,
+   "explanation": "Deficiency of Zinc causes Growth retardation.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00037",
-   "q": "Which of the following causes Amoebic dysentery?",
-   "o": [
+   "question": "Which of the following causes Amoebic dysentery?",
+   "options": [
     "Influenza virus",
     "Entamoeba histolytica",
     "Poliovirus",
     "Plasmodium"
    ],
-   "a": 1,
-   "t": "Diseases and Causative Agents",
-   "l": 2,
-   "s": "generated",
-   "e": "Amoebic dysentery is caused by Entamoeba histolytica."
+   "answer": 1,
+   "explanation": "Amoebic dysentery is caused by Entamoeba histolytica.",
+   "topic": "Diseases and Causative Agents",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00038",
-   "q": "What is the main function of the Lungs in the human body?",
-   "o": [
+   "question": "What is the main function of the Lungs in the human body?",
+   "options": [
     "Oxygen carrying pigment",
     "Absorption of water",
     "Transport of oxygen",
     "Exchange of gases"
    ],
-   "a": 3,
-   "t": "Human Body",
-   "l": 2,
-   "s": "generated",
-   "e": "The Lungs is responsible for Exchange of gases."
+   "answer": 3,
+   "explanation": "The Lungs is responsible for Exchange of gases.",
+   "topic": "Human Body",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00039",
-   "q": "Deficiency of which nutrient causes Pernicious anaemia?",
-   "o": [
+   "question": "Deficiency of which nutrient causes Pernicious anaemia?",
+   "options": [
     "Iodine",
     "Vitamin A",
     "Vitamin B12",
     "Vitamin B6"
    ],
-   "a": 2,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Vitamin B12 causes Pernicious anaemia."
+   "answer": 2,
+   "explanation": "Deficiency of Vitamin B12 causes Pernicious anaemia.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00040",
-   "q": "Which of the following causes Dengue?",
-   "o": [
+   "question": "Which of the following causes Dengue?",
+   "options": [
     "Rhinovirus",
     "Clostridium tetani bacteria",
     "Wuchereria bancrofti",
     "Dengue virus"
    ],
-   "a": 3,
-   "t": "Diseases and Causative Agents",
-   "l": 2,
-   "s": "generated",
-   "e": "Dengue is caused by Dengue virus."
+   "answer": 3,
+   "explanation": "Dengue is caused by Dengue virus.",
+   "topic": "Diseases and Causative Agents",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00041",
-   "q": "What is the main function of the Pituitary gland in the human body?",
-   "o": [
+   "question": "What is the main function of the Pituitary gland in the human body?",
+   "options": [
     "Formation of blood cells",
     "Hearing in the ear",
     "Master gland of the body",
     "Largest vein"
    ],
-   "a": 2,
-   "t": "Human Body",
-   "l": 2,
-   "s": "generated",
-   "e": "The Pituitary gland is responsible for Master gland of the body."
+   "answer": 2,
+   "explanation": "The Pituitary gland is responsible for Master gland of the body.",
+   "topic": "Human Body",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00042",
-   "q": "Deficiency of which nutrient causes Rickets in children?",
-   "o": [
+   "question": "Deficiency of which nutrient causes Rickets in children?",
+   "options": [
     "Phosphorus",
     "Iodine",
     "Vitamin B9",
     "Vitamin B7"
    ],
-   "a": 0,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Phosphorus causes Rickets in children."
+   "answer": 0,
+   "explanation": "Deficiency of Phosphorus causes Rickets in children.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00043",
-   "q": "Which of the following causes Anthrax?",
-   "o": [
+   "question": "Which of the following causes Anthrax?",
+   "options": [
     "Bordetella pertussis bacteria",
     "Varicella zoster virus",
     "Bacillus anthracis bacteria",
     "Yellow fever virus"
    ],
-   "a": 2,
-   "t": "Diseases and Causative Agents",
-   "l": 2,
-   "s": "generated",
-   "e": "Anthrax is caused by Bacillus anthracis bacteria."
+   "answer": 2,
+   "explanation": "Anthrax is caused by Bacillus anthracis bacteria.",
+   "topic": "Diseases and Causative Agents",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00044",
-   "q": "What is the main function of the White blood cells in the human body?",
-   "o": [
+   "question": "What is the main function of the White blood cells in the human body?",
+   "options": [
     "Production of blood cells",
     "Body immunity",
     "Secretion of insulin",
     "Digestion of food"
    ],
-   "a": 1,
-   "t": "Human Body",
-   "l": 2,
-   "s": "generated",
-   "e": "The White blood cells is responsible for Body immunity."
+   "answer": 1,
+   "explanation": "The White blood cells is responsible for Body immunity.",
+   "topic": "Human Body",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00045",
-   "q": "Deficiency of which nutrient causes Pellagra?",
-   "o": [
+   "question": "Deficiency of which nutrient causes Pellagra?",
+   "options": [
     "Phosphorus",
     "Vitamin B3",
     "Potassium",
     "Zinc"
    ],
-   "a": 1,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Vitamin B3 causes Pellagra."
+   "answer": 1,
+   "explanation": "Deficiency of Vitamin B3 causes Pellagra.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00046",
-   "q": "Which of the following causes Ringworm?",
-   "o": [
+   "question": "Which of the following causes Ringworm?",
+   "options": [
     "Influenza virus",
     "Fungi",
     "Corynebacterium diphtheriae bacteria",
     "Mycobacterium tuberculosis bacteria"
    ],
-   "a": 1,
-   "t": "Diseases and Causative Agents",
-   "l": 2,
-   "s": "generated",
-   "e": "Ringworm is caused by Fungi."
+   "answer": 1,
+   "explanation": "Ringworm is caused by Fungi.",
+   "topic": "Diseases and Causative Agents",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00047",
-   "q": "What is the main function of the Diaphragm in the human body?",
-   "o": [
+   "question": "What is the main function of the Diaphragm in the human body?",
+   "options": [
     "Controls blood sugar",
     "Exchange of gases",
     "Detoxification and bile secretion",
     "Helps in breathing"
    ],
-   "a": 3,
-   "t": "Human Body",
-   "l": 2,
-   "s": "generated",
-   "e": "The Diaphragm is responsible for Helps in breathing."
+   "answer": 3,
+   "explanation": "The Diaphragm is responsible for Helps in breathing.",
+   "topic": "Human Body",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00048",
-   "q": "Deficiency of which nutrient causes Osteoporosis?",
-   "o": [
+   "question": "Deficiency of which nutrient causes Osteoporosis?",
+   "options": [
     "Vitamin D",
     "Iron",
     "Calcium",
     "Vitamin K and Protein"
    ],
-   "a": 2,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Calcium causes Osteoporosis."
+   "answer": 2,
+   "explanation": "Deficiency of Calcium causes Osteoporosis.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00049",
-   "q": "Which of the following causes Kala-azar?",
-   "o": [
+   "question": "Which of the following causes Kala-azar?",
+   "options": [
     "Neisseria meningitidis bacteria",
     "Dengue virus",
     "Chikungunya virus",
     "Leishmania donovani"
    ],
-   "a": 3,
-   "t": "Diseases and Causative Agents",
-   "l": 2,
-   "s": "generated",
-   "e": "Kala-azar is caused by Leishmania donovani."
+   "answer": 3,
+   "explanation": "Kala-azar is caused by Leishmania donovani.",
+   "topic": "Diseases and Causative Agents",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00050",
-   "q": "What is the main function of the Aorta in the human body?",
-   "o": [
+   "question": "What is the main function of the Aorta in the human body?",
+   "options": [
     "Largest artery",
     "Secretion of insulin",
     "Taste and speech",
     "Body immunity"
    ],
-   "a": 0,
-   "t": "Human Body",
-   "l": 2,
-   "s": "generated",
-   "e": "The Aorta is responsible for Largest artery."
+   "answer": 0,
+   "explanation": "The Aorta is responsible for Largest artery.",
+   "topic": "Human Body",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00051",
-   "q": "Deficiency of which nutrient causes Dermatitis?",
-   "o": [
+   "question": "Deficiency of which nutrient causes Dermatitis?",
+   "options": [
     "Vitamin B7",
     "Phosphorus",
     "Vitamin B5",
     "Vitamin B2"
    ],
-   "a": 0,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Vitamin B7 causes Dermatitis."
+   "answer": 0,
+   "explanation": "Deficiency of Vitamin B7 causes Dermatitis.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00052",
-   "q": "Which of the following causes Sleeping sickness?",
-   "o": [
+   "question": "Which of the following causes Sleeping sickness?",
+   "options": [
     "Trypanosoma brucei",
     "Corynebacterium diphtheriae bacteria",
     "Variola virus",
     "Fungi"
    ],
-   "a": 0,
-   "t": "Diseases and Causative Agents",
-   "l": 2,
-   "s": "generated",
-   "e": "Sleeping sickness is caused by Trypanosoma brucei."
+   "answer": 0,
+   "explanation": "Sleeping sickness is caused by Trypanosoma brucei.",
+   "topic": "Diseases and Causative Agents",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00053",
-   "q": "What is the main function of the Vena cava in the human body?",
-   "o": [
+   "question": "What is the main function of the Vena cava in the human body?",
+   "options": [
     "Filtration of blood and urine formation",
     "Transmission of nerve impulses",
     "Master gland of the body",
     "Largest vein"
    ],
-   "a": 3,
-   "t": "Human Body",
-   "l": 2,
-   "s": "generated",
-   "e": "The Vena cava is responsible for Largest vein."
+   "answer": 3,
+   "explanation": "The Vena cava is responsible for Largest vein.",
+   "topic": "Human Body",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00054",
-   "q": "Deficiency of which nutrient causes Paresthesia?",
-   "o": [
+   "question": "Deficiency of which nutrient causes Paresthesia?",
+   "options": [
     "Vitamin B5",
     "Vitamin B7",
     "Vitamin B1",
     "Vitamin A"
    ],
-   "a": 0,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Vitamin B5 causes Paresthesia."
+   "answer": 0,
+   "explanation": "Deficiency of Vitamin B5 causes Paresthesia.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00055",
-   "q": "Which of the following causes Yellow fever?",
-   "o": [
+   "question": "Which of the following causes Yellow fever?",
+   "options": [
     "Salmonella typhi bacteria",
     "Hepatitis B virus",
     "Bacillus anthracis bacteria",
     "Yellow fever virus"
    ],
-   "a": 3,
-   "t": "Diseases and Causative Agents",
-   "l": 2,
-   "s": "generated",
-   "e": "Yellow fever is caused by Yellow fever virus."
+   "answer": 3,
+   "explanation": "Yellow fever is caused by Yellow fever virus.",
+   "topic": "Diseases and Causative Agents",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00056",
-   "q": "What is the main function of the Thyroid gland in the human body?",
-   "o": [
+   "question": "What is the main function of the Thyroid gland in the human body?",
+   "options": [
     "Production of sperm",
     "Hearing in the ear",
     "Secretion of thyroxine",
     "Formation of blood cells"
    ],
-   "a": 2,
-   "t": "Human Body",
-   "l": 2,
-   "s": "generated",
-   "e": "The Thyroid gland is responsible for Secretion of thyroxine."
+   "answer": 2,
+   "explanation": "The Thyroid gland is responsible for Secretion of thyroxine.",
+   "topic": "Human Body",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00057",
-   "q": "Deficiency of which nutrient causes Dehydration?",
-   "o": [
+   "question": "Deficiency of which nutrient causes Dehydration?",
+   "options": [
     "Sodium",
     "Vitamin B7",
     "Vitamin D",
     "Vitamin C"
    ],
-   "a": 0,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Sodium causes Dehydration."
+   "answer": 0,
+   "explanation": "Deficiency of Sodium causes Dehydration.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00058",
-   "q": "Which of the following causes Plague?",
-   "o": [
+   "question": "Which of the following causes Plague?",
+   "options": [
     "Neisseria gonorrhoeae bacteria",
     "Varicella zoster virus",
     "Yersinia pestis bacteria",
     "Bordetella pertussis bacteria"
    ],
-   "a": 2,
-   "t": "Diseases and Causative Agents",
-   "l": 2,
-   "s": "generated",
-   "e": "Plague is caused by Yersinia pestis bacteria."
+   "answer": 2,
+   "explanation": "Plague is caused by Yersinia pestis bacteria.",
+   "topic": "Diseases and Causative Agents",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00059",
-   "q": "What is the main function of the Bone marrow in the human body?",
-   "o": [
+   "question": "What is the main function of the Bone marrow in the human body?",
+   "options": [
     "Digestion of food",
     "Production of blood cells",
     "Production of sperm",
     "Formation of blood cells"
    ],
-   "a": 1,
-   "t": "Human Body",
-   "l": 2,
-   "s": "generated",
-   "e": "The Bone marrow is responsible for Production of blood cells."
+   "answer": 1,
+   "explanation": "The Bone marrow is responsible for Production of blood cells.",
+   "topic": "Human Body",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00060",
-   "q": "Deficiency of which nutrient causes Excessive bleeding?",
-   "o": [
+   "question": "Deficiency of which nutrient causes Excessive bleeding?",
+   "options": [
     "Vitamin K",
     "Potassium",
     "Vitamin B5",
     "Sodium"
    ],
-   "a": 0,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Vitamin K causes Excessive bleeding."
+   "answer": 0,
+   "explanation": "Deficiency of Vitamin K causes Excessive bleeding.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00061",
-   "q": "Which of the following causes Influenza?",
-   "o": [
+   "question": "Which of the following causes Influenza?",
+   "options": [
     "Mycobacterium tuberculosis bacteria",
     "Influenza virus",
     "Neisseria gonorrhoeae bacteria",
     "Bordetella pertussis bacteria"
    ],
-   "a": 1,
-   "t": "Diseases and Causative Agents",
-   "l": 2,
-   "s": "generated",
-   "e": "Influenza is caused by Influenza virus."
+   "answer": 1,
+   "explanation": "Influenza is caused by Influenza virus.",
+   "topic": "Diseases and Causative Agents",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00062",
-   "q": "What is the main function of the Testes in the human body?",
-   "o": [
+   "question": "What is the main function of the Testes in the human body?",
+   "options": [
     "Controls blood sugar",
     "Production of sperm",
     "Production of blood cells",
     "Exchange of gases"
    ],
-   "a": 1,
-   "t": "Human Body",
-   "l": 2,
-   "s": "generated",
-   "e": "The Testes is responsible for Production of sperm."
+   "answer": 1,
+   "explanation": "The Testes is responsible for Production of sperm.",
+   "topic": "Human Body",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00063",
-   "q": "Deficiency of which nutrient causes Rickets?",
-   "o": [
+   "question": "Deficiency of which nutrient causes Rickets?",
+   "options": [
     "Vitamin B7",
     "Vitamin D",
     "Copper",
     "Vitamin K and Protein"
    ],
-   "a": 1,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Vitamin D causes Rickets."
+   "answer": 1,
+   "explanation": "Deficiency of Vitamin D causes Rickets.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00064",
-   "q": "Which of the following causes Gonorrhoea?",
-   "o": [
+   "question": "Which of the following causes Gonorrhoea?",
+   "options": [
     "Neisseria meningitidis bacteria",
     "Neisseria gonorrhoeae bacteria",
     "Influenza virus",
     "Dengue virus"
    ],
-   "a": 1,
-   "t": "Diseases and Causative Agents",
-   "l": 2,
-   "s": "generated",
-   "e": "Gonorrhoea is caused by Neisseria gonorrhoeae bacteria."
+   "answer": 1,
+   "explanation": "Gonorrhoea is caused by Neisseria gonorrhoeae bacteria.",
+   "topic": "Diseases and Causative Agents",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00065",
-   "q": "What is the main function of the Alveoli in the human body?",
-   "o": [
+   "question": "What is the main function of the Alveoli in the human body?",
+   "options": [
     "Taste and speech",
     "Absorption of digested food",
     "Protection and temperature regulation",
     "Exchange of oxygen and carbon dioxide"
    ],
-   "a": 3,
-   "t": "Human Body",
-   "l": 2,
-   "s": "generated",
-   "e": "The Alveoli is responsible for Exchange of oxygen and carbon dioxide."
+   "answer": 3,
+   "explanation": "The Alveoli is responsible for Exchange of oxygen and carbon dioxide.",
+   "topic": "Human Body",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00066",
-   "q": "Deficiency of which nutrient causes Ariboflavinosis?",
-   "o": [
+   "question": "Deficiency of which nutrient causes Ariboflavinosis?",
+   "options": [
     "Vitamin B3",
     "Sodium",
     "Vitamin K and Protein",
     "Vitamin B2"
    ],
-   "a": 3,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Vitamin B2 causes Ariboflavinosis."
+   "answer": 3,
+   "explanation": "Deficiency of Vitamin B2 causes Ariboflavinosis.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00067",
-   "q": "Which of the following causes AIDS?",
-   "o": [
+   "question": "Which of the following causes AIDS?",
+   "options": [
     "Variola virus",
     "Mycobacterium leprae bacteria",
     "Poliovirus",
     "Human Immunodeficiency Virus"
    ],
-   "a": 3,
-   "t": "Diseases and Causative Agents",
-   "l": 2,
-   "s": "generated",
-   "e": "AIDS is caused by Human Immunodeficiency Virus."
+   "answer": 3,
+   "explanation": "AIDS is caused by Human Immunodeficiency Virus.",
+   "topic": "Diseases and Causative Agents",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00068",
-   "q": "What is the main function of the Large intestine in the human body?",
-   "o": [
+   "question": "What is the main function of the Large intestine in the human body?",
+   "options": [
     "Digestion of food",
     "Transmission of nerve impulses",
     "Exchange of oxygen and carbon dioxide",
     "Absorption of water"
    ],
-   "a": 3,
-   "t": "Human Body",
-   "l": 2,
-   "s": "generated",
-   "e": "The Large intestine is responsible for Absorption of water."
+   "answer": 3,
+   "explanation": "The Large intestine is responsible for Absorption of water.",
+   "topic": "Human Body",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00069",
-   "q": "Deficiency of which nutrient causes Beri Beri?",
-   "o": [
+   "question": "Deficiency of which nutrient causes Beri Beri?",
+   "options": [
     "Iodine",
     "Vitamin B1",
     "Magnesium",
     "Sodium"
    ],
-   "a": 1,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Vitamin B1 causes Beri Beri."
+   "answer": 1,
+   "explanation": "Deficiency of Vitamin B1 causes Beri Beri.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00070",
-   "q": "Which of the following causes Tetanus?",
-   "o": [
+   "question": "Which of the following causes Tetanus?",
+   "options": [
     "Mycobacterium tuberculosis bacteria",
     "Hepatitis B virus",
     "Human Immunodeficiency Virus",
     "Clostridium tetani bacteria"
    ],
-   "a": 3,
-   "t": "Diseases and Causative Agents",
-   "l": 2,
-   "s": "generated",
-   "e": "Tetanus is caused by Clostridium tetani bacteria."
+   "answer": 3,
+   "explanation": "Tetanus is caused by Clostridium tetani bacteria.",
+   "topic": "Diseases and Causative Agents",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00071",
-   "q": "What is the main function of the Villi in the human body?",
-   "o": [
+   "question": "What is the main function of the Villi in the human body?",
+   "options": [
     "Increase surface area for absorption",
     "Basic filtering units of the kidney",
     "Oxygen carrying pigment",
     "Refraction of light in the eye"
    ],
-   "a": 0,
-   "t": "Human Body",
-   "l": 2,
-   "s": "generated",
-   "e": "The Villi is responsible for Increase surface area for absorption."
+   "answer": 0,
+   "explanation": "The Villi is responsible for Increase surface area for absorption.",
+   "topic": "Human Body",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00072",
-   "q": "Deficiency of which nutrient causes Haemolysis of red blood cells?",
-   "o": [
+   "question": "Deficiency of which nutrient causes Haemolysis of red blood cells?",
+   "options": [
     "Magnesium",
     "Vitamin E",
     "Vitamin B9",
     "Vitamin C"
    ],
-   "a": 1,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Vitamin E causes Haemolysis of red blood cells."
+   "answer": 1,
+   "explanation": "Deficiency of Vitamin E causes Haemolysis of red blood cells.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00073",
-   "q": "Which of the following causes Scabies?",
-   "o": [
+   "question": "Which of the following causes Scabies?",
+   "options": [
     "Sarcoptes scabiei mite",
     "Hepatitis A virus",
     "Rhinovirus",
     "Mumps virus"
    ],
-   "a": 0,
-   "t": "Diseases and Causative Agents",
-   "l": 2,
-   "s": "generated",
-   "e": "Scabies is caused by Sarcoptes scabiei mite."
+   "answer": 0,
+   "explanation": "Scabies is caused by Sarcoptes scabiei mite.",
+   "topic": "Diseases and Causative Agents",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00074",
-   "q": "What is the main function of the Adrenal gland in the human body?",
-   "o": [
+   "question": "What is the main function of the Adrenal gland in the human body?",
+   "options": [
     "Secretion of adrenaline",
     "Pumping blood",
     "Helps in breathing",
     "Protection and temperature regulation"
    ],
-   "a": 0,
-   "t": "Human Body",
-   "l": 2,
-   "s": "generated",
-   "e": "The Adrenal gland is responsible for Secretion of adrenaline."
+   "answer": 0,
+   "explanation": "The Adrenal gland is responsible for Secretion of adrenaline.",
+   "topic": "Human Body",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00075",
-   "q": "Deficiency of which nutrient causes Goitre?",
-   "o": [
+   "question": "Deficiency of which nutrient causes Goitre?",
+   "options": [
     "Magnesium",
     "Potassium",
     "Iodine",
     "Zinc"
    ],
-   "a": 2,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Iodine causes Goitre."
+   "answer": 2,
+   "explanation": "Deficiency of Iodine causes Goitre.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00076",
-   "q": "Which of the following causes Rabies?",
-   "o": [
+   "question": "Which of the following causes Rabies?",
+   "options": [
     "Rabies virus",
     "Plasmodium",
     "Leishmania donovani",
     "Poliovirus"
    ],
-   "a": 0,
-   "t": "Diseases and Causative Agents",
-   "l": 2,
-   "s": "generated",
-   "e": "Rabies is caused by Rabies virus."
+   "answer": 0,
+   "explanation": "Rabies is caused by Rabies virus.",
+   "topic": "Diseases and Causative Agents",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00077",
-   "q": "What is the main function of the Small intestine in the human body?",
-   "o": [
+   "question": "What is the main function of the Small intestine in the human body?",
+   "options": [
     "Absorption of digested food",
     "Controls body metabolism",
     "Exchange of oxygen and carbon dioxide",
     "Master gland of the body"
    ],
-   "a": 0,
-   "t": "Human Body",
-   "l": 2,
-   "s": "generated",
-   "e": "The Small intestine is responsible for Absorption of digested food."
+   "answer": 0,
+   "explanation": "The Small intestine is responsible for Absorption of digested food.",
+   "topic": "Human Body",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00078",
-   "q": "Deficiency of which nutrient causes Anaemia?",
-   "o": [
+   "question": "Deficiency of which nutrient causes Anaemia?",
+   "options": [
     "Vitamin B9",
     "Iodine",
     "Potassium",
     "Iron"
    ],
-   "a": 3,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Iron causes Anaemia."
+   "answer": 3,
+   "explanation": "Deficiency of Iron causes Anaemia.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00079",
-   "q": "Which of the following causes Leprosy?",
-   "o": [
+   "question": "Which of the following causes Leprosy?",
+   "options": [
     "Mycobacterium leprae bacteria",
     "Streptococcus pneumoniae bacteria",
     "Human Immunodeficiency Virus",
     "Bacillus anthracis bacteria"
    ],
-   "a": 0,
-   "t": "Diseases and Causative Agents",
-   "l": 2,
-   "s": "generated",
-   "e": "Leprosy is caused by Mycobacterium leprae bacteria."
+   "answer": 0,
+   "explanation": "Leprosy is caused by Mycobacterium leprae bacteria.",
+   "topic": "Diseases and Causative Agents",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00080",
-   "q": "What is the main function of the Cornea in the human body?",
-   "o": [
+   "question": "What is the main function of the Cornea in the human body?",
+   "options": [
     "Absorption of digested food",
     "Exchange of gases",
     "Master gland of the body",
     "Refraction of light in the eye"
    ],
-   "a": 3,
-   "t": "Human Body",
-   "l": 2,
-   "s": "generated",
-   "e": "The Cornea is responsible for Refraction of light in the eye."
+   "answer": 3,
+   "explanation": "The Cornea is responsible for Refraction of light in the eye.",
+   "topic": "Human Body",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00081",
-   "q": "Deficiency of which nutrient causes Tooth decay?",
-   "o": [
+   "question": "Deficiency of which nutrient causes Tooth decay?",
+   "options": [
     "Sodium",
     "Vitamin K and Protein",
     "Magnesium",
     "Fluorine"
    ],
-   "a": 3,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Fluorine causes Tooth decay."
+   "answer": 3,
+   "explanation": "Deficiency of Fluorine causes Tooth decay.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00082",
-   "q": "Which of the following causes Mumps?",
-   "o": [
+   "question": "Which of the following causes Mumps?",
+   "options": [
     "Mycobacterium leprae bacteria",
     "Dengue virus",
     "Bacillus anthracis bacteria",
     "Mumps virus"
    ],
-   "a": 3,
-   "t": "Diseases and Causative Agents",
-   "l": 2,
-   "s": "generated",
-   "e": "Mumps is caused by Mumps virus."
+   "answer": 3,
+   "explanation": "Mumps is caused by Mumps virus.",
+   "topic": "Diseases and Causative Agents",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00083",
-   "q": "What is the main function of the Kidneys in the human body?",
-   "o": [
+   "question": "What is the main function of the Kidneys in the human body?",
+   "options": [
     "Filtration of blood and urine formation",
     "Body immunity",
     "Oxygen carrying pigment",
     "Basic filtering units of the kidney"
    ],
-   "a": 0,
-   "t": "Human Body",
-   "l": 2,
-   "s": "generated",
-   "e": "The Kidneys is responsible for Filtration of blood and urine formation."
+   "answer": 0,
+   "explanation": "The Kidneys is responsible for Filtration of blood and urine formation.",
+   "topic": "Human Body",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00084",
-   "q": "Deficiency of which nutrient causes Scurvy?",
-   "o": [
+   "question": "Deficiency of which nutrient causes Scurvy?",
+   "options": [
     "Copper",
     "Vitamin C",
     "Vitamin B12",
     "Iodine"
    ],
-   "a": 1,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Vitamin C causes Scurvy."
+   "answer": 1,
+   "explanation": "Deficiency of Vitamin C causes Scurvy.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00085",
-   "q": "Which of the following causes Typhoid?",
-   "o": [
+   "question": "Which of the following causes Typhoid?",
+   "options": [
     "Salmonella typhi bacteria",
     "Fungi",
     "Rhinovirus",
     "Hepatitis A virus"
    ],
-   "a": 0,
-   "t": "Diseases and Causative Agents",
-   "l": 2,
-   "s": "generated",
-   "e": "Typhoid is caused by Salmonella typhi bacteria."
+   "answer": 0,
+   "explanation": "Typhoid is caused by Salmonella typhi bacteria.",
+   "topic": "Diseases and Causative Agents",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00086",
-   "q": "What is the main function of the Cochlea in the human body?",
-   "o": [
+   "question": "What is the main function of the Cochlea in the human body?",
+   "options": [
     "Transport of oxygen",
     "Hearing in the ear",
     "Secretion of insulin",
     "Exchange of gases"
    ],
-   "a": 1,
-   "t": "Human Body",
-   "l": 2,
-   "s": "generated",
-   "e": "The Cochlea is responsible for Hearing in the ear."
+   "answer": 1,
+   "explanation": "The Cochlea is responsible for Hearing in the ear.",
+   "topic": "Human Body",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00087",
-   "q": "Deficiency of which nutrient causes Muscle weakness?",
-   "o": [
+   "question": "Deficiency of which nutrient causes Muscle weakness?",
+   "options": [
     "Potassium",
     "Iodine",
     "Vitamin B5",
     "Vitamin A"
    ],
-   "a": 0,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Potassium causes Muscle weakness."
+   "answer": 0,
+   "explanation": "Deficiency of Potassium causes Muscle weakness.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00088",
-   "q": "Which of the following causes Chickenpox?",
-   "o": [
+   "question": "Which of the following causes Chickenpox?",
+   "options": [
     "Wuchereria bancrofti",
     "Varicella zoster virus",
     "Corynebacterium diphtheriae bacteria",
     "Dengue virus"
    ],
-   "a": 1,
-   "t": "Diseases and Causative Agents",
-   "l": 2,
-   "s": "generated",
-   "e": "Chickenpox is caused by Varicella zoster virus."
+   "answer": 1,
+   "explanation": "Chickenpox is caused by Varicella zoster virus.",
+   "topic": "Diseases and Causative Agents",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00089",
-   "q": "What is the main function of the Heart in the human body?",
-   "o": [
+   "question": "What is the main function of the Heart in the human body?",
+   "options": [
     "Formation of blood cells",
     "Clotting of blood",
     "Sensitive layer of the eye",
     "Pumping blood"
    ],
-   "a": 3,
-   "t": "Human Body",
-   "l": 2,
-   "s": "generated",
-   "e": "The Heart is responsible for Pumping blood."
+   "answer": 3,
+   "explanation": "The Heart is responsible for Pumping blood.",
+   "topic": "Human Body",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00090",
-   "q": "Deficiency of which nutrient causes Delayed blood clotting?",
-   "o": [
+   "question": "Deficiency of which nutrient causes Delayed blood clotting?",
+   "options": [
     "Vitamin B5",
     "Vitamin B2",
     "Sodium",
     "Vitamin K and Protein"
    ],
-   "a": 3,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Vitamin K and Protein causes Delayed blood clotting."
+   "answer": 3,
+   "explanation": "Deficiency of Vitamin K and Protein causes Delayed blood clotting.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00091",
-   "q": "Which of the following causes Malaria?",
-   "o": [
+   "question": "Which of the following causes Malaria?",
+   "options": [
     "Bordetella pertussis bacteria",
     "Entamoeba histolytica",
     "Measles virus",
     "Plasmodium"
    ],
-   "a": 3,
-   "t": "Diseases and Causative Agents",
-   "l": 2,
-   "s": "generated",
-   "e": "Malaria is caused by Plasmodium."
+   "answer": 3,
+   "explanation": "Malaria is caused by Plasmodium.",
+   "topic": "Diseases and Causative Agents",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00092",
-   "q": "What is the main function of the Brain in the human body?",
-   "o": [
+   "question": "What is the main function of the Brain in the human body?",
+   "options": [
     "Taste and speech",
     "Control centre of the body",
     "Clotting of blood",
     "Filtration of blood and urine formation"
    ],
-   "a": 1,
-   "t": "Human Body",
-   "l": 2,
-   "s": "generated",
-   "e": "The Brain is responsible for Control centre of the body."
+   "answer": 1,
+   "explanation": "The Brain is responsible for Control centre of the body.",
+   "topic": "Human Body",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00093",
-   "q": "Which disease is caused by the deficiency of Vitamin K and Protein?",
-   "o": [
+   "question": "Which disease is caused by the deficiency of Vitamin K and Protein?",
+   "options": [
     "Haemolysis of red blood cells",
     "Growth retardation",
     "Megaloblastic anaemia",
     "Delayed blood clotting"
    ],
-   "a": 3,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Vitamin K and Protein causes Delayed blood clotting."
+   "answer": 3,
+   "explanation": "Deficiency of Vitamin K and Protein causes Delayed blood clotting.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00094",
-   "q": "Which of the following causes Cholera?",
-   "o": [
+   "question": "Which of the following causes Cholera?",
+   "options": [
     "Variola virus",
     "Vibrio cholerae bacteria",
     "Entamoeba histolytica",
     "Salmonella typhi bacteria"
    ],
-   "a": 1,
-   "t": "Diseases and Causative Agents",
-   "l": 2,
-   "s": "generated",
-   "e": "Cholera is caused by Vibrio cholerae bacteria."
+   "answer": 1,
+   "explanation": "Cholera is caused by Vibrio cholerae bacteria.",
+   "topic": "Diseases and Causative Agents",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00095",
-   "q": "What is the main function of the Nephrons in the human body?",
-   "o": [
+   "question": "What is the main function of the Nephrons in the human body?",
+   "options": [
     "Exchange of oxygen and carbon dioxide",
     "Detoxification and bile secretion",
     "Digestion of food",
     "Basic filtering units of the kidney"
    ],
-   "a": 3,
-   "t": "Human Body",
-   "l": 2,
-   "s": "generated",
-   "e": "The Nephrons is responsible for Basic filtering units of the kidney."
+   "answer": 3,
+   "explanation": "The Nephrons is responsible for Basic filtering units of the kidney.",
+   "topic": "Human Body",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00096",
-   "q": "Which disease is caused by the deficiency of Fluorine?",
-   "o": [
+   "question": "Which disease is caused by the deficiency of Fluorine?",
+   "options": [
     "Rickets",
     "Tooth decay",
     "Goitre",
     "Anaemia and bone disorders"
    ],
-   "a": 1,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Fluorine causes Tooth decay."
+   "answer": 1,
+   "explanation": "Deficiency of Fluorine causes Tooth decay.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00097",
-   "q": "Which of the following causes Hepatitis A?",
-   "o": [
+   "question": "Which of the following causes Hepatitis A?",
+   "options": [
     "Human Immunodeficiency Virus",
     "Chikungunya virus",
     "Mycobacterium tuberculosis bacteria",
     "Hepatitis A virus"
    ],
-   "a": 3,
-   "t": "Diseases and Causative Agents",
-   "l": 2,
-   "s": "generated",
-   "e": "Hepatitis A is caused by Hepatitis A virus."
+   "answer": 3,
+   "explanation": "Hepatitis A is caused by Hepatitis A virus.",
+   "topic": "Diseases and Causative Agents",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00098",
-   "q": "What is the main function of the Insulin in the human body?",
-   "o": [
+   "question": "What is the main function of the Insulin in the human body?",
+   "options": [
     "Digestion of food",
     "Controls blood sugar",
     "Protection and temperature regulation",
     "Control centre of the body"
    ],
-   "a": 1,
-   "t": "Human Body",
-   "l": 2,
-   "s": "generated",
-   "e": "The Insulin is responsible for Controls blood sugar."
+   "answer": 1,
+   "explanation": "The Insulin is responsible for Controls blood sugar.",
+   "topic": "Human Body",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00099",
-   "q": "Which disease is caused by the deficiency of Vitamin B9?",
-   "o": [
+   "question": "Which disease is caused by the deficiency of Vitamin B9?",
+   "options": [
     "Megaloblastic anaemia",
     "Growth retardation",
     "Tetany",
     "Ariboflavinosis"
    ],
-   "a": 0,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Vitamin B9 causes Megaloblastic anaemia."
+   "answer": 0,
+   "explanation": "Deficiency of Vitamin B9 causes Megaloblastic anaemia.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00100",
-   "q": "Which of the following causes Meningitis?",
-   "o": [
+   "question": "Which of the following causes Meningitis?",
+   "options": [
     "Mycobacterium tuberculosis bacteria",
     "Neisseria meningitidis bacteria",
     "Poliovirus",
     "Vibrio cholerae bacteria"
    ],
-   "a": 1,
-   "t": "Diseases and Causative Agents",
-   "l": 2,
-   "s": "generated",
-   "e": "Meningitis is caused by Neisseria meningitidis bacteria."
+   "answer": 1,
+   "explanation": "Meningitis is caused by Neisseria meningitidis bacteria.",
+   "topic": "Diseases and Causative Agents",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00101",
-   "q": "What is the main function of the Plasma in the human body?",
-   "o": [
+   "question": "What is the main function of the Plasma in the human body?",
+   "options": [
     "Oxygen carrying pigment",
     "Digestion of food",
     "Transport of nutrients",
     "Control centre of the body"
    ],
-   "a": 2,
-   "t": "Human Body",
-   "l": 2,
-   "s": "generated",
-   "e": "The Plasma is responsible for Transport of nutrients."
+   "answer": 2,
+   "explanation": "The Plasma is responsible for Transport of nutrients.",
+   "topic": "Human Body",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00102",
-   "q": "Which disease is caused by the deficiency of Vitamin B3?",
-   "o": [
+   "question": "Which disease is caused by the deficiency of Vitamin B3?",
+   "options": [
     "Tooth decay",
     "Excessive bleeding",
     "Pellagra",
     "Osteoporosis"
    ],
-   "a": 2,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Vitamin B3 causes Pellagra."
+   "answer": 2,
+   "explanation": "Deficiency of Vitamin B3 causes Pellagra.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00103",
-   "q": "Which of the following causes Athlete's foot?",
-   "o": [
+   "question": "Which of the following causes Athlete's foot?",
+   "options": [
     "Rhinovirus",
     "Mycobacterium tuberculosis bacteria",
     "Fungi",
     "Vibrio cholerae bacteria"
    ],
-   "a": 2,
-   "t": "Diseases and Causative Agents",
-   "l": 2,
-   "s": "generated",
-   "e": "Athlete's foot is caused by Fungi."
+   "answer": 2,
+   "explanation": "Athlete's foot is caused by Fungi.",
+   "topic": "Diseases and Causative Agents",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00104",
-   "q": "What is the main function of the Tongue in the human body?",
-   "o": [
+   "question": "What is the main function of the Tongue in the human body?",
+   "options": [
     "Controls blood sugar",
     "Body immunity",
     "Taste and speech",
     "Control centre of the body"
    ],
-   "a": 2,
-   "t": "Human Body",
-   "l": 2,
-   "s": "generated",
-   "e": "The Tongue is responsible for Taste and speech."
+   "answer": 2,
+   "explanation": "The Tongue is responsible for Taste and speech.",
+   "topic": "Human Body",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00105",
-   "q": "Which disease is caused by the deficiency of Vitamin B2?",
-   "o": [
+   "question": "Which disease is caused by the deficiency of Vitamin B2?",
+   "options": [
     "Beri Beri",
     "Rickets",
     "Ariboflavinosis",
     "Anaemia"
    ],
-   "a": 2,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Vitamin B2 causes Ariboflavinosis."
+   "answer": 2,
+   "explanation": "Deficiency of Vitamin B2 causes Ariboflavinosis.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00106",
-   "q": "Which of the following causes Smallpox?",
-   "o": [
+   "question": "Which of the following causes Smallpox?",
+   "options": [
     "Neisseria meningitidis bacteria",
     "Fungi",
     "Variola virus",
     "Vibrio cholerae bacteria"
    ],
-   "a": 2,
-   "t": "Diseases and Causative Agents",
-   "l": 2,
-   "s": "generated",
-   "e": "Smallpox is caused by Variola virus."
+   "answer": 2,
+   "explanation": "Smallpox is caused by Variola virus.",
+   "topic": "Diseases and Causative Agents",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00107",
-   "q": "What is the main function of the Ovaries in the human body?",
-   "o": [
+   "question": "What is the main function of the Ovaries in the human body?",
+   "options": [
     "Protection and temperature regulation",
     "Controls body metabolism",
     "Increase surface area for absorption",
     "Production of eggs"
    ],
-   "a": 3,
-   "t": "Human Body",
-   "l": 2,
-   "s": "generated",
-   "e": "The Ovaries is responsible for Production of eggs."
+   "answer": 3,
+   "explanation": "The Ovaries is responsible for Production of eggs.",
+   "topic": "Human Body",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00108",
-   "q": "Which disease is caused by the deficiency of Zinc?",
-   "o": [
+   "question": "Which disease is caused by the deficiency of Zinc?",
+   "options": [
     "Anaemia and bone disorders",
     "Rickets",
     "Osteoporosis",
     "Growth retardation"
    ],
-   "a": 3,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Zinc causes Growth retardation."
+   "answer": 3,
+   "explanation": "Deficiency of Zinc causes Growth retardation.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00109",
-   "q": "Which of the following causes Syphilis?",
-   "o": [
+   "question": "Which of the following causes Syphilis?",
+   "options": [
     "Poliovirus",
     "Streptococcus pneumoniae bacteria",
     "Sarcoptes scabiei mite",
     "Treponema pallidum bacteria"
    ],
-   "a": 3,
-   "t": "Diseases and Causative Agents",
-   "l": 2,
-   "s": "generated",
-   "e": "Syphilis is caused by Treponema pallidum bacteria."
+   "answer": 3,
+   "explanation": "Syphilis is caused by Treponema pallidum bacteria.",
+   "topic": "Diseases and Causative Agents",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00110",
-   "q": "What is the main function of the Spleen in the human body?",
-   "o": [
+   "question": "What is the main function of the Spleen in the human body?",
+   "options": [
     "Taste and speech",
     "Secretion of thyroxine",
     "Formation of blood cells",
     "Helps in breathing"
    ],
-   "a": 2,
-   "t": "Human Body",
-   "l": 2,
-   "s": "generated",
-   "e": "The Spleen is responsible for Formation of blood cells."
+   "answer": 2,
+   "explanation": "The Spleen is responsible for Formation of blood cells.",
+   "topic": "Human Body",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00111",
-   "q": "Which disease is caused by the deficiency of Vitamin B6?",
-   "o": [
+   "question": "Which disease is caused by the deficiency of Vitamin B6?",
+   "options": [
     "Megaloblastic anaemia",
     "Pellagra",
     "Anaemia",
     "Dermatitis"
    ],
-   "a": 2,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Vitamin B6 causes Anaemia."
+   "answer": 2,
+   "explanation": "Deficiency of Vitamin B6 causes Anaemia.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00112",
-   "q": "Which of the following causes Whooping cough?",
-   "o": [
+   "question": "Which of the following causes Whooping cough?",
+   "options": [
     "Variola virus",
     "Yersinia pestis bacteria",
     "Bordetella pertussis bacteria",
     "Leishmania donovani"
    ],
-   "a": 2,
-   "t": "Diseases and Causative Agents",
-   "l": 2,
-   "s": "generated",
-   "e": "Whooping cough is caused by Bordetella pertussis bacteria."
+   "answer": 2,
+   "explanation": "Whooping cough is caused by Bordetella pertussis bacteria.",
+   "topic": "Diseases and Causative Agents",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00113",
-   "q": "What is the main function of the Red blood cells in the human body?",
-   "o": [
+   "question": "What is the main function of the Red blood cells in the human body?",
+   "options": [
     "Clotting of blood",
     "Controls body metabolism",
     "Transport of oxygen",
     "Refraction of light in the eye"
    ],
-   "a": 2,
-   "t": "Human Body",
-   "l": 2,
-   "s": "generated",
-   "e": "The Red blood cells is responsible for Transport of oxygen."
+   "answer": 2,
+   "explanation": "The Red blood cells is responsible for Transport of oxygen.",
+   "topic": "Human Body",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00114",
-   "q": "Which disease is caused by the deficiency of Iodine?",
-   "o": [
+   "question": "Which disease is caused by the deficiency of Iodine?",
+   "options": [
     "Pellagra",
     "Growth retardation",
     "Anaemia",
     "Goitre"
    ],
-   "a": 3,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Iodine causes Goitre."
+   "answer": 3,
+   "explanation": "Deficiency of Iodine causes Goitre.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00115",
-   "q": "Which of the following causes Filariasis?",
-   "o": [
+   "question": "Which of the following causes Filariasis?",
+   "options": [
     "Entamoeba histolytica",
     "Streptococcus pneumoniae bacteria",
     "Wuchereria bancrofti",
     "Mumps virus"
    ],
-   "a": 2,
-   "t": "Diseases and Causative Agents",
-   "l": 2,
-   "s": "generated",
-   "e": "Filariasis is caused by Wuchereria bancrofti."
+   "answer": 2,
+   "explanation": "Filariasis is caused by Wuchereria bancrofti.",
+   "topic": "Diseases and Causative Agents",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00116",
-   "q": "What is the main function of the Liver in the human body?",
-   "o": [
+   "question": "What is the main function of the Liver in the human body?",
+   "options": [
     "Largest vein",
     "Detoxification and bile secretion",
     "Basic filtering units of the kidney",
     "Transmission of nerve impulses"
    ],
-   "a": 1,
-   "t": "Human Body",
-   "l": 2,
-   "s": "generated",
-   "e": "The Liver is responsible for Detoxification and bile secretion."
+   "answer": 1,
+   "explanation": "The Liver is responsible for Detoxification and bile secretion.",
+   "topic": "Human Body",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00117",
-   "q": "Which disease is caused by the deficiency of Phosphorus?",
-   "o": [
+   "question": "Which disease is caused by the deficiency of Phosphorus?",
+   "options": [
     "Rickets in children",
     "Megaloblastic anaemia",
     "Xerophthalmia",
     "Dermatitis"
    ],
-   "a": 0,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Phosphorus causes Rickets in children."
+   "answer": 0,
+   "explanation": "Deficiency of Phosphorus causes Rickets in children.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00118",
-   "q": "Which of the following causes Chikungunya?",
-   "o": [
+   "question": "Which of the following causes Chikungunya?",
+   "options": [
     "Yellow fever virus",
     "Chikungunya virus",
     "Hepatitis A virus",
     "Hepatitis B virus"
    ],
-   "a": 1,
-   "t": "Diseases and Causative Agents",
-   "l": 2,
-   "s": "generated",
-   "e": "Chikungunya is caused by Chikungunya virus."
+   "answer": 1,
+   "explanation": "Chikungunya is caused by Chikungunya virus.",
+   "topic": "Diseases and Causative Agents",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00119",
-   "q": "What is the main function of the Retina in the human body?",
-   "o": [
+   "question": "What is the main function of the Retina in the human body?",
+   "options": [
     "Sensitive layer of the eye",
     "Secretion of insulin",
     "Secretion of thyroxine",
     "Detoxification and bile secretion"
    ],
-   "a": 0,
-   "t": "Human Body",
-   "l": 2,
-   "s": "generated",
-   "e": "The Retina is responsible for Sensitive layer of the eye."
+   "answer": 0,
+   "explanation": "The Retina is responsible for Sensitive layer of the eye.",
+   "topic": "Human Body",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00120",
-   "q": "Which disease is caused by the deficiency of Magnesium?",
-   "o": [
+   "question": "Which disease is caused by the deficiency of Magnesium?",
+   "options": [
     "Tetany",
     "Megaloblastic anaemia",
     "Rickets in children",
     "Paresthesia"
    ],
-   "a": 0,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Magnesium causes Tetany."
+   "answer": 0,
+   "explanation": "Deficiency of Magnesium causes Tetany.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00121",
-   "q": "Which of the following causes Measles?",
-   "o": [
+   "question": "Which of the following causes Measles?",
+   "options": [
     "Measles virus",
     "Corynebacterium diphtheriae bacteria",
     "Yersinia pestis bacteria",
     "Chikungunya virus"
    ],
-   "a": 0,
-   "t": "Diseases and Causative Agents",
-   "l": 2,
-   "s": "generated",
-   "e": "Measles is caused by Measles virus."
+   "answer": 0,
+   "explanation": "Measles is caused by Measles virus.",
+   "topic": "Diseases and Causative Agents",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00122",
-   "q": "What is the main function of the Pancreas in the human body?",
-   "o": [
+   "question": "What is the main function of the Pancreas in the human body?",
+   "options": [
     "Clotting of blood",
     "Secretion of insulin",
     "Absorption of digested food",
     "Pumping blood"
    ],
-   "a": 1,
-   "t": "Human Body",
-   "l": 2,
-   "s": "generated",
-   "e": "The Pancreas is responsible for Secretion of insulin."
+   "answer": 1,
+   "explanation": "The Pancreas is responsible for Secretion of insulin.",
+   "topic": "Human Body",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00123",
-   "q": "Which disease is caused by the deficiency of Iron?",
-   "o": [
+   "question": "Which disease is caused by the deficiency of Iron?",
+   "options": [
     "Pernicious anaemia",
     "Excessive bleeding",
     "Dermatitis",
     "Anaemia"
    ],
-   "a": 3,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Iron causes Anaemia."
+   "answer": 3,
+   "explanation": "Deficiency of Iron causes Anaemia.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00124",
-   "q": "Which of the following causes Diphtheria?",
-   "o": [
+   "question": "Which of the following causes Diphtheria?",
+   "options": [
     "Entamoeba histolytica",
     "Corynebacterium diphtheriae bacteria",
     "Mycobacterium leprae bacteria",
     "Plasmodium"
    ],
-   "a": 1,
-   "t": "Diseases and Causative Agents",
-   "l": 2,
-   "s": "generated",
-   "e": "Diphtheria is caused by Corynebacterium diphtheriae bacteria."
+   "answer": 1,
+   "explanation": "Diphtheria is caused by Corynebacterium diphtheriae bacteria.",
+   "topic": "Diseases and Causative Agents",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00125",
-   "q": "What is the main function of the Thyroxine in the human body?",
-   "o": [
+   "question": "What is the main function of the Thyroxine in the human body?",
+   "options": [
     "Refraction of light in the eye",
     "Controls body metabolism",
     "Absorption of digested food",
     "Exchange of oxygen and carbon dioxide"
    ],
-   "a": 1,
-   "t": "Human Body",
-   "l": 2,
-   "s": "generated",
-   "e": "The Thyroxine is responsible for Controls body metabolism."
+   "answer": 1,
+   "explanation": "The Thyroxine is responsible for Controls body metabolism.",
+   "topic": "Human Body",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00126",
-   "q": "Which disease is caused by the deficiency of Vitamin B1?",
-   "o": [
+   "question": "Which disease is caused by the deficiency of Vitamin B1?",
+   "options": [
     "Osteoporosis",
     "Paresthesia",
     "Beri Beri",
     "Megaloblastic anaemia"
    ],
-   "a": 2,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Vitamin B1 causes Beri Beri."
+   "answer": 2,
+   "explanation": "Deficiency of Vitamin B1 causes Beri Beri.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00127",
-   "q": "Which of the following causes Pneumonia?",
-   "o": [
+   "question": "Which of the following causes Pneumonia?",
+   "options": [
     "Mumps virus",
     "Streptococcus pneumoniae bacteria",
     "Mycobacterium leprae bacteria",
     "Human Immunodeficiency Virus"
    ],
-   "a": 1,
-   "t": "Diseases and Causative Agents",
-   "l": 2,
-   "s": "generated",
-   "e": "Pneumonia is caused by Streptococcus pneumoniae bacteria."
+   "answer": 1,
+   "explanation": "Pneumonia is caused by Streptococcus pneumoniae bacteria.",
+   "topic": "Diseases and Causative Agents",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00128",
-   "q": "Which body part performs the function of Taste and speech?",
-   "o": [
+   "question": "Which body part performs the function of Taste and speech?",
+   "options": [
     "Neurons",
     "Liver",
     "Tongue",
     "Testes"
    ],
-   "a": 2,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Taste and speech is performed by the Tongue."
+   "answer": 2,
+   "explanation": "Taste and speech is performed by the Tongue.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00129",
-   "q": "Which disease is caused by the deficiency of Vitamin B5?",
-   "o": [
+   "question": "Which disease is caused by the deficiency of Vitamin B5?",
+   "options": [
     "Paresthesia",
     "Muscle weakness",
     "Excessive bleeding",
     "Rickets"
    ],
-   "a": 0,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Vitamin B5 causes Paresthesia."
+   "answer": 0,
+   "explanation": "Deficiency of Vitamin B5 causes Paresthesia.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00130",
-   "q": "Variola virus causes which of the following diseases?",
-   "o": [
+   "question": "Variola virus causes which of the following diseases?",
+   "options": [
     "Hepatitis B",
     "Chikungunya",
     "Smallpox",
     "Gonorrhoea"
    ],
-   "a": 2,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Variola virus causes Smallpox."
+   "answer": 2,
+   "explanation": "Variola virus causes Smallpox.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00131",
-   "q": "Which body part performs the function of Secretion of adrenaline?",
-   "o": [
+   "question": "Which body part performs the function of Secretion of adrenaline?",
+   "options": [
     "Nephrons",
     "Vena cava",
     "Adrenal gland",
     "Large intestine"
    ],
-   "a": 2,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Secretion of adrenaline is performed by the Adrenal gland."
+   "answer": 2,
+   "explanation": "Secretion of adrenaline is performed by the Adrenal gland.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00132",
-   "q": "Which disease is caused by the deficiency of Vitamin B7?",
-   "o": [
+   "question": "Which disease is caused by the deficiency of Vitamin B7?",
+   "options": [
     "Osteoporosis",
     "Dermatitis",
     "Delayed blood clotting",
     "Dehydration"
    ],
-   "a": 1,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Vitamin B7 causes Dermatitis."
+   "answer": 1,
+   "explanation": "Deficiency of Vitamin B7 causes Dermatitis.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00133",
-   "q": "Rabies virus causes which of the following diseases?",
-   "o": [
+   "question": "Rabies virus causes which of the following diseases?",
+   "options": [
     "Hepatitis A",
     "Yellow fever",
     "Rabies",
     "Tetanus"
    ],
-   "a": 2,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Rabies virus causes Rabies."
+   "answer": 2,
+   "explanation": "Rabies virus causes Rabies.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00134",
-   "q": "Which body part performs the function of Exchange of oxygen and carbon dioxide?",
-   "o": [
+   "question": "Which body part performs the function of Exchange of oxygen and carbon dioxide?",
+   "options": [
     "Alveoli",
     "Kidneys",
     "Hemoglobin",
     "Platelets"
    ],
-   "a": 0,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Exchange of oxygen and carbon dioxide is performed by the Alveoli."
+   "answer": 0,
+   "explanation": "Exchange of oxygen and carbon dioxide is performed by the Alveoli.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00135",
-   "q": "Which disease is caused by the deficiency of Copper?",
-   "o": [
+   "question": "Which disease is caused by the deficiency of Copper?",
+   "options": [
     "Delayed blood clotting",
     "Anaemia and bone disorders",
     "Excessive bleeding",
     "Tooth decay"
    ],
-   "a": 1,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Copper causes Anaemia and bone disorders."
+   "answer": 1,
+   "explanation": "Deficiency of Copper causes Anaemia and bone disorders.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00136",
-   "q": "Human Immunodeficiency Virus causes which of the following diseases?",
-   "o": [
+   "question": "Human Immunodeficiency Virus causes which of the following diseases?",
+   "options": [
     "AIDS",
     "Typhoid",
     "Common cold",
     "Amoebic dysentery"
    ],
-   "a": 0,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Human Immunodeficiency Virus causes AIDS."
+   "answer": 0,
+   "explanation": "Human Immunodeficiency Virus causes AIDS.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00137",
-   "q": "Which body part performs the function of Protection and temperature regulation?",
-   "o": [
+   "question": "Which body part performs the function of Protection and temperature regulation?",
+   "options": [
     "Heart",
     "Nephrons",
     "Tongue",
     "Skin"
    ],
-   "a": 3,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Protection and temperature regulation is performed by the Skin."
+   "answer": 3,
+   "explanation": "Protection and temperature regulation is performed by the Skin.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00138",
-   "q": "Which disease is caused by the deficiency of Vitamin K?",
-   "o": [
+   "question": "Which disease is caused by the deficiency of Vitamin K?",
+   "options": [
     "Dehydration",
     "Delayed blood clotting",
     "Excessive bleeding",
     "Haemolysis of red blood cells"
    ],
-   "a": 2,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Vitamin K causes Excessive bleeding."
+   "answer": 2,
+   "explanation": "Deficiency of Vitamin K causes Excessive bleeding.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00139",
-   "q": "Poliovirus causes which of the following diseases?",
-   "o": [
+   "question": "Poliovirus causes which of the following diseases?",
+   "options": [
     "Malaria",
     "Hepatitis A",
     "Smallpox",
     "Poliomyelitis"
    ],
-   "a": 3,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Poliovirus causes Poliomyelitis."
+   "answer": 3,
+   "explanation": "Poliovirus causes Poliomyelitis.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00140",
-   "q": "Which body part performs the function of Controls body metabolism?",
-   "o": [
+   "question": "Which body part performs the function of Controls body metabolism?",
+   "options": [
     "Stomach",
     "Adrenal gland",
     "Thyroxine",
     "Pituitary gland"
    ],
-   "a": 2,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Controls body metabolism is performed by the Thyroxine."
+   "answer": 2,
+   "explanation": "Controls body metabolism is performed by the Thyroxine.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00141",
-   "q": "Which disease is caused by the deficiency of Calcium?",
-   "o": [
+   "question": "Which disease is caused by the deficiency of Calcium?",
+   "options": [
     "Tooth decay",
     "Megaloblastic anaemia",
     "Anaemia",
     "Osteoporosis"
    ],
-   "a": 3,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Calcium causes Osteoporosis."
+   "answer": 3,
+   "explanation": "Deficiency of Calcium causes Osteoporosis.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00142",
-   "q": "Streptococcus pneumoniae bacteria causes which of the following diseases?",
-   "o": [
+   "question": "Streptococcus pneumoniae bacteria causes which of the following diseases?",
+   "options": [
     "Tuberculosis",
     "Rabies",
     "Pneumonia",
     "Anthrax"
    ],
-   "a": 2,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Streptococcus pneumoniae bacteria causes Pneumonia."
+   "answer": 2,
+   "explanation": "Streptococcus pneumoniae bacteria causes Pneumonia.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00143",
-   "q": "Which body part performs the function of Digestion of food?",
-   "o": [
+   "question": "Which body part performs the function of Digestion of food?",
+   "options": [
     "Plasma",
     "Brain",
     "Pituitary gland",
     "Stomach"
    ],
-   "a": 3,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Digestion of food is performed by the Stomach."
+   "answer": 3,
+   "explanation": "Digestion of food is performed by the Stomach.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00144",
-   "q": "Which disease is caused by the deficiency of Vitamin A?",
-   "o": [
+   "question": "Which disease is caused by the deficiency of Vitamin A?",
+   "options": [
     "Paresthesia",
     "Night blindness",
     "Tooth decay",
     "Excessive bleeding"
    ],
-   "a": 1,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Vitamin A causes Night blindness."
+   "answer": 1,
+   "explanation": "Deficiency of Vitamin A causes Night blindness.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00145",
-   "q": "Mycobacterium tuberculosis bacteria causes which of the following diseases?",
-   "o": [
+   "question": "Mycobacterium tuberculosis bacteria causes which of the following diseases?",
+   "options": [
     "Athlete's foot",
     "Cholera",
     "Anthrax",
     "Tuberculosis"
    ],
-   "a": 3,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Mycobacterium tuberculosis bacteria causes Tuberculosis."
+   "answer": 3,
+   "explanation": "Mycobacterium tuberculosis bacteria causes Tuberculosis.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00146",
-   "q": "Which body part performs the function of Hearing in the ear?",
-   "o": [
+   "question": "Which body part performs the function of Hearing in the ear?",
+   "options": [
     "Bone marrow",
     "Pituitary gland",
     "Heart",
     "Cochlea"
    ],
-   "a": 3,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Hearing in the ear is performed by the Cochlea."
+   "answer": 3,
+   "explanation": "Hearing in the ear is performed by the Cochlea.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00147",
-   "q": "Which disease is caused by the deficiency of Vitamin C?",
-   "o": [
+   "question": "Which disease is caused by the deficiency of Vitamin C?",
+   "options": [
     "Ariboflavinosis",
     "Pernicious anaemia",
     "Scurvy",
     "Tetany"
    ],
-   "a": 2,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Vitamin C causes Scurvy."
+   "answer": 2,
+   "explanation": "Deficiency of Vitamin C causes Scurvy.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00148",
-   "q": "Varicella zoster virus causes which of the following diseases?",
-   "o": [
+   "question": "Varicella zoster virus causes which of the following diseases?",
+   "options": [
     "Influenza",
     "Anthrax",
     "Malaria",
     "Chickenpox"
    ],
-   "a": 3,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Varicella zoster virus causes Chickenpox."
+   "answer": 3,
+   "explanation": "Varicella zoster virus causes Chickenpox.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00149",
-   "q": "Which body part performs the function of Body immunity?",
-   "o": [
+   "question": "Which body part performs the function of Body immunity?",
+   "options": [
     "Red blood cells",
     "White blood cells",
     "Ovaries",
     "Large intestine"
    ],
-   "a": 1,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Body immunity is performed by the White blood cells."
+   "answer": 1,
+   "explanation": "Body immunity is performed by the White blood cells.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00150",
-   "q": "Which disease is caused by the deficiency of Potassium?",
-   "o": [
+   "question": "Which disease is caused by the deficiency of Potassium?",
+   "options": [
     "Megaloblastic anaemia",
     "Dermatitis",
     "Muscle weakness",
     "Dehydration"
    ],
-   "a": 2,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Potassium causes Muscle weakness."
+   "answer": 2,
+   "explanation": "Deficiency of Potassium causes Muscle weakness.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00151",
-   "q": "Fungi causes which of the following diseases?",
-   "o": [
+   "question": "Fungi causes which of the following diseases?",
+   "options": [
     "Filariasis",
     "Ringworm",
     "Syphilis",
     "Tetanus"
    ],
-   "a": 1,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Fungi causes Ringworm."
+   "answer": 1,
+   "explanation": "Fungi causes Ringworm.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00152",
-   "q": "Which body part performs the function of Largest artery?",
-   "o": [
+   "question": "Which body part performs the function of Largest artery?",
+   "options": [
     "Nephrons",
     "Lungs",
     "Aorta",
     "Stomach"
    ],
-   "a": 2,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Largest artery is performed by the Aorta."
+   "answer": 2,
+   "explanation": "Largest artery is performed by the Aorta.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00153",
-   "q": "Which disease is caused by the deficiency of Vitamin A?",
-   "o": [
+   "question": "Which disease is caused by the deficiency of Vitamin A?",
+   "options": [
     "Anaemia and bone disorders",
     "Dermatitis",
     "Xerophthalmia",
     "Goitre"
    ],
-   "a": 2,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Vitamin A causes Xerophthalmia."
+   "answer": 2,
+   "explanation": "Deficiency of Vitamin A causes Xerophthalmia.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00154",
-   "q": "Trypanosoma brucei causes which of the following diseases?",
-   "o": [
+   "question": "Trypanosoma brucei causes which of the following diseases?",
+   "options": [
     "Hepatitis A",
     "Dengue",
     "Sleeping sickness",
     "Tuberculosis"
    ],
-   "a": 2,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Trypanosoma brucei causes Sleeping sickness."
+   "answer": 2,
+   "explanation": "Trypanosoma brucei causes Sleeping sickness.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00155",
-   "q": "Which body part performs the function of Refraction of light in the eye?",
-   "o": [
+   "question": "Which body part performs the function of Refraction of light in the eye?",
+   "options": [
     "Adrenal gland",
     "Thyroxine",
     "Platelets",
     "Cornea"
    ],
-   "a": 3,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Refraction of light in the eye is performed by the Cornea."
+   "answer": 3,
+   "explanation": "Refraction of light in the eye is performed by the Cornea.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00156",
-   "q": "Which disease is caused by the deficiency of Vitamin B12?",
-   "o": [
+   "question": "Which disease is caused by the deficiency of Vitamin B12?",
+   "options": [
     "Rickets",
     "Pernicious anaemia",
     "Growth retardation",
     "Night blindness"
    ],
-   "a": 1,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Vitamin B12 causes Pernicious anaemia."
+   "answer": 1,
+   "explanation": "Deficiency of Vitamin B12 causes Pernicious anaemia.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00157",
-   "q": "Mumps virus causes which of the following diseases?",
-   "o": [
+   "question": "Mumps virus causes which of the following diseases?",
+   "options": [
     "Rabies",
     "Pneumonia",
     "Amoebic dysentery",
     "Mumps"
    ],
-   "a": 3,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Mumps virus causes Mumps."
+   "answer": 3,
+   "explanation": "Mumps virus causes Mumps.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00158",
-   "q": "Which body part performs the function of Increase surface area for absorption?",
-   "o": [
+   "question": "Which body part performs the function of Increase surface area for absorption?",
+   "options": [
     "Villi",
     "Skin",
     "Alveoli",
     "Liver"
    ],
-   "a": 0,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Increase surface area for absorption is performed by the Villi."
+   "answer": 0,
+   "explanation": "Increase surface area for absorption is performed by the Villi.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00159",
-   "q": "Which disease is caused by the deficiency of Vitamin E?",
-   "o": [
+   "question": "Which disease is caused by the deficiency of Vitamin E?",
+   "options": [
     "Anaemia and bone disorders",
     "Dehydration",
     "Anaemia",
     "Haemolysis of red blood cells"
    ],
-   "a": 3,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Vitamin E causes Haemolysis of red blood cells."
+   "answer": 3,
+   "explanation": "Deficiency of Vitamin E causes Haemolysis of red blood cells.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00160",
-   "q": "Sarcoptes scabiei mite causes which of the following diseases?",
-   "o": [
+   "question": "Sarcoptes scabiei mite causes which of the following diseases?",
+   "options": [
     "Scabies",
     "Poliomyelitis",
     "AIDS",
     "Chikungunya"
    ],
-   "a": 0,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Sarcoptes scabiei mite causes Scabies."
+   "answer": 0,
+   "explanation": "Sarcoptes scabiei mite causes Scabies.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00161",
-   "q": "Which body part performs the function of Sensitive layer of the eye?",
-   "o": [
+   "question": "Which body part performs the function of Sensitive layer of the eye?",
+   "options": [
     "Stomach",
     "Retina",
     "Brain",
     "White blood cells"
    ],
-   "a": 1,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Sensitive layer of the eye is performed by the Retina."
+   "answer": 1,
+   "explanation": "Sensitive layer of the eye is performed by the Retina.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00162",
-   "q": "Which disease is caused by the deficiency of Sodium?",
-   "o": [
+   "question": "Which disease is caused by the deficiency of Sodium?",
+   "options": [
     "Beri Beri",
     "Osteoporosis",
     "Dehydration",
     "Excessive bleeding"
    ],
-   "a": 2,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Sodium causes Dehydration."
+   "answer": 2,
+   "explanation": "Deficiency of Sodium causes Dehydration.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00163",
-   "q": "Measles virus causes which of the following diseases?",
-   "o": [
+   "question": "Measles virus causes which of the following diseases?",
+   "options": [
     "Tuberculosis",
     "Measles",
     "Cholera",
     "Ringworm"
    ],
-   "a": 1,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Measles virus causes Measles."
+   "answer": 1,
+   "explanation": "Measles virus causes Measles.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00164",
-   "q": "Which body part performs the function of Clotting of blood?",
-   "o": [
+   "question": "Which body part performs the function of Clotting of blood?",
+   "options": [
     "Platelets",
     "Insulin",
     "White blood cells",
     "Aorta"
    ],
-   "a": 0,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Clotting of blood is performed by the Platelets."
+   "answer": 0,
+   "explanation": "Clotting of blood is performed by the Platelets.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00165",
-   "q": "Which disease is caused by the deficiency of Vitamin D?",
-   "o": [
+   "question": "Which disease is caused by the deficiency of Vitamin D?",
+   "options": [
     "Delayed blood clotting",
     "Anaemia and bone disorders",
     "Rickets",
     "Megaloblastic anaemia"
    ],
-   "a": 2,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Vitamin D causes Rickets."
+   "answer": 2,
+   "explanation": "Deficiency of Vitamin D causes Rickets.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "biology-00166",
-   "q": "Entamoeba histolytica causes which of the following diseases?",
-   "o": [
+   "question": "Entamoeba histolytica causes which of the following diseases?",
+   "options": [
     "Amoebic dysentery",
     "Meningitis",
     "Ringworm",
     "Sleeping sickness"
    ],
-   "a": 0,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Entamoeba histolytica causes Amoebic dysentery."
+   "answer": 0,
+   "explanation": "Entamoeba histolytica causes Amoebic dysentery.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00167",
-   "q": "Which body part performs the function of Production of sperm?",
-   "o": [
+   "question": "Which body part performs the function of Production of sperm?",
+   "options": [
     "Diaphragm",
     "Adrenal gland",
     "Hemoglobin",
     "Testes"
    ],
-   "a": 3,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Production of sperm is performed by the Testes."
+   "answer": 3,
+   "explanation": "Production of sperm is performed by the Testes.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00168",
-   "q": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
+   "options": [
     "Magnesium - Paresthesia",
     "Magnesium - Ariboflavinosis",
     "Magnesium - Tetany",
     "Magnesium - Growth retardation"
    ],
-   "a": 2,
-   "t": "Vitamins and Deficiencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Magnesium - Tetany is correctly matched."
+   "answer": 2,
+   "explanation": "Only Magnesium - Tetany is correctly matched.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00169",
-   "q": "Neisseria gonorrhoeae bacteria causes which of the following diseases?",
-   "o": [
+   "question": "Neisseria gonorrhoeae bacteria causes which of the following diseases?",
+   "options": [
     "Kala-azar",
     "Rabies",
     "Common cold",
     "Gonorrhoea"
    ],
-   "a": 3,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Neisseria gonorrhoeae bacteria causes Gonorrhoea."
+   "answer": 3,
+   "explanation": "Neisseria gonorrhoeae bacteria causes Gonorrhoea.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00170",
-   "q": "Which body part performs the function of Absorption of water?",
-   "o": [
+   "question": "Which body part performs the function of Absorption of water?",
+   "options": [
     "Thyroxine",
     "Pituitary gland",
     "Large intestine",
     "Liver"
    ],
-   "a": 2,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Absorption of water is performed by the Large intestine."
+   "answer": 2,
+   "explanation": "Absorption of water is performed by the Large intestine.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00171",
-   "q": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
+   "options": [
     "Magnesium - Anaemia",
     "Magnesium - Tetany",
     "Magnesium - Xerophthalmia",
     "Magnesium - Delayed blood clotting"
    ],
-   "a": 1,
-   "t": "Vitamins and Deficiencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Magnesium - Tetany is correctly matched."
+   "answer": 1,
+   "explanation": "Only Magnesium - Tetany is correctly matched.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00172",
-   "q": "Clostridium tetani bacteria causes which of the following diseases?",
-   "o": [
+   "question": "Clostridium tetani bacteria causes which of the following diseases?",
+   "options": [
     "Pneumonia",
     "Anthrax",
     "Tetanus",
     "Chikungunya"
    ],
-   "a": 2,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Clostridium tetani bacteria causes Tetanus."
+   "answer": 2,
+   "explanation": "Clostridium tetani bacteria causes Tetanus.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00173",
-   "q": "Which body part performs the function of Production of blood cells?",
-   "o": [
+   "question": "Which body part performs the function of Production of blood cells?",
+   "options": [
     "Adrenal gland",
     "Bone marrow",
     "Pituitary gland",
     "Spleen"
    ],
-   "a": 1,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Production of blood cells is performed by the Bone marrow."
+   "answer": 1,
+   "explanation": "Production of blood cells is performed by the Bone marrow.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00174",
-   "q": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
+   "options": [
     "Vitamin B7 - Dermatitis",
     "Vitamin B7 - Rickets",
     "Vitamin B7 - Muscle weakness",
     "Vitamin B7 - Dehydration"
    ],
-   "a": 0,
-   "t": "Vitamins and Deficiencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Vitamin B7 - Dermatitis is correctly matched."
+   "answer": 0,
+   "explanation": "Only Vitamin B7 - Dermatitis is correctly matched.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00175",
-   "q": "Influenza virus causes which of the following diseases?",
-   "o": [
+   "question": "Influenza virus causes which of the following diseases?",
+   "options": [
     "Rabies",
     "Influenza",
     "Anthrax",
     "Whooping cough"
    ],
-   "a": 1,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Influenza virus causes Influenza."
+   "answer": 1,
+   "explanation": "Influenza virus causes Influenza.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00176",
-   "q": "Which body part performs the function of Production of eggs?",
-   "o": [
+   "question": "Which body part performs the function of Production of eggs?",
+   "options": [
     "Pituitary gland",
     "Ovaries",
     "Testes",
     "Diaphragm"
    ],
-   "a": 1,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Production of eggs is performed by the Ovaries."
+   "answer": 1,
+   "explanation": "Production of eggs is performed by the Ovaries.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00177",
-   "q": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
+   "options": [
     "Vitamin B7 - Dermatitis",
     "Vitamin B7 - Beri Beri",
     "Vitamin B7 - Night blindness",
     "Vitamin B7 - Excessive bleeding"
    ],
-   "a": 0,
-   "t": "Vitamins and Deficiencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Vitamin B7 - Dermatitis is correctly matched."
+   "answer": 0,
+   "explanation": "Only Vitamin B7 - Dermatitis is correctly matched.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00178",
-   "q": "Treponema pallidum bacteria causes which of the following diseases?",
-   "o": [
+   "question": "Treponema pallidum bacteria causes which of the following diseases?",
+   "options": [
     "Anthrax",
     "Syphilis",
     "Gonorrhoea",
     "Kala-azar"
    ],
-   "a": 1,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Treponema pallidum bacteria causes Syphilis."
+   "answer": 1,
+   "explanation": "Treponema pallidum bacteria causes Syphilis.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00179",
-   "q": "Which body part performs the function of Detoxification and bile secretion?",
-   "o": [
+   "question": "Which body part performs the function of Detoxification and bile secretion?",
+   "options": [
     "Insulin",
     "Pituitary gland",
     "Liver",
     "Retina"
    ],
-   "a": 2,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Detoxification and bile secretion is performed by the Liver."
+   "answer": 2,
+   "explanation": "Detoxification and bile secretion is performed by the Liver.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00180",
-   "q": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
+   "options": [
     "Vitamin B6 - Anaemia",
     "Vitamin B6 - Tetany",
     "Vitamin B6 - Rickets in children",
     "Vitamin B6 - Tooth decay"
    ],
-   "a": 0,
-   "t": "Vitamins and Deficiencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Vitamin B6 - Anaemia is correctly matched."
+   "answer": 0,
+   "explanation": "Only Vitamin B6 - Anaemia is correctly matched.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00181",
-   "q": "Chikungunya virus causes which of the following diseases?",
-   "o": [
+   "question": "Chikungunya virus causes which of the following diseases?",
+   "options": [
     "Meningitis",
     "Anthrax",
     "Chikungunya",
     "Measles"
    ],
-   "a": 2,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Chikungunya virus causes Chikungunya."
+   "answer": 2,
+   "explanation": "Chikungunya virus causes Chikungunya.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00182",
-   "q": "Which body part performs the function of Pumping blood?",
-   "o": [
+   "question": "Which body part performs the function of Pumping blood?",
+   "options": [
     "Pancreas",
     "Neurons",
     "Heart",
     "Lungs"
    ],
-   "a": 2,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Pumping blood is performed by the Heart."
+   "answer": 2,
+   "explanation": "Pumping blood is performed by the Heart.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00183",
-   "q": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
+   "options": [
     "Vitamin B6 - Pernicious anaemia",
     "Vitamin B6 - Osteoporosis",
     "Vitamin B6 - Anaemia",
     "Vitamin B6 - Pellagra"
    ],
-   "a": 2,
-   "t": "Vitamins and Deficiencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Vitamin B6 - Anaemia is correctly matched."
+   "answer": 2,
+   "explanation": "Only Vitamin B6 - Anaemia is correctly matched.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00184",
-   "q": "Plasmodium causes which of the following diseases?",
-   "o": [
+   "question": "Plasmodium causes which of the following diseases?",
+   "options": [
     "Diphtheria",
     "Hepatitis B",
     "Malaria",
     "Dengue"
    ],
-   "a": 2,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Plasmodium causes Malaria."
+   "answer": 2,
+   "explanation": "Plasmodium causes Malaria.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00185",
-   "q": "Which body part performs the function of Absorption of digested food?",
-   "o": [
+   "question": "Which body part performs the function of Absorption of digested food?",
+   "options": [
     "Kidneys",
     "Villi",
     "Small intestine",
     "Plasma"
    ],
-   "a": 2,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Absorption of digested food is performed by the Small intestine."
+   "answer": 2,
+   "explanation": "Absorption of digested food is performed by the Small intestine.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00186",
-   "q": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
+   "options": [
     "Calcium - Rickets",
     "Calcium - Osteoporosis",
     "Calcium - Dehydration",
     "Calcium - Xerophthalmia"
    ],
-   "a": 1,
-   "t": "Vitamins and Deficiencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Calcium - Osteoporosis is correctly matched."
+   "answer": 1,
+   "explanation": "Only Calcium - Osteoporosis is correctly matched.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00187",
-   "q": "Mycobacterium leprae bacteria causes which of the following diseases?",
-   "o": [
+   "question": "Mycobacterium leprae bacteria causes which of the following diseases?",
+   "options": [
     "Typhoid",
     "Scabies",
     "Leprosy",
     "Athlete's foot"
    ],
-   "a": 2,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Mycobacterium leprae bacteria causes Leprosy."
+   "answer": 2,
+   "explanation": "Mycobacterium leprae bacteria causes Leprosy.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00188",
-   "q": "Which body part performs the function of Largest vein?",
-   "o": [
+   "question": "Which body part performs the function of Largest vein?",
+   "options": [
     "Diaphragm",
     "Neurons",
     "Vena cava",
     "Thyroxine"
    ],
-   "a": 2,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Largest vein is performed by the Vena cava."
+   "answer": 2,
+   "explanation": "Largest vein is performed by the Vena cava.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00189",
-   "q": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
+   "options": [
     "Calcium - Osteoporosis",
     "Calcium - Delayed blood clotting",
     "Calcium - Beri Beri",
     "Calcium - Growth retardation"
    ],
-   "a": 0,
-   "t": "Vitamins and Deficiencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Calcium - Osteoporosis is correctly matched."
+   "answer": 0,
+   "explanation": "Only Calcium - Osteoporosis is correctly matched.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00190",
-   "q": "Yellow fever virus causes which of the following diseases?",
-   "o": [
+   "question": "Yellow fever virus causes which of the following diseases?",
+   "options": [
     "Kala-azar",
     "Hepatitis B",
     "Yellow fever",
     "Pneumonia"
    ],
-   "a": 2,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Yellow fever virus causes Yellow fever."
+   "answer": 2,
+   "explanation": "Yellow fever virus causes Yellow fever.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00191",
-   "q": "Which body part performs the function of Oxygen carrying pigment?",
-   "o": [
+   "question": "Which body part performs the function of Oxygen carrying pigment?",
+   "options": [
     "Hemoglobin",
     "Vena cava",
     "Large intestine",
     "Cornea"
    ],
-   "a": 0,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Oxygen carrying pigment is performed by the Hemoglobin."
+   "answer": 0,
+   "explanation": "Oxygen carrying pigment is performed by the Hemoglobin.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00192",
-   "q": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
+   "options": [
     "Fluorine - Night blindness",
     "Fluorine - Haemolysis of red blood cells",
     "Fluorine - Tooth decay",
     "Fluorine - Scurvy"
    ],
-   "a": 2,
-   "t": "Vitamins and Deficiencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Fluorine - Tooth decay is correctly matched."
+   "answer": 2,
+   "explanation": "Only Fluorine - Tooth decay is correctly matched.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00193",
-   "q": "Rhinovirus causes which of the following diseases?",
-   "o": [
+   "question": "Rhinovirus causes which of the following diseases?",
+   "options": [
     "Common cold",
     "Yellow fever",
     "Tetanus",
     "Mumps"
    ],
-   "a": 0,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Rhinovirus causes Common cold."
+   "answer": 0,
+   "explanation": "Rhinovirus causes Common cold.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00194",
-   "q": "Which body part performs the function of Transmission of nerve impulses?",
-   "o": [
+   "question": "Which body part performs the function of Transmission of nerve impulses?",
+   "options": [
     "Nephrons",
     "Heart",
     "Neurons",
     "Hemoglobin"
    ],
-   "a": 2,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Transmission of nerve impulses is performed by the Neurons."
+   "answer": 2,
+   "explanation": "Transmission of nerve impulses is performed by the Neurons.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00195",
-   "q": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
+   "options": [
     "Fluorine - Dermatitis",
     "Fluorine - Tooth decay",
     "Fluorine - Anaemia",
     "Fluorine - Rickets"
    ],
-   "a": 1,
-   "t": "Vitamins and Deficiencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Fluorine - Tooth decay is correctly matched."
+   "answer": 1,
+   "explanation": "Only Fluorine - Tooth decay is correctly matched.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00196",
-   "q": "Hepatitis B virus causes which of the following diseases?",
-   "o": [
+   "question": "Hepatitis B virus causes which of the following diseases?",
+   "options": [
     "Hepatitis A",
     "Malaria",
     "Hepatitis B",
     "Common cold"
    ],
-   "a": 2,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Hepatitis B virus causes Hepatitis B."
+   "answer": 2,
+   "explanation": "Hepatitis B virus causes Hepatitis B.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00197",
-   "q": "Which body part performs the function of Formation of blood cells?",
-   "o": [
+   "question": "Which body part performs the function of Formation of blood cells?",
+   "options": [
     "Villi",
     "Spleen",
     "Ovaries",
     "Brain"
    ],
-   "a": 1,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Formation of blood cells is performed by the Spleen."
+   "answer": 1,
+   "explanation": "Formation of blood cells is performed by the Spleen.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00198",
-   "q": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
+   "options": [
     "Vitamin B12 - Anaemia",
     "Vitamin B12 - Rickets",
     "Vitamin B12 - Pernicious anaemia",
     "Vitamin B12 - Anaemia and bone disorders"
    ],
-   "a": 2,
-   "t": "Vitamins and Deficiencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Vitamin B12 - Pernicious anaemia is correctly matched."
+   "answer": 2,
+   "explanation": "Only Vitamin B12 - Pernicious anaemia is correctly matched.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00199",
-   "q": "Bordetella pertussis bacteria causes which of the following diseases?",
-   "o": [
+   "question": "Bordetella pertussis bacteria causes which of the following diseases?",
+   "options": [
     "Scabies",
     "Whooping cough",
     "Syphilis",
     "Cholera"
    ],
-   "a": 1,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Bordetella pertussis bacteria causes Whooping cough."
+   "answer": 1,
+   "explanation": "Bordetella pertussis bacteria causes Whooping cough.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00200",
-   "q": "Which body part performs the function of Transport of nutrients?",
-   "o": [
+   "question": "Which body part performs the function of Transport of nutrients?",
+   "options": [
     "Plasma",
     "Thyroid gland",
     "Pancreas",
     "Skin"
    ],
-   "a": 0,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Transport of nutrients is performed by the Plasma."
+   "answer": 0,
+   "explanation": "Transport of nutrients is performed by the Plasma.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00201",
-   "q": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
+   "options": [
     "Vitamin B12 - Muscle weakness",
     "Vitamin B12 - Megaloblastic anaemia",
     "Vitamin B12 - Pellagra",
     "Vitamin B12 - Pernicious anaemia"
    ],
-   "a": 3,
-   "t": "Vitamins and Deficiencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Vitamin B12 - Pernicious anaemia is correctly matched."
+   "answer": 3,
+   "explanation": "Only Vitamin B12 - Pernicious anaemia is correctly matched.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00202",
-   "q": "Fungi causes which of the following diseases?",
-   "o": [
+   "question": "Fungi causes which of the following diseases?",
+   "options": [
     "Athlete's foot",
     "Plague",
     "Diphtheria",
     "Poliomyelitis"
    ],
-   "a": 0,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Fungi causes Athlete's foot."
+   "answer": 0,
+   "explanation": "Fungi causes Athlete's foot.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00203",
-   "q": "Which body part performs the function of Helps in breathing?",
-   "o": [
+   "question": "Which body part performs the function of Helps in breathing?",
+   "options": [
     "Diaphragm",
     "Aorta",
     "Vena cava",
     "Neurons"
    ],
-   "a": 0,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Helps in breathing is performed by the Diaphragm."
+   "answer": 0,
+   "explanation": "Helps in breathing is performed by the Diaphragm.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00204",
-   "q": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
+   "options": [
     "Vitamin B9 - Megaloblastic anaemia",
     "Vitamin B9 - Pernicious anaemia",
     "Vitamin B9 - Anaemia",
     "Vitamin B9 - Ariboflavinosis"
    ],
-   "a": 0,
-   "t": "Vitamins and Deficiencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Vitamin B9 - Megaloblastic anaemia is correctly matched."
+   "answer": 0,
+   "explanation": "Only Vitamin B9 - Megaloblastic anaemia is correctly matched.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00205",
-   "q": "Leishmania donovani causes which of the following diseases?",
-   "o": [
+   "question": "Leishmania donovani causes which of the following diseases?",
+   "options": [
     "Kala-azar",
     "Sleeping sickness",
     "Yellow fever",
     "Hepatitis B"
    ],
-   "a": 0,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Leishmania donovani causes Kala-azar."
+   "answer": 0,
+   "explanation": "Leishmania donovani causes Kala-azar.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00206",
-   "q": "Which body part performs the function of Basic filtering units of the kidney?",
-   "o": [
+   "question": "Which body part performs the function of Basic filtering units of the kidney?",
+   "options": [
     "Nephrons",
     "Cornea",
     "Bone marrow",
     "Ovaries"
    ],
-   "a": 0,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Basic filtering units of the kidney is performed by the Nephrons."
+   "answer": 0,
+   "explanation": "Basic filtering units of the kidney is performed by the Nephrons.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00207",
-   "q": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
+   "options": [
     "Vitamin B9 - Tetany",
     "Vitamin B9 - Beri Beri",
     "Vitamin B9 - Night blindness",
     "Vitamin B9 - Megaloblastic anaemia"
    ],
-   "a": 3,
-   "t": "Vitamins and Deficiencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Vitamin B9 - Megaloblastic anaemia is correctly matched."
+   "answer": 3,
+   "explanation": "Only Vitamin B9 - Megaloblastic anaemia is correctly matched.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00208",
-   "q": "Hepatitis A virus causes which of the following diseases?",
-   "o": [
+   "question": "Hepatitis A virus causes which of the following diseases?",
+   "options": [
     "Hepatitis A",
     "Mumps",
     "Influenza",
     "Syphilis"
    ],
-   "a": 0,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Hepatitis A virus causes Hepatitis A."
+   "answer": 0,
+   "explanation": "Hepatitis A virus causes Hepatitis A.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00209",
-   "q": "Which body part performs the function of Secretion of thyroxine?",
-   "o": [
+   "question": "Which body part performs the function of Secretion of thyroxine?",
+   "options": [
     "Villi",
     "Liver",
     "Cornea",
     "Thyroid gland"
    ],
-   "a": 3,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Secretion of thyroxine is performed by the Thyroid gland."
+   "answer": 3,
+   "explanation": "Secretion of thyroxine is performed by the Thyroid gland.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00210",
-   "q": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
+   "options": [
     "Vitamin A - Growth retardation",
     "Vitamin A - Ariboflavinosis",
     "Vitamin A - Night blindness",
     "Vitamin A - Delayed blood clotting"
    ],
-   "a": 2,
-   "t": "Vitamins and Deficiencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Vitamin A - Night blindness is correctly matched."
+   "answer": 2,
+   "explanation": "Only Vitamin A - Night blindness is correctly matched.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00211",
-   "q": "Yersinia pestis bacteria causes which of the following diseases?",
-   "o": [
+   "question": "Yersinia pestis bacteria causes which of the following diseases?",
+   "options": [
     "Scabies",
     "Chikungunya",
     "Mumps",
     "Plague"
    ],
-   "a": 3,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Yersinia pestis bacteria causes Plague."
+   "answer": 3,
+   "explanation": "Yersinia pestis bacteria causes Plague.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00212",
-   "q": "Which body part performs the function of Filtration of blood and urine formation?",
-   "o": [
+   "question": "Which body part performs the function of Filtration of blood and urine formation?",
+   "options": [
     "Cochlea",
     "Hemoglobin",
     "Thyroid gland",
     "Kidneys"
    ],
-   "a": 3,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Filtration of blood and urine formation is performed by the Kidneys."
+   "answer": 3,
+   "explanation": "Filtration of blood and urine formation is performed by the Kidneys.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00213",
-   "q": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
+   "options": [
     "Vitamin A - Night blindness",
     "Vitamin A - Megaloblastic anaemia",
     "Vitamin A - Rickets in children",
     "Vitamin A - Dehydration"
    ],
-   "a": 0,
-   "t": "Vitamins and Deficiencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Vitamin A - Night blindness is correctly matched."
+   "answer": 0,
+   "explanation": "Only Vitamin A - Night blindness is correctly matched.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00214",
-   "q": "Salmonella typhi bacteria causes which of the following diseases?",
-   "o": [
+   "question": "Salmonella typhi bacteria causes which of the following diseases?",
+   "options": [
     "Chickenpox",
     "Common cold",
     "Plague",
     "Typhoid"
    ],
-   "a": 3,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Salmonella typhi bacteria causes Typhoid."
+   "answer": 3,
+   "explanation": "Salmonella typhi bacteria causes Typhoid.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00215",
-   "q": "Which body part performs the function of Exchange of gases?",
-   "o": [
+   "question": "Which body part performs the function of Exchange of gases?",
+   "options": [
     "Skin",
     "Lungs",
     "Aorta",
     "Thyroid gland"
    ],
-   "a": 1,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Exchange of gases is performed by the Lungs."
+   "answer": 1,
+   "explanation": "Exchange of gases is performed by the Lungs.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00216",
-   "q": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
+   "options": [
     "Sodium - Xerophthalmia",
     "Sodium - Paresthesia",
     "Sodium - Dehydration",
     "Sodium - Megaloblastic anaemia"
    ],
-   "a": 2,
-   "t": "Vitamins and Deficiencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Sodium - Dehydration is correctly matched."
+   "answer": 2,
+   "explanation": "Only Sodium - Dehydration is correctly matched.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00217",
-   "q": "Dengue virus causes which of the following diseases?",
-   "o": [
+   "question": "Dengue virus causes which of the following diseases?",
+   "options": [
     "Poliomyelitis",
     "Dengue",
     "Sleeping sickness",
     "Plague"
    ],
-   "a": 1,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Dengue virus causes Dengue."
+   "answer": 1,
+   "explanation": "Dengue virus causes Dengue.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00218",
-   "q": "Which body part performs the function of Control centre of the body?",
-   "o": [
+   "question": "Which body part performs the function of Control centre of the body?",
+   "options": [
     "Brain",
     "Insulin",
     "Lungs",
     "Retina"
    ],
-   "a": 0,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Control centre of the body is performed by the Brain."
+   "answer": 0,
+   "explanation": "Control centre of the body is performed by the Brain.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00219",
-   "q": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
+   "options": [
     "Sodium - Dehydration",
     "Sodium - Pellagra",
     "Sodium - Night blindness",
     "Sodium - Goitre"
    ],
-   "a": 0,
-   "t": "Vitamins and Deficiencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Sodium - Dehydration is correctly matched."
+   "answer": 0,
+   "explanation": "Only Sodium - Dehydration is correctly matched.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00220",
-   "q": "Vibrio cholerae bacteria causes which of the following diseases?",
-   "o": [
+   "question": "Vibrio cholerae bacteria causes which of the following diseases?",
+   "options": [
     "Cholera",
     "Meningitis",
     "Dengue",
     "Measles"
    ],
-   "a": 0,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Vibrio cholerae bacteria causes Cholera."
+   "answer": 0,
+   "explanation": "Vibrio cholerae bacteria causes Cholera.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00221",
-   "q": "Which body part performs the function of Transport of oxygen?",
-   "o": [
+   "question": "Which body part performs the function of Transport of oxygen?",
+   "options": [
     "Neurons",
     "Small intestine",
     "Plasma",
     "Red blood cells"
    ],
-   "a": 3,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Transport of oxygen is performed by the Red blood cells."
+   "answer": 3,
+   "explanation": "Transport of oxygen is performed by the Red blood cells.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00222",
-   "q": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
+   "options": [
     "Vitamin C - Goitre",
     "Vitamin C - Scurvy",
     "Vitamin C - Xerophthalmia",
     "Vitamin C - Rickets in children"
    ],
-   "a": 1,
-   "t": "Vitamins and Deficiencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Vitamin C - Scurvy is correctly matched."
+   "answer": 1,
+   "explanation": "Only Vitamin C - Scurvy is correctly matched.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00223",
-   "q": "Wuchereria bancrofti causes which of the following diseases?",
-   "o": [
+   "question": "Wuchereria bancrofti causes which of the following diseases?",
+   "options": [
     "Hepatitis B",
     "Leprosy",
     "Athlete's foot",
     "Filariasis"
    ],
-   "a": 3,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Wuchereria bancrofti causes Filariasis."
+   "answer": 3,
+   "explanation": "Wuchereria bancrofti causes Filariasis.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00224",
-   "q": "Which body part performs the function of Controls blood sugar?",
-   "o": [
+   "question": "Which body part performs the function of Controls blood sugar?",
+   "options": [
     "Pituitary gland",
     "Vena cava",
     "Insulin",
     "Heart"
    ],
-   "a": 2,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Controls blood sugar is performed by the Insulin."
+   "answer": 2,
+   "explanation": "Controls blood sugar is performed by the Insulin.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00225",
-   "q": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
+   "options": [
     "Vitamin C - Tetany",
     "Vitamin C - Anaemia",
     "Vitamin C - Scurvy",
     "Vitamin C - Osteoporosis"
    ],
-   "a": 2,
-   "t": "Vitamins and Deficiencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Vitamin C - Scurvy is correctly matched."
+   "answer": 2,
+   "explanation": "Only Vitamin C - Scurvy is correctly matched.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00226",
-   "q": "Neisseria meningitidis bacteria causes which of the following diseases?",
-   "o": [
+   "question": "Neisseria meningitidis bacteria causes which of the following diseases?",
+   "options": [
     "Anthrax",
     "Yellow fever",
     "Meningitis",
     "Malaria"
    ],
-   "a": 2,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Neisseria meningitidis bacteria causes Meningitis."
+   "answer": 2,
+   "explanation": "Neisseria meningitidis bacteria causes Meningitis.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00227",
-   "q": "Which body part performs the function of Master gland of the body?",
-   "o": [
+   "question": "Which body part performs the function of Master gland of the body?",
+   "options": [
     "Kidneys",
     "Pituitary gland",
     "Liver",
     "Tongue"
    ],
-   "a": 1,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Master gland of the body is performed by the Pituitary gland."
+   "answer": 1,
+   "explanation": "Master gland of the body is performed by the Pituitary gland.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00228",
-   "q": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
+   "options": [
     "Phosphorus - Rickets in children",
     "Phosphorus - Tetany",
     "Phosphorus - Paresthesia",
     "Phosphorus - Night blindness"
    ],
-   "a": 0,
-   "t": "Vitamins and Deficiencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Phosphorus - Rickets in children is correctly matched."
+   "answer": 0,
+   "explanation": "Only Phosphorus - Rickets in children is correctly matched.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00229",
-   "q": "Bacillus anthracis bacteria causes which of the following diseases?",
-   "o": [
+   "question": "Bacillus anthracis bacteria causes which of the following diseases?",
+   "options": [
     "Typhoid",
     "Anthrax",
     "Chikungunya",
     "Smallpox"
    ],
-   "a": 1,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Bacillus anthracis bacteria causes Anthrax."
+   "answer": 1,
+   "explanation": "Bacillus anthracis bacteria causes Anthrax.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00230",
-   "q": "Which body part performs the function of Secretion of insulin?",
-   "o": [
+   "question": "Which body part performs the function of Secretion of insulin?",
+   "options": [
     "Platelets",
     "Tongue",
     "Pancreas",
     "Kidneys"
    ],
-   "a": 2,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Secretion of insulin is performed by the Pancreas."
+   "answer": 2,
+   "explanation": "Secretion of insulin is performed by the Pancreas.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00231",
-   "q": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
+   "options": [
     "Phosphorus - Goitre",
     "Phosphorus - Rickets in children",
     "Phosphorus - Muscle weakness",
     "Phosphorus - Excessive bleeding"
    ],
-   "a": 1,
-   "t": "Vitamins and Deficiencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Phosphorus - Rickets in children is correctly matched."
+   "answer": 1,
+   "explanation": "Only Phosphorus - Rickets in children is correctly matched.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00232",
-   "q": "Corynebacterium diphtheriae bacteria causes which of the following diseases?",
-   "o": [
+   "question": "Corynebacterium diphtheriae bacteria causes which of the following diseases?",
+   "options": [
     "Amoebic dysentery",
     "Smallpox",
     "Diphtheria",
     "Typhoid"
    ],
-   "a": 2,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Corynebacterium diphtheriae bacteria causes Diphtheria."
+   "answer": 2,
+   "explanation": "Corynebacterium diphtheriae bacteria causes Diphtheria.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00233",
-   "q": "Which of the following pairs of body part and function is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of body part and function is correctly matched?",
+   "options": [
     "Large intestine - Filtration of blood and urine formation",
     "Large intestine - Absorption of water",
     "Large intestine - Exchange of oxygen and carbon dioxide",
     "Large intestine - Taste and speech"
    ],
-   "a": 1,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Large intestine - Absorption of water is correctly matched."
+   "answer": 1,
+   "explanation": "Only Large intestine - Absorption of water is correctly matched.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00234",
-   "q": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
+   "options": [
     "Vitamin K and Protein - Anaemia",
     "Vitamin K and Protein - Rickets",
     "Vitamin K and Protein - Delayed blood clotting",
     "Vitamin K and Protein - Megaloblastic anaemia"
    ],
-   "a": 2,
-   "t": "Vitamins and Deficiencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Vitamin K and Protein - Delayed blood clotting is correctly matched."
+   "answer": 2,
+   "explanation": "Only Vitamin K and Protein - Delayed blood clotting is correctly matched.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00235",
-   "q": "Which of the following pairs of disease and causative agent is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of disease and causative agent is correctly matched?",
+   "options": [
     "Tetanus - Salmonella typhi bacteria",
     "Tetanus - Clostridium tetani bacteria",
     "Tetanus - Human Immunodeficiency Virus",
     "Tetanus - Variola virus"
    ],
-   "a": 1,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Tetanus - Clostridium tetani bacteria is correctly matched."
+   "answer": 1,
+   "explanation": "Only Tetanus - Clostridium tetani bacteria is correctly matched.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00236",
-   "q": "Which of the following pairs of body part and function is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of body part and function is correctly matched?",
+   "options": [
     "Large intestine - Formation of blood cells",
     "Large intestine - Detoxification and bile secretion",
     "Large intestine - Controls body metabolism",
     "Large intestine - Absorption of water"
    ],
-   "a": 3,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Large intestine - Absorption of water is correctly matched."
+   "answer": 3,
+   "explanation": "Only Large intestine - Absorption of water is correctly matched.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00237",
-   "q": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
+   "options": [
     "Vitamin K and Protein - Dehydration",
     "Vitamin K and Protein - Xerophthalmia",
     "Vitamin K and Protein - Delayed blood clotting",
     "Vitamin K and Protein - Haemolysis of red blood cells"
    ],
-   "a": 2,
-   "t": "Vitamins and Deficiencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Vitamin K and Protein - Delayed blood clotting is correctly matched."
+   "answer": 2,
+   "explanation": "Only Vitamin K and Protein - Delayed blood clotting is correctly matched.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00238",
-   "q": "Which of the following pairs of disease and causative agent is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of disease and causative agent is correctly matched?",
+   "options": [
     "Tetanus - Bordetella pertussis bacteria",
     "Tetanus - Chikungunya virus",
     "Tetanus - Streptococcus pneumoniae bacteria",
     "Tetanus - Clostridium tetani bacteria"
    ],
-   "a": 3,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Tetanus - Clostridium tetani bacteria is correctly matched."
+   "answer": 3,
+   "explanation": "Only Tetanus - Clostridium tetani bacteria is correctly matched.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00239",
-   "q": "Which of the following pairs of body part and function is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of body part and function is correctly matched?",
+   "options": [
     "Brain - Protection and temperature regulation",
     "Brain - Taste and speech",
     "Brain - Control centre of the body",
     "Brain - Master gland of the body"
    ],
-   "a": 2,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Brain - Control centre of the body is correctly matched."
+   "answer": 2,
+   "explanation": "Only Brain - Control centre of the body is correctly matched.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00240",
-   "q": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
+   "options": [
     "Zinc - Growth retardation",
     "Zinc - Osteoporosis",
     "Zinc - Muscle weakness",
     "Zinc - Rickets"
    ],
-   "a": 0,
-   "t": "Vitamins and Deficiencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Zinc - Growth retardation is correctly matched."
+   "answer": 0,
+   "explanation": "Only Zinc - Growth retardation is correctly matched.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00241",
-   "q": "Which of the following pairs of disease and causative agent is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of disease and causative agent is correctly matched?",
+   "options": [
     "Cholera - Poliovirus",
     "Cholera - Variola virus",
     "Cholera - Vibrio cholerae bacteria",
     "Cholera - Bacillus anthracis bacteria"
    ],
-   "a": 2,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Cholera - Vibrio cholerae bacteria is correctly matched."
+   "answer": 2,
+   "explanation": "Only Cholera - Vibrio cholerae bacteria is correctly matched.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00242",
-   "q": "Which of the following pairs of body part and function is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of body part and function is correctly matched?",
+   "options": [
     "Brain - Refraction of light in the eye",
     "Brain - Control centre of the body",
     "Brain - Transport of oxygen",
     "Brain - Secretion of thyroxine"
    ],
-   "a": 1,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Brain - Control centre of the body is correctly matched."
+   "answer": 1,
+   "explanation": "Only Brain - Control centre of the body is correctly matched.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00243",
-   "q": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
+   "options": [
     "Zinc - Anaemia",
     "Zinc - Megaloblastic anaemia",
     "Zinc - Night blindness",
     "Zinc - Growth retardation"
    ],
-   "a": 3,
-   "t": "Vitamins and Deficiencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Zinc - Growth retardation is correctly matched."
+   "answer": 3,
+   "explanation": "Only Zinc - Growth retardation is correctly matched.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00244",
-   "q": "Which of the following pairs of disease and causative agent is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of disease and causative agent is correctly matched?",
+   "options": [
     "Cholera - Mumps virus",
     "Cholera - Vibrio cholerae bacteria",
     "Cholera - Wuchereria bancrofti",
     "Cholera - Yersinia pestis bacteria"
    ],
-   "a": 1,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Cholera - Vibrio cholerae bacteria is correctly matched."
+   "answer": 1,
+   "explanation": "Only Cholera - Vibrio cholerae bacteria is correctly matched.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00245",
-   "q": "Which of the following pairs of body part and function is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of body part and function is correctly matched?",
+   "options": [
     "Skin - Transport of oxygen",
     "Skin - Protection and temperature regulation",
     "Skin - Exchange of oxygen and carbon dioxide",
     "Skin - Basic filtering units of the kidney"
    ],
-   "a": 1,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Skin - Protection and temperature regulation is correctly matched."
+   "answer": 1,
+   "explanation": "Only Skin - Protection and temperature regulation is correctly matched.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00246",
-   "q": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
+   "options": [
     "Vitamin K - Tetany",
     "Vitamin K - Pernicious anaemia",
     "Vitamin K - Tooth decay",
     "Vitamin K - Excessive bleeding"
    ],
-   "a": 3,
-   "t": "Vitamins and Deficiencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Vitamin K - Excessive bleeding is correctly matched."
+   "answer": 3,
+   "explanation": "Only Vitamin K - Excessive bleeding is correctly matched.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00247",
-   "q": "Which of the following pairs of disease and causative agent is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of disease and causative agent is correctly matched?",
+   "options": [
     "Poliomyelitis - Wuchereria bancrofti",
     "Poliomyelitis - Poliovirus",
     "Poliomyelitis - Human Immunodeficiency Virus",
     "Poliomyelitis - Hepatitis A virus"
    ],
-   "a": 1,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Poliomyelitis - Poliovirus is correctly matched."
+   "answer": 1,
+   "explanation": "Only Poliomyelitis - Poliovirus is correctly matched.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00248",
-   "q": "Which of the following pairs of body part and function is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of body part and function is correctly matched?",
+   "options": [
     "Skin - Absorption of water",
     "Skin - Filtration of blood and urine formation",
     "Skin - Protection and temperature regulation",
     "Skin - Increase surface area for absorption"
    ],
-   "a": 2,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Skin - Protection and temperature regulation is correctly matched."
+   "answer": 2,
+   "explanation": "Only Skin - Protection and temperature regulation is correctly matched.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00249",
-   "q": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
+   "options": [
     "Vitamin K - Paresthesia",
     "Vitamin K - Scurvy",
     "Vitamin K - Anaemia",
     "Vitamin K - Excessive bleeding"
    ],
-   "a": 3,
-   "t": "Vitamins and Deficiencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Vitamin K - Excessive bleeding is correctly matched."
+   "answer": 3,
+   "explanation": "Only Vitamin K - Excessive bleeding is correctly matched.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00250",
-   "q": "Which of the following pairs of disease and causative agent is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of disease and causative agent is correctly matched?",
+   "options": [
     "Poliomyelitis - Clostridium tetani bacteria",
     "Poliomyelitis - Salmonella typhi bacteria",
     "Poliomyelitis - Poliovirus",
     "Poliomyelitis - Sarcoptes scabiei mite"
    ],
-   "a": 2,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Poliomyelitis - Poliovirus is correctly matched."
+   "answer": 2,
+   "explanation": "Only Poliomyelitis - Poliovirus is correctly matched.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00251",
-   "q": "Which of the following pairs of body part and function is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of body part and function is correctly matched?",
+   "options": [
     "Cornea - Refraction of light in the eye",
     "Cornea - Detoxification and bile secretion",
     "Cornea - Transport of oxygen",
     "Cornea - Absorption of digested food"
    ],
-   "a": 0,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Cornea - Refraction of light in the eye is correctly matched."
+   "answer": 0,
+   "explanation": "Only Cornea - Refraction of light in the eye is correctly matched.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00252",
-   "q": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
+   "options": [
     "Vitamin E - Tooth decay",
     "Vitamin E - Haemolysis of red blood cells",
     "Vitamin E - Rickets",
     "Vitamin E - Anaemia"
    ],
-   "a": 1,
-   "t": "Vitamins and Deficiencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Vitamin E - Haemolysis of red blood cells is correctly matched."
+   "answer": 1,
+   "explanation": "Only Vitamin E - Haemolysis of red blood cells is correctly matched.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00253",
-   "q": "Which of the following pairs of disease and causative agent is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of disease and causative agent is correctly matched?",
+   "options": [
     "Mumps - Mumps virus",
     "Mumps - Chikungunya virus",
     "Mumps - Wuchereria bancrofti",
     "Mumps - Mycobacterium leprae bacteria"
    ],
-   "a": 0,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Mumps - Mumps virus is correctly matched."
+   "answer": 0,
+   "explanation": "Only Mumps - Mumps virus is correctly matched.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00254",
-   "q": "Which of the following pairs of body part and function is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of body part and function is correctly matched?",
+   "options": [
     "Cornea - Basic filtering units of the kidney",
     "Cornea - Refraction of light in the eye",
     "Cornea - Oxygen carrying pigment",
     "Cornea - Sensitive layer of the eye"
    ],
-   "a": 1,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Cornea - Refraction of light in the eye is correctly matched."
+   "answer": 1,
+   "explanation": "Only Cornea - Refraction of light in the eye is correctly matched.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00255",
-   "q": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
+   "options": [
     "Vitamin E - Rickets",
     "Vitamin E - Anaemia",
     "Vitamin E - Dehydration",
     "Vitamin E - Haemolysis of red blood cells"
    ],
-   "a": 3,
-   "t": "Vitamins and Deficiencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Vitamin E - Haemolysis of red blood cells is correctly matched."
+   "answer": 3,
+   "explanation": "Only Vitamin E - Haemolysis of red blood cells is correctly matched.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00256",
-   "q": "Which of the following pairs of disease and causative agent is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of disease and causative agent is correctly matched?",
+   "options": [
     "Mumps - Hepatitis A virus",
     "Mumps - Mumps virus",
     "Mumps - Rhinovirus",
     "Mumps - Measles virus"
    ],
-   "a": 1,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Mumps - Mumps virus is correctly matched."
+   "answer": 1,
+   "explanation": "Only Mumps - Mumps virus is correctly matched.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00257",
-   "q": "Which of the following pairs of body part and function is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of body part and function is correctly matched?",
+   "options": [
     "Red blood cells - Helps in breathing",
     "Red blood cells - Production of eggs",
     "Red blood cells - Transport of oxygen",
     "Red blood cells - Hearing in the ear"
    ],
-   "a": 2,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Red blood cells - Transport of oxygen is correctly matched."
+   "answer": 2,
+   "explanation": "Only Red blood cells - Transport of oxygen is correctly matched.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00258",
-   "q": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
+   "options": [
     "Vitamin B5 - Megaloblastic anaemia",
     "Vitamin B5 - Osteoporosis",
     "Vitamin B5 - Paresthesia",
     "Vitamin B5 - Tetany"
    ],
-   "a": 2,
-   "t": "Vitamins and Deficiencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Vitamin B5 - Paresthesia is correctly matched."
+   "answer": 2,
+   "explanation": "Only Vitamin B5 - Paresthesia is correctly matched.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00259",
-   "q": "Which of the following pairs of disease and causative agent is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of disease and causative agent is correctly matched?",
+   "options": [
     "Filariasis - Leishmania donovani",
     "Filariasis - Treponema pallidum bacteria",
     "Filariasis - Wuchereria bancrofti",
     "Filariasis - Varicella zoster virus"
    ],
-   "a": 2,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Filariasis - Wuchereria bancrofti is correctly matched."
+   "answer": 2,
+   "explanation": "Only Filariasis - Wuchereria bancrofti is correctly matched.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00260",
-   "q": "Which of the following pairs of body part and function is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of body part and function is correctly matched?",
+   "options": [
     "Red blood cells - Absorption of water",
     "Red blood cells - Secretion of thyroxine",
     "Red blood cells - Basic filtering units of the kidney",
     "Red blood cells - Transport of oxygen"
    ],
-   "a": 3,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Red blood cells - Transport of oxygen is correctly matched."
+   "answer": 3,
+   "explanation": "Only Red blood cells - Transport of oxygen is correctly matched.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00261",
-   "q": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
+   "options": [
     "Vitamin B5 - Paresthesia",
     "Vitamin B5 - Ariboflavinosis",
     "Vitamin B5 - Anaemia",
     "Vitamin B5 - Beri Beri"
    ],
-   "a": 0,
-   "t": "Vitamins and Deficiencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Vitamin B5 - Paresthesia is correctly matched."
+   "answer": 0,
+   "explanation": "Only Vitamin B5 - Paresthesia is correctly matched.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00262",
-   "q": "Which of the following pairs of disease and causative agent is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of disease and causative agent is correctly matched?",
+   "options": [
     "Filariasis - Clostridium tetani bacteria",
     "Filariasis - Yersinia pestis bacteria",
     "Filariasis - Hepatitis A virus",
     "Filariasis - Wuchereria bancrofti"
    ],
-   "a": 3,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Filariasis - Wuchereria bancrofti is correctly matched."
+   "answer": 3,
+   "explanation": "Only Filariasis - Wuchereria bancrofti is correctly matched.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00263",
-   "q": "Which of the following pairs of body part and function is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of body part and function is correctly matched?",
+   "options": [
     "Heart - Pumping blood",
     "Heart - Basic filtering units of the kidney",
     "Heart - Transmission of nerve impulses",
     "Heart - Production of sperm"
    ],
-   "a": 0,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Heart - Pumping blood is correctly matched."
+   "answer": 0,
+   "explanation": "Only Heart - Pumping blood is correctly matched.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00264",
-   "q": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
+   "options": [
     "Vitamin B3 - Anaemia",
     "Vitamin B3 - Pellagra",
     "Vitamin B3 - Ariboflavinosis",
     "Vitamin B3 - Beri Beri"
    ],
-   "a": 1,
-   "t": "Vitamins and Deficiencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Vitamin B3 - Pellagra is correctly matched."
+   "answer": 1,
+   "explanation": "Only Vitamin B3 - Pellagra is correctly matched.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00265",
-   "q": "Which of the following pairs of disease and causative agent is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of disease and causative agent is correctly matched?",
+   "options": [
     "Malaria - Plasmodium",
     "Malaria - Hepatitis A virus",
     "Malaria - Hepatitis B virus",
     "Malaria - Neisseria gonorrhoeae bacteria"
    ],
-   "a": 0,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Malaria - Plasmodium is correctly matched."
+   "answer": 0,
+   "explanation": "Only Malaria - Plasmodium is correctly matched.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00266",
-   "q": "Which of the following pairs of body part and function is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of body part and function is correctly matched?",
+   "options": [
     "Heart - Taste and speech",
     "Heart - Pumping blood",
     "Heart - Production of blood cells",
     "Heart - Protection and temperature regulation"
    ],
-   "a": 1,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Heart - Pumping blood is correctly matched."
+   "answer": 1,
+   "explanation": "Only Heart - Pumping blood is correctly matched.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00267",
-   "q": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
+   "options": [
     "Vitamin B3 - Paresthesia",
     "Vitamin B3 - Dehydration",
     "Vitamin B3 - Goitre",
     "Vitamin B3 - Pellagra"
    ],
-   "a": 3,
-   "t": "Vitamins and Deficiencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Vitamin B3 - Pellagra is correctly matched."
+   "answer": 3,
+   "explanation": "Only Vitamin B3 - Pellagra is correctly matched.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00268",
-   "q": "Which of the following pairs of disease and causative agent is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of disease and causative agent is correctly matched?",
+   "options": [
     "Malaria - Variola virus",
     "Malaria - Plasmodium",
     "Malaria - Influenza virus",
     "Malaria - Poliovirus"
    ],
-   "a": 1,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Malaria - Plasmodium is correctly matched."
+   "answer": 1,
+   "explanation": "Only Malaria - Plasmodium is correctly matched.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00269",
-   "q": "Which of the following pairs of body part and function is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of body part and function is correctly matched?",
+   "options": [
     "Pituitary gland - Master gland of the body",
     "Pituitary gland - Body immunity",
     "Pituitary gland - Secretion of adrenaline",
     "Pituitary gland - Increase surface area for absorption"
    ],
-   "a": 0,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Pituitary gland - Master gland of the body is correctly matched."
+   "answer": 0,
+   "explanation": "Only Pituitary gland - Master gland of the body is correctly matched.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00270",
-   "q": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
+   "options": [
     "Potassium - Anaemia",
     "Potassium - Muscle weakness",
     "Potassium - Dermatitis",
     "Potassium - Scurvy"
    ],
-   "a": 1,
-   "t": "Vitamins and Deficiencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Potassium - Muscle weakness is correctly matched."
+   "answer": 1,
+   "explanation": "Only Potassium - Muscle weakness is correctly matched.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00271",
-   "q": "Which of the following pairs of disease and causative agent is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of disease and causative agent is correctly matched?",
+   "options": [
     "Anthrax - Bacillus anthracis bacteria",
     "Anthrax - Fungi",
     "Anthrax - Rabies virus",
     "Anthrax - Sarcoptes scabiei mite"
    ],
-   "a": 0,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Anthrax - Bacillus anthracis bacteria is correctly matched."
+   "answer": 0,
+   "explanation": "Only Anthrax - Bacillus anthracis bacteria is correctly matched.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00272",
-   "q": "Which of the following pairs of body part and function is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of body part and function is correctly matched?",
+   "options": [
     "Pituitary gland - Largest vein",
     "Pituitary gland - Secretion of insulin",
     "Pituitary gland - Master gland of the body",
     "Pituitary gland - Hearing in the ear"
    ],
-   "a": 2,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Pituitary gland - Master gland of the body is correctly matched."
+   "answer": 2,
+   "explanation": "Only Pituitary gland - Master gland of the body is correctly matched.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00273",
-   "q": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
+   "options": [
     "Potassium - Excessive bleeding",
     "Potassium - Pernicious anaemia",
     "Potassium - Beri Beri",
     "Potassium - Muscle weakness"
    ],
-   "a": 3,
-   "t": "Vitamins and Deficiencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Potassium - Muscle weakness is correctly matched."
+   "answer": 3,
+   "explanation": "Only Potassium - Muscle weakness is correctly matched.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00274",
-   "q": "Which of the following pairs of disease and causative agent is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of disease and causative agent is correctly matched?",
+   "options": [
     "Anthrax - Yellow fever virus",
     "Anthrax - Corynebacterium diphtheriae bacteria",
     "Anthrax - Bacillus anthracis bacteria",
     "Anthrax - Varicella zoster virus"
    ],
-   "a": 2,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Anthrax - Bacillus anthracis bacteria is correctly matched."
+   "answer": 2,
+   "explanation": "Only Anthrax - Bacillus anthracis bacteria is correctly matched.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00275",
-   "q": "Which of the following pairs of body part and function is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of body part and function is correctly matched?",
+   "options": [
     "Testes - Formation of blood cells",
     "Testes - Transport of nutrients",
     "Testes - Refraction of light in the eye",
     "Testes - Production of sperm"
    ],
-   "a": 3,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Testes - Production of sperm is correctly matched."
+   "answer": 3,
+   "explanation": "Only Testes - Production of sperm is correctly matched.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00276",
-   "q": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
+   "options": [
     "Iron - Anaemia and bone disorders",
     "Iron - Anaemia",
     "Iron - Muscle weakness",
     "Iron - Pernicious anaemia"
    ],
-   "a": 1,
-   "t": "Vitamins and Deficiencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Iron - Anaemia is correctly matched."
+   "answer": 1,
+   "explanation": "Only Iron - Anaemia is correctly matched.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00277",
-   "q": "Which of the following pairs of disease and causative agent is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of disease and causative agent is correctly matched?",
+   "options": [
     "Gonorrhoea - Bordetella pertussis bacteria",
     "Gonorrhoea - Fungi",
     "Gonorrhoea - Mumps virus",
     "Gonorrhoea - Neisseria gonorrhoeae bacteria"
    ],
-   "a": 3,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Gonorrhoea - Neisseria gonorrhoeae bacteria is correctly matched."
+   "answer": 3,
+   "explanation": "Only Gonorrhoea - Neisseria gonorrhoeae bacteria is correctly matched.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00278",
-   "q": "Which of the following pairs of body part and function is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of body part and function is correctly matched?",
+   "options": [
     "Testes - Filtration of blood and urine formation",
     "Testes - Production of sperm",
     "Testes - Exchange of gases",
     "Testes - Clotting of blood"
    ],
-   "a": 1,
-   "t": "Human Body",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Testes - Production of sperm is correctly matched."
+   "answer": 1,
+   "explanation": "Only Testes - Production of sperm is correctly matched.",
+   "topic": "Human Body",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00279",
-   "q": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of nutrient and deficiency disease is correctly matched?",
+   "options": [
     "Iron - Anaemia",
     "Iron - Ariboflavinosis",
     "Iron - Xerophthalmia",
     "Iron - Haemolysis of red blood cells"
    ],
-   "a": 0,
-   "t": "Vitamins and Deficiencies",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Iron - Anaemia is correctly matched."
+   "answer": 0,
+   "explanation": "Only Iron - Anaemia is correctly matched.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "biology-00280",
-   "q": "Which of the following pairs of disease and causative agent is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of disease and causative agent is correctly matched?",
+   "options": [
     "Gonorrhoea - Salmonella typhi bacteria",
     "Gonorrhoea - Neisseria gonorrhoeae bacteria",
     "Gonorrhoea - Dengue virus",
     "Gonorrhoea - Entamoeba histolytica"
    ],
-   "a": 1,
-   "t": "Diseases and Causative Agents",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Gonorrhoea - Neisseria gonorrhoeae bacteria is correctly matched."
+   "answer": 1,
+   "explanation": "Only Gonorrhoea - Neisseria gonorrhoeae bacteria is correctly matched.",
+   "topic": "Diseases and Causative Agents",
+   "level": 3,
+   "source": "generated"
   }
  ]
 };

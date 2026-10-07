@@ -17,4203 +17,4203 @@
  "questions": [
   {
    "id": "days-events-00001",
-   "q": "World Environment Day is observed on:",
-   "o": [
+   "question": "World Environment Day is observed on:",
+   "options": [
     "5 June",
     "8 March",
     "22 April",
     "7 April"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "It is observed on 5 June every year."
+   "answer": 0,
+   "explanation": "It is observed on 5 June every year.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "days-events-00002",
-   "q": "International Women's Day is observed on:",
-   "o": [
+   "question": "International Women's Day is observed on:",
+   "options": [
     "8 March",
     "7 April",
     "1 May",
     "10 December"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "8 March is International Women's Day."
+   "answer": 0,
+   "explanation": "8 March is International Women's Day.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "days-events-00003",
-   "q": "World Health Day is observed on:",
-   "o": [
+   "question": "World Health Day is observed on:",
+   "options": [
     "7 April",
     "5 June",
     "22 March",
     "16 October"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "World Health Day marks the founding of the WHO on 7 April."
+   "answer": 0,
+   "explanation": "World Health Day marks the founding of the WHO on 7 April.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "days-events-00004",
-   "q": "Human Rights Day is observed on:",
-   "o": [
+   "question": "Human Rights Day is observed on:",
+   "options": [
     "10 December",
     "24 October",
     "1 December",
     "9 December"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "It marks the adoption of the Universal Declaration of Human Rights."
+   "answer": 0,
+   "explanation": "It marks the adoption of the Universal Declaration of Human Rights.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "days-events-00005",
-   "q": "International Yoga Day is observed on:",
-   "o": [
+   "question": "International Yoga Day is observed on:",
+   "options": [
     "21 June",
     "22 April",
     "1 May",
     "11 July"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "The UN declared 21 June as International Yoga Day."
+   "answer": 0,
+   "explanation": "The UN declared 21 June as International Yoga Day.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "days-events-00006",
-   "q": "World Water Day is observed on:",
-   "o": [
+   "question": "World Water Day is observed on:",
+   "options": [
     "22 March",
     "22 April",
     "5 June",
     "21 February"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "World Water Day is observed on 22 March."
+   "answer": 0,
+   "explanation": "World Water Day is observed on 22 March.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "days-events-00007",
-   "q": "Earth Day is observed on:",
-   "o": [
+   "question": "Earth Day is observed on:",
+   "options": [
     "22 April",
     "22 March",
     "5 June",
     "16 September"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Earth Day is observed on 22 April."
+   "answer": 0,
+   "explanation": "Earth Day is observed on 22 April.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "days-events-00008",
-   "q": "United Nations Day is observed on:",
-   "o": [
+   "question": "United Nations Day is observed on:",
+   "options": [
     "24 October",
     "20 October",
     "10 December",
     "1 January"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "UN Day marks the entry into force of the UN Charter on 24 October 1945."
+   "answer": 0,
+   "explanation": "UN Day marks the entry into force of the UN Charter on 24 October 1945.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "days-events-00009",
-   "q": "World Wildlife Day is observed on:",
-   "o": [
+   "question": "World Wildlife Day is observed on:",
+   "options": [
     "3 March",
     "20 March",
     "8 May",
     "21 June"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "It is observed on 3 March."
+   "answer": 0,
+   "explanation": "It is observed on 3 March.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "days-events-00010",
-   "q": "National Science Day in India is observed on:",
-   "o": [
+   "question": "National Science Day in India is observed on:",
+   "options": [
     "28 February",
     "22 December",
     "11 May",
     "12 January"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "It marks the discovery of the Raman effect on 28 February 1928."
+   "answer": 0,
+   "explanation": "It marks the discovery of the Raman effect on 28 February 1928.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "days-events-00011",
-   "q": "National Sports Day in India is observed on:",
-   "o": [
+   "question": "National Sports Day in India is observed on:",
+   "options": [
     "29 August",
     "28 February",
     "14 November",
     "5 September"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "It is the birth anniversary of Major Dhyan Chand."
+   "answer": 0,
+   "explanation": "It is the birth anniversary of Major Dhyan Chand.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "days-events-00012",
-   "q": "Teachers' Day in India is observed on:",
-   "o": [
+   "question": "Teachers' Day in India is observed on:",
+   "options": [
     "5 September",
     "14 November",
     "15 October",
     "11 November"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "It is the birth anniversary of Dr. S. Radhakrishnan."
+   "answer": 0,
+   "explanation": "It is the birth anniversary of Dr. S. Radhakrishnan.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "days-events-00013",
-   "q": "Children's Day in India is observed on:",
-   "o": [
+   "question": "Children's Day in India is observed on:",
+   "options": [
     "14 November",
     "5 September",
     "2 October",
     "15 August"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "It marks the birth anniversary of Pandit Jawaharlal Nehru."
+   "answer": 0,
+   "explanation": "It marks the birth anniversary of Pandit Jawaharlal Nehru.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "days-events-00014",
-   "q": "Republic Day in India is celebrated on:",
-   "o": [
+   "question": "Republic Day in India is celebrated on:",
+   "options": [
     "26 January",
     "15 August",
     "2 October",
     "26 November"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "The Constitution came into force on 26 January 1950."
+   "answer": 0,
+   "explanation": "The Constitution came into force on 26 January 1950.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "days-events-00015",
-   "q": "Independence Day in India is celebrated on:",
-   "o": [
+   "question": "Independence Day in India is celebrated on:",
+   "options": [
     "15 August",
     "26 January",
     "2 October",
     "14 August"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "India became independent on 15 August 1947."
+   "answer": 0,
+   "explanation": "India became independent on 15 August 1947.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "days-events-00016",
-   "q": "Constitution Day of India is observed on:",
-   "o": [
+   "question": "Constitution Day of India is observed on:",
+   "options": [
     "26 November",
     "26 January",
     "15 August",
     "9 December"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "The Constitution was adopted on 26 November 1949."
+   "answer": 0,
+   "explanation": "The Constitution was adopted on 26 November 1949.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "days-events-00017",
-   "q": "National Youth Day in India is observed on:",
-   "o": [
+   "question": "National Youth Day in India is observed on:",
+   "options": [
     "12 January",
     "14 November",
     "25 January",
     "11 November"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "It is the birth anniversary of Swami Vivekananda."
+   "answer": 0,
+   "explanation": "It is the birth anniversary of Swami Vivekananda.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "days-events-00018",
-   "q": "National Mathematics Day in India is observed on:",
-   "o": [
+   "question": "National Mathematics Day in India is observed on:",
+   "options": [
     "22 December",
     "28 February",
     "15 September",
     "1 July"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "It is the birth anniversary of Srinivasa Ramanujan."
+   "answer": 0,
+   "explanation": "It is the birth anniversary of Srinivasa Ramanujan.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "days-events-00019",
-   "q": "Engineers' Day in India is observed on:",
-   "o": [
+   "question": "Engineers' Day in India is observed on:",
+   "options": [
     "15 September",
     "1 July",
     "28 February",
     "11 May"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 3,
-   "s": "curated",
-   "e": "It marks the birth anniversary of M. Visvesvaraya."
+   "answer": 0,
+   "explanation": "It marks the birth anniversary of M. Visvesvaraya.",
+   "topic": "Curated",
+   "level": 3,
+   "source": "curated"
   },
   {
    "id": "days-events-00020",
-   "q": "Doctors' Day in India is observed on:",
-   "o": [
+   "question": "Doctors' Day in India is observed on:",
+   "options": [
     "1 July",
     "15 September",
     "7 April",
     "12 May"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 3,
-   "s": "curated",
-   "e": "It marks the birth and death anniversary of Dr. B. C. Roy."
+   "answer": 0,
+   "explanation": "It marks the birth and death anniversary of Dr. B. C. Roy.",
+   "topic": "Curated",
+   "level": 3,
+   "source": "curated"
   },
   {
    "id": "days-events-00021",
-   "q": "World Ozone Day is observed on:",
-   "o": [
+   "question": "World Ozone Day is observed on:",
+   "options": [
     "16 September",
     "5 June",
     "22 March",
     "24 October"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 3,
-   "s": "curated",
-   "e": "It commemorates the Montreal Protocol signed on 16 September 1987."
+   "answer": 0,
+   "explanation": "It commemorates the Montreal Protocol signed on 16 September 1987.",
+   "topic": "Curated",
+   "level": 3,
+   "source": "curated"
   },
   {
    "id": "days-events-00022",
-   "q": "World AIDS Day is observed on:",
-   "o": [
+   "question": "World AIDS Day is observed on:",
+   "options": [
     "1 December",
     "10 December",
     "16 October",
     "4 February"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "It is observed on 1 December every year."
+   "answer": 0,
+   "explanation": "It is observed on 1 December every year.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "days-events-00023",
-   "q": "On which date is World Population Day observed?",
-   "o": [
+   "question": "On which date is World Population Day observed?",
+   "options": [
     "11 July",
     "19 August",
     "4 February",
     "12 September"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Population Day is observed on 11 July."
+   "answer": 0,
+   "explanation": "World Population Day is observed on 11 July.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00024",
-   "q": "On which date is International Yoga Day observed?",
-   "o": [
+   "question": "On which date is International Yoga Day observed?",
+   "options": [
     "21 June",
     "19 November",
     "22 April",
     "28 July"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "International Yoga Day is observed on 21 June."
+   "answer": 0,
+   "explanation": "International Yoga Day is observed on 21 June.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00025",
-   "q": "On which date is World Animal Day observed?",
-   "o": [
+   "question": "On which date is World Animal Day observed?",
+   "options": [
     "1 June",
     "4 October",
     "22 March",
     "30 November"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Animal Day is observed on 4 October."
+   "answer": 1,
+   "explanation": "World Animal Day is observed on 4 October.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00026",
-   "q": "On which date is World Health Day observed?",
-   "o": [
+   "question": "On which date is World Health Day observed?",
+   "options": [
     "4 February",
     "15 September",
     "8 June",
     "7 April"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Health Day is observed on 7 April."
+   "answer": 3,
+   "explanation": "World Health Day is observed on 7 April.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00027",
-   "q": "On which date is World Red Cross Day observed?",
-   "o": [
+   "question": "On which date is World Red Cross Day observed?",
+   "options": [
     "8 March",
     "8 May",
     "10 October",
     "14 October"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Red Cross Day is observed on 8 May."
+   "answer": 1,
+   "explanation": "World Red Cross Day is observed on 8 May.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00028",
-   "q": "On which date is World Wetlands Day observed?",
-   "o": [
+   "question": "On which date is World Wetlands Day observed?",
+   "options": [
     "28 February",
     "20 May",
     "2 February",
     "9 August"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Wetlands Day is observed on 2 February."
+   "answer": 2,
+   "explanation": "World Wetlands Day is observed on 2 February.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00029",
-   "q": "On which date is World Hypertension Day observed?",
-   "o": [
+   "question": "On which date is World Hypertension Day observed?",
+   "options": [
     "17 May",
     "11 December",
     "10 January",
     "15 September"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Hypertension Day is observed on 17 May."
+   "answer": 0,
+   "explanation": "World Hypertension Day is observed on 17 May.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00030",
-   "q": "On which date is World Food Day observed?",
-   "o": [
+   "question": "On which date is World Food Day observed?",
+   "options": [
     "16 October",
     "13 February",
     "4 October",
     "1 December"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Food Day is observed on 16 October."
+   "answer": 0,
+   "explanation": "World Food Day is observed on 16 October.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00031",
-   "q": "On which date is World Rivers Day observed?",
-   "o": [
+   "question": "On which date is World Rivers Day observed?",
+   "options": [
     "14 November",
     "19 August",
     "1 May",
     "fourth Sunday of September"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Rivers Day is observed on fourth Sunday of September."
+   "answer": 3,
+   "explanation": "World Rivers Day is observed on fourth Sunday of September.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00032",
-   "q": "On which date is Teachers' Day (India) observed?",
-   "o": [
+   "question": "On which date is Teachers' Day (India) observed?",
+   "options": [
     "10 January",
     "10 October",
     "16 October",
     "5 September"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "Teachers' Day (India) is observed on 5 September."
+   "answer": 3,
+   "explanation": "Teachers' Day (India) is observed on 5 September.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00033",
-   "q": "On which date is World Radiography Day observed?",
-   "o": [
+   "question": "On which date is World Radiography Day observed?",
+   "options": [
     "8 September",
     "8 November",
     "12 September",
     "3 May"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Radiography Day is observed on 8 November."
+   "answer": 1,
+   "explanation": "World Radiography Day is observed on 8 November.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00034",
-   "q": "On which date is International Nurses Day observed?",
-   "o": [
+   "question": "On which date is International Nurses Day observed?",
+   "options": [
     "12 May",
     "15 October",
     "20 March",
     "22 April"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "International Nurses Day is observed on 12 May."
+   "answer": 0,
+   "explanation": "International Nurses Day is observed on 12 May.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00035",
-   "q": "On which date is Doctors' Day (India) observed?",
-   "o": [
+   "question": "On which date is Doctors' Day (India) observed?",
+   "options": [
     "21 November",
     "1 July",
     "4 January",
     "28 July"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "Doctors' Day (India) is observed on 1 July."
+   "answer": 1,
+   "explanation": "Doctors' Day (India) is observed on 1 July.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00036",
-   "q": "On which date is World Braille Day observed?",
-   "o": [
+   "question": "On which date is World Braille Day observed?",
+   "options": [
     "8 June",
     "26 July",
     "21 February",
     "4 January"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Braille Day is observed on 4 January."
+   "answer": 3,
+   "explanation": "World Braille Day is observed on 4 January.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00037",
-   "q": "On which date is Republic Day (India) observed?",
-   "o": [
+   "question": "On which date is Republic Day (India) observed?",
+   "options": [
     "26 January",
     "1 July",
     "15 October",
     "10 January"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "Republic Day (India) is observed on 26 January."
+   "answer": 0,
+   "explanation": "Republic Day (India) is observed on 26 January.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00038",
-   "q": "On which date is World Meteorological Day observed?",
-   "o": [
+   "question": "On which date is World Meteorological Day observed?",
+   "options": [
     "29 August",
     "4 October",
     "30 April",
     "23 March"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Meteorological Day is observed on 23 March."
+   "answer": 3,
+   "explanation": "World Meteorological Day is observed on 23 March.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00039",
-   "q": "On which date is World Osteoporosis Day observed?",
-   "o": [
+   "question": "On which date is World Osteoporosis Day observed?",
+   "options": [
     "10 October",
     "14 December",
     "20 October",
     "8 June"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Osteoporosis Day is observed on 20 October."
+   "answer": 2,
+   "explanation": "World Osteoporosis Day is observed on 20 October.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00040",
-   "q": "On which date is World Habitat Day observed?",
-   "o": [
+   "question": "On which date is World Habitat Day observed?",
+   "options": [
     "14 November",
     "first Monday of October",
     "10 February",
     "11 July"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Habitat Day is observed on first Monday of October."
+   "answer": 1,
+   "explanation": "World Habitat Day is observed on first Monday of October.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00041",
-   "q": "On which date is National Science Day (India) observed?",
-   "o": [
+   "question": "On which date is National Science Day (India) observed?",
+   "options": [
     "28 February",
     "26 November",
     "20 May",
     "2 December"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "National Science Day (India) is observed on 28 February."
+   "answer": 0,
+   "explanation": "National Science Day (India) is observed on 28 February.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00042",
-   "q": "On which date is Gandhi Jayanti observed?",
-   "o": [
+   "question": "On which date is Gandhi Jayanti observed?",
+   "options": [
     "2 October",
     "9 October",
     "1 July",
     "24 October"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "Gandhi Jayanti is observed on 2 October."
+   "answer": 0,
+   "explanation": "Gandhi Jayanti is observed on 2 October.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00043",
-   "q": "On which date is Independence Day (India) observed?",
-   "o": [
+   "question": "On which date is Independence Day (India) observed?",
+   "options": [
     "15 August",
     "21 February",
     "8 March",
     "30 June"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "Independence Day (India) is observed on 15 August."
+   "answer": 0,
+   "explanation": "Independence Day (India) is observed on 15 August.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00044",
-   "q": "On which date is World First Aid Day observed?",
-   "o": [
+   "question": "On which date is World First Aid Day observed?",
+   "options": [
     "second Saturday of September",
     "14 December",
     "9 October",
     "20 March"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World First Aid Day is observed on second Saturday of September."
+   "answer": 0,
+   "explanation": "World First Aid Day is observed on second Saturday of September.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00045",
-   "q": "On which date is World Oceans Day observed?",
-   "o": [
+   "question": "On which date is World Oceans Day observed?",
+   "options": [
     "8 June",
     "5 September",
     "20 June",
     "4 February"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Oceans Day is observed on 8 June."
+   "answer": 0,
+   "explanation": "World Oceans Day is observed on 8 June.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00046",
-   "q": "On which date is International Students' Day observed?",
-   "o": [
+   "question": "On which date is International Students' Day observed?",
+   "options": [
     "8 June",
     "third Thursday of November",
     "26 July",
     "17 November"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "International Students' Day is observed on 17 November."
+   "answer": 3,
+   "explanation": "International Students' Day is observed on 17 November.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00047",
-   "q": "On which date is International Migrants Day observed?",
-   "o": [
+   "question": "On which date is International Migrants Day observed?",
+   "options": [
     "15 August",
     "14 November",
     "11 December",
     "18 December"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "International Migrants Day is observed on 18 December."
+   "answer": 3,
+   "explanation": "International Migrants Day is observed on 18 December.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00048",
-   "q": "On which date is World Cities Day observed?",
-   "o": [
+   "question": "On which date is World Cities Day observed?",
+   "options": [
     "11 October",
     "31 October",
     "2 October",
     "15 September"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Cities Day is observed on 31 October."
+   "answer": 1,
+   "explanation": "World Cities Day is observed on 31 October.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00049",
-   "q": "On which date is World Milk Day observed?",
-   "o": [
+   "question": "On which date is World Milk Day observed?",
+   "options": [
     "fourth Sunday of September",
     "11 December",
     "20 May",
     "1 June"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Milk Day is observed on 1 June."
+   "answer": 3,
+   "explanation": "World Milk Day is observed on 1 June.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00050",
-   "q": "On which date is Human Rights Day observed?",
-   "o": [
+   "question": "On which date is Human Rights Day observed?",
+   "options": [
     "10 December",
     "17 May",
     "24 October",
     "15 October"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "Human Rights Day is observed on 10 December."
+   "answer": 0,
+   "explanation": "Human Rights Day is observed on 10 December.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00051",
-   "q": "On which date is World No Tobacco Day observed?",
-   "o": [
+   "question": "On which date is World No Tobacco Day observed?",
+   "options": [
     "31 May",
     "3 May",
     "12 September",
     "17 May"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World No Tobacco Day is observed on 31 May."
+   "answer": 0,
+   "explanation": "World No Tobacco Day is observed on 31 May.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00052",
-   "q": "On which date is Earth Day observed?",
-   "o": [
+   "question": "On which date is Earth Day observed?",
+   "options": [
     "9 October",
     "third Thursday of November",
     "22 April",
     "20 June"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "Earth Day is observed on 22 April."
+   "answer": 2,
+   "explanation": "Earth Day is observed on 22 April.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00053",
-   "q": "On which date is World AIDS Day observed?",
-   "o": [
+   "question": "On which date is World AIDS Day observed?",
+   "options": [
     "4 July",
     "1 December",
     "11 December",
     "24 October"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World AIDS Day is observed on 1 December."
+   "answer": 1,
+   "explanation": "World AIDS Day is observed on 1 December.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00054",
-   "q": "On which date is World Bee Day observed?",
-   "o": [
+   "question": "On which date is World Bee Day observed?",
+   "options": [
     "21 May",
     "20 May",
     "17 November",
     "4 July"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Bee Day is observed on 20 May."
+   "answer": 1,
+   "explanation": "World Bee Day is observed on 20 May.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00055",
-   "q": "On which date is United Nations Day observed?",
-   "o": [
+   "question": "On which date is United Nations Day observed?",
+   "options": [
     "13 November",
     "20 October",
     "24 October",
     "third Thursday of November"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "United Nations Day is observed on 24 October."
+   "answer": 2,
+   "explanation": "United Nations Day is observed on 24 October.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00056",
-   "q": "On which date is National Sports Day (India) observed?",
-   "o": [
+   "question": "On which date is National Sports Day (India) observed?",
+   "options": [
     "29 August",
     "9 December",
     "21 November",
     "18 April"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "National Sports Day (India) is observed on 29 August."
+   "answer": 0,
+   "explanation": "National Sports Day (India) is observed on 29 August.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00057",
-   "q": "On which date is World Toilet Day observed?",
-   "o": [
+   "question": "On which date is World Toilet Day observed?",
+   "options": [
     "20 October",
     "19 November",
     "21 November",
     "12 May"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Toilet Day is observed on 19 November."
+   "answer": 1,
+   "explanation": "World Toilet Day is observed on 19 November.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00058",
-   "q": "On which date is Independence Day (USA) observed?",
-   "o": [
+   "question": "On which date is Independence Day (USA) observed?",
+   "options": [
     "26 July",
     "4 July",
     "11 October",
     "29 September"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "Independence Day (USA) is observed on 4 July."
+   "answer": 1,
+   "explanation": "Independence Day (USA) is observed on 4 July.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00059",
-   "q": "On which date is World Photography Day observed?",
-   "o": [
+   "question": "On which date is World Photography Day observed?",
+   "options": [
     "9 August",
     "12 May",
     "29 September",
     "19 August"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Photography Day is observed on 19 August."
+   "answer": 3,
+   "explanation": "World Photography Day is observed on 19 August.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00060",
-   "q": "On which date is World Wildlife Day observed?",
-   "o": [
+   "question": "On which date is World Wildlife Day observed?",
+   "options": [
     "14 November",
     "1 December",
     "third Thursday of November",
     "3 March"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Wildlife Day is observed on 3 March."
+   "answer": 3,
+   "explanation": "World Wildlife Day is observed on 3 March.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00061",
-   "q": "On which date is World Computer Security Day observed?",
-   "o": [
+   "question": "On which date is World Computer Security Day observed?",
+   "options": [
     "19 August",
     "third Thursday of November",
     "26 July",
     "30 November"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Computer Security Day is observed on 30 November."
+   "answer": 3,
+   "explanation": "World Computer Security Day is observed on 30 November.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00062",
-   "q": "On which date is World Energy Conservation Day observed?",
-   "o": [
+   "question": "On which date is World Energy Conservation Day observed?",
+   "options": [
     "14 December",
     "15 September",
     "14 November",
     "31 October"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Energy Conservation Day is observed on 14 December."
+   "answer": 0,
+   "explanation": "World Energy Conservation Day is observed on 14 December.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00063",
-   "q": "On which date is National Technology Day (India) observed?",
-   "o": [
+   "question": "On which date is National Technology Day (India) observed?",
+   "options": [
     "8 November",
     "1 July",
     "10 February",
     "11 May"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "National Technology Day (India) is observed on 11 May."
+   "answer": 3,
+   "explanation": "National Technology Day (India) is observed on 11 May.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00064",
-   "q": "On which date is International Mountain Day observed?",
-   "o": [
+   "question": "On which date is International Mountain Day observed?",
+   "options": [
     "22 December",
     "20 June",
     "11 December",
     "8 May"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "International Mountain Day is observed on 11 December."
+   "answer": 2,
+   "explanation": "International Mountain Day is observed on 11 December.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00065",
-   "q": "On which date is World Ozone Day observed?",
-   "o": [
+   "question": "On which date is World Ozone Day observed?",
+   "options": [
     "16 September",
     "3 May",
     "7 April",
     "third Thursday of November"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Ozone Day is observed on 16 September."
+   "answer": 0,
+   "explanation": "World Ozone Day is observed on 16 September.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00066",
-   "q": "On which date is International Labour Day observed?",
-   "o": [
+   "question": "On which date is International Labour Day observed?",
+   "options": [
     "14 November",
     "1 May",
     "15 August",
     "5 June"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "International Labour Day is observed on 1 May."
+   "answer": 1,
+   "explanation": "International Labour Day is observed on 1 May.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00067",
-   "q": "On which date is World Post Day observed?",
-   "o": [
+   "question": "On which date is World Post Day observed?",
+   "options": [
     "9 October",
     "23 April",
     "28 July",
     "20 October"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Post Day is observed on 9 October."
+   "answer": 0,
+   "explanation": "World Post Day is observed on 9 October.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00068",
-   "q": "On which date is World Computer Literacy Day observed?",
-   "o": [
+   "question": "On which date is World Computer Literacy Day observed?",
+   "options": [
     "2 December",
     "22 April",
     "11 November",
     "12 September"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Computer Literacy Day is observed on 2 December."
+   "answer": 0,
+   "explanation": "World Computer Literacy Day is observed on 2 December.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00069",
-   "q": "On which date is National Energy Conservation Day (India) observed?",
-   "o": [
+   "question": "On which date is National Energy Conservation Day (India) observed?",
+   "options": [
     "14 December",
     "24 January",
     "12 January",
     "13 November"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "National Energy Conservation Day (India) is observed on 14 December."
+   "answer": 0,
+   "explanation": "National Energy Conservation Day (India) is observed on 14 December.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00070",
-   "q": "On which date is International Anti-Corruption Day observed?",
-   "o": [
+   "question": "On which date is International Anti-Corruption Day observed?",
+   "options": [
     "13 November",
     "14 November",
     "9 December",
     "19 August"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "International Anti-Corruption Day is observed on 9 December."
+   "answer": 2,
+   "explanation": "International Anti-Corruption Day is observed on 9 December.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00071",
-   "q": "On which date is World Hindi Day observed?",
-   "o": [
+   "question": "On which date is World Hindi Day observed?",
+   "options": [
     "31 May",
     "2 February",
     "10 January",
     "10 February"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Hindi Day is observed on 10 January."
+   "answer": 2,
+   "explanation": "World Hindi Day is observed on 10 January.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00072",
-   "q": "On which date is Engineers' Day (India) observed?",
-   "o": [
+   "question": "On which date is Engineers' Day (India) observed?",
+   "options": [
     "18 December",
     "15 September",
     "10 February",
     "14 November"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "Engineers' Day (India) is observed on 15 September."
+   "answer": 1,
+   "explanation": "Engineers' Day (India) is observed on 15 September.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00073",
-   "q": "On which date is World Heritage Day observed?",
-   "o": [
+   "question": "On which date is World Heritage Day observed?",
+   "options": [
     "16 September",
     "7 April",
     "20 October",
     "18 April"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Heritage Day is observed on 18 April."
+   "answer": 3,
+   "explanation": "World Heritage Day is observed on 18 April.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00074",
-   "q": "On which date is World Polio Day observed?",
-   "o": [
+   "question": "On which date is World Polio Day observed?",
+   "options": [
     "31 May",
     "10 January",
     "24 October",
     "11 December"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Polio Day is observed on 24 October."
+   "answer": 2,
+   "explanation": "World Polio Day is observed on 24 October.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00075",
-   "q": "On which date is World Students' Day observed?",
-   "o": [
+   "question": "On which date is World Students' Day observed?",
+   "options": [
     "1 December",
     "9 December",
     "14 December",
     "15 October"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Students' Day is observed on 15 October."
+   "answer": 3,
+   "explanation": "World Students' Day is observed on 15 October.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00076",
-   "q": "On which date is World Cancer Day observed?",
-   "o": [
+   "question": "On which date is World Cancer Day observed?",
+   "options": [
     "2 February",
     "4 February",
     "20 March",
     "21 November"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Cancer Day is observed on 4 February."
+   "answer": 1,
+   "explanation": "World Cancer Day is observed on 4 February.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00077",
-   "q": "On which date is International Mother Language Day observed?",
-   "o": [
+   "question": "On which date is International Mother Language Day observed?",
+   "options": [
     "21 February",
     "first Monday of October",
     "23 March",
     "1 November"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "International Mother Language Day is observed on 21 February."
+   "answer": 0,
+   "explanation": "International Mother Language Day is observed on 21 February.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00078",
-   "q": "On which date is International Day of the World's Indigenous Peoples observed?",
-   "o": [
+   "question": "On which date is International Day of the World's Indigenous Peoples observed?",
+   "options": [
     "fourth Sunday of September",
     "12 May",
     "14 December",
     "9 August"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "International Day of the World's Indigenous Peoples is observed on 9 August."
+   "answer": 3,
+   "explanation": "International Day of the World's Indigenous Peoples is observed on 9 August.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00079",
-   "q": "On which date is World Mental Health Day observed?",
-   "o": [
+   "question": "On which date is World Mental Health Day observed?",
+   "options": [
     "10 October",
     "17 May",
     "16 September",
     "28 July"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Mental Health Day is observed on 10 October."
+   "answer": 0,
+   "explanation": "World Mental Health Day is observed on 10 October.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00080",
-   "q": "On which date is National Youth Day (India) observed?",
-   "o": [
+   "question": "On which date is National Youth Day (India) observed?",
+   "options": [
     "22 April",
     "31 May",
     "12 January",
     "20 May"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "National Youth Day (India) is observed on 12 January."
+   "answer": 2,
+   "explanation": "National Youth Day (India) is observed on 12 January.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00081",
-   "q": "On which date is World Statistics Day observed?",
-   "o": [
+   "question": "On which date is World Statistics Day observed?",
+   "options": [
     "13 November",
     "20 October",
     "12 January",
     "13 February"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Statistics Day is observed on 20 October."
+   "answer": 1,
+   "explanation": "World Statistics Day is observed on 20 October.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00082",
-   "q": "On which date is International Women's Day observed?",
-   "o": [
+   "question": "On which date is International Women's Day observed?",
+   "options": [
     "8 June",
     "8 March",
     "4 October",
     "1 November"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "International Women's Day is observed on 8 March."
+   "answer": 1,
+   "explanation": "International Women's Day is observed on 8 March.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00083",
-   "q": "On which date is International Day of Democracy observed?",
-   "o": [
+   "question": "On which date is International Day of Democracy observed?",
+   "options": [
     "24 October",
     "17 November",
     "second Saturday of September",
     "15 September"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "International Day of Democracy is observed on 15 September."
+   "answer": 3,
+   "explanation": "International Day of Democracy is observed on 15 September.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00084",
-   "q": "On which date is World Radio Day observed?",
-   "o": [
+   "question": "On which date is World Radio Day observed?",
+   "options": [
     "30 April",
     "13 February",
     "11 November",
     "21 May"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Radio Day is observed on 13 February."
+   "answer": 1,
+   "explanation": "World Radio Day is observed on 13 February.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00085",
-   "q": "On which date is National Girl Child Day (India) observed?",
-   "o": [
+   "question": "On which date is National Girl Child Day (India) observed?",
+   "options": [
     "12 September",
     "24 January",
     "5 September",
     "14 November"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "National Girl Child Day (India) is observed on 24 January."
+   "answer": 1,
+   "explanation": "National Girl Child Day (India) is observed on 24 January.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00086",
-   "q": "On which date is World Pulses Day observed?",
-   "o": [
+   "question": "On which date is World Pulses Day observed?",
+   "options": [
     "1 November",
     "11 July",
     "20 March",
     "10 February"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Pulses Day is observed on 10 February."
+   "answer": 3,
+   "explanation": "World Pulses Day is observed on 10 February.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00087",
-   "q": "On which date is National Education Day (India) observed?",
-   "o": [
+   "question": "On which date is National Education Day (India) observed?",
+   "options": [
     "11 December",
     "11 November",
     "30 November",
     "15 September"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "National Education Day (India) is observed on 11 November."
+   "answer": 1,
+   "explanation": "National Education Day (India) is observed on 11 November.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00088",
-   "q": "On which date is World Sparrow Day observed?",
-   "o": [
+   "question": "On which date is World Sparrow Day observed?",
+   "options": [
     "4 October",
     "8 September",
     "3 March",
     "20 March"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Sparrow Day is observed on 20 March."
+   "answer": 3,
+   "explanation": "World Sparrow Day is observed on 20 March.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00089",
-   "q": "On which date is World Vegan Day observed?",
-   "o": [
+   "question": "On which date is World Vegan Day observed?",
+   "options": [
     "second Saturday of September",
     "23 March",
     "1 November",
     "15 September"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Vegan Day is observed on 1 November."
+   "answer": 2,
+   "explanation": "World Vegan Day is observed on 1 November.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00090",
-   "q": "On which date is National Voters' Day (India) observed?",
-   "o": [
+   "question": "On which date is National Voters' Day (India) observed?",
+   "options": [
     "21 June",
     "3 May",
     "25 January",
     "13 February"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "National Voters' Day (India) is observed on 25 January."
+   "answer": 2,
+   "explanation": "National Voters' Day (India) is observed on 25 January.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00091",
-   "q": "On which date is National Mathematics Day (India) observed?",
-   "o": [
+   "question": "On which date is National Mathematics Day (India) observed?",
+   "options": [
     "4 January",
     "21 May",
     "8 March",
     "22 December"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "National Mathematics Day (India) is observed on 22 December."
+   "answer": 3,
+   "explanation": "National Mathematics Day (India) is observed on 22 December.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00092",
-   "q": "On which date is International Asteroid Day observed?",
-   "o": [
+   "question": "On which date is International Asteroid Day observed?",
+   "options": [
     "30 June",
     "8 June",
     "22 December",
     "29 August"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "International Asteroid Day is observed on 30 June."
+   "answer": 0,
+   "explanation": "International Asteroid Day is observed on 30 June.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00093",
-   "q": "On which date is International Jazz Day observed?",
-   "o": [
+   "question": "On which date is International Jazz Day observed?",
+   "options": [
     "9 August",
     "14 November",
     "11 November",
     "30 April"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "International Jazz Day is observed on 30 April."
+   "answer": 3,
+   "explanation": "International Jazz Day is observed on 30 April.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00094",
-   "q": "On which date is World Nature Conservation Day observed?",
-   "o": [
+   "question": "On which date is World Nature Conservation Day observed?",
+   "options": [
     "14 November",
     "15 October",
     "5 September",
     "28 July"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Nature Conservation Day is observed on 28 July."
+   "answer": 3,
+   "explanation": "World Nature Conservation Day is observed on 28 July.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00095",
-   "q": "On which date is World Press Freedom Day observed?",
-   "o": [
+   "question": "On which date is World Press Freedom Day observed?",
+   "options": [
     "3 May",
     "8 March",
     "21 May",
     "21 February"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Press Freedom Day is observed on 3 May."
+   "answer": 0,
+   "explanation": "World Press Freedom Day is observed on 3 May.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00096",
-   "q": "On which date is International Day of Peace observed?",
-   "o": [
+   "question": "On which date is International Day of Peace observed?",
+   "options": [
     "14 November",
     "2 February",
     "21 September",
     "20 October"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "International Day of Peace is observed on 21 September."
+   "answer": 2,
+   "explanation": "International Day of Peace is observed on 21 September.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00097",
-   "q": "On which date is World Book Day observed?",
-   "o": [
+   "question": "On which date is World Book Day observed?",
+   "options": [
     "23 April",
     "29 August",
     "13 November",
     "15 August"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Book Day is observed on 23 April."
+   "answer": 0,
+   "explanation": "World Book Day is observed on 23 April.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00098",
-   "q": "On which date is World Tourism Day observed?",
-   "o": [
+   "question": "On which date is World Tourism Day observed?",
+   "options": [
     "1 June",
     "8 September",
     "9 December",
     "27 September"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Tourism Day is observed on 27 September."
+   "answer": 3,
+   "explanation": "World Tourism Day is observed on 27 September.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00099",
-   "q": "On which date is Kargil Vijay Diwas observed?",
-   "o": [
+   "question": "On which date is Kargil Vijay Diwas observed?",
+   "options": [
     "26 July",
     "27 September",
     "5 September",
     "10 February"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "Kargil Vijay Diwas is observed on 26 July."
+   "answer": 0,
+   "explanation": "Kargil Vijay Diwas is observed on 26 July.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00100",
-   "q": "On which date is International Tea Day observed?",
-   "o": [
+   "question": "On which date is International Tea Day observed?",
+   "options": [
     "9 October",
     "21 May",
     "12 September",
     "15 September"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "International Tea Day is observed on 21 May."
+   "answer": 1,
+   "explanation": "International Tea Day is observed on 21 May.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00101",
-   "q": "On which date is International Literacy Day observed?",
-   "o": [
+   "question": "On which date is International Literacy Day observed?",
+   "options": [
     "8 September",
     "28 July",
     "23 March",
     "22 April"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "International Literacy Day is observed on 8 September."
+   "answer": 0,
+   "explanation": "International Literacy Day is observed on 8 September.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00102",
-   "q": "On which date is World Television Day observed?",
-   "o": [
+   "question": "On which date is World Television Day observed?",
+   "options": [
     "15 October",
     "22 March",
     "21 November",
     "12 September"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Television Day is observed on 21 November."
+   "answer": 2,
+   "explanation": "World Television Day is observed on 21 November.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00103",
-   "q": "On which date is World Environment Day observed?",
-   "o": [
+   "question": "On which date is World Environment Day observed?",
+   "options": [
     "11 May",
     "5 June",
     "22 April",
     "20 October"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Environment Day is observed on 5 June."
+   "answer": 1,
+   "explanation": "World Environment Day is observed on 5 June.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00104",
-   "q": "On which date is World Diabetes Day observed?",
-   "o": [
+   "question": "On which date is World Diabetes Day observed?",
+   "options": [
     "14 December",
     "1 November",
     "14 November",
     "16 October"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Diabetes Day is observed on 14 November."
+   "answer": 2,
+   "explanation": "World Diabetes Day is observed on 14 November.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00105",
-   "q": "On which date is World Standards Day observed?",
-   "o": [
+   "question": "On which date is World Standards Day observed?",
+   "options": [
     "24 January",
     "3 March",
     "22 December",
     "14 October"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Standards Day is observed on 14 October."
+   "answer": 3,
+   "explanation": "World Standards Day is observed on 14 October.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00106",
-   "q": "On which date is World Philosophy Day observed?",
-   "o": [
+   "question": "On which date is World Philosophy Day observed?",
+   "options": [
     "11 December",
     "third Thursday of November",
     "14 November",
     "15 September"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Philosophy Day is observed on third Thursday of November."
+   "answer": 1,
+   "explanation": "World Philosophy Day is observed on third Thursday of November.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00107",
-   "q": "On which date is World Refugee Day observed?",
-   "o": [
+   "question": "On which date is World Refugee Day observed?",
+   "options": [
     "21 May",
     "16 October",
     "20 May",
     "20 June"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Refugee Day is observed on 20 June."
+   "answer": 3,
+   "explanation": "World Refugee Day is observed on 20 June.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00108",
-   "q": "On which date is International Day of Education observed?",
-   "o": [
+   "question": "On which date is International Day of Education observed?",
+   "options": [
     "20 June",
     "11 May",
     "30 November",
     "24 January"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "International Day of Education is observed on 24 January."
+   "answer": 3,
+   "explanation": "International Day of Education is observed on 24 January.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00109",
-   "q": "On which date is World Kindness Day observed?",
-   "o": [
+   "question": "On which date is World Kindness Day observed?",
+   "options": [
     "8 September",
     "7 April",
     "24 January",
     "13 November"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Kindness Day is observed on 13 November."
+   "answer": 3,
+   "explanation": "World Kindness Day is observed on 13 November.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00110",
-   "q": "On which date is World Hepatitis Day observed?",
-   "o": [
+   "question": "On which date is World Hepatitis Day observed?",
+   "options": [
     "14 November",
     "5 September",
     "12 May",
     "28 July"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Hepatitis Day is observed on 28 July."
+   "answer": 3,
+   "explanation": "World Hepatitis Day is observed on 28 July.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00111",
-   "q": "On which date is International Mother Earth Day observed?",
-   "o": [
+   "question": "On which date is International Mother Earth Day observed?",
+   "options": [
     "21 November",
     "26 November",
     "28 July",
     "22 April"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "International Mother Earth Day is observed on 22 April."
+   "answer": 3,
+   "explanation": "International Mother Earth Day is observed on 22 April.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00112",
-   "q": "On which date is Children's Day (India) observed?",
-   "o": [
+   "question": "On which date is Children's Day (India) observed?",
+   "options": [
     "16 October",
     "30 June",
     "14 November",
     "18 December"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "Children's Day (India) is observed on 14 November."
+   "answer": 2,
+   "explanation": "Children's Day (India) is observed on 14 November.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00113",
-   "q": "On which date is World Water Day observed?",
-   "o": [
+   "question": "On which date is World Water Day observed?",
+   "options": [
     "19 August",
     "20 June",
     "10 February",
     "22 March"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Water Day is observed on 22 March."
+   "answer": 3,
+   "explanation": "World Water Day is observed on 22 March.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00114",
-   "q": "On which date is United Nations Day for South-South Cooperation observed?",
-   "o": [
+   "question": "On which date is United Nations Day for South-South Cooperation observed?",
+   "options": [
     "11 December",
     "15 September",
     "1 July",
     "12 September"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "United Nations Day for South-South Cooperation is observed on 12 September."
+   "answer": 3,
+   "explanation": "United Nations Day for South-South Cooperation is observed on 12 September.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00115",
-   "q": "On which date is International Day of the Girl Child observed?",
-   "o": [
+   "question": "On which date is International Day of the Girl Child observed?",
+   "options": [
     "11 October",
     "22 December",
     "28 July",
     "14 November"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "International Day of the Girl Child is observed on 11 October."
+   "answer": 0,
+   "explanation": "International Day of the Girl Child is observed on 11 October.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00116",
-   "q": "On which date is Constitution Day (India) observed?",
-   "o": [
+   "question": "On which date is Constitution Day (India) observed?",
+   "options": [
     "17 May",
     "12 September",
     "18 April",
     "26 November"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "Constitution Day (India) is observed on 26 November."
+   "answer": 3,
+   "explanation": "Constitution Day (India) is observed on 26 November.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00117",
-   "q": "On which date is World Heart Day observed?",
-   "o": [
+   "question": "On which date is World Heart Day observed?",
+   "options": [
     "4 January",
     "26 November",
     "8 May",
     "29 September"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Heart Day is observed on 29 September."
+   "answer": 3,
+   "explanation": "World Heart Day is observed on 29 September.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "days-events-00118",
-   "q": "Which of the following days is observed on 9 October?",
-   "o": [
+   "question": "Which of the following days is observed on 9 October?",
+   "options": [
     "Kargil Vijay Diwas",
     "World Post Day",
     "Human Rights Day",
     "Gandhi Jayanti"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "9 October is observed as World Post Day."
+   "answer": 1,
+   "explanation": "9 October is observed as World Post Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00119",
-   "q": "Which of the following days is observed on 10 January?",
-   "o": [
+   "question": "Which of the following days is observed on 10 January?",
+   "options": [
     "World Philosophy Day",
     "World Press Freedom Day",
     "Human Rights Day",
     "World Hindi Day"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "10 January is observed as World Hindi Day."
+   "answer": 3,
+   "explanation": "10 January is observed as World Hindi Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00120",
-   "q": "Which of the following days is observed on 30 April?",
-   "o": [
+   "question": "Which of the following days is observed on 30 April?",
+   "options": [
     "International Day of the Girl Child",
     "World Nature Conservation Day",
     "International Jazz Day",
     "Earth Day"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "30 April is observed as International Jazz Day."
+   "answer": 2,
+   "explanation": "30 April is observed as International Jazz Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00121",
-   "q": "Which of the following days is observed on 8 May?",
-   "o": [
+   "question": "Which of the following days is observed on 8 May?",
+   "options": [
     "World Heart Day",
     "World Braille Day",
     "World Red Cross Day",
     "United Nations Day"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "8 May is observed as World Red Cross Day."
+   "answer": 2,
+   "explanation": "8 May is observed as World Red Cross Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00122",
-   "q": "Which of the following days is observed on 14 November?",
-   "o": [
+   "question": "Which of the following days is observed on 14 November?",
+   "options": [
     "World Water Day",
     "International Day of Education",
     "World Diabetes Day",
     "World Hypertension Day"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "14 November is observed as World Diabetes Day."
+   "answer": 2,
+   "explanation": "14 November is observed as World Diabetes Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00123",
-   "q": "Which of the following days is observed on 3 March?",
-   "o": [
+   "question": "Which of the following days is observed on 3 March?",
+   "options": [
     "World Wildlife Day",
     "International Students' Day",
     "Gandhi Jayanti",
     "World Diabetes Day"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "3 March is observed as World Wildlife Day."
+   "answer": 0,
+   "explanation": "3 March is observed as World Wildlife Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00124",
-   "q": "Which of the following days is observed on 11 May?",
-   "o": [
+   "question": "Which of the following days is observed on 11 May?",
+   "options": [
     "World Post Day",
     "International Day of the Girl Child",
     "National Technology Day (India)",
     "World Heart Day"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "11 May is observed as National Technology Day (India)."
+   "answer": 2,
+   "explanation": "11 May is observed as National Technology Day (India).",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00125",
-   "q": "Which of the following days is observed on 1 November?",
-   "o": [
+   "question": "Which of the following days is observed on 1 November?",
+   "options": [
     "World Vegan Day",
     "World Polio Day",
     "Earth Day",
     "International Literacy Day"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "1 November is observed as World Vegan Day."
+   "answer": 0,
+   "explanation": "1 November is observed as World Vegan Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00126",
-   "q": "Which of the following days is observed on 28 July?",
-   "o": [
+   "question": "Which of the following days is observed on 28 July?",
+   "options": [
     "World Toilet Day",
     "International Tea Day",
     "World Radiography Day",
     "World Hepatitis Day"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "28 July is observed as World Hepatitis Day."
+   "answer": 3,
+   "explanation": "28 July is observed as World Hepatitis Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00127",
-   "q": "Which of the following days is observed on 10 February?",
-   "o": [
+   "question": "Which of the following days is observed on 10 February?",
+   "options": [
     "World Tourism Day",
     "International Nurses Day",
     "World Pulses Day",
     "World Cancer Day"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "10 February is observed as World Pulses Day."
+   "answer": 2,
+   "explanation": "10 February is observed as World Pulses Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00128",
-   "q": "Which of the following days is observed on 9 December?",
-   "o": [
+   "question": "Which of the following days is observed on 9 December?",
+   "options": [
     "World Statistics Day",
     "World Red Cross Day",
     "National Science Day (India)",
     "International Anti-Corruption Day"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "9 December is observed as International Anti-Corruption Day."
+   "answer": 3,
+   "explanation": "9 December is observed as International Anti-Corruption Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00129",
-   "q": "Which of the following days is observed on 24 October?",
-   "o": [
+   "question": "Which of the following days is observed on 24 October?",
+   "options": [
     "World Bee Day",
     "World Population Day",
     "World Cities Day",
     "United Nations Day"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "24 October is observed as United Nations Day."
+   "answer": 3,
+   "explanation": "24 October is observed as United Nations Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00130",
-   "q": "Which of the following days is observed on 22 December?",
-   "o": [
+   "question": "Which of the following days is observed on 22 December?",
+   "options": [
     "World Polio Day",
     "World First Aid Day",
     "National Mathematics Day (India)",
     "World Cancer Day"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "22 December is observed as National Mathematics Day (India)."
+   "answer": 2,
+   "explanation": "22 December is observed as National Mathematics Day (India).",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00131",
-   "q": "Which of the following days is observed on 16 September?",
-   "o": [
+   "question": "Which of the following days is observed on 16 September?",
+   "options": [
     "World Red Cross Day",
     "World Ozone Day",
     "World Cities Day",
     "World Sparrow Day"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "16 September is observed as World Ozone Day."
+   "answer": 1,
+   "explanation": "16 September is observed as World Ozone Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00132",
-   "q": "Which of the following days is observed on 15 September?",
-   "o": [
+   "question": "Which of the following days is observed on 15 September?",
+   "options": [
     "International Day of Democracy",
     "World Red Cross Day",
     "World Sparrow Day",
     "World Diabetes Day"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "15 September is observed as International Day of Democracy."
+   "answer": 0,
+   "explanation": "15 September is observed as International Day of Democracy.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00133",
-   "q": "Which of the following days is observed on 13 February?",
-   "o": [
+   "question": "Which of the following days is observed on 13 February?",
+   "options": [
     "World Press Freedom Day",
     "World Radio Day",
     "World Oceans Day",
     "International Mountain Day"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "13 February is observed as World Radio Day."
+   "answer": 1,
+   "explanation": "13 February is observed as World Radio Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00134",
-   "q": "Which of the following days is observed on 1 May?",
-   "o": [
+   "question": "Which of the following days is observed on 1 May?",
+   "options": [
     "Gandhi Jayanti",
     "World Tourism Day",
     "International Labour Day",
     "World Heart Day"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "1 May is observed as International Labour Day."
+   "answer": 2,
+   "explanation": "1 May is observed as International Labour Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00135",
-   "q": "Which of the following days is observed on 11 December?",
-   "o": [
+   "question": "Which of the following days is observed on 11 December?",
+   "options": [
     "World Computer Security Day",
     "International Mountain Day",
     "World Health Day",
     "World Television Day"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "11 December is observed as International Mountain Day."
+   "answer": 1,
+   "explanation": "11 December is observed as International Mountain Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00136",
-   "q": "Which of the following days is observed on 28 July?",
-   "o": [
+   "question": "Which of the following days is observed on 28 July?",
+   "options": [
     "World First Aid Day",
     "World Cities Day",
     "International Jazz Day",
     "World Nature Conservation Day"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "28 July is observed as World Nature Conservation Day."
+   "answer": 3,
+   "explanation": "28 July is observed as World Nature Conservation Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00137",
-   "q": "Which of the following days is observed on first Monday of October?",
-   "o": [
+   "question": "Which of the following days is observed on first Monday of October?",
+   "options": [
     "World Habitat Day",
     "World Book Day",
     "World Hypertension Day",
     "International Jazz Day"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "first Monday of October is observed as World Habitat Day."
+   "answer": 0,
+   "explanation": "first Monday of October is observed as World Habitat Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00138",
-   "q": "Which of the following days is observed on 4 January?",
-   "o": [
+   "question": "Which of the following days is observed on 4 January?",
+   "options": [
     "Gandhi Jayanti",
     "World Computer Literacy Day",
     "Engineers' Day (India)",
     "World Braille Day"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "4 January is observed as World Braille Day."
+   "answer": 3,
+   "explanation": "4 January is observed as World Braille Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00139",
-   "q": "Which of the following days is observed on 11 July?",
-   "o": [
+   "question": "Which of the following days is observed on 11 July?",
+   "options": [
     "World Food Day",
     "World Mental Health Day",
     "World Population Day",
     "World Vegan Day"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "11 July is observed as World Population Day."
+   "answer": 2,
+   "explanation": "11 July is observed as World Population Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00140",
-   "q": "Which of the following days is observed on 15 August?",
-   "o": [
+   "question": "Which of the following days is observed on 15 August?",
+   "options": [
     "World Philosophy Day",
     "World Braille Day",
     "Republic Day (India)",
     "Independence Day (India)"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "15 August is observed as Independence Day (India)."
+   "answer": 3,
+   "explanation": "15 August is observed as Independence Day (India).",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00141",
-   "q": "Which of the following days is observed on 10 December?",
-   "o": [
+   "question": "Which of the following days is observed on 10 December?",
+   "options": [
     "Human Rights Day",
     "World Hindi Day",
     "National Technology Day (India)",
     "World Mental Health Day"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "10 December is observed as Human Rights Day."
+   "answer": 0,
+   "explanation": "10 December is observed as Human Rights Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00142",
-   "q": "Which of the following days is observed on 31 May?",
-   "o": [
+   "question": "Which of the following days is observed on 31 May?",
+   "options": [
     "World No Tobacco Day",
     "Human Rights Day",
     "World Wetlands Day",
     "World Book Day"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "31 May is observed as World No Tobacco Day."
+   "answer": 0,
+   "explanation": "31 May is observed as World No Tobacco Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00143",
-   "q": "Which of the following days is observed on 20 June?",
-   "o": [
+   "question": "Which of the following days is observed on 20 June?",
+   "options": [
     "Constitution Day (India)",
     "World AIDS Day",
     "National Sports Day (India)",
     "World Refugee Day"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "20 June is observed as World Refugee Day."
+   "answer": 3,
+   "explanation": "20 June is observed as World Refugee Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00144",
-   "q": "Which of the following days is observed on third Thursday of November?",
-   "o": [
+   "question": "Which of the following days is observed on third Thursday of November?",
+   "options": [
     "World Philosophy Day",
     "World Hypertension Day",
     "World Bee Day",
     "Constitution Day (India)"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "third Thursday of November is observed as World Philosophy Day."
+   "answer": 0,
+   "explanation": "third Thursday of November is observed as World Philosophy Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00145",
-   "q": "Which of the following days is observed on 19 November?",
-   "o": [
+   "question": "Which of the following days is observed on 19 November?",
+   "options": [
     "World Toilet Day",
     "World Hypertension Day",
     "World First Aid Day",
     "International Day of Education"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "19 November is observed as World Toilet Day."
+   "answer": 0,
+   "explanation": "19 November is observed as World Toilet Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00146",
-   "q": "Which of the following days is observed on 15 September?",
-   "o": [
+   "question": "Which of the following days is observed on 15 September?",
+   "options": [
     "Republic Day (India)",
     "World Toilet Day",
     "Engineers' Day (India)",
     "World AIDS Day"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "15 September is observed as Engineers' Day (India)."
+   "answer": 2,
+   "explanation": "15 September is observed as Engineers' Day (India).",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00147",
-   "q": "Which of the following days is observed on 17 May?",
-   "o": [
+   "question": "Which of the following days is observed on 17 May?",
+   "options": [
     "World Television Day",
     "World Hypertension Day",
     "National Sports Day (India)",
     "World Heritage Day"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "17 May is observed as World Hypertension Day."
+   "answer": 1,
+   "explanation": "17 May is observed as World Hypertension Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00148",
-   "q": "Which of the following days is observed on 14 December?",
-   "o": [
+   "question": "Which of the following days is observed on 14 December?",
+   "options": [
     "National Energy Conservation Day (India)",
     "World AIDS Day",
     "World Wildlife Day",
     "National Technology Day (India)"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "14 December is observed as National Energy Conservation Day (India)."
+   "answer": 0,
+   "explanation": "14 December is observed as National Energy Conservation Day (India).",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00149",
-   "q": "Which of the following days is observed on 30 November?",
-   "o": [
+   "question": "Which of the following days is observed on 30 November?",
+   "options": [
     "World First Aid Day",
     "Independence Day (USA)",
     "World Computer Security Day",
     "International Yoga Day"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "30 November is observed as World Computer Security Day."
+   "answer": 2,
+   "explanation": "30 November is observed as World Computer Security Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00150",
-   "q": "Which of the following days is observed on 2 December?",
-   "o": [
+   "question": "Which of the following days is observed on 2 December?",
+   "options": [
     "World Computer Literacy Day",
     "World Post Day",
     "World Tourism Day",
     "World Animal Day"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "2 December is observed as World Computer Literacy Day."
+   "answer": 0,
+   "explanation": "2 December is observed as World Computer Literacy Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00151",
-   "q": "Which of the following days is observed on 24 January?",
-   "o": [
+   "question": "Which of the following days is observed on 24 January?",
+   "options": [
     "United Nations Day for South-South Cooperation",
     "International Day of Education",
     "International Women's Day",
     "World Radiography Day"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "24 January is observed as International Day of Education."
+   "answer": 1,
+   "explanation": "24 January is observed as International Day of Education.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00152",
-   "q": "Which of the following days is observed on 3 May?",
-   "o": [
+   "question": "Which of the following days is observed on 3 May?",
+   "options": [
     "International Day of the Girl Child",
     "World Press Freedom Day",
     "International Women's Day",
     "World Energy Conservation Day"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "3 May is observed as World Press Freedom Day."
+   "answer": 1,
+   "explanation": "3 May is observed as World Press Freedom Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00153",
-   "q": "Which of the following days is observed on 18 April?",
-   "o": [
+   "question": "Which of the following days is observed on 18 April?",
+   "options": [
     "World Heritage Day",
     "World Radio Day",
     "World Cancer Day",
     "World Refugee Day"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "18 April is observed as World Heritage Day."
+   "answer": 0,
+   "explanation": "18 April is observed as World Heritage Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00154",
-   "q": "Which of the following days is observed on 24 January?",
-   "o": [
+   "question": "Which of the following days is observed on 24 January?",
+   "options": [
     "World Radiography Day",
     "World AIDS Day",
     "National Girl Child Day (India)",
     "Constitution Day (India)"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "24 January is observed as National Girl Child Day (India)."
+   "answer": 2,
+   "explanation": "24 January is observed as National Girl Child Day (India).",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00155",
-   "q": "Which of the following days is observed on 4 July?",
-   "o": [
+   "question": "Which of the following days is observed on 4 July?",
+   "options": [
     "Doctors' Day (India)",
     "World Philosophy Day",
     "Children's Day (India)",
     "Independence Day (USA)"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "4 July is observed as Independence Day (USA)."
+   "answer": 3,
+   "explanation": "4 July is observed as Independence Day (USA).",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00156",
-   "q": "Which of the following days is observed on 29 August?",
-   "o": [
+   "question": "Which of the following days is observed on 29 August?",
+   "options": [
     "World Standards Day",
     "National Sports Day (India)",
     "International Day of Democracy",
     "World AIDS Day"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "29 August is observed as National Sports Day (India)."
+   "answer": 1,
+   "explanation": "29 August is observed as National Sports Day (India).",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00157",
-   "q": "Which of the following days is observed on 19 August?",
-   "o": [
+   "question": "Which of the following days is observed on 19 August?",
+   "options": [
     "International Mother Language Day",
     "World Meteorological Day",
     "World Heart Day",
     "World Photography Day"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "19 August is observed as World Photography Day."
+   "answer": 3,
+   "explanation": "19 August is observed as World Photography Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00158",
-   "q": "Which of the following days is observed on 5 September?",
-   "o": [
+   "question": "Which of the following days is observed on 5 September?",
+   "options": [
     "Doctors' Day (India)",
     "International Nurses Day",
     "Teachers' Day (India)",
     "International Mother Earth Day"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "5 September is observed as Teachers' Day (India)."
+   "answer": 2,
+   "explanation": "5 September is observed as Teachers' Day (India).",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00159",
-   "q": "Which of the following days is observed on 22 March?",
-   "o": [
+   "question": "Which of the following days is observed on 22 March?",
+   "options": [
     "Earth Day",
     "World Ozone Day",
     "World Water Day",
     "World Computer Literacy Day"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "22 March is observed as World Water Day."
+   "answer": 2,
+   "explanation": "22 March is observed as World Water Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00160",
-   "q": "Which of the following days is observed on 2 October?",
-   "o": [
+   "question": "Which of the following days is observed on 2 October?",
+   "options": [
     "World Sparrow Day",
     "World AIDS Day",
     "Gandhi Jayanti",
     "World Ozone Day"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "2 October is observed as Gandhi Jayanti."
+   "answer": 2,
+   "explanation": "2 October is observed as Gandhi Jayanti.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00161",
-   "q": "Which of the following days is observed on 21 September?",
-   "o": [
+   "question": "Which of the following days is observed on 21 September?",
+   "options": [
     "International Day of Peace",
     "National Youth Day (India)",
     "World Animal Day",
     "International Labour Day"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "21 September is observed as International Day of Peace."
+   "answer": 0,
+   "explanation": "21 September is observed as International Day of Peace.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00162",
-   "q": "Which of the following days is observed on 8 March?",
-   "o": [
+   "question": "Which of the following days is observed on 8 March?",
+   "options": [
     "World Heritage Day",
     "International Women's Day",
     "World Cities Day",
     "International Day of the World's Indigenous Peoples"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "8 March is observed as International Women's Day."
+   "answer": 1,
+   "explanation": "8 March is observed as International Women's Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00163",
-   "q": "Which of the following days is observed on 31 October?",
-   "o": [
+   "question": "Which of the following days is observed on 31 October?",
+   "options": [
     "International Asteroid Day",
     "World Hepatitis Day",
     "World Cities Day",
     "International Day of the World's Indigenous Peoples"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "31 October is observed as World Cities Day."
+   "answer": 2,
+   "explanation": "31 October is observed as World Cities Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00164",
-   "q": "Which of the following days is observed on 30 June?",
-   "o": [
+   "question": "Which of the following days is observed on 30 June?",
+   "options": [
     "United Nations Day for South-South Cooperation",
     "International Asteroid Day",
     "World Wetlands Day",
     "World Computer Literacy Day"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "30 June is observed as International Asteroid Day."
+   "answer": 1,
+   "explanation": "30 June is observed as International Asteroid Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00165",
-   "q": "Which of the following days is observed on 2 February?",
-   "o": [
+   "question": "Which of the following days is observed on 2 February?",
+   "options": [
     "World Environment Day",
     "International Migrants Day",
     "World Wetlands Day",
     "World Toilet Day"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "2 February is observed as World Wetlands Day."
+   "answer": 2,
+   "explanation": "2 February is observed as World Wetlands Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00166",
-   "q": "Which of the following days is observed on 20 May?",
-   "o": [
+   "question": "Which of the following days is observed on 20 May?",
+   "options": [
     "World Press Freedom Day",
     "World Bee Day",
     "Independence Day (India)",
     "International Students' Day"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "20 May is observed as World Bee Day."
+   "answer": 1,
+   "explanation": "20 May is observed as World Bee Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00167",
-   "q": "Which of the following days is observed on 7 April?",
-   "o": [
+   "question": "Which of the following days is observed on 7 April?",
+   "options": [
     "World Post Day",
     "International Day of Education",
     "Independence Day (India)",
     "World Health Day"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "7 April is observed as World Health Day."
+   "answer": 3,
+   "explanation": "7 April is observed as World Health Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00168",
-   "q": "Which of the following days is observed on second Saturday of September?",
-   "o": [
+   "question": "Which of the following days is observed on second Saturday of September?",
+   "options": [
     "Kargil Vijay Diwas",
     "World Cities Day",
     "World First Aid Day",
     "World Hindi Day"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "second Saturday of September is observed as World First Aid Day."
+   "answer": 2,
+   "explanation": "second Saturday of September is observed as World First Aid Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00169",
-   "q": "Which of the following days is observed on 23 March?",
-   "o": [
+   "question": "Which of the following days is observed on 23 March?",
+   "options": [
     "World Polio Day",
     "World Press Freedom Day",
     "World Meteorological Day",
     "World Post Day"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "23 March is observed as World Meteorological Day."
+   "answer": 2,
+   "explanation": "23 March is observed as World Meteorological Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00170",
-   "q": "Which of the following days is observed on 9 August?",
-   "o": [
+   "question": "Which of the following days is observed on 9 August?",
+   "options": [
     "World Red Cross Day",
     "World Refugee Day",
     "International Day of the World's Indigenous Peoples",
     "World Tourism Day"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "9 August is observed as International Day of the World's Indigenous Peoples."
+   "answer": 2,
+   "explanation": "9 August is observed as International Day of the World's Indigenous Peoples.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00171",
-   "q": "Which of the following days is observed on 21 February?",
-   "o": [
+   "question": "Which of the following days is observed on 21 February?",
+   "options": [
     "World Toilet Day",
     "International Mother Language Day",
     "National Girl Child Day (India)",
     "World Heritage Day"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "21 February is observed as International Mother Language Day."
+   "answer": 1,
+   "explanation": "21 February is observed as International Mother Language Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00172",
-   "q": "Which of the following days is observed on 23 April?",
-   "o": [
+   "question": "Which of the following days is observed on 23 April?",
+   "options": [
     "United Nations Day for South-South Cooperation",
     "World Energy Conservation Day",
     "World Book Day",
     "World Health Day"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "23 April is observed as World Book Day."
+   "answer": 2,
+   "explanation": "23 April is observed as World Book Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00173",
-   "q": "Which of the following days is observed on 12 January?",
-   "o": [
+   "question": "Which of the following days is observed on 12 January?",
+   "options": [
     "National Youth Day (India)",
     "International Mother Earth Day",
     "Constitution Day (India)",
     "World Milk Day"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "12 January is observed as National Youth Day (India)."
+   "answer": 0,
+   "explanation": "12 January is observed as National Youth Day (India).",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00174",
-   "q": "Which of the following days is observed on 8 September?",
-   "o": [
+   "question": "Which of the following days is observed on 8 September?",
+   "options": [
     "World Post Day",
     "National Mathematics Day (India)",
     "International Literacy Day",
     "International Migrants Day"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "8 September is observed as International Literacy Day."
+   "answer": 2,
+   "explanation": "8 September is observed as International Literacy Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00175",
-   "q": "Which of the following days is observed on 16 October?",
-   "o": [
+   "question": "Which of the following days is observed on 16 October?",
+   "options": [
     "Independence Day (USA)",
     "World Hindi Day",
     "World Kindness Day",
     "World Food Day"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "16 October is observed as World Food Day."
+   "answer": 3,
+   "explanation": "16 October is observed as World Food Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00176",
-   "q": "Which of the following days is observed on 20 March?",
-   "o": [
+   "question": "Which of the following days is observed on 20 March?",
+   "options": [
     "World Bee Day",
     "Independence Day (India)",
     "World Sparrow Day",
     "World First Aid Day"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "20 March is observed as World Sparrow Day."
+   "answer": 2,
+   "explanation": "20 March is observed as World Sparrow Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00177",
-   "q": "Which of the following days is observed on 27 September?",
-   "o": [
+   "question": "Which of the following days is observed on 27 September?",
+   "options": [
     "National Girl Child Day (India)",
     "World Hypertension Day",
     "World AIDS Day",
     "World Tourism Day"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "27 September is observed as World Tourism Day."
+   "answer": 3,
+   "explanation": "27 September is observed as World Tourism Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00178",
-   "q": "Which of the following days is observed on 21 November?",
-   "o": [
+   "question": "Which of the following days is observed on 21 November?",
+   "options": [
     "Earth Day",
     "World Television Day",
     "International Mother Earth Day",
     "National Youth Day (India)"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "21 November is observed as World Television Day."
+   "answer": 1,
+   "explanation": "21 November is observed as World Television Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00179",
-   "q": "Which of the following days is observed on 15 October?",
-   "o": [
+   "question": "Which of the following days is observed on 15 October?",
+   "options": [
     "World Energy Conservation Day",
     "World Students' Day",
     "International Day of the World's Indigenous Peoples",
     "World First Aid Day"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "15 October is observed as World Students' Day."
+   "answer": 1,
+   "explanation": "15 October is observed as World Students' Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00180",
-   "q": "Which of the following days is observed on 26 January?",
-   "o": [
+   "question": "Which of the following days is observed on 26 January?",
+   "options": [
     "World Water Day",
     "Republic Day (India)",
     "International Anti-Corruption Day",
     "World Food Day"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "26 January is observed as Republic Day (India)."
+   "answer": 1,
+   "explanation": "26 January is observed as Republic Day (India).",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00181",
-   "q": "Which of the following days is observed on fourth Sunday of September?",
-   "o": [
+   "question": "Which of the following days is observed on fourth Sunday of September?",
+   "options": [
     "National Education Day (India)",
     "International Literacy Day",
     "World Rivers Day",
     "Independence Day (USA)"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "fourth Sunday of September is observed as World Rivers Day."
+   "answer": 2,
+   "explanation": "fourth Sunday of September is observed as World Rivers Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00182",
-   "q": "Which of the following days is observed on 18 December?",
-   "o": [
+   "question": "Which of the following days is observed on 18 December?",
+   "options": [
     "International Migrants Day",
     "International Yoga Day",
     "International Day of the World's Indigenous Peoples",
     "World Television Day"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "18 December is observed as International Migrants Day."
+   "answer": 0,
+   "explanation": "18 December is observed as International Migrants Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00183",
-   "q": "Which of the following days is observed on 28 February?",
-   "o": [
+   "question": "Which of the following days is observed on 28 February?",
+   "options": [
     "Earth Day",
     "World Heritage Day",
     "World Health Day",
     "National Science Day (India)"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "28 February is observed as National Science Day (India)."
+   "answer": 3,
+   "explanation": "28 February is observed as National Science Day (India).",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00184",
-   "q": "Which of the following days is observed on 14 October?",
-   "o": [
+   "question": "Which of the following days is observed on 14 October?",
+   "options": [
     "World Oceans Day",
     "World Heritage Day",
     "World Standards Day",
     "World Pulses Day"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "14 October is observed as World Standards Day."
+   "answer": 2,
+   "explanation": "14 October is observed as World Standards Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00185",
-   "q": "Which of the following days is observed on 17 November?",
-   "o": [
+   "question": "Which of the following days is observed on 17 November?",
+   "options": [
     "World Television Day",
     "International Students' Day",
     "International Asteroid Day",
     "International Nurses Day"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "17 November is observed as International Students' Day."
+   "answer": 1,
+   "explanation": "17 November is observed as International Students' Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00186",
-   "q": "Which of the following days is observed on 12 September?",
-   "o": [
+   "question": "Which of the following days is observed on 12 September?",
+   "options": [
     "Gandhi Jayanti",
     "United Nations Day for South-South Cooperation",
     "National Mathematics Day (India)",
     "World Radiography Day"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "12 September is observed as United Nations Day for South-South Cooperation."
+   "answer": 1,
+   "explanation": "12 September is observed as United Nations Day for South-South Cooperation.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00187",
-   "q": "Which of the following days is observed on 12 May?",
-   "o": [
+   "question": "Which of the following days is observed on 12 May?",
+   "options": [
     "World Toilet Day",
     "World Standards Day",
     "International Nurses Day",
     "World Polio Day"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "12 May is observed as International Nurses Day."
+   "answer": 2,
+   "explanation": "12 May is observed as International Nurses Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00188",
-   "q": "Which of the following days is observed on 22 April?",
-   "o": [
+   "question": "Which of the following days is observed on 22 April?",
+   "options": [
     "Republic Day (India)",
     "International Mother Earth Day",
     "International Women's Day",
     "World Radiography Day"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "22 April is observed as International Mother Earth Day."
+   "answer": 1,
+   "explanation": "22 April is observed as International Mother Earth Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00189",
-   "q": "Which of the following days is observed on 20 October?",
-   "o": [
+   "question": "Which of the following days is observed on 20 October?",
+   "options": [
     "Republic Day (India)",
     "National Youth Day (India)",
     "World Osteoporosis Day",
     "World Philosophy Day"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "20 October is observed as World Osteoporosis Day."
+   "answer": 2,
+   "explanation": "20 October is observed as World Osteoporosis Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00190",
-   "q": "Which of the following days is observed on 21 June?",
-   "o": [
+   "question": "Which of the following days is observed on 21 June?",
+   "options": [
     "National Energy Conservation Day (India)",
     "International Labour Day",
     "International Yoga Day",
     "World Food Day"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "21 June is observed as International Yoga Day."
+   "answer": 2,
+   "explanation": "21 June is observed as International Yoga Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00191",
-   "q": "Which of the following days is observed on 8 June?",
-   "o": [
+   "question": "Which of the following days is observed on 8 June?",
+   "options": [
     "World Population Day",
     "World Oceans Day",
     "World Water Day",
     "Teachers' Day (India)"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "8 June is observed as World Oceans Day."
+   "answer": 1,
+   "explanation": "8 June is observed as World Oceans Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00192",
-   "q": "Which of the following days is observed on 26 November?",
-   "o": [
+   "question": "Which of the following days is observed on 26 November?",
+   "options": [
     "Constitution Day (India)",
     "World Toilet Day",
     "National Education Day (India)",
     "Human Rights Day"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "26 November is observed as Constitution Day (India)."
+   "answer": 0,
+   "explanation": "26 November is observed as Constitution Day (India).",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00193",
-   "q": "Which of the following days is observed on 11 October?",
-   "o": [
+   "question": "Which of the following days is observed on 11 October?",
+   "options": [
     "World Pulses Day",
     "International Day of the Girl Child",
     "National Girl Child Day (India)",
     "World Hypertension Day"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "11 October is observed as International Day of the Girl Child."
+   "answer": 1,
+   "explanation": "11 October is observed as International Day of the Girl Child.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00194",
-   "q": "Which of the following days is observed on 5 June?",
-   "o": [
+   "question": "Which of the following days is observed on 5 June?",
+   "options": [
     "World Statistics Day",
     "World Heritage Day",
     "World Sparrow Day",
     "World Environment Day"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "5 June is observed as World Environment Day."
+   "answer": 3,
+   "explanation": "5 June is observed as World Environment Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00195",
-   "q": "Which of the following days is observed on 14 November?",
-   "o": [
+   "question": "Which of the following days is observed on 14 November?",
+   "options": [
     "International Tea Day",
     "International Mother Earth Day",
     "Doctors' Day (India)",
     "Children's Day (India)"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "14 November is observed as Children's Day (India)."
+   "answer": 3,
+   "explanation": "14 November is observed as Children's Day (India).",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00196",
-   "q": "Which of the following days is observed on 11 November?",
-   "o": [
+   "question": "Which of the following days is observed on 11 November?",
+   "options": [
     "World Osteoporosis Day",
     "United Nations Day",
     "International Asteroid Day",
     "National Education Day (India)"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "11 November is observed as National Education Day (India)."
+   "answer": 3,
+   "explanation": "11 November is observed as National Education Day (India).",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00197",
-   "q": "Which of the following days is observed on 4 February?",
-   "o": [
+   "question": "Which of the following days is observed on 4 February?",
+   "options": [
     "World Pulses Day",
     "National Science Day (India)",
     "Children's Day (India)",
     "World Cancer Day"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "4 February is observed as World Cancer Day."
+   "answer": 3,
+   "explanation": "4 February is observed as World Cancer Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00198",
-   "q": "Which of the following days is observed on 1 July?",
-   "o": [
+   "question": "Which of the following days is observed on 1 July?",
+   "options": [
     "Doctors' Day (India)",
     "World Hepatitis Day",
     "International Day of Democracy",
     "United Nations Day"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "1 July is observed as Doctors' Day (India)."
+   "answer": 0,
+   "explanation": "1 July is observed as Doctors' Day (India).",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00199",
-   "q": "Which of the following days is observed on 20 October?",
-   "o": [
+   "question": "Which of the following days is observed on 20 October?",
+   "options": [
     "World Statistics Day",
     "International Yoga Day",
     "Gandhi Jayanti",
     "World Tourism Day"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "20 October is observed as World Statistics Day."
+   "answer": 0,
+   "explanation": "20 October is observed as World Statistics Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00200",
-   "q": "Which of the following days is observed on 25 January?",
-   "o": [
+   "question": "Which of the following days is observed on 25 January?",
+   "options": [
     "World Habitat Day",
     "World Refugee Day",
     "National Voters' Day (India)",
     "National Youth Day (India)"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "25 January is observed as National Voters' Day (India)."
+   "answer": 2,
+   "explanation": "25 January is observed as National Voters' Day (India).",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00201",
-   "q": "Which of the following days is observed on 1 June?",
-   "o": [
+   "question": "Which of the following days is observed on 1 June?",
+   "options": [
     "World Habitat Day",
     "World Osteoporosis Day",
     "World Milk Day",
     "World Wetlands Day"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "1 June is observed as World Milk Day."
+   "answer": 2,
+   "explanation": "1 June is observed as World Milk Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00202",
-   "q": "Which of the following days is observed on 24 October?",
-   "o": [
+   "question": "Which of the following days is observed on 24 October?",
+   "options": [
     "World Vegan Day",
     "Kargil Vijay Diwas",
     "World Polio Day",
     "Constitution Day (India)"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "24 October is observed as World Polio Day."
+   "answer": 2,
+   "explanation": "24 October is observed as World Polio Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00203",
-   "q": "Which of the following days is observed on 10 October?",
-   "o": [
+   "question": "Which of the following days is observed on 10 October?",
+   "options": [
     "World Mental Health Day",
     "United Nations Day for South-South Cooperation",
     "International Nurses Day",
     "Human Rights Day"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "10 October is observed as World Mental Health Day."
+   "answer": 0,
+   "explanation": "10 October is observed as World Mental Health Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00204",
-   "q": "Which of the following days is observed on 8 November?",
-   "o": [
+   "question": "Which of the following days is observed on 8 November?",
+   "options": [
     "Kargil Vijay Diwas",
     "World Radiography Day",
     "World Ozone Day",
     "International Anti-Corruption Day"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "8 November is observed as World Radiography Day."
+   "answer": 1,
+   "explanation": "8 November is observed as World Radiography Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00205",
-   "q": "Which of the following days is observed on 4 October?",
-   "o": [
+   "question": "Which of the following days is observed on 4 October?",
+   "options": [
     "World Statistics Day",
     "World Habitat Day",
     "World Radiography Day",
     "World Animal Day"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "4 October is observed as World Animal Day."
+   "answer": 3,
+   "explanation": "4 October is observed as World Animal Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00206",
-   "q": "Which of the following days is observed on 22 April?",
-   "o": [
+   "question": "Which of the following days is observed on 22 April?",
+   "options": [
     "International Yoga Day",
     "United Nations Day for South-South Cooperation",
     "United Nations Day",
     "Earth Day"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "22 April is observed as Earth Day."
+   "answer": 3,
+   "explanation": "22 April is observed as Earth Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00207",
-   "q": "Which of the following days is observed on 1 December?",
-   "o": [
+   "question": "Which of the following days is observed on 1 December?",
+   "options": [
     "International Mountain Day",
     "World AIDS Day",
     "World Wildlife Day",
     "World Habitat Day"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "1 December is observed as World AIDS Day."
+   "answer": 1,
+   "explanation": "1 December is observed as World AIDS Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00208",
-   "q": "Which of the following days is observed on 14 December?",
-   "o": [
+   "question": "Which of the following days is observed on 14 December?",
+   "options": [
     "World Energy Conservation Day",
     "International Literacy Day",
     "International Mother Earth Day",
     "Teachers' Day (India)"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "14 December is observed as World Energy Conservation Day."
+   "answer": 0,
+   "explanation": "14 December is observed as World Energy Conservation Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00209",
-   "q": "Which of the following days is observed on 26 July?",
-   "o": [
+   "question": "Which of the following days is observed on 26 July?",
+   "options": [
     "Kargil Vijay Diwas",
     "World Energy Conservation Day",
     "World Diabetes Day",
     "International Literacy Day"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "26 July is observed as Kargil Vijay Diwas."
+   "answer": 0,
+   "explanation": "26 July is observed as Kargil Vijay Diwas.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00210",
-   "q": "Which of the following days is observed on 21 May?",
-   "o": [
+   "question": "Which of the following days is observed on 21 May?",
+   "options": [
     "International Tea Day",
     "International Yoga Day",
     "World Press Freedom Day",
     "Earth Day"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "21 May is observed as International Tea Day."
+   "answer": 0,
+   "explanation": "21 May is observed as International Tea Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00211",
-   "q": "Which of the following days is observed on 29 September?",
-   "o": [
+   "question": "Which of the following days is observed on 29 September?",
+   "options": [
     "Teachers' Day (India)",
     "World Heart Day",
     "World Computer Security Day",
     "International Yoga Day"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "29 September is observed as World Heart Day."
+   "answer": 1,
+   "explanation": "29 September is observed as World Heart Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00212",
-   "q": "Which of the following days is observed on 13 November?",
-   "o": [
+   "question": "Which of the following days is observed on 13 November?",
+   "options": [
     "World Mental Health Day",
     "International Day of Education",
     "National Technology Day (India)",
     "World Kindness Day"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "13 November is observed as World Kindness Day."
+   "answer": 3,
+   "explanation": "13 November is observed as World Kindness Day.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00213",
-   "q": "World Health Day falls in which month?",
-   "o": [
+   "question": "World Health Day falls in which month?",
+   "options": [
     "7 April",
     "10 October",
     "23 March",
     "3 March"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "World Health Day is observed on 7 April."
+   "answer": 0,
+   "explanation": "World Health Day is observed on 7 April.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00214",
-   "q": "World First Aid Day falls in which month?",
-   "o": [
+   "question": "World First Aid Day falls in which month?",
+   "options": [
     "13 November",
     "19 November",
     "21 November",
     "second Saturday of September"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "World First Aid Day is observed on second Saturday of September."
+   "answer": 3,
+   "explanation": "World First Aid Day is observed on second Saturday of September.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00215",
-   "q": "World Diabetes Day falls in which month?",
-   "o": [
+   "question": "World Diabetes Day falls in which month?",
+   "options": [
     "5 June",
     "14 November",
     "3 May",
     "21 September"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "World Diabetes Day is observed on 14 November."
+   "answer": 1,
+   "explanation": "World Diabetes Day is observed on 14 November.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00216",
-   "q": "World Cities Day falls in which month?",
-   "o": [
+   "question": "World Cities Day falls in which month?",
+   "options": [
     "4 February",
     "31 October",
     "10 February",
     "10 December"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "World Cities Day is observed on 31 October."
+   "answer": 1,
+   "explanation": "World Cities Day is observed on 31 October.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00217",
-   "q": "International Students' Day falls in which month?",
-   "o": [
+   "question": "International Students' Day falls in which month?",
+   "options": [
     "9 December",
     "17 November",
     "4 July",
     "first Monday of October"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "International Students' Day is observed on 17 November."
+   "answer": 1,
+   "explanation": "International Students' Day is observed on 17 November.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00218",
-   "q": "Constitution Day (India) falls in which month?",
-   "o": [
+   "question": "Constitution Day (India) falls in which month?",
+   "options": [
     "23 April",
     "26 November",
     "27 September",
     "20 May"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Constitution Day (India) is observed on 26 November."
+   "answer": 1,
+   "explanation": "Constitution Day (India) is observed on 26 November.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00219",
-   "q": "Doctors' Day (India) falls in which month?",
-   "o": [
+   "question": "Doctors' Day (India) falls in which month?",
+   "options": [
     "5 June",
     "8 March",
     "24 October",
     "1 July"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Doctors' Day (India) is observed on 1 July."
+   "answer": 3,
+   "explanation": "Doctors' Day (India) is observed on 1 July.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00220",
-   "q": "World Hepatitis Day falls in which month?",
-   "o": [
+   "question": "World Hepatitis Day falls in which month?",
+   "options": [
     "27 September",
     "21 November",
     "19 November",
     "28 July"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "World Hepatitis Day is observed on 28 July."
+   "answer": 3,
+   "explanation": "World Hepatitis Day is observed on 28 July.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00221",
-   "q": "World Radiography Day falls in which month?",
-   "o": [
+   "question": "World Radiography Day falls in which month?",
+   "options": [
     "8 November",
     "26 July",
     "4 July",
     "7 April"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "World Radiography Day is observed on 8 November."
+   "answer": 0,
+   "explanation": "World Radiography Day is observed on 8 November.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00222",
-   "q": "World Habitat Day falls in which month?",
-   "o": [
+   "question": "World Habitat Day falls in which month?",
+   "options": [
     "8 November",
     "14 December",
     "first Monday of October",
     "30 November"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "World Habitat Day is observed on first Monday of October."
+   "answer": 2,
+   "explanation": "World Habitat Day is observed on first Monday of October.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00223",
-   "q": "World Statistics Day falls in which month?",
-   "o": [
+   "question": "World Statistics Day falls in which month?",
+   "options": [
     "4 February",
     "22 December",
     "20 October",
     "9 October"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "World Statistics Day is observed on 20 October."
+   "answer": 2,
+   "explanation": "World Statistics Day is observed on 20 October.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00224",
-   "q": "Independence Day (USA) falls in which month?",
-   "o": [
+   "question": "Independence Day (USA) falls in which month?",
+   "options": [
     "1 July",
     "4 July",
     "16 September",
     "16 October"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Independence Day (USA) is observed on 4 July."
+   "answer": 1,
+   "explanation": "Independence Day (USA) is observed on 4 July.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00225",
-   "q": "World Heart Day falls in which month?",
-   "o": [
+   "question": "World Heart Day falls in which month?",
+   "options": [
     "24 October",
     "29 September",
     "9 October",
     "19 November"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "World Heart Day is observed on 29 September."
+   "answer": 1,
+   "explanation": "World Heart Day is observed on 29 September.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00226",
-   "q": "International Mother Earth Day falls in which month?",
-   "o": [
+   "question": "International Mother Earth Day falls in which month?",
+   "options": [
     "10 December",
     "12 September",
     "22 April",
     "9 October"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "International Mother Earth Day is observed on 22 April."
+   "answer": 2,
+   "explanation": "International Mother Earth Day is observed on 22 April.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00227",
-   "q": "International Labour Day falls in which month?",
-   "o": [
+   "question": "International Labour Day falls in which month?",
+   "options": [
     "1 May",
     "27 September",
     "13 November",
     "11 July"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "International Labour Day is observed on 1 May."
+   "answer": 0,
+   "explanation": "International Labour Day is observed on 1 May.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00228",
-   "q": "World Philosophy Day falls in which month?",
-   "o": [
+   "question": "World Philosophy Day falls in which month?",
+   "options": [
     "third Thursday of November",
     "4 January",
     "12 May",
     "21 November"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "World Philosophy Day is observed on third Thursday of November."
+   "answer": 0,
+   "explanation": "World Philosophy Day is observed on third Thursday of November.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00229",
-   "q": "World Computer Literacy Day falls in which month?",
-   "o": [
+   "question": "World Computer Literacy Day falls in which month?",
+   "options": [
     "10 December",
     "1 November",
     "8 March",
     "2 December"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "World Computer Literacy Day is observed on 2 December."
+   "answer": 3,
+   "explanation": "World Computer Literacy Day is observed on 2 December.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00230",
-   "q": "World AIDS Day falls in which month?",
-   "o": [
+   "question": "World AIDS Day falls in which month?",
+   "options": [
     "1 December",
     "8 May",
     "4 October",
     "8 June"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "World AIDS Day is observed on 1 December."
+   "answer": 0,
+   "explanation": "World AIDS Day is observed on 1 December.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00231",
-   "q": "World Nature Conservation Day falls in which month?",
-   "o": [
+   "question": "World Nature Conservation Day falls in which month?",
+   "options": [
     "24 October",
     "28 July",
     "31 May",
     "4 February"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "World Nature Conservation Day is observed on 28 July."
+   "answer": 1,
+   "explanation": "World Nature Conservation Day is observed on 28 July.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00232",
-   "q": "Republic Day (India) falls in which month?",
-   "o": [
+   "question": "Republic Day (India) falls in which month?",
+   "options": [
     "24 January",
     "26 January",
     "21 November",
     "4 February"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Republic Day (India) is observed on 26 January."
+   "answer": 1,
+   "explanation": "Republic Day (India) is observed on 26 January.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00233",
-   "q": "Teachers' Day (India) falls in which month?",
-   "o": [
+   "question": "Teachers' Day (India) falls in which month?",
+   "options": [
     "22 December",
     "5 September",
     "17 May",
     "26 November"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Teachers' Day (India) is observed on 5 September."
+   "answer": 1,
+   "explanation": "Teachers' Day (India) is observed on 5 September.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00234",
-   "q": "International Nurses Day falls in which month?",
-   "o": [
+   "question": "International Nurses Day falls in which month?",
+   "options": [
     "20 June",
     "12 May",
     "11 May",
     "16 September"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "International Nurses Day is observed on 12 May."
+   "answer": 1,
+   "explanation": "International Nurses Day is observed on 12 May.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00235",
-   "q": "Children's Day (India) falls in which month?",
-   "o": [
+   "question": "Children's Day (India) falls in which month?",
+   "options": [
     "2 December",
     "1 May",
     "16 September",
     "14 November"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Children's Day (India) is observed on 14 November."
+   "answer": 3,
+   "explanation": "Children's Day (India) is observed on 14 November.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00236",
-   "q": "International Day of the Girl Child falls in which month?",
-   "o": [
+   "question": "International Day of the Girl Child falls in which month?",
+   "options": [
     "11 October",
     "1 November",
     "21 June",
     "20 October"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "International Day of the Girl Child is observed on 11 October."
+   "answer": 0,
+   "explanation": "International Day of the Girl Child is observed on 11 October.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00237",
-   "q": "World Tourism Day falls in which month?",
-   "o": [
+   "question": "World Tourism Day falls in which month?",
+   "options": [
     "12 September",
     "9 October",
     "15 September",
     "27 September"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "World Tourism Day is observed on 27 September."
+   "answer": 3,
+   "explanation": "World Tourism Day is observed on 27 September.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00238",
-   "q": "World Book Day falls in which month?",
-   "o": [
+   "question": "World Book Day falls in which month?",
+   "options": [
     "22 March",
     "11 May",
     "27 September",
     "23 April"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "World Book Day is observed on 23 April."
+   "answer": 3,
+   "explanation": "World Book Day is observed on 23 April.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00239",
-   "q": "National Girl Child Day (India) falls in which month?",
-   "o": [
+   "question": "National Girl Child Day (India) falls in which month?",
+   "options": [
     "23 March",
     "24 January",
     "30 November",
     "1 May"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "National Girl Child Day (India) is observed on 24 January."
+   "answer": 1,
+   "explanation": "National Girl Child Day (India) is observed on 24 January.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00240",
-   "q": "International Jazz Day falls in which month?",
-   "o": [
+   "question": "International Jazz Day falls in which month?",
+   "options": [
     "2 December",
     "30 April",
     "30 June",
     "24 October"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "International Jazz Day is observed on 30 April."
+   "answer": 1,
+   "explanation": "International Jazz Day is observed on 30 April.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00241",
-   "q": "World Refugee Day falls in which month?",
-   "o": [
+   "question": "World Refugee Day falls in which month?",
+   "options": [
     "9 August",
     "20 June",
     "21 February",
     "8 June"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "World Refugee Day is observed on 20 June."
+   "answer": 1,
+   "explanation": "World Refugee Day is observed on 20 June.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00242",
-   "q": "World Oceans Day falls in which month?",
-   "o": [
+   "question": "World Oceans Day falls in which month?",
+   "options": [
     "30 June",
     "5 June",
     "29 August",
     "8 June"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "World Oceans Day is observed on 8 June."
+   "answer": 3,
+   "explanation": "World Oceans Day is observed on 8 June.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00243",
-   "q": "United Nations Day falls in which month?",
-   "o": [
+   "question": "United Nations Day falls in which month?",
+   "options": [
     "24 October",
     "1 December",
     "15 August",
     "24 January"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "United Nations Day is observed on 24 October."
+   "answer": 0,
+   "explanation": "United Nations Day is observed on 24 October.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00244",
-   "q": "World Ozone Day falls in which month?",
-   "o": [
+   "question": "World Ozone Day falls in which month?",
+   "options": [
     "26 July",
     "16 September",
     "31 October",
     "2 October"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "World Ozone Day is observed on 16 September."
+   "answer": 1,
+   "explanation": "World Ozone Day is observed on 16 September.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00245",
-   "q": "World Animal Day falls in which month?",
-   "o": [
+   "question": "World Animal Day falls in which month?",
+   "options": [
     "31 October",
     "4 October",
     "21 September",
     "1 December"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "World Animal Day is observed on 4 October."
+   "answer": 1,
+   "explanation": "World Animal Day is observed on 4 October.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00246",
-   "q": "World Bee Day falls in which month?",
-   "o": [
+   "question": "World Bee Day falls in which month?",
+   "options": [
     "22 December",
     "20 May",
     "8 June",
     "14 December"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "World Bee Day is observed on 20 May."
+   "answer": 1,
+   "explanation": "World Bee Day is observed on 20 May.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00247",
-   "q": "National Mathematics Day (India) falls in which month?",
-   "o": [
+   "question": "National Mathematics Day (India) falls in which month?",
+   "options": [
     "22 December",
     "24 October",
     "17 November",
     "12 September"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "National Mathematics Day (India) is observed on 22 December."
+   "answer": 0,
+   "explanation": "National Mathematics Day (India) is observed on 22 December.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00248",
-   "q": "World Mental Health Day falls in which month?",
-   "o": [
+   "question": "World Mental Health Day falls in which month?",
+   "options": [
     "22 March",
     "10 October",
     "9 August",
     "13 November"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "World Mental Health Day is observed on 10 October."
+   "answer": 1,
+   "explanation": "World Mental Health Day is observed on 10 October.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00249",
-   "q": "World Hindi Day falls in which month?",
-   "o": [
+   "question": "World Hindi Day falls in which month?",
+   "options": [
     "14 October",
     "10 January",
     "21 September",
     "4 July"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "World Hindi Day is observed on 10 January."
+   "answer": 1,
+   "explanation": "World Hindi Day is observed on 10 January.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00250",
-   "q": "National Voters' Day (India) falls in which month?",
-   "o": [
+   "question": "National Voters' Day (India) falls in which month?",
+   "options": [
     "30 June",
     "25 January",
     "17 November",
     "4 January"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "National Voters' Day (India) is observed on 25 January."
+   "answer": 1,
+   "explanation": "National Voters' Day (India) is observed on 25 January.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00251",
-   "q": "World Wildlife Day falls in which month?",
-   "o": [
+   "question": "World Wildlife Day falls in which month?",
+   "options": [
     "3 March",
     "30 November",
     "26 July",
     "23 April"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "World Wildlife Day is observed on 3 March."
+   "answer": 0,
+   "explanation": "World Wildlife Day is observed on 3 March.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00252",
-   "q": "World Post Day falls in which month?",
-   "o": [
+   "question": "World Post Day falls in which month?",
+   "options": [
     "11 November",
     "9 October",
     "21 June",
     "20 June"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "World Post Day is observed on 9 October."
+   "answer": 1,
+   "explanation": "World Post Day is observed on 9 October.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00253",
-   "q": "World Standards Day falls in which month?",
-   "o": [
+   "question": "World Standards Day falls in which month?",
+   "options": [
     "12 September",
     "14 October",
     "27 September",
     "14 December"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "World Standards Day is observed on 14 October."
+   "answer": 1,
+   "explanation": "World Standards Day is observed on 14 October.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00254",
-   "q": "Kargil Vijay Diwas falls in which month?",
-   "o": [
+   "question": "Kargil Vijay Diwas falls in which month?",
+   "options": [
     "30 November",
     "2 February",
     "20 March",
     "26 July"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Kargil Vijay Diwas is observed on 26 July."
+   "answer": 3,
+   "explanation": "Kargil Vijay Diwas is observed on 26 July.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00255",
-   "q": "World Osteoporosis Day falls in which month?",
-   "o": [
+   "question": "World Osteoporosis Day falls in which month?",
+   "options": [
     "28 February",
     "third Thursday of November",
     "31 October",
     "20 October"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "World Osteoporosis Day is observed on 20 October."
+   "answer": 3,
+   "explanation": "World Osteoporosis Day is observed on 20 October.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00256",
-   "q": "World Polio Day falls in which month?",
-   "o": [
+   "question": "World Polio Day falls in which month?",
+   "options": [
     "16 September",
     "29 September",
     "1 May",
     "24 October"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "World Polio Day is observed on 24 October."
+   "answer": 3,
+   "explanation": "World Polio Day is observed on 24 October.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00257",
-   "q": "Gandhi Jayanti falls in which month?",
-   "o": [
+   "question": "Gandhi Jayanti falls in which month?",
+   "options": [
     "23 March",
     "11 July",
     "2 October",
     "21 November"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Gandhi Jayanti is observed on 2 October."
+   "answer": 2,
+   "explanation": "Gandhi Jayanti is observed on 2 October.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00258",
-   "q": "World Toilet Day falls in which month?",
-   "o": [
+   "question": "World Toilet Day falls in which month?",
+   "options": [
     "31 May",
     "14 December",
     "24 January",
     "19 November"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "World Toilet Day is observed on 19 November."
+   "answer": 3,
+   "explanation": "World Toilet Day is observed on 19 November.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00259",
-   "q": "World Braille Day falls in which month?",
-   "o": [
+   "question": "World Braille Day falls in which month?",
+   "options": [
     "10 December",
     "26 November",
     "24 January",
     "4 January"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "World Braille Day is observed on 4 January."
+   "answer": 3,
+   "explanation": "World Braille Day is observed on 4 January.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00260",
-   "q": "World Energy Conservation Day falls in which month?",
-   "o": [
+   "question": "World Energy Conservation Day falls in which month?",
+   "options": [
     "2 October",
     "14 December",
     "20 October",
     "8 June"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "World Energy Conservation Day is observed on 14 December."
+   "answer": 1,
+   "explanation": "World Energy Conservation Day is observed on 14 December.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00261",
-   "q": "World Vegan Day falls in which month?",
-   "o": [
+   "question": "World Vegan Day falls in which month?",
+   "options": [
     "12 January",
     "26 January",
     "17 May",
     "1 November"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "World Vegan Day is observed on 1 November."
+   "answer": 3,
+   "explanation": "World Vegan Day is observed on 1 November.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00262",
-   "q": "World Hypertension Day falls in which month?",
-   "o": [
+   "question": "World Hypertension Day falls in which month?",
+   "options": [
     "11 October",
     "2 October",
     "17 May",
     "22 April"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "World Hypertension Day is observed on 17 May."
+   "answer": 2,
+   "explanation": "World Hypertension Day is observed on 17 May.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00263",
-   "q": "World Water Day falls in which month?",
-   "o": [
+   "question": "World Water Day falls in which month?",
+   "options": [
     "18 December",
     "22 March",
     "22 December",
     "17 May"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "World Water Day is observed on 22 March."
+   "answer": 1,
+   "explanation": "World Water Day is observed on 22 March.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00264",
-   "q": "World Pulses Day falls in which month?",
-   "o": [
+   "question": "World Pulses Day falls in which month?",
+   "options": [
     "14 November",
     "1 November",
     "10 February",
     "15 September"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "World Pulses Day is observed on 10 February."
+   "answer": 2,
+   "explanation": "World Pulses Day is observed on 10 February.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00265",
-   "q": "International Day of Peace falls in which month?",
-   "o": [
+   "question": "International Day of Peace falls in which month?",
+   "options": [
     "31 May",
     "15 September",
     "21 September",
     "23 April"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "International Day of Peace is observed on 21 September."
+   "answer": 2,
+   "explanation": "International Day of Peace is observed on 21 September.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00266",
-   "q": "National Youth Day (India) falls in which month?",
-   "o": [
+   "question": "National Youth Day (India) falls in which month?",
+   "options": [
     "11 October",
     "14 December",
     "28 July",
     "12 January"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "National Youth Day (India) is observed on 12 January."
+   "answer": 3,
+   "explanation": "National Youth Day (India) is observed on 12 January.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00267",
-   "q": "International Literacy Day falls in which month?",
-   "o": [
+   "question": "International Literacy Day falls in which month?",
+   "options": [
     "8 September",
     "8 March",
     "28 February",
     "2 December"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "International Literacy Day is observed on 8 September."
+   "answer": 0,
+   "explanation": "International Literacy Day is observed on 8 September.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00268",
-   "q": "National Education Day (India) falls in which month?",
-   "o": [
+   "question": "National Education Day (India) falls in which month?",
+   "options": [
     "12 May",
     "11 November",
     "3 May",
     "21 September"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "National Education Day (India) is observed on 11 November."
+   "answer": 1,
+   "explanation": "National Education Day (India) is observed on 11 November.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00269",
-   "q": "International Yoga Day falls in which month?",
-   "o": [
+   "question": "International Yoga Day falls in which month?",
+   "options": [
     "21 June",
     "15 October",
     "28 July",
     "26 January"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "International Yoga Day is observed on 21 June."
+   "answer": 0,
+   "explanation": "International Yoga Day is observed on 21 June.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00270",
-   "q": "World Rivers Day falls in which month?",
-   "o": [
+   "question": "World Rivers Day falls in which month?",
+   "options": [
     "23 April",
     "29 September",
     "1 May",
     "fourth Sunday of September"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "World Rivers Day is observed on fourth Sunday of September."
+   "answer": 3,
+   "explanation": "World Rivers Day is observed on fourth Sunday of September.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00271",
-   "q": "International Mother Language Day falls in which month?",
-   "o": [
+   "question": "International Mother Language Day falls in which month?",
+   "options": [
     "22 April",
     "second Saturday of September",
     "21 February",
     "8 May"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "International Mother Language Day is observed on 21 February."
+   "answer": 2,
+   "explanation": "International Mother Language Day is observed on 21 February.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00272",
-   "q": "National Energy Conservation Day (India) falls in which month?",
-   "o": [
+   "question": "National Energy Conservation Day (India) falls in which month?",
+   "options": [
     "14 December",
     "13 November",
     "11 November",
     "20 May"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "National Energy Conservation Day (India) is observed on 14 December."
+   "answer": 0,
+   "explanation": "National Energy Conservation Day (India) is observed on 14 December.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00273",
-   "q": "World No Tobacco Day falls in which month?",
-   "o": [
+   "question": "World No Tobacco Day falls in which month?",
+   "options": [
     "21 May",
     "30 June",
     "26 November",
     "31 May"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "World No Tobacco Day is observed on 31 May."
+   "answer": 3,
+   "explanation": "World No Tobacco Day is observed on 31 May.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00274",
-   "q": "International Day of Education falls in which month?",
-   "o": [
+   "question": "International Day of Education falls in which month?",
+   "options": [
     "24 January",
     "25 January",
     "22 December",
     "14 October"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "International Day of Education is observed on 24 January."
+   "answer": 0,
+   "explanation": "International Day of Education is observed on 24 January.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00275",
-   "q": "World Radio Day falls in which month?",
-   "o": [
+   "question": "World Radio Day falls in which month?",
+   "options": [
     "1 May",
     "21 June",
     "13 February",
     "22 March"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "World Radio Day is observed on 13 February."
+   "answer": 2,
+   "explanation": "World Radio Day is observed on 13 February.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00276",
-   "q": "Independence Day (India) falls in which month?",
-   "o": [
+   "question": "Independence Day (India) falls in which month?",
+   "options": [
     "13 February",
     "20 October",
     "21 May",
     "15 August"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "Independence Day (India) is observed on 15 August."
+   "answer": 3,
+   "explanation": "Independence Day (India) is observed on 15 August.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00277",
-   "q": "International Anti-Corruption Day falls in which month?",
-   "o": [
+   "question": "International Anti-Corruption Day falls in which month?",
+   "options": [
     "9 December",
     "8 May",
     "28 July",
     "31 May"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "International Anti-Corruption Day is observed on 9 December."
+   "answer": 0,
+   "explanation": "International Anti-Corruption Day is observed on 9 December.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00278",
-   "q": "World Television Day falls in which month?",
-   "o": [
+   "question": "World Television Day falls in which month?",
+   "options": [
     "9 August",
     "21 November",
     "11 May",
     "30 April"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "World Television Day is observed on 21 November."
+   "answer": 1,
+   "explanation": "World Television Day is observed on 21 November.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00279",
-   "q": "World Meteorological Day falls in which month?",
-   "o": [
+   "question": "World Meteorological Day falls in which month?",
+   "options": [
     "30 April",
     "28 July",
     "23 March",
     "14 December"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "World Meteorological Day is observed on 23 March."
+   "answer": 2,
+   "explanation": "World Meteorological Day is observed on 23 March.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "days-events-00280",
-   "q": "United Nations Day for South-South Cooperation falls in which month?",
-   "o": [
+   "question": "United Nations Day for South-South Cooperation falls in which month?",
+   "options": [
     "24 January",
     "12 September",
     "11 October",
     "16 October"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 3,
-   "s": "generated",
-   "e": "United Nations Day for South-South Cooperation is observed on 12 September."
+   "answer": 1,
+   "explanation": "United Nations Day for South-South Cooperation is observed on 12 September.",
+   "topic": "Important Days",
+   "level": 3,
+   "source": "generated"
   }
  ]
 };

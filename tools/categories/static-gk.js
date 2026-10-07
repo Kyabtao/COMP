@@ -17,15003 +17,15003 @@
  "questions": [
   {
    "id": "static-gk-00001",
-   "q": "Which is the largest national park in India?",
-   "o": [
+   "question": "Which is the largest national park in India?",
+   "options": [
     "Jim Corbett",
     "Hemis",
     "Kanha",
     "Bandipur"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 3,
-   "s": "curated",
-   "e": "Hemis National Park in Ladakh is the largest in India."
+   "answer": 1,
+   "explanation": "Hemis National Park in Ladakh is the largest in India.",
+   "topic": "Curated",
+   "level": 3,
+   "source": "curated"
   },
   {
    "id": "static-gk-00002",
-   "q": "Where is the Statue of Unity located?",
-   "o": [
+   "question": "Where is the Statue of Unity located?",
+   "options": [
     "Gujarat",
     "Maharashtra",
     "Rajasthan",
     "Odisha"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "The Statue of Unity stands at Kevadiya, Gujarat."
+   "answer": 0,
+   "explanation": "The Statue of Unity stands at Kevadiya, Gujarat.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "static-gk-00003",
-   "q": "Which Indian city is known as the Pink City?",
-   "o": [
+   "question": "Which Indian city is known as the Pink City?",
+   "options": [
     "Udaipur",
     "Jaipur",
     "Jodhpur",
     "Agra"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Jaipur is called the Pink City after its terracotta pink buildings."
+   "answer": 1,
+   "explanation": "Jaipur is called the Pink City after its terracotta pink buildings.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "static-gk-00004",
-   "q": "The Victoria Memorial is located in which city?",
-   "o": [
+   "question": "The Victoria Memorial is located in which city?",
+   "options": [
     "Mumbai",
     "Kolkata",
     "Chennai",
     "New Delhi"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "The Victoria Memorial stands in Kolkata."
+   "answer": 1,
+   "explanation": "The Victoria Memorial stands in Kolkata.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "static-gk-00005",
-   "q": "Which is the highest waterfall in India?",
-   "o": [
+   "question": "Which is the highest waterfall in India?",
+   "options": [
     "Jog Falls",
     "Kunchikal Falls",
     "Dudhsagar Falls",
     "Athirappilly Falls"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 3,
-   "s": "curated",
-   "e": "Kunchikal Falls in Karnataka is the highest in India."
+   "answer": 1,
+   "explanation": "Kunchikal Falls in Karnataka is the highest in India.",
+   "topic": "Curated",
+   "level": 3,
+   "source": "curated"
   },
   {
    "id": "static-gk-00006",
-   "q": "Which Indian state has the longest coastline?",
-   "o": [
+   "question": "Which Indian state has the longest coastline?",
+   "options": [
     "Tamil Nadu",
     "Gujarat",
     "Andhra Pradesh",
     "Maharashtra"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Gujarat has the longest coastline among Indian states."
+   "answer": 1,
+   "explanation": "Gujarat has the longest coastline among Indian states.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "static-gk-00007",
-   "q": "Where is the headquarters of the World Health Organization?",
-   "o": [
+   "question": "Where is the headquarters of the World Health Organization?",
+   "options": [
     "New York",
     "Geneva",
     "Paris",
     "Vienna"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "The WHO is headquartered in Geneva, Switzerland."
+   "answer": 1,
+   "explanation": "The WHO is headquartered in Geneva, Switzerland.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "static-gk-00008",
-   "q": "Which dance form belongs to Kerala?",
-   "o": [
+   "question": "Which dance form belongs to Kerala?",
+   "options": [
     "Bharatanatyam",
     "Kathakali",
     "Odissi",
     "Kuchipudi"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Kathakali is a classical dance drama of Kerala."
+   "answer": 1,
+   "explanation": "Kathakali is a classical dance drama of Kerala.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "static-gk-00009",
-   "q": "Which is the largest museum in India?",
-   "o": [
+   "question": "Which is the largest museum in India?",
+   "options": [
     "National Museum, Delhi",
     "Indian Museum, Kolkata",
     "Salar Jung Museum, Hyderabad",
     "CSMVS, Mumbai"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 3,
-   "s": "curated",
-   "e": "The Indian Museum in Kolkata is the oldest and largest in India."
+   "answer": 1,
+   "explanation": "The Indian Museum in Kolkata is the oldest and largest in India.",
+   "topic": "Curated",
+   "level": 3,
+   "source": "curated"
   },
   {
    "id": "static-gk-00010",
-   "q": "Where is the Hawa Mahal located?",
-   "o": [
+   "question": "Where is the Hawa Mahal located?",
+   "options": [
     "Jaipur",
     "Udaipur",
     "Agra",
     "Lucknow"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Hawa Mahal stands in Jaipur, Rajasthan."
+   "answer": 0,
+   "explanation": "Hawa Mahal stands in Jaipur, Rajasthan.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "static-gk-00011",
-   "q": "Which is the longest platform in the world?",
-   "o": [
+   "question": "Which is the longest platform in the world?",
+   "options": [
     "Kharagpur",
     "Gorakhpur",
     "Hubballi",
     "Kollam"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 3,
-   "s": "curated",
-   "e": "Gorakhpur Junction in Uttar Pradesh holds the record for the longest railway platform."
+   "answer": 1,
+   "explanation": "Gorakhpur Junction in Uttar Pradesh holds the record for the longest railway platform.",
+   "topic": "Curated",
+   "level": 3,
+   "source": "curated"
   },
   {
    "id": "static-gk-00012",
-   "q": "What is the currency of Japan?",
-   "o": [
+   "question": "What is the currency of Japan?",
+   "options": [
     "Won",
     "Yuan",
     "Yen",
     "Ringgit"
    ],
-   "a": 2,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "The Japanese currency is the yen."
+   "answer": 2,
+   "explanation": "The Japanese currency is the yen.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "static-gk-00013",
-   "q": "Where is the Sundarbans National Park located?",
-   "o": [
+   "question": "Where is the Sundarbans National Park located?",
+   "options": [
     "Odisha",
     "West Bengal",
     "Andhra Pradesh",
     "Tamil Nadu"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Sundarbans National Park lies in West Bengal."
+   "answer": 1,
+   "explanation": "Sundarbans National Park lies in West Bengal.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "static-gk-00014",
-   "q": "Which Indian city hosts the Taj Mahal?",
-   "o": [
+   "question": "Which Indian city hosts the Taj Mahal?",
+   "options": [
     "Delhi",
     "Agra",
     "Jaipur",
     "Mathura"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "The Taj Mahal stands in Agra on the Yamuna."
+   "answer": 1,
+   "explanation": "The Taj Mahal stands in Agra on the Yamuna.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "static-gk-00015",
-   "q": "In which state is the Konark Sun Temple?",
-   "o": [
+   "question": "In which state is the Konark Sun Temple?",
+   "options": [
     "Odisha",
     "Bihar",
     "Bengal",
     "Jharkhand"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Konark Sun Temple is in Odisha."
+   "answer": 0,
+   "explanation": "Konark Sun Temple is in Odisha.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "static-gk-00016",
-   "q": "Which is the largest state of India by area?",
-   "o": [
+   "question": "Which is the largest state of India by area?",
+   "options": [
     "Madhya Pradesh",
     "Rajasthan",
     "Maharashtra",
     "Uttar Pradesh"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Rajasthan is the largest Indian state by area."
+   "answer": 1,
+   "explanation": "Rajasthan is the largest Indian state by area.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "static-gk-00017",
-   "q": "Where is the Indian Institute of Science located?",
-   "o": [
+   "question": "Where is the Indian Institute of Science located?",
+   "options": [
     "Pune",
     "Bengaluru",
     "Chennai",
     "Kanpur"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "IISc is in Bengaluru, Karnataka."
+   "answer": 1,
+   "explanation": "IISc is in Bengaluru, Karnataka.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "static-gk-00018",
-   "q": "Which festival is known as the festival of lights?",
-   "o": [
+   "question": "Which festival is known as the festival of lights?",
+   "options": [
     "Holi",
     "Diwali",
     "Eid",
     "Baisakhi"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Diwali, the festival of lights, celebrates the victory of light over darkness."
+   "answer": 1,
+   "explanation": "Diwali, the festival of lights, celebrates the victory of light over darkness.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "static-gk-00019",
-   "q": "The headquarters of the International Olympic Committee is in which city?",
-   "o": [
+   "question": "The headquarters of the International Olympic Committee is in which city?",
+   "options": [
     "Paris",
     "Lausanne",
     "Athens",
     "Rome"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 3,
-   "s": "curated",
-   "e": "The IOC is headquartered in Lausanne, Switzerland."
+   "answer": 1,
+   "explanation": "The IOC is headquartered in Lausanne, Switzerland.",
+   "topic": "Curated",
+   "level": 3,
+   "source": "curated"
   },
   {
    "id": "static-gk-00020",
-   "q": "Which is the smallest union territory of India by area?",
-   "o": [
+   "question": "Which is the smallest union territory of India by area?",
+   "options": [
     "Lakshadweep",
     "Puducherry",
     "Chandigarh",
     "Delhi"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 3,
-   "s": "curated",
-   "e": "Lakshadweep is the smallest union territory by area."
+   "answer": 0,
+   "explanation": "Lakshadweep is the smallest union territory by area.",
+   "topic": "Curated",
+   "level": 3,
+   "source": "curated"
   },
   {
    "id": "static-gk-00021",
-   "q": "What is the capital of Democratic Republic of the Congo?",
-   "o": [
+   "question": "What is the capital of Democratic Republic of the Congo?",
+   "options": [
     "Tbilisi",
     "Kinshasa",
     "San Marino",
     "Kabul"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Democratic Republic of the Congo is Kinshasa."
+   "answer": 1,
+   "explanation": "The capital of Democratic Republic of the Congo is Kinshasa.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00022",
-   "q": "Which element has the chemical symbol At?",
-   "o": [
+   "question": "Which element has the chemical symbol At?",
+   "options": [
     "Moscovium",
     "Francium",
     "Astatine",
     "Uranium"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "At is the symbol of Astatine."
+   "answer": 2,
+   "explanation": "At is the symbol of Astatine.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00023",
-   "q": "What is the capital of Goa?",
-   "o": [
+   "question": "What is the capital of Goa?",
+   "options": [
     "Panaji",
     "Chandigarh",
     "Mumbai",
     "Shimla"
    ],
-   "a": 0,
-   "t": "States and Capitals",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Goa is Panaji."
+   "answer": 0,
+   "explanation": "The capital of Goa is Panaji.",
+   "topic": "States and Capitals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00024",
-   "q": "What is the capital of the Union Territory of Delhi?",
-   "o": [
+   "question": "What is the capital of the Union Territory of Delhi?",
+   "options": [
     "Leh",
     "Kavaratti",
     "Chandigarh",
     "New Delhi"
    ],
-   "a": 3,
-   "t": "Union Territories",
-   "l": 2,
-   "s": "generated",
-   "e": "The capital of Delhi is New Delhi."
+   "answer": 3,
+   "explanation": "The capital of Delhi is New Delhi.",
+   "topic": "Union Territories",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00025",
-   "q": "Which of the following is the National Reptile of India?",
-   "o": [
+   "question": "Which of the following is the National Reptile of India?",
+   "options": [
     "King Cobra",
     "Banyan",
     "Indian Elephant",
     "Jana Gana Mana"
    ],
-   "a": 0,
-   "t": "National Symbols",
-   "l": 1,
-   "s": "generated",
-   "e": "The National Reptile of India is King Cobra."
+   "answer": 0,
+   "explanation": "The National Reptile of India is King Cobra.",
+   "topic": "National Symbols",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00026",
-   "q": "First Indian to win the Miss Universe title is associated with which of the following?",
-   "o": [
+   "question": "First Indian to win the Miss Universe title is associated with which of the following?",
+   "options": [
     "Justice Fathima Beevi",
     "Rabindranath Tagore",
     "Sushmita Sen",
     "Indira Gandhi"
    ],
-   "a": 2,
-   "t": "First in India",
-   "l": 2,
-   "s": "generated",
-   "e": "First Indian to win the Miss Universe title — Sushmita Sen."
+   "answer": 2,
+   "explanation": "First Indian to win the Miss Universe title — Sushmita Sen.",
+   "topic": "First in India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00027",
-   "q": "Yakshagana is a folk or classical dance form of which state?",
-   "o": [
+   "question": "Yakshagana is a folk or classical dance form of which state?",
+   "options": [
     "Punjab",
     "Mizoram",
     "Tripura",
     "Karnataka"
    ],
-   "a": 3,
-   "t": "Folk Dances of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Yakshagana belongs to Karnataka."
+   "answer": 3,
+   "explanation": "Yakshagana belongs to Karnataka.",
+   "topic": "Folk Dances of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00028",
-   "q": "Cheiraoba is a major festival of which state?",
-   "o": [
+   "question": "Cheiraoba is a major festival of which state?",
+   "options": [
     "Manipur",
     "Arunachal Pradesh",
     "Jharkhand",
     "Ladakh"
    ],
-   "a": 0,
-   "t": "Festivals of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Cheiraoba is celebrated mainly in Manipur."
+   "answer": 0,
+   "explanation": "Cheiraoba is celebrated mainly in Manipur.",
+   "topic": "Festivals of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00029",
-   "q": "The river Kosi originates from which of the following?",
-   "o": [
+   "question": "The river Kosi originates from which of the following?",
+   "options": [
     "Sivagiri Hills",
     "Trimbakeshwar",
     "Nepal Himalayas",
     "Bokhar Chu"
    ],
-   "a": 2,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Kosi originates from Nepal Himalayas."
+   "answer": 2,
+   "explanation": "Kosi originates from Nepal Himalayas.",
+   "topic": "Rivers of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00030",
-   "q": "Koyna Dam is built on which river?",
-   "o": [
+   "question": "Koyna Dam is built on which river?",
+   "options": [
     "Barakar",
     "Koyna",
     "Narmada",
     "Chenab"
    ],
-   "a": 1,
-   "t": "Dams of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Koyna Dam is built on the Koyna."
+   "answer": 1,
+   "explanation": "Koyna Dam is built on the Koyna.",
+   "topic": "Dams of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00031",
-   "q": "Bhitarkanika National Park is located in which state?",
-   "o": [
+   "question": "Bhitarkanika National Park is located in which state?",
+   "options": [
     "Odisha",
     "Rajasthan",
     "Madhya Pradesh",
     "Chhattisgarh"
    ],
-   "a": 0,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Bhitarkanika National Park is located in Odisha."
+   "answer": 0,
+   "explanation": "Bhitarkanika National Park is located in Odisha.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00032",
-   "q": "Jelep La pass is located in which state or union territory?",
-   "o": [
+   "question": "Jelep La pass is located in which state or union territory?",
+   "options": [
     "Sikkim",
     "Ladakh",
     "Arunachal Pradesh",
     "Kerala"
    ],
-   "a": 0,
-   "t": "Mountain Passes of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Jelep La is located in Sikkim."
+   "answer": 0,
+   "explanation": "Jelep La is located in Sikkim.",
+   "topic": "Mountain Passes of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00033",
-   "q": "What is the SI unit of Wave number?",
-   "o": [
+   "question": "What is the SI unit of Wave number?",
+   "options": [
     "Katal",
     "Mole",
     "Reciprocal metre",
     "Ampere"
    ],
-   "a": 2,
-   "t": "SI Units",
-   "l": 1,
-   "s": "generated",
-   "e": "The SI unit of Wave number is the Reciprocal metre."
+   "answer": 2,
+   "explanation": "The SI unit of Wave number is the Reciprocal metre.",
+   "topic": "SI Units",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00034",
-   "q": "Which instrument is used to measure One form of energy into another?",
-   "o": [
+   "question": "Which instrument is used to measure One form of energy into another?",
+   "options": [
     "Voltmeter",
     "Hygroscope",
     "Transducer",
     "Audiometer"
    ],
-   "a": 2,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Transducer is used to measure One form of energy into another."
+   "answer": 2,
+   "explanation": "Transducer is used to measure One form of energy into another.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00035",
-   "q": "Deficiency of which nutrient causes Beri Beri?",
-   "o": [
+   "question": "Deficiency of which nutrient causes Beri Beri?",
+   "options": [
     "Vitamin B1",
     "Vitamin B12",
     "Vitamin B5",
     "Calcium"
    ],
-   "a": 0,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Vitamin B1 causes Beri Beri."
+   "answer": 0,
+   "explanation": "Deficiency of Vitamin B1 causes Beri Beri.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00036",
-   "q": "Who is credited with Thermometer (mercury)?",
-   "o": [
+   "question": "Who is credited with Thermometer (mercury)?",
+   "options": [
     "Daniel Gabriel Fahrenheit",
     "William Harvey",
     "Marie Curie",
     "Alfred Nobel"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Thermometer (mercury) — Daniel Gabriel Fahrenheit."
+   "answer": 0,
+   "explanation": "Thermometer (mercury) — Daniel Gabriel Fahrenheit.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00037",
-   "q": "What is the chemical name of Spirit of salt?",
-   "o": [
+   "question": "What is the chemical name of Spirit of salt?",
+   "options": [
     "Calcium carbonate (CaCO3)",
     "Acetic acid (CH3COOH)",
     "Hydrochloric acid (HCl)",
     "Magnesium hydroxide (Mg(OH)2)"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Spirit of salt is Hydrochloric acid (HCl)."
+   "answer": 2,
+   "explanation": "Spirit of salt is Hydrochloric acid (HCl).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00038",
-   "q": "Which branch of science deals with Beekeeping?",
-   "o": [
+   "question": "Which branch of science deals with Beekeeping?",
+   "options": [
     "Apiculture",
     "Oceanography",
     "Microbiology",
     "Physiology"
    ],
-   "a": 0,
-   "t": "Branches of Science",
-   "l": 2,
-   "s": "generated",
-   "e": "Apiculture deals with Beekeeping."
+   "answer": 0,
+   "explanation": "Apiculture deals with Beekeeping.",
+   "topic": "Branches of Science",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00039",
-   "q": "Which planet or body is described as: Moon?",
-   "o": [
+   "question": "Which planet or body is described as: Moon?",
+   "options": [
     "Moon",
     "Venus",
     "Earth",
     "Uranus"
    ],
-   "a": 0,
-   "t": "Astronomy",
-   "l": 2,
-   "s": "generated",
-   "e": "Moon — Moon."
+   "answer": 0,
+   "explanation": "Moon — Moon.",
+   "topic": "Astronomy",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00040",
-   "q": "G. N. Ramachandran is known for which of the following?",
-   "o": [
+   "question": "G. N. Ramachandran is known for which of the following?",
+   "options": [
     "Triple helical structure of collagen",
     "Periodic table of elements",
     "Electromagnetic induction",
     "Laws of inheritance"
    ],
-   "a": 0,
-   "t": "Scientists",
-   "l": 2,
-   "s": "generated",
-   "e": "G. N. Ramachandran is known for Triple helical structure of collagen."
+   "answer": 0,
+   "explanation": "G. N. Ramachandran is known for Triple helical structure of collagen.",
+   "topic": "Scientists",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00041",
-   "q": "Telecom Regulatory Authority of India is best described as which of the following?",
-   "o": [
+   "question": "Telecom Regulatory Authority of India is best described as which of the following?",
+   "options": [
     "Central bank and monetary authority",
     "Apex judicial body of India",
     "Regulator of telecommunications",
     "Aids and advises the President"
    ],
-   "a": 2,
-   "t": "Institutions of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Telecom Regulatory Authority of India — Regulator of telecommunications."
+   "answer": 2,
+   "explanation": "Telecom Regulatory Authority of India — Regulator of telecommunications.",
+   "topic": "Institutions of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00042",
-   "q": "On which date is World Energy Conservation Day observed?",
-   "o": [
+   "question": "On which date is World Energy Conservation Day observed?",
+   "options": [
     "20 June",
     "29 August",
     "4 October",
     "14 December"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Energy Conservation Day is observed on 14 December."
+   "answer": 3,
+   "explanation": "World Energy Conservation Day is observed on 14 December.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00043",
-   "q": "Where is the headquarters of SAARC?",
-   "o": [
+   "question": "Where is the headquarters of SAARC?",
+   "options": [
     "Beijing",
     "Geneva",
     "Kathmandu",
     "London"
    ],
-   "a": 2,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "SAARC is headquartered at Kathmandu."
+   "answer": 2,
+   "explanation": "SAARC is headquartered at Kathmandu.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00044",
-   "q": "Khelo India Games is associated with which sport?",
-   "o": [
+   "question": "Khelo India Games is associated with which sport?",
+   "options": [
     "Multi-sport",
     "Hockey",
     "Cricket",
     "Football"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Khelo India Games is associated with Multi-sport."
+   "answer": 0,
+   "explanation": "Khelo India Games is associated with Multi-sport.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00045",
-   "q": "Bharat Ratna is associated with which of the following?",
-   "o": [
+   "question": "Bharat Ratna is associated with which of the following?",
+   "options": [
     "Outstanding performance in Indian sports",
     "Highest civilian award of India",
     "Indian literary award",
     "Indian award for social work and peace"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Bharat Ratna — Highest civilian award of India."
+   "answer": 1,
+   "explanation": "Bharat Ratna — Highest civilian award of India.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00046",
-   "q": "First modern Olympic Games were held in is associated with which of the following?",
-   "o": [
+   "question": "First modern Olympic Games were held in is associated with which of the following?",
+   "options": [
     "New Zealand",
     "Athens",
     "Trygve Lie",
     "Roald Amundsen"
    ],
-   "a": 1,
-   "t": "First in the World",
-   "l": 2,
-   "s": "generated",
-   "e": "First modern Olympic Games were held in — Athens."
+   "answer": 1,
+   "explanation": "First modern Olympic Games were held in — Athens.",
+   "topic": "First in the World",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00047",
-   "q": "Which is the largest river island in the world?",
-   "o": [
+   "question": "Which is the largest river island in the world?",
+   "options": [
     "Majuli",
     "Norway",
     "Arctic Ocean",
     "Nile"
    ],
-   "a": 0,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 0,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00048",
-   "q": "Which soil is described as: Formed from crystalline rocks, rich in iron?",
-   "o": [
+   "question": "Which soil is described as: Formed from crystalline rocks, rich in iron?",
+   "options": [
     "Mountain soil",
     "Desert soil",
     "Red soil",
     "Peaty soil"
    ],
-   "a": 2,
-   "t": "Soils of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Red soil — Formed from crystalline rocks, rich in iron."
+   "answer": 2,
+   "explanation": "Red soil — Formed from crystalline rocks, rich in iron.",
+   "topic": "Soils of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00049",
-   "q": "Which Indian state is a major producer of Limestone?",
-   "o": [
+   "question": "Which Indian state is a major producer of Limestone?",
+   "options": [
     "Karnataka",
     "Madhya Pradesh",
     "Assam",
     "Odisha"
    ],
-   "a": 1,
-   "t": "Minerals and States",
-   "l": 3,
-   "s": "generated",
-   "e": "Limestone is produced in large quantities in Madhya Pradesh."
+   "answer": 1,
+   "explanation": "Limestone is produced in large quantities in Madhya Pradesh.",
+   "topic": "Minerals and States",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00050",
-   "q": "Great Nicobar Biosphere Reserve is located in which state?",
-   "o": [
+   "question": "Great Nicobar Biosphere Reserve is located in which state?",
+   "options": [
     "Himachal Pradesh",
     "Andaman and Nicobar Islands",
     "Tamil Nadu",
     "Rajasthan"
    ],
-   "a": 1,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Great Nicobar Biosphere Reserve is in Andaman and Nicobar Islands."
+   "answer": 1,
+   "explanation": "Great Nicobar Biosphere Reserve is in Andaman and Nicobar Islands.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00051",
-   "q": "What is the capital of Eswatini?",
-   "o": [
+   "question": "What is the capital of Eswatini?",
+   "options": [
     "Oslo",
     "Mbabane",
     "Madrid",
     "Malabo"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Eswatini is Mbabane."
+   "answer": 1,
+   "explanation": "The capital of Eswatini is Mbabane.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00052",
-   "q": "Which element has the chemical symbol Am?",
-   "o": [
+   "question": "Which element has the chemical symbol Am?",
+   "options": [
     "Holmium",
     "Thorium",
     "Palladium",
     "Americium"
    ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "Am is the symbol of Americium."
+   "answer": 3,
+   "explanation": "Am is the symbol of Americium.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00053",
-   "q": "What is the capital of Uttar Pradesh?",
-   "o": [
+   "question": "What is the capital of Uttar Pradesh?",
+   "options": [
     "Hyderabad",
     "Agartala",
     "Lucknow",
     "Chandigarh"
    ],
-   "a": 2,
-   "t": "States and Capitals",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Uttar Pradesh is Lucknow."
+   "answer": 2,
+   "explanation": "The capital of Uttar Pradesh is Lucknow.",
+   "topic": "States and Capitals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00054",
-   "q": "What is the capital of the Union Territory of Chandigarh?",
-   "o": [
+   "question": "What is the capital of the Union Territory of Chandigarh?",
+   "options": [
     "Chandigarh",
     "Kavaratti",
     "Puducherry",
     "New Delhi"
    ],
-   "a": 0,
-   "t": "Union Territories",
-   "l": 2,
-   "s": "generated",
-   "e": "The capital of Chandigarh is Chandigarh."
+   "answer": 0,
+   "explanation": "The capital of Chandigarh is Chandigarh.",
+   "topic": "Union Territories",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00055",
-   "q": "Which of the following is the National Currency of India?",
-   "o": [
+   "question": "Which of the following is the National Currency of India?",
+   "options": [
     "Lotus",
     "Indian Rupee",
     "Bengal Tiger",
     "Saka Calendar"
    ],
-   "a": 1,
-   "t": "National Symbols",
-   "l": 1,
-   "s": "generated",
-   "e": "The National Currency of India is Indian Rupee."
+   "answer": 1,
+   "explanation": "The National Currency of India is Indian Rupee.",
+   "topic": "National Symbols",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00056",
-   "q": "First Indian nuclear test was conducted at is associated with which of the following?",
-   "o": [
+   "question": "First Indian nuclear test was conducted at is associated with which of the following?",
+   "options": [
     "Indira Gandhi",
     "Reita Faria",
     "Pokhran",
     "Rakesh Sharma"
    ],
-   "a": 2,
-   "t": "First in India",
-   "l": 2,
-   "s": "generated",
-   "e": "First Indian nuclear test was conducted at — Pokhran."
+   "answer": 2,
+   "explanation": "First Indian nuclear test was conducted at — Pokhran.",
+   "topic": "First in India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00057",
-   "q": "Bhortal is a folk or classical dance form of which state?",
-   "o": [
+   "question": "Bhortal is a folk or classical dance form of which state?",
+   "options": [
     "Rajasthan",
     "Uttar Pradesh",
     "Assam",
     "Kerala"
    ],
-   "a": 2,
-   "t": "Folk Dances of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Bhortal belongs to Assam."
+   "answer": 2,
+   "explanation": "Bhortal belongs to Assam.",
+   "topic": "Folk Dances of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00058",
-   "q": "Solung is a major festival of which state?",
-   "o": [
+   "question": "Solung is a major festival of which state?",
+   "options": [
     "Odisha",
     "Punjab",
     "Gujarat",
     "Arunachal Pradesh"
    ],
-   "a": 3,
-   "t": "Festivals of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Solung is celebrated mainly in Arunachal Pradesh."
+   "answer": 3,
+   "explanation": "Solung is celebrated mainly in Arunachal Pradesh.",
+   "topic": "Festivals of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00059",
-   "q": "The river Sharavati originates from which of the following?",
-   "o": [
+   "question": "The river Sharavati originates from which of the following?",
+   "options": [
     "Bokhar Chu",
     "Kudali",
     "Ambutirtha",
     "Amarkantak"
    ],
-   "a": 2,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Sharavati originates from Ambutirtha."
+   "answer": 2,
+   "explanation": "Sharavati originates from Ambutirtha.",
+   "topic": "Rivers of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00060",
-   "q": "Polavaram Dam is built on which river?",
-   "o": [
+   "question": "Polavaram Dam is built on which river?",
+   "options": [
     "Godavari",
     "Kaveri",
     "Narmada",
     "Damodar"
    ],
-   "a": 0,
-   "t": "Dams of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Polavaram Dam is built on the Godavari."
+   "answer": 0,
+   "explanation": "Polavaram Dam is built on the Godavari.",
+   "topic": "Dams of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00061",
-   "q": "Bandhavgarh National Park is located in which state?",
-   "o": [
+   "question": "Bandhavgarh National Park is located in which state?",
+   "options": [
     "Assam",
     "Madhya Pradesh",
     "Kerala",
     "Arunachal Pradesh"
    ],
-   "a": 1,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Bandhavgarh National Park is located in Madhya Pradesh."
+   "answer": 1,
+   "explanation": "Bandhavgarh National Park is located in Madhya Pradesh.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00062",
-   "q": "Shencottah Gap pass is located in which state or union territory?",
-   "o": [
+   "question": "Shencottah Gap pass is located in which state or union territory?",
+   "options": [
     "Tamil Nadu",
     "Himachal Pradesh",
     "Ladakh",
     "Arunachal Pradesh"
    ],
-   "a": 0,
-   "t": "Mountain Passes of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Shencottah Gap is located in Tamil Nadu."
+   "answer": 0,
+   "explanation": "Shencottah Gap is located in Tamil Nadu.",
+   "topic": "Mountain Passes of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00063",
-   "q": "What is the SI unit of Illuminance?",
-   "o": [
+   "question": "What is the SI unit of Illuminance?",
+   "options": [
     "Ampere",
     "Joule per Kelvin",
     "Lux",
     "Newton"
    ],
-   "a": 2,
-   "t": "SI Units",
-   "l": 1,
-   "s": "generated",
-   "e": "The SI unit of Illuminance is the Lux."
+   "answer": 2,
+   "explanation": "The SI unit of Illuminance is the Lux.",
+   "topic": "SI Units",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00064",
-   "q": "Which instrument is used to measure Water absorption by plants?",
-   "o": [
+   "question": "Which instrument is used to measure Water absorption by plants?",
+   "options": [
     "Lactometer",
     "Transducer",
     "Cardiograph",
     "Potometer"
    ],
-   "a": 3,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Potometer is used to measure Water absorption by plants."
+   "answer": 3,
+   "explanation": "Potometer is used to measure Water absorption by plants.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00065",
-   "q": "Deficiency of which nutrient causes Growth retardation?",
-   "o": [
+   "question": "Deficiency of which nutrient causes Growth retardation?",
+   "options": [
     "Fluorine",
     "Sodium",
     "Zinc",
     "Phosphorus"
    ],
-   "a": 2,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Zinc causes Growth retardation."
+   "answer": 2,
+   "explanation": "Deficiency of Zinc causes Growth retardation.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00066",
-   "q": "Who is credited with Chloroform as anaesthetic?",
-   "o": [
+   "question": "Who is credited with Chloroform as anaesthetic?",
+   "options": [
     "John Logie Baird",
     "Charles Babbage",
     "James Young Simpson",
     "Karl Benz"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Chloroform as anaesthetic — James Young Simpson."
+   "answer": 2,
+   "explanation": "Chloroform as anaesthetic — James Young Simpson.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00067",
-   "q": "What is the chemical name of TNT?",
-   "o": [
+   "question": "What is the chemical name of TNT?",
+   "options": [
     "Sodium hydroxide (NaOH)",
     "Hydrochloric acid (HCl)",
     "Trichloromethane (CHCl3)",
     "Trinitrotoluene"
    ],
-   "a": 3,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "TNT is Trinitrotoluene."
+   "answer": 3,
+   "explanation": "TNT is Trinitrotoluene.",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00068",
-   "q": "Which branch of science deals with Origin of words?",
-   "o": [
+   "question": "Which branch of science deals with Origin of words?",
+   "options": [
     "Botany",
     "Neurology",
     "Etymology",
     "Virology"
    ],
-   "a": 2,
-   "t": "Branches of Science",
-   "l": 2,
-   "s": "generated",
-   "e": "Etymology deals with Origin of words."
+   "answer": 2,
+   "explanation": "Etymology deals with Origin of words.",
+   "topic": "Branches of Science",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00069",
-   "q": "Which planet or body is described as: Sirius?",
-   "o": [
+   "question": "Which planet or body is described as: Sirius?",
+   "options": [
     "Mars",
     "Olympus Mons",
     "Sirius",
     "Light year"
    ],
-   "a": 2,
-   "t": "Astronomy",
-   "l": 2,
-   "s": "generated",
-   "e": "Sirius — Sirius."
+   "answer": 2,
+   "explanation": "Sirius — Sirius.",
+   "topic": "Astronomy",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00070",
-   "q": "Birbal Sahni is known for which of the following?",
-   "o": [
+   "question": "Birbal Sahni is known for which of the following?",
+   "options": [
     "Heliocentric model of the Solar System",
     "Improvements to the steam engine",
     "Palaeobotany in India",
     "Fahrenheit temperature scale"
    ],
-   "a": 2,
-   "t": "Scientists",
-   "l": 2,
-   "s": "generated",
-   "e": "Birbal Sahni is known for Palaeobotany in India."
+   "answer": 2,
+   "explanation": "Birbal Sahni is known for Palaeobotany in India.",
+   "topic": "Scientists",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00071",
-   "q": "Lok Sabha is best described as which of the following?",
-   "o": [
+   "question": "Lok Sabha is best described as which of the following?",
+   "options": [
     "Aids and advises the President",
     "Regulator of the insurance sector",
     "House of the People",
     "Audits government accounts"
    ],
-   "a": 2,
-   "t": "Institutions of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Lok Sabha — House of the People."
+   "answer": 2,
+   "explanation": "Lok Sabha — House of the People.",
+   "topic": "Institutions of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00072",
-   "q": "On which date is World AIDS Day observed?",
-   "o": [
+   "question": "On which date is World AIDS Day observed?",
+   "options": [
     "1 December",
     "21 May",
     "1 July",
     "1 May"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World AIDS Day is observed on 1 December."
+   "answer": 0,
+   "explanation": "World AIDS Day is observed on 1 December.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00073",
-   "q": "Where is the headquarters of Indian Space Research Organisation?",
-   "o": [
+   "question": "Where is the headquarters of Indian Space Research Organisation?",
+   "options": [
     "Bengaluru",
     "Paris",
     "Vienna",
     "Jakarta"
    ],
-   "a": 0,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "Indian Space Research Organisation is headquartered at Bengaluru."
+   "answer": 0,
+   "explanation": "Indian Space Research Organisation is headquartered at Bengaluru.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00074",
-   "q": "Pulitzer Prize is associated with which of the following?",
-   "o": [
+   "question": "Pulitzer Prize is associated with which of the following?",
+   "options": [
     "Alternative Nobel Prize",
     "American award for music",
     "American award for journalism and letters",
     "Second highest peacetime gallantry award of India"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Pulitzer Prize — American award for journalism and letters."
+   "answer": 2,
+   "explanation": "Pulitzer Prize — American award for journalism and letters.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00075",
-   "q": "First person to run a mile in under four minutes is associated with which of the following?",
-   "o": [
+   "question": "First person to run a mile in under four minutes is associated with which of the following?",
+   "options": [
     "Roger Bannister",
     "Athens",
     "Karnam Malleswari",
     "Rabindranath Tagore"
    ],
-   "a": 0,
-   "t": "First in the World",
-   "l": 2,
-   "s": "generated",
-   "e": "First person to run a mile in under four minutes — Roger Bannister."
+   "answer": 0,
+   "explanation": "First person to run a mile in under four minutes — Roger Bannister.",
+   "topic": "First in the World",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00076",
-   "q": "Which country is known as the Land of Thunder Dragon?",
-   "o": [
+   "question": "Which country is known as the Land of Thunder Dragon?",
+   "options": [
     "Jammu and Kashmir",
     "Wular Lake",
     "Bhutan",
     "Ahmedabad"
    ],
-   "a": 2,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 2,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00077",
-   "q": "Which soil is described as: Formed by leaching in high rainfall areas?",
-   "o": [
+   "question": "Which soil is described as: Formed by leaching in high rainfall areas?",
+   "options": [
     "Peaty soil",
     "Black soil",
     "Desert soil",
     "Laterite soil"
    ],
-   "a": 3,
-   "t": "Soils of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Laterite soil — Formed by leaching in high rainfall areas."
+   "answer": 3,
+   "explanation": "Laterite soil — Formed by leaching in high rainfall areas.",
+   "topic": "Soils of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00078",
-   "q": "Which Indian state is a major producer of Kyanite?",
-   "o": [
+   "question": "Which Indian state is a major producer of Kyanite?",
+   "options": [
     "Jharkhand",
     "Karnataka",
     "Odisha",
     "Maharashtra"
    ],
-   "a": 0,
-   "t": "Minerals and States",
-   "l": 3,
-   "s": "generated",
-   "e": "Kyanite is produced in large quantities in Jharkhand."
+   "answer": 0,
+   "explanation": "Kyanite is produced in large quantities in Jharkhand.",
+   "topic": "Minerals and States",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00079",
-   "q": "Point Calimere is located in which state?",
-   "o": [
+   "question": "Point Calimere is located in which state?",
+   "options": [
     "Tamil Nadu",
     "Andhra Pradesh",
     "Madhya Pradesh and Chhattisgarh",
     "Odisha"
    ],
-   "a": 0,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Point Calimere is in Tamil Nadu."
+   "answer": 0,
+   "explanation": "Point Calimere is in Tamil Nadu.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00080",
-   "q": "What is the capital of Haiti?",
-   "o": [
+   "question": "What is the capital of Haiti?",
+   "options": [
     "Tokyo",
     "Washington, D.C.",
     "Guatemala City",
     "Port-au-Prince"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Haiti is Port-au-Prince."
+   "answer": 3,
+   "explanation": "The capital of Haiti is Port-au-Prince.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00081",
-   "q": "Which element has the chemical symbol Ra?",
-   "o": [
+   "question": "Which element has the chemical symbol Ra?",
+   "options": [
     "Krypton",
     "Dubnium",
     "Plutonium",
     "Radium"
    ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "Ra is the symbol of Radium."
+   "answer": 3,
+   "explanation": "Ra is the symbol of Radium.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00082",
-   "q": "What is the capital of Uttarakhand?",
-   "o": [
+   "question": "What is the capital of Uttarakhand?",
+   "options": [
     "Dehradun",
     "Bhopal",
     "Mumbai",
     "Itanagar"
    ],
-   "a": 0,
-   "t": "States and Capitals",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Uttarakhand is Dehradun."
+   "answer": 0,
+   "explanation": "The capital of Uttarakhand is Dehradun.",
+   "topic": "States and Capitals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00083",
-   "q": "What is the capital of the Union Territory of Dadra and Nagar Haveli and Daman and Diu?",
-   "o": [
+   "question": "What is the capital of the Union Territory of Dadra and Nagar Haveli and Daman and Diu?",
+   "options": [
     "Port Blair",
     "Puducherry",
     "New Delhi",
     "Daman"
    ],
-   "a": 3,
-   "t": "Union Territories",
-   "l": 2,
-   "s": "generated",
-   "e": "The capital of Dadra and Nagar Haveli and Daman and Diu is Daman."
+   "answer": 3,
+   "explanation": "The capital of Dadra and Nagar Haveli and Daman and Diu is Daman.",
+   "topic": "Union Territories",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00084",
-   "q": "Which of the following is the National Song of India?",
-   "o": [
+   "question": "Which of the following is the National Song of India?",
+   "options": [
     "Indian Peacock",
     "Banyan",
     "Vande Mataram",
     "Lotus"
    ],
-   "a": 2,
-   "t": "National Symbols",
-   "l": 1,
-   "s": "generated",
-   "e": "The National Song of India is Vande Mataram."
+   "answer": 2,
+   "explanation": "The National Song of India is Vande Mataram.",
+   "topic": "National Symbols",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00085",
-   "q": "First Prime Minister of India is associated with which of the following?",
-   "o": [
+   "question": "First Prime Minister of India is associated with which of the following?",
+   "options": [
     "Kharagpur",
     "Dr. Rajendra Prasad",
     "Jawaharlal Nehru",
     "C. Rajagopalachari"
    ],
-   "a": 2,
-   "t": "First in India",
-   "l": 2,
-   "s": "generated",
-   "e": "First Prime Minister of India — Jawaharlal Nehru."
+   "answer": 2,
+   "explanation": "First Prime Minister of India — Jawaharlal Nehru.",
+   "topic": "First in India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00086",
-   "q": "Phag Dance is a folk or classical dance form of which state?",
-   "o": [
+   "question": "Phag Dance is a folk or classical dance form of which state?",
+   "options": [
     "Haryana",
     "Punjab",
     "Andhra Pradesh",
     "Jammu and Kashmir"
    ],
-   "a": 0,
-   "t": "Folk Dances of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Phag Dance belongs to Haryana."
+   "answer": 0,
+   "explanation": "Phag Dance belongs to Haryana.",
+   "topic": "Folk Dances of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00087",
-   "q": "Dree Festival is a major festival of which state?",
-   "o": [
+   "question": "Dree Festival is a major festival of which state?",
+   "options": [
     "Manipur",
     "Odisha",
     "Ladakh",
     "Arunachal Pradesh"
    ],
-   "a": 3,
-   "t": "Festivals of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Dree Festival is celebrated mainly in Arunachal Pradesh."
+   "answer": 3,
+   "explanation": "Dree Festival is celebrated mainly in Arunachal Pradesh.",
+   "topic": "Festivals of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00088",
-   "q": "The river Yamuna originates from which of the following?",
-   "o": [
+   "question": "The river Yamuna originates from which of the following?",
+   "options": [
     "Pilibhit",
     "Gangotri Glacier",
     "Yamunotri Glacier",
     "Amarkantak"
    ],
-   "a": 2,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Yamuna originates from Yamunotri Glacier."
+   "answer": 2,
+   "explanation": "Yamuna originates from Yamunotri Glacier.",
+   "topic": "Rivers of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00089",
-   "q": "Omkareshwar Dam is built on which river?",
-   "o": [
+   "question": "Omkareshwar Dam is built on which river?",
+   "options": [
     "Godavari",
     "Sutlej",
     "Rihand",
     "Narmada"
    ],
-   "a": 3,
-   "t": "Dams of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Omkareshwar Dam is built on the Narmada."
+   "answer": 3,
+   "explanation": "Omkareshwar Dam is built on the Narmada.",
+   "topic": "Dams of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00090",
-   "q": "Dachigam National Park is located in which state?",
-   "o": [
+   "question": "Dachigam National Park is located in which state?",
+   "options": [
     "Meghalaya",
     "Jammu and Kashmir",
     "West Bengal",
     "Madhya Pradesh"
    ],
-   "a": 1,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Dachigam National Park is located in Jammu and Kashmir."
+   "answer": 1,
+   "explanation": "Dachigam National Park is located in Jammu and Kashmir.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00091",
-   "q": "Rohtang Pass pass is located in which state or union territory?",
-   "o": [
+   "question": "Rohtang Pass pass is located in which state or union territory?",
+   "options": [
     "Jammu and Kashmir",
     "Arunachal Pradesh",
     "Rajasthan",
     "Himachal Pradesh"
    ],
-   "a": 3,
-   "t": "Mountain Passes of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Rohtang Pass is located in Himachal Pradesh."
+   "answer": 3,
+   "explanation": "Rohtang Pass is located in Himachal Pradesh.",
+   "topic": "Mountain Passes of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00092",
-   "q": "What is the SI unit of Mass?",
-   "o": [
+   "question": "What is the SI unit of Mass?",
+   "options": [
     "Gray",
     "Metre",
     "Kilogram",
     "Tesla"
    ],
-   "a": 2,
-   "t": "SI Units",
-   "l": 1,
-   "s": "generated",
-   "e": "The SI unit of Mass is the Kilogram."
+   "answer": 2,
+   "explanation": "The SI unit of Mass is the Kilogram.",
+   "topic": "SI Units",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00093",
-   "q": "Which instrument is used to measure Speed and distance?",
-   "o": [
+   "question": "Which instrument is used to measure Speed and distance?",
+   "options": [
     "Geiger counter",
     "Sphygmomanometer",
     "Chronometer",
     "Odometer and Speedometer"
    ],
-   "a": 3,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Odometer and Speedometer is used to measure Speed and distance."
+   "answer": 3,
+   "explanation": "Odometer and Speedometer is used to measure Speed and distance.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00094",
-   "q": "Deficiency of which nutrient causes Pernicious anaemia?",
-   "o": [
+   "question": "Deficiency of which nutrient causes Pernicious anaemia?",
+   "options": [
     "Iodine",
     "Vitamin C",
     "Vitamin B12",
     "Vitamin B6"
    ],
-   "a": 2,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Vitamin B12 causes Pernicious anaemia."
+   "answer": 2,
+   "explanation": "Deficiency of Vitamin B12 causes Pernicious anaemia.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00095",
-   "q": "Who is credited with Printing press?",
-   "o": [
+   "question": "Who is credited with Printing press?",
+   "options": [
     "James Watt",
     "Johannes Gutenberg",
     "Theodore Maiman",
     "Alexander Fleming"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Printing press — Johannes Gutenberg."
+   "answer": 1,
+   "explanation": "Printing press — Johannes Gutenberg.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00096",
-   "q": "What is the chemical name of Quartz?",
-   "o": [
+   "question": "What is the chemical name of Quartz?",
+   "options": [
     "Magnesium oxide (MgO)",
     "Calcium oxide (CaO)",
     "Deuterium oxide (D2O)",
     "Silicon dioxide (SiO2)"
    ],
-   "a": 3,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Quartz is Silicon dioxide (SiO2)."
+   "answer": 3,
+   "explanation": "Quartz is Silicon dioxide (SiO2).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00097",
-   "q": "Which branch of science deals with Birds?",
-   "o": [
+   "question": "Which branch of science deals with Birds?",
+   "options": [
     "Anatomy",
     "Ornithology",
     "Cytology",
     "Pathology"
    ],
-   "a": 1,
-   "t": "Branches of Science",
-   "l": 2,
-   "s": "generated",
-   "e": "Ornithology deals with Birds."
+   "answer": 1,
+   "explanation": "Ornithology deals with Birds.",
+   "topic": "Branches of Science",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00098",
-   "q": "Which planet or body is described as: Sun?",
-   "o": [
+   "question": "Which planet or body is described as: Sun?",
+   "options": [
     "Saturn",
     "Sun",
     "Ceres",
     "Neptune"
    ],
-   "a": 1,
-   "t": "Astronomy",
-   "l": 2,
-   "s": "generated",
-   "e": "Sun — Sun."
+   "answer": 1,
+   "explanation": "Sun — Sun.",
+   "topic": "Astronomy",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00099",
-   "q": "Amedeo Avogadro is known for which of the following?",
-   "o": [
+   "question": "Amedeo Avogadro is known for which of the following?",
+   "options": [
     "Theory of evolution",
     "Molecular theory and Avogadro's law",
     "Electrodynamics",
     "Germ theory and pasteurisation"
    ],
-   "a": 1,
-   "t": "Scientists",
-   "l": 2,
-   "s": "generated",
-   "e": "Amedeo Avogadro is known for Molecular theory and Avogadro's law."
+   "answer": 1,
+   "explanation": "Amedeo Avogadro is known for Molecular theory and Avogadro's law.",
+   "topic": "Scientists",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00100",
-   "q": "Vice President of India is best described as which of the following?",
-   "o": [
+   "question": "Vice President of India is best described as which of the following?",
+   "options": [
     "Local body at the district level",
     "Constitutional head of the Republic",
     "Ex-officio Chairman of the Rajya Sabha",
     "Law-making body of a State"
    ],
-   "a": 2,
-   "t": "Institutions of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Vice President of India — Ex-officio Chairman of the Rajya Sabha."
+   "answer": 2,
+   "explanation": "Vice President of India — Ex-officio Chairman of the Rajya Sabha.",
+   "topic": "Institutions of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00101",
-   "q": "On which date is World Cancer Day observed?",
-   "o": [
+   "question": "On which date is World Cancer Day observed?",
+   "options": [
     "3 March",
     "15 October",
     "13 February",
     "4 February"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Cancer Day is observed on 4 February."
+   "answer": 3,
+   "explanation": "World Cancer Day is observed on 4 February.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00102",
-   "q": "Where is the headquarters of International Cricket Council?",
-   "o": [
+   "question": "Where is the headquarters of International Cricket Council?",
+   "options": [
     "Paris",
     "Dubai",
     "Nairobi",
     "Montreal"
    ],
-   "a": 1,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "International Cricket Council is headquartered at Dubai."
+   "answer": 1,
+   "explanation": "International Cricket Council is headquartered at Dubai.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00103",
-   "q": "The Ashes is associated with which sport?",
-   "o": [
+   "question": "The Ashes is associated with which sport?",
+   "options": [
     "Football",
     "Cricket",
     "Tennis",
     "Badminton"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "The Ashes is associated with Cricket."
+   "answer": 1,
+   "explanation": "The Ashes is associated with Cricket.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00104",
-   "q": "Ashoka Chakra is associated with which of the following?",
-   "o": [
+   "question": "Ashoka Chakra is associated with which of the following?",
+   "options": [
     "Indian literary award",
     "Highest civilian award of India",
     "Highest peacetime gallantry award of India",
     "Second highest peacetime gallantry award of India"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Ashoka Chakra — Highest peacetime gallantry award of India."
+   "answer": 2,
+   "explanation": "Ashoka Chakra — Highest peacetime gallantry award of India.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00105",
-   "q": "First country to launch a satellite is associated with which of the following?",
-   "o": [
+   "question": "First country to launch a satellite is associated with which of the following?",
+   "options": [
     "Karnam Malleswari",
     "Soviet Union",
     "Uruguay",
     "Rabindranath Tagore"
    ],
-   "a": 1,
-   "t": "First in the World",
-   "l": 2,
-   "s": "generated",
-   "e": "First country to launch a satellite — Soviet Union."
+   "answer": 1,
+   "explanation": "First country to launch a satellite — Soviet Union.",
+   "topic": "First in the World",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00106",
-   "q": "Which is the largest freshwater lake in India?",
-   "o": [
+   "question": "Which is the largest freshwater lake in India?",
+   "options": [
     "Australia",
     "Wular Lake",
     "Ethiopia",
     "Rajasthan"
    ],
-   "a": 1,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 1,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00107",
-   "q": "Which soil is described as: Also called regur, ideal for cotton?",
-   "o": [
+   "question": "Which soil is described as: Also called regur, ideal for cotton?",
+   "options": [
     "Laterite soil",
     "Alluvial soil",
     "Black soil",
     "Red soil"
    ],
-   "a": 2,
-   "t": "Soils of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Black soil — Also called regur, ideal for cotton."
+   "answer": 2,
+   "explanation": "Black soil — Also called regur, ideal for cotton.",
+   "topic": "Soils of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00108",
-   "q": "Which Indian state is a major producer of Rock phosphate?",
-   "o": [
+   "question": "Which Indian state is a major producer of Rock phosphate?",
+   "options": [
     "Jharkhand",
     "Madhya Pradesh",
     "Andhra Pradesh",
     "Rajasthan"
    ],
-   "a": 3,
-   "t": "Minerals and States",
-   "l": 3,
-   "s": "generated",
-   "e": "Rock phosphate is produced in large quantities in Rajasthan."
+   "answer": 3,
+   "explanation": "Rock phosphate is produced in large quantities in Rajasthan.",
+   "topic": "Minerals and States",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00109",
-   "q": "Sambhar Lake is located in which state?",
-   "o": [
+   "question": "Sambhar Lake is located in which state?",
+   "options": [
     "Tamil Nadu",
     "Tamil Nadu, Kerala and Karnataka",
     "Madhya Pradesh",
     "Rajasthan"
    ],
-   "a": 3,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Sambhar Lake is in Rajasthan."
+   "answer": 3,
+   "explanation": "Sambhar Lake is in Rajasthan.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00110",
-   "q": "What is the capital of Estonia?",
-   "o": [
+   "question": "What is the capital of Estonia?",
+   "options": [
     "Managua",
     "Tallinn",
     "Baku",
     "Manila"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Estonia is Tallinn."
+   "answer": 1,
+   "explanation": "The capital of Estonia is Tallinn.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00111",
-   "q": "Which element has the chemical symbol Mc?",
-   "o": [
+   "question": "Which element has the chemical symbol Mc?",
+   "options": [
     "Moscovium",
     "Promethium",
     "Silicon",
     "Mercury"
    ],
-   "a": 0,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "Mc is the symbol of Moscovium."
+   "answer": 0,
+   "explanation": "Mc is the symbol of Moscovium.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00112",
-   "q": "What is the capital of Karnataka?",
-   "o": [
+   "question": "What is the capital of Karnataka?",
+   "options": [
     "Bengaluru",
     "Shillong",
     "Dispur",
     "Aizawl"
    ],
-   "a": 0,
-   "t": "States and Capitals",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Karnataka is Bengaluru."
+   "answer": 0,
+   "explanation": "The capital of Karnataka is Bengaluru.",
+   "topic": "States and Capitals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00113",
-   "q": "What is the capital of the Union Territory of Andaman and Nicobar Islands?",
-   "o": [
+   "question": "What is the capital of the Union Territory of Andaman and Nicobar Islands?",
+   "options": [
     "Daman",
     "Chandigarh",
     "Puducherry",
     "Port Blair"
    ],
-   "a": 3,
-   "t": "Union Territories",
-   "l": 2,
-   "s": "generated",
-   "e": "The capital of Andaman and Nicobar Islands is Port Blair."
+   "answer": 3,
+   "explanation": "The capital of Andaman and Nicobar Islands is Port Blair.",
+   "topic": "Union Territories",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00114",
-   "q": "Which of the following is the National River of India?",
-   "o": [
+   "question": "Which of the following is the National River of India?",
+   "options": [
     "Bengal Tiger",
     "Lotus",
     "Ganga",
     "King Cobra"
    ],
-   "a": 2,
-   "t": "National Symbols",
-   "l": 1,
-   "s": "generated",
-   "e": "The National River of India is Ganga."
+   "answer": 2,
+   "explanation": "The National River of India is Ganga.",
+   "topic": "National Symbols",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00115",
-   "q": "First woman Chief Minister in India is associated with which of the following?",
-   "o": [
+   "question": "First woman Chief Minister in India is associated with which of the following?",
+   "options": [
     "Sucheta Kripalani",
     "Mihir Sen",
     "Pokhran",
     "Jawaharlal Nehru"
    ],
-   "a": 0,
-   "t": "First in India",
-   "l": 2,
-   "s": "generated",
-   "e": "First woman Chief Minister in India — Sucheta Kripalani."
+   "answer": 0,
+   "explanation": "First woman Chief Minister in India — Sucheta Kripalani.",
+   "topic": "First in India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00116",
-   "q": "Manipuri is a folk or classical dance form of which state?",
-   "o": [
+   "question": "Manipuri is a folk or classical dance form of which state?",
+   "options": [
     "Tamil Nadu",
     "Andhra Pradesh",
     "Manipur",
     "Punjab"
    ],
-   "a": 2,
-   "t": "Folk Dances of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Manipuri belongs to Manipur."
+   "answer": 2,
+   "explanation": "Manipuri belongs to Manipur.",
+   "topic": "Folk Dances of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00117",
-   "q": "Navratri is a major festival of which state?",
-   "o": [
+   "question": "Navratri is a major festival of which state?",
+   "options": [
     "Assam",
     "Rajasthan",
     "Kerala",
     "Gujarat"
    ],
-   "a": 3,
-   "t": "Festivals of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Navratri is celebrated mainly in Gujarat."
+   "answer": 3,
+   "explanation": "Navratri is celebrated mainly in Gujarat.",
+   "topic": "Festivals of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00118",
-   "q": "The river Chambal originates from which of the following?",
-   "o": [
+   "question": "The river Chambal originates from which of the following?",
+   "options": [
     "Janapav Hill",
     "Bhimashankar",
     "Ambutirtha",
     "Yamunotri Glacier"
    ],
-   "a": 0,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Chambal originates from Janapav Hill."
+   "answer": 0,
+   "explanation": "Chambal originates from Janapav Hill.",
+   "topic": "Rivers of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00119",
-   "q": "Bhavani Sagar Dam is built on which river?",
-   "o": [
+   "question": "Bhavani Sagar Dam is built on which river?",
+   "options": [
     "Bhagirathi",
     "Periyar",
     "Kaveri",
     "Bhavani"
    ],
-   "a": 3,
-   "t": "Dams of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Bhavani Sagar Dam is built on the Bhavani."
+   "answer": 3,
+   "explanation": "Bhavani Sagar Dam is built on the Bhavani.",
+   "topic": "Dams of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00120",
-   "q": "Bandipur National Park is located in which state?",
-   "o": [
+   "question": "Bandipur National Park is located in which state?",
+   "options": [
     "Karnataka",
     "Kerala",
     "Jammu and Kashmir",
     "Bihar"
    ],
-   "a": 0,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Bandipur National Park is located in Karnataka."
+   "answer": 0,
+   "explanation": "Bandipur National Park is located in Karnataka.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00121",
-   "q": "Bomdila Pass pass is located in which state or union territory?",
-   "o": [
+   "question": "Bomdila Pass pass is located in which state or union territory?",
+   "options": [
     "Sikkim",
     "Ladakh",
     "Kerala",
     "Arunachal Pradesh"
    ],
-   "a": 3,
-   "t": "Mountain Passes of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Bomdila Pass is located in Arunachal Pradesh."
+   "answer": 3,
+   "explanation": "Bomdila Pass is located in Arunachal Pradesh.",
+   "topic": "Mountain Passes of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00122",
-   "q": "What is the SI unit of Inductance?",
-   "o": [
+   "question": "What is the SI unit of Inductance?",
+   "options": [
     "Henry",
     "Pascal second",
     "Lux",
     "Kilogram"
    ],
-   "a": 0,
-   "t": "SI Units",
-   "l": 1,
-   "s": "generated",
-   "e": "The SI unit of Inductance is the Henry."
+   "answer": 0,
+   "explanation": "The SI unit of Inductance is the Henry.",
+   "topic": "SI Units",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00123",
-   "q": "Which instrument is used to measure Properties of light?",
-   "o": [
+   "question": "Which instrument is used to measure Properties of light?",
+   "options": [
     "Spherometer",
     "Hygrometer",
     "Tachometer",
     "Spectrometer"
    ],
-   "a": 3,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Spectrometer is used to measure Properties of light."
+   "answer": 3,
+   "explanation": "Spectrometer is used to measure Properties of light.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00124",
-   "q": "Deficiency of which nutrient causes Anaemia?",
-   "o": [
+   "question": "Deficiency of which nutrient causes Anaemia?",
+   "options": [
     "Vitamin B5",
     "Calcium",
     "Vitamin B6",
     "Fluorine"
    ],
-   "a": 2,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Vitamin B6 causes Anaemia."
+   "answer": 2,
+   "explanation": "Deficiency of Vitamin B6 causes Anaemia.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00125",
-   "q": "Who is credited with Radio?",
-   "o": [
+   "question": "Who is credited with Radio?",
+   "options": [
     "Alfred Nobel",
     "Guglielmo Marconi",
     "Wilhelm Roentgen",
     "Rene Laennec"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Radio — Guglielmo Marconi."
+   "answer": 1,
+   "explanation": "Radio — Guglielmo Marconi.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00126",
-   "q": "What is the chemical name of Dry ice?",
-   "o": [
+   "question": "What is the chemical name of Dry ice?",
+   "options": [
     "Ethanol (C2H5OH)",
     "Sodium carbonate (Na2CO3)",
     "Sodium sulphate (Na2SO4)",
     "Solid carbon dioxide (CO2)"
    ],
-   "a": 3,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Dry ice is Solid carbon dioxide (CO2)."
+   "answer": 3,
+   "explanation": "Dry ice is Solid carbon dioxide (CO2).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00127",
-   "q": "Which branch of science deals with Animals?",
-   "o": [
+   "question": "Which branch of science deals with Animals?",
+   "options": [
     "Physiology",
     "Zoology",
     "Biochemistry",
     "Mechanics"
    ],
-   "a": 1,
-   "t": "Branches of Science",
-   "l": 2,
-   "s": "generated",
-   "e": "Zoology deals with Animals."
+   "answer": 1,
+   "explanation": "Zoology deals with Animals.",
+   "topic": "Branches of Science",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00128",
-   "q": "Which planet or body is described as: Black hole?",
-   "o": [
+   "question": "Which planet or body is described as: Black hole?",
+   "options": [
     "Uranus",
     "Black hole",
     "Venus",
     "Meteorite"
    ],
-   "a": 1,
-   "t": "Astronomy",
-   "l": 2,
-   "s": "generated",
-   "e": "Black hole — Black hole."
+   "answer": 1,
+   "explanation": "Black hole — Black hole.",
+   "topic": "Astronomy",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00129",
-   "q": "Johannes Kepler is known for which of the following?",
-   "o": [
+   "question": "Johannes Kepler is known for which of the following?",
+   "options": [
     "Laws of inheritance",
     "Laws of planetary motion",
     "Discovery of radium and polonium",
     "Indian nuclear programme"
    ],
-   "a": 1,
-   "t": "Scientists",
-   "l": 2,
-   "s": "generated",
-   "e": "Johannes Kepler is known for Laws of planetary motion."
+   "answer": 1,
+   "explanation": "Johannes Kepler is known for Laws of planetary motion.",
+   "topic": "Scientists",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00130",
-   "q": "Panchayat is best described as which of the following?",
-   "o": [
+   "question": "Panchayat is best described as which of the following?",
+   "options": [
     "Local self-government at the village level",
     "Regulator of the securities market",
     "House of the People",
     "Ex-officio Chairman of the Rajya Sabha"
    ],
-   "a": 0,
-   "t": "Institutions of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Panchayat — Local self-government at the village level."
+   "answer": 0,
+   "explanation": "Panchayat — Local self-government at the village level.",
+   "topic": "Institutions of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00131",
-   "q": "On which date is World Post Day observed?",
-   "o": [
+   "question": "On which date is World Post Day observed?",
+   "options": [
     "19 August",
     "21 September",
     "21 February",
     "9 October"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Post Day is observed on 9 October."
+   "answer": 3,
+   "explanation": "World Post Day is observed on 9 October.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00132",
-   "q": "Where is the headquarters of Greenpeace?",
-   "o": [
+   "question": "Where is the headquarters of Greenpeace?",
+   "options": [
     "Amsterdam",
     "Washington, D.C.",
     "Rome",
     "Nairobi"
    ],
-   "a": 0,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "Greenpeace is headquartered at Amsterdam."
+   "answer": 0,
+   "explanation": "Greenpeace is headquartered at Amsterdam.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00133",
-   "q": "Copa America is associated with which sport?",
-   "o": [
+   "question": "Copa America is associated with which sport?",
+   "options": [
     "Football",
     "Cricket",
     "Badminton",
     "Tennis"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Copa America is associated with Football."
+   "answer": 0,
+   "explanation": "Copa America is associated with Football.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00134",
-   "q": "Grammy Award is associated with which of the following?",
-   "o": [
+   "question": "Grammy Award is associated with which of the following?",
+   "options": [
     "Indian literary award",
     "American award for music",
     "Literary award for Indian languages",
     "Asian award for public service"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Grammy Award — American award for music."
+   "answer": 1,
+   "explanation": "Grammy Award — American award for music.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00135",
-   "q": "First woman in space is associated with which of the following?",
-   "o": [
+   "question": "First woman in space is associated with which of the following?",
+   "options": [
     "Uruguay",
     "Chamonix",
     "Valentina Tereshkova",
     "Marie Curie"
    ],
-   "a": 2,
-   "t": "First in the World",
-   "l": 2,
-   "s": "generated",
-   "e": "First woman in space — Valentina Tereshkova."
+   "answer": 2,
+   "explanation": "First woman in space — Valentina Tereshkova.",
+   "topic": "First in the World",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00136",
-   "q": "Which is the largest sea in the world?",
-   "o": [
+   "question": "Which is the largest sea in the world?",
+   "options": [
     "Maharashtra",
     "South China Sea",
     "Lake Titicaca",
     "Volga"
    ],
-   "a": 1,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 1,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00137",
-   "q": "Which soil is described as: Sandy soil of arid regions?",
-   "o": [
+   "question": "Which soil is described as: Sandy soil of arid regions?",
+   "options": [
     "Alluvial soil",
     "Desert soil",
     "Black soil",
     "Red soil"
    ],
-   "a": 1,
-   "t": "Soils of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Desert soil — Sandy soil of arid regions."
+   "answer": 1,
+   "explanation": "Desert soil — Sandy soil of arid regions.",
+   "topic": "Soils of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00138",
-   "q": "Which Indian state is a major producer of Uranium?",
-   "o": [
+   "question": "Which Indian state is a major producer of Uranium?",
+   "options": [
     "Rajasthan",
     "Odisha",
     "Karnataka",
     "Jharkhand"
    ],
-   "a": 3,
-   "t": "Minerals and States",
-   "l": 3,
-   "s": "generated",
-   "e": "Uranium is produced in large quantities in Jharkhand."
+   "answer": 3,
+   "explanation": "Uranium is produced in large quantities in Jharkhand.",
+   "topic": "Minerals and States",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00139",
-   "q": "Kanchenjunga Biosphere Reserve is located in which state?",
-   "o": [
+   "question": "Kanchenjunga Biosphere Reserve is located in which state?",
+   "options": [
     "Odisha",
     "Kerala and Tamil Nadu",
     "Madhya Pradesh and Chhattisgarh",
     "Sikkim"
    ],
-   "a": 3,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Kanchenjunga Biosphere Reserve is in Sikkim."
+   "answer": 3,
+   "explanation": "Kanchenjunga Biosphere Reserve is in Sikkim.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00140",
-   "q": "What is the capital of Chile?",
-   "o": [
+   "question": "What is the capital of Chile?",
+   "options": [
     "Santiago",
     "Bangkok",
     "Naypyidaw",
     "Lome"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Chile is Santiago."
+   "answer": 0,
+   "explanation": "The capital of Chile is Santiago.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00141",
-   "q": "Which element has the chemical symbol Rg?",
-   "o": [
+   "question": "Which element has the chemical symbol Rg?",
+   "options": [
     "Radium",
     "Palladium",
     "Scandium",
     "Roentgenium"
    ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "Rg is the symbol of Roentgenium."
+   "answer": 3,
+   "explanation": "Rg is the symbol of Roentgenium.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00142",
-   "q": "What is the capital of Jharkhand?",
-   "o": [
+   "question": "What is the capital of Jharkhand?",
+   "options": [
     "Ranchi",
     "Shimla",
     "Bhopal",
     "Panaji"
    ],
-   "a": 0,
-   "t": "States and Capitals",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Jharkhand is Ranchi."
+   "answer": 0,
+   "explanation": "The capital of Jharkhand is Ranchi.",
+   "topic": "States and Capitals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00143",
-   "q": "What is the capital of the Union Territory of Puducherry?",
-   "o": [
+   "question": "What is the capital of the Union Territory of Puducherry?",
+   "options": [
     "Puducherry",
     "Chandigarh",
     "Leh",
     "New Delhi"
    ],
-   "a": 0,
-   "t": "Union Territories",
-   "l": 2,
-   "s": "generated",
-   "e": "The capital of Puducherry is Puducherry."
+   "answer": 0,
+   "explanation": "The capital of Puducherry is Puducherry.",
+   "topic": "Union Territories",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00144",
-   "q": "Which of the following is the National Bird of India?",
-   "o": [
+   "question": "Which of the following is the National Bird of India?",
+   "options": [
     "Indian Peacock",
     "King Cobra",
     "Saka Calendar",
     "Ganges River Dolphin"
    ],
-   "a": 0,
-   "t": "National Symbols",
-   "l": 1,
-   "s": "generated",
-   "e": "The National Bird of India is Indian Peacock."
+   "answer": 0,
+   "explanation": "The National Bird of India is Indian Peacock.",
+   "topic": "National Symbols",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00145",
-   "q": "First Indian to climb Mount Everest is associated with which of the following?",
-   "o": [
+   "question": "First Indian to climb Mount Everest is associated with which of the following?",
+   "options": [
     "Justice Fathima Beevi",
     "Pokhran",
     "Tenzing Norgay",
     "Kharagpur"
    ],
-   "a": 2,
-   "t": "First in India",
-   "l": 2,
-   "s": "generated",
-   "e": "First Indian to climb Mount Everest — Tenzing Norgay."
+   "answer": 2,
+   "explanation": "First Indian to climb Mount Everest — Tenzing Norgay.",
+   "topic": "First in India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00146",
-   "q": "Mohiniyattam is a folk or classical dance form of which state?",
-   "o": [
+   "question": "Mohiniyattam is a folk or classical dance form of which state?",
+   "options": [
     "Kerala",
     "West Bengal",
     "Gujarat",
     "Manipur"
    ],
-   "a": 0,
-   "t": "Folk Dances of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Mohiniyattam belongs to Kerala."
+   "answer": 0,
+   "explanation": "Mohiniyattam belongs to Kerala.",
+   "topic": "Folk Dances of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00147",
-   "q": "Chhath Puja is a major festival of which state?",
-   "o": [
+   "question": "Chhath Puja is a major festival of which state?",
+   "options": [
     "Madhya Pradesh",
     "Odisha",
     "Rajasthan",
     "Bihar"
    ],
-   "a": 3,
-   "t": "Festivals of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Chhath Puja is celebrated mainly in Bihar."
+   "answer": 3,
+   "explanation": "Chhath Puja is celebrated mainly in Bihar.",
+   "topic": "Festivals of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00148",
-   "q": "The river Mahanadi originates from which of the following?",
-   "o": [
+   "question": "The river Mahanadi originates from which of the following?",
+   "options": [
     "Sivagiri Hills",
     "Ambutirtha",
     "Sihawa",
     "Pilibhit"
    ],
-   "a": 2,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Mahanadi originates from Sihawa."
+   "answer": 2,
+   "explanation": "Mahanadi originates from Sihawa.",
+   "topic": "Rivers of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00149",
-   "q": "Maithon Dam is built on which river?",
-   "o": [
+   "question": "Maithon Dam is built on which river?",
+   "options": [
     "Koyna",
     "Barakar",
     "Chenab",
     "Kaveri"
    ],
-   "a": 1,
-   "t": "Dams of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Maithon Dam is built on the Barakar."
+   "answer": 1,
+   "explanation": "Maithon Dam is built on the Barakar.",
+   "topic": "Dams of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00150",
-   "q": "Dudhwa National Park is located in which state?",
-   "o": [
+   "question": "Dudhwa National Park is located in which state?",
+   "options": [
     "Tamil Nadu",
     "Odisha",
     "Uttar Pradesh",
     "Rajasthan"
    ],
-   "a": 2,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Dudhwa National Park is located in Uttar Pradesh."
+   "answer": 2,
+   "explanation": "Dudhwa National Park is located in Uttar Pradesh.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00151",
-   "q": "Palakkad Gap pass is located in which state or union territory?",
-   "o": [
+   "question": "Palakkad Gap pass is located in which state or union territory?",
+   "options": [
     "Uttarakhand",
     "Himachal Pradesh",
     "Kerala",
     "Ladakh"
    ],
-   "a": 2,
-   "t": "Mountain Passes of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Palakkad Gap is located in Kerala."
+   "answer": 2,
+   "explanation": "Palakkad Gap is located in Kerala.",
+   "topic": "Mountain Passes of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00152",
-   "q": "What is the SI unit of Power?",
-   "o": [
+   "question": "What is the SI unit of Power?",
+   "options": [
     "Katal",
     "Lux",
     "Watt",
     "Gray"
    ],
-   "a": 2,
-   "t": "SI Units",
-   "l": 1,
-   "s": "generated",
-   "e": "The SI unit of Power is the Watt."
+   "answer": 2,
+   "explanation": "The SI unit of Power is the Watt.",
+   "topic": "SI Units",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00153",
-   "q": "Which instrument is used to measure Heart electrical activity?",
-   "o": [
+   "question": "Which instrument is used to measure Heart electrical activity?",
+   "options": [
     "Sphygmomanometer",
     "Electrocardiogram machine",
     "Viscometer",
     "Thermometer"
    ],
-   "a": 1,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Electrocardiogram machine is used to measure Heart electrical activity."
+   "answer": 1,
+   "explanation": "Electrocardiogram machine is used to measure Heart electrical activity.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00154",
-   "q": "Deficiency of which nutrient causes Anaemia?",
-   "o": [
+   "question": "Deficiency of which nutrient causes Anaemia?",
+   "options": [
     "Magnesium",
     "Phosphorus",
     "Sodium",
     "Iron"
    ],
-   "a": 3,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Iron causes Anaemia."
+   "answer": 3,
+   "explanation": "Deficiency of Iron causes Anaemia.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00155",
-   "q": "Who is credited with Vaccination against smallpox?",
-   "o": [
+   "question": "Who is credited with Vaccination against smallpox?",
+   "options": [
     "Antonie van Leeuwenhoek",
     "Daniel Gabriel Fahrenheit",
     "Edward Jenner",
     "Wright Brothers"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Vaccination against smallpox — Edward Jenner."
+   "answer": 2,
+   "explanation": "Vaccination against smallpox — Edward Jenner.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00156",
-   "q": "What is the chemical name of Carbolic acid?",
-   "o": [
+   "question": "What is the chemical name of Carbolic acid?",
+   "options": [
     "Calcium oxide (CaO)",
     "Phenol (C6H5OH)",
     "Sulphuric acid (H2SO4)",
     "Sodium bicarbonate (NaHCO3)"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Carbolic acid is Phenol (C6H5OH)."
+   "answer": 1,
+   "explanation": "Carbolic acid is Phenol (C6H5OH).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00157",
-   "q": "Which branch of science deals with Organisms and their environment?",
-   "o": [
+   "question": "Which branch of science deals with Organisms and their environment?",
+   "options": [
     "Mycology",
     "Apiculture",
     "Ecology",
     "Physics"
    ],
-   "a": 2,
-   "t": "Branches of Science",
-   "l": 2,
-   "s": "generated",
-   "e": "Ecology deals with Organisms and their environment."
+   "answer": 2,
+   "explanation": "Ecology deals with Organisms and their environment.",
+   "topic": "Branches of Science",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00158",
-   "q": "Which planet or body is described as: Mars?",
-   "o": [
+   "question": "Which planet or body is described as: Mars?",
+   "options": [
     "Milky Way",
     "Uranus",
     "Olympus Mons",
     "Mercury"
    ],
-   "a": 2,
-   "t": "Astronomy",
-   "l": 2,
-   "s": "generated",
-   "e": "Olympus Mons — Mars."
+   "answer": 2,
+   "explanation": "Olympus Mons — Mars.",
+   "topic": "Astronomy",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00159",
-   "q": "Robert Koch is known for which of the following?",
-   "o": [
+   "question": "Robert Koch is known for which of the following?",
+   "options": [
     "Kinetic theory of gases",
     "Triple helical structure of collagen",
     "Bacteriology and tuberculosis bacillus",
     "Laws of motion and gravitation"
    ],
-   "a": 2,
-   "t": "Scientists",
-   "l": 2,
-   "s": "generated",
-   "e": "Robert Koch is known for Bacteriology and tuberculosis bacillus."
+   "answer": 2,
+   "explanation": "Robert Koch is known for Bacteriology and tuberculosis bacillus.",
+   "topic": "Scientists",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00160",
-   "q": "Finance Commission is best described as which of the following?",
-   "o": [
+   "question": "Finance Commission is best described as which of the following?",
+   "options": [
     "Central bank and monetary authority",
     "House of the People",
     "Recommends distribution of taxes between the Centre and States",
     "Local body at the district level"
    ],
-   "a": 2,
-   "t": "Institutions of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Finance Commission — Recommends distribution of taxes between the Centre and States."
+   "answer": 2,
+   "explanation": "Finance Commission — Recommends distribution of taxes between the Centre and States.",
+   "topic": "Institutions of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00161",
-   "q": "On which date is World Sparrow Day observed?",
-   "o": [
+   "question": "On which date is World Sparrow Day observed?",
+   "options": [
     "20 March",
     "14 December",
     "1 May",
     "22 March"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Sparrow Day is observed on 20 March."
+   "answer": 0,
+   "explanation": "World Sparrow Day is observed on 20 March.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00162",
-   "q": "Where is the headquarters of National Aeronautics and Space Administration?",
-   "o": [
+   "question": "Where is the headquarters of National Aeronautics and Space Administration?",
+   "options": [
     "Kathmandu",
     "Geneva",
     "Bengaluru",
     "Washington, D.C."
    ],
-   "a": 3,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "National Aeronautics and Space Administration is headquartered at Washington, D.C.."
+   "answer": 3,
+   "explanation": "National Aeronautics and Space Administration is headquartered at Washington, D.C..",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00163",
-   "q": "Davis Cup is associated with which sport?",
-   "o": [
+   "question": "Davis Cup is associated with which sport?",
+   "options": [
     "Tennis",
     "Cricket",
     "Football",
     "Hockey"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Davis Cup is associated with Tennis."
+   "answer": 0,
+   "explanation": "Davis Cup is associated with Tennis.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00164",
-   "q": "Academy Award (Oscar) is associated with which of the following?",
-   "o": [
+   "question": "Academy Award (Oscar) is associated with which of the following?",
+   "options": [
     "Lifetime achievement in Indian sports",
     "American award for journalism and letters",
     "Indian award in science and technology",
     "American award for films"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Academy Award (Oscar) — American award for films."
+   "answer": 3,
+   "explanation": "Academy Award (Oscar) — American award for films.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00165",
-   "q": "First country to land a man on the Moon is associated with which of the following?",
-   "o": [
+   "question": "First country to land a man on the Moon is associated with which of the following?",
+   "options": [
     "United States of America",
     "Greece",
     "Yuri Gagarin",
     "Soviet Union"
    ],
-   "a": 0,
-   "t": "First in the World",
-   "l": 2,
-   "s": "generated",
-   "e": "First country to land a man on the Moon — United States of America."
+   "answer": 0,
+   "explanation": "First country to land a man on the Moon — United States of America.",
+   "topic": "First in the World",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00166",
-   "q": "Which is the largest continent by area?",
-   "o": [
+   "question": "Which is the largest continent by area?",
+   "options": [
     "Arctic Ocean",
     "Mauna Loa",
     "Asia",
     "Ganga"
    ],
-   "a": 2,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 2,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00167",
-   "q": "Which soil is described as: Formed in waterlogged areas with organic matter?",
-   "o": [
+   "question": "Which soil is described as: Formed in waterlogged areas with organic matter?",
+   "options": [
     "Peaty soil",
     "Black soil",
     "Mountain soil",
     "Red soil"
    ],
-   "a": 0,
-   "t": "Soils of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Peaty soil — Formed in waterlogged areas with organic matter."
+   "answer": 0,
+   "explanation": "Peaty soil — Formed in waterlogged areas with organic matter.",
+   "topic": "Soils of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00168",
-   "q": "Which Indian state is a major producer of Petroleum?",
-   "o": [
+   "question": "Which Indian state is a major producer of Petroleum?",
+   "options": [
     "Madhya Pradesh",
     "Assam",
     "Rajasthan",
     "Karnataka"
    ],
-   "a": 1,
-   "t": "Minerals and States",
-   "l": 3,
-   "s": "generated",
-   "e": "Petroleum is produced in large quantities in Assam."
+   "answer": 1,
+   "explanation": "Petroleum is produced in large quantities in Assam.",
+   "topic": "Minerals and States",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00169",
-   "q": "Cold Desert Biosphere Reserve is located in which state?",
-   "o": [
+   "question": "Cold Desert Biosphere Reserve is located in which state?",
+   "options": [
     "Andaman and Nicobar Islands",
     "Himachal Pradesh",
     "Jammu and Kashmir",
     "Madhya Pradesh and Chhattisgarh"
    ],
-   "a": 1,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Cold Desert Biosphere Reserve is in Himachal Pradesh."
+   "answer": 1,
+   "explanation": "Cold Desert Biosphere Reserve is in Himachal Pradesh.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00170",
-   "q": "What is the capital of Guyana?",
-   "o": [
+   "question": "What is the capital of Guyana?",
+   "options": [
     "Belgrade",
     "Guatemala City",
     "Georgetown",
     "Khartoum"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Guyana is Georgetown."
+   "answer": 2,
+   "explanation": "The capital of Guyana is Georgetown.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00171",
-   "q": "Which element has the chemical symbol Mt?",
-   "o": [
+   "question": "Which element has the chemical symbol Mt?",
+   "options": [
     "Boron",
     "Potassium",
     "Antimony",
     "Meitnerium"
    ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "Mt is the symbol of Meitnerium."
+   "answer": 3,
+   "explanation": "Mt is the symbol of Meitnerium.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00172",
-   "q": "What is the capital of Assam?",
-   "o": [
+   "question": "What is the capital of Assam?",
+   "options": [
     "Hyderabad",
     "Ranchi",
     "Patna",
     "Dispur"
    ],
-   "a": 3,
-   "t": "States and Capitals",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Assam is Dispur."
+   "answer": 3,
+   "explanation": "The capital of Assam is Dispur.",
+   "topic": "States and Capitals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00173",
-   "q": "What is the capital of the Union Territory of Ladakh?",
-   "o": [
+   "question": "What is the capital of the Union Territory of Ladakh?",
+   "options": [
     "Kavaratti",
     "Puducherry",
     "Leh",
     "New Delhi"
    ],
-   "a": 2,
-   "t": "Union Territories",
-   "l": 2,
-   "s": "generated",
-   "e": "The capital of Ladakh is Leh."
+   "answer": 2,
+   "explanation": "The capital of Ladakh is Leh.",
+   "topic": "Union Territories",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00174",
-   "q": "Which of the following is the National Aquatic Animal of India?",
-   "o": [
+   "question": "Which of the following is the National Aquatic Animal of India?",
+   "options": [
     "Lion Capital of Ashoka",
     "Saka Calendar",
     "Bengal Tiger",
     "Ganges River Dolphin"
    ],
-   "a": 3,
-   "t": "National Symbols",
-   "l": 1,
-   "s": "generated",
-   "e": "The National Aquatic Animal of India is Ganges River Dolphin."
+   "answer": 3,
+   "explanation": "The National Aquatic Animal of India is Ganges River Dolphin.",
+   "topic": "National Symbols",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00175",
-   "q": "First woman to travel to space from India is associated with which of the following?",
-   "o": [
+   "question": "First woman to travel to space from India is associated with which of the following?",
+   "options": [
     "Kalpana Chawla",
     "Lord Mountbatten",
     "C. Rajagopalachari",
     "Sushmita Sen"
    ],
-   "a": 0,
-   "t": "First in India",
-   "l": 2,
-   "s": "generated",
-   "e": "First woman to travel to space from India — Kalpana Chawla."
+   "answer": 0,
+   "explanation": "First woman to travel to space from India — Kalpana Chawla.",
+   "topic": "First in India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00176",
-   "q": "Dhali is a folk or classical dance form of which state?",
-   "o": [
+   "question": "Dhali is a folk or classical dance form of which state?",
+   "options": [
     "West Bengal",
     "Himachal Pradesh",
     "Andhra Pradesh",
     "Sikkim"
    ],
-   "a": 0,
-   "t": "Folk Dances of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Dhali belongs to West Bengal."
+   "answer": 0,
+   "explanation": "Dhali belongs to West Bengal.",
+   "topic": "Folk Dances of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00177",
-   "q": "Ugadi is a major festival of which state?",
-   "o": [
+   "question": "Ugadi is a major festival of which state?",
+   "options": [
     "Arunachal Pradesh",
     "Karnataka",
     "Ladakh",
     "Rajasthan"
    ],
-   "a": 1,
-   "t": "Festivals of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Ugadi is celebrated mainly in Karnataka."
+   "answer": 1,
+   "explanation": "Ugadi is celebrated mainly in Karnataka.",
+   "topic": "Festivals of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00178",
-   "q": "The river Tapti originates from which of the following?",
-   "o": [
+   "question": "The river Tapti originates from which of the following?",
+   "options": [
     "Multai",
     "Beas Kund",
     "Chamba",
     "Nepal Himalayas"
    ],
-   "a": 0,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Tapti originates from Multai."
+   "answer": 0,
+   "explanation": "Tapti originates from Multai.",
+   "topic": "Rivers of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00179",
-   "q": "Nagarjuna Sagar Dam is built on which river?",
-   "o": [
+   "question": "Nagarjuna Sagar Dam is built on which river?",
+   "options": [
     "Periyar",
     "Krishna",
     "Barakar",
     "Chenab"
    ],
-   "a": 1,
-   "t": "Dams of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Nagarjuna Sagar Dam is built on the Krishna."
+   "answer": 1,
+   "explanation": "Nagarjuna Sagar Dam is built on the Krishna.",
+   "topic": "Dams of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00180",
-   "q": "Periyar National Park is located in which state?",
-   "o": [
+   "question": "Periyar National Park is located in which state?",
+   "options": [
     "Kerala",
     "Bihar",
     "Nagaland",
     "Maharashtra"
    ],
-   "a": 0,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Periyar National Park is located in Kerala."
+   "answer": 0,
+   "explanation": "Periyar National Park is located in Kerala.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00181",
-   "q": "Diphu Pass pass is located in which state or union territory?",
-   "o": [
+   "question": "Diphu Pass pass is located in which state or union territory?",
+   "options": [
     "Uttarakhand",
     "Kerala",
     "Maharashtra",
     "Arunachal Pradesh"
    ],
-   "a": 3,
-   "t": "Mountain Passes of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Diphu Pass is located in Arunachal Pradesh."
+   "answer": 3,
+   "explanation": "Diphu Pass is located in Arunachal Pradesh.",
+   "topic": "Mountain Passes of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00182",
-   "q": "What is the SI unit of Energy?",
-   "o": [
+   "question": "What is the SI unit of Energy?",
+   "options": [
     "Joule",
     "Hertz",
     "Coulomb",
     "Reciprocal metre"
    ],
-   "a": 0,
-   "t": "SI Units",
-   "l": 1,
-   "s": "generated",
-   "e": "The SI unit of Energy is the Joule."
+   "answer": 0,
+   "explanation": "The SI unit of Energy is the Joule.",
+   "topic": "SI Units",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00183",
-   "q": "Which instrument is used to measure High temperature?",
-   "o": [
+   "question": "Which instrument is used to measure High temperature?",
+   "options": [
     "Kymograph",
     "Pyrometer",
     "Manometer",
     "Transducer"
    ],
-   "a": 1,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Pyrometer is used to measure High temperature."
+   "answer": 1,
+   "explanation": "Pyrometer is used to measure High temperature.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00184",
-   "q": "Deficiency of which nutrient causes Pellagra?",
-   "o": [
+   "question": "Deficiency of which nutrient causes Pellagra?",
+   "options": [
     "Vitamin C",
     "Iodine",
     "Vitamin B3",
     "Vitamin B12"
    ],
-   "a": 2,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Vitamin B3 causes Pellagra."
+   "answer": 2,
+   "explanation": "Deficiency of Vitamin B3 causes Pellagra.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00185",
-   "q": "Who is credited with Nitrogen?",
-   "o": [
+   "question": "Who is credited with Nitrogen?",
+   "options": [
     "Daniel Gabriel Fahrenheit",
     "Albert Einstein",
     "Charles Darwin",
     "Daniel Rutherford"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Nitrogen — Daniel Rutherford."
+   "answer": 3,
+   "explanation": "Nitrogen — Daniel Rutherford.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00186",
-   "q": "What is the chemical name of Alum?",
-   "o": [
+   "question": "What is the chemical name of Alum?",
+   "options": [
     "Aqueous formaldehyde (HCHO)",
     "Potassium aluminium sulphate",
     "Potassium hydroxide (KOH)",
     "Hydrochloric acid (HCl)"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Alum is Potassium aluminium sulphate."
+   "answer": 1,
+   "explanation": "Alum is Potassium aluminium sulphate.",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00187",
-   "q": "Which branch of science deals with Postage stamps?",
-   "o": [
+   "question": "Which branch of science deals with Postage stamps?",
+   "options": [
     "Apiculture",
     "Astrophysics",
     "Meteorology",
     "Philately"
    ],
-   "a": 3,
-   "t": "Branches of Science",
-   "l": 2,
-   "s": "generated",
-   "e": "Philately deals with Postage stamps."
+   "answer": 3,
+   "explanation": "Philately deals with Postage stamps.",
+   "topic": "Branches of Science",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00188",
-   "q": "Which planet or body is described as: Pluto?",
-   "o": [
+   "question": "Which planet or body is described as: Pluto?",
+   "options": [
     "Uranus",
     "Saturn",
     "Jupiter",
     "Pluto"
    ],
-   "a": 3,
-   "t": "Astronomy",
-   "l": 2,
-   "s": "generated",
-   "e": "Pluto — Pluto."
+   "answer": 3,
+   "explanation": "Pluto — Pluto.",
+   "topic": "Astronomy",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00189",
-   "q": "P. C. Mahalanobis is known for which of the following?",
-   "o": [
+   "question": "P. C. Mahalanobis is known for which of the following?",
+   "options": [
     "Triple helical structure of collagen",
     "Quantum theory",
     "Nuclear model of the atom",
     "Statistics and Indian planning"
    ],
-   "a": 3,
-   "t": "Scientists",
-   "l": 2,
-   "s": "generated",
-   "e": "P. C. Mahalanobis is known for Statistics and Indian planning."
+   "answer": 3,
+   "explanation": "P. C. Mahalanobis is known for Statistics and Indian planning.",
+   "topic": "Scientists",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00190",
-   "q": "Union Public Service Commission is best described as which of the following?",
-   "o": [
+   "question": "Union Public Service Commission is best described as which of the following?",
+   "options": [
     "Recruits civil servants for the Union",
     "Protects human rights in India",
     "Watches over vigilance in government",
     "Regulator of telecommunications"
    ],
-   "a": 0,
-   "t": "Institutions of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Union Public Service Commission — Recruits civil servants for the Union."
+   "answer": 0,
+   "explanation": "Union Public Service Commission — Recruits civil servants for the Union.",
+   "topic": "Institutions of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00191",
-   "q": "On which date is World Heritage Day observed?",
-   "o": [
+   "question": "On which date is World Heritage Day observed?",
+   "options": [
     "21 June",
     "4 October",
     "18 April",
     "fourth Sunday of September"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Heritage Day is observed on 18 April."
+   "answer": 2,
+   "explanation": "World Heritage Day is observed on 18 April.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00192",
-   "q": "Where is the headquarters of International Hockey Federation?",
-   "o": [
+   "question": "Where is the headquarters of International Hockey Federation?",
+   "options": [
     "Brussels",
     "Lausanne",
     "Geneva",
     "The Hague"
    ],
-   "a": 1,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "International Hockey Federation is headquartered at Lausanne."
+   "answer": 1,
+   "explanation": "International Hockey Federation is headquartered at Lausanne.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00193",
-   "q": "All England Open is associated with which sport?",
-   "o": [
+   "question": "All England Open is associated with which sport?",
+   "options": [
     "Cricket",
     "Hockey",
     "Badminton",
     "Football"
    ],
-   "a": 2,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "All England Open is associated with Badminton."
+   "answer": 2,
+   "explanation": "All England Open is associated with Badminton.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00194",
-   "q": "Jnanpith Award is associated with which of the following?",
-   "o": [
+   "question": "Jnanpith Award is associated with which of the following?",
+   "options": [
     "Asian award for public service",
     "Indian award in science and technology",
     "Coaching excellence in Indian sports",
     "Highest literary award of India"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Jnanpith Award — Highest literary award of India."
+   "answer": 3,
+   "explanation": "Jnanpith Award — Highest literary award of India.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00195",
-   "q": "First woman to win a Nobel Prize is associated with which of the following?",
-   "o": [
+   "question": "First woman to win a Nobel Prize is associated with which of the following?",
+   "options": [
     "Soviet Union",
     "Karnam Malleswari",
     "Neil Armstrong",
     "Marie Curie"
    ],
-   "a": 3,
-   "t": "First in the World",
-   "l": 2,
-   "s": "generated",
-   "e": "First woman to win a Nobel Prize — Marie Curie."
+   "answer": 3,
+   "explanation": "First woman to win a Nobel Prize — Marie Curie.",
+   "topic": "First in the World",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00196",
-   "q": "Which is the largest river by volume of water?",
-   "o": [
+   "question": "Which is the largest river by volume of water?",
+   "options": [
     "Bhutan",
     "Amazon",
     "Kanchenjunga",
     "Suez Canal"
    ],
-   "a": 1,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 1,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00197",
-   "q": "Which soil is described as: Most fertile soil, found in the northern plains?",
-   "o": [
+   "question": "Which soil is described as: Most fertile soil, found in the northern plains?",
+   "options": [
     "Saline soil",
     "Mountain soil",
     "Red soil",
     "Alluvial soil"
    ],
-   "a": 3,
-   "t": "Soils of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Alluvial soil — Most fertile soil, found in the northern plains."
+   "answer": 3,
+   "explanation": "Alluvial soil — Most fertile soil, found in the northern plains.",
+   "topic": "Soils of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00198",
-   "q": "Which Indian state is a major producer of Bauxite?",
-   "o": [
+   "question": "Which Indian state is a major producer of Bauxite?",
+   "options": [
     "Rajasthan",
     "Odisha",
     "Assam",
     "Andhra Pradesh"
    ],
-   "a": 1,
-   "t": "Minerals and States",
-   "l": 3,
-   "s": "generated",
-   "e": "Bauxite is produced in large quantities in Odisha."
+   "answer": 1,
+   "explanation": "Bauxite is produced in large quantities in Odisha.",
+   "topic": "Minerals and States",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00199",
-   "q": "Sundarbans Biosphere Reserve is located in which state?",
-   "o": [
+   "question": "Sundarbans Biosphere Reserve is located in which state?",
+   "options": [
     "Kerala and Tamil Nadu",
     "West Bengal",
     "Himachal Pradesh",
     "Jammu and Kashmir"
    ],
-   "a": 1,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Sundarbans Biosphere Reserve is in West Bengal."
+   "answer": 1,
+   "explanation": "Sundarbans Biosphere Reserve is in West Bengal.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00200",
-   "q": "What is the capital of Croatia?",
-   "o": [
+   "question": "What is the capital of Croatia?",
+   "options": [
     "Port-au-Prince",
     "Lilongwe",
     "Zagreb",
     "Amsterdam"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Croatia is Zagreb."
+   "answer": 2,
+   "explanation": "The capital of Croatia is Zagreb.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00201",
-   "q": "Which element has the chemical symbol Re?",
-   "o": [
+   "question": "Which element has the chemical symbol Re?",
+   "options": [
     "Rhenium",
     "Bismuth",
     "Fermium",
     "Zinc"
    ],
-   "a": 0,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "Re is the symbol of Rhenium."
+   "answer": 0,
+   "explanation": "Re is the symbol of Rhenium.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00202",
-   "q": "What is the capital of Punjab?",
-   "o": [
+   "question": "What is the capital of Punjab?",
+   "options": [
     "Shimla",
     "Raipur",
     "Bhopal",
     "Chandigarh"
    ],
-   "a": 3,
-   "t": "States and Capitals",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Punjab is Chandigarh."
+   "answer": 3,
+   "explanation": "The capital of Punjab is Chandigarh.",
+   "topic": "States and Capitals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00203",
-   "q": "What is the capital of the Union Territory of Lakshadweep?",
-   "o": [
+   "question": "What is the capital of the Union Territory of Lakshadweep?",
+   "options": [
     "New Delhi",
     "Chandigarh",
     "Port Blair",
     "Kavaratti"
    ],
-   "a": 3,
-   "t": "Union Territories",
-   "l": 2,
-   "s": "generated",
-   "e": "The capital of Lakshadweep is Kavaratti."
+   "answer": 3,
+   "explanation": "The capital of Lakshadweep is Kavaratti.",
+   "topic": "Union Territories",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00204",
-   "q": "Which of the following is the National Flower of India?",
-   "o": [
+   "question": "Which of the following is the National Flower of India?",
+   "options": [
     "Saka Calendar",
     "King Cobra",
     "Indian Rupee",
     "Lotus"
    ],
-   "a": 3,
-   "t": "National Symbols",
-   "l": 1,
-   "s": "generated",
-   "e": "The National Flower of India is Lotus."
+   "answer": 3,
+   "explanation": "The National Flower of India is Lotus.",
+   "topic": "National Symbols",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00205",
-   "q": "First President of India is associated with which of the following?",
-   "o": [
+   "question": "First President of India is associated with which of the following?",
+   "options": [
     "Aryabhata",
     "Tenzing Norgay",
     "Dr. Rajendra Prasad",
     "Pratibha Patil"
    ],
-   "a": 2,
-   "t": "First in India",
-   "l": 2,
-   "s": "generated",
-   "e": "First President of India — Dr. Rajendra Prasad."
+   "answer": 2,
+   "explanation": "First President of India — Dr. Rajendra Prasad.",
+   "topic": "First in India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00206",
-   "q": "Nati is a folk or classical dance form of which state?",
-   "o": [
+   "question": "Nati is a folk or classical dance form of which state?",
+   "options": [
     "Tamil Nadu",
     "Manipur",
     "Himachal Pradesh",
     "Haryana"
    ],
-   "a": 2,
-   "t": "Folk Dances of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Nati belongs to Himachal Pradesh."
+   "answer": 2,
+   "explanation": "Nati belongs to Himachal Pradesh.",
+   "topic": "Folk Dances of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00207",
-   "q": "Gudi Padwa is a major festival of which state?",
-   "o": [
+   "question": "Gudi Padwa is a major festival of which state?",
+   "options": [
     "Mizoram",
     "Rajasthan",
     "Bihar",
     "Maharashtra"
    ],
-   "a": 3,
-   "t": "Festivals of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Gudi Padwa is celebrated mainly in Maharashtra."
+   "answer": 3,
+   "explanation": "Gudi Padwa is celebrated mainly in Maharashtra.",
+   "topic": "Festivals of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00208",
-   "q": "The river Ganga originates from which of the following?",
-   "o": [
+   "question": "The river Ganga originates from which of the following?",
+   "options": [
     "Satopanth Glacier",
     "Sihawa",
     "Gangotri Glacier",
     "Rakas Lake"
    ],
-   "a": 2,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Ganga originates from Gangotri Glacier."
+   "answer": 2,
+   "explanation": "Ganga originates from Gangotri Glacier.",
+   "topic": "Rivers of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00209",
-   "q": "Dul Hasti Dam is built on which river?",
-   "o": [
+   "question": "Dul Hasti Dam is built on which river?",
+   "options": [
     "Krishna",
     "Mahanadi",
     "Chenab",
     "Koyna"
    ],
-   "a": 2,
-   "t": "Dams of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Dul Hasti Dam is built on the Chenab."
+   "answer": 2,
+   "explanation": "Dul Hasti Dam is built on the Chenab.",
+   "topic": "Dams of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00210",
-   "q": "Guindy National Park is located in which state?",
-   "o": [
+   "question": "Guindy National Park is located in which state?",
+   "options": [
     "Madhya Pradesh",
     "Tamil Nadu",
     "Chhattisgarh",
     "Odisha"
    ],
-   "a": 1,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Guindy National Park is located in Tamil Nadu."
+   "answer": 1,
+   "explanation": "Guindy National Park is located in Tamil Nadu.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00211",
-   "q": "Se La Pass pass is located in which state or union territory?",
-   "o": [
+   "question": "Se La Pass pass is located in which state or union territory?",
+   "options": [
     "Arunachal Pradesh",
     "Ladakh",
     "Andhra Pradesh",
     "Uttarakhand"
    ],
-   "a": 0,
-   "t": "Mountain Passes of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Se La Pass is located in Arunachal Pradesh."
+   "answer": 0,
+   "explanation": "Se La Pass is located in Arunachal Pradesh.",
+   "topic": "Mountain Passes of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00212",
-   "q": "What is the SI unit of Length?",
-   "o": [
+   "question": "What is the SI unit of Length?",
+   "options": [
     "Lumen",
     "Watt",
     "Metre",
     "Kelvin"
    ],
-   "a": 2,
-   "t": "SI Units",
-   "l": 1,
-   "s": "generated",
-   "e": "The SI unit of Length is the Metre."
+   "answer": 2,
+   "explanation": "The SI unit of Length is the Metre.",
+   "topic": "SI Units",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00213",
-   "q": "Which instrument is used to measure Objects above obstacles?",
-   "o": [
+   "question": "Which instrument is used to measure Objects above obstacles?",
+   "options": [
     "Voltmeter",
     "Stethoscope",
     "Periscope",
     "Anemometer"
    ],
-   "a": 2,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Periscope is used to measure Objects above obstacles."
+   "answer": 2,
+   "explanation": "Periscope is used to measure Objects above obstacles.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00214",
-   "q": "Deficiency of which nutrient causes Rickets?",
-   "o": [
+   "question": "Deficiency of which nutrient causes Rickets?",
+   "options": [
     "Vitamin A",
     "Potassium",
     "Vitamin B7",
     "Vitamin D"
    ],
-   "a": 3,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Vitamin D causes Rickets."
+   "answer": 3,
+   "explanation": "Deficiency of Vitamin D causes Rickets.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00215",
-   "q": "Who is credited with Law of planetary motion?",
-   "o": [
+   "question": "Who is credited with Law of planetary motion?",
+   "options": [
     "Rene Laennec",
     "Johannes Kepler",
     "Henry Cavendish",
     "Edward Jenner"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Law of planetary motion — Johannes Kepler."
+   "answer": 1,
+   "explanation": "Law of planetary motion — Johannes Kepler.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00216",
-   "q": "What is the chemical name of Green vitriol?",
-   "o": [
+   "question": "What is the chemical name of Green vitriol?",
+   "options": [
     "Calcium carbonate (CaCO3)",
     "Calcium hydroxide (Ca(OH)2)",
     "Ferrous sulphate (FeSO4.7H2O)",
     "Sulphuric acid (H2SO4)"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Green vitriol is Ferrous sulphate (FeSO4.7H2O)."
+   "answer": 2,
+   "explanation": "Green vitriol is Ferrous sulphate (FeSO4.7H2O).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00217",
-   "q": "Which branch of science deals with Reptiles and amphibians?",
-   "o": [
+   "question": "Which branch of science deals with Reptiles and amphibians?",
+   "options": [
     "Mechanics",
     "Herpetology",
     "Nuclear physics",
     "Electromagnetism"
    ],
-   "a": 1,
-   "t": "Branches of Science",
-   "l": 2,
-   "s": "generated",
-   "e": "Herpetology deals with Reptiles and amphibians."
+   "answer": 1,
+   "explanation": "Herpetology deals with Reptiles and amphibians.",
+   "topic": "Branches of Science",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00218",
-   "q": "Which planet or body is described as: Milky Way?",
-   "o": [
+   "question": "Which planet or body is described as: Milky Way?",
+   "options": [
     "Meteorite",
     "Milky Way",
     "Asteroid",
     "Comet"
    ],
-   "a": 1,
-   "t": "Astronomy",
-   "l": 2,
-   "s": "generated",
-   "e": "Milky Way — Milky Way."
+   "answer": 1,
+   "explanation": "Milky Way — Milky Way.",
+   "topic": "Astronomy",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00219",
-   "q": "Jacques Charles is known for which of the following?",
-   "o": [
+   "question": "Jacques Charles is known for which of the following?",
+   "options": [
     "Indian nuclear programme",
     "Charles's law of gases",
     "Missile and space launch technology",
     "Indian space programme"
    ],
-   "a": 1,
-   "t": "Scientists",
-   "l": 2,
-   "s": "generated",
-   "e": "Jacques Charles is known for Charles's law of gases."
+   "answer": 1,
+   "explanation": "Jacques Charles is known for Charles's law of gases.",
+   "topic": "Scientists",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00220",
-   "q": "President of India is best described as which of the following?",
-   "o": [
+   "question": "President of India is best described as which of the following?",
+   "options": [
     "Administered by the President through administrators",
     "Recommends distribution of taxes between the Centre and States",
     "Constitutional head of the Republic",
     "Union legislature consisting of the President and two Houses"
    ],
-   "a": 2,
-   "t": "Institutions of India",
-   "l": 2,
-   "s": "generated",
-   "e": "President of India — Constitutional head of the Republic."
+   "answer": 2,
+   "explanation": "President of India — Constitutional head of the Republic.",
+   "topic": "Institutions of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00221",
-   "q": "On which date is World Photography Day observed?",
-   "o": [
+   "question": "On which date is World Photography Day observed?",
+   "options": [
     "16 September",
     "26 July",
     "14 November",
     "19 August"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Photography Day is observed on 19 August."
+   "answer": 3,
+   "explanation": "World Photography Day is observed on 19 August.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00222",
-   "q": "Where is the headquarters of UN High Commissioner for Refugees?",
-   "o": [
+   "question": "Where is the headquarters of UN High Commissioner for Refugees?",
+   "options": [
     "Rome",
     "Mumbai",
     "Geneva",
     "New York"
    ],
-   "a": 2,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "UN High Commissioner for Refugees is headquartered at Geneva."
+   "answer": 2,
+   "explanation": "UN High Commissioner for Refugees is headquartered at Geneva.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00223",
-   "q": "Ryder Cup is associated with which sport?",
-   "o": [
+   "question": "Ryder Cup is associated with which sport?",
+   "options": [
     "Table Tennis",
     "Football",
     "Badminton",
     "Golf"
    ],
-   "a": 3,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Ryder Cup is associated with Golf."
+   "answer": 3,
+   "explanation": "Ryder Cup is associated with Golf.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00224",
-   "q": "Padma Vibhushan is associated with which of the following?",
-   "o": [
+   "question": "Padma Vibhushan is associated with which of the following?",
+   "options": [
     "Indian literary award",
     "Outstanding performance in Indian sports",
     "Highest literary award of India",
     "Second highest civilian award of India"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Padma Vibhushan — Second highest civilian award of India."
+   "answer": 3,
+   "explanation": "Padma Vibhushan — Second highest civilian award of India.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00225",
-   "q": "First country to host the modern Olympic Games is associated with which of the following?",
-   "o": [
+   "question": "First country to host the modern Olympic Games is associated with which of the following?",
+   "options": [
     "Yuri Gagarin",
     "New Zealand",
     "Uruguay",
     "Greece"
    ],
-   "a": 3,
-   "t": "First in the World",
-   "l": 2,
-   "s": "generated",
-   "e": "First country to host the modern Olympic Games — Greece."
+   "answer": 3,
+   "explanation": "First country to host the modern Olympic Games — Greece.",
+   "topic": "First in the World",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00226",
-   "q": "Which is the largest gulf in the world?",
-   "o": [
+   "question": "Which is the largest gulf in the world?",
+   "options": [
     "Gulf of Mexico",
     "Uttar Pradesh",
     "Rajasthan",
     "Maharashtra"
    ],
-   "a": 0,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 0,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00227",
-   "q": "Which soil is described as: Found in hilly and forest regions?",
-   "o": [
+   "question": "Which soil is described as: Found in hilly and forest regions?",
+   "options": [
     "Desert soil",
     "Mountain soil",
     "Black soil",
     "Red soil"
    ],
-   "a": 1,
-   "t": "Soils of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Mountain soil — Found in hilly and forest regions."
+   "answer": 1,
+   "explanation": "Mountain soil — Found in hilly and forest regions.",
+   "topic": "Soils of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00228",
-   "q": "Which Indian state is a major producer of Gypsum?",
-   "o": [
+   "question": "Which Indian state is a major producer of Gypsum?",
+   "options": [
     "Odisha",
     "Andhra Pradesh",
     "Rajasthan",
     "Madhya Pradesh"
    ],
-   "a": 2,
-   "t": "Minerals and States",
-   "l": 3,
-   "s": "generated",
-   "e": "Gypsum is produced in large quantities in Rajasthan."
+   "answer": 2,
+   "explanation": "Gypsum is produced in large quantities in Rajasthan.",
+   "topic": "Minerals and States",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00229",
-   "q": "Wular Lake is located in which state?",
-   "o": [
+   "question": "Wular Lake is located in which state?",
+   "options": [
     "West Bengal",
     "Uttarakhand",
     "Jammu and Kashmir",
     "Odisha"
    ],
-   "a": 2,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Wular Lake is in Jammu and Kashmir."
+   "answer": 2,
+   "explanation": "Wular Lake is in Jammu and Kashmir.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00230",
-   "q": "What is the capital of Georgia?",
-   "o": [
+   "question": "What is the capital of Georgia?",
+   "options": [
     "Yaounde",
     "Port Moresby",
     "Tbilisi",
     "Libreville"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Georgia is Tbilisi."
+   "answer": 2,
+   "explanation": "The capital of Georgia is Tbilisi.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00231",
-   "q": "Which element has the chemical symbol Si?",
-   "o": [
+   "question": "Which element has the chemical symbol Si?",
+   "options": [
     "Yttrium",
     "Meitnerium",
     "Silicon",
     "Berkelium"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "Si is the symbol of Silicon."
+   "answer": 2,
+   "explanation": "Si is the symbol of Silicon.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00232",
-   "q": "What is the capital of Manipur?",
-   "o": [
+   "question": "What is the capital of Manipur?",
+   "options": [
     "Bhopal",
     "Bengaluru",
     "Imphal",
     "Hyderabad"
    ],
-   "a": 2,
-   "t": "States and Capitals",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Manipur is Imphal."
+   "answer": 2,
+   "explanation": "The capital of Manipur is Imphal.",
+   "topic": "States and Capitals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00233",
-   "q": "Port Blair is the capital of which Union Territory?",
-   "o": [
+   "question": "Port Blair is the capital of which Union Territory?",
+   "options": [
     "Andaman and Nicobar Islands",
     "Delhi",
     "Chandigarh",
     "Lakshadweep"
    ],
-   "a": 0,
-   "t": "Union Territories",
-   "l": 3,
-   "s": "generated",
-   "e": "Port Blair is the capital of Andaman and Nicobar Islands."
+   "answer": 0,
+   "explanation": "Port Blair is the capital of Andaman and Nicobar Islands.",
+   "topic": "Union Territories",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00234",
-   "q": "Which of the following is the National Anthem of India?",
-   "o": [
+   "question": "Which of the following is the National Anthem of India?",
+   "options": [
     "Vande Mataram",
     "King Cobra",
     "Lotus",
     "Jana Gana Mana"
    ],
-   "a": 3,
-   "t": "National Symbols",
-   "l": 1,
-   "s": "generated",
-   "e": "The National Anthem of India is Jana Gana Mana."
+   "answer": 3,
+   "explanation": "The National Anthem of India is Jana Gana Mana.",
+   "topic": "National Symbols",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00235",
-   "q": "First Indian satellite launched is associated with which of the following?",
-   "o": [
+   "question": "First Indian satellite launched is associated with which of the following?",
+   "options": [
     "Tenzing Norgay",
     "Sushmita Sen",
     "Rakesh Sharma",
     "Aryabhata"
    ],
-   "a": 3,
-   "t": "First in India",
-   "l": 2,
-   "s": "generated",
-   "e": "First Indian satellite launched — Aryabhata."
+   "answer": 3,
+   "explanation": "First Indian satellite launched — Aryabhata.",
+   "topic": "First in India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00236",
-   "q": "Hojagiri is a folk or classical dance form of which state?",
-   "o": [
+   "question": "Hojagiri is a folk or classical dance form of which state?",
+   "options": [
     "Tripura",
     "Odisha",
     "Andhra Pradesh",
     "Gujarat"
    ],
-   "a": 0,
-   "t": "Folk Dances of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Hojagiri belongs to Tripura."
+   "answer": 0,
+   "explanation": "Hojagiri belongs to Tripura.",
+   "topic": "Folk Dances of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00237",
-   "q": "Sohrai is a major festival of which state?",
-   "o": [
+   "question": "Sohrai is a major festival of which state?",
+   "options": [
     "Jharkhand",
     "Arunachal Pradesh",
     "Nagaland",
     "Bihar"
    ],
-   "a": 0,
-   "t": "Festivals of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Sohrai is celebrated mainly in Jharkhand."
+   "answer": 0,
+   "explanation": "Sohrai is celebrated mainly in Jharkhand.",
+   "topic": "Festivals of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00238",
-   "q": "The river Alaknanda originates from which of the following?",
-   "o": [
+   "question": "The river Alaknanda originates from which of the following?",
+   "options": [
     "Sihawa",
     "Nepal Himalayas",
     "Amarkantak",
     "Satopanth Glacier"
    ],
-   "a": 3,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Alaknanda originates from Satopanth Glacier."
+   "answer": 3,
+   "explanation": "Alaknanda originates from Satopanth Glacier.",
+   "topic": "Rivers of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00239",
-   "q": "Bhakra Nangal Dam is built on which river?",
-   "o": [
+   "question": "Bhakra Nangal Dam is built on which river?",
+   "options": [
     "Narmada",
     "Barakar",
     "Sutlej",
     "Ganga"
    ],
-   "a": 2,
-   "t": "Dams of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Bhakra Nangal Dam is built on the Sutlej."
+   "answer": 2,
+   "explanation": "Bhakra Nangal Dam is built on the Sutlej.",
+   "topic": "Dams of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00240",
-   "q": "Keoladeo National Park is located in which state?",
-   "o": [
+   "question": "Keoladeo National Park is located in which state?",
+   "options": [
     "Maharashtra",
     "Madhya Pradesh",
     "Rajasthan",
     "Meghalaya"
    ],
-   "a": 2,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Keoladeo National Park is located in Rajasthan."
+   "answer": 2,
+   "explanation": "Keoladeo National Park is located in Rajasthan.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00241",
-   "q": "Nathu La pass is located in which state or union territory?",
-   "o": [
+   "question": "Nathu La pass is located in which state or union territory?",
+   "options": [
     "Sikkim",
     "Jammu and Kashmir",
     "Ladakh",
     "Maharashtra"
    ],
-   "a": 0,
-   "t": "Mountain Passes of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Nathu La is located in Sikkim."
+   "answer": 0,
+   "explanation": "Nathu La is located in Sikkim.",
+   "topic": "Mountain Passes of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00242",
-   "q": "What is the SI unit of Luminous flux?",
-   "o": [
+   "question": "What is the SI unit of Luminous flux?",
+   "options": [
     "Watt",
     "Reciprocal metre",
     "Newton",
     "Lumen"
    ],
-   "a": 3,
-   "t": "SI Units",
-   "l": 1,
-   "s": "generated",
-   "e": "The SI unit of Luminous flux is the Lumen."
+   "answer": 3,
+   "explanation": "The SI unit of Luminous flux is the Lumen.",
+   "topic": "SI Units",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00243",
-   "q": "Which instrument is used to measure Time accurately?",
-   "o": [
+   "question": "Which instrument is used to measure Time accurately?",
+   "options": [
     "Odometer",
     "Altimeter",
     "Chronometer",
     "Electrocardiogram machine"
    ],
-   "a": 2,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Chronometer is used to measure Time accurately."
+   "answer": 2,
+   "explanation": "Chronometer is used to measure Time accurately.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00244",
-   "q": "Deficiency of which nutrient causes Paresthesia?",
-   "o": [
+   "question": "Deficiency of which nutrient causes Paresthesia?",
+   "options": [
     "Magnesium",
     "Vitamin E",
     "Vitamin B5",
     "Vitamin A"
    ],
-   "a": 2,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Vitamin B5 causes Paresthesia."
+   "answer": 2,
+   "explanation": "Deficiency of Vitamin B5 causes Paresthesia.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00245",
-   "q": "Who is credited with Dynamite?",
-   "o": [
+   "question": "Who is credited with Dynamite?",
+   "options": [
     "Isaac Newton",
     "Daniel Rutherford",
     "Alfred Nobel",
     "Niels Bohr"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Dynamite — Alfred Nobel."
+   "answer": 2,
+   "explanation": "Dynamite — Alfred Nobel.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00246",
-   "q": "What is the chemical name of Heavy water?",
-   "o": [
+   "question": "What is the chemical name of Heavy water?",
+   "options": [
     "Sodium bicarbonate and tartaric acid",
     "Zinc sulphate (ZnSO4.7H2O)",
     "Deuterium oxide (D2O)",
     "Phenol (C6H5OH)"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Heavy water is Deuterium oxide (D2O)."
+   "answer": 2,
+   "explanation": "Heavy water is Deuterium oxide (D2O).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00247",
-   "q": "Which branch of science deals with Functions of living organisms?",
-   "o": [
+   "question": "Which branch of science deals with Functions of living organisms?",
+   "options": [
     "Astronomy",
     "Philately",
     "Physiology",
     "Pharmacology"
    ],
-   "a": 2,
-   "t": "Branches of Science",
-   "l": 2,
-   "s": "generated",
-   "e": "Physiology deals with Functions of living organisms."
+   "answer": 2,
+   "explanation": "Physiology deals with Functions of living organisms.",
+   "topic": "Branches of Science",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00248",
-   "q": "Which planet or body is described as: Aurora?",
-   "o": [
+   "question": "Which planet or body is described as: Aurora?",
+   "options": [
     "Mars",
     "Venus",
     "Aurora",
     "Lunar eclipse"
    ],
-   "a": 2,
-   "t": "Astronomy",
-   "l": 2,
-   "s": "generated",
-   "e": "Aurora — Aurora."
+   "answer": 2,
+   "explanation": "Aurora — Aurora.",
+   "topic": "Astronomy",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00249",
-   "q": "Gregor Mendel is known for which of the following?",
-   "o": [
+   "question": "Gregor Mendel is known for which of the following?",
+   "options": [
     "Electromagnetic theory",
     "Statistics and Indian planning",
     "Laws of inheritance",
     "Double helix structure of DNA"
    ],
-   "a": 2,
-   "t": "Scientists",
-   "l": 2,
-   "s": "generated",
-   "e": "Gregor Mendel is known for Laws of inheritance."
+   "answer": 2,
+   "explanation": "Gregor Mendel is known for Laws of inheritance.",
+   "topic": "Scientists",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00250",
-   "q": "Union Territories is best described as which of the following?",
-   "o": [
+   "question": "Union Territories is best described as which of the following?",
+   "options": [
     "Recommends distribution of taxes between the Centre and States",
     "Regulator of telecommunications",
     "Audits government accounts",
     "Administered by the President through administrators"
    ],
-   "a": 3,
-   "t": "Institutions of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Union Territories — Administered by the President through administrators."
+   "answer": 3,
+   "explanation": "Union Territories — Administered by the President through administrators.",
+   "topic": "Institutions of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00251",
-   "q": "On which date is Human Rights Day observed?",
-   "o": [
+   "question": "On which date is Human Rights Day observed?",
+   "options": [
     "25 January",
     "8 September",
     "10 December",
     "22 March"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "Human Rights Day is observed on 10 December."
+   "answer": 2,
+   "explanation": "Human Rights Day is observed on 10 December.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00252",
-   "q": "Where is the headquarters of ASEAN?",
-   "o": [
+   "question": "Where is the headquarters of ASEAN?",
+   "options": [
     "Kathmandu",
     "Jakarta",
     "Vienna",
     "London"
    ],
-   "a": 1,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "ASEAN is headquartered at Jakarta."
+   "answer": 1,
+   "explanation": "ASEAN is headquartered at Jakarta.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00253",
-   "q": "Sultan Azlan Shah Cup is associated with which sport?",
-   "o": [
+   "question": "Sultan Azlan Shah Cup is associated with which sport?",
+   "options": [
     "Badminton",
     "Cricket",
     "Hockey",
     "Tennis"
    ],
-   "a": 2,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Sultan Azlan Shah Cup is associated with Hockey."
+   "answer": 2,
+   "explanation": "Sultan Azlan Shah Cup is associated with Hockey.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00254",
-   "q": "National Bravery Award is associated with which of the following?",
-   "o": [
+   "question": "National Bravery Award is associated with which of the following?",
+   "options": [
     "British award for fiction",
     "Third highest civilian award of India",
     "Award for brave children in India",
     "UNESCO award for popularisation of science"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "National Bravery Award — Award for brave children in India."
+   "answer": 2,
+   "explanation": "National Bravery Award — Award for brave children in India.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00255",
-   "q": "First FIFA World Cup was held in is associated with which of the following?",
-   "o": [
+   "question": "First FIFA World Cup was held in is associated with which of the following?",
+   "options": [
     "Karnam Malleswari",
     "George Washington",
     "Uruguay",
     "England"
    ],
-   "a": 2,
-   "t": "First in the World",
-   "l": 2,
-   "s": "generated",
-   "e": "First FIFA World Cup was held in — Uruguay."
+   "answer": 2,
+   "explanation": "First FIFA World Cup was held in — Uruguay.",
+   "topic": "First in the World",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00256",
-   "q": "How many countries share a land border with India?",
-   "o": [
+   "question": "How many countries share a land border with India?",
+   "options": [
     "La Paz",
     "Palk Strait",
     "Seven",
     "Australia"
    ],
-   "a": 2,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 2,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00257",
-   "q": "Which soil is described as: Contains excess salt, found in dry coastal areas?",
-   "o": [
+   "question": "Which soil is described as: Contains excess salt, found in dry coastal areas?",
+   "options": [
     "Saline soil",
     "Alluvial soil",
     "Black soil",
     "Laterite soil"
    ],
-   "a": 0,
-   "t": "Soils of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Saline soil — Contains excess salt, found in dry coastal areas."
+   "answer": 0,
+   "explanation": "Saline soil — Contains excess salt, found in dry coastal areas.",
+   "topic": "Soils of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00258",
-   "q": "Which Indian state is a major producer of Coal?",
-   "o": [
+   "question": "Which Indian state is a major producer of Coal?",
+   "options": [
     "Odisha",
     "Assam",
     "Jharkhand",
     "Madhya Pradesh"
    ],
-   "a": 2,
-   "t": "Minerals and States",
-   "l": 3,
-   "s": "generated",
-   "e": "Coal is produced in large quantities in Jharkhand."
+   "answer": 2,
+   "explanation": "Coal is produced in large quantities in Jharkhand.",
+   "topic": "Minerals and States",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00259",
-   "q": "Nilgiri Biosphere Reserve is located in which state?",
-   "o": [
+   "question": "Nilgiri Biosphere Reserve is located in which state?",
+   "options": [
     "Tamil Nadu",
     "Himachal Pradesh",
     "Tamil Nadu, Kerala and Karnataka",
     "Madhya Pradesh"
    ],
-   "a": 2,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Nilgiri Biosphere Reserve is in Tamil Nadu, Kerala and Karnataka."
+   "answer": 2,
+   "explanation": "Nilgiri Biosphere Reserve is in Tamil Nadu, Kerala and Karnataka.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00260",
-   "q": "What is the capital of Laos?",
-   "o": [
+   "question": "What is the capital of Laos?",
+   "options": [
     "Tehran",
     "Tokyo",
     "Vientiane",
     "Dodoma"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Laos is Vientiane."
+   "answer": 2,
+   "explanation": "The capital of Laos is Vientiane.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00261",
-   "q": "Which element has the chemical symbol Fr?",
-   "o": [
+   "question": "Which element has the chemical symbol Fr?",
+   "options": [
     "Hydrogen",
     "Bromine",
     "Francium",
     "Copper"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "Fr is the symbol of Francium."
+   "answer": 2,
+   "explanation": "Fr is the symbol of Francium.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00262",
-   "q": "What is the capital of Chhattisgarh?",
-   "o": [
+   "question": "What is the capital of Chhattisgarh?",
+   "options": [
     "Raipur",
     "Mumbai",
     "Jaipur",
     "Panaji"
    ],
-   "a": 0,
-   "t": "States and Capitals",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Chhattisgarh is Raipur."
+   "answer": 0,
+   "explanation": "The capital of Chhattisgarh is Raipur.",
+   "topic": "States and Capitals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00263",
-   "q": "Daman is the capital of which Union Territory?",
-   "o": [
+   "question": "Daman is the capital of which Union Territory?",
+   "options": [
     "Dadra and Nagar Haveli and Daman and Diu",
     "Puducherry",
     "Lakshadweep",
     "Delhi"
    ],
-   "a": 0,
-   "t": "Union Territories",
-   "l": 3,
-   "s": "generated",
-   "e": "Daman is the capital of Dadra and Nagar Haveli and Daman and Diu."
+   "answer": 0,
+   "explanation": "Daman is the capital of Dadra and Nagar Haveli and Daman and Diu.",
+   "topic": "Union Territories",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00264",
-   "q": "Which of the following is the National Animal of India?",
-   "o": [
+   "question": "Which of the following is the National Animal of India?",
+   "options": [
     "Vande Mataram",
     "Bengal Tiger",
     "King Cobra",
     "Banyan"
    ],
-   "a": 1,
-   "t": "National Symbols",
-   "l": 1,
-   "s": "generated",
-   "e": "The National Animal of India is Bengal Tiger."
+   "answer": 1,
+   "explanation": "The National Animal of India is Bengal Tiger.",
+   "topic": "National Symbols",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00265",
-   "q": "First Indian to win the Miss World title is associated with which of the following?",
-   "o": [
+   "question": "First Indian to win the Miss World title is associated with which of the following?",
+   "options": [
     "Mother Teresa",
     "Tenzing Norgay",
     "Reita Faria",
     "Lord Mountbatten"
    ],
-   "a": 2,
-   "t": "First in India",
-   "l": 2,
-   "s": "generated",
-   "e": "First Indian to win the Miss World title — Reita Faria."
+   "answer": 2,
+   "explanation": "First Indian to win the Miss World title — Reita Faria.",
+   "topic": "First in India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00266",
-   "q": "Dandiya Raas is a folk or classical dance form of which state?",
-   "o": [
+   "question": "Dandiya Raas is a folk or classical dance form of which state?",
+   "options": [
     "Kerala",
     "Bihar",
     "Odisha",
     "Gujarat"
    ],
-   "a": 3,
-   "t": "Folk Dances of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Dandiya Raas belongs to Gujarat."
+   "answer": 3,
+   "explanation": "Dandiya Raas belongs to Gujarat.",
+   "topic": "Folk Dances of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00267",
-   "q": "Durga Puja is a major festival of which state?",
-   "o": [
+   "question": "Durga Puja is a major festival of which state?",
+   "options": [
     "Tamil Nadu",
     "Maharashtra",
     "Jharkhand",
     "West Bengal"
    ],
-   "a": 3,
-   "t": "Festivals of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Durga Puja is celebrated mainly in West Bengal."
+   "answer": 3,
+   "explanation": "Durga Puja is celebrated mainly in West Bengal.",
+   "topic": "Festivals of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00268",
-   "q": "The river Tungabhadra originates from which of the following?",
-   "o": [
+   "question": "The river Tungabhadra originates from which of the following?",
+   "options": [
     "Mahabaleshwar",
     "Sihawa",
     "Kudali",
     "Beas Kund"
    ],
-   "a": 2,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Tungabhadra originates from Kudali."
+   "answer": 2,
+   "explanation": "Tungabhadra originates from Kudali.",
+   "topic": "Rivers of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00269",
-   "q": "Srisailam Dam is built on which river?",
-   "o": [
+   "question": "Srisailam Dam is built on which river?",
+   "options": [
     "Krishna",
     "Godavari",
     "Narmada",
     "Bhagirathi"
    ],
-   "a": 0,
-   "t": "Dams of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Srisailam Dam is built on the Krishna."
+   "answer": 0,
+   "explanation": "Srisailam Dam is built on the Krishna.",
+   "topic": "Dams of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00270",
-   "q": "Van Vihar National Park is located in which state?",
-   "o": [
+   "question": "Van Vihar National Park is located in which state?",
+   "options": [
     "Himachal Pradesh",
     "Madhya Pradesh",
     "Karnataka",
     "Arunachal Pradesh"
    ],
-   "a": 1,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Van Vihar National Park is located in Madhya Pradesh."
+   "answer": 1,
+   "explanation": "Van Vihar National Park is located in Madhya Pradesh.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00271",
-   "q": "Banihal Pass pass is located in which state or union territory?",
-   "o": [
+   "question": "Banihal Pass pass is located in which state or union territory?",
+   "options": [
     "Ladakh",
     "Jammu and Kashmir",
     "Himachal Pradesh",
     "Uttarakhand"
    ],
-   "a": 1,
-   "t": "Mountain Passes of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Banihal Pass is located in Jammu and Kashmir."
+   "answer": 1,
+   "explanation": "Banihal Pass is located in Jammu and Kashmir.",
+   "topic": "Mountain Passes of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00272",
-   "q": "What is the SI unit of Entropy?",
-   "o": [
+   "question": "What is the SI unit of Entropy?",
+   "options": [
     "Candela",
     "Watt",
     "Joule per Kelvin",
     "Hertz"
    ],
-   "a": 2,
-   "t": "SI Units",
-   "l": 1,
-   "s": "generated",
-   "e": "The SI unit of Entropy is the Joule per Kelvin."
+   "answer": 2,
+   "explanation": "The SI unit of Entropy is the Joule per Kelvin.",
+   "topic": "SI Units",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00273",
-   "q": "Which instrument is used to measure Small electric currents?",
-   "o": [
+   "question": "Which instrument is used to measure Small electric currents?",
+   "options": [
     "Spectrometer",
     "Pyrometer",
     "Seismograph",
     "Galvanometer"
    ],
-   "a": 3,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Galvanometer is used to measure Small electric currents."
+   "answer": 3,
+   "explanation": "Galvanometer is used to measure Small electric currents.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00274",
-   "q": "Deficiency of which nutrient causes Delayed blood clotting?",
-   "o": [
+   "question": "Deficiency of which nutrient causes Delayed blood clotting?",
+   "options": [
     "Vitamin K and Protein",
     "Potassium",
     "Vitamin B1",
     "Vitamin B6"
    ],
-   "a": 0,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Vitamin K and Protein causes Delayed blood clotting."
+   "answer": 0,
+   "explanation": "Deficiency of Vitamin K and Protein causes Delayed blood clotting.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00275",
-   "q": "Who is credited with Telescope (astronomical use)?",
-   "o": [
+   "question": "Who is credited with Telescope (astronomical use)?",
+   "options": [
     "Galileo Galilei",
     "William Harvey",
     "Thomas Alva Edison",
     "Wright Brothers"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Telescope (astronomical use) — Galileo Galilei."
+   "answer": 0,
+   "explanation": "Telescope (astronomical use) — Galileo Galilei.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00276",
-   "q": "What is the chemical name of Marble?",
-   "o": [
+   "question": "What is the chemical name of Marble?",
+   "options": [
     "Solid carbon dioxide (CO2)",
     "Potassium aluminium sulphate",
     "Calcium sulphate hemihydrate (CaSO4.1/2H2O)",
     "Calcium carbonate (CaCO3)"
    ],
-   "a": 3,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Marble is Calcium carbonate (CaCO3)."
+   "answer": 3,
+   "explanation": "Marble is Calcium carbonate (CaCO3).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00277",
-   "q": "Which branch of science deals with Fishes?",
-   "o": [
+   "question": "Which branch of science deals with Fishes?",
+   "options": [
     "Ichthyology",
     "Oceanography",
     "Biology",
     "Physics"
    ],
-   "a": 0,
-   "t": "Branches of Science",
-   "l": 2,
-   "s": "generated",
-   "e": "Ichthyology deals with Fishes."
+   "answer": 0,
+   "explanation": "Ichthyology deals with Fishes.",
+   "topic": "Branches of Science",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00278",
-   "q": "Which planet or body is described as: Supernova?",
-   "o": [
+   "question": "Which planet or body is described as: Supernova?",
+   "options": [
     "Supernova",
     "Venus",
     "Earth",
     "Mercury"
    ],
-   "a": 0,
-   "t": "Astronomy",
-   "l": 2,
-   "s": "generated",
-   "e": "Supernova — Supernova."
+   "answer": 0,
+   "explanation": "Supernova — Supernova.",
+   "topic": "Astronomy",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00279",
-   "q": "Robert Boyle is known for which of the following?",
-   "o": [
+   "question": "Robert Boyle is known for which of the following?",
+   "options": [
     "Boyle's law of gases",
     "Periodic table of elements",
     "Laws of falling bodies and telescope studies",
     "Laws of motion and gravitation"
    ],
-   "a": 0,
-   "t": "Scientists",
-   "l": 2,
-   "s": "generated",
-   "e": "Robert Boyle is known for Boyle's law of gases."
+   "answer": 0,
+   "explanation": "Robert Boyle is known for Boyle's law of gases.",
+   "topic": "Scientists",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00280",
-   "q": "IRDAI is best described as which of the following?",
-   "o": [
+   "question": "IRDAI is best described as which of the following?",
+   "options": [
     "Supervises elections to Parliament and State legislatures",
     "Recommends distribution of taxes between the Centre and States",
     "Regulator of the insurance sector",
     "Protects human rights in India"
    ],
-   "a": 2,
-   "t": "Institutions of India",
-   "l": 2,
-   "s": "generated",
-   "e": "IRDAI — Regulator of the insurance sector."
+   "answer": 2,
+   "explanation": "IRDAI — Regulator of the insurance sector.",
+   "topic": "Institutions of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00281",
-   "q": "On which date is World Hepatitis Day observed?",
-   "o": [
+   "question": "On which date is World Hepatitis Day observed?",
+   "options": [
     "28 July",
     "21 June",
     "8 March",
     "28 February"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Hepatitis Day is observed on 28 July."
+   "answer": 0,
+   "explanation": "World Hepatitis Day is observed on 28 July.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00282",
-   "q": "Where is the headquarters of Amnesty International?",
-   "o": [
+   "question": "Where is the headquarters of Amnesty International?",
+   "options": [
     "Vienna",
     "London",
     "Gland",
     "Beijing"
    ],
-   "a": 1,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "Amnesty International is headquartered at London."
+   "answer": 1,
+   "explanation": "Amnesty International is headquartered at London.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00283",
-   "q": "Champions Trophy (Cricket) is associated with which sport?",
-   "o": [
+   "question": "Champions Trophy (Cricket) is associated with which sport?",
+   "options": [
     "Tennis",
     "Hockey",
     "Football",
     "Cricket"
    ],
-   "a": 3,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Champions Trophy (Cricket) is associated with Cricket."
+   "answer": 3,
+   "explanation": "Champions Trophy (Cricket) is associated with Cricket.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00284",
-   "q": "National Film Award is associated with which of the following?",
-   "o": [
+   "question": "National Film Award is associated with which of the following?",
+   "options": [
     "International award for Physics, Chemistry, Medicine, Literature, Peace and Economics",
     "Highest sporting honour of India",
     "Awards for Indian cinema",
     "Outstanding performance in Indian sports"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "National Film Award — Awards for Indian cinema."
+   "answer": 2,
+   "explanation": "National Film Award — Awards for Indian cinema.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00285",
-   "q": "First human in space is associated with which of the following?",
-   "o": [
+   "question": "First human in space is associated with which of the following?",
+   "options": [
     "Karnam Malleswari",
     "Chamonix",
     "Rabindranath Tagore",
     "Yuri Gagarin"
    ],
-   "a": 3,
-   "t": "First in the World",
-   "l": 2,
-   "s": "generated",
-   "e": "First human in space — Yuri Gagarin."
+   "answer": 3,
+   "explanation": "First human in space — Yuri Gagarin.",
+   "topic": "First in the World",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00286",
-   "q": "Which Indian city is called the Manchester of India?",
-   "o": [
+   "question": "Which Indian city is called the Manchester of India?",
+   "options": [
     "Ahmedabad",
     "Jaipur",
     "Australia",
     "Strait of Gibraltar"
    ],
-   "a": 0,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 0,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00287",
-   "q": "Which of the following is true about Red soil?",
-   "o": [
+   "question": "Which of the following is true about Red soil?",
+   "options": [
     "Formed by leaching in high rainfall areas",
     "Formed from crystalline rocks, rich in iron",
     "Found in hilly and forest regions",
     "Sandy soil of arid regions"
    ],
-   "a": 1,
-   "t": "Soils of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Red soil: Formed from crystalline rocks, rich in iron."
+   "answer": 1,
+   "explanation": "Red soil: Formed from crystalline rocks, rich in iron.",
+   "topic": "Soils of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00288",
-   "q": "Which Indian state is a major producer of Sillimanite?",
-   "o": [
+   "question": "Which Indian state is a major producer of Sillimanite?",
+   "options": [
     "Maharashtra",
     "Jharkhand",
     "Rajasthan",
     "Karnataka"
    ],
-   "a": 0,
-   "t": "Minerals and States",
-   "l": 3,
-   "s": "generated",
-   "e": "Sillimanite is produced in large quantities in Maharashtra."
+   "answer": 0,
+   "explanation": "Sillimanite is produced in large quantities in Maharashtra.",
+   "topic": "Minerals and States",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00289",
-   "q": "Deepor Beel is located in which state?",
-   "o": [
+   "question": "Deepor Beel is located in which state?",
+   "options": [
     "Assam",
     "Tamil Nadu",
     "Manipur",
     "Odisha"
    ],
-   "a": 0,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Deepor Beel is in Assam."
+   "answer": 0,
+   "explanation": "Deepor Beel is in Assam.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00290",
-   "q": "What is the capital of Seychelles?",
-   "o": [
+   "question": "What is the capital of Seychelles?",
+   "options": [
     "Skopje",
     "Niamey",
     "Doha",
     "Victoria"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Seychelles is Victoria."
+   "answer": 3,
+   "explanation": "The capital of Seychelles is Victoria.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00291",
-   "q": "Which element has the chemical symbol La?",
-   "o": [
+   "question": "Which element has the chemical symbol La?",
+   "options": [
     "Rhenium",
     "Manganese",
     "Cobalt",
     "Lanthanum"
    ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "La is the symbol of Lanthanum."
+   "answer": 3,
+   "explanation": "La is the symbol of Lanthanum.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00292",
-   "q": "What is the capital of West Bengal?",
-   "o": [
+   "question": "What is the capital of West Bengal?",
+   "options": [
     "Chandigarh",
     "Panaji",
     "Kolkata",
     "Agartala"
    ],
-   "a": 2,
-   "t": "States and Capitals",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of West Bengal is Kolkata."
+   "answer": 2,
+   "explanation": "The capital of West Bengal is Kolkata.",
+   "topic": "States and Capitals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00293",
-   "q": "Kavaratti is the capital of which Union Territory?",
-   "o": [
+   "question": "Kavaratti is the capital of which Union Territory?",
+   "options": [
     "Delhi",
     "Lakshadweep",
     "Dadra and Nagar Haveli and Daman and Diu",
     "Ladakh"
    ],
-   "a": 1,
-   "t": "Union Territories",
-   "l": 3,
-   "s": "generated",
-   "e": "Kavaratti is the capital of Lakshadweep."
+   "answer": 1,
+   "explanation": "Kavaratti is the capital of Lakshadweep.",
+   "topic": "Union Territories",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00294",
-   "q": "Which of the following is the National Heritage Animal of India?",
-   "o": [
+   "question": "Which of the following is the National Heritage Animal of India?",
+   "options": [
     "King Cobra",
     "Indian Elephant",
     "Ganga",
     "Ganges River Dolphin"
    ],
-   "a": 1,
-   "t": "National Symbols",
-   "l": 1,
-   "s": "generated",
-   "e": "The National Heritage Animal of India is Indian Elephant."
+   "answer": 1,
+   "explanation": "The National Heritage Animal of India is Indian Elephant.",
+   "topic": "National Symbols",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00295",
-   "q": "First Indian to receive the Bharat Ratna is associated with which of the following?",
-   "o": [
+   "question": "First Indian to receive the Bharat Ratna is associated with which of the following?",
+   "options": [
     "Kalpana Chawla",
     "Aryabhata",
     "C. Rajagopalachari",
     "G. V. Mavalankar"
    ],
-   "a": 2,
-   "t": "First in India",
-   "l": 2,
-   "s": "generated",
-   "e": "First Indian to receive the Bharat Ratna — C. Rajagopalachari."
+   "answer": 2,
+   "explanation": "First Indian to receive the Bharat Ratna — C. Rajagopalachari.",
+   "topic": "First in India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00296",
-   "q": "Tamasha is a folk or classical dance form of which state?",
-   "o": [
+   "question": "Tamasha is a folk or classical dance form of which state?",
+   "options": [
     "Maharashtra",
     "Tamil Nadu",
     "Punjab",
     "Jammu and Kashmir"
    ],
-   "a": 0,
-   "t": "Folk Dances of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Tamasha belongs to Maharashtra."
+   "answer": 0,
+   "explanation": "Tamasha belongs to Maharashtra.",
+   "topic": "Folk Dances of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00297",
-   "q": "Losar Festival is a major festival of which state?",
-   "o": [
+   "question": "Losar Festival is a major festival of which state?",
+   "options": [
     "Meghalaya",
     "Assam",
     "Madhya Pradesh",
     "Ladakh"
    ],
-   "a": 3,
-   "t": "Festivals of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Losar Festival is celebrated mainly in Ladakh."
+   "answer": 3,
+   "explanation": "Losar Festival is celebrated mainly in Ladakh.",
+   "topic": "Festivals of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00298",
-   "q": "The river Son originates from which of the following?",
-   "o": [
+   "question": "The river Son originates from which of the following?",
+   "options": [
     "Multai",
     "Satopanth Glacier",
     "Amarkantak",
     "Verinag"
    ],
-   "a": 2,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Son originates from Amarkantak."
+   "answer": 2,
+   "explanation": "Son originates from Amarkantak.",
+   "topic": "Rivers of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00299",
-   "q": "Hirakud Dam is built on which river?",
-   "o": [
+   "question": "Hirakud Dam is built on which river?",
+   "options": [
     "Mahanadi",
     "Bhavani",
     "Damodar",
     "Rihand"
    ],
-   "a": 0,
-   "t": "Dams of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Hirakud Dam is built on the Mahanadi."
+   "answer": 0,
+   "explanation": "Hirakud Dam is built on the Mahanadi.",
+   "topic": "Dams of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00300",
-   "q": "Sitanadi Wildlife Sanctuary is located in which state?",
-   "o": [
+   "question": "Sitanadi Wildlife Sanctuary is located in which state?",
+   "options": [
     "Rajasthan",
     "Mizoram",
     "Chhattisgarh",
     "Uttar Pradesh"
    ],
-   "a": 2,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Sitanadi Wildlife Sanctuary is located in Chhattisgarh."
+   "answer": 2,
+   "explanation": "Sitanadi Wildlife Sanctuary is located in Chhattisgarh.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00301",
-   "q": "Lipulekh Pass pass is located in which state or union territory?",
-   "o": [
+   "question": "Lipulekh Pass pass is located in which state or union territory?",
+   "options": [
     "Uttarakhand",
     "Jammu and Kashmir",
     "Himachal Pradesh",
     "Ladakh"
    ],
-   "a": 0,
-   "t": "Mountain Passes of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Lipulekh Pass is located in Uttarakhand."
+   "answer": 0,
+   "explanation": "Lipulekh Pass is located in Uttarakhand.",
+   "topic": "Mountain Passes of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00302",
-   "q": "What is the SI unit of Magnetic flux density?",
-   "o": [
+   "question": "What is the SI unit of Magnetic flux density?",
+   "options": [
     "Joule",
     "Lumen",
     "Tesla",
     "Ohm"
    ],
-   "a": 2,
-   "t": "SI Units",
-   "l": 1,
-   "s": "generated",
-   "e": "The SI unit of Magnetic flux density is the Tesla."
+   "answer": 2,
+   "explanation": "The SI unit of Magnetic flux density is the Tesla.",
+   "topic": "SI Units",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00303",
-   "q": "Which instrument is used to measure Radiant energy?",
-   "o": [
+   "question": "Which instrument is used to measure Radiant energy?",
+   "options": [
     "Thermometer",
     "Odometer",
     "Radiometer",
     "Fathometer"
    ],
-   "a": 2,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Radiometer is used to measure Radiant energy."
+   "answer": 2,
+   "explanation": "Radiometer is used to measure Radiant energy.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00304",
-   "q": "Deficiency of which nutrient causes Haemolysis of red blood cells?",
-   "o": [
+   "question": "Deficiency of which nutrient causes Haemolysis of red blood cells?",
+   "options": [
     "Vitamin B7",
     "Fluorine",
     "Potassium",
     "Vitamin E"
    ],
-   "a": 3,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Vitamin E causes Haemolysis of red blood cells."
+   "answer": 3,
+   "explanation": "Deficiency of Vitamin E causes Haemolysis of red blood cells.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00305",
-   "q": "Who is credited with Blood groups?",
-   "o": [
+   "question": "Who is credited with Blood groups?",
+   "options": [
     "Alfred Nobel",
     "Karl Landsteiner",
     "Tim Berners-Lee",
     "Galileo Galilei"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Blood groups — Karl Landsteiner."
+   "answer": 1,
+   "explanation": "Blood groups — Karl Landsteiner.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00306",
-   "q": "What is the chemical name of Laughing gas?",
-   "o": [
+   "question": "What is the chemical name of Laughing gas?",
+   "options": [
     "Sodium bicarbonate (NaHCO3)",
     "Sodium bicarbonate and tartaric acid",
     "Nitrous oxide (N2O)",
     "Potassium nitrate (KNO3)"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Laughing gas is Nitrous oxide (N2O)."
+   "answer": 2,
+   "explanation": "Laughing gas is Nitrous oxide (N2O).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00307",
-   "q": "Which branch of science deals with Light?",
-   "o": [
+   "question": "Which branch of science deals with Light?",
+   "options": [
     "Physiology",
     "Optics",
     "Cardiology",
     "Ichthyology"
    ],
-   "a": 1,
-   "t": "Branches of Science",
-   "l": 2,
-   "s": "generated",
-   "e": "Optics deals with Light."
+   "answer": 1,
+   "explanation": "Optics deals with Light.",
+   "topic": "Branches of Science",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00308",
-   "q": "Which planet or body is described as: Mars?",
-   "o": [
+   "question": "Which planet or body is described as: Mars?",
+   "options": [
     "Uranus",
     "Valles Marineris",
     "Titan",
     "Sun"
    ],
-   "a": 1,
-   "t": "Astronomy",
-   "l": 2,
-   "s": "generated",
-   "e": "Valles Marineris — Mars."
+   "answer": 1,
+   "explanation": "Valles Marineris — Mars.",
+   "topic": "Astronomy",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00309",
-   "q": "C. V. Raman is known for which of the following?",
-   "o": [
+   "question": "C. V. Raman is known for which of the following?",
+   "options": [
     "Laws of inheritance",
     "Raman effect",
     "Wireless telegraphy",
     "Boyle's law of gases"
    ],
-   "a": 1,
-   "t": "Scientists",
-   "l": 2,
-   "s": "generated",
-   "e": "C. V. Raman is known for Raman effect."
+   "answer": 1,
+   "explanation": "C. V. Raman is known for Raman effect.",
+   "topic": "Scientists",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00310",
-   "q": "State Legislature is best described as which of the following?",
-   "o": [
+   "question": "State Legislature is best described as which of the following?",
+   "options": [
     "Recruits civil servants for the Union",
     "Administered by the President through administrators",
     "Law-making body of a State",
     "Second highest law officer of the Union"
    ],
-   "a": 2,
-   "t": "Institutions of India",
-   "l": 2,
-   "s": "generated",
-   "e": "State Legislature — Law-making body of a State."
+   "answer": 2,
+   "explanation": "State Legislature — Law-making body of a State.",
+   "topic": "Institutions of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00311",
-   "q": "On which date is World Students' Day observed?",
-   "o": [
+   "question": "On which date is World Students' Day observed?",
+   "options": [
     "15 October",
     "30 April",
     "13 February",
     "20 October"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Students' Day is observed on 15 October."
+   "answer": 0,
+   "explanation": "World Students' Day is observed on 15 October.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00312",
-   "q": "Where is the headquarters of World Economic Forum?",
-   "o": [
+   "question": "Where is the headquarters of World Economic Forum?",
+   "options": [
     "Washington, D.C.",
     "Vienna",
     "Cologny",
     "Geneva"
    ],
-   "a": 2,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "World Economic Forum is headquartered at Cologny."
+   "answer": 2,
+   "explanation": "World Economic Forum is headquartered at Cologny.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00313",
-   "q": "Azlan Shah Trophy is associated with which sport?",
-   "o": [
+   "question": "Azlan Shah Trophy is associated with which sport?",
+   "options": [
     "Tennis",
     "Hockey",
     "Badminton",
     "Football"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Azlan Shah Trophy is associated with Hockey."
+   "answer": 1,
+   "explanation": "Azlan Shah Trophy is associated with Hockey.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00314",
-   "q": "Templeton Prize is associated with which of the following?",
-   "o": [
+   "question": "Templeton Prize is associated with which of the following?",
+   "options": [
     "Highest sporting honour of India",
     "Award for progress in spiritual matters",
     "Indian award for peace, disarmament and development",
     "Highest award in Indian cinema"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Templeton Prize — Award for progress in spiritual matters."
+   "answer": 1,
+   "explanation": "Templeton Prize — Award for progress in spiritual matters.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00315",
-   "q": "First woman to climb Mount Everest is associated with which of the following?",
-   "o": [
+   "question": "First woman to climb Mount Everest is associated with which of the following?",
+   "options": [
     "Karnam Malleswari",
     "England",
     "Rabindranath Tagore",
     "Junko Tabei"
    ],
-   "a": 3,
-   "t": "First in the World",
-   "l": 2,
-   "s": "generated",
-   "e": "First woman to climb Mount Everest — Junko Tabei."
+   "answer": 3,
+   "explanation": "First woman to climb Mount Everest — Junko Tabei.",
+   "topic": "First in the World",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00316",
-   "q": "Which is the highest peak in the Western Ghats?",
-   "o": [
+   "question": "Which is the highest peak in the Western Ghats?",
+   "options": [
     "Panama Canal",
     "Jamshedpur",
     "Pacific Ocean",
     "Anamudi"
    ],
-   "a": 3,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 3,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00317",
-   "q": "Which of the following is true about Desert soil?",
-   "o": [
+   "question": "Which of the following is true about Desert soil?",
+   "options": [
     "Contains excess salt, found in dry coastal areas",
     "Most fertile soil, found in the northern plains",
     "Sandy soil of arid regions",
     "Formed from crystalline rocks, rich in iron"
    ],
-   "a": 2,
-   "t": "Soils of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Desert soil: Sandy soil of arid regions."
+   "answer": 2,
+   "explanation": "Desert soil: Sandy soil of arid regions.",
+   "topic": "Soils of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00318",
-   "q": "Which Indian state is a major producer of Iron ore?",
-   "o": [
+   "question": "Which Indian state is a major producer of Iron ore?",
+   "options": [
     "Odisha",
     "Jharkhand",
     "Maharashtra",
     "Andhra Pradesh"
    ],
-   "a": 0,
-   "t": "Minerals and States",
-   "l": 3,
-   "s": "generated",
-   "e": "Iron ore is produced in large quantities in Odisha."
+   "answer": 0,
+   "explanation": "Iron ore is produced in large quantities in Odisha.",
+   "topic": "Minerals and States",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00319",
-   "q": "Nanda Devi Biosphere Reserve is located in which state?",
-   "o": [
+   "question": "Nanda Devi Biosphere Reserve is located in which state?",
+   "options": [
     "Uttarakhand",
     "Sikkim",
     "Andhra Pradesh",
     "Madhya Pradesh"
    ],
-   "a": 0,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Nanda Devi Biosphere Reserve is in Uttarakhand."
+   "answer": 0,
+   "explanation": "Nanda Devi Biosphere Reserve is in Uttarakhand.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00320",
-   "q": "What is the capital of Rwanda?",
-   "o": [
+   "question": "What is the capital of Rwanda?",
+   "options": [
     "Ljubljana",
     "Kuala Lumpur",
     "Kigali",
     "Bangui"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Rwanda is Kigali."
+   "answer": 2,
+   "explanation": "The capital of Rwanda is Kigali.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00321",
-   "q": "Which element has the chemical symbol Ce?",
-   "o": [
+   "question": "Which element has the chemical symbol Ce?",
+   "options": [
     "Cerium",
     "Technetium",
     "Nickel",
     "Aluminium"
    ],
-   "a": 0,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "Ce is the symbol of Cerium."
+   "answer": 0,
+   "explanation": "Ce is the symbol of Cerium.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00322",
-   "q": "What is the capital of Kerala?",
-   "o": [
+   "question": "What is the capital of Kerala?",
+   "options": [
     "Gangtok",
     "Mumbai",
     "Thiruvananthapuram",
     "Panaji"
    ],
-   "a": 2,
-   "t": "States and Capitals",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Kerala is Thiruvananthapuram."
+   "answer": 2,
+   "explanation": "The capital of Kerala is Thiruvananthapuram.",
+   "topic": "States and Capitals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00323",
-   "q": "Puducherry is the capital of which Union Territory?",
-   "o": [
+   "question": "Puducherry is the capital of which Union Territory?",
+   "options": [
     "Lakshadweep",
     "Andaman and Nicobar Islands",
     "Delhi",
     "Puducherry"
    ],
-   "a": 3,
-   "t": "Union Territories",
-   "l": 3,
-   "s": "generated",
-   "e": "Puducherry is the capital of Puducherry."
+   "answer": 3,
+   "explanation": "Puducherry is the capital of Puducherry.",
+   "topic": "Union Territories",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00324",
-   "q": "Which of the following is the National Tree of India?",
-   "o": [
+   "question": "Which of the following is the National Tree of India?",
+   "options": [
     "Banyan",
     "Jana Gana Mana",
     "Lion Capital of Ashoka",
     "Saka Calendar"
    ],
-   "a": 0,
-   "t": "National Symbols",
-   "l": 1,
-   "s": "generated",
-   "e": "The National Tree of India is Banyan."
+   "answer": 0,
+   "explanation": "The National Tree of India is Banyan.",
+   "topic": "National Symbols",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00325",
-   "q": "First Indian to win an individual Olympic gold is associated with which of the following?",
-   "o": [
+   "question": "First Indian to win an individual Olympic gold is associated with which of the following?",
+   "options": [
     "Abhinav Bindra",
     "Pratibha Patil",
     "Bombay and Thane",
     "Justice Fathima Beevi"
    ],
-   "a": 0,
-   "t": "First in India",
-   "l": 2,
-   "s": "generated",
-   "e": "First Indian to win an individual Olympic gold — Abhinav Bindra."
+   "answer": 0,
+   "explanation": "First Indian to win an individual Olympic gold — Abhinav Bindra.",
+   "topic": "First in India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00326",
-   "q": "Bhavai is a folk or classical dance form of which state?",
-   "o": [
+   "question": "Bhavai is a folk or classical dance form of which state?",
+   "options": [
     "Gujarat",
     "Haryana",
     "Nagaland",
     "Assam"
    ],
-   "a": 0,
-   "t": "Folk Dances of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Bhavai belongs to Gujarat."
+   "answer": 0,
+   "explanation": "Bhavai belongs to Gujarat.",
+   "topic": "Folk Dances of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00327",
-   "q": "Mopin is a major festival of which state?",
-   "o": [
+   "question": "Mopin is a major festival of which state?",
+   "options": [
     "Arunachal Pradesh",
     "Mizoram",
     "Kerala",
     "West Bengal"
    ],
-   "a": 0,
-   "t": "Festivals of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Mopin is celebrated mainly in Arunachal Pradesh."
+   "answer": 0,
+   "explanation": "Mopin is celebrated mainly in Arunachal Pradesh.",
+   "topic": "Festivals of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00328",
-   "q": "The river Sabarmati originates from which of the following?",
-   "o": [
+   "question": "The river Sabarmati originates from which of the following?",
+   "options": [
     "Udaipur",
     "Rakas Lake",
     "Vindhya Range",
     "Sivagiri Hills"
    ],
-   "a": 0,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Sabarmati originates from Udaipur."
+   "answer": 0,
+   "explanation": "Sabarmati originates from Udaipur.",
+   "topic": "Rivers of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00329",
-   "q": "Farakka Barrage is built on which river?",
-   "o": [
+   "question": "Farakka Barrage is built on which river?",
+   "options": [
     "Damodar",
     "Mahanadi",
     "Ganga",
     "Godavari"
    ],
-   "a": 2,
-   "t": "Dams of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Farakka Barrage is built on the Ganga."
+   "answer": 2,
+   "explanation": "Farakka Barrage is built on the Ganga.",
+   "topic": "Dams of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00330",
-   "q": "Kaziranga National Park is located in which state?",
-   "o": [
+   "question": "Kaziranga National Park is located in which state?",
+   "options": [
     "West Bengal",
     "Assam",
     "Sikkim",
     "Karnataka"
    ],
-   "a": 1,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Kaziranga National Park is located in Assam."
+   "answer": 1,
+   "explanation": "Kaziranga National Park is located in Assam.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00331",
-   "q": "Zoji La pass is located in which state or union territory?",
-   "o": [
+   "question": "Zoji La pass is located in which state or union territory?",
+   "options": [
     "Himachal Pradesh",
     "Maharashtra",
     "Ladakh",
     "Sikkim"
    ],
-   "a": 2,
-   "t": "Mountain Passes of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Zoji La is located in Ladakh."
+   "answer": 2,
+   "explanation": "Zoji La is located in Ladakh.",
+   "topic": "Mountain Passes of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00332",
-   "q": "What is the SI unit of Electrical conductance?",
-   "o": [
+   "question": "What is the SI unit of Electrical conductance?",
+   "options": [
     "Siemens",
     "Kelvin",
     "Becquerel",
     "Katal"
    ],
-   "a": 0,
-   "t": "SI Units",
-   "l": 1,
-   "s": "generated",
-   "e": "The SI unit of Electrical conductance is the Siemens."
+   "answer": 0,
+   "explanation": "The SI unit of Electrical conductance is the Siemens.",
+   "topic": "SI Units",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00333",
-   "q": "Which instrument is used to measure Blood pressure?",
-   "o": [
+   "question": "Which instrument is used to measure Blood pressure?",
+   "options": [
     "Voltmeter",
     "Anemometer",
     "Sphygmomanometer",
     "Audiometer"
    ],
-   "a": 2,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Sphygmomanometer is used to measure Blood pressure."
+   "answer": 2,
+   "explanation": "Sphygmomanometer is used to measure Blood pressure.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00334",
-   "q": "Deficiency of which nutrient causes Rickets in children?",
-   "o": [
+   "question": "Deficiency of which nutrient causes Rickets in children?",
+   "options": [
     "Phosphorus",
     "Sodium",
     "Vitamin B7",
     "Iodine"
    ],
-   "a": 0,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Phosphorus causes Rickets in children."
+   "answer": 0,
+   "explanation": "Deficiency of Phosphorus causes Rickets in children.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00335",
-   "q": "Who is credited with Computer (analytical engine)?",
-   "o": [
+   "question": "Who is credited with Computer (analytical engine)?",
+   "options": [
     "Watson and Crick",
     "Charles Babbage",
     "Karl Benz",
     "Karl von Drais"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Computer (analytical engine) — Charles Babbage."
+   "answer": 1,
+   "explanation": "Computer (analytical engine) — Charles Babbage.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00336",
-   "q": "What is the chemical name of Quick lime?",
-   "o": [
+   "question": "What is the chemical name of Quick lime?",
+   "options": [
     "Calcium carbonate (CaCO3)",
     "Calcium hydroxide (Ca(OH)2)",
     "Calcium oxide (CaO)",
     "Magnesium hydroxide (Mg(OH)2)"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Quick lime is Calcium oxide (CaO)."
+   "answer": 2,
+   "explanation": "Quick lime is Calcium oxide (CaO).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00337",
-   "q": "Which branch of science deals with Nervous system?",
-   "o": [
+   "question": "Which branch of science deals with Nervous system?",
+   "options": [
     "Acoustics",
     "Neurology",
     "Virology",
     "Bacteriology"
    ],
-   "a": 1,
-   "t": "Branches of Science",
-   "l": 2,
-   "s": "generated",
-   "e": "Neurology deals with Nervous system."
+   "answer": 1,
+   "explanation": "Neurology deals with Nervous system.",
+   "topic": "Branches of Science",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00338",
-   "q": "Which planet or body is described as: Ceres?",
-   "o": [
+   "question": "Which planet or body is described as: Ceres?",
+   "options": [
     "Supernova",
     "Ceres",
     "Light year",
     "Andromeda"
    ],
-   "a": 1,
-   "t": "Astronomy",
-   "l": 2,
-   "s": "generated",
-   "e": "Ceres — Ceres."
+   "answer": 1,
+   "explanation": "Ceres — Ceres.",
+   "topic": "Astronomy",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00339",
-   "q": "James Watt is known for which of the following?",
-   "o": [
+   "question": "James Watt is known for which of the following?",
+   "options": [
     "Bose-Einstein statistics",
     "Improvements to the steam engine",
     "Fahrenheit temperature scale",
     "Centigrade temperature scale"
    ],
-   "a": 1,
-   "t": "Scientists",
-   "l": 2,
-   "s": "generated",
-   "e": "James Watt is known for Improvements to the steam engine."
+   "answer": 1,
+   "explanation": "James Watt is known for Improvements to the steam engine.",
+   "topic": "Scientists",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00340",
-   "q": "Chief Justice of India is best described as which of the following?",
-   "o": [
+   "question": "Chief Justice of India is best described as which of the following?",
+   "options": [
     "Head of the Indian judiciary",
     "Union legislature consisting of the President and two Houses",
     "Local self-government in urban areas",
     "Central bank and monetary authority"
    ],
-   "a": 0,
-   "t": "Institutions of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Chief Justice of India — Head of the Indian judiciary."
+   "answer": 0,
+   "explanation": "Chief Justice of India — Head of the Indian judiciary.",
+   "topic": "Institutions of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00341",
-   "q": "On which date is National Youth Day (India) observed?",
-   "o": [
+   "question": "On which date is National Youth Day (India) observed?",
+   "options": [
     "11 November",
     "20 May",
     "12 January",
     "13 February"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "National Youth Day (India) is observed on 12 January."
+   "answer": 2,
+   "explanation": "National Youth Day (India) is observed on 12 January.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00342",
-   "q": "Where is the headquarters of International Labour Organization headquarters city?",
-   "o": [
+   "question": "Where is the headquarters of International Labour Organization headquarters city?",
+   "options": [
     "Geneva",
     "Jakarta",
     "Gland",
     "Paris"
    ],
-   "a": 0,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "International Labour Organization headquarters city is headquartered at Geneva."
+   "answer": 0,
+   "explanation": "International Labour Organization headquarters city is headquartered at Geneva.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00343",
-   "q": "Sudirman Cup is associated with which sport?",
-   "o": [
+   "question": "Sudirman Cup is associated with which sport?",
+   "options": [
     "Football",
     "Hockey",
     "Badminton",
     "Table Tennis"
    ],
-   "a": 2,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Sudirman Cup is associated with Badminton."
+   "answer": 2,
+   "explanation": "Sudirman Cup is associated with Badminton.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00344",
-   "q": "Ramon Magsaysay Award is associated with which of the following?",
-   "o": [
+   "question": "Ramon Magsaysay Award is associated with which of the following?",
+   "options": [
     "Indian award in science and technology",
     "Third highest military decoration of India",
     "Indian award for social work and peace",
     "Asian award for public service"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Ramon Magsaysay Award — Asian award for public service."
+   "answer": 3,
+   "explanation": "Ramon Magsaysay Award — Asian award for public service.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00345",
-   "q": "First Indian to win an individual Olympic gold is associated with which of the following?",
-   "o": [
+   "question": "First Indian to win an individual Olympic gold is associated with which of the following?",
+   "options": [
     "Greece",
     "Chamonix",
     "Rabindranath Tagore",
     "Abhinav Bindra"
    ],
-   "a": 3,
-   "t": "First in the World",
-   "l": 2,
-   "s": "generated",
-   "e": "First Indian to win an individual Olympic gold — Abhinav Bindra."
+   "answer": 3,
+   "explanation": "First Indian to win an individual Olympic gold — Abhinav Bindra.",
+   "topic": "First in the World",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00346",
-   "q": "Which is the easternmost state of India?",
-   "o": [
+   "question": "Which is the easternmost state of India?",
+   "options": [
     "Arunachal Pradesh",
     "Surat",
     "Kerala",
     "Sundarbans Delta"
    ],
-   "a": 0,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 0,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00347",
-   "q": "Which of the following is true about Alluvial soil?",
-   "o": [
+   "question": "Which of the following is true about Alluvial soil?",
+   "options": [
     "Formed from crystalline rocks, rich in iron",
     "Most fertile soil, found in the northern plains",
     "Formed by leaching in high rainfall areas",
     "Found in hilly and forest regions"
    ],
-   "a": 1,
-   "t": "Soils of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Alluvial soil: Most fertile soil, found in the northern plains."
+   "answer": 1,
+   "explanation": "Alluvial soil: Most fertile soil, found in the northern plains.",
+   "topic": "Soils of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00348",
-   "q": "Which Indian state is a major producer of Diamond?",
-   "o": [
+   "question": "Which Indian state is a major producer of Diamond?",
+   "options": [
     "Maharashtra",
     "Odisha",
     "Madhya Pradesh",
     "Jharkhand"
    ],
-   "a": 2,
-   "t": "Minerals and States",
-   "l": 3,
-   "s": "generated",
-   "e": "Diamond is produced in large quantities in Madhya Pradesh."
+   "answer": 2,
+   "explanation": "Diamond is produced in large quantities in Madhya Pradesh.",
+   "topic": "Minerals and States",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00349",
-   "q": "Panna Biosphere Reserve is located in which state?",
-   "o": [
+   "question": "Panna Biosphere Reserve is located in which state?",
+   "options": [
     "Andhra Pradesh",
     "Uttarakhand",
     "Madhya Pradesh",
     "Tamil Nadu"
    ],
-   "a": 2,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Panna Biosphere Reserve is in Madhya Pradesh."
+   "answer": 2,
+   "explanation": "Panna Biosphere Reserve is in Madhya Pradesh.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00350",
-   "q": "What is the capital of Belgium?",
-   "o": [
+   "question": "What is the capital of Belgium?",
+   "options": [
     "Tashkent",
     "Luxembourg City",
     "Brussels",
     "Astana"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Belgium is Brussels."
+   "answer": 2,
+   "explanation": "The capital of Belgium is Brussels.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00351",
-   "q": "Which element has the chemical symbol Hf?",
-   "o": [
+   "question": "Which element has the chemical symbol Hf?",
+   "options": [
     "Osmium",
     "Astatine",
     "Hafnium",
     "Indium"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "Hf is the symbol of Hafnium."
+   "answer": 2,
+   "explanation": "Hf is the symbol of Hafnium.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00352",
-   "q": "What is the capital of Odisha?",
-   "o": [
+   "question": "What is the capital of Odisha?",
+   "options": [
     "Shillong",
     "Thiruvananthapuram",
     "Chennai",
     "Bhubaneswar"
    ],
-   "a": 3,
-   "t": "States and Capitals",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Odisha is Bhubaneswar."
+   "answer": 3,
+   "explanation": "The capital of Odisha is Bhubaneswar.",
+   "topic": "States and Capitals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00353",
-   "q": "New Delhi is the capital of which Union Territory?",
-   "o": [
+   "question": "New Delhi is the capital of which Union Territory?",
+   "options": [
     "Ladakh",
     "Dadra and Nagar Haveli and Daman and Diu",
     "Delhi",
     "Puducherry"
    ],
-   "a": 2,
-   "t": "Union Territories",
-   "l": 3,
-   "s": "generated",
-   "e": "New Delhi is the capital of Delhi."
+   "answer": 2,
+   "explanation": "New Delhi is the capital of Delhi.",
+   "topic": "Union Territories",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00354",
-   "q": "Which of the following is the National Emblem of India?",
-   "o": [
+   "question": "Which of the following is the National Emblem of India?",
+   "options": [
     "Indian Peacock",
     "Lion Capital of Ashoka",
     "Banyan",
     "King Cobra"
    ],
-   "a": 1,
-   "t": "National Symbols",
-   "l": 1,
-   "s": "generated",
-   "e": "The National Emblem of India is Lion Capital of Ashoka."
+   "answer": 1,
+   "explanation": "The National Emblem of India is Lion Capital of Ashoka.",
+   "topic": "National Symbols",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00355",
-   "q": "First Indian woman to climb Mount Everest is associated with which of the following?",
-   "o": [
+   "question": "First Indian woman to climb Mount Everest is associated with which of the following?",
+   "options": [
     "Dr. S. Radhakrishnan",
     "Bachendri Pal",
     "Aryabhata",
     "Mihir Sen"
    ],
-   "a": 1,
-   "t": "First in India",
-   "l": 2,
-   "s": "generated",
-   "e": "First Indian woman to climb Mount Everest — Bachendri Pal."
+   "answer": 1,
+   "explanation": "First Indian woman to climb Mount Everest — Bachendri Pal.",
+   "topic": "First in India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00356",
-   "q": "Wangala is a folk or classical dance form of which state?",
-   "o": [
+   "question": "Wangala is a folk or classical dance form of which state?",
+   "options": [
     "Rajasthan",
     "Manipur",
     "Tamil Nadu",
     "Meghalaya"
    ],
-   "a": 3,
-   "t": "Folk Dances of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Wangala belongs to Meghalaya."
+   "answer": 3,
+   "explanation": "Wangala belongs to Meghalaya.",
+   "topic": "Folk Dances of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00357",
-   "q": "Pushkar Fair is a major festival of which state?",
-   "o": [
+   "question": "Pushkar Fair is a major festival of which state?",
+   "options": [
     "Rajasthan",
     "Ladakh",
     "Odisha",
     "Mizoram"
    ],
-   "a": 0,
-   "t": "Festivals of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Pushkar Fair is celebrated mainly in Rajasthan."
+   "answer": 0,
+   "explanation": "Pushkar Fair is celebrated mainly in Rajasthan.",
+   "topic": "Festivals of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00358",
-   "q": "The river Kaveri originates from which of the following?",
-   "o": [
+   "question": "The river Kaveri originates from which of the following?",
+   "options": [
     "Angsi Glacier",
     "Talakaveri",
     "Satopanth Glacier",
     "Bhimashankar"
    ],
-   "a": 1,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Kaveri originates from Talakaveri."
+   "answer": 1,
+   "explanation": "Kaveri originates from Talakaveri.",
+   "topic": "Rivers of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00359",
-   "q": "Panchet Dam is built on which river?",
-   "o": [
+   "question": "Panchet Dam is built on which river?",
+   "options": [
     "Bhagirathi",
     "Damodar",
     "Krishna",
     "Koyna"
    ],
-   "a": 1,
-   "t": "Dams of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Panchet Dam is built on the Damodar."
+   "answer": 1,
+   "explanation": "Panchet Dam is built on the Damodar.",
+   "topic": "Dams of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00360",
-   "q": "Barnawapara Wildlife Sanctuary is located in which state?",
-   "o": [
+   "question": "Barnawapara Wildlife Sanctuary is located in which state?",
+   "options": [
     "Chhattisgarh",
     "Sikkim",
     "Madhya Pradesh",
     "Maharashtra"
    ],
-   "a": 0,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Barnawapara Wildlife Sanctuary is located in Chhattisgarh."
+   "answer": 0,
+   "explanation": "Barnawapara Wildlife Sanctuary is located in Chhattisgarh.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00361",
-   "q": "Araku Valley Pass pass is located in which state or union territory?",
-   "o": [
+   "question": "Araku Valley Pass pass is located in which state or union territory?",
+   "options": [
     "Ladakh",
     "Jammu and Kashmir",
     "Andhra Pradesh",
     "Arunachal Pradesh"
    ],
-   "a": 2,
-   "t": "Mountain Passes of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Araku Valley Pass is located in Andhra Pradesh."
+   "answer": 2,
+   "explanation": "Araku Valley Pass is located in Andhra Pradesh.",
+   "topic": "Mountain Passes of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00362",
-   "q": "What is the SI unit of Pressure?",
-   "o": [
+   "question": "What is the SI unit of Pressure?",
+   "options": [
     "Second",
     "Pascal",
     "Lumen",
     "Pascal second"
    ],
-   "a": 1,
-   "t": "SI Units",
-   "l": 1,
-   "s": "generated",
-   "e": "The SI unit of Pressure is the Pascal."
+   "answer": 1,
+   "explanation": "The SI unit of Pressure is the Pascal.",
+   "topic": "SI Units",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00363",
-   "q": "Which instrument is used to measure Electric current?",
-   "o": [
+   "question": "Which instrument is used to measure Electric current?",
+   "options": [
     "Nephelometer",
     "Ammeter",
     "Periscope",
     "Stethoscope"
    ],
-   "a": 1,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Ammeter is used to measure Electric current."
+   "answer": 1,
+   "explanation": "Ammeter is used to measure Electric current.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00364",
-   "q": "Deficiency of which nutrient causes Goitre?",
-   "o": [
+   "question": "Deficiency of which nutrient causes Goitre?",
+   "options": [
     "Iodine",
     "Phosphorus",
     "Vitamin B5",
     "Calcium"
    ],
-   "a": 0,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Iodine causes Goitre."
+   "answer": 0,
+   "explanation": "Deficiency of Iodine causes Goitre.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00365",
-   "q": "Who is credited with Air conditioner?",
-   "o": [
+   "question": "Who is credited with Air conditioner?",
+   "options": [
     "Rudolf Diesel",
     "Wright Brothers",
     "Willis Carrier",
     "Alfred Nobel"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Air conditioner — Willis Carrier."
+   "answer": 2,
+   "explanation": "Air conditioner — Willis Carrier.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00366",
-   "q": "What is the chemical name of Gypsum?",
-   "o": [
+   "question": "What is the chemical name of Gypsum?",
+   "options": [
     "Zinc chloride (ZnCl2)",
     "Calcium sulphate dihydrate (CaSO4.2H2O)",
     "Ferrous sulphate (FeSO4.7H2O)",
     "Calcium hydroxide (Ca(OH)2)"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Gypsum is Calcium sulphate dihydrate (CaSO4.2H2O)."
+   "answer": 1,
+   "explanation": "Gypsum is Calcium sulphate dihydrate (CaSO4.2H2O).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00367",
-   "q": "Which branch of science deals with Fossils?",
-   "o": [
+   "question": "Which branch of science deals with Fossils?",
+   "options": [
     "Pisciculture",
     "Physics",
     "Palaeontology",
     "Physiology"
    ],
-   "a": 2,
-   "t": "Branches of Science",
-   "l": 2,
-   "s": "generated",
-   "e": "Palaeontology deals with Fossils."
+   "answer": 2,
+   "explanation": "Palaeontology deals with Fossils.",
+   "topic": "Branches of Science",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00368",
-   "q": "Which planet or body is described as: Astronomical unit?",
-   "o": [
+   "question": "Which planet or body is described as: Astronomical unit?",
+   "options": [
     "Uranus",
     "Pluto",
     "Astronomical unit",
     "Mercury"
    ],
-   "a": 2,
-   "t": "Astronomy",
-   "l": 2,
-   "s": "generated",
-   "e": "Astronomical unit — Astronomical unit."
+   "answer": 2,
+   "explanation": "Astronomical unit — Astronomical unit.",
+   "topic": "Astronomy",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00369",
-   "q": "Georg Ohm is known for which of the following?",
-   "o": [
+   "question": "Georg Ohm is known for which of the following?",
+   "options": [
     "Genetic code",
     "Laws of motion and gravitation",
     "Ohm's law",
     "Laws of inheritance"
    ],
-   "a": 2,
-   "t": "Scientists",
-   "l": 2,
-   "s": "generated",
-   "e": "Georg Ohm is known for Ohm's law."
+   "answer": 2,
+   "explanation": "Georg Ohm is known for Ohm's law.",
+   "topic": "Scientists",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00370",
-   "q": "NITI Aayog is best described as which of the following?",
-   "o": [
+   "question": "NITI Aayog is best described as which of the following?",
+   "options": [
     "Head of the Union Government",
     "Policy think tank of the Government of India",
     "Administered by the President through administrators",
     "Regulator of the securities market"
    ],
-   "a": 1,
-   "t": "Institutions of India",
-   "l": 2,
-   "s": "generated",
-   "e": "NITI Aayog — Policy think tank of the Government of India."
+   "answer": 1,
+   "explanation": "NITI Aayog — Policy think tank of the Government of India.",
+   "topic": "Institutions of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00371",
-   "q": "On which date is World Kindness Day observed?",
-   "o": [
+   "question": "On which date is World Kindness Day observed?",
+   "options": [
     "25 January",
     "13 November",
     "26 January",
     "10 December"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Kindness Day is observed on 13 November."
+   "answer": 1,
+   "explanation": "World Kindness Day is observed on 13 November.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00372",
-   "q": "Where is the headquarters of Asian Infrastructure Investment Bank?",
-   "o": [
+   "question": "Where is the headquarters of Asian Infrastructure Investment Bank?",
+   "options": [
     "New Delhi",
     "Geneva",
     "Beijing",
     "Bengaluru"
    ],
-   "a": 2,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "Asian Infrastructure Investment Bank is headquartered at Beijing."
+   "answer": 2,
+   "explanation": "Asian Infrastructure Investment Bank is headquartered at Beijing.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00373",
-   "q": "Borlaug Award is associated with which of the following?",
-   "o": [
+   "question": "Borlaug Award is associated with which of the following?",
+   "options": [
     "Indian award in agricultural science",
     "Indian award for peace, disarmament and development",
     "Third highest peacetime gallantry award of India",
     "Third highest military decoration of India"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Borlaug Award — Indian award in agricultural science."
+   "answer": 0,
+   "explanation": "Borlaug Award — Indian award in agricultural science.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00374",
-   "q": "First person to win two Nobel Prizes is associated with which of the following?",
-   "o": [
+   "question": "First person to win two Nobel Prizes is associated with which of the following?",
+   "options": [
     "Yuri Gagarin",
     "Marie Curie",
     "Uruguay",
     "Junko Tabei"
    ],
-   "a": 1,
-   "t": "First in the World",
-   "l": 2,
-   "s": "generated",
-   "e": "First person to win two Nobel Prizes — Marie Curie."
+   "answer": 1,
+   "explanation": "First person to win two Nobel Prizes — Marie Curie.",
+   "topic": "First in the World",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00375",
-   "q": "Which strait separates Africa from Europe?",
-   "o": [
+   "question": "Which strait separates Africa from Europe?",
+   "options": [
     "Strait of Gibraltar",
     "Bhutan",
     "Asia",
     "Belgium"
    ],
-   "a": 0,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 0,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00376",
-   "q": "Which of the following is true about Peaty soil?",
-   "o": [
+   "question": "Which of the following is true about Peaty soil?",
+   "options": [
     "Found in hilly and forest regions",
     "Formed by leaching in high rainfall areas",
     "Most fertile soil, found in the northern plains",
     "Formed in waterlogged areas with organic matter"
    ],
-   "a": 3,
-   "t": "Soils of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Peaty soil: Formed in waterlogged areas with organic matter."
+   "answer": 3,
+   "explanation": "Peaty soil: Formed in waterlogged areas with organic matter.",
+   "topic": "Soils of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00377",
-   "q": "Which Indian state is a major producer of Natural gas?",
-   "o": [
+   "question": "Which Indian state is a major producer of Natural gas?",
+   "options": [
     "Madhya Pradesh",
     "Maharashtra",
     "Rajasthan",
     "Jharkhand"
    ],
-   "a": 1,
-   "t": "Minerals and States",
-   "l": 3,
-   "s": "generated",
-   "e": "Natural gas is produced in large quantities in Maharashtra."
+   "answer": 1,
+   "explanation": "Natural gas is produced in large quantities in Maharashtra.",
+   "topic": "Minerals and States",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00378",
-   "q": "Seshachalam Biosphere Reserve is located in which state?",
-   "o": [
+   "question": "Seshachalam Biosphere Reserve is located in which state?",
+   "options": [
     "Odisha",
     "Andhra Pradesh",
     "Assam",
     "Andaman and Nicobar Islands"
    ],
-   "a": 1,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Seshachalam Biosphere Reserve is in Andhra Pradesh."
+   "answer": 1,
+   "explanation": "Seshachalam Biosphere Reserve is in Andhra Pradesh.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00379",
-   "q": "What is the capital of Mali?",
-   "o": [
+   "question": "What is the capital of Mali?",
+   "options": [
     "Jerusalem",
     "Paramaribo",
     "Bamako",
     "Pyongyang"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Mali is Bamako."
+   "answer": 2,
+   "explanation": "The capital of Mali is Bamako.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00380",
-   "q": "Which element has the chemical symbol Kr?",
-   "o": [
+   "question": "Which element has the chemical symbol Kr?",
+   "options": [
     "Krypton",
     "Chlorine",
     "Iridium",
     "Curium"
    ],
-   "a": 0,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "Kr is the symbol of Krypton."
+   "answer": 0,
+   "explanation": "Kr is the symbol of Krypton.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00381",
-   "q": "What is the capital of Nagaland?",
-   "o": [
+   "question": "What is the capital of Nagaland?",
+   "options": [
     "Shillong",
     "Kohima",
     "Itanagar",
     "Gangtok"
    ],
-   "a": 1,
-   "t": "States and Capitals",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Nagaland is Kohima."
+   "answer": 1,
+   "explanation": "The capital of Nagaland is Kohima.",
+   "topic": "States and Capitals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00382",
-   "q": "Leh is the capital of which Union Territory?",
-   "o": [
+   "question": "Leh is the capital of which Union Territory?",
+   "options": [
     "Chandigarh",
     "Dadra and Nagar Haveli and Daman and Diu",
     "Ladakh",
     "Puducherry"
    ],
-   "a": 2,
-   "t": "Union Territories",
-   "l": 3,
-   "s": "generated",
-   "e": "Leh is the capital of Ladakh."
+   "answer": 2,
+   "explanation": "Leh is the capital of Ladakh.",
+   "topic": "Union Territories",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00383",
-   "q": "Which of the following is the National Calendar of India?",
-   "o": [
+   "question": "Which of the following is the National Calendar of India?",
+   "options": [
     "Lion Capital of Ashoka",
     "Indian Rupee",
     "Saka Calendar",
     "Lotus"
    ],
-   "a": 2,
-   "t": "National Symbols",
-   "l": 1,
-   "s": "generated",
-   "e": "The National Calendar of India is Saka Calendar."
+   "answer": 2,
+   "explanation": "The National Calendar of India is Saka Calendar.",
+   "topic": "National Symbols",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00384",
-   "q": "First woman to win a Nobel Prize in India is associated with which of the following?",
-   "o": [
+   "question": "First woman to win a Nobel Prize in India is associated with which of the following?",
+   "options": [
     "Bombay and Thane",
     "Reita Faria",
     "Mother Teresa",
     "Pokhran"
    ],
-   "a": 2,
-   "t": "First in India",
-   "l": 2,
-   "s": "generated",
-   "e": "First woman to win a Nobel Prize in India — Mother Teresa."
+   "answer": 2,
+   "explanation": "First woman to win a Nobel Prize in India — Mother Teresa.",
+   "topic": "First in India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00385",
-   "q": "Ghoomar is a folk or classical dance form of which state?",
-   "o": [
+   "question": "Ghoomar is a folk or classical dance form of which state?",
+   "options": [
     "Rajasthan",
     "Maharashtra",
     "Kerala",
     "Punjab"
    ],
-   "a": 0,
-   "t": "Folk Dances of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Ghoomar belongs to Rajasthan."
+   "answer": 0,
+   "explanation": "Ghoomar belongs to Rajasthan.",
+   "topic": "Folk Dances of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00386",
-   "q": "Khajuraho Dance Festival is a major festival of which state?",
-   "o": [
+   "question": "Khajuraho Dance Festival is a major festival of which state?",
+   "options": [
     "Madhya Pradesh",
     "Maharashtra",
     "Nagaland",
     "Arunachal Pradesh"
    ],
-   "a": 0,
-   "t": "Festivals of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Khajuraho Dance Festival is celebrated mainly in Madhya Pradesh."
+   "answer": 0,
+   "explanation": "Khajuraho Dance Festival is celebrated mainly in Madhya Pradesh.",
+   "topic": "Festivals of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00387",
-   "q": "The river Krishna originates from which of the following?",
-   "o": [
+   "question": "The river Krishna originates from which of the following?",
+   "options": [
     "Vindhya Range",
     "Kudali",
     "Mahabaleshwar",
     "Ambutirtha"
    ],
-   "a": 2,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Krishna originates from Mahabaleshwar."
+   "answer": 2,
+   "explanation": "Krishna originates from Mahabaleshwar.",
+   "topic": "Rivers of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00388",
-   "q": "Indira Sagar Dam is built on which river?",
-   "o": [
+   "question": "Indira Sagar Dam is built on which river?",
+   "options": [
     "Damodar",
     "Narmada",
     "Godavari",
     "Kaveri"
    ],
-   "a": 1,
-   "t": "Dams of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Indira Sagar Dam is built on the Narmada."
+   "answer": 1,
+   "explanation": "Indira Sagar Dam is built on the Narmada.",
+   "topic": "Dams of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00389",
-   "q": "Neora Valley National Park is located in which state?",
-   "o": [
+   "question": "Neora Valley National Park is located in which state?",
+   "options": [
     "Uttarakhand",
     "Madhya Pradesh",
     "West Bengal",
     "Bihar"
    ],
-   "a": 2,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Neora Valley National Park is located in West Bengal."
+   "answer": 2,
+   "explanation": "Neora Valley National Park is located in West Bengal.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00390",
-   "q": "Chang La pass is located in which state or union territory?",
-   "o": [
+   "question": "Chang La pass is located in which state or union territory?",
+   "options": [
     "Jammu and Kashmir",
     "Maharashtra",
     "Tamil Nadu",
     "Ladakh"
    ],
-   "a": 3,
-   "t": "Mountain Passes of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Chang La is located in Ladakh."
+   "answer": 3,
+   "explanation": "Chang La is located in Ladakh.",
+   "topic": "Mountain Passes of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00391",
-   "q": "What is the SI unit of Luminous intensity?",
-   "o": [
+   "question": "What is the SI unit of Luminous intensity?",
+   "options": [
     "Becquerel",
     "Joule per Kelvin",
     "Candela",
     "Lux"
    ],
-   "a": 2,
-   "t": "SI Units",
-   "l": 1,
-   "s": "generated",
-   "e": "The SI unit of Luminous intensity is the Candela."
+   "answer": 2,
+   "explanation": "The SI unit of Luminous intensity is the Candela.",
+   "topic": "SI Units",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00392",
-   "q": "Which instrument is used to measure Distance travelled?",
-   "o": [
+   "question": "Which instrument is used to measure Distance travelled?",
+   "options": [
     "Cardiograph",
     "Odometer",
     "Telescope",
     "Periscope"
    ],
-   "a": 1,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Odometer is used to measure Distance travelled."
+   "answer": 1,
+   "explanation": "Odometer is used to measure Distance travelled.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00393",
-   "q": "Deficiency of which nutrient causes Tetany?",
-   "o": [
+   "question": "Deficiency of which nutrient causes Tetany?",
+   "options": [
     "Vitamin E",
     "Potassium",
     "Magnesium",
     "Sodium"
    ],
-   "a": 2,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Magnesium causes Tetany."
+   "answer": 2,
+   "explanation": "Deficiency of Magnesium causes Tetany.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00394",
-   "q": "Who is credited with Steam engine?",
-   "o": [
+   "question": "Who is credited with Steam engine?",
+   "options": [
     "Joseph Priestley",
     "James Watt",
     "George Cayley",
     "Dmitri Mendeleev"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Steam engine — James Watt."
+   "answer": 1,
+   "explanation": "Steam engine — James Watt.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00395",
-   "q": "What is the chemical name of Baking powder?",
-   "o": [
+   "question": "What is the chemical name of Baking powder?",
+   "options": [
     "Trichloromethane (CHCl3)",
     "Sodium bicarbonate and tartaric acid",
     "Copper sulphate (CuSO4.5H2O)",
     "Ferrous sulphate (FeSO4.7H2O)"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Baking powder is Sodium bicarbonate and tartaric acid."
+   "answer": 1,
+   "explanation": "Baking powder is Sodium bicarbonate and tartaric acid.",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00396",
-   "q": "Which branch of science deals with Structure of the body?",
-   "o": [
+   "question": "Which branch of science deals with Structure of the body?",
+   "options": [
     "Numismatics",
     "Anatomy",
     "Entomology",
     "Dermatology"
    ],
-   "a": 1,
-   "t": "Branches of Science",
-   "l": 2,
-   "s": "generated",
-   "e": "Anatomy deals with Structure of the body."
+   "answer": 1,
+   "explanation": "Anatomy deals with Structure of the body.",
+   "topic": "Branches of Science",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00397",
-   "q": "Which planet or body is described as: Comet?",
-   "o": [
+   "question": "Which planet or body is described as: Comet?",
+   "options": [
     "Saturn",
     "Comet",
     "Neptune",
     "Ganymede"
    ],
-   "a": 1,
-   "t": "Astronomy",
-   "l": 2,
-   "s": "generated",
-   "e": "Comet — Comet."
+   "answer": 1,
+   "explanation": "Comet — Comet.",
+   "topic": "Astronomy",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00398",
-   "q": "Charles Darwin is known for which of the following?",
-   "o": [
+   "question": "Charles Darwin is known for which of the following?",
+   "options": [
     "Plant physiology and radio waves",
     "Theory of evolution",
     "Atomic theory",
     "Phonograph and practical electric bulb"
    ],
-   "a": 1,
-   "t": "Scientists",
-   "l": 2,
-   "s": "generated",
-   "e": "Charles Darwin is known for Theory of evolution."
+   "answer": 1,
+   "explanation": "Charles Darwin is known for Theory of evolution.",
+   "topic": "Scientists",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00399",
-   "q": "Election Commission of India is best described as which of the following?",
-   "o": [
+   "question": "Election Commission of India is best described as which of the following?",
+   "options": [
     "Local self-government in urban areas",
     "Regulator of the insurance sector",
     "Supervises elections to Parliament and State legislatures",
     "House of the People"
    ],
-   "a": 2,
-   "t": "Institutions of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Election Commission of India — Supervises elections to Parliament and State legislatures."
+   "answer": 2,
+   "explanation": "Election Commission of India — Supervises elections to Parliament and State legislatures.",
+   "topic": "Institutions of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00400",
-   "q": "On which date is Earth Day observed?",
-   "o": [
+   "question": "On which date is Earth Day observed?",
+   "options": [
     "22 April",
     "10 January",
     "4 July",
     "22 December"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "Earth Day is observed on 22 April."
+   "answer": 0,
+   "explanation": "Earth Day is observed on 22 April.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00401",
-   "q": "Where is the headquarters of European Space Agency?",
-   "o": [
+   "question": "Where is the headquarters of European Space Agency?",
+   "options": [
     "Paris",
     "Bengaluru",
     "Geneva",
     "New York"
    ],
-   "a": 0,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "European Space Agency is headquartered at Paris."
+   "answer": 0,
+   "explanation": "European Space Agency is headquartered at Paris.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00402",
-   "q": "US Open is associated with which sport?",
-   "o": [
+   "question": "US Open is associated with which sport?",
+   "options": [
     "Multi-sport",
     "Football",
     "Cricket",
     "Tennis"
    ],
-   "a": 3,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "US Open is associated with Tennis."
+   "answer": 3,
+   "explanation": "US Open is associated with Tennis.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00403",
-   "q": "Infosys Prize is associated with which of the following?",
-   "o": [
+   "question": "Infosys Prize is associated with which of the following?",
+   "options": [
     "Performing arts award of India",
     "Alternative Nobel Prize",
     "Indian award for research",
     "Indian award for peace, disarmament and development"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Infosys Prize — Indian award for research."
+   "answer": 2,
+   "explanation": "Infosys Prize — Indian award for research.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00404",
-   "q": "First person to reach the North Pole by surface is associated with which of the following?",
-   "o": [
+   "question": "First person to reach the North Pole by surface is associated with which of the following?",
+   "options": [
     "Wally Herbert",
     "Edmund Hillary",
     "Soviet Union",
     "Athens"
    ],
-   "a": 0,
-   "t": "First in the World",
-   "l": 2,
-   "s": "generated",
-   "e": "First person to reach the North Pole by surface — Wally Herbert."
+   "answer": 0,
+   "explanation": "First person to reach the North Pole by surface — Wally Herbert.",
+   "topic": "First in the World",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00405",
-   "q": "Which is the highest mountain peak in India?",
-   "o": [
+   "question": "Which is the highest mountain peak in India?",
+   "options": [
     "Strait of Gibraltar",
     "Kanchenjunga",
     "West Bengal",
     "Belgium"
    ],
-   "a": 1,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 1,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00406",
-   "q": "Which of the following is true about Mountain soil?",
-   "o": [
+   "question": "Which of the following is true about Mountain soil?",
+   "options": [
     "Contains excess salt, found in dry coastal areas",
     "Formed by leaching in high rainfall areas",
     "Also called regur, ideal for cotton",
     "Found in hilly and forest regions"
    ],
-   "a": 3,
-   "t": "Soils of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Mountain soil: Found in hilly and forest regions."
+   "answer": 3,
+   "explanation": "Mountain soil: Found in hilly and forest regions.",
+   "topic": "Soils of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00407",
-   "q": "Which Indian state is a major producer of Lead and zinc?",
-   "o": [
+   "question": "Which Indian state is a major producer of Lead and zinc?",
+   "options": [
     "Maharashtra",
     "Rajasthan",
     "Jharkhand",
     "Karnataka"
    ],
-   "a": 1,
-   "t": "Minerals and States",
-   "l": 3,
-   "s": "generated",
-   "e": "Lead and zinc is produced in large quantities in Rajasthan."
+   "answer": 1,
+   "explanation": "Lead and zinc is produced in large quantities in Rajasthan.",
+   "topic": "Minerals and States",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00408",
-   "q": "Loktak Lake is located in which state?",
-   "o": [
+   "question": "Loktak Lake is located in which state?",
+   "options": [
     "Andhra Pradesh",
     "Manipur",
     "Rajasthan",
     "Madhya Pradesh and Chhattisgarh"
    ],
-   "a": 1,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Loktak Lake is in Manipur."
+   "answer": 1,
+   "explanation": "Loktak Lake is in Manipur.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00409",
-   "q": "What is the capital of Vatican City?",
-   "o": [
+   "question": "What is the capital of Vatican City?",
+   "options": [
     "Helsinki",
     "Vatican City",
     "Jerusalem",
     "Victoria"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Vatican City is Vatican City."
+   "answer": 1,
+   "explanation": "The capital of Vatican City is Vatican City.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00410",
-   "q": "Which element has the chemical symbol Ta?",
-   "o": [
+   "question": "Which element has the chemical symbol Ta?",
+   "options": [
     "Palladium",
     "Tantalum",
     "Copper",
     "Californium"
    ],
-   "a": 1,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "Ta is the symbol of Tantalum."
+   "answer": 1,
+   "explanation": "Ta is the symbol of Tantalum.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00411",
-   "q": "What is the capital of Haryana?",
-   "o": [
+   "question": "What is the capital of Haryana?",
+   "options": [
     "Hyderabad",
     "Ranchi",
     "Jaipur",
     "Chandigarh"
    ],
-   "a": 3,
-   "t": "States and Capitals",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Haryana is Chandigarh."
+   "answer": 3,
+   "explanation": "The capital of Haryana is Chandigarh.",
+   "topic": "States and Capitals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00412",
-   "q": "Chandigarh is the capital of which Union Territory?",
-   "o": [
+   "question": "Chandigarh is the capital of which Union Territory?",
+   "options": [
     "Dadra and Nagar Haveli and Daman and Diu",
     "Chandigarh",
     "Delhi",
     "Andaman and Nicobar Islands"
    ],
-   "a": 1,
-   "t": "Union Territories",
-   "l": 3,
-   "s": "generated",
-   "e": "Chandigarh is the capital of Chandigarh."
+   "answer": 1,
+   "explanation": "Chandigarh is the capital of Chandigarh.",
+   "topic": "Union Territories",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00413",
-   "q": "Which of the following is the National Fruit of India?",
-   "o": [
+   "question": "Which of the following is the National Fruit of India?",
+   "options": [
     "Bengal Tiger",
     "Mango",
     "Lion Capital of Ashoka",
     "Indian Rupee"
    ],
-   "a": 1,
-   "t": "National Symbols",
-   "l": 1,
-   "s": "generated",
-   "e": "The National Fruit of India is Mango."
+   "answer": 1,
+   "explanation": "The National Fruit of India is Mango.",
+   "topic": "National Symbols",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00414",
-   "q": "First Indian Railway line started between is associated with which of the following?",
-   "o": [
+   "question": "First Indian Railway line started between is associated with which of the following?",
+   "options": [
     "Indira Gandhi",
     "Karnam Malleswari",
     "Bombay and Thane",
     "Sucheta Kripalani"
    ],
-   "a": 2,
-   "t": "First in India",
-   "l": 2,
-   "s": "generated",
-   "e": "First Indian Railway line started between — Bombay and Thane."
+   "answer": 2,
+   "explanation": "First Indian Railway line started between — Bombay and Thane.",
+   "topic": "First in India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00415",
-   "q": "Chakyar Koothu is a folk or classical dance form of which state?",
-   "o": [
+   "question": "Chakyar Koothu is a folk or classical dance form of which state?",
+   "options": [
     "Kerala",
     "Jharkhand",
     "Gujarat",
     "Punjab"
    ],
-   "a": 0,
-   "t": "Folk Dances of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Chakyar Koothu belongs to Kerala."
+   "answer": 0,
+   "explanation": "Chakyar Koothu belongs to Kerala.",
+   "topic": "Folk Dances of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00416",
-   "q": "Hornbill Festival is a major festival of which state?",
-   "o": [
+   "question": "Hornbill Festival is a major festival of which state?",
+   "options": [
     "Odisha",
     "Punjab",
     "Nagaland",
     "Arunachal Pradesh"
    ],
-   "a": 2,
-   "t": "Festivals of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Hornbill Festival is celebrated mainly in Nagaland."
+   "answer": 2,
+   "explanation": "Hornbill Festival is celebrated mainly in Nagaland.",
+   "topic": "Festivals of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00417",
-   "q": "The river Betwa originates from which of the following?",
-   "o": [
+   "question": "The river Betwa originates from which of the following?",
+   "options": [
     "Bokhar Chu",
     "Mapchachungo",
     "Vindhya Range",
     "Janapav Hill"
    ],
-   "a": 2,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Betwa originates from Vindhya Range."
+   "answer": 2,
+   "explanation": "Betwa originates from Vindhya Range.",
+   "topic": "Rivers of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00418",
-   "q": "Sardar Sarovar Dam is built on which river?",
-   "o": [
+   "question": "Sardar Sarovar Dam is built on which river?",
+   "options": [
     "Mahanadi",
     "Chenab",
     "Kaveri",
     "Narmada"
    ],
-   "a": 3,
-   "t": "Dams of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Sardar Sarovar Dam is built on the Narmada."
+   "answer": 3,
+   "explanation": "Sardar Sarovar Dam is built on the Narmada.",
+   "topic": "Dams of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00419",
-   "q": "Simlipal National Park is located in which state?",
-   "o": [
+   "question": "Simlipal National Park is located in which state?",
+   "options": [
     "Uttarakhand",
     "Tamil Nadu",
     "Odisha",
     "Rajasthan"
    ],
-   "a": 2,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Simlipal National Park is located in Odisha."
+   "answer": 2,
+   "explanation": "Simlipal National Park is located in Odisha.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00420",
-   "q": "Mana Pass pass is located in which state or union territory?",
-   "o": [
+   "question": "Mana Pass pass is located in which state or union territory?",
+   "options": [
     "Uttarakhand",
     "Arunachal Pradesh",
     "Maharashtra",
     "Ladakh"
    ],
-   "a": 0,
-   "t": "Mountain Passes of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Mana Pass is located in Uttarakhand."
+   "answer": 0,
+   "explanation": "Mana Pass is located in Uttarakhand.",
+   "topic": "Mountain Passes of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00421",
-   "q": "What is the SI unit of Radioactivity?",
-   "o": [
+   "question": "What is the SI unit of Radioactivity?",
+   "options": [
     "Ampere",
     "Weber",
     "Becquerel",
     "Henry"
    ],
-   "a": 2,
-   "t": "SI Units",
-   "l": 1,
-   "s": "generated",
-   "e": "The SI unit of Radioactivity is the Becquerel."
+   "answer": 2,
+   "explanation": "The SI unit of Radioactivity is the Becquerel.",
+   "topic": "SI Units",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00422",
-   "q": "Which instrument is used to measure Distant objects?",
-   "o": [
+   "question": "Which instrument is used to measure Distant objects?",
+   "options": [
     "Tachometer",
     "Pyrometer",
     "Telescope",
     "Calorimeter"
    ],
-   "a": 2,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Telescope is used to measure Distant objects."
+   "answer": 2,
+   "explanation": "Telescope is used to measure Distant objects.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00423",
-   "q": "Deficiency of which nutrient causes Dermatitis?",
-   "o": [
+   "question": "Deficiency of which nutrient causes Dermatitis?",
+   "options": [
     "Magnesium",
     "Vitamin D",
     "Vitamin B5",
     "Vitamin B7"
    ],
-   "a": 3,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Vitamin B7 causes Dermatitis."
+   "answer": 3,
+   "explanation": "Deficiency of Vitamin B7 causes Dermatitis.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00424",
-   "q": "Who is credited with Microscope?",
-   "o": [
+   "question": "Who is credited with Microscope?",
+   "options": [
     "Joseph Lister",
     "James Watt",
     "Tim Berners-Lee",
     "Antonie van Leeuwenhoek"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Microscope — Antonie van Leeuwenhoek."
+   "answer": 3,
+   "explanation": "Microscope — Antonie van Leeuwenhoek.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00425",
-   "q": "What is the chemical name of Blue vitriol?",
-   "o": [
+   "question": "What is the chemical name of Blue vitriol?",
+   "options": [
     "Sodium sulphate (Na2SO4)",
     "Potassium aluminium sulphate",
     "Copper sulphate (CuSO4.5H2O)",
     "Acetylsalicylic acid"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Blue vitriol is Copper sulphate (CuSO4.5H2O)."
+   "answer": 2,
+   "explanation": "Blue vitriol is Copper sulphate (CuSO4.5H2O).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00426",
-   "q": "Which branch of science deals with Fungi?",
-   "o": [
+   "question": "Which branch of science deals with Fungi?",
+   "options": [
     "Thermodynamics",
     "Anatomy",
     "Cardiology",
     "Mycology"
    ],
-   "a": 3,
-   "t": "Branches of Science",
-   "l": 2,
-   "s": "generated",
-   "e": "Mycology deals with Fungi."
+   "answer": 3,
+   "explanation": "Mycology deals with Fungi.",
+   "topic": "Branches of Science",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00427",
-   "q": "Which planet or body is described as: Jupiter?",
-   "o": [
+   "question": "Which planet or body is described as: Jupiter?",
+   "options": [
     "Nebula",
     "Saturn",
     "Titan",
     "Ganymede"
    ],
-   "a": 3,
-   "t": "Astronomy",
-   "l": 2,
-   "s": "generated",
-   "e": "Ganymede — Jupiter."
+   "answer": 3,
+   "explanation": "Ganymede — Jupiter.",
+   "topic": "Astronomy",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00428",
-   "q": "Daniel Bernoulli is known for which of the following?",
-   "o": [
+   "question": "Daniel Bernoulli is known for which of the following?",
+   "options": [
     "Ionisation theory of stars",
     "Theory of evolution",
     "Wireless telegraphy",
     "Kinetic theory of gases"
    ],
-   "a": 3,
-   "t": "Scientists",
-   "l": 2,
-   "s": "generated",
-   "e": "Daniel Bernoulli is known for Kinetic theory of gases."
+   "answer": 3,
+   "explanation": "Daniel Bernoulli is known for Kinetic theory of gases.",
+   "topic": "Scientists",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00429",
-   "q": "Municipality is best described as which of the following?",
-   "o": [
+   "question": "Municipality is best described as which of the following?",
+   "options": [
     "Aids and advises the President",
     "Head of the State Government",
     "Local self-government in urban areas",
     "Local self-government at the village level"
    ],
-   "a": 2,
-   "t": "Institutions of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Municipality — Local self-government in urban areas."
+   "answer": 2,
+   "explanation": "Municipality — Local self-government in urban areas.",
+   "topic": "Institutions of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00430",
-   "q": "On which date is World Polio Day observed?",
-   "o": [
+   "question": "On which date is World Polio Day observed?",
+   "options": [
     "13 November",
     "24 October",
     "11 December",
     "14 December"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Polio Day is observed on 24 October."
+   "answer": 1,
+   "explanation": "World Polio Day is observed on 24 October.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00431",
-   "q": "Where is the headquarters of International Criminal Court?",
-   "o": [
+   "question": "Where is the headquarters of International Criminal Court?",
+   "options": [
     "The Hague",
     "London",
     "New York",
     "Geneva"
    ],
-   "a": 0,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "International Criminal Court is headquartered at The Hague."
+   "answer": 0,
+   "explanation": "International Criminal Court is headquartered at The Hague.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00432",
-   "q": "Corbillon Cup is associated with which sport?",
-   "o": [
+   "question": "Corbillon Cup is associated with which sport?",
+   "options": [
     "Hockey",
     "Badminton",
     "Table Tennis",
     "Cricket"
    ],
-   "a": 2,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Corbillon Cup is associated with Table Tennis."
+   "answer": 2,
+   "explanation": "Corbillon Cup is associated with Table Tennis.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00433",
-   "q": "Shanti Swarup Bhatnagar Prize is associated with which of the following?",
-   "o": [
+   "question": "Shanti Swarup Bhatnagar Prize is associated with which of the following?",
+   "options": [
     "Indian award in science and technology",
     "Highest sporting honour of India",
     "American award for music",
     "Award for progress in spiritual matters"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Shanti Swarup Bhatnagar Prize — Indian award in science and technology."
+   "answer": 0,
+   "explanation": "Shanti Swarup Bhatnagar Prize — Indian award in science and technology.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00434",
-   "q": "First Indian woman to win an Olympic medal is associated with which of the following?",
-   "o": [
+   "question": "First Indian woman to win an Olympic medal is associated with which of the following?",
+   "options": [
     "Sirimavo Bandaranaike",
     "Karnam Malleswari",
     "George Washington",
     "Yuri Gagarin"
    ],
-   "a": 1,
-   "t": "First in the World",
-   "l": 2,
-   "s": "generated",
-   "e": "First Indian woman to win an Olympic medal — Karnam Malleswari."
+   "answer": 1,
+   "explanation": "First Indian woman to win an Olympic medal — Karnam Malleswari.",
+   "topic": "First in the World",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00435",
-   "q": "Which Indian city is called the City of Nawabs?",
-   "o": [
+   "question": "Which Indian city is called the City of Nawabs?",
+   "options": [
     "Lake Baikal",
     "Belgium",
     "Lucknow",
     "Nile"
    ],
-   "a": 2,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 2,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00436",
-   "q": "Which of the following is true about Laterite soil?",
-   "o": [
+   "question": "Which of the following is true about Laterite soil?",
+   "options": [
     "Formed from crystalline rocks, rich in iron",
     "Formed by leaching in high rainfall areas",
     "Found in hilly and forest regions",
     "Formed in waterlogged areas with organic matter"
    ],
-   "a": 1,
-   "t": "Soils of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Laterite soil: Formed by leaching in high rainfall areas."
+   "answer": 1,
+   "explanation": "Laterite soil: Formed by leaching in high rainfall areas.",
+   "topic": "Soils of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00437",
-   "q": "Which Indian state is a major producer of Manganese?",
-   "o": [
+   "question": "Which Indian state is a major producer of Manganese?",
+   "options": [
     "Karnataka",
     "Rajasthan",
     "Andhra Pradesh",
     "Odisha"
    ],
-   "a": 3,
-   "t": "Minerals and States",
-   "l": 3,
-   "s": "generated",
-   "e": "Manganese is produced in large quantities in Odisha."
+   "answer": 3,
+   "explanation": "Manganese is produced in large quantities in Odisha.",
+   "topic": "Minerals and States",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00438",
-   "q": "Gulf of Mannar Biosphere Reserve is located in which state?",
-   "o": [
+   "question": "Gulf of Mannar Biosphere Reserve is located in which state?",
+   "options": [
     "Jammu and Kashmir",
     "Rajasthan",
     "Odisha",
     "Tamil Nadu"
    ],
-   "a": 3,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Gulf of Mannar Biosphere Reserve is in Tamil Nadu."
+   "answer": 3,
+   "explanation": "Gulf of Mannar Biosphere Reserve is in Tamil Nadu.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00439",
-   "q": "What is the capital of Honduras?",
-   "o": [
+   "question": "What is the capital of Honduras?",
+   "options": [
     "Lome",
     "Doha",
     "Abuja",
     "Tegucigalpa"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Honduras is Tegucigalpa."
+   "answer": 3,
+   "explanation": "The capital of Honduras is Tegucigalpa.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00440",
-   "q": "Which element has the chemical symbol Ni?",
-   "o": [
+   "question": "Which element has the chemical symbol Ni?",
+   "options": [
     "Vanadium",
     "Curium",
     "Copernicium",
     "Nickel"
    ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "Ni is the symbol of Nickel."
+   "answer": 3,
+   "explanation": "Ni is the symbol of Nickel.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00441",
-   "q": "What is the capital of Maharashtra?",
-   "o": [
+   "question": "What is the capital of Maharashtra?",
+   "options": [
     "Mumbai",
     "Ranchi",
     "Gangtok",
     "Kohima"
    ],
-   "a": 0,
-   "t": "States and Capitals",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Maharashtra is Mumbai."
+   "answer": 0,
+   "explanation": "The capital of Maharashtra is Mumbai.",
+   "topic": "States and Capitals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00442",
-   "q": "Ganga holds which of the following positions in India?",
-   "o": [
+   "question": "Ganga holds which of the following positions in India?",
+   "options": [
     "National Flower",
     "National Bird",
     "National Calendar",
     "National River"
    ],
-   "a": 3,
-   "t": "National Symbols",
-   "l": 2,
-   "s": "generated",
-   "e": "Ganga is the National River of India."
+   "answer": 3,
+   "explanation": "Ganga is the National River of India.",
+   "topic": "National Symbols",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00443",
-   "q": "First Vice President of India is associated with which of the following?",
-   "o": [
+   "question": "First Vice President of India is associated with which of the following?",
+   "options": [
     "Dr. S. Radhakrishnan",
     "Jawaharlal Nehru",
     "Pokhran",
     "Kiran Bedi"
    ],
-   "a": 0,
-   "t": "First in India",
-   "l": 2,
-   "s": "generated",
-   "e": "First Vice President of India — Dr. S. Radhakrishnan."
+   "answer": 0,
+   "explanation": "First Vice President of India — Dr. S. Radhakrishnan.",
+   "topic": "First in India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00444",
-   "q": "Dumhal is a folk or classical dance form of which state?",
-   "o": [
+   "question": "Dumhal is a folk or classical dance form of which state?",
+   "options": [
     "Odisha",
     "Andhra Pradesh",
     "Kerala",
     "Jammu and Kashmir"
    ],
-   "a": 3,
-   "t": "Folk Dances of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Dumhal belongs to Jammu and Kashmir."
+   "answer": 3,
+   "explanation": "Dumhal belongs to Jammu and Kashmir.",
+   "topic": "Folk Dances of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00445",
-   "q": "Baisakhi is a major festival of which state?",
-   "o": [
+   "question": "Baisakhi is a major festival of which state?",
+   "options": [
     "Rajasthan",
     "Punjab",
     "Maharashtra",
     "West Bengal"
    ],
-   "a": 1,
-   "t": "Festivals of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Baisakhi is celebrated mainly in Punjab."
+   "answer": 1,
+   "explanation": "Baisakhi is celebrated mainly in Punjab.",
+   "topic": "Festivals of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00446",
-   "q": "The river Brahmaputra originates from which of the following?",
-   "o": [
+   "question": "The river Brahmaputra originates from which of the following?",
+   "options": [
     "Angsi Glacier",
     "Varusanadu Hills",
     "Ambutirtha",
     "Nandi Hills"
    ],
-   "a": 0,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Brahmaputra originates from Angsi Glacier."
+   "answer": 0,
+   "explanation": "Brahmaputra originates from Angsi Glacier.",
+   "topic": "Rivers of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00447",
-   "q": "Salal Dam is built on which river?",
-   "o": [
+   "question": "Salal Dam is built on which river?",
+   "options": [
     "Sutlej",
     "Narmada",
     "Chenab",
     "Bhavani"
    ],
-   "a": 2,
-   "t": "Dams of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Salal Dam is built on the Chenab."
+   "answer": 2,
+   "explanation": "Salal Dam is built on the Chenab.",
+   "topic": "Dams of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00448",
-   "q": "Kanger Valley National Park is located in which state?",
-   "o": [
+   "question": "Kanger Valley National Park is located in which state?",
+   "options": [
     "Karnataka",
     "Assam",
     "Chhattisgarh",
     "Tamil Nadu"
    ],
-   "a": 2,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Kanger Valley National Park is located in Chhattisgarh."
+   "answer": 2,
+   "explanation": "Kanger Valley National Park is located in Chhattisgarh.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00449",
-   "q": "Haldighati Pass pass is located in which state or union territory?",
-   "o": [
+   "question": "Haldighati Pass pass is located in which state or union territory?",
+   "options": [
     "Rajasthan",
     "Maharashtra",
     "Jammu and Kashmir",
     "Uttarakhand"
    ],
-   "a": 0,
-   "t": "Mountain Passes of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Haldighati Pass is located in Rajasthan."
+   "answer": 0,
+   "explanation": "Haldighati Pass is located in Rajasthan.",
+   "topic": "Mountain Passes of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00450",
-   "q": "What is the SI unit of Time?",
-   "o": [
+   "question": "What is the SI unit of Time?",
+   "options": [
     "Second",
     "Radian",
     "Lux",
     "Steradian"
    ],
-   "a": 0,
-   "t": "SI Units",
-   "l": 1,
-   "s": "generated",
-   "e": "The SI unit of Time is the Second."
+   "answer": 0,
+   "explanation": "The SI unit of Time is the Second.",
+   "topic": "SI Units",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00451",
-   "q": "Which instrument is used to measure Ionising radiation?",
-   "o": [
+   "question": "Which instrument is used to measure Ionising radiation?",
+   "options": [
     "Potometer",
     "Geiger counter",
     "Hygroscope",
     "Polygraph"
    ],
-   "a": 1,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Geiger counter is used to measure Ionising radiation."
+   "answer": 1,
+   "explanation": "Geiger counter is used to measure Ionising radiation.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00452",
-   "q": "Deficiency of which nutrient causes Muscle weakness?",
-   "o": [
+   "question": "Deficiency of which nutrient causes Muscle weakness?",
+   "options": [
     "Vitamin E",
     "Potassium",
     "Vitamin B5",
     "Copper"
    ],
-   "a": 1,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Potassium causes Muscle weakness."
+   "answer": 1,
+   "explanation": "Deficiency of Potassium causes Muscle weakness.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00453",
-   "q": "Who is credited with Electromagnetic induction?",
-   "o": [
+   "question": "Who is credited with Electromagnetic induction?",
+   "options": [
     "Charles Babbage",
     "James Chadwick",
     "Henry Cavendish",
     "Michael Faraday"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Electromagnetic induction — Michael Faraday."
+   "answer": 3,
+   "explanation": "Electromagnetic induction — Michael Faraday.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00454",
-   "q": "What is the chemical name of Magnesia?",
-   "o": [
+   "question": "What is the chemical name of Magnesia?",
+   "options": [
     "Trinitrotoluene",
     "Magnesium oxide (MgO)",
     "Acetic acid (CH3COOH)",
     "Hydrated magnesium silicate"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Magnesia is Magnesium oxide (MgO)."
+   "answer": 1,
+   "explanation": "Magnesia is Magnesium oxide (MgO).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00455",
-   "q": "Which branch of science deals with Solid Earth and its rocks?",
-   "o": [
+   "question": "Which branch of science deals with Solid Earth and its rocks?",
+   "options": [
     "Neurology",
     "Paediatrics",
     "Nuclear physics",
     "Geology"
    ],
-   "a": 3,
-   "t": "Branches of Science",
-   "l": 2,
-   "s": "generated",
-   "e": "Geology deals with Solid Earth and its rocks."
+   "answer": 3,
+   "explanation": "Geology deals with Solid Earth and its rocks.",
+   "topic": "Branches of Science",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00456",
-   "q": "Which planet or body is described as: Andromeda?",
-   "o": [
+   "question": "Which planet or body is described as: Andromeda?",
+   "options": [
     "Olympus Mons",
     "Halley's Comet",
     "Asteroid",
     "Andromeda"
    ],
-   "a": 3,
-   "t": "Astronomy",
-   "l": 2,
-   "s": "generated",
-   "e": "Andromeda — Andromeda."
+   "answer": 3,
+   "explanation": "Andromeda — Andromeda.",
+   "topic": "Astronomy",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00457",
-   "q": "Niels Bohr is known for which of the following?",
-   "o": [
+   "question": "Niels Bohr is known for which of the following?",
+   "options": [
     "Improvements to the steam engine",
     "First powered aeroplane flight",
     "Missile and space launch technology",
     "Atomic model"
    ],
-   "a": 3,
-   "t": "Scientists",
-   "l": 2,
-   "s": "generated",
-   "e": "Niels Bohr is known for Atomic model."
+   "answer": 3,
+   "explanation": "Niels Bohr is known for Atomic model.",
+   "topic": "Scientists",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00458",
-   "q": "Prime Minister of India is best described as which of the following?",
-   "o": [
+   "question": "Prime Minister of India is best described as which of the following?",
+   "options": [
     "Head of the Union Government",
     "Council of States, permanent house",
     "House of the People",
     "Deputy to the Prime Minister in the policy think tank"
    ],
-   "a": 0,
-   "t": "Institutions of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Prime Minister of India — Head of the Union Government."
+   "answer": 0,
+   "explanation": "Prime Minister of India — Head of the Union Government.",
+   "topic": "Institutions of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00459",
-   "q": "On which date is National Sports Day (India) observed?",
-   "o": [
+   "question": "On which date is National Sports Day (India) observed?",
+   "options": [
     "2 December",
     "29 August",
     "29 September",
     "8 November"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "National Sports Day (India) is observed on 29 August."
+   "answer": 1,
+   "explanation": "National Sports Day (India) is observed on 29 August.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00460",
-   "q": "Where is the headquarters of OECD?",
-   "o": [
+   "question": "Where is the headquarters of OECD?",
+   "options": [
     "Paris",
     "The Hague",
     "Cologny",
     "Lausanne"
    ],
-   "a": 0,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "OECD is headquartered at Paris."
+   "answer": 0,
+   "explanation": "OECD is headquartered at Paris.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00461",
-   "q": "Beighton Cup is associated with which sport?",
-   "o": [
+   "question": "Beighton Cup is associated with which sport?",
+   "options": [
     "Football",
     "Badminton",
     "Cricket",
     "Hockey"
    ],
-   "a": 3,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Beighton Cup is associated with Hockey."
+   "answer": 3,
+   "explanation": "Beighton Cup is associated with Hockey.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00462",
-   "q": "Param Vir Chakra is associated with which of the following?",
-   "o": [
+   "question": "Param Vir Chakra is associated with which of the following?",
+   "options": [
     "Third highest peacetime gallantry award of India",
     "Lifetime achievement in Indian sports",
     "Performing arts award of India",
     "Highest military decoration of India"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Param Vir Chakra — Highest military decoration of India."
+   "answer": 3,
+   "explanation": "Param Vir Chakra — Highest military decoration of India.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00463",
-   "q": "First person to reach the South Pole is associated with which of the following?",
-   "o": [
+   "question": "First person to reach the South Pole is associated with which of the following?",
+   "options": [
     "Valentina Tereshkova",
     "Greece",
     "Roald Amundsen",
     "Chamonix"
    ],
-   "a": 2,
-   "t": "First in the World",
-   "l": 2,
-   "s": "generated",
-   "e": "First person to reach the South Pole — Roald Amundsen."
+   "answer": 2,
+   "explanation": "First person to reach the South Pole — Roald Amundsen.",
+   "topic": "First in the World",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00464",
-   "q": "Which is the deepest lake in the world?",
-   "o": [
+   "question": "Which is the deepest lake in the world?",
+   "options": [
     "Lake Baikal",
     "Uttar Pradesh",
     "Canada",
     "Tropic of Cancer"
    ],
-   "a": 0,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 0,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00465",
-   "q": "Which of the following is true about Black soil?",
-   "o": [
+   "question": "Which of the following is true about Black soil?",
+   "options": [
     "Also called regur, ideal for cotton",
     "Formed by leaching in high rainfall areas",
     "Formed from crystalline rocks, rich in iron",
     "Sandy soil of arid regions"
    ],
-   "a": 0,
-   "t": "Soils of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Black soil: Also called regur, ideal for cotton."
+   "answer": 0,
+   "explanation": "Black soil: Also called regur, ideal for cotton.",
+   "topic": "Soils of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00466",
-   "q": "Which Indian state is a major producer of Barytes?",
-   "o": [
+   "question": "Which Indian state is a major producer of Barytes?",
+   "options": [
     "Karnataka",
     "Rajasthan",
     "Andhra Pradesh",
     "Jharkhand"
    ],
-   "a": 2,
-   "t": "Minerals and States",
-   "l": 3,
-   "s": "generated",
-   "e": "Barytes is produced in large quantities in Andhra Pradesh."
+   "answer": 2,
+   "explanation": "Barytes is produced in large quantities in Andhra Pradesh.",
+   "topic": "Minerals and States",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00467",
-   "q": "Chilika Lake is located in which state?",
-   "o": [
+   "question": "Chilika Lake is located in which state?",
+   "options": [
     "Tamil Nadu, Kerala and Karnataka",
     "Rajasthan",
     "Odisha",
     "Sikkim"
    ],
-   "a": 2,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Chilika Lake is in Odisha."
+   "answer": 2,
+   "explanation": "Chilika Lake is in Odisha.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00468",
-   "q": "What is the capital of Egypt?",
-   "o": [
+   "question": "What is the capital of Egypt?",
+   "options": [
     "Beijing",
     "Nouakchott",
     "Cairo",
     "Reykjavik"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Egypt is Cairo."
+   "answer": 2,
+   "explanation": "The capital of Egypt is Cairo.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00469",
-   "q": "Which element has the chemical symbol Fl?",
-   "o": [
+   "question": "Which element has the chemical symbol Fl?",
+   "options": [
     "Francium",
     "Flerovium",
     "Fermium",
     "Tellurium"
    ],
-   "a": 1,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "Fl is the symbol of Flerovium."
+   "answer": 1,
+   "explanation": "Fl is the symbol of Flerovium.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00470",
-   "q": "What is the capital of Arunachal Pradesh?",
-   "o": [
+   "question": "What is the capital of Arunachal Pradesh?",
+   "options": [
     "Itanagar",
     "Bhubaneswar",
     "Shimla",
     "Dehradun"
    ],
-   "a": 0,
-   "t": "States and Capitals",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Arunachal Pradesh is Itanagar."
+   "answer": 0,
+   "explanation": "The capital of Arunachal Pradesh is Itanagar.",
+   "topic": "States and Capitals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00471",
-   "q": "King Cobra holds which of the following positions in India?",
-   "o": [
+   "question": "King Cobra holds which of the following positions in India?",
+   "options": [
     "National Reptile",
     "National Heritage Animal",
     "National Anthem",
     "National Flower"
    ],
-   "a": 0,
-   "t": "National Symbols",
-   "l": 2,
-   "s": "generated",
-   "e": "King Cobra is the National Reptile of India."
+   "answer": 0,
+   "explanation": "King Cobra is the National Reptile of India.",
+   "topic": "National Symbols",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00472",
-   "q": "First Indian to travel to space is associated with which of the following?",
-   "o": [
+   "question": "First Indian to travel to space is associated with which of the following?",
+   "options": [
     "Reita Faria",
     "Mahesh Bhupathi",
     "Mother Teresa",
     "Rakesh Sharma"
    ],
-   "a": 3,
-   "t": "First in India",
-   "l": 2,
-   "s": "generated",
-   "e": "First Indian to travel to space — Rakesh Sharma."
+   "answer": 3,
+   "explanation": "First Indian to travel to space — Rakesh Sharma.",
+   "topic": "First in India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00473",
-   "q": "Padayani is a folk or classical dance form of which state?",
-   "o": [
+   "question": "Padayani is a folk or classical dance form of which state?",
+   "options": [
     "Odisha",
     "Uttar Pradesh",
     "Kerala",
     "Manipur"
    ],
-   "a": 2,
-   "t": "Folk Dances of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Padayani belongs to Kerala."
+   "answer": 2,
+   "explanation": "Padayani belongs to Kerala.",
+   "topic": "Folk Dances of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00474",
-   "q": "Bihu is a major festival of which state?",
-   "o": [
+   "question": "Bihu is a major festival of which state?",
+   "options": [
     "Bihar",
     "Arunachal Pradesh",
     "Assam",
     "Maharashtra"
    ],
-   "a": 2,
-   "t": "Festivals of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Bihu is celebrated mainly in Assam."
+   "answer": 2,
+   "explanation": "Bihu is celebrated mainly in Assam.",
+   "topic": "Festivals of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00475",
-   "q": "The river Narmada originates from which of the following?",
-   "o": [
+   "question": "The river Narmada originates from which of the following?",
+   "options": [
     "Kudali",
     "Chota Nagpur Plateau",
     "Mahabaleshwar",
     "Amarkantak"
    ],
-   "a": 3,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Narmada originates from Amarkantak."
+   "answer": 3,
+   "explanation": "Narmada originates from Amarkantak.",
+   "topic": "Rivers of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00476",
-   "q": "Baglihar Dam is built on which river?",
-   "o": [
+   "question": "Baglihar Dam is built on which river?",
+   "options": [
     "Narmada",
     "Chenab",
     "Koyna",
     "Periyar"
    ],
-   "a": 1,
-   "t": "Dams of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Baglihar Dam is built on the Chenab."
+   "answer": 1,
+   "explanation": "Baglihar Dam is built on the Chenab.",
+   "topic": "Dams of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00477",
-   "q": "Kanha Tiger Reserve is located in which state?",
-   "o": [
+   "question": "Kanha Tiger Reserve is located in which state?",
+   "options": [
     "Madhya Pradesh",
     "Uttar Pradesh",
     "Assam",
     "Haryana"
    ],
-   "a": 0,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Kanha Tiger Reserve is located in Madhya Pradesh."
+   "answer": 0,
+   "explanation": "Kanha Tiger Reserve is located in Madhya Pradesh.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00478",
-   "q": "Baralacha La pass is located in which state or union territory?",
-   "o": [
+   "question": "Baralacha La pass is located in which state or union territory?",
+   "options": [
     "Jammu and Kashmir",
     "Arunachal Pradesh",
     "Himachal Pradesh",
     "Ladakh"
    ],
-   "a": 2,
-   "t": "Mountain Passes of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Baralacha La is located in Himachal Pradesh."
+   "answer": 2,
+   "explanation": "Baralacha La is located in Himachal Pradesh.",
+   "topic": "Mountain Passes of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00479",
-   "q": "What is the SI unit of Force?",
-   "o": [
+   "question": "What is the SI unit of Force?",
+   "options": [
     "Joule per Kelvin",
     "Farad",
     "Candela",
     "Newton"
    ],
-   "a": 3,
-   "t": "SI Units",
-   "l": 1,
-   "s": "generated",
-   "e": "The SI unit of Force is the Newton."
+   "answer": 3,
+   "explanation": "The SI unit of Force is the Newton.",
+   "topic": "SI Units",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00480",
-   "q": "Which instrument is used to measure Humidity?",
-   "o": [
+   "question": "Which instrument is used to measure Humidity?",
+   "options": [
     "Manometer",
     "Stethoscope",
     "Spherometer",
     "Hygrometer"
    ],
-   "a": 3,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Hygrometer is used to measure Humidity."
+   "answer": 3,
+   "explanation": "Hygrometer is used to measure Humidity.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00481",
-   "q": "Deficiency of which nutrient causes Anaemia and bone disorders?",
-   "o": [
+   "question": "Deficiency of which nutrient causes Anaemia and bone disorders?",
+   "options": [
     "Iron",
     "Vitamin B2",
     "Vitamin C",
     "Copper"
    ],
-   "a": 3,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Copper causes Anaemia and bone disorders."
+   "answer": 3,
+   "explanation": "Deficiency of Copper causes Anaemia and bone disorders.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00482",
-   "q": "Who is credited with Quantum theory?",
-   "o": [
+   "question": "Who is credited with Quantum theory?",
+   "options": [
     "Max Planck",
     "Dmitri Mendeleev",
     "Karl Landsteiner",
     "Watson and Crick"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Quantum theory — Max Planck."
+   "answer": 0,
+   "explanation": "Quantum theory — Max Planck.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00483",
-   "q": "What is the chemical name of Washing soda?",
-   "o": [
+   "question": "What is the chemical name of Washing soda?",
+   "options": [
     "Potassium hydroxide (KOH)",
     "Calcium hydroxide (Ca(OH)2)",
     "Ethanol (C2H5OH)",
     "Sodium carbonate (Na2CO3)"
    ],
-   "a": 3,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Washing soda is Sodium carbonate (Na2CO3)."
+   "answer": 3,
+   "explanation": "Washing soda is Sodium carbonate (Na2CO3).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00484",
-   "q": "Which branch of science deals with Radiant energy in medicine?",
-   "o": [
+   "question": "Which branch of science deals with Radiant energy in medicine?",
+   "options": [
     "Radiology",
     "Dermatology",
     "Optics",
     "Acoustics"
    ],
-   "a": 0,
-   "t": "Branches of Science",
-   "l": 2,
-   "s": "generated",
-   "e": "Radiology deals with Radiant energy in medicine."
+   "answer": 0,
+   "explanation": "Radiology deals with Radiant energy in medicine.",
+   "topic": "Branches of Science",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00485",
-   "q": "Which planet or body is described as: Jupiter?",
-   "o": [
+   "question": "Which planet or body is described as: Jupiter?",
+   "options": [
     "Europa",
     "Ganymede",
     "Black hole",
     "Supernova"
    ],
-   "a": 0,
-   "t": "Astronomy",
-   "l": 2,
-   "s": "generated",
-   "e": "Europa — Jupiter."
+   "answer": 0,
+   "explanation": "Europa — Jupiter.",
+   "topic": "Astronomy",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00486",
-   "q": "Hargobind Khorana is known for which of the following?",
-   "o": [
+   "question": "Hargobind Khorana is known for which of the following?",
+   "options": [
     "Synthesis of nucleic acids",
     "Phonograph and practical electric bulb",
     "Raman effect",
     "Bose-Einstein statistics"
    ],
-   "a": 0,
-   "t": "Scientists",
-   "l": 2,
-   "s": "generated",
-   "e": "Hargobind Khorana is known for Synthesis of nucleic acids."
+   "answer": 0,
+   "explanation": "Hargobind Khorana is known for Synthesis of nucleic acids.",
+   "topic": "Scientists",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00487",
-   "q": "Comptroller and Auditor General is best described as which of the following?",
-   "o": [
+   "question": "Comptroller and Auditor General is best described as which of the following?",
+   "options": [
     "Regulator of the insurance sector",
     "Constitutional head of a State",
     "Supervises elections to Parliament and State legislatures",
     "Audits government accounts"
    ],
-   "a": 3,
-   "t": "Institutions of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Comptroller and Auditor General — Audits government accounts."
+   "answer": 3,
+   "explanation": "Comptroller and Auditor General — Audits government accounts.",
+   "topic": "Institutions of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00488",
-   "q": "On which date is World Mental Health Day observed?",
-   "o": [
+   "question": "On which date is World Mental Health Day observed?",
+   "options": [
     "8 May",
     "29 August",
     "10 October",
     "23 April"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Mental Health Day is observed on 10 October."
+   "answer": 2,
+   "explanation": "World Mental Health Day is observed on 10 October.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00489",
-   "q": "Where is the headquarters of FIFA?",
-   "o": [
+   "question": "Where is the headquarters of FIFA?",
+   "options": [
     "Geneva",
     "Rome",
     "Shanghai",
     "Zurich"
    ],
-   "a": 3,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "FIFA is headquartered at Zurich."
+   "answer": 3,
+   "explanation": "FIFA is headquartered at Zurich.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00490",
-   "q": "French Open is associated with which sport?",
-   "o": [
+   "question": "French Open is associated with which sport?",
+   "options": [
     "Cricket",
     "Badminton",
     "Multi-sport",
     "Tennis"
    ],
-   "a": 3,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "French Open is associated with Tennis."
+   "answer": 3,
+   "explanation": "French Open is associated with Tennis.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00491",
-   "q": "Maha Vir Chakra is associated with which of the following?",
-   "o": [
+   "question": "Maha Vir Chakra is associated with which of the following?",
+   "options": [
     "British award for fiction",
     "Third highest peacetime gallantry award of India",
     "Second highest military decoration of India",
     "Indian award for research"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Maha Vir Chakra — Second highest military decoration of India."
+   "answer": 2,
+   "explanation": "Maha Vir Chakra — Second highest military decoration of India.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00492",
-   "q": "First Asian to win a Nobel Prize is associated with which of the following?",
-   "o": [
+   "question": "First Asian to win a Nobel Prize is associated with which of the following?",
+   "options": [
     "Valentina Tereshkova",
     "Roger Bannister",
     "England",
     "Rabindranath Tagore"
    ],
-   "a": 3,
-   "t": "First in the World",
-   "l": 2,
-   "s": "generated",
-   "e": "First Asian to win a Nobel Prize — Rabindranath Tagore."
+   "answer": 3,
+   "explanation": "First Asian to win a Nobel Prize — Rabindranath Tagore.",
+   "topic": "First in the World",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00493",
-   "q": "Which is the highest peak in the Himalayan range in India?",
-   "o": [
+   "question": "Which is the highest peak in the Himalayan range in India?",
+   "options": [
     "Jamshedpur",
     "Kanchenjunga",
     "South China Sea",
     "Punjab"
    ],
-   "a": 1,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 1,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00494",
-   "q": "Which of the following is true about Saline soil?",
-   "o": [
+   "question": "Which of the following is true about Saline soil?",
+   "options": [
     "Contains excess salt, found in dry coastal areas",
     "Sandy soil of arid regions",
     "Formed by leaching in high rainfall areas",
     "Found in hilly and forest regions"
    ],
-   "a": 0,
-   "t": "Soils of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Saline soil: Contains excess salt, found in dry coastal areas."
+   "answer": 0,
+   "explanation": "Saline soil: Contains excess salt, found in dry coastal areas.",
+   "topic": "Soils of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00495",
-   "q": "Which Indian state is a major producer of Graphite?",
-   "o": [
+   "question": "Which Indian state is a major producer of Graphite?",
+   "options": [
     "Jharkhand",
     "Odisha",
     "Rajasthan",
     "Madhya Pradesh"
    ],
-   "a": 1,
-   "t": "Minerals and States",
-   "l": 3,
-   "s": "generated",
-   "e": "Graphite is produced in large quantities in Odisha."
+   "answer": 1,
+   "explanation": "Graphite is produced in large quantities in Odisha.",
+   "topic": "Minerals and States",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00496",
-   "q": "Keoladeo Ghana is located in which state?",
-   "o": [
+   "question": "Keoladeo Ghana is located in which state?",
+   "options": [
     "Jammu and Kashmir",
     "Rajasthan",
     "Andaman and Nicobar Islands",
     "Kerala and Tamil Nadu"
    ],
-   "a": 1,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Keoladeo Ghana is in Rajasthan."
+   "answer": 1,
+   "explanation": "Keoladeo Ghana is in Rajasthan.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00497",
-   "q": "What is the capital of Hungary?",
-   "o": [
+   "question": "What is the capital of Hungary?",
+   "options": [
     "San Marino",
     "Budapest",
     "Port of Spain",
     "New Delhi"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Hungary is Budapest."
+   "answer": 1,
+   "explanation": "The capital of Hungary is Budapest.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00498",
-   "q": "Which element has the chemical symbol Mg?",
-   "o": [
+   "question": "Which element has the chemical symbol Mg?",
+   "options": [
     "Magnesium",
     "Nickel",
     "Vanadium",
     "Oganesson"
    ],
-   "a": 0,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "Mg is the symbol of Magnesium."
+   "answer": 0,
+   "explanation": "Mg is the symbol of Magnesium.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00499",
-   "q": "What is the capital of Andhra Pradesh?",
-   "o": [
+   "question": "What is the capital of Andhra Pradesh?",
+   "options": [
     "Shillong",
     "Amaravati",
     "Chennai",
     "Bhubaneswar"
    ],
-   "a": 1,
-   "t": "States and Capitals",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Andhra Pradesh is Amaravati."
+   "answer": 1,
+   "explanation": "The capital of Andhra Pradesh is Amaravati.",
+   "topic": "States and Capitals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00500",
-   "q": "Saka Calendar holds which of the following positions in India?",
-   "o": [
+   "question": "Saka Calendar holds which of the following positions in India?",
+   "options": [
     "National Currency",
     "National Anthem",
     "National Aquatic Animal",
     "National Calendar"
    ],
-   "a": 3,
-   "t": "National Symbols",
-   "l": 2,
-   "s": "generated",
-   "e": "Saka Calendar is the National Calendar of India."
+   "answer": 3,
+   "explanation": "Saka Calendar is the National Calendar of India.",
+   "topic": "National Symbols",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00501",
-   "q": "First Speaker of the Lok Sabha is associated with which of the following?",
-   "o": [
+   "question": "First Speaker of the Lok Sabha is associated with which of the following?",
+   "options": [
     "Bombay and Thane",
     "Karnam Malleswari",
     "Dr. Rajendra Prasad",
     "G. V. Mavalankar"
    ],
-   "a": 3,
-   "t": "First in India",
-   "l": 2,
-   "s": "generated",
-   "e": "First Speaker of the Lok Sabha — G. V. Mavalankar."
+   "answer": 3,
+   "explanation": "First Speaker of the Lok Sabha — G. V. Mavalankar.",
+   "topic": "First in India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00502",
-   "q": "Bihu is a folk or classical dance form of which state?",
-   "o": [
+   "question": "Bihu is a folk or classical dance form of which state?",
+   "options": [
     "Punjab",
     "Himachal Pradesh",
     "Assam",
     "Kerala"
    ],
-   "a": 2,
-   "t": "Folk Dances of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Bihu belongs to Assam."
+   "answer": 2,
+   "explanation": "Bihu belongs to Assam.",
+   "topic": "Folk Dances of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00503",
-   "q": "Karam is a major festival of which state?",
-   "o": [
+   "question": "Karam is a major festival of which state?",
+   "options": [
     "Rajasthan",
     "Madhya Pradesh",
     "Jharkhand",
     "Arunachal Pradesh"
    ],
-   "a": 2,
-   "t": "Festivals of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Karam is celebrated mainly in Jharkhand."
+   "answer": 2,
+   "explanation": "Karam is celebrated mainly in Jharkhand.",
+   "topic": "Festivals of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00504",
-   "q": "The river Jhelum originates from which of the following?",
-   "o": [
+   "question": "The river Jhelum originates from which of the following?",
+   "options": [
     "Vindhya Range",
     "Mapchachungo",
     "Gangotri Glacier",
     "Verinag"
    ],
-   "a": 3,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Jhelum originates from Verinag."
+   "answer": 3,
+   "explanation": "Jhelum originates from Verinag.",
+   "topic": "Rivers of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00505",
-   "q": "Mettur Dam is built on which river?",
-   "o": [
+   "question": "Mettur Dam is built on which river?",
+   "options": [
     "Krishna",
     "Narmada",
     "Bhavani",
     "Kaveri"
    ],
-   "a": 3,
-   "t": "Dams of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Mettur Dam is built on the Kaveri."
+   "answer": 3,
+   "explanation": "Mettur Dam is built on the Kaveri.",
+   "topic": "Dams of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00506",
-   "q": "Guru Ghasidas National Park is located in which state?",
-   "o": [
+   "question": "Guru Ghasidas National Park is located in which state?",
+   "options": [
     "Jammu and Kashmir",
     "Madhya Pradesh",
     "Chhattisgarh",
     "Meghalaya"
    ],
-   "a": 2,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Guru Ghasidas National Park is located in Chhattisgarh."
+   "answer": 2,
+   "explanation": "Guru Ghasidas National Park is located in Chhattisgarh.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00507",
-   "q": "Pangsau Pass pass is located in which state or union territory?",
-   "o": [
+   "question": "Pangsau Pass pass is located in which state or union territory?",
+   "options": [
     "Jammu and Kashmir",
     "Sikkim",
     "Tamil Nadu",
     "Arunachal Pradesh"
    ],
-   "a": 3,
-   "t": "Mountain Passes of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Pangsau Pass is located in Arunachal Pradesh."
+   "answer": 3,
+   "explanation": "Pangsau Pass is located in Arunachal Pradesh.",
+   "topic": "Mountain Passes of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00508",
-   "q": "What is the SI unit of Electrical resistance?",
-   "o": [
+   "question": "What is the SI unit of Electrical resistance?",
+   "options": [
     "Becquerel",
     "Weber",
     "Metre",
     "Ohm"
    ],
-   "a": 3,
-   "t": "SI Units",
-   "l": 1,
-   "s": "generated",
-   "e": "The SI unit of Electrical resistance is the Ohm."
+   "answer": 3,
+   "explanation": "The SI unit of Electrical resistance is the Ohm.",
+   "topic": "SI Units",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00509",
-   "q": "Which instrument is used to measure Magnified view of tiny objects?",
-   "o": [
+   "question": "Which instrument is used to measure Magnified view of tiny objects?",
+   "options": [
     "Fathometer",
     "Kymograph",
     "Potometer",
     "Microscope"
    ],
-   "a": 3,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Microscope is used to measure Magnified view of tiny objects."
+   "answer": 3,
+   "explanation": "Microscope is used to measure Magnified view of tiny objects.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00510",
-   "q": "Deficiency of which nutrient causes Scurvy?",
-   "o": [
+   "question": "Deficiency of which nutrient causes Scurvy?",
+   "options": [
     "Vitamin C",
     "Vitamin B7",
     "Copper",
     "Vitamin B2"
    ],
-   "a": 0,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Vitamin C causes Scurvy."
+   "answer": 0,
+   "explanation": "Deficiency of Vitamin C causes Scurvy.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00511",
-   "q": "Who is credited with Oxygen?",
-   "o": [
+   "question": "Who is credited with Oxygen?",
+   "options": [
     "Joseph Priestley",
     "Michael Faraday",
     "Edward Jenner",
     "Marie Curie"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Oxygen — Joseph Priestley."
+   "answer": 0,
+   "explanation": "Oxygen — Joseph Priestley.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00512",
-   "q": "What is the chemical name of Bleaching powder?",
-   "o": [
+   "question": "What is the chemical name of Bleaching powder?",
+   "options": [
     "Potassium nitrate (KNO3)",
     "Aqueous formaldehyde (HCHO)",
     "Trinitrotoluene",
     "Calcium oxychloride (CaOCl2)"
    ],
-   "a": 3,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Bleaching powder is Calcium oxychloride (CaOCl2)."
+   "answer": 3,
+   "explanation": "Bleaching powder is Calcium oxychloride (CaOCl2).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00513",
-   "q": "Which branch of science deals with Coins?",
-   "o": [
+   "question": "Which branch of science deals with Coins?",
+   "options": [
     "Numismatics",
     "Sericulture",
     "Ecology",
     "Microbiology"
    ],
-   "a": 0,
-   "t": "Branches of Science",
-   "l": 2,
-   "s": "generated",
-   "e": "Numismatics deals with Coins."
+   "answer": 0,
+   "explanation": "Numismatics deals with Coins.",
+   "topic": "Branches of Science",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00514",
-   "q": "Which planet or body is described as: Light year?",
-   "o": [
+   "question": "Which planet or body is described as: Light year?",
+   "options": [
     "Light year",
     "Mercury",
     "Neptune",
     "Earth"
    ],
-   "a": 0,
-   "t": "Astronomy",
-   "l": 2,
-   "s": "generated",
-   "e": "Light year — Light year."
+   "answer": 0,
+   "explanation": "Light year — Light year.",
+   "topic": "Astronomy",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00515",
-   "q": "Jagadish Chandra Bose is known for which of the following?",
-   "o": [
+   "question": "Jagadish Chandra Bose is known for which of the following?",
+   "options": [
     "Plant physiology and radio waves",
     "Ornithology in India",
     "Bacteriology and tuberculosis bacillus",
     "Electromagnetic induction"
    ],
-   "a": 0,
-   "t": "Scientists",
-   "l": 2,
-   "s": "generated",
-   "e": "Jagadish Chandra Bose is known for Plant physiology and radio waves."
+   "answer": 0,
+   "explanation": "Jagadish Chandra Bose is known for Plant physiology and radio waves.",
+   "topic": "Scientists",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00516",
-   "q": "Solicitor General of India is best described as which of the following?",
-   "o": [
+   "question": "Solicitor General of India is best described as which of the following?",
+   "options": [
     "Local self-government in urban areas",
     "Head of the State Government",
     "Constitutional head of the Republic",
     "Second highest law officer of the Union"
    ],
-   "a": 3,
-   "t": "Institutions of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Solicitor General of India — Second highest law officer of the Union."
+   "answer": 3,
+   "explanation": "Solicitor General of India — Second highest law officer of the Union.",
+   "topic": "Institutions of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00517",
-   "q": "On which date is World Habitat Day observed?",
-   "o": [
+   "question": "On which date is World Habitat Day observed?",
+   "options": [
     "first Monday of October",
     "15 September",
     "31 May",
     "1 November"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Habitat Day is observed on first Monday of October."
+   "answer": 0,
+   "explanation": "World Habitat Day is observed on first Monday of October.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00518",
-   "q": "Where is the headquarters of World Anti-Doping Agency?",
-   "o": [
+   "question": "Where is the headquarters of World Anti-Doping Agency?",
+   "options": [
     "Shanghai",
     "New York",
     "Montreal",
     "Bengaluru"
    ],
-   "a": 2,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "World Anti-Doping Agency is headquartered at Montreal."
+   "answer": 2,
+   "explanation": "World Anti-Doping Agency is headquartered at Montreal.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00519",
-   "q": "Sangeet Natak Akademi Award is associated with which of the following?",
-   "o": [
+   "question": "Sangeet Natak Akademi Award is associated with which of the following?",
+   "options": [
     "Second highest peacetime gallantry award of India",
     "Performing arts award of India",
     "Highest military decoration of India",
     "Outstanding performance in Indian sports"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Sangeet Natak Akademi Award — Performing arts award of India."
+   "answer": 1,
+   "explanation": "Sangeet Natak Akademi Award — Performing arts award of India.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00520",
-   "q": "First Indian to win a Nobel Prize is associated with which of the following?",
-   "o": [
+   "question": "First Indian to win a Nobel Prize is associated with which of the following?",
+   "options": [
     "Marie Curie",
     "Abhinav Bindra",
     "United States of America",
     "Rabindranath Tagore"
    ],
-   "a": 3,
-   "t": "First in the World",
-   "l": 2,
-   "s": "generated",
-   "e": "First Indian to win a Nobel Prize — Rabindranath Tagore."
+   "answer": 3,
+   "explanation": "First Indian to win a Nobel Prize — Rabindranath Tagore.",
+   "topic": "First in the World",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00521",
-   "q": "Which is the largest peninsula in the world?",
-   "o": [
+   "question": "Which is the largest peninsula in the world?",
+   "options": [
     "Yangtze",
     "Anamudi",
     "Arabian Peninsula",
     "Kanchenjunga"
    ],
-   "a": 2,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 2,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00522",
-   "q": "Which of the following pairs of soil and feature is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of soil and feature is correctly matched?",
+   "options": [
     "Black soil - Also called regur, ideal for cotton",
     "Black soil - Most fertile soil, found in the northern plains",
     "Black soil - Formed by leaching in high rainfall areas",
     "Black soil - Sandy soil of arid regions"
    ],
-   "a": 0,
-   "t": "Soils of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Black soil - Also called regur, ideal for cotton is correctly matched."
+   "answer": 0,
+   "explanation": "Only Black soil - Also called regur, ideal for cotton is correctly matched.",
+   "topic": "Soils of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00523",
-   "q": "Which Indian state is a major producer of Gold?",
-   "o": [
+   "question": "Which Indian state is a major producer of Gold?",
+   "options": [
     "Maharashtra",
     "Rajasthan",
     "Jharkhand",
     "Karnataka"
    ],
-   "a": 3,
-   "t": "Minerals and States",
-   "l": 3,
-   "s": "generated",
-   "e": "Gold is produced in large quantities in Karnataka."
+   "answer": 3,
+   "explanation": "Gold is produced in large quantities in Karnataka.",
+   "topic": "Minerals and States",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00524",
-   "q": "Achanakmar Amarkantak Biosphere Reserve is located in which state?",
-   "o": [
+   "question": "Achanakmar Amarkantak Biosphere Reserve is located in which state?",
+   "options": [
     "Assam",
     "Manipur",
     "Sikkim",
     "Madhya Pradesh and Chhattisgarh"
    ],
-   "a": 3,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Achanakmar Amarkantak Biosphere Reserve is in Madhya Pradesh and Chhattisgarh."
+   "answer": 3,
+   "explanation": "Achanakmar Amarkantak Biosphere Reserve is in Madhya Pradesh and Chhattisgarh.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00525",
-   "q": "What is the capital of Paraguay?",
-   "o": [
+   "question": "What is the capital of Paraguay?",
+   "options": [
     "Dhaka",
     "Banjul",
     "Sarajevo",
     "Asuncion"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Paraguay is Asuncion."
+   "answer": 3,
+   "explanation": "The capital of Paraguay is Asuncion.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00526",
-   "q": "Which element has the chemical symbol Ca?",
-   "o": [
+   "question": "Which element has the chemical symbol Ca?",
+   "options": [
     "Ytterbium",
     "Calcium",
     "Krypton",
     "Chromium"
    ],
-   "a": 1,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "Ca is the symbol of Calcium."
+   "answer": 1,
+   "explanation": "Ca is the symbol of Calcium.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00527",
-   "q": "What is the capital of Himachal Pradesh?",
-   "o": [
+   "question": "What is the capital of Himachal Pradesh?",
+   "options": [
     "Amaravati",
     "Bhubaneswar",
     "Shimla",
     "Jaipur"
    ],
-   "a": 2,
-   "t": "States and Capitals",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Himachal Pradesh is Shimla."
+   "answer": 2,
+   "explanation": "The capital of Himachal Pradesh is Shimla.",
+   "topic": "States and Capitals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00528",
-   "q": "Lotus holds which of the following positions in India?",
-   "o": [
+   "question": "Lotus holds which of the following positions in India?",
+   "options": [
     "National Calendar",
     "National Flower",
     "National Anthem",
     "National Song"
    ],
-   "a": 1,
-   "t": "National Symbols",
-   "l": 2,
-   "s": "generated",
-   "e": "Lotus is the National Flower of India."
+   "answer": 1,
+   "explanation": "Lotus is the National Flower of India.",
+   "topic": "National Symbols",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00529",
-   "q": "First Indian woman to win an Olympic medal is associated with which of the following?",
-   "o": [
+   "question": "First Indian woman to win an Olympic medal is associated with which of the following?",
+   "options": [
     "H. J. Kania",
     "Mahesh Bhupathi",
     "Rakesh Sharma",
     "Karnam Malleswari"
    ],
-   "a": 3,
-   "t": "First in India",
-   "l": 2,
-   "s": "generated",
-   "e": "First Indian woman to win an Olympic medal — Karnam Malleswari."
+   "answer": 3,
+   "explanation": "First Indian woman to win an Olympic medal — Karnam Malleswari.",
+   "topic": "First in India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00530",
-   "q": "Kathakali is a folk or classical dance form of which state?",
-   "o": [
+   "question": "Kathakali is a folk or classical dance form of which state?",
+   "options": [
     "Punjab",
     "Karnataka",
     "Kerala",
     "Assam"
    ],
-   "a": 2,
-   "t": "Folk Dances of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Kathakali belongs to Kerala."
+   "answer": 2,
+   "explanation": "Kathakali belongs to Kerala.",
+   "topic": "Folk Dances of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00531",
-   "q": "Ratha Yatra is a major festival of which state?",
-   "o": [
+   "question": "Ratha Yatra is a major festival of which state?",
+   "options": [
     "Odisha",
     "Kerala",
     "Madhya Pradesh",
     "Jharkhand"
    ],
-   "a": 0,
-   "t": "Festivals of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Ratha Yatra is celebrated mainly in Odisha."
+   "answer": 0,
+   "explanation": "Ratha Yatra is celebrated mainly in Odisha.",
+   "topic": "Festivals of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00532",
-   "q": "The river Ghaghara originates from which of the following?",
-   "o": [
+   "question": "The river Ghaghara originates from which of the following?",
+   "options": [
     "Baralacha La",
     "Chota Nagpur Plateau",
     "Amarkantak",
     "Mapchachungo"
    ],
-   "a": 3,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Ghaghara originates from Mapchachungo."
+   "answer": 3,
+   "explanation": "Ghaghara originates from Mapchachungo.",
+   "topic": "Rivers of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00533",
-   "q": "Tehri Dam is built on which river?",
-   "o": [
+   "question": "Tehri Dam is built on which river?",
+   "options": [
     "Narmada",
     "Bhagirathi",
     "Ganga",
     "Krishna"
    ],
-   "a": 1,
-   "t": "Dams of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Tehri Dam is built on the Bhagirathi."
+   "answer": 1,
+   "explanation": "Tehri Dam is built on the Bhagirathi.",
+   "topic": "Dams of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00534",
-   "q": "Sultanpur National Park is located in which state?",
-   "o": [
+   "question": "Sultanpur National Park is located in which state?",
+   "options": [
     "Rajasthan",
     "Chhattisgarh",
     "Karnataka",
     "Haryana"
    ],
-   "a": 3,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Sultanpur National Park is located in Haryana."
+   "answer": 3,
+   "explanation": "Sultanpur National Park is located in Haryana.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00535",
-   "q": "Niti Pass pass is located in which state or union territory?",
-   "o": [
+   "question": "Niti Pass pass is located in which state or union territory?",
+   "options": [
     "Uttarakhand",
     "Maharashtra",
     "Andhra Pradesh",
     "Ladakh"
    ],
-   "a": 0,
-   "t": "Mountain Passes of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Niti Pass is located in Uttarakhand."
+   "answer": 0,
+   "explanation": "Niti Pass is located in Uttarakhand.",
+   "topic": "Mountain Passes of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00536",
-   "q": "What is the SI unit of Magnetic flux?",
-   "o": [
+   "question": "What is the SI unit of Magnetic flux?",
+   "options": [
     "Volt",
     "Farad",
     "Newton",
     "Weber"
    ],
-   "a": 3,
-   "t": "SI Units",
-   "l": 1,
-   "s": "generated",
-   "e": "The SI unit of Magnetic flux is the Weber."
+   "answer": 3,
+   "explanation": "The SI unit of Magnetic flux is the Weber.",
+   "topic": "SI Units",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00537",
-   "q": "Which instrument is used to measure Temperature?",
-   "o": [
+   "question": "Which instrument is used to measure Temperature?",
+   "options": [
     "Hygrometer",
     "Thermometer",
     "Fathometer",
     "Speedometer"
    ],
-   "a": 1,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Thermometer is used to measure Temperature."
+   "answer": 1,
+   "explanation": "Thermometer is used to measure Temperature.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00538",
-   "q": "Deficiency of which nutrient causes Excessive bleeding?",
-   "o": [
+   "question": "Deficiency of which nutrient causes Excessive bleeding?",
+   "options": [
     "Vitamin K",
     "Vitamin D",
     "Iron",
     "Iodine"
    ],
-   "a": 0,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Vitamin K causes Excessive bleeding."
+   "answer": 0,
+   "explanation": "Deficiency of Vitamin K causes Excessive bleeding.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00539",
-   "q": "Who is credited with Law of heredity?",
-   "o": [
+   "question": "Who is credited with Law of heredity?",
+   "options": [
     "Charles Darwin",
     "Gregor Mendel",
     "Karl Landsteiner",
     "Isaac Newton"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Law of heredity — Gregor Mendel."
+   "answer": 1,
+   "explanation": "Law of heredity — Gregor Mendel.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00540",
-   "q": "What is the chemical name of Baking soda?",
-   "o": [
+   "question": "What is the chemical name of Baking soda?",
+   "options": [
     "Sodium carbonate (Na2CO3)",
     "Sodium bicarbonate (NaHCO3)",
     "Potassium nitrate (KNO3)",
     "Magnesium sulphate (MgSO4.7H2O)"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Baking soda is Sodium bicarbonate (NaHCO3)."
+   "answer": 1,
+   "explanation": "Baking soda is Sodium bicarbonate (NaHCO3).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00541",
-   "q": "Which branch of science deals with Earthquakes?",
-   "o": [
+   "question": "Which branch of science deals with Earthquakes?",
+   "options": [
     "Meteorology",
     "Seismology",
     "Optics",
     "Astronomy"
    ],
-   "a": 1,
-   "t": "Branches of Science",
-   "l": 2,
-   "s": "generated",
-   "e": "Seismology deals with Earthquakes."
+   "answer": 1,
+   "explanation": "Seismology deals with Earthquakes.",
+   "topic": "Branches of Science",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00542",
-   "q": "Which planet or body is described as: Asteroid?",
-   "o": [
+   "question": "Which planet or body is described as: Asteroid?",
+   "options": [
     "Uranus",
     "Asteroid",
     "Black hole",
     "Mars"
    ],
-   "a": 1,
-   "t": "Astronomy",
-   "l": 2,
-   "s": "generated",
-   "e": "Asteroid — Asteroid."
+   "answer": 1,
+   "explanation": "Asteroid — Asteroid.",
+   "topic": "Astronomy",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00543",
-   "q": "Antoine Lavoisier is known for which of the following?",
-   "o": [
+   "question": "Antoine Lavoisier is known for which of the following?",
+   "options": [
     "Nuclear model of the atom",
     "Father of modern chemistry",
     "Raman effect",
     "Electromagnetic theory"
    ],
-   "a": 1,
-   "t": "Scientists",
-   "l": 2,
-   "s": "generated",
-   "e": "Antoine Lavoisier is known for Father of modern chemistry."
+   "answer": 1,
+   "explanation": "Antoine Lavoisier is known for Father of modern chemistry.",
+   "topic": "Scientists",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00544",
-   "q": "Chief Minister is best described as which of the following?",
-   "o": [
+   "question": "Chief Minister is best described as which of the following?",
+   "options": [
     "Chief legal adviser to the Government of India",
     "Constitutional head of a State",
     "Audits government accounts",
     "Head of the State Government"
    ],
-   "a": 3,
-   "t": "Institutions of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Chief Minister — Head of the State Government."
+   "answer": 3,
+   "explanation": "Chief Minister — Head of the State Government.",
+   "topic": "Institutions of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00545",
-   "q": "On which date is World Press Freedom Day observed?",
-   "o": [
+   "question": "On which date is World Press Freedom Day observed?",
+   "options": [
     "11 December",
     "5 June",
     "3 March",
     "3 May"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Press Freedom Day is observed on 3 May."
+   "answer": 3,
+   "explanation": "World Press Freedom Day is observed on 3 May.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00546",
-   "q": "Where is the headquarters of Universal Postal Union?",
-   "o": [
+   "question": "Where is the headquarters of Universal Postal Union?",
+   "options": [
     "Bern",
     "Geneva",
     "Montreal",
     "Washington, D.C."
    ],
-   "a": 0,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "Universal Postal Union is headquartered at Bern."
+   "answer": 0,
+   "explanation": "Universal Postal Union is headquartered at Bern.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00547",
-   "q": "Kirti Chakra is associated with which of the following?",
-   "o": [
+   "question": "Kirti Chakra is associated with which of the following?",
+   "options": [
     "Second highest civilian award of India",
     "Indian award for research",
     "Third highest military decoration of India",
     "Second highest peacetime gallantry award of India"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Kirti Chakra — Second highest peacetime gallantry award of India."
+   "answer": 3,
+   "explanation": "Kirti Chakra — Second highest peacetime gallantry award of India.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00548",
-   "q": "First woman to fly solo across the Atlantic is associated with which of the following?",
-   "o": [
+   "question": "First woman to fly solo across the Atlantic is associated with which of the following?",
+   "options": [
     "United States of America",
     "Valentina Tereshkova",
     "Athens",
     "Amelia Earhart"
    ],
-   "a": 3,
-   "t": "First in the World",
-   "l": 2,
-   "s": "generated",
-   "e": "First woman to fly solo across the Atlantic — Amelia Earhart."
+   "answer": 3,
+   "explanation": "First woman to fly solo across the Atlantic — Amelia Earhart.",
+   "topic": "First in the World",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00549",
-   "q": "Which Indian state has the longest coastline?",
-   "o": [
+   "question": "Which Indian state has the longest coastline?",
+   "options": [
     "Equator",
     "Gujarat",
     "Norway",
     "Angel Falls"
    ],
-   "a": 1,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 1,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00550",
-   "q": "Which of the following pairs of soil and feature is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of soil and feature is correctly matched?",
+   "options": [
     "Black soil - Sandy soil of arid regions",
     "Black soil - Formed by leaching in high rainfall areas",
     "Black soil - Also called regur, ideal for cotton",
     "Black soil - Contains excess salt, found in dry coastal areas"
    ],
-   "a": 2,
-   "t": "Soils of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Black soil - Also called regur, ideal for cotton is correctly matched."
+   "answer": 2,
+   "explanation": "Only Black soil - Also called regur, ideal for cotton is correctly matched.",
+   "topic": "Soils of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00551",
-   "q": "Which Indian state is a major producer of Copper?",
-   "o": [
+   "question": "Which Indian state is a major producer of Copper?",
+   "options": [
     "Odisha",
     "Rajasthan",
     "Madhya Pradesh",
     "Maharashtra"
    ],
-   "a": 1,
-   "t": "Minerals and States",
-   "l": 3,
-   "s": "generated",
-   "e": "Copper is produced in large quantities in Rajasthan."
+   "answer": 1,
+   "explanation": "Copper is produced in large quantities in Rajasthan.",
+   "topic": "Minerals and States",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00552",
-   "q": "Simlipal Biosphere Reserve is located in which state?",
-   "o": [
+   "question": "Simlipal Biosphere Reserve is located in which state?",
+   "options": [
     "Tamil Nadu",
     "Odisha",
     "Madhya Pradesh",
     "Assam"
    ],
-   "a": 1,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Simlipal Biosphere Reserve is in Odisha."
+   "answer": 1,
+   "explanation": "Simlipal Biosphere Reserve is in Odisha.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00553",
-   "q": "What is the capital of Mozambique?",
-   "o": [
+   "question": "What is the capital of Mozambique?",
+   "options": [
     "Addis Ababa",
     "Maputo",
     "Bamako",
     "Podgorica"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Mozambique is Maputo."
+   "answer": 1,
+   "explanation": "The capital of Mozambique is Maputo.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00554",
-   "q": "Which element has the chemical symbol Be?",
-   "o": [
+   "question": "Which element has the chemical symbol Be?",
+   "options": [
     "Lutetium",
     "Beryllium",
     "Thorium",
     "Europium"
    ],
-   "a": 1,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "Be is the symbol of Beryllium."
+   "answer": 1,
+   "explanation": "Be is the symbol of Beryllium.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00555",
-   "q": "What is the capital of Gujarat?",
-   "o": [
+   "question": "What is the capital of Gujarat?",
+   "options": [
     "Shillong",
     "Gandhinagar",
     "Chandigarh",
     "Dehradun"
    ],
-   "a": 1,
-   "t": "States and Capitals",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Gujarat is Gandhinagar."
+   "answer": 1,
+   "explanation": "The capital of Gujarat is Gandhinagar.",
+   "topic": "States and Capitals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00556",
-   "q": "Bengal Tiger holds which of the following positions in India?",
-   "o": [
+   "question": "Bengal Tiger holds which of the following positions in India?",
+   "options": [
     "National Calendar",
     "National Fruit",
     "National Animal",
     "National Reptile"
    ],
-   "a": 2,
-   "t": "National Symbols",
-   "l": 2,
-   "s": "generated",
-   "e": "Bengal Tiger is the National Animal of India."
+   "answer": 2,
+   "explanation": "Bengal Tiger is the National Animal of India.",
+   "topic": "National Symbols",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00557",
-   "q": "First Chief Justice of India is associated with which of the following?",
-   "o": [
+   "question": "First Chief Justice of India is associated with which of the following?",
+   "options": [
     "H. J. Kania",
     "Jawaharlal Nehru",
     "Kharagpur",
     "Kalpana Chawla"
    ],
-   "a": 0,
-   "t": "First in India",
-   "l": 2,
-   "s": "generated",
-   "e": "First Chief Justice of India — H. J. Kania."
+   "answer": 0,
+   "explanation": "First Chief Justice of India — H. J. Kania.",
+   "topic": "First in India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00558",
-   "q": "Rouf is a folk or classical dance form of which state?",
-   "o": [
+   "question": "Rouf is a folk or classical dance form of which state?",
+   "options": [
     "Tamil Nadu",
     "Jammu and Kashmir",
     "Andhra Pradesh",
     "Haryana"
    ],
-   "a": 1,
-   "t": "Folk Dances of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Rouf belongs to Jammu and Kashmir."
+   "answer": 1,
+   "explanation": "Rouf belongs to Jammu and Kashmir.",
+   "topic": "Folk Dances of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00559",
-   "q": "Desert Festival is a major festival of which state?",
-   "o": [
+   "question": "Desert Festival is a major festival of which state?",
+   "options": [
     "Madhya Pradesh",
     "Kerala",
     "Rajasthan",
     "Jharkhand"
    ],
-   "a": 2,
-   "t": "Festivals of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Desert Festival is celebrated mainly in Rajasthan."
+   "answer": 2,
+   "explanation": "Desert Festival is celebrated mainly in Rajasthan.",
+   "topic": "Festivals of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00560",
-   "q": "The river Chenab originates from which of the following?",
-   "o": [
+   "question": "The river Chenab originates from which of the following?",
+   "options": [
     "Baralacha La",
     "Varusanadu Hills",
     "Pilibhit",
     "Multai"
    ],
-   "a": 0,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Chenab originates from Baralacha La."
+   "answer": 0,
+   "explanation": "Chenab originates from Baralacha La.",
+   "topic": "Rivers of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00561",
-   "q": "Idukki Dam is built on which river?",
-   "o": [
+   "question": "Idukki Dam is built on which river?",
+   "options": [
     "Bhavani",
     "Kaveri",
     "Rihand",
     "Periyar"
    ],
-   "a": 3,
-   "t": "Dams of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Idukki Dam is built on the Periyar."
+   "answer": 3,
+   "explanation": "Idukki Dam is built on the Periyar.",
+   "topic": "Dams of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00562",
-   "q": "Madhav Tiger Reserve is located in which state?",
-   "o": [
+   "question": "Madhav Tiger Reserve is located in which state?",
+   "options": [
     "Assam",
     "Chhattisgarh",
     "Bihar",
     "Madhya Pradesh"
    ],
-   "a": 3,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Madhav Tiger Reserve is located in Madhya Pradesh."
+   "answer": 3,
+   "explanation": "Madhav Tiger Reserve is located in Madhya Pradesh.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00563",
-   "q": "Bhor Ghat pass is located in which state or union territory?",
-   "o": [
+   "question": "Bhor Ghat pass is located in which state or union territory?",
+   "options": [
     "Ladakh",
     "Jammu and Kashmir",
     "Maharashtra",
     "Andhra Pradesh"
    ],
-   "a": 2,
-   "t": "Mountain Passes of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Bhor Ghat is located in Maharashtra."
+   "answer": 2,
+   "explanation": "Bhor Ghat is located in Maharashtra.",
+   "topic": "Mountain Passes of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00564",
-   "q": "What is the SI unit of Electric potential?",
-   "o": [
+   "question": "What is the SI unit of Electric potential?",
+   "options": [
     "Volt",
     "Radian",
     "Gray",
     "Joule"
    ],
-   "a": 0,
-   "t": "SI Units",
-   "l": 1,
-   "s": "generated",
-   "e": "The SI unit of Electric potential is the Volt."
+   "answer": 0,
+   "explanation": "The SI unit of Electric potential is the Volt.",
+   "topic": "SI Units",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00565",
-   "q": "Which instrument is used to measure Purity of milk?",
-   "o": [
+   "question": "Which instrument is used to measure Purity of milk?",
+   "options": [
     "Spherometer",
     "Calorimeter",
     "Lactometer",
     "Tachometer"
    ],
-   "a": 2,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Lactometer is used to measure Purity of milk."
+   "answer": 2,
+   "explanation": "Lactometer is used to measure Purity of milk.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00566",
-   "q": "Deficiency of which nutrient causes Megaloblastic anaemia?",
-   "o": [
+   "question": "Deficiency of which nutrient causes Megaloblastic anaemia?",
+   "options": [
     "Fluorine",
     "Vitamin B9",
     "Vitamin K",
     "Vitamin K and Protein"
    ],
-   "a": 1,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Vitamin B9 causes Megaloblastic anaemia."
+   "answer": 1,
+   "explanation": "Deficiency of Vitamin B9 causes Megaloblastic anaemia.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00567",
-   "q": "Who is credited with Polio vaccine?",
-   "o": [
+   "question": "Who is credited with Polio vaccine?",
+   "options": [
     "Johannes Gutenberg",
     "Ernest Rutherford",
     "Jonas Salk",
     "Johannes Kepler"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Polio vaccine — Jonas Salk."
+   "answer": 2,
+   "explanation": "Polio vaccine — Jonas Salk.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00568",
-   "q": "What is the chemical name of Caustic soda?",
-   "o": [
+   "question": "What is the chemical name of Caustic soda?",
+   "options": [
     "Ethanol (C2H5OH)",
     "Acetylsalicylic acid",
     "Sodium hydroxide (NaOH)",
     "Sodium sulphate (Na2SO4)"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Caustic soda is Sodium hydroxide (NaOH)."
+   "answer": 2,
+   "explanation": "Caustic soda is Sodium hydroxide (NaOH).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00569",
-   "q": "Which branch of science deals with Heredity and variation?",
-   "o": [
+   "question": "Which branch of science deals with Heredity and variation?",
+   "options": [
     "Ornithology",
     "Gerontology",
     "Genetics",
     "Herpetology"
    ],
-   "a": 2,
-   "t": "Branches of Science",
-   "l": 2,
-   "s": "generated",
-   "e": "Genetics deals with Heredity and variation."
+   "answer": 2,
+   "explanation": "Genetics deals with Heredity and variation.",
+   "topic": "Branches of Science",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00570",
-   "q": "Which planet or body is described as: Lunar eclipse?",
-   "o": [
+   "question": "Which planet or body is described as: Lunar eclipse?",
+   "options": [
     "Moon",
     "Solar eclipse",
     "Lunar eclipse",
     "Sirius"
    ],
-   "a": 2,
-   "t": "Astronomy",
-   "l": 2,
-   "s": "generated",
-   "e": "Lunar eclipse — Lunar eclipse."
+   "answer": 2,
+   "explanation": "Lunar eclipse — Lunar eclipse.",
+   "topic": "Astronomy",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00571",
-   "q": "Alexander Fleming is known for which of the following?",
-   "o": [
+   "question": "Alexander Fleming is known for which of the following?",
+   "options": [
     "Molecular theory and Avogadro's law",
     "ABO blood group system",
     "Discovery of penicillin",
     "Charles's law of gases"
    ],
-   "a": 2,
-   "t": "Scientists",
-   "l": 2,
-   "s": "generated",
-   "e": "Alexander Fleming is known for Discovery of penicillin."
+   "answer": 2,
+   "explanation": "Alexander Fleming is known for Discovery of penicillin.",
+   "topic": "Scientists",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00572",
-   "q": "Attorney General of India is best described as which of the following?",
-   "o": [
+   "question": "Attorney General of India is best described as which of the following?",
+   "options": [
     "Chief legal adviser to the Government of India",
     "Council of States, permanent house",
     "Local body at the district level",
     "Recruits civil servants for the Union"
    ],
-   "a": 0,
-   "t": "Institutions of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Attorney General of India — Chief legal adviser to the Government of India."
+   "answer": 0,
+   "explanation": "Attorney General of India — Chief legal adviser to the Government of India.",
+   "topic": "Institutions of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00573",
-   "q": "On which date is World Braille Day observed?",
-   "o": [
+   "question": "On which date is World Braille Day observed?",
+   "options": [
     "4 January",
     "8 June",
     "1 November",
     "28 February"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Braille Day is observed on 4 January."
+   "answer": 0,
+   "explanation": "World Braille Day is observed on 4 January.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00574",
-   "q": "Where is the headquarters of Shanghai Cooperation Organisation?",
-   "o": [
+   "question": "Where is the headquarters of Shanghai Cooperation Organisation?",
+   "options": [
     "Vienna",
     "Beijing",
     "Paris",
     "Brussels"
    ],
-   "a": 1,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "Shanghai Cooperation Organisation is headquartered at Beijing."
+   "answer": 1,
+   "explanation": "Shanghai Cooperation Organisation is headquartered at Beijing.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00575",
-   "q": "Bordoloi Trophy is associated with which sport?",
-   "o": [
+   "question": "Bordoloi Trophy is associated with which sport?",
+   "options": [
     "Hockey",
     "Badminton",
     "Tennis",
     "Football"
    ],
-   "a": 3,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Bordoloi Trophy is associated with Football."
+   "answer": 3,
+   "explanation": "Bordoloi Trophy is associated with Football.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00576",
-   "q": "Padma Bhushan is associated with which of the following?",
-   "o": [
+   "question": "Padma Bhushan is associated with which of the following?",
+   "options": [
     "Third highest peacetime gallantry award of India",
     "Asian award for public service",
     "International award for Physics, Chemistry, Medicine, Literature, Peace and Economics",
     "Third highest civilian award of India"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Padma Bhushan — Third highest civilian award of India."
+   "answer": 3,
+   "explanation": "Padma Bhushan — Third highest civilian award of India.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00577",
-   "q": "First woman to win an Olympic gold in wrestling for India is associated with which of the following?",
-   "o": [
+   "question": "First woman to win an Olympic gold in wrestling for India is associated with which of the following?",
+   "options": [
     "United States of America",
     "Marie Curie",
     "Trygve Lie",
     "Karnam Malleswari"
    ],
-   "a": 3,
-   "t": "First in the World",
-   "l": 2,
-   "s": "generated",
-   "e": "First woman to win an Olympic gold in wrestling for India — Karnam Malleswari."
+   "answer": 3,
+   "explanation": "First woman to win an Olympic gold in wrestling for India — Karnam Malleswari.",
+   "topic": "First in the World",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00578",
-   "q": "Which line of longitude is at zero degrees?",
-   "o": [
+   "question": "Which line of longitude is at zero degrees?",
+   "options": [
     "Atacama Desert",
     "Prime Meridian",
     "Antarctica",
     "Greenland"
    ],
-   "a": 1,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 1,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00579",
-   "q": "Which of the following pairs of soil and feature is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of soil and feature is correctly matched?",
+   "options": [
     "Desert soil - Formed in waterlogged areas with organic matter",
     "Desert soil - Also called regur, ideal for cotton",
     "Desert soil - Contains excess salt, found in dry coastal areas",
     "Desert soil - Sandy soil of arid regions"
    ],
-   "a": 3,
-   "t": "Soils of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Desert soil - Sandy soil of arid regions is correctly matched."
+   "answer": 3,
+   "explanation": "Only Desert soil - Sandy soil of arid regions is correctly matched.",
+   "topic": "Soils of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00580",
-   "q": "Which Indian state is a major producer of Chromite?",
-   "o": [
+   "question": "Which Indian state is a major producer of Chromite?",
+   "options": [
     "Jharkhand",
     "Karnataka",
     "Andhra Pradesh",
     "Odisha"
    ],
-   "a": 3,
-   "t": "Minerals and States",
-   "l": 3,
-   "s": "generated",
-   "e": "Chromite is produced in large quantities in Odisha."
+   "answer": 3,
+   "explanation": "Chromite is produced in large quantities in Odisha.",
+   "topic": "Minerals and States",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00581",
-   "q": "Agasthyamalai Biosphere Reserve is located in which state?",
-   "o": [
+   "question": "Agasthyamalai Biosphere Reserve is located in which state?",
+   "options": [
     "Sikkim",
     "Madhya Pradesh and Chhattisgarh",
     "Madhya Pradesh",
     "Kerala and Tamil Nadu"
    ],
-   "a": 3,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Agasthyamalai Biosphere Reserve is in Kerala and Tamil Nadu."
+   "answer": 3,
+   "explanation": "Agasthyamalai Biosphere Reserve is in Kerala and Tamil Nadu.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00582",
-   "q": "What is the capital of San Marino?",
-   "o": [
+   "question": "What is the capital of San Marino?",
+   "options": [
     "Bern",
     "San Marino",
     "Accra",
     "San Salvador"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of San Marino is San Marino."
+   "answer": 1,
+   "explanation": "The capital of San Marino is San Marino.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00583",
-   "q": "Which element has the chemical symbol V?",
-   "o": [
+   "question": "Which element has the chemical symbol V?",
+   "options": [
     "Iron",
     "Sulphur",
     "Vanadium",
     "Titanium"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "V is the symbol of Vanadium."
+   "answer": 2,
+   "explanation": "V is the symbol of Vanadium.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00584",
-   "q": "What is the capital of Bihar?",
-   "o": [
+   "question": "What is the capital of Bihar?",
+   "options": [
     "Lucknow",
     "Kolkata",
     "Kohima",
     "Patna"
    ],
-   "a": 3,
-   "t": "States and Capitals",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Bihar is Patna."
+   "answer": 3,
+   "explanation": "The capital of Bihar is Patna.",
+   "topic": "States and Capitals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00585",
-   "q": "Indian Elephant holds which of the following positions in India?",
-   "o": [
+   "question": "Indian Elephant holds which of the following positions in India?",
+   "options": [
     "National Heritage Animal",
     "National Aquatic Animal",
     "National Reptile",
     "National Song"
    ],
-   "a": 0,
-   "t": "National Symbols",
-   "l": 2,
-   "s": "generated",
-   "e": "Indian Elephant is the National Heritage Animal of India."
+   "answer": 0,
+   "explanation": "Indian Elephant is the National Heritage Animal of India.",
+   "topic": "National Symbols",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00586",
-   "q": "First woman Prime Minister of India is associated with which of the following?",
-   "o": [
+   "question": "First woman Prime Minister of India is associated with which of the following?",
+   "options": [
     "Indira Gandhi",
     "Sucheta Kripalani",
     "Justice Fathima Beevi",
     "Dr. S. Radhakrishnan"
    ],
-   "a": 0,
-   "t": "First in India",
-   "l": 2,
-   "s": "generated",
-   "e": "First woman Prime Minister of India — Indira Gandhi."
+   "answer": 0,
+   "explanation": "First woman Prime Minister of India — Indira Gandhi.",
+   "topic": "First in India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00587",
-   "q": "Kikli is a folk or classical dance form of which state?",
-   "o": [
+   "question": "Kikli is a folk or classical dance form of which state?",
+   "options": [
     "Tamil Nadu",
     "Punjab",
     "Himachal Pradesh",
     "Sikkim"
    ],
-   "a": 1,
-   "t": "Folk Dances of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Kikli belongs to Punjab."
+   "answer": 1,
+   "explanation": "Kikli belongs to Punjab.",
+   "topic": "Folk Dances of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00588",
-   "q": "Myoko is a major festival of which state?",
-   "o": [
+   "question": "Myoko is a major festival of which state?",
+   "options": [
     "Arunachal Pradesh",
     "Assam",
     "Odisha",
     "Punjab"
    ],
-   "a": 0,
-   "t": "Festivals of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Myoko is celebrated mainly in Arunachal Pradesh."
+   "answer": 0,
+   "explanation": "Myoko is celebrated mainly in Arunachal Pradesh.",
+   "topic": "Festivals of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00589",
-   "q": "The river Indus originates from which of the following?",
-   "o": [
+   "question": "The river Indus originates from which of the following?",
+   "options": [
     "Bokhar Chu",
     "Janapav Hill",
     "Sivagiri Hills",
     "Angsi Glacier"
    ],
-   "a": 0,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Indus originates from Bokhar Chu."
+   "answer": 0,
+   "explanation": "Indus originates from Bokhar Chu.",
+   "topic": "Rivers of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00590",
-   "q": "Rihand Dam is built on which river?",
-   "o": [
+   "question": "Rihand Dam is built on which river?",
+   "options": [
     "Godavari",
     "Narmada",
     "Rihand",
     "Chenab"
    ],
-   "a": 2,
-   "t": "Dams of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Rihand Dam is built on the Rihand."
+   "answer": 2,
+   "explanation": "Rihand Dam is built on the Rihand.",
+   "topic": "Dams of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00591",
-   "q": "Vansda National Park is located in which state?",
-   "o": [
+   "question": "Vansda National Park is located in which state?",
+   "options": [
     "Assam",
     "Gujarat",
     "Nagaland",
     "Odisha"
    ],
-   "a": 1,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Vansda National Park is located in Gujarat."
+   "answer": 1,
+   "explanation": "Vansda National Park is located in Gujarat.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00592",
-   "q": "Fotu La pass is located in which state or union territory?",
-   "o": [
+   "question": "Fotu La pass is located in which state or union territory?",
+   "options": [
     "Kerala",
     "Uttarakhand",
     "Ladakh",
     "Maharashtra"
    ],
-   "a": 2,
-   "t": "Mountain Passes of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Fotu La is located in Ladakh."
+   "answer": 2,
+   "explanation": "Fotu La is located in Ladakh.",
+   "topic": "Mountain Passes of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00593",
-   "q": "What is the SI unit of Electric current?",
-   "o": [
+   "question": "What is the SI unit of Electric current?",
+   "options": [
     "Ampere",
     "Henry",
     "Katal",
     "Second"
    ],
-   "a": 0,
-   "t": "SI Units",
-   "l": 1,
-   "s": "generated",
-   "e": "The SI unit of Electric current is the Ampere."
+   "answer": 0,
+   "explanation": "The SI unit of Electric current is the Ampere.",
+   "topic": "SI Units",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00594",
-   "q": "Which instrument is used to measure Electric potential difference?",
-   "o": [
+   "question": "Which instrument is used to measure Electric potential difference?",
+   "options": [
     "Barometer",
     "Voltmeter",
     "Geiger counter",
     "Altimeter"
    ],
-   "a": 1,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Voltmeter is used to measure Electric potential difference."
+   "answer": 1,
+   "explanation": "Voltmeter is used to measure Electric potential difference.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00595",
-   "q": "Deficiency of which nutrient causes Osteoporosis?",
-   "o": [
+   "question": "Deficiency of which nutrient causes Osteoporosis?",
+   "options": [
     "Vitamin A",
     "Iodine",
     "Vitamin B6",
     "Calcium"
    ],
-   "a": 3,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Calcium causes Osteoporosis."
+   "answer": 3,
+   "explanation": "Deficiency of Calcium causes Osteoporosis.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00596",
-   "q": "Who is credited with Telephone?",
-   "o": [
+   "question": "Who is credited with Telephone?",
+   "options": [
     "Alexander Graham Bell",
     "Galileo Galilei",
     "Niels Bohr",
     "Karl von Drais"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Telephone — Alexander Graham Bell."
+   "answer": 0,
+   "explanation": "Telephone — Alexander Graham Bell.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00597",
-   "q": "What is the chemical name of Chalk?",
-   "o": [
+   "question": "What is the chemical name of Chalk?",
+   "options": [
     "Sodium chloride (NaCl)",
     "Calcium carbonate (CaCO3)",
     "Magnesium oxide (MgO)",
     "Zinc sulphate (ZnSO4.7H2O)"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Chalk is Calcium carbonate (CaCO3)."
+   "answer": 1,
+   "explanation": "Chalk is Calcium carbonate (CaCO3).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00598",
-   "q": "Which branch of science deals with Composition and properties of substances?",
-   "o": [
+   "question": "Which branch of science deals with Composition and properties of substances?",
+   "options": [
     "Chemistry",
     "Ichthyology",
     "Pharmacology",
     "Bacteriology"
    ],
-   "a": 0,
-   "t": "Branches of Science",
-   "l": 2,
-   "s": "generated",
-   "e": "Chemistry deals with Composition and properties of substances."
+   "answer": 0,
+   "explanation": "Chemistry deals with Composition and properties of substances.",
+   "topic": "Branches of Science",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00599",
-   "q": "Which planet or body is described as: Meteorite?",
-   "o": [
+   "question": "Which planet or body is described as: Meteorite?",
+   "options": [
     "Meteorite",
     "Sun",
     "Lunar eclipse",
     "Andromeda"
    ],
-   "a": 0,
-   "t": "Astronomy",
-   "l": 2,
-   "s": "generated",
-   "e": "Meteorite — Meteorite."
+   "answer": 0,
+   "explanation": "Meteorite — Meteorite.",
+   "topic": "Astronomy",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00600",
-   "q": "Albert Einstein is known for which of the following?",
-   "o": [
+   "question": "Albert Einstein is known for which of the following?",
+   "options": [
     "Theory of relativity",
     "Boyle's law of gases",
     "Double helix structure of DNA",
     "Centigrade temperature scale"
    ],
-   "a": 0,
-   "t": "Scientists",
-   "l": 2,
-   "s": "generated",
-   "e": "Albert Einstein is known for Theory of relativity."
+   "answer": 0,
+   "explanation": "Albert Einstein is known for Theory of relativity.",
+   "topic": "Scientists",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00601",
-   "q": "Council of Ministers is best described as which of the following?",
-   "o": [
+   "question": "Council of Ministers is best described as which of the following?",
+   "options": [
     "Aids and advises the President",
     "Local self-government at the village level",
     "Central bank and monetary authority",
     "Head of the Union Government"
    ],
-   "a": 0,
-   "t": "Institutions of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Council of Ministers — Aids and advises the President."
+   "answer": 0,
+   "explanation": "Council of Ministers — Aids and advises the President.",
+   "topic": "Institutions of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00602",
-   "q": "On which date is World Hindi Day observed?",
-   "o": [
+   "question": "On which date is World Hindi Day observed?",
+   "options": [
     "1 May",
     "17 November",
     "11 October",
     "10 January"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Hindi Day is observed on 10 January."
+   "answer": 3,
+   "explanation": "World Hindi Day is observed on 10 January.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00603",
-   "q": "Where is the headquarters of International Fund for Agricultural Development?",
-   "o": [
+   "question": "Where is the headquarters of International Fund for Agricultural Development?",
+   "options": [
     "Rome",
     "Vienna",
     "Paris",
     "The Hague"
    ],
-   "a": 0,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "International Fund for Agricultural Development is headquartered at Rome."
+   "answer": 0,
+   "explanation": "International Fund for Agricultural Development is headquartered at Rome.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00604",
-   "q": "FIFA World Cup is associated with which sport?",
-   "o": [
+   "question": "FIFA World Cup is associated with which sport?",
+   "options": [
     "Football",
     "Badminton",
     "Table Tennis",
     "Hockey"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "FIFA World Cup is associated with Football."
+   "answer": 0,
+   "explanation": "FIFA World Cup is associated with Football.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00605",
-   "q": "Major Dhyan Chand Khel Ratna Award is associated with which of the following?",
-   "o": [
+   "question": "Major Dhyan Chand Khel Ratna Award is associated with which of the following?",
+   "options": [
     "British award for fiction",
     "Highest sporting honour of India",
     "Third highest military decoration of India",
     "International award for Physics, Chemistry, Medicine, Literature, Peace and Economics"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Major Dhyan Chand Khel Ratna Award — Highest sporting honour of India."
+   "answer": 1,
+   "explanation": "Major Dhyan Chand Khel Ratna Award — Highest sporting honour of India.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00606",
-   "q": "First Winter Olympic Games were held in is associated with which of the following?",
-   "o": [
+   "question": "First Winter Olympic Games were held in is associated with which of the following?",
+   "options": [
     "Yuri Gagarin",
     "Chamonix",
     "Soviet Union",
     "Roger Bannister"
    ],
-   "a": 1,
-   "t": "First in the World",
-   "l": 2,
-   "s": "generated",
-   "e": "First Winter Olympic Games were held in — Chamonix."
+   "answer": 1,
+   "explanation": "First Winter Olympic Games were held in — Chamonix.",
+   "topic": "First in the World",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00607",
-   "q": "Which is the most populous state of India?",
-   "o": [
+   "question": "Which is the most populous state of India?",
+   "options": [
     "Paris",
     "Uttar Pradesh",
     "Sundarbans",
     "Kanpur"
    ],
-   "a": 1,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 1,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00608",
-   "q": "Which of the following pairs of soil and feature is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of soil and feature is correctly matched?",
+   "options": [
     "Desert soil - Contains excess salt, found in dry coastal areas",
     "Desert soil - Found in hilly and forest regions",
     "Desert soil - Formed from crystalline rocks, rich in iron",
     "Desert soil - Sandy soil of arid regions"
    ],
-   "a": 3,
-   "t": "Soils of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Desert soil - Sandy soil of arid regions is correctly matched."
+   "answer": 3,
+   "explanation": "Only Desert soil - Sandy soil of arid regions is correctly matched.",
+   "topic": "Soils of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00609",
-   "q": "Which Indian state is a major producer of Mica?",
-   "o": [
+   "question": "Which Indian state is a major producer of Mica?",
+   "options": [
     "Jharkhand",
     "Odisha",
     "Andhra Pradesh",
     "Rajasthan"
    ],
-   "a": 2,
-   "t": "Minerals and States",
-   "l": 3,
-   "s": "generated",
-   "e": "Mica is produced in large quantities in Andhra Pradesh."
+   "answer": 2,
+   "explanation": "Mica is produced in large quantities in Andhra Pradesh.",
+   "topic": "Minerals and States",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00610",
-   "q": "Pachmarhi Biosphere Reserve is located in which state?",
-   "o": [
+   "question": "Pachmarhi Biosphere Reserve is located in which state?",
+   "options": [
     "Tamil Nadu",
     "Rajasthan",
     "Madhya Pradesh",
     "Tamil Nadu, Kerala and Karnataka"
    ],
-   "a": 2,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Pachmarhi Biosphere Reserve is in Madhya Pradesh."
+   "answer": 2,
+   "explanation": "Pachmarhi Biosphere Reserve is in Madhya Pradesh.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00611",
-   "q": "What is the capital of Samoa?",
-   "o": [
+   "question": "What is the capital of Samoa?",
+   "options": [
     "Montevideo",
     "Niamey",
     "Amman",
     "Apia"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Samoa is Apia."
+   "answer": 3,
+   "explanation": "The capital of Samoa is Apia.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00612",
-   "q": "Which element has the chemical symbol Ac?",
-   "o": [
+   "question": "Which element has the chemical symbol Ac?",
+   "options": [
     "Actinium",
     "Neodymium",
     "Neptunium",
     "Technetium"
    ],
-   "a": 0,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "Ac is the symbol of Actinium."
+   "answer": 0,
+   "explanation": "Ac is the symbol of Actinium.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00613",
-   "q": "What is the capital of Telangana?",
-   "o": [
+   "question": "What is the capital of Telangana?",
+   "options": [
     "Hyderabad",
     "Gangtok",
     "Jaipur",
     "Patna"
    ],
-   "a": 0,
-   "t": "States and Capitals",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Telangana is Hyderabad."
+   "answer": 0,
+   "explanation": "The capital of Telangana is Hyderabad.",
+   "topic": "States and Capitals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00614",
-   "q": "Jana Gana Mana holds which of the following positions in India?",
-   "o": [
+   "question": "Jana Gana Mana holds which of the following positions in India?",
+   "options": [
     "National Anthem",
     "National Reptile",
     "National Bird",
     "National Animal"
    ],
-   "a": 0,
-   "t": "National Symbols",
-   "l": 2,
-   "s": "generated",
-   "e": "Jana Gana Mana is the National Anthem of India."
+   "answer": 0,
+   "explanation": "Jana Gana Mana is the National Anthem of India.",
+   "topic": "National Symbols",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00615",
-   "q": "First Indian Governor-General of India is associated with which of the following?",
-   "o": [
+   "question": "First Indian Governor-General of India is associated with which of the following?",
+   "options": [
     "C. Rajagopalachari",
     "Pratibha Patil",
     "Mihir Sen",
     "Kiran Bedi"
    ],
-   "a": 0,
-   "t": "First in India",
-   "l": 2,
-   "s": "generated",
-   "e": "First Indian Governor-General of India — C. Rajagopalachari."
+   "answer": 0,
+   "explanation": "First Indian Governor-General of India — C. Rajagopalachari.",
+   "topic": "First in India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00616",
-   "q": "Nongkrem is a folk or classical dance form of which state?",
-   "o": [
+   "question": "Nongkrem is a folk or classical dance form of which state?",
+   "options": [
     "Meghalaya",
     "Uttar Pradesh",
     "Punjab",
     "Nagaland"
    ],
-   "a": 0,
-   "t": "Folk Dances of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Nongkrem belongs to Meghalaya."
+   "answer": 0,
+   "explanation": "Nongkrem belongs to Meghalaya.",
+   "topic": "Folk Dances of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00617",
-   "q": "Sekrenyi is a major festival of which state?",
-   "o": [
+   "question": "Sekrenyi is a major festival of which state?",
+   "options": [
     "Manipur",
     "Gujarat",
     "Mizoram",
     "Nagaland"
    ],
-   "a": 3,
-   "t": "Festivals of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Sekrenyi is celebrated mainly in Nagaland."
+   "answer": 3,
+   "explanation": "Sekrenyi is celebrated mainly in Nagaland.",
+   "topic": "Festivals of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00618",
-   "q": "The river Ravi originates from which of the following?",
-   "o": [
+   "question": "The river Ravi originates from which of the following?",
+   "options": [
     "Chamba",
     "Rakas Lake",
     "Bhimashankar",
     "Nandi Hills"
    ],
-   "a": 0,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Ravi originates from Chamba."
+   "answer": 0,
+   "explanation": "Ravi originates from Chamba.",
+   "topic": "Rivers of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00619",
-   "q": "Which of the following dams is built on the river Kaveri?",
-   "o": [
+   "question": "Which of the following dams is built on the river Kaveri?",
+   "options": [
     "Mettur Dam",
     "Hirakud Dam",
     "Indira Sagar Dam",
     "Omkareshwar Dam"
    ],
-   "a": 0,
-   "t": "Dams of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Mettur Dam is built on the Kaveri."
+   "answer": 0,
+   "explanation": "Mettur Dam is built on the Kaveri.",
+   "topic": "Dams of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00620",
-   "q": "Dibang Wildlife Sanctuary is located in which state?",
-   "o": [
+   "question": "Dibang Wildlife Sanctuary is located in which state?",
+   "options": [
     "Arunachal Pradesh",
     "Madhya Pradesh",
     "Haryana",
     "Bihar"
    ],
-   "a": 0,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Dibang Wildlife Sanctuary is located in Arunachal Pradesh."
+   "answer": 0,
+   "explanation": "Dibang Wildlife Sanctuary is located in Arunachal Pradesh.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00621",
-   "q": "Shipki La pass is located in which state or union territory?",
-   "o": [
+   "question": "Shipki La pass is located in which state or union territory?",
+   "options": [
     "Tamil Nadu",
     "Uttarakhand",
     "Himachal Pradesh",
     "Jammu and Kashmir"
    ],
-   "a": 2,
-   "t": "Mountain Passes of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Shipki La is located in Himachal Pradesh."
+   "answer": 2,
+   "explanation": "Shipki La is located in Himachal Pradesh.",
+   "topic": "Mountain Passes of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00622",
-   "q": "What is the SI unit of Electric charge?",
-   "o": [
+   "question": "What is the SI unit of Electric charge?",
+   "options": [
     "Coulomb",
     "Kelvin",
     "Pascal second",
     "Steradian"
    ],
-   "a": 0,
-   "t": "SI Units",
-   "l": 1,
-   "s": "generated",
-   "e": "The SI unit of Electric charge is the Coulomb."
+   "answer": 0,
+   "explanation": "The SI unit of Electric charge is the Coulomb.",
+   "topic": "SI Units",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00623",
-   "q": "Which instrument is used to measure Heartbeats?",
-   "o": [
+   "question": "Which instrument is used to measure Heartbeats?",
+   "options": [
     "Transducer",
     "Potometer",
     "Stethoscope",
     "Radiometer"
    ],
-   "a": 2,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Stethoscope is used to measure Heartbeats."
+   "answer": 2,
+   "explanation": "Stethoscope is used to measure Heartbeats.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00624",
-   "q": "Deficiency of which nutrient causes Dehydration?",
-   "o": [
+   "question": "Deficiency of which nutrient causes Dehydration?",
+   "options": [
     "Sodium",
     "Calcium",
     "Vitamin D",
     "Vitamin B1"
    ],
-   "a": 0,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Sodium causes Dehydration."
+   "answer": 0,
+   "explanation": "Deficiency of Sodium causes Dehydration.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00625",
-   "q": "Who is credited with Evolution by natural selection?",
-   "o": [
+   "question": "Who is credited with Evolution by natural selection?",
+   "options": [
     "Charles Darwin",
     "Galileo Galilei",
     "George Cayley",
     "Karl Landsteiner"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Evolution by natural selection — Charles Darwin."
+   "answer": 0,
+   "explanation": "Evolution by natural selection — Charles Darwin.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00626",
-   "q": "What is the chemical name of Slaked lime?",
-   "o": [
+   "question": "What is the chemical name of Slaked lime?",
+   "options": [
     "Hydrochloric acid (HCl)",
     "Trinitrotoluene",
     "Calcium hydroxide (Ca(OH)2)",
     "Nitrous oxide (N2O)"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Slaked lime is Calcium hydroxide (Ca(OH)2)."
+   "answer": 2,
+   "explanation": "Slaked lime is Calcium hydroxide (Ca(OH)2).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00627",
-   "q": "Which branch of science deals with Weather and atmosphere?",
-   "o": [
+   "question": "Which branch of science deals with Weather and atmosphere?",
+   "options": [
     "Meteorology",
     "Ichthyology",
     "Entomology",
     "Optics"
    ],
-   "a": 0,
-   "t": "Branches of Science",
-   "l": 2,
-   "s": "generated",
-   "e": "Meteorology deals with Weather and atmosphere."
+   "answer": 0,
+   "explanation": "Meteorology deals with Weather and atmosphere.",
+   "topic": "Branches of Science",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00628",
-   "q": "Which planet or body is described as: Halley's Comet?",
-   "o": [
+   "question": "Which planet or body is described as: Halley's Comet?",
+   "options": [
     "Halley's Comet",
     "Sun",
     "Neptune",
     "Black hole"
    ],
-   "a": 0,
-   "t": "Astronomy",
-   "l": 2,
-   "s": "generated",
-   "e": "Halley's Comet — Halley's Comet."
+   "answer": 0,
+   "explanation": "Halley's Comet — Halley's Comet.",
+   "topic": "Astronomy",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00629",
-   "q": "Ernest Rutherford is known for which of the following?",
-   "o": [
+   "question": "Ernest Rutherford is known for which of the following?",
+   "options": [
     "Nuclear model of the atom",
     "Boyle's law of gases",
     "Atomic theory",
     "Raman effect"
    ],
-   "a": 0,
-   "t": "Scientists",
-   "l": 2,
-   "s": "generated",
-   "e": "Ernest Rutherford is known for Nuclear model of the atom."
+   "answer": 0,
+   "explanation": "Ernest Rutherford is known for Nuclear model of the atom.",
+   "topic": "Scientists",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00630",
-   "q": "Central Vigilance Commission is best described as which of the following?",
-   "o": [
+   "question": "Central Vigilance Commission is best described as which of the following?",
+   "options": [
     "Watches over vigilance in government",
     "Union legislature consisting of the President and two Houses",
     "Regulator of the securities market",
     "Deputy to the Prime Minister in the policy think tank"
    ],
-   "a": 0,
-   "t": "Institutions of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Central Vigilance Commission — Watches over vigilance in government."
+   "answer": 0,
+   "explanation": "Central Vigilance Commission — Watches over vigilance in government.",
+   "topic": "Institutions of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00631",
-   "q": "On which date is Teachers' Day (India) observed?",
-   "o": [
+   "question": "On which date is Teachers' Day (India) observed?",
+   "options": [
     "8 May",
     "14 December",
     "fourth Sunday of September",
     "5 September"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "Teachers' Day (India) is observed on 5 September."
+   "answer": 3,
+   "explanation": "Teachers' Day (India) is observed on 5 September.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00632",
-   "q": "Where is the headquarters of International Court of Justice?",
-   "o": [
+   "question": "Where is the headquarters of International Court of Justice?",
+   "options": [
     "Mumbai",
     "Geneva",
     "Vienna",
     "The Hague"
    ],
-   "a": 3,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "International Court of Justice is headquartered at The Hague."
+   "answer": 3,
+   "explanation": "International Court of Justice is headquartered at The Hague.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00633",
-   "q": "Grand Slam (Tennis) is associated with which sport?",
-   "o": [
+   "question": "Grand Slam (Tennis) is associated with which sport?",
+   "options": [
     "Football",
     "Hockey",
     "Tennis",
     "Cricket"
    ],
-   "a": 2,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Grand Slam (Tennis) is associated with Tennis."
+   "answer": 2,
+   "explanation": "Grand Slam (Tennis) is associated with Tennis.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00634",
-   "q": "Padma Shri is associated with which of the following?",
-   "o": [
+   "question": "Padma Shri is associated with which of the following?",
+   "options": [
     "Lifetime achievement in Indian sports",
     "Fourth highest civilian award of India",
     "Second highest military decoration of India",
     "Third highest military decoration of India"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Padma Shri — Fourth highest civilian award of India."
+   "answer": 1,
+   "explanation": "Padma Shri — Fourth highest civilian award of India.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00635",
-   "q": "First Cricket World Cup was held in is associated with which of the following?",
-   "o": [
+   "question": "First Cricket World Cup was held in is associated with which of the following?",
+   "options": [
     "Abhinav Bindra",
     "Trygve Lie",
     "England",
     "Valentina Tereshkova"
    ],
-   "a": 2,
-   "t": "First in the World",
-   "l": 2,
-   "s": "generated",
-   "e": "First Cricket World Cup was held in — England."
+   "answer": 2,
+   "explanation": "First Cricket World Cup was held in — England.",
+   "topic": "First in the World",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00636",
-   "q": "Which country is known as the Land of Kangaroos?",
-   "o": [
+   "question": "Which country is known as the Land of Kangaroos?",
+   "options": [
     "Kanchenjunga",
     "Belgium",
     "Australia",
     "Rajasthan"
    ],
-   "a": 2,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 2,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00637",
-   "q": "Which of the following pairs of soil and feature is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of soil and feature is correctly matched?",
+   "options": [
     "Peaty soil - Sandy soil of arid regions",
     "Peaty soil - Formed from crystalline rocks, rich in iron",
     "Peaty soil - Also called regur, ideal for cotton",
     "Peaty soil - Formed in waterlogged areas with organic matter"
    ],
-   "a": 3,
-   "t": "Soils of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Peaty soil - Formed in waterlogged areas with organic matter is correctly matched."
+   "answer": 3,
+   "explanation": "Only Peaty soil - Formed in waterlogged areas with organic matter is correctly matched.",
+   "topic": "Soils of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00638",
-   "q": "Which mineral is found in large quantities in Karnataka?",
-   "o": [
+   "question": "Which mineral is found in large quantities in Karnataka?",
+   "options": [
     "Gold",
     "Iron ore",
     "Lead and zinc",
     "Rock phosphate"
    ],
-   "a": 0,
-   "t": "Minerals and States",
-   "l": 3,
-   "s": "generated",
-   "e": "Gold is found in Karnataka."
+   "answer": 0,
+   "explanation": "Gold is found in Karnataka.",
+   "topic": "Minerals and States",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00639",
-   "q": "Which biosphere reserve or wetland is located in Madhya Pradesh and Chhattisgarh?",
-   "o": [
+   "question": "Which biosphere reserve or wetland is located in Madhya Pradesh and Chhattisgarh?",
+   "options": [
     "Achanakmar Amarkantak Biosphere Reserve",
     "Nanda Devi Biosphere Reserve",
     "Loktak Lake",
     "Sambhar Lake"
    ],
-   "a": 0,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Achanakmar Amarkantak Biosphere Reserve is located in Madhya Pradesh and Chhattisgarh."
+   "answer": 0,
+   "explanation": "Achanakmar Amarkantak Biosphere Reserve is located in Madhya Pradesh and Chhattisgarh.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00640",
-   "q": "What is the capital of Central African Republic?",
-   "o": [
+   "question": "What is the capital of Central African Republic?",
+   "options": [
     "Nouakchott",
     "Jakarta",
     "Bangui",
     "Nuku'alofa"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Central African Republic is Bangui."
+   "answer": 2,
+   "explanation": "The capital of Central African Republic is Bangui.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00641",
-   "q": "Which element has the chemical symbol He?",
-   "o": [
+   "question": "Which element has the chemical symbol He?",
+   "options": [
     "Samarium",
     "Neon",
     "Curium",
     "Helium"
    ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "He is the symbol of Helium."
+   "answer": 3,
+   "explanation": "He is the symbol of Helium.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00642",
-   "q": "What is the capital of Mizoram?",
-   "o": [
+   "question": "What is the capital of Mizoram?",
+   "options": [
     "Aizawl",
     "Bengaluru",
     "Agartala",
     "Shillong"
    ],
-   "a": 0,
-   "t": "States and Capitals",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Mizoram is Aizawl."
+   "answer": 0,
+   "explanation": "The capital of Mizoram is Aizawl.",
+   "topic": "States and Capitals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00643",
-   "q": "Indian Rupee holds which of the following positions in India?",
-   "o": [
+   "question": "Indian Rupee holds which of the following positions in India?",
+   "options": [
     "National Heritage Animal",
     "National Flower",
     "National Currency",
     "National Fruit"
    ],
-   "a": 2,
-   "t": "National Symbols",
-   "l": 2,
-   "s": "generated",
-   "e": "Indian Rupee is the National Currency of India."
+   "answer": 2,
+   "explanation": "Indian Rupee is the National Currency of India.",
+   "topic": "National Symbols",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00644",
-   "q": "First Indian to win a Grand Slam in tennis is associated with which of the following?",
-   "o": [
+   "question": "First Indian to win a Grand Slam in tennis is associated with which of the following?",
+   "options": [
     "Jawaharlal Nehru",
     "Mahesh Bhupathi",
     "Aryabhata",
     "Bombay and Thane"
    ],
-   "a": 1,
-   "t": "First in India",
-   "l": 2,
-   "s": "generated",
-   "e": "First Indian to win a Grand Slam in tennis — Mahesh Bhupathi."
+   "answer": 1,
+   "explanation": "First Indian to win a Grand Slam in tennis — Mahesh Bhupathi.",
+   "topic": "First in India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00645",
-   "q": "Garba is a folk or classical dance form of which state?",
-   "o": [
+   "question": "Garba is a folk or classical dance form of which state?",
+   "options": [
     "Uttar Pradesh",
     "West Bengal",
     "Gujarat",
     "Assam"
    ],
-   "a": 2,
-   "t": "Folk Dances of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Garba belongs to Gujarat."
+   "answer": 2,
+   "explanation": "Garba belongs to Gujarat.",
+   "topic": "Folk Dances of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00646",
-   "q": "Nuakhai is a major festival of which state?",
-   "o": [
+   "question": "Nuakhai is a major festival of which state?",
+   "options": [
     "Madhya Pradesh",
     "Odisha",
     "Manipur",
     "Rajasthan"
    ],
-   "a": 1,
-   "t": "Festivals of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Nuakhai is celebrated mainly in Odisha."
+   "answer": 1,
+   "explanation": "Nuakhai is celebrated mainly in Odisha.",
+   "topic": "Festivals of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00647",
-   "q": "The river Damodar originates from which of the following?",
-   "o": [
+   "question": "The river Damodar originates from which of the following?",
+   "options": [
     "Yamunotri Glacier",
     "Chota Nagpur Plateau",
     "Satopanth Glacier",
     "Vindhya Range"
    ],
-   "a": 1,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Damodar originates from Chota Nagpur Plateau."
+   "answer": 1,
+   "explanation": "Damodar originates from Chota Nagpur Plateau.",
+   "topic": "Rivers of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00648",
-   "q": "Which of the following dams is built on the river Godavari?",
-   "o": [
+   "question": "Which of the following dams is built on the river Godavari?",
+   "options": [
     "Polavaram Dam",
     "Maithon Dam",
     "Baglihar Dam",
     "Idukki Dam"
    ],
-   "a": 0,
-   "t": "Dams of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Polavaram Dam is built on the Godavari."
+   "answer": 0,
+   "explanation": "Polavaram Dam is built on the Godavari.",
+   "topic": "Dams of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00649",
-   "q": "Kuno National Park is located in which state?",
-   "o": [
+   "question": "Kuno National Park is located in which state?",
+   "options": [
     "Gujarat",
     "Assam",
     "Madhya Pradesh",
     "Manipur"
    ],
-   "a": 2,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Kuno National Park is located in Madhya Pradesh."
+   "answer": 2,
+   "explanation": "Kuno National Park is located in Madhya Pradesh.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00650",
-   "q": "Thal Ghat pass is located in which state or union territory?",
-   "o": [
+   "question": "Thal Ghat pass is located in which state or union territory?",
+   "options": [
     "Sikkim",
     "Arunachal Pradesh",
     "Jammu and Kashmir",
     "Maharashtra"
    ],
-   "a": 3,
-   "t": "Mountain Passes of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Thal Ghat is located in Maharashtra."
+   "answer": 3,
+   "explanation": "Thal Ghat is located in Maharashtra.",
+   "topic": "Mountain Passes of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00651",
-   "q": "What is the SI unit of Capacitance?",
-   "o": [
+   "question": "What is the SI unit of Capacitance?",
+   "options": [
     "Kilogram",
     "Farad",
     "Lumen",
     "Becquerel"
    ],
-   "a": 1,
-   "t": "SI Units",
-   "l": 1,
-   "s": "generated",
-   "e": "The SI unit of Capacitance is the Farad."
+   "answer": 1,
+   "explanation": "The SI unit of Capacitance is the Farad.",
+   "topic": "SI Units",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00652",
-   "q": "Which instrument is used to measure Heat change in reactions?",
-   "o": [
+   "question": "Which instrument is used to measure Heat change in reactions?",
+   "options": [
     "Radiometer",
     "Anemometer",
     "Calorimeter",
     "Stethoscope"
    ],
-   "a": 2,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Calorimeter is used to measure Heat change in reactions."
+   "answer": 2,
+   "explanation": "Calorimeter is used to measure Heat change in reactions.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00653",
-   "q": "Deficiency of which nutrient causes Tooth decay?",
-   "o": [
+   "question": "Deficiency of which nutrient causes Tooth decay?",
+   "options": [
     "Iodine",
     "Vitamin K and Protein",
     "Vitamin K",
     "Fluorine"
    ],
-   "a": 3,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Fluorine causes Tooth decay."
+   "answer": 3,
+   "explanation": "Deficiency of Fluorine causes Tooth decay.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00654",
-   "q": "Who is credited with DNA double helix structure?",
-   "o": [
+   "question": "Who is credited with DNA double helix structure?",
+   "options": [
     "Watson and Crick",
     "Ernest Rutherford",
     "George Cayley",
     "William Harvey"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "DNA double helix structure — Watson and Crick."
+   "answer": 0,
+   "explanation": "DNA double helix structure — Watson and Crick.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00655",
-   "q": "What is the chemical name of Aspirin?",
-   "o": [
+   "question": "What is the chemical name of Aspirin?",
+   "options": [
     "Potassium nitrate (KNO3)",
     "Nitrous oxide (N2O)",
     "Acetylsalicylic acid",
     "Calcium hydroxide (Ca(OH)2)"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Aspirin is Acetylsalicylic acid."
+   "answer": 2,
+   "explanation": "Aspirin is Acetylsalicylic acid.",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00656",
-   "q": "Which branch of science deals with Sound?",
-   "o": [
+   "question": "Which branch of science deals with Sound?",
+   "options": [
     "Acoustics",
     "Gerontology",
     "Entomology",
     "Oceanography"
    ],
-   "a": 0,
-   "t": "Branches of Science",
-   "l": 2,
-   "s": "generated",
-   "e": "Acoustics deals with Sound."
+   "answer": 0,
+   "explanation": "Acoustics deals with Sound.",
+   "topic": "Branches of Science",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00657",
-   "q": "Which planet or body is described as: Solar eclipse?",
-   "o": [
+   "question": "Which planet or body is described as: Solar eclipse?",
+   "options": [
     "Solar eclipse",
     "Neptune",
     "Saturn",
     "Venus"
    ],
-   "a": 0,
-   "t": "Astronomy",
-   "l": 2,
-   "s": "generated",
-   "e": "Solar eclipse — Solar eclipse."
+   "answer": 0,
+   "explanation": "Solar eclipse — Solar eclipse.",
+   "topic": "Astronomy",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00658",
-   "q": "S. N. Bose is known for which of the following?",
-   "o": [
+   "question": "S. N. Bose is known for which of the following?",
+   "options": [
     "Bose-Einstein statistics",
     "ABO blood group system",
     "Atomic theory",
     "Periodic table of elements"
    ],
-   "a": 0,
-   "t": "Scientists",
-   "l": 2,
-   "s": "generated",
-   "e": "S. N. Bose is known for Bose-Einstein statistics."
+   "answer": 0,
+   "explanation": "S. N. Bose is known for Bose-Einstein statistics.",
+   "topic": "Scientists",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00659",
-   "q": "Governor is best described as which of the following?",
-   "o": [
+   "question": "Governor is best described as which of the following?",
+   "options": [
     "Ex-officio Chairman of the Rajya Sabha",
     "Constitutional head of a State",
     "Administered by the President through administrators",
     "Local self-government in urban areas"
    ],
-   "a": 1,
-   "t": "Institutions of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Governor — Constitutional head of a State."
+   "answer": 1,
+   "explanation": "Governor — Constitutional head of a State.",
+   "topic": "Institutions of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00660",
-   "q": "On which date is International Tea Day observed?",
-   "o": [
+   "question": "On which date is International Tea Day observed?",
+   "options": [
     "21 May",
     "20 October",
     "1 June",
     "15 September"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "International Tea Day is observed on 21 May."
+   "answer": 0,
+   "explanation": "International Tea Day is observed on 21 May.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00661",
-   "q": "Where is the headquarters of Bank for International Settlements?",
-   "o": [
+   "question": "Where is the headquarters of Bank for International Settlements?",
+   "options": [
     "Rome",
     "Cologny",
     "Brussels",
     "Basel"
    ],
-   "a": 3,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "Bank for International Settlements is headquartered at Basel."
+   "answer": 3,
+   "explanation": "Bank for International Settlements is headquartered at Basel.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00662",
-   "q": "Arjuna Award is associated with which of the following?",
-   "o": [
+   "question": "Arjuna Award is associated with which of the following?",
+   "options": [
     "Indian award in science and technology",
     "Outstanding performance in Indian sports",
     "Third highest peacetime gallantry award of India",
     "Highest military decoration of India"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Arjuna Award — Outstanding performance in Indian sports."
+   "answer": 1,
+   "explanation": "Arjuna Award — Outstanding performance in Indian sports.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00663",
-   "q": "First woman Prime Minister in the world is associated with which of the following?",
-   "o": [
+   "question": "First woman Prime Minister in the world is associated with which of the following?",
+   "options": [
     "Soviet Union",
     "Karnam Malleswari",
     "Abhinav Bindra",
     "Sirimavo Bandaranaike"
    ],
-   "a": 3,
-   "t": "First in the World",
-   "l": 2,
-   "s": "generated",
-   "e": "First woman Prime Minister in the world — Sirimavo Bandaranaike."
+   "answer": 3,
+   "explanation": "First woman Prime Minister in the world — Sirimavo Bandaranaike.",
+   "topic": "First in the World",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00664",
-   "q": "Which is the smallest ocean?",
-   "o": [
+   "question": "Which is the smallest ocean?",
+   "options": [
     "Sundarbans",
     "Arctic Ocean",
     "Bengaluru",
     "Kunchikal Falls"
    ],
-   "a": 1,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 1,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00665",
-   "q": "Which of the following pairs of soil and feature is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of soil and feature is correctly matched?",
+   "options": [
     "Peaty soil - Most fertile soil, found in the northern plains",
     "Peaty soil - Found in hilly and forest regions",
     "Peaty soil - Formed in waterlogged areas with organic matter",
     "Peaty soil - Formed from crystalline rocks, rich in iron"
    ],
-   "a": 2,
-   "t": "Soils of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Peaty soil - Formed in waterlogged areas with organic matter is correctly matched."
+   "answer": 2,
+   "explanation": "Only Peaty soil - Formed in waterlogged areas with organic matter is correctly matched.",
+   "topic": "Soils of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00666",
-   "q": "Which mineral is found in large quantities in Jharkhand?",
-   "o": [
+   "question": "Which mineral is found in large quantities in Jharkhand?",
+   "options": [
     "Kyanite",
     "Petroleum",
     "Graphite",
     "Chromite"
    ],
-   "a": 0,
-   "t": "Minerals and States",
-   "l": 3,
-   "s": "generated",
-   "e": "Kyanite is found in Jharkhand."
+   "answer": 0,
+   "explanation": "Kyanite is found in Jharkhand.",
+   "topic": "Minerals and States",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00667",
-   "q": "Which biosphere reserve or wetland is located in Tamil Nadu?",
-   "o": [
+   "question": "Which biosphere reserve or wetland is located in Tamil Nadu?",
+   "options": [
     "Point Calimere",
     "Cold Desert Biosphere Reserve",
     "Keoladeo Ghana",
     "Agasthyamalai Biosphere Reserve"
    ],
-   "a": 0,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Point Calimere is located in Tamil Nadu."
+   "answer": 0,
+   "explanation": "Point Calimere is located in Tamil Nadu.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00668",
-   "q": "What is the capital of Angola?",
-   "o": [
+   "question": "What is the capital of Angola?",
+   "options": [
     "Malabo",
     "Brasilia",
     "Lome",
     "Luanda"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Angola is Luanda."
+   "answer": 3,
+   "explanation": "The capital of Angola is Luanda.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00669",
-   "q": "Which element has the chemical symbol Gd?",
-   "o": [
+   "question": "Which element has the chemical symbol Gd?",
+   "options": [
     "Arsenic",
     "Nickel",
     "Californium",
     "Gadolinium"
    ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "Gd is the symbol of Gadolinium."
+   "answer": 3,
+   "explanation": "Gd is the symbol of Gadolinium.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00670",
-   "q": "What is the capital of Meghalaya?",
-   "o": [
+   "question": "What is the capital of Meghalaya?",
+   "options": [
     "Raipur",
     "Panaji",
     "Shillong",
     "Amaravati"
    ],
-   "a": 2,
-   "t": "States and Capitals",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Meghalaya is Shillong."
+   "answer": 2,
+   "explanation": "The capital of Meghalaya is Shillong.",
+   "topic": "States and Capitals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00671",
-   "q": "Vande Mataram holds which of the following positions in India?",
-   "o": [
+   "question": "Vande Mataram holds which of the following positions in India?",
+   "options": [
     "National Song",
     "National Emblem",
     "National Aquatic Animal",
     "National Anthem"
    ],
-   "a": 0,
-   "t": "National Symbols",
-   "l": 2,
-   "s": "generated",
-   "e": "Vande Mataram is the National Song of India."
+   "answer": 0,
+   "explanation": "Vande Mataram is the National Song of India.",
+   "topic": "National Symbols",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00672",
-   "q": "First Indian woman to become a judge of the Supreme Court is associated with which of the following?",
-   "o": [
+   "question": "First Indian woman to become a judge of the Supreme Court is associated with which of the following?",
+   "options": [
     "Aryabhata",
     "C. Rajagopalachari",
     "G. V. Mavalankar",
     "Justice Fathima Beevi"
    ],
-   "a": 3,
-   "t": "First in India",
-   "l": 2,
-   "s": "generated",
-   "e": "First Indian woman to become a judge of the Supreme Court — Justice Fathima Beevi."
+   "answer": 3,
+   "explanation": "First Indian woman to become a judge of the Supreme Court — Justice Fathima Beevi.",
+   "topic": "First in India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00673",
-   "q": "Cheraw is a folk or classical dance form of which state?",
-   "o": [
+   "question": "Cheraw is a folk or classical dance form of which state?",
+   "options": [
     "Mizoram",
     "Nagaland",
     "Kerala",
     "Tamil Nadu"
    ],
-   "a": 0,
-   "t": "Folk Dances of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Cheraw belongs to Mizoram."
+   "answer": 0,
+   "explanation": "Cheraw belongs to Mizoram.",
+   "topic": "Folk Dances of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00674",
-   "q": "Teej is a major festival of which state?",
-   "o": [
+   "question": "Teej is a major festival of which state?",
+   "options": [
     "Manipur",
     "Assam",
     "Madhya Pradesh",
     "Rajasthan"
    ],
-   "a": 3,
-   "t": "Festivals of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Teej is celebrated mainly in Rajasthan."
+   "answer": 3,
+   "explanation": "Teej is celebrated mainly in Rajasthan.",
+   "topic": "Festivals of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00675",
-   "q": "The river Periyar originates from which of the following?",
-   "o": [
+   "question": "The river Periyar originates from which of the following?",
+   "options": [
     "Satopanth Glacier",
     "Amarkantak",
     "Verinag",
     "Sivagiri Hills"
    ],
-   "a": 3,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Periyar originates from Sivagiri Hills."
+   "answer": 3,
+   "explanation": "Periyar originates from Sivagiri Hills.",
+   "topic": "Rivers of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00676",
-   "q": "Which of the following dams is built on the river Narmada?",
-   "o": [
+   "question": "Which of the following dams is built on the river Narmada?",
+   "options": [
     "Panchet Dam",
     "Bhavani Sagar Dam",
     "Koyna Dam",
     "Omkareshwar Dam"
    ],
-   "a": 3,
-   "t": "Dams of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Omkareshwar Dam is built on the Narmada."
+   "answer": 3,
+   "explanation": "Omkareshwar Dam is built on the Narmada.",
+   "topic": "Dams of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00677",
-   "q": "Hemis National Park is located in which state?",
-   "o": [
+   "question": "Hemis National Park is located in which state?",
+   "options": [
     "Ladakh",
     "Jharkhand",
     "Himachal Pradesh",
     "Maharashtra"
    ],
-   "a": 0,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Hemis National Park is located in Ladakh."
+   "answer": 0,
+   "explanation": "Hemis National Park is located in Ladakh.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00678",
-   "q": "Khardung La pass is located in which state or union territory?",
-   "o": [
+   "question": "Khardung La pass is located in which state or union territory?",
+   "options": [
     "Kerala",
     "Ladakh",
     "Jammu and Kashmir",
     "Arunachal Pradesh"
    ],
-   "a": 1,
-   "t": "Mountain Passes of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Khardung La is located in Ladakh."
+   "answer": 1,
+   "explanation": "Khardung La is located in Ladakh.",
+   "topic": "Mountain Passes of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00679",
-   "q": "What is the SI unit of Catalytic activity?",
-   "o": [
+   "question": "What is the SI unit of Catalytic activity?",
+   "options": [
     "Lumen",
     "Tesla",
     "Ohm",
     "Katal"
    ],
-   "a": 3,
-   "t": "SI Units",
-   "l": 1,
-   "s": "generated",
-   "e": "The SI unit of Catalytic activity is the Katal."
+   "answer": 3,
+   "explanation": "The SI unit of Catalytic activity is the Katal.",
+   "topic": "SI Units",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00680",
-   "q": "Which instrument is used to measure Viscosity of liquids?",
-   "o": [
+   "question": "Which instrument is used to measure Viscosity of liquids?",
+   "options": [
     "Crescograph",
     "Viscometer",
     "Calorimeter",
     "Thermometer"
    ],
-   "a": 1,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Viscometer is used to measure Viscosity of liquids."
+   "answer": 1,
+   "explanation": "Viscometer is used to measure Viscosity of liquids.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00681",
-   "q": "Deficiency of which nutrient causes Ariboflavinosis?",
-   "o": [
+   "question": "Deficiency of which nutrient causes Ariboflavinosis?",
+   "options": [
     "Sodium",
     "Vitamin B2",
     "Calcium",
     "Vitamin B9"
    ],
-   "a": 1,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Vitamin B2 causes Ariboflavinosis."
+   "answer": 1,
+   "explanation": "Deficiency of Vitamin B2 causes Ariboflavinosis.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00682",
-   "q": "Who is credited with Jet engine?",
-   "o": [
+   "question": "Who is credited with Jet engine?",
+   "options": [
     "Thomas Alva Edison",
     "Frank Whittle",
     "Rene Laennec",
     "Karl Benz"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Jet engine — Frank Whittle."
+   "answer": 1,
+   "explanation": "Jet engine — Frank Whittle.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00683",
-   "q": "What is the chemical name of Oil of vitriol?",
-   "o": [
+   "question": "What is the chemical name of Oil of vitriol?",
+   "options": [
     "Sodium tetraborate (Na2B4O7.10H2O)",
     "Sulphuric acid (H2SO4)",
     "Acetylsalicylic acid",
     "Sodium bicarbonate (NaHCO3)"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Oil of vitriol is Sulphuric acid (H2SO4)."
+   "answer": 1,
+   "explanation": "Oil of vitriol is Sulphuric acid (H2SO4).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00684",
-   "q": "Which branch of science deals with Garden cultivation?",
-   "o": [
+   "question": "Which branch of science deals with Garden cultivation?",
+   "options": [
     "Biology",
     "Horticulture",
     "Mechanics",
     "Virology"
    ],
-   "a": 1,
-   "t": "Branches of Science",
-   "l": 2,
-   "s": "generated",
-   "e": "Horticulture deals with Garden cultivation."
+   "answer": 1,
+   "explanation": "Horticulture deals with Garden cultivation.",
+   "topic": "Branches of Science",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00685",
-   "q": "Which planet or body is described as: Nebula?",
-   "o": [
+   "question": "Which planet or body is described as: Nebula?",
+   "options": [
     "Earth",
     "Nebula",
     "Meteorite",
     "Light year"
    ],
-   "a": 1,
-   "t": "Astronomy",
-   "l": 2,
-   "s": "generated",
-   "e": "Nebula — Nebula."
+   "answer": 1,
+   "explanation": "Nebula — Nebula.",
+   "topic": "Astronomy",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00686",
-   "q": "Srinivasa Ramanujan is known for which of the following?",
-   "o": [
+   "question": "Srinivasa Ramanujan is known for which of the following?",
+   "options": [
     "Laws of falling bodies and telescope studies",
     "Number theory",
     "Indian nuclear programme",
     "Fahrenheit temperature scale"
    ],
-   "a": 1,
-   "t": "Scientists",
-   "l": 2,
-   "s": "generated",
-   "e": "Srinivasa Ramanujan is known for Number theory."
+   "answer": 1,
+   "explanation": "Srinivasa Ramanujan is known for Number theory.",
+   "topic": "Scientists",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00687",
-   "q": "Reserve Bank of India is best described as which of the following?",
-   "o": [
+   "question": "Reserve Bank of India is best described as which of the following?",
+   "options": [
     "Administered by the President through administrators",
     "Law-making body of a State",
     "Second highest law officer of the Union",
     "Central bank and monetary authority"
    ],
-   "a": 3,
-   "t": "Institutions of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Reserve Bank of India — Central bank and monetary authority."
+   "answer": 3,
+   "explanation": "Reserve Bank of India — Central bank and monetary authority.",
+   "topic": "Institutions of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00688",
-   "q": "On which date is World Environment Day observed?",
-   "o": [
+   "question": "On which date is World Environment Day observed?",
+   "options": [
     "17 November",
     "28 July",
     "5 June",
     "14 December"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Environment Day is observed on 5 June."
+   "answer": 2,
+   "explanation": "World Environment Day is observed on 5 June.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00689",
-   "q": "Where is the headquarters of New Development Bank?",
-   "o": [
+   "question": "Where is the headquarters of New Development Bank?",
+   "options": [
     "Shanghai",
     "New Delhi",
     "Gland",
     "Berlin"
    ],
-   "a": 0,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "New Development Bank is headquartered at Shanghai."
+   "answer": 0,
+   "explanation": "New Development Bank is headquartered at Shanghai.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00690",
-   "q": "Indian Premier League is associated with which sport?",
-   "o": [
+   "question": "Indian Premier League is associated with which sport?",
+   "options": [
     "Football",
     "Cricket",
     "Multi-sport",
     "Tennis"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Indian Premier League is associated with Cricket."
+   "answer": 1,
+   "explanation": "Indian Premier League is associated with Cricket.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00691",
-   "q": "Vyas Samman is associated with which of the following?",
-   "o": [
+   "question": "Vyas Samman is associated with which of the following?",
+   "options": [
     "Third highest military decoration of India",
     "Awards for Indian cinema",
     "Second highest civilian award of India",
     "Indian literary award"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Vyas Samman — Indian literary award."
+   "answer": 3,
+   "explanation": "Vyas Samman — Indian literary award.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00692",
-   "q": "First Secretary-General of the United Nations is associated with which of the following?",
-   "o": [
+   "question": "First Secretary-General of the United Nations is associated with which of the following?",
+   "options": [
     "New Zealand",
     "Yuri Gagarin",
     "Edmund Hillary",
     "Trygve Lie"
    ],
-   "a": 3,
-   "t": "First in the World",
-   "l": 2,
-   "s": "generated",
-   "e": "First Secretary-General of the United Nations — Trygve Lie."
+   "answer": 3,
+   "explanation": "First Secretary-General of the United Nations — Trygve Lie.",
+   "topic": "First in the World",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00693",
-   "q": "Which is the longest river in Africa?",
-   "o": [
+   "question": "Which is the longest river in Africa?",
+   "options": [
     "Amazon Rainforest",
     "Nile",
     "Volga",
     "Majuli"
    ],
-   "a": 1,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 1,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00694",
-   "q": "Which of the following pairs of soil and feature is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of soil and feature is correctly matched?",
+   "options": [
     "Alluvial soil - Contains excess salt, found in dry coastal areas",
     "Alluvial soil - Sandy soil of arid regions",
     "Alluvial soil - Most fertile soil, found in the northern plains",
     "Alluvial soil - Formed in waterlogged areas with organic matter"
    ],
-   "a": 2,
-   "t": "Soils of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Alluvial soil - Most fertile soil, found in the northern plains is correctly matched."
+   "answer": 2,
+   "explanation": "Only Alluvial soil - Most fertile soil, found in the northern plains is correctly matched.",
+   "topic": "Soils of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00695",
-   "q": "Which mineral is found in large quantities in Rajasthan?",
-   "o": [
+   "question": "Which mineral is found in large quantities in Rajasthan?",
+   "options": [
     "Natural gas",
     "Uranium",
     "Limestone",
     "Rock phosphate"
    ],
-   "a": 3,
-   "t": "Minerals and States",
-   "l": 3,
-   "s": "generated",
-   "e": "Rock phosphate is found in Rajasthan."
+   "answer": 3,
+   "explanation": "Rock phosphate is found in Rajasthan.",
+   "topic": "Minerals and States",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00696",
-   "q": "Which biosphere reserve or wetland is located in Rajasthan?",
-   "o": [
+   "question": "Which biosphere reserve or wetland is located in Rajasthan?",
+   "options": [
     "Seshachalam Biosphere Reserve",
     "Kanchenjunga Biosphere Reserve",
     "Great Nicobar Biosphere Reserve",
     "Sambhar Lake"
    ],
-   "a": 3,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Sambhar Lake is located in Rajasthan."
+   "answer": 3,
+   "explanation": "Sambhar Lake is located in Rajasthan.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00697",
-   "q": "What is the capital of Burkina Faso?",
-   "o": [
+   "question": "What is the capital of Burkina Faso?",
+   "options": [
     "Ouagadougou",
     "Paris",
     "Bandar Seri Begawan",
     "Andorra la Vella"
    ],
-   "a": 0,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Burkina Faso is Ouagadougou."
+   "answer": 0,
+   "explanation": "The capital of Burkina Faso is Ouagadougou.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00698",
-   "q": "Which element has the chemical symbol Hs?",
-   "o": [
+   "question": "Which element has the chemical symbol Hs?",
+   "options": [
     "Seaborgium",
     "Hassium",
     "Meitnerium",
     "Flerovium"
    ],
-   "a": 1,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "Hs is the symbol of Hassium."
+   "answer": 1,
+   "explanation": "Hs is the symbol of Hassium.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00699",
-   "q": "What is the capital of Madhya Pradesh?",
-   "o": [
+   "question": "What is the capital of Madhya Pradesh?",
+   "options": [
     "Patna",
     "Hyderabad",
     "Agartala",
     "Bhopal"
    ],
-   "a": 3,
-   "t": "States and Capitals",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Madhya Pradesh is Bhopal."
+   "answer": 3,
+   "explanation": "The capital of Madhya Pradesh is Bhopal.",
+   "topic": "States and Capitals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00700",
-   "q": "Lion Capital of Ashoka holds which of the following positions in India?",
-   "o": [
+   "question": "Lion Capital of Ashoka holds which of the following positions in India?",
+   "options": [
     "National Flower",
     "National Emblem",
     "National Anthem",
     "National Song"
    ],
-   "a": 1,
-   "t": "National Symbols",
-   "l": 2,
-   "s": "generated",
-   "e": "Lion Capital of Ashoka is the National Emblem of India."
+   "answer": 1,
+   "explanation": "Lion Capital of Ashoka is the National Emblem of India.",
+   "topic": "National Symbols",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00701",
-   "q": "First Indian Prime Minister to visit China is associated with which of the following?",
-   "o": [
+   "question": "First Indian Prime Minister to visit China is associated with which of the following?",
+   "options": [
     "Rakesh Sharma",
     "Karnam Malleswari",
     "Reita Faria",
     "Jawaharlal Nehru"
    ],
-   "a": 3,
-   "t": "First in India",
-   "l": 2,
-   "s": "generated",
-   "e": "First Indian Prime Minister to visit China — Jawaharlal Nehru."
+   "answer": 3,
+   "explanation": "First Indian Prime Minister to visit China — Jawaharlal Nehru.",
+   "topic": "First in India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00702",
-   "q": "Kolattam is a folk or classical dance form of which state?",
-   "o": [
+   "question": "Kolattam is a folk or classical dance form of which state?",
+   "options": [
     "Gujarat",
     "Jammu and Kashmir",
     "Tamil Nadu",
     "Andhra Pradesh"
    ],
-   "a": 3,
-   "t": "Folk Dances of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Kolattam belongs to Andhra Pradesh."
+   "answer": 3,
+   "explanation": "Kolattam belongs to Andhra Pradesh.",
+   "topic": "Folk Dances of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00703",
-   "q": "Chapchar Kut is a major festival of which state?",
-   "o": [
+   "question": "Chapchar Kut is a major festival of which state?",
+   "options": [
     "Ladakh",
     "Kerala",
     "Karnataka",
     "Mizoram"
    ],
-   "a": 3,
-   "t": "Festivals of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Chapchar Kut is celebrated mainly in Mizoram."
+   "answer": 3,
+   "explanation": "Chapchar Kut is celebrated mainly in Mizoram.",
+   "topic": "Festivals of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00704",
-   "q": "The river Vaigai originates from which of the following?",
-   "o": [
+   "question": "The river Vaigai originates from which of the following?",
+   "options": [
     "Amarkantak",
     "Mapchachungo",
     "Kudali",
     "Varusanadu Hills"
    ],
-   "a": 3,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Vaigai originates from Varusanadu Hills."
+   "answer": 3,
+   "explanation": "Vaigai originates from Varusanadu Hills.",
+   "topic": "Rivers of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00705",
-   "q": "Which of the following dams is built on the river Bhavani?",
-   "o": [
+   "question": "Which of the following dams is built on the river Bhavani?",
+   "options": [
     "Baglihar Dam",
     "Bhakra Nangal Dam",
     "Sardar Sarovar Dam",
     "Bhavani Sagar Dam"
    ],
-   "a": 3,
-   "t": "Dams of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Bhavani Sagar Dam is built on the Bhavani."
+   "answer": 3,
+   "explanation": "Bhavani Sagar Dam is built on the Bhavani.",
+   "topic": "Dams of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00706",
-   "q": "Sunderbans Tiger Reserve is located in which state?",
-   "o": [
+   "question": "Sunderbans Tiger Reserve is located in which state?",
+   "options": [
     "West Bengal",
     "Arunachal Pradesh",
     "Assam",
     "Chhattisgarh"
    ],
-   "a": 0,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Sunderbans Tiger Reserve is located in West Bengal."
+   "answer": 0,
+   "explanation": "Sunderbans Tiger Reserve is located in West Bengal.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00707",
-   "q": "Pir Panjal Pass pass is located in which state or union territory?",
-   "o": [
+   "question": "Pir Panjal Pass pass is located in which state or union territory?",
+   "options": [
     "Sikkim",
     "Rajasthan",
     "Ladakh",
     "Jammu and Kashmir"
    ],
-   "a": 3,
-   "t": "Mountain Passes of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Pir Panjal Pass is located in Jammu and Kashmir."
+   "answer": 3,
+   "explanation": "Pir Panjal Pass is located in Jammu and Kashmir.",
+   "topic": "Mountain Passes of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00708",
-   "q": "What is the SI unit of Plane angle?",
-   "o": [
+   "question": "What is the SI unit of Plane angle?",
+   "options": [
     "Newton",
     "Weber",
     "Joule per Kelvin",
     "Radian"
    ],
-   "a": 3,
-   "t": "SI Units",
-   "l": 1,
-   "s": "generated",
-   "e": "The SI unit of Plane angle is the Radian."
+   "answer": 3,
+   "explanation": "The SI unit of Plane angle is the Radian.",
+   "topic": "SI Units",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00709",
-   "q": "Which instrument is used to measure Hearing sensitivity?",
-   "o": [
+   "question": "Which instrument is used to measure Hearing sensitivity?",
+   "options": [
     "Audiometer",
     "Seismograph",
     "Pyrometer",
     "Radiometer"
    ],
-   "a": 0,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Audiometer is used to measure Hearing sensitivity."
+   "answer": 0,
+   "explanation": "Audiometer is used to measure Hearing sensitivity.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00710",
-   "q": "Which disease is caused by the deficiency of Vitamin B2?",
-   "o": [
+   "question": "Which disease is caused by the deficiency of Vitamin B2?",
+   "options": [
     "Ariboflavinosis",
     "Pernicious anaemia",
     "Tetany",
     "Tooth decay"
    ],
-   "a": 0,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Vitamin B2 causes Ariboflavinosis."
+   "answer": 0,
+   "explanation": "Deficiency of Vitamin B2 causes Ariboflavinosis.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00711",
-   "q": "Who is credited with Transistor?",
-   "o": [
+   "question": "Who is credited with Transistor?",
+   "options": [
     "John Bardeen and colleagues",
     "Henry Cavendish",
     "J. J. Thomson",
     "Michael Faraday"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Transistor — John Bardeen and colleagues."
+   "answer": 0,
+   "explanation": "Transistor — John Bardeen and colleagues.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00712",
-   "q": "What is the chemical name of Milk of magnesia?",
-   "o": [
+   "question": "What is the chemical name of Milk of magnesia?",
+   "options": [
     "Magnesium hydroxide (Mg(OH)2)",
     "Calcium sulphate hemihydrate (CaSO4.1/2H2O)",
     "Potassium aluminium sulphate",
     "Nitrous oxide (N2O)"
    ],
-   "a": 0,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Milk of magnesia is Magnesium hydroxide (Mg(OH)2)."
+   "answer": 0,
+   "explanation": "Milk of magnesia is Magnesium hydroxide (Mg(OH)2).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00713",
-   "q": "Which branch of science deals with Tissues?",
-   "o": [
+   "question": "Which branch of science deals with Tissues?",
+   "options": [
     "Histology",
     "Nuclear physics",
     "Ophthalmology",
     "Geology"
    ],
-   "a": 0,
-   "t": "Branches of Science",
-   "l": 2,
-   "s": "generated",
-   "e": "Histology deals with Tissues."
+   "answer": 0,
+   "explanation": "Histology deals with Tissues.",
+   "topic": "Branches of Science",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00714",
-   "q": "Which planet or body is described as: Saturn?",
-   "o": [
+   "question": "Which planet or body is described as: Saturn?",
+   "options": [
     "Titan",
     "Asteroid",
     "Europa",
     "Saturn"
    ],
-   "a": 0,
-   "t": "Astronomy",
-   "l": 2,
-   "s": "generated",
-   "e": "Titan — Saturn."
+   "answer": 0,
+   "explanation": "Titan — Saturn.",
+   "topic": "Astronomy",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00715",
-   "q": "Alessandro Volta is known for which of the following?",
-   "o": [
+   "question": "Alessandro Volta is known for which of the following?",
+   "options": [
     "Electric battery",
     "Missile and space launch technology",
     "Telephone",
     "Atomic model"
    ],
-   "a": 0,
-   "t": "Scientists",
-   "l": 2,
-   "s": "generated",
-   "e": "Alessandro Volta is known for Electric battery."
+   "answer": 0,
+   "explanation": "Alessandro Volta is known for Electric battery.",
+   "topic": "Scientists",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00716",
-   "q": "Rajya Sabha is best described as which of the following?",
-   "o": [
+   "question": "Rajya Sabha is best described as which of the following?",
+   "options": [
     "Audits government accounts",
     "Head of the State Government",
     "Regulator of the insurance sector",
     "Council of States, permanent house"
    ],
-   "a": 3,
-   "t": "Institutions of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Rajya Sabha — Council of States, permanent house."
+   "answer": 3,
+   "explanation": "Rajya Sabha — Council of States, permanent house.",
+   "topic": "Institutions of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00717",
-   "q": "On which date is International Day of Education observed?",
-   "o": [
+   "question": "On which date is International Day of Education observed?",
+   "options": [
     "24 January",
     "14 December",
     "20 March",
     "4 October"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "International Day of Education is observed on 24 January."
+   "answer": 0,
+   "explanation": "International Day of Education is observed on 24 January.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00718",
-   "q": "Where is the headquarters of World Wide Fund for Nature?",
-   "o": [
+   "question": "Where is the headquarters of World Wide Fund for Nature?",
+   "options": [
     "Manila",
     "Beijing",
     "Gland",
     "Lausanne"
    ],
-   "a": 2,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "World Wide Fund for Nature is headquartered at Gland."
+   "answer": 2,
+   "explanation": "World Wide Fund for Nature is headquartered at Gland.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00719",
-   "q": "Irani Cup is associated with which sport?",
-   "o": [
+   "question": "Irani Cup is associated with which sport?",
+   "options": [
     "Badminton",
     "Tennis",
     "Cricket",
     "Football"
    ],
-   "a": 2,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Irani Cup is associated with Cricket."
+   "answer": 2,
+   "explanation": "Irani Cup is associated with Cricket.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00720",
-   "q": "Dronacharya Award is associated with which of the following?",
-   "o": [
+   "question": "Dronacharya Award is associated with which of the following?",
+   "options": [
     "American award for music",
     "Coaching excellence in Indian sports",
     "Indian award for research",
     "UNESCO award for popularisation of science"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Dronacharya Award — Coaching excellence in Indian sports."
+   "answer": 1,
+   "explanation": "Dronacharya Award — Coaching excellence in Indian sports.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00721",
-   "q": "First person to climb Mount Everest is associated with which of the following?",
-   "o": [
+   "question": "First person to climb Mount Everest is associated with which of the following?",
+   "options": [
     "Rabindranath Tagore",
     "Uruguay",
     "Roger Bannister",
     "Edmund Hillary"
    ],
-   "a": 3,
-   "t": "First in the World",
-   "l": 2,
-   "s": "generated",
-   "e": "First person to climb Mount Everest — Edmund Hillary."
+   "answer": 3,
+   "explanation": "First person to climb Mount Everest — Edmund Hillary.",
+   "topic": "First in the World",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00722",
-   "q": "Which country shares the longest border with India?",
-   "o": [
+   "question": "Which country shares the longest border with India?",
+   "options": [
     "Bangladesh",
     "Norway",
     "Kanchenjunga",
     "Nile"
    ],
-   "a": 0,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 0,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00723",
-   "q": "Which of the following pairs of soil and feature is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of soil and feature is correctly matched?",
+   "options": [
     "Alluvial soil - Also called regur, ideal for cotton",
     "Alluvial soil - Most fertile soil, found in the northern plains",
     "Alluvial soil - Formed in waterlogged areas with organic matter",
     "Alluvial soil - Formed by leaching in high rainfall areas"
    ],
-   "a": 1,
-   "t": "Soils of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Alluvial soil - Most fertile soil, found in the northern plains is correctly matched."
+   "answer": 1,
+   "explanation": "Only Alluvial soil - Most fertile soil, found in the northern plains is correctly matched.",
+   "topic": "Soils of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00724",
-   "q": "Which mineral is found in large quantities in Jharkhand?",
-   "o": [
+   "question": "Which mineral is found in large quantities in Jharkhand?",
+   "options": [
     "Graphite",
     "Coal",
     "Manganese",
     "Uranium"
    ],
-   "a": 3,
-   "t": "Minerals and States",
-   "l": 3,
-   "s": "generated",
-   "e": "Uranium is found in Jharkhand."
+   "answer": 3,
+   "explanation": "Uranium is found in Jharkhand.",
+   "topic": "Minerals and States",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00725",
-   "q": "Which biosphere reserve or wetland is located in Sikkim?",
-   "o": [
+   "question": "Which biosphere reserve or wetland is located in Sikkim?",
+   "options": [
     "Keoladeo Ghana",
     "Nilgiri Biosphere Reserve",
     "Gulf of Mannar Biosphere Reserve",
     "Kanchenjunga Biosphere Reserve"
    ],
-   "a": 3,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Kanchenjunga Biosphere Reserve is located in Sikkim."
+   "answer": 3,
+   "explanation": "Kanchenjunga Biosphere Reserve is located in Sikkim.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00726",
-   "q": "What is the capital of Equatorial Guinea?",
-   "o": [
+   "question": "What is the capital of Equatorial Guinea?",
+   "options": [
     "Tbilisi",
     "Malabo",
     "Madrid",
     "Bandar Seri Begawan"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Equatorial Guinea is Malabo."
+   "answer": 1,
+   "explanation": "The capital of Equatorial Guinea is Malabo.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00727",
-   "q": "Which element has the chemical symbol Xe?",
-   "o": [
+   "question": "Which element has the chemical symbol Xe?",
+   "options": [
     "Calcium",
     "Xenon",
     "Phosphorus",
     "Potassium"
    ],
-   "a": 1,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "Xe is the symbol of Xenon."
+   "answer": 1,
+   "explanation": "Xe is the symbol of Xenon.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00728",
-   "q": "What is the capital of Tamil Nadu?",
-   "o": [
+   "question": "What is the capital of Tamil Nadu?",
+   "options": [
     "Chandigarh",
     "Kolkata",
     "Bhubaneswar",
     "Chennai"
    ],
-   "a": 3,
-   "t": "States and Capitals",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Tamil Nadu is Chennai."
+   "answer": 3,
+   "explanation": "The capital of Tamil Nadu is Chennai.",
+   "topic": "States and Capitals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00729",
-   "q": "Banyan holds which of the following positions in India?",
-   "o": [
+   "question": "Banyan holds which of the following positions in India?",
+   "options": [
     "National Tree",
     "National Song",
     "National River",
     "National Calendar"
    ],
-   "a": 0,
-   "t": "National Symbols",
-   "l": 2,
-   "s": "generated",
-   "e": "Banyan is the National Tree of India."
+   "answer": 0,
+   "explanation": "Banyan is the National Tree of India.",
+   "topic": "National Symbols",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00730",
-   "q": "First Indian to win a Nobel Prize is associated with which of the following?",
-   "o": [
+   "question": "First Indian to win a Nobel Prize is associated with which of the following?",
+   "options": [
     "Rabindranath Tagore",
     "Mihir Sen",
     "Abhinav Bindra",
     "Dr. Rajendra Prasad"
    ],
-   "a": 0,
-   "t": "First in India",
-   "l": 2,
-   "s": "generated",
-   "e": "First Indian to win a Nobel Prize — Rabindranath Tagore."
+   "answer": 0,
+   "explanation": "First Indian to win a Nobel Prize — Rabindranath Tagore.",
+   "topic": "First in India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00731",
-   "q": "Kummi is a folk or classical dance form of which state?",
-   "o": [
+   "question": "Kummi is a folk or classical dance form of which state?",
+   "options": [
     "Assam",
     "Uttar Pradesh",
     "Nagaland",
     "Tamil Nadu"
    ],
-   "a": 3,
-   "t": "Folk Dances of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Kummi belongs to Tamil Nadu."
+   "answer": 3,
+   "explanation": "Kummi belongs to Tamil Nadu.",
+   "topic": "Folk Dances of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00732",
-   "q": "Bhagoria is a major festival of which state?",
-   "o": [
+   "question": "Bhagoria is a major festival of which state?",
+   "options": [
     "Assam",
     "Kerala",
     "Madhya Pradesh",
     "West Bengal"
    ],
-   "a": 2,
-   "t": "Festivals of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Bhagoria is celebrated mainly in Madhya Pradesh."
+   "answer": 2,
+   "explanation": "Bhagoria is celebrated mainly in Madhya Pradesh.",
+   "topic": "Festivals of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00733",
-   "q": "The river Godavari originates from which of the following?",
-   "o": [
+   "question": "The river Godavari originates from which of the following?",
+   "options": [
     "Trimbakeshwar",
     "Bhimashankar",
     "Udaipur",
     "Gangotri Glacier"
    ],
-   "a": 0,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Godavari originates from Trimbakeshwar."
+   "answer": 0,
+   "explanation": "Godavari originates from Trimbakeshwar.",
+   "topic": "Rivers of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00734",
-   "q": "Which of the following dams is built on the river Narmada?",
-   "o": [
+   "question": "Which of the following dams is built on the river Narmada?",
+   "options": [
     "Baglihar Dam",
     "Idukki Dam",
     "Indira Sagar Dam",
     "Sardar Sarovar Dam"
    ],
-   "a": 2,
-   "t": "Dams of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Indira Sagar Dam is built on the Narmada."
+   "answer": 2,
+   "explanation": "Indira Sagar Dam is built on the Narmada.",
+   "topic": "Dams of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00735",
-   "q": "Udanti Sitanadi Tiger Reserve is located in which state?",
-   "o": [
+   "question": "Udanti Sitanadi Tiger Reserve is located in which state?",
+   "options": [
     "Bihar",
     "Maharashtra",
     "Chhattisgarh",
     "Karnataka"
    ],
-   "a": 2,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Udanti Sitanadi Tiger Reserve is located in Chhattisgarh."
+   "answer": 2,
+   "explanation": "Udanti Sitanadi Tiger Reserve is located in Chhattisgarh.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00736",
-   "q": "Which of the following passes is located in Jammu and Kashmir?",
-   "o": [
+   "question": "Which of the following passes is located in Jammu and Kashmir?",
+   "options": [
     "Se La Pass",
     "Bomdila Pass",
     "Banihal Pass",
     "Mana Pass"
    ],
-   "a": 2,
-   "t": "Mountain Passes of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Banihal Pass is a pass in Jammu and Kashmir."
+   "answer": 2,
+   "explanation": "Banihal Pass is a pass in Jammu and Kashmir.",
+   "topic": "Mountain Passes of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00737",
-   "q": "What is the SI unit of Amount of substance?",
-   "o": [
+   "question": "What is the SI unit of Amount of substance?",
+   "options": [
     "Mole",
     "Pascal second",
     "Siemens",
     "Metre"
    ],
-   "a": 0,
-   "t": "SI Units",
-   "l": 1,
-   "s": "generated",
-   "e": "The SI unit of Amount of substance is the Mole."
+   "answer": 0,
+   "explanation": "The SI unit of Amount of substance is the Mole.",
+   "topic": "SI Units",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00738",
-   "q": "Which instrument is used to measure Wind speed?",
-   "o": [
+   "question": "Which instrument is used to measure Wind speed?",
+   "options": [
     "Crescograph",
     "Barometer",
     "Anemometer",
     "Manometer"
    ],
-   "a": 2,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Anemometer is used to measure Wind speed."
+   "answer": 2,
+   "explanation": "Anemometer is used to measure Wind speed.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00739",
-   "q": "Which disease is caused by the deficiency of Calcium?",
-   "o": [
+   "question": "Which disease is caused by the deficiency of Calcium?",
+   "options": [
     "Osteoporosis",
     "Night blindness",
     "Haemolysis of red blood cells",
     "Tetany"
    ],
-   "a": 0,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Calcium causes Osteoporosis."
+   "answer": 0,
+   "explanation": "Deficiency of Calcium causes Osteoporosis.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00740",
-   "q": "Who is credited with Laser?",
-   "o": [
+   "question": "Who is credited with Laser?",
+   "options": [
     "John Logie Baird",
     "Joseph Lister",
     "Henry Cavendish",
     "Theodore Maiman"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Laser — Theodore Maiman."
+   "answer": 3,
+   "explanation": "Laser — Theodore Maiman.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00741",
-   "q": "What is the chemical name of Lime water?",
-   "o": [
+   "question": "What is the chemical name of Lime water?",
+   "options": [
     "Sodium tetraborate (Na2B4O7.10H2O)",
     "Sodium chloride (NaCl)",
     "Calcium hydroxide (Ca(OH)2)",
     "Potassium hydroxide (KOH)"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Lime water is Calcium hydroxide (Ca(OH)2)."
+   "answer": 2,
+   "explanation": "Lime water is Calcium hydroxide (Ca(OH)2).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00742",
-   "q": "Which branch of science deals with Cells?",
-   "o": [
+   "question": "Which branch of science deals with Cells?",
+   "options": [
     "Botany",
     "Thermodynamics",
     "Nuclear physics",
     "Cytology"
    ],
-   "a": 3,
-   "t": "Branches of Science",
-   "l": 2,
-   "s": "generated",
-   "e": "Cytology deals with Cells."
+   "answer": 3,
+   "explanation": "Cytology deals with Cells.",
+   "topic": "Branches of Science",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00743",
-   "q": "Which of the following statements about Nebula is correct?",
-   "o": [
+   "question": "Which of the following statements about Nebula is correct?",
+   "options": [
     "Nebula",
     "Astronomical unit",
     "Saturn",
     "Moon"
    ],
-   "a": 0,
-   "t": "Astronomy",
-   "l": 3,
-   "s": "generated",
-   "e": "Nebula: Nebula."
+   "answer": 0,
+   "explanation": "Nebula: Nebula.",
+   "topic": "Astronomy",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00744",
-   "q": "Andre Ampere is known for which of the following?",
-   "o": [
+   "question": "Andre Ampere is known for which of the following?",
+   "options": [
     "Heliocentric model of the Solar System",
     "Ionisation theory of stars",
     "Missile and space launch technology",
     "Electrodynamics"
    ],
-   "a": 3,
-   "t": "Scientists",
-   "l": 2,
-   "s": "generated",
-   "e": "Andre Ampere is known for Electrodynamics."
+   "answer": 3,
+   "explanation": "Andre Ampere is known for Electrodynamics.",
+   "topic": "Scientists",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00745",
-   "q": "Supreme Court of India is best described as which of the following?",
-   "o": [
+   "question": "Supreme Court of India is best described as which of the following?",
+   "options": [
     "Apex judicial body of India",
     "Regulator of the securities market",
     "Head of the Indian judiciary",
     "Constitutional head of the Republic"
    ],
-   "a": 0,
-   "t": "Institutions of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Supreme Court of India — Apex judicial body of India."
+   "answer": 0,
+   "explanation": "Supreme Court of India — Apex judicial body of India.",
+   "topic": "Institutions of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00746",
-   "q": "On which date is International Mother Earth Day observed?",
-   "o": [
+   "question": "On which date is International Mother Earth Day observed?",
+   "options": [
     "22 April",
     "2 February",
     "14 December",
     "19 November"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "International Mother Earth Day is observed on 22 April."
+   "answer": 0,
+   "explanation": "International Mother Earth Day is observed on 22 April.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00747",
-   "q": "Where is the headquarters of United Nations?",
-   "o": [
+   "question": "Where is the headquarters of United Nations?",
+   "options": [
     "Vienna",
     "Montreal",
     "New York",
     "Kathmandu"
    ],
-   "a": 2,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "United Nations is headquartered at New York."
+   "answer": 2,
+   "explanation": "United Nations is headquartered at New York.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00748",
-   "q": "Kalinga Prize is associated with which of the following?",
-   "o": [
+   "question": "Kalinga Prize is associated with which of the following?",
+   "options": [
     "Highest peacetime gallantry award of India",
     "UNESCO award for popularisation of science",
     "British award for fiction",
     "Award for progress in spiritual matters"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Kalinga Prize — UNESCO award for popularisation of science."
+   "answer": 1,
+   "explanation": "Kalinga Prize — UNESCO award for popularisation of science.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00749",
-   "q": "First country to send a human into space is associated with which of the following?",
-   "o": [
+   "question": "First country to send a human into space is associated with which of the following?",
+   "options": [
     "Soviet Union",
     "Rabindranath Tagore",
     "Junko Tabei",
     "Joshua Slocum"
    ],
-   "a": 0,
-   "t": "First in the World",
-   "l": 2,
-   "s": "generated",
-   "e": "First country to send a human into space — Soviet Union."
+   "answer": 0,
+   "explanation": "First country to send a human into space — Soviet Union.",
+   "topic": "First in the World",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00750",
-   "q": "Which Indian city is called the City of Temples?",
-   "o": [
+   "question": "Which Indian city is called the City of Temples?",
+   "options": [
     "Punjab",
     "Andhra Pradesh",
     "Varanasi",
     "Mumbai"
    ],
-   "a": 2,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 2,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00751",
-   "q": "Which of the following pairs of soil and feature is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of soil and feature is correctly matched?",
+   "options": [
     "Mountain soil - Found in hilly and forest regions",
     "Mountain soil - Also called regur, ideal for cotton",
     "Mountain soil - Formed from crystalline rocks, rich in iron",
     "Mountain soil - Sandy soil of arid regions"
    ],
-   "a": 0,
-   "t": "Soils of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Mountain soil - Found in hilly and forest regions is correctly matched."
+   "answer": 0,
+   "explanation": "Only Mountain soil - Found in hilly and forest regions is correctly matched.",
+   "topic": "Soils of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00752",
-   "q": "Which mineral is found in large quantities in Rajasthan?",
-   "o": [
+   "question": "Which mineral is found in large quantities in Rajasthan?",
+   "options": [
     "Graphite",
     "Chromite",
     "Lead and zinc",
     "Manganese"
    ],
-   "a": 2,
-   "t": "Minerals and States",
-   "l": 3,
-   "s": "generated",
-   "e": "Lead and zinc is found in Rajasthan."
+   "answer": 2,
+   "explanation": "Lead and zinc is found in Rajasthan.",
+   "topic": "Minerals and States",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00753",
-   "q": "Which biosphere reserve or wetland is located in Manipur?",
-   "o": [
+   "question": "Which biosphere reserve or wetland is located in Manipur?",
+   "options": [
     "Keoladeo Ghana",
     "Agasthyamalai Biosphere Reserve",
     "Loktak Lake",
     "Gulf of Mannar Biosphere Reserve"
    ],
-   "a": 2,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Loktak Lake is located in Manipur."
+   "answer": 2,
+   "explanation": "Loktak Lake is located in Manipur.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00754",
-   "q": "What is the capital of New Zealand?",
-   "o": [
+   "question": "What is the capital of New Zealand?",
+   "options": [
     "Berlin",
     "Wellington",
     "London",
     "Skopje"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of New Zealand is Wellington."
+   "answer": 1,
+   "explanation": "The capital of New Zealand is Wellington.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00755",
-   "q": "Which element has the chemical symbol Tl?",
-   "o": [
+   "question": "Which element has the chemical symbol Tl?",
+   "options": [
     "Platinum",
     "Iron",
     "Gallium",
     "Thallium"
    ],
-   "a": 3,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "Tl is the symbol of Thallium."
+   "answer": 3,
+   "explanation": "Tl is the symbol of Thallium.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00756",
-   "q": "What is the capital of Rajasthan?",
-   "o": [
+   "question": "What is the capital of Rajasthan?",
+   "options": [
     "Raipur",
     "Jaipur",
     "Mumbai",
     "Itanagar"
    ],
-   "a": 1,
-   "t": "States and Capitals",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Rajasthan is Jaipur."
+   "answer": 1,
+   "explanation": "The capital of Rajasthan is Jaipur.",
+   "topic": "States and Capitals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00757",
-   "q": "Ganges River Dolphin holds which of the following positions in India?",
-   "o": [
+   "question": "Ganges River Dolphin holds which of the following positions in India?",
+   "options": [
     "National Calendar",
     "National Aquatic Animal",
     "National Fruit",
     "National Currency"
    ],
-   "a": 1,
-   "t": "National Symbols",
-   "l": 2,
-   "s": "generated",
-   "e": "Ganges River Dolphin is the National Aquatic Animal of India."
+   "answer": 1,
+   "explanation": "Ganges River Dolphin is the National Aquatic Animal of India.",
+   "topic": "National Symbols",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00758",
-   "q": "First Indian woman IPS officer is associated with which of the following?",
-   "o": [
+   "question": "First Indian woman IPS officer is associated with which of the following?",
+   "options": [
     "Kiran Bedi",
     "Mahesh Bhupathi",
     "Sucheta Kripalani",
     "Rakesh Sharma"
    ],
-   "a": 0,
-   "t": "First in India",
-   "l": 2,
-   "s": "generated",
-   "e": "First Indian woman IPS officer — Kiran Bedi."
+   "answer": 0,
+   "explanation": "First Indian woman IPS officer — Kiran Bedi.",
+   "topic": "First in India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00759",
-   "q": "Lavani is a folk or classical dance form of which state?",
-   "o": [
+   "question": "Lavani is a folk or classical dance form of which state?",
+   "options": [
     "Gujarat",
     "Mizoram",
     "Meghalaya",
     "Maharashtra"
    ],
-   "a": 3,
-   "t": "Folk Dances of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Lavani belongs to Maharashtra."
+   "answer": 3,
+   "explanation": "Lavani belongs to Maharashtra.",
+   "topic": "Folk Dances of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00760",
-   "q": "Me-Dam-Me-Phi is a major festival of which state?",
-   "o": [
+   "question": "Me-Dam-Me-Phi is a major festival of which state?",
+   "options": [
     "Rajasthan",
     "Maharashtra",
     "Odisha",
     "Assam"
    ],
-   "a": 3,
-   "t": "Festivals of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Me-Dam-Me-Phi is celebrated mainly in Assam."
+   "answer": 3,
+   "explanation": "Me-Dam-Me-Phi is celebrated mainly in Assam.",
+   "topic": "Festivals of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00761",
-   "q": "The river Penna originates from which of the following?",
-   "o": [
+   "question": "The river Penna originates from which of the following?",
+   "options": [
     "Nandi Hills",
     "Chota Nagpur Plateau",
     "Janapav Hill",
     "Amarkantak"
    ],
-   "a": 0,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Penna originates from Nandi Hills."
+   "answer": 0,
+   "explanation": "Penna originates from Nandi Hills.",
+   "topic": "Rivers of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00762",
-   "q": "Which of the following dams is built on the river Chenab?",
-   "o": [
+   "question": "Which of the following dams is built on the river Chenab?",
+   "options": [
     "Idukki Dam",
     "Mettur Dam",
     "Salal Dam",
     "Rihand Dam"
    ],
-   "a": 2,
-   "t": "Dams of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Salal Dam is built on the Chenab."
+   "answer": 2,
+   "explanation": "Salal Dam is built on the Chenab.",
+   "topic": "Dams of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00763",
-   "q": "Ranthambore National Park is located in which state?",
-   "o": [
+   "question": "Ranthambore National Park is located in which state?",
+   "options": [
     "Rajasthan",
     "Mizoram",
     "Bihar",
     "Gujarat"
    ],
-   "a": 0,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Ranthambore National Park is located in Rajasthan."
+   "answer": 0,
+   "explanation": "Ranthambore National Park is located in Rajasthan.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00764",
-   "q": "Which of the following passes is located in Uttarakhand?",
-   "o": [
+   "question": "Which of the following passes is located in Uttarakhand?",
+   "options": [
     "Mana Pass",
     "Fotu La",
     "Chang La",
     "Lipulekh Pass"
    ],
-   "a": 0,
-   "t": "Mountain Passes of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Mana Pass is a pass in Uttarakhand."
+   "answer": 0,
+   "explanation": "Mana Pass is a pass in Uttarakhand.",
+   "topic": "Mountain Passes of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00765",
-   "q": "What is the SI unit of Solid angle?",
-   "o": [
+   "question": "What is the SI unit of Solid angle?",
+   "options": [
     "Steradian",
     "Farad",
     "Henry",
     "Newton"
    ],
-   "a": 0,
-   "t": "SI Units",
-   "l": 1,
-   "s": "generated",
-   "e": "The SI unit of Solid angle is the Steradian."
+   "answer": 0,
+   "explanation": "The SI unit of Solid angle is the Steradian.",
+   "topic": "SI Units",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00766",
-   "q": "Which instrument is used to measure Earthquakes?",
-   "o": [
+   "question": "Which instrument is used to measure Earthquakes?",
+   "options": [
     "Speedometer",
     "Viscometer",
     "Altimeter",
     "Seismograph"
    ],
-   "a": 3,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Seismograph is used to measure Earthquakes."
+   "answer": 3,
+   "explanation": "Seismograph is used to measure Earthquakes.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00767",
-   "q": "Which disease is caused by the deficiency of Vitamin B3?",
-   "o": [
+   "question": "Which disease is caused by the deficiency of Vitamin B3?",
+   "options": [
     "Pellagra",
     "Delayed blood clotting",
     "Scurvy",
     "Muscle weakness"
    ],
-   "a": 0,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Vitamin B3 causes Pellagra."
+   "answer": 0,
+   "explanation": "Deficiency of Vitamin B3 causes Pellagra.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00768",
-   "q": "Who is credited with Refrigerator?",
-   "o": [
+   "question": "Who is credited with Refrigerator?",
+   "options": [
     "Henry Cavendish",
     "James Watt",
     "Theodore Maiman",
     "Jacob Perkins"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Refrigerator — Jacob Perkins."
+   "answer": 3,
+   "explanation": "Refrigerator — Jacob Perkins.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00769",
-   "q": "What is the chemical name of Plaster of Paris?",
-   "o": [
+   "question": "What is the chemical name of Plaster of Paris?",
+   "options": [
     "Magnesium sulphate (MgSO4.7H2O)",
     "Sulphuric acid (H2SO4)",
     "Zinc sulphate (ZnSO4.7H2O)",
     "Calcium sulphate hemihydrate (CaSO4.1/2H2O)"
    ],
-   "a": 3,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Plaster of Paris is Calcium sulphate hemihydrate (CaSO4.1/2H2O)."
+   "answer": 3,
+   "explanation": "Plaster of Paris is Calcium sulphate hemihydrate (CaSO4.1/2H2O).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00770",
-   "q": "Which branch of science deals with Classification of organisms?",
-   "o": [
+   "question": "Which branch of science deals with Classification of organisms?",
+   "options": [
     "Nuclear physics",
     "Anatomy",
     "Cytology",
     "Taxonomy"
    ],
-   "a": 3,
-   "t": "Branches of Science",
-   "l": 2,
-   "s": "generated",
-   "e": "Taxonomy deals with Classification of organisms."
+   "answer": 3,
+   "explanation": "Taxonomy deals with Classification of organisms.",
+   "topic": "Branches of Science",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00771",
-   "q": "Which of the following statements about Asteroid is correct?",
-   "o": [
+   "question": "Which of the following statements about Asteroid is correct?",
+   "options": [
     "Mars",
     "Mercury",
     "Red Planet",
     "Asteroid"
    ],
-   "a": 3,
-   "t": "Astronomy",
-   "l": 3,
-   "s": "generated",
-   "e": "Asteroid: Asteroid."
+   "answer": 3,
+   "explanation": "Asteroid: Asteroid.",
+   "topic": "Astronomy",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00772",
-   "q": "Lord Kelvin is known for which of the following?",
-   "o": [
+   "question": "Lord Kelvin is known for which of the following?",
+   "options": [
     "Missile and space launch technology",
     "Theory of evolution",
     "Electrodynamics",
     "Absolute temperature scale"
    ],
-   "a": 3,
-   "t": "Scientists",
-   "l": 2,
-   "s": "generated",
-   "e": "Lord Kelvin is known for Absolute temperature scale."
+   "answer": 3,
+   "explanation": "Lord Kelvin is known for Absolute temperature scale.",
+   "topic": "Scientists",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00773",
-   "q": "NITI Aayog Vice Chairman is best described as which of the following?",
-   "o": [
+   "question": "NITI Aayog Vice Chairman is best described as which of the following?",
+   "options": [
     "Deputy to the Prime Minister in the policy think tank",
     "Constitutional head of a State",
     "Local self-government at the village level",
     "Audits government accounts"
    ],
-   "a": 0,
-   "t": "Institutions of India",
-   "l": 2,
-   "s": "generated",
-   "e": "NITI Aayog Vice Chairman — Deputy to the Prime Minister in the policy think tank."
+   "answer": 0,
+   "explanation": "NITI Aayog Vice Chairman — Deputy to the Prime Minister in the policy think tank.",
+   "topic": "Institutions of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00774",
-   "q": "On which date is World Cities Day observed?",
-   "o": [
+   "question": "On which date is World Cities Day observed?",
+   "options": [
     "20 June",
     "13 February",
     "2 October",
     "31 October"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Cities Day is observed on 31 October."
+   "answer": 3,
+   "explanation": "World Cities Day is observed on 31 October.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00775",
-   "q": "Where is the headquarters of World Intellectual Property Organization?",
-   "o": [
+   "question": "Where is the headquarters of World Intellectual Property Organization?",
+   "options": [
     "Geneva",
     "Vienna",
     "Nairobi",
     "Jakarta"
    ],
-   "a": 0,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "World Intellectual Property Organization is headquartered at Geneva."
+   "answer": 0,
+   "explanation": "World Intellectual Property Organization is headquartered at Geneva.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00776",
-   "q": "World Test Championship is associated with which sport?",
-   "o": [
+   "question": "World Test Championship is associated with which sport?",
+   "options": [
     "Football",
     "Cricket",
     "Hockey",
     "Badminton"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "World Test Championship is associated with Cricket."
+   "answer": 1,
+   "explanation": "World Test Championship is associated with Cricket.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00777",
-   "q": "Indira Gandhi Prize is associated with which of the following?",
-   "o": [
+   "question": "Indira Gandhi Prize is associated with which of the following?",
+   "options": [
     "Highest sporting honour of India",
     "Indian award for peace, disarmament and development",
     "Coaching excellence in Indian sports",
     "Alternative Nobel Prize"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Indira Gandhi Prize — Indian award for peace, disarmament and development."
+   "answer": 1,
+   "explanation": "Indira Gandhi Prize — Indian award for peace, disarmament and development.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00778",
-   "q": "First President of the United States is associated with which of the following?",
-   "o": [
+   "question": "First President of the United States is associated with which of the following?",
+   "options": [
     "George Washington",
     "Rabindranath Tagore",
     "Roald Amundsen",
     "New Zealand"
    ],
-   "a": 0,
-   "t": "First in the World",
-   "l": 2,
-   "s": "generated",
-   "e": "First President of the United States — George Washington."
+   "answer": 0,
+   "explanation": "First President of the United States — George Washington.",
+   "topic": "First in the World",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00779",
-   "q": "Which is the largest rainforest in the world?",
-   "o": [
+   "question": "Which is the largest rainforest in the world?",
+   "options": [
     "Mount Kilimanjaro",
     "Indonesia",
     "Amazon Rainforest",
     "Ireland"
    ],
-   "a": 2,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 2,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00780",
-   "q": "Which of the following pairs of soil and feature is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of soil and feature is correctly matched?",
+   "options": [
     "Mountain soil - Found in hilly and forest regions",
     "Mountain soil - Formed in waterlogged areas with organic matter",
     "Mountain soil - Sandy soil of arid regions",
     "Mountain soil - Contains excess salt, found in dry coastal areas"
    ],
-   "a": 0,
-   "t": "Soils of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Mountain soil - Found in hilly and forest regions is correctly matched."
+   "answer": 0,
+   "explanation": "Only Mountain soil - Found in hilly and forest regions is correctly matched.",
+   "topic": "Soils of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00781",
-   "q": "Which mineral is found in large quantities in Andhra Pradesh?",
-   "o": [
+   "question": "Which mineral is found in large quantities in Andhra Pradesh?",
+   "options": [
     "Chromite",
     "Gold",
     "Barytes",
     "Mica"
    ],
-   "a": 2,
-   "t": "Minerals and States",
-   "l": 3,
-   "s": "generated",
-   "e": "Barytes is found in Andhra Pradesh."
+   "answer": 2,
+   "explanation": "Barytes is found in Andhra Pradesh.",
+   "topic": "Minerals and States",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00782",
-   "q": "Which biosphere reserve or wetland is located in Odisha?",
-   "o": [
+   "question": "Which biosphere reserve or wetland is located in Odisha?",
+   "options": [
     "Agasthyamalai Biosphere Reserve",
     "Achanakmar Amarkantak Biosphere Reserve",
     "Chilika Lake",
     "Pachmarhi Biosphere Reserve"
    ],
-   "a": 2,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Chilika Lake is located in Odisha."
+   "answer": 2,
+   "explanation": "Chilika Lake is located in Odisha.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00783",
-   "q": "What is the capital of Madagascar?",
-   "o": [
+   "question": "What is the capital of Madagascar?",
+   "options": [
     "Sofia",
     "Addis Ababa",
     "Prague",
     "Antananarivo"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Madagascar is Antananarivo."
+   "answer": 3,
+   "explanation": "The capital of Madagascar is Antananarivo.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00784",
-   "q": "Which element has the chemical symbol Db?",
-   "o": [
+   "question": "Which element has the chemical symbol Db?",
+   "options": [
     "Rhenium",
     "Dubnium",
     "Copernicium",
     "Arsenic"
    ],
-   "a": 1,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "Db is the symbol of Dubnium."
+   "answer": 1,
+   "explanation": "Db is the symbol of Dubnium.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00785",
-   "q": "What is the capital of Sikkim?",
-   "o": [
+   "question": "What is the capital of Sikkim?",
+   "options": [
     "Gangtok",
     "Amaravati",
     "Itanagar",
     "Kolkata"
    ],
-   "a": 0,
-   "t": "States and Capitals",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Sikkim is Gangtok."
+   "answer": 0,
+   "explanation": "The capital of Sikkim is Gangtok.",
+   "topic": "States and Capitals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00786",
-   "q": "Mango holds which of the following positions in India?",
-   "o": [
+   "question": "Mango holds which of the following positions in India?",
+   "options": [
     "National Fruit",
     "National Bird",
     "National Emblem",
     "National Flower"
    ],
-   "a": 0,
-   "t": "National Symbols",
-   "l": 2,
-   "s": "generated",
-   "e": "Mango is the National Fruit of India."
+   "answer": 0,
+   "explanation": "Mango is the National Fruit of India.",
+   "topic": "National Symbols",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00787",
-   "q": "First Governor-General of independent India is associated with which of the following?",
-   "o": [
+   "question": "First Governor-General of independent India is associated with which of the following?",
+   "options": [
     "Lord Mountbatten",
     "Mihir Sen",
     "Pokhran",
     "Jawaharlal Nehru"
    ],
-   "a": 0,
-   "t": "First in India",
-   "l": 2,
-   "s": "generated",
-   "e": "First Governor-General of independent India — Lord Mountbatten."
+   "answer": 0,
+   "explanation": "First Governor-General of independent India — Lord Mountbatten.",
+   "topic": "First in India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00788",
-   "q": "Karagattam is a folk or classical dance form of which state?",
-   "o": [
+   "question": "Karagattam is a folk or classical dance form of which state?",
+   "options": [
     "Rajasthan",
     "Tamil Nadu",
     "Kerala",
     "Odisha"
    ],
-   "a": 1,
-   "t": "Folk Dances of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Karagattam belongs to Tamil Nadu."
+   "answer": 1,
+   "explanation": "Karagattam belongs to Tamil Nadu.",
+   "topic": "Folk Dances of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00789",
-   "q": "Hemis Festival is a major festival of which state?",
-   "o": [
+   "question": "Hemis Festival is a major festival of which state?",
+   "options": [
     "Manipur",
     "Nagaland",
     "Madhya Pradesh",
     "Ladakh"
    ],
-   "a": 3,
-   "t": "Festivals of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Hemis Festival is celebrated mainly in Ladakh."
+   "answer": 3,
+   "explanation": "Hemis Festival is celebrated mainly in Ladakh.",
+   "topic": "Festivals of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00790",
-   "q": "The river Beas originates from which of the following?",
-   "o": [
+   "question": "The river Beas originates from which of the following?",
+   "options": [
     "Beas Kund",
     "Bhimashankar",
     "Ambutirtha",
     "Varusanadu Hills"
    ],
-   "a": 0,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Beas originates from Beas Kund."
+   "answer": 0,
+   "explanation": "Beas originates from Beas Kund.",
+   "topic": "Rivers of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00791",
-   "q": "Which of the following dams is built on the river Chenab?",
-   "o": [
+   "question": "Which of the following dams is built on the river Chenab?",
+   "options": [
     "Farakka Barrage",
     "Mettur Dam",
     "Baglihar Dam",
     "Bhakra Nangal Dam"
    ],
-   "a": 2,
-   "t": "Dams of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Baglihar Dam is built on the Chenab."
+   "answer": 2,
+   "explanation": "Baglihar Dam is built on the Chenab.",
+   "topic": "Dams of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00792",
-   "q": "Indira Gandhi Wildlife Sanctuary is located in which state?",
-   "o": [
+   "question": "Indira Gandhi Wildlife Sanctuary is located in which state?",
+   "options": [
     "Tamil Nadu",
     "Rajasthan",
     "Karnataka",
     "Maharashtra"
    ],
-   "a": 0,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Indira Gandhi Wildlife Sanctuary is located in Tamil Nadu."
+   "answer": 0,
+   "explanation": "Indira Gandhi Wildlife Sanctuary is located in Tamil Nadu.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00793",
-   "q": "Which of the following passes is located in Ladakh?",
-   "o": [
+   "question": "Which of the following passes is located in Ladakh?",
+   "options": [
     "Thal Ghat",
     "Lipulekh Pass",
     "Nathu La",
     "Zoji La"
    ],
-   "a": 3,
-   "t": "Mountain Passes of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Zoji La is a pass in Ladakh."
+   "answer": 3,
+   "explanation": "Zoji La is a pass in Ladakh.",
+   "topic": "Mountain Passes of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00794",
-   "q": "What is the SI unit of Frequency?",
-   "o": [
+   "question": "What is the SI unit of Frequency?",
+   "options": [
     "Hertz",
     "Pascal second",
     "Lux",
     "Radian"
    ],
-   "a": 0,
-   "t": "SI Units",
-   "l": 1,
-   "s": "generated",
-   "e": "The SI unit of Frequency is the Hertz."
+   "answer": 0,
+   "explanation": "The SI unit of Frequency is the Hertz.",
+   "topic": "SI Units",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00795",
-   "q": "Which instrument is used to measure Altitude?",
-   "o": [
+   "question": "Which instrument is used to measure Altitude?",
+   "options": [
     "Audiometer",
     "Spherometer",
     "Voltmeter",
     "Altimeter"
    ],
-   "a": 3,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Altimeter is used to measure Altitude."
+   "answer": 3,
+   "explanation": "Altimeter is used to measure Altitude.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00796",
-   "q": "Which disease is caused by the deficiency of Vitamin B12?",
-   "o": [
+   "question": "Which disease is caused by the deficiency of Vitamin B12?",
+   "options": [
     "Goitre",
     "Pernicious anaemia",
     "Dermatitis",
     "Anaemia"
    ],
-   "a": 1,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Vitamin B12 causes Pernicious anaemia."
+   "answer": 1,
+   "explanation": "Deficiency of Vitamin B12 causes Pernicious anaemia.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00797",
-   "q": "Who is credited with Smallpox vaccine (modern)?",
-   "o": [
+   "question": "Who is credited with Smallpox vaccine (modern)?",
+   "options": [
     "Watson and Crick",
     "Guglielmo Marconi",
     "Edward Jenner",
     "Daniel Rutherford"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Smallpox vaccine (modern) — Edward Jenner."
+   "answer": 2,
+   "explanation": "Smallpox vaccine (modern) — Edward Jenner.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00798",
-   "q": "What is the chemical name of White vitriol?",
-   "o": [
+   "question": "What is the chemical name of White vitriol?",
+   "options": [
     "Magnesium hydroxide (Mg(OH)2)",
     "Ethanol (C2H5OH)",
     "Calcium carbonate (CaCO3)",
     "Zinc sulphate (ZnSO4.7H2O)"
    ],
-   "a": 3,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "White vitriol is Zinc sulphate (ZnSO4.7H2O)."
+   "answer": 3,
+   "explanation": "White vitriol is Zinc sulphate (ZnSO4.7H2O).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00799",
-   "q": "Which branch of science deals with Electricity and magnetism?",
-   "o": [
+   "question": "Which branch of science deals with Electricity and magnetism?",
+   "options": [
     "Acoustics",
     "Zoology",
     "Electromagnetism",
     "Philately"
    ],
-   "a": 2,
-   "t": "Branches of Science",
-   "l": 2,
-   "s": "generated",
-   "e": "Electromagnetism deals with Electricity and magnetism."
+   "answer": 2,
+   "explanation": "Electromagnetism deals with Electricity and magnetism.",
+   "topic": "Branches of Science",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00800",
-   "q": "Which of the following statements about Mars is correct?",
-   "o": [
+   "question": "Which of the following statements about Mars is correct?",
+   "options": [
     "Black hole",
     "Fourth",
     "Mercury",
     "Astronomical unit"
    ],
-   "a": 1,
-   "t": "Astronomy",
-   "l": 3,
-   "s": "generated",
-   "e": "Mars: Fourth."
+   "answer": 1,
+   "explanation": "Mars: Fourth.",
+   "topic": "Astronomy",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00801",
-   "q": "Vikram Sarabhai is known for which of the following?",
-   "o": [
+   "question": "Vikram Sarabhai is known for which of the following?",
+   "options": [
     "Bose-Einstein statistics",
     "Laws of planetary motion",
     "Indian space programme",
     "Statistics and Indian planning"
    ],
-   "a": 2,
-   "t": "Scientists",
-   "l": 2,
-   "s": "generated",
-   "e": "Vikram Sarabhai is known for Indian space programme."
+   "answer": 2,
+   "explanation": "Vikram Sarabhai is known for Indian space programme.",
+   "topic": "Scientists",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00802",
-   "q": "National Human Rights Commission is best described as which of the following?",
-   "o": [
+   "question": "National Human Rights Commission is best described as which of the following?",
+   "options": [
     "Protects human rights in India",
     "Regulator of the securities market",
     "House of the People",
     "Council of States, permanent house"
    ],
-   "a": 0,
-   "t": "Institutions of India",
-   "l": 2,
-   "s": "generated",
-   "e": "National Human Rights Commission — Protects human rights in India."
+   "answer": 0,
+   "explanation": "National Human Rights Commission — Protects human rights in India.",
+   "topic": "Institutions of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00803",
-   "q": "On which date is World Heart Day observed?",
-   "o": [
+   "question": "On which date is World Heart Day observed?",
+   "options": [
     "29 September",
     "13 November",
     "2 December",
     "25 January"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Heart Day is observed on 29 September."
+   "answer": 0,
+   "explanation": "World Heart Day is observed on 29 September.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00804",
-   "q": "Where is the headquarters of International Olympic Committee?",
-   "o": [
+   "question": "Where is the headquarters of International Olympic Committee?",
+   "options": [
     "Lausanne",
     "London",
     "Vienna",
     "Paris"
    ],
-   "a": 0,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "International Olympic Committee is headquartered at Lausanne."
+   "answer": 0,
+   "explanation": "International Olympic Committee is headquartered at Lausanne.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00805",
-   "q": "Ranji Trophy is associated with which sport?",
-   "o": [
+   "question": "Ranji Trophy is associated with which sport?",
+   "options": [
     "Football",
     "Cricket",
     "Badminton",
     "Tennis"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Ranji Trophy is associated with Cricket."
+   "answer": 1,
+   "explanation": "Ranji Trophy is associated with Cricket.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00806",
-   "q": "Booker Prize is associated with which of the following?",
-   "o": [
+   "question": "Booker Prize is associated with which of the following?",
+   "options": [
     "British award for fiction",
     "Fourth highest civilian award of India",
     "Awards for Indian cinema",
     "Award for brave children in India"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Booker Prize — British award for fiction."
+   "answer": 0,
+   "explanation": "Booker Prize — British award for fiction.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00807",
-   "q": "First person to walk on the Moon is associated with which of the following?",
-   "o": [
+   "question": "First person to walk on the Moon is associated with which of the following?",
+   "options": [
     "Athens",
     "Neil Armstrong",
     "United States of America",
     "Rabindranath Tagore"
    ],
-   "a": 1,
-   "t": "First in the World",
-   "l": 2,
-   "s": "generated",
-   "e": "First person to walk on the Moon — Neil Armstrong."
+   "answer": 1,
+   "explanation": "First person to walk on the Moon — Neil Armstrong.",
+   "topic": "First in the World",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00808",
-   "q": "Which is the busiest ocean strait in the world?",
-   "o": [
+   "question": "Which is the busiest ocean strait in the world?",
+   "options": [
     "Strait of Malacca",
     "Lake Baikal",
     "Mount Kilimanjaro",
     "Sundarbans Delta"
    ],
-   "a": 0,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 0,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00809",
-   "q": "Which of the following pairs of soil and feature is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of soil and feature is correctly matched?",
+   "options": [
     "Saline soil - Formed by leaching in high rainfall areas",
     "Saline soil - Sandy soil of arid regions",
     "Saline soil - Contains excess salt, found in dry coastal areas",
     "Saline soil - Most fertile soil, found in the northern plains"
    ],
-   "a": 2,
-   "t": "Soils of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Saline soil - Contains excess salt, found in dry coastal areas is correctly matched."
+   "answer": 2,
+   "explanation": "Only Saline soil - Contains excess salt, found in dry coastal areas is correctly matched.",
+   "topic": "Soils of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00810",
-   "q": "Which mineral is found in large quantities in Odisha?",
-   "o": [
+   "question": "Which mineral is found in large quantities in Odisha?",
+   "options": [
     "Diamond",
     "Gold",
     "Graphite",
     "Coal"
    ],
-   "a": 2,
-   "t": "Minerals and States",
-   "l": 3,
-   "s": "generated",
-   "e": "Graphite is found in Odisha."
+   "answer": 2,
+   "explanation": "Graphite is found in Odisha.",
+   "topic": "Minerals and States",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00811",
-   "q": "Which biosphere reserve or wetland is located in Rajasthan?",
-   "o": [
+   "question": "Which biosphere reserve or wetland is located in Rajasthan?",
+   "options": [
     "Panna Biosphere Reserve",
     "Achanakmar Amarkantak Biosphere Reserve",
     "Keoladeo Ghana",
     "Nilgiri Biosphere Reserve"
    ],
-   "a": 2,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Keoladeo Ghana is located in Rajasthan."
+   "answer": 2,
+   "explanation": "Keoladeo Ghana is located in Rajasthan.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00812",
-   "q": "What is the capital of Djibouti?",
-   "o": [
+   "question": "What is the capital of Djibouti?",
+   "options": [
     "Vientiane",
     "Kigali",
     "Djibouti",
     "San Marino"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Djibouti is Djibouti."
+   "answer": 2,
+   "explanation": "The capital of Djibouti is Djibouti.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00813",
-   "q": "Which element has the chemical symbol Sm?",
-   "o": [
+   "question": "Which element has the chemical symbol Sm?",
+   "options": [
     "Samarium",
     "Americium",
     "Indium",
     "Bismuth"
    ],
-   "a": 0,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "Sm is the symbol of Samarium."
+   "answer": 0,
+   "explanation": "Sm is the symbol of Samarium.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00814",
-   "q": "What is the capital of Tripura?",
-   "o": [
+   "question": "What is the capital of Tripura?",
+   "options": [
     "Agartala",
     "Bengaluru",
     "Bhopal",
     "Thiruvananthapuram"
    ],
-   "a": 0,
-   "t": "States and Capitals",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Tripura is Agartala."
+   "answer": 0,
+   "explanation": "The capital of Tripura is Agartala.",
+   "topic": "States and Capitals",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00815",
-   "q": "Indian Peacock holds which of the following positions in India?",
-   "o": [
+   "question": "Indian Peacock holds which of the following positions in India?",
+   "options": [
     "National Tree",
     "National Calendar",
     "National Emblem",
     "National Bird"
    ],
-   "a": 3,
-   "t": "National Symbols",
-   "l": 2,
-   "s": "generated",
-   "e": "Indian Peacock is the National Bird of India."
+   "answer": 3,
+   "explanation": "Indian Peacock is the National Bird of India.",
+   "topic": "National Symbols",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00816",
-   "q": "First Indian Institute of Technology was set up at is associated with which of the following?",
-   "o": [
+   "question": "First Indian Institute of Technology was set up at is associated with which of the following?",
+   "options": [
     "Karnam Malleswari",
     "Sushmita Sen",
     "Jawaharlal Nehru",
     "Kharagpur"
    ],
-   "a": 3,
-   "t": "First in India",
-   "l": 2,
-   "s": "generated",
-   "e": "First Indian Institute of Technology was set up at — Kharagpur."
+   "answer": 3,
+   "explanation": "First Indian Institute of Technology was set up at — Kharagpur.",
+   "topic": "First in India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00817",
-   "q": "Odissi is a folk or classical dance form of which state?",
-   "o": [
+   "question": "Odissi is a folk or classical dance form of which state?",
+   "options": [
     "Kerala",
     "Gujarat",
     "Odisha",
     "Uttar Pradesh"
    ],
-   "a": 2,
-   "t": "Folk Dances of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Odissi belongs to Odisha."
+   "answer": 2,
+   "explanation": "Odissi belongs to Odisha.",
+   "topic": "Folk Dances of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00818",
-   "q": "Ambubachi Mela is a major festival of which state?",
-   "o": [
+   "question": "Ambubachi Mela is a major festival of which state?",
+   "options": [
     "Arunachal Pradesh",
     "Assam",
     "Kerala",
     "Manipur"
    ],
-   "a": 1,
-   "t": "Festivals of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Ambubachi Mela is celebrated mainly in Assam."
+   "answer": 1,
+   "explanation": "Ambubachi Mela is celebrated mainly in Assam.",
+   "topic": "Festivals of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00819",
-   "q": "The river Gomti originates from which of the following?",
-   "o": [
+   "question": "The river Gomti originates from which of the following?",
+   "options": [
     "Mapchachungo",
     "Nepal Himalayas",
     "Varusanadu Hills",
     "Pilibhit"
    ],
-   "a": 3,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Gomti originates from Pilibhit."
+   "answer": 3,
+   "explanation": "Gomti originates from Pilibhit.",
+   "topic": "Rivers of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00820",
-   "q": "Which of the following dams is built on the river Narmada?",
-   "o": [
+   "question": "Which of the following dams is built on the river Narmada?",
+   "options": [
     "Hirakud Dam",
     "Bhavani Sagar Dam",
     "Nagarjuna Sagar Dam",
     "Sardar Sarovar Dam"
    ],
-   "a": 3,
-   "t": "Dams of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Sardar Sarovar Dam is built on the Narmada."
+   "answer": 3,
+   "explanation": "Sardar Sarovar Dam is built on the Narmada.",
+   "topic": "Dams of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00821",
-   "q": "Rajiv Gandhi Orang National Park is located in which state?",
-   "o": [
+   "question": "Rajiv Gandhi Orang National Park is located in which state?",
+   "options": [
     "Karnataka",
     "Assam",
     "Madhya Pradesh",
     "Bihar"
    ],
-   "a": 1,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Rajiv Gandhi Orang National Park is located in Assam."
+   "answer": 1,
+   "explanation": "Rajiv Gandhi Orang National Park is located in Assam.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00822",
-   "q": "Which of the following passes is located in Ladakh?",
-   "o": [
+   "question": "Which of the following passes is located in Ladakh?",
+   "options": [
     "Pir Panjal Pass",
     "Diphu Pass",
     "Fotu La",
     "Se La Pass"
    ],
-   "a": 2,
-   "t": "Mountain Passes of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Fotu La is a pass in Ladakh."
+   "answer": 2,
+   "explanation": "Fotu La is a pass in Ladakh.",
+   "topic": "Mountain Passes of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00823",
-   "q": "What is the SI unit of Absorbed dose?",
-   "o": [
+   "question": "What is the SI unit of Absorbed dose?",
+   "options": [
     "Weber",
     "Reciprocal metre",
     "Radian",
     "Gray"
    ],
-   "a": 3,
-   "t": "SI Units",
-   "l": 1,
-   "s": "generated",
-   "e": "The SI unit of Absorbed dose is the Gray."
+   "answer": 3,
+   "explanation": "The SI unit of Absorbed dose is the Gray.",
+   "topic": "SI Units",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00824",
-   "q": "Which instrument is used to measure Rotational speed?",
-   "o": [
+   "question": "Which instrument is used to measure Rotational speed?",
+   "options": [
     "Audiometer",
     "Hygrometer",
     "Cardiograph",
     "Tachometer"
    ],
-   "a": 3,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Tachometer is used to measure Rotational speed."
+   "answer": 3,
+   "explanation": "Tachometer is used to measure Rotational speed.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00825",
-   "q": "Which disease is caused by the deficiency of Fluorine?",
-   "o": [
+   "question": "Which disease is caused by the deficiency of Fluorine?",
+   "options": [
     "Tooth decay",
     "Pellagra",
     "Pernicious anaemia",
     "Anaemia"
    ],
-   "a": 0,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Fluorine causes Tooth decay."
+   "answer": 0,
+   "explanation": "Deficiency of Fluorine causes Tooth decay.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00826",
-   "q": "Who is credited with Periodic table?",
-   "o": [
+   "question": "Who is credited with Periodic table?",
+   "options": [
     "Joseph Priestley",
     "Michael Faraday",
     "Edward Jenner",
     "Dmitri Mendeleev"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Periodic table — Dmitri Mendeleev."
+   "answer": 3,
+   "explanation": "Periodic table — Dmitri Mendeleev.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00827",
-   "q": "What is the chemical name of Salt cake?",
-   "o": [
+   "question": "What is the chemical name of Salt cake?",
+   "options": [
     "Magnesium hydroxide (Mg(OH)2)",
     "Sodium carbonate (Na2CO3)",
     "Trichloromethane (CHCl3)",
     "Sodium sulphate (Na2SO4)"
    ],
-   "a": 3,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Salt cake is Sodium sulphate (Na2SO4)."
+   "answer": 3,
+   "explanation": "Salt cake is Sodium sulphate (Na2SO4).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00828",
-   "q": "Which branch of science deals with Skin?",
-   "o": [
+   "question": "Which branch of science deals with Skin?",
+   "options": [
     "Numismatics",
     "Sericulture",
     "Ecology",
     "Dermatology"
    ],
-   "a": 3,
-   "t": "Branches of Science",
-   "l": 2,
-   "s": "generated",
-   "e": "Dermatology deals with Skin."
+   "answer": 3,
+   "explanation": "Dermatology deals with Skin.",
+   "topic": "Branches of Science",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00829",
-   "q": "Which of the following statements about Venus is correct?",
-   "o": [
+   "question": "Which of the following statements about Venus is correct?",
+   "options": [
     "Venus",
     "Asteroid",
     "Saturn",
     "Red Planet"
    ],
-   "a": 0,
-   "t": "Astronomy",
-   "l": 3,
-   "s": "generated",
-   "e": "Venus: Venus."
+   "answer": 0,
+   "explanation": "Venus: Venus.",
+   "topic": "Astronomy",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00830",
-   "q": "Thomas Edison is known for which of the following?",
-   "o": [
+   "question": "Thomas Edison is known for which of the following?",
+   "options": [
     "Plant physiology and radio waves",
     "Ornithology in India",
     "Bacteriology and tuberculosis bacillus",
     "Phonograph and practical electric bulb"
    ],
-   "a": 3,
-   "t": "Scientists",
-   "l": 2,
-   "s": "generated",
-   "e": "Thomas Edison is known for Phonograph and practical electric bulb."
+   "answer": 3,
+   "explanation": "Thomas Edison is known for Phonograph and practical electric bulb.",
+   "topic": "Scientists",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00831",
-   "q": "Zilla Parishad is best described as which of the following?",
-   "o": [
+   "question": "Zilla Parishad is best described as which of the following?",
+   "options": [
     "Head of the State Government",
     "Regulator of telecommunications",
     "Council of States, permanent house",
     "Local body at the district level"
    ],
-   "a": 3,
-   "t": "Institutions of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Zilla Parishad — Local body at the district level."
+   "answer": 3,
+   "explanation": "Zilla Parishad — Local body at the district level.",
+   "topic": "Institutions of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00832",
-   "q": "On which date is World Animal Day observed?",
-   "o": [
+   "question": "On which date is World Animal Day observed?",
+   "options": [
     "28 July",
     "1 July",
     "4 October",
     "15 October"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Animal Day is observed on 4 October."
+   "answer": 2,
+   "explanation": "World Animal Day is observed on 4 October.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00833",
-   "q": "Where is the headquarters of International Committee of the Red Cross?",
-   "o": [
+   "question": "Where is the headquarters of International Committee of the Red Cross?",
+   "options": [
     "New York",
     "Montreal",
     "Geneva",
     "Beijing"
    ],
-   "a": 2,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "International Committee of the Red Cross is headquartered at Geneva."
+   "answer": 2,
+   "explanation": "International Committee of the Red Cross is headquartered at Geneva.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00834",
-   "q": "Rovers Cup is associated with which sport?",
-   "o": [
+   "question": "Rovers Cup is associated with which sport?",
+   "options": [
     "Badminton",
     "Golf",
     "Football",
     "Cricket"
    ],
-   "a": 2,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Rovers Cup is associated with Football."
+   "answer": 2,
+   "explanation": "Rovers Cup is associated with Football.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00835",
-   "q": "Right Livelihood Award is associated with which of the following?",
-   "o": [
+   "question": "Right Livelihood Award is associated with which of the following?",
+   "options": [
     "Alternative Nobel Prize",
     "American award for music",
     "Award for progress in spiritual matters",
     "Indian literary award"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Right Livelihood Award — Alternative Nobel Prize."
+   "answer": 0,
+   "explanation": "Right Livelihood Award — Alternative Nobel Prize.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00836",
-   "q": "First country to give women the vote is associated with which of the following?",
-   "o": [
+   "question": "First country to give women the vote is associated with which of the following?",
+   "options": [
     "Marie Curie",
     "New Zealand",
     "Neil Armstrong",
     "Rabindranath Tagore"
    ],
-   "a": 1,
-   "t": "First in the World",
-   "l": 2,
-   "s": "generated",
-   "e": "First country to give women the vote — New Zealand."
+   "answer": 1,
+   "explanation": "First country to give women the vote — New Zealand.",
+   "topic": "First in the World",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00837",
-   "q": "Which country is called the Playground of Europe?",
-   "o": [
+   "question": "Which country is called the Playground of Europe?",
+   "options": [
     "Andes",
     "Switzerland",
     "Nathu La",
     "Mariana Trench"
    ],
-   "a": 1,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 1,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00838",
-   "q": "Which of the following pairs of soil and feature is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of soil and feature is correctly matched?",
+   "options": [
     "Saline soil - Sandy soil of arid regions",
     "Saline soil - Formed from crystalline rocks, rich in iron",
     "Saline soil - Formed in waterlogged areas with organic matter",
     "Saline soil - Contains excess salt, found in dry coastal areas"
    ],
-   "a": 3,
-   "t": "Soils of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Saline soil - Contains excess salt, found in dry coastal areas is correctly matched."
+   "answer": 3,
+   "explanation": "Only Saline soil - Contains excess salt, found in dry coastal areas is correctly matched.",
+   "topic": "Soils of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00839",
-   "q": "Which mineral is found in large quantities in Odisha?",
-   "o": [
+   "question": "Which mineral is found in large quantities in Odisha?",
+   "options": [
     "Iron ore",
     "Uranium",
     "Bauxite",
     "Manganese"
    ],
-   "a": 3,
-   "t": "Minerals and States",
-   "l": 3,
-   "s": "generated",
-   "e": "Manganese is found in Odisha."
+   "answer": 3,
+   "explanation": "Manganese is found in Odisha.",
+   "topic": "Minerals and States",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00840",
-   "q": "Which biosphere reserve or wetland is located in Tamil Nadu?",
-   "o": [
+   "question": "Which biosphere reserve or wetland is located in Tamil Nadu?",
+   "options": [
     "Nanda Devi Biosphere Reserve",
     "Kanchenjunga Biosphere Reserve",
     "Sundarbans Biosphere Reserve",
     "Gulf of Mannar Biosphere Reserve"
    ],
-   "a": 3,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Gulf of Mannar Biosphere Reserve is located in Tamil Nadu."
+   "answer": 3,
+   "explanation": "Gulf of Mannar Biosphere Reserve is located in Tamil Nadu.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00841",
-   "q": "What is the capital of Burundi?",
-   "o": [
+   "question": "What is the capital of Burundi?",
+   "options": [
     "Amsterdam",
     "Paramaribo",
     "Bamako",
     "Gitega"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Burundi is Gitega."
+   "answer": 3,
+   "explanation": "The capital of Burundi is Gitega.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00842",
-   "q": "Which element has the chemical symbol No?",
-   "o": [
+   "question": "Which element has the chemical symbol No?",
+   "options": [
     "Iodine",
     "Nobelium",
     "Sodium",
     "Chromium"
    ],
-   "a": 1,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "No is the symbol of Nobelium."
+   "answer": 1,
+   "explanation": "No is the symbol of Nobelium.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00843",
-   "q": "Gandhinagar is the capital of which Indian state?",
-   "o": [
+   "question": "Gandhinagar is the capital of which Indian state?",
+   "options": [
     "Sikkim",
     "Gujarat",
     "Mizoram",
     "Goa"
    ],
-   "a": 1,
-   "t": "States and Capitals",
-   "l": 2,
-   "s": "generated",
-   "e": "Gandhinagar is the capital of Gujarat."
+   "answer": 1,
+   "explanation": "Gandhinagar is the capital of Gujarat.",
+   "topic": "States and Capitals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00844",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "National Song - Saka Calendar",
     "National Song - Ganges River Dolphin",
     "National Song - Indian Elephant",
     "National Song - Vande Mataram"
    ],
-   "a": 3,
-   "t": "National Symbols",
-   "l": 3,
-   "s": "generated",
-   "e": "Only National Song - Vande Mataram is correctly matched."
+   "answer": 3,
+   "explanation": "Only National Song - Vande Mataram is correctly matched.",
+   "topic": "National Symbols",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00845",
-   "q": "First woman President of India is associated with which of the following?",
-   "o": [
+   "question": "First woman President of India is associated with which of the following?",
+   "options": [
     "Jawaharlal Nehru",
     "Pratibha Patil",
     "C. Rajagopalachari",
     "Dr. Rajendra Prasad"
    ],
-   "a": 1,
-   "t": "First in India",
-   "l": 2,
-   "s": "generated",
-   "e": "First woman President of India — Pratibha Patil."
+   "answer": 1,
+   "explanation": "First woman President of India — Pratibha Patil.",
+   "topic": "First in India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00846",
-   "q": "Kathak is a folk or classical dance form of which state?",
-   "o": [
+   "question": "Kathak is a folk or classical dance form of which state?",
+   "options": [
     "Jammu and Kashmir",
     "Uttar Pradesh",
     "Jharkhand",
     "Gujarat"
    ],
-   "a": 1,
-   "t": "Folk Dances of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Kathak belongs to Uttar Pradesh."
+   "answer": 1,
+   "explanation": "Kathak belongs to Uttar Pradesh.",
+   "topic": "Folk Dances of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00847",
-   "q": "Ganesh Chaturthi is a major festival of which state?",
-   "o": [
+   "question": "Ganesh Chaturthi is a major festival of which state?",
+   "options": [
     "West Bengal",
     "Punjab",
     "Rajasthan",
     "Maharashtra"
    ],
-   "a": 3,
-   "t": "Festivals of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Ganesh Chaturthi is celebrated mainly in Maharashtra."
+   "answer": 3,
+   "explanation": "Ganesh Chaturthi is celebrated mainly in Maharashtra.",
+   "topic": "Festivals of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00848",
-   "q": "The river Sutlej originates from which of the following?",
-   "o": [
+   "question": "The river Sutlej originates from which of the following?",
+   "options": [
     "Varusanadu Hills",
     "Rakas Lake",
     "Chamba",
     "Gangotri Glacier"
    ],
-   "a": 1,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Sutlej originates from Rakas Lake."
+   "answer": 1,
+   "explanation": "Sutlej originates from Rakas Lake.",
+   "topic": "Rivers of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00849",
-   "q": "Which of the following dams is built on the river Ganga?",
-   "o": [
+   "question": "Which of the following dams is built on the river Ganga?",
+   "options": [
     "Sardar Sarovar Dam",
     "Bhavani Sagar Dam",
     "Hirakud Dam",
     "Farakka Barrage"
    ],
-   "a": 3,
-   "t": "Dams of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Farakka Barrage is built on the Ganga."
+   "answer": 3,
+   "explanation": "Farakka Barrage is built on the Ganga.",
+   "topic": "Dams of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00850",
-   "q": "Panna National Park is located in which state?",
-   "o": [
+   "question": "Panna National Park is located in which state?",
+   "options": [
     "Madhya Pradesh",
     "Arunachal Pradesh",
     "Maharashtra",
     "Karnataka"
    ],
-   "a": 0,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Panna National Park is located in Madhya Pradesh."
+   "answer": 0,
+   "explanation": "Panna National Park is located in Madhya Pradesh.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00851",
-   "q": "Which of the following passes is located in Himachal Pradesh?",
-   "o": [
+   "question": "Which of the following passes is located in Himachal Pradesh?",
+   "options": [
     "Se La Pass",
     "Baralacha La",
     "Shipki La",
     "Palakkad Gap"
    ],
-   "a": 2,
-   "t": "Mountain Passes of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Shipki La is a pass in Himachal Pradesh."
+   "answer": 2,
+   "explanation": "Shipki La is a pass in Himachal Pradesh.",
+   "topic": "Mountain Passes of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00852",
-   "q": "What is the SI unit of Temperature?",
-   "o": [
+   "question": "What is the SI unit of Temperature?",
+   "options": [
     "Radian",
     "Kelvin",
     "Coulomb",
     "Metre"
    ],
-   "a": 1,
-   "t": "SI Units",
-   "l": 1,
-   "s": "generated",
-   "e": "The SI unit of Temperature is the Kelvin."
+   "answer": 1,
+   "explanation": "The SI unit of Temperature is the Kelvin.",
+   "topic": "SI Units",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00853",
-   "q": "Which instrument is used to measure Plant growth?",
-   "o": [
+   "question": "Which instrument is used to measure Plant growth?",
+   "options": [
     "Crescograph",
     "Spherometer",
     "Thermometer",
     "Cardiograph"
    ],
-   "a": 0,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Crescograph is used to measure Plant growth."
+   "answer": 0,
+   "explanation": "Crescograph is used to measure Plant growth.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00854",
-   "q": "Which disease is caused by the deficiency of Vitamin B7?",
-   "o": [
+   "question": "Which disease is caused by the deficiency of Vitamin B7?",
+   "options": [
     "Tetany",
     "Dermatitis",
     "Megaloblastic anaemia",
     "Muscle weakness"
    ],
-   "a": 1,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Vitamin B7 causes Dermatitis."
+   "answer": 1,
+   "explanation": "Deficiency of Vitamin B7 causes Dermatitis.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00855",
-   "q": "Who is credited with Penicillin?",
-   "o": [
+   "question": "Who is credited with Penicillin?",
+   "options": [
     "Galileo Galilei",
     "Alexander Fleming",
     "Karl von Drais",
     "Theodore Maiman"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Penicillin — Alexander Fleming."
+   "answer": 1,
+   "explanation": "Penicillin — Alexander Fleming.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00856",
-   "q": "What is the chemical name of Borax?",
-   "o": [
+   "question": "What is the chemical name of Borax?",
+   "options": [
     "Sodium tetraborate (Na2B4O7.10H2O)",
     "Ethanol (C2H5OH)",
     "Sodium bicarbonate (NaHCO3)",
     "Trichloromethane (CHCl3)"
    ],
-   "a": 0,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Borax is Sodium tetraborate (Na2B4O7.10H2O)."
+   "answer": 0,
+   "explanation": "Borax is Sodium tetraborate (Na2B4O7.10H2O).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00857",
-   "q": "Which branch of science deals with Diseases?",
-   "o": [
+   "question": "Which branch of science deals with Diseases?",
+   "options": [
     "Ichthyology",
     "Pathology",
     "Bacteriology",
     "Cytology"
    ],
-   "a": 1,
-   "t": "Branches of Science",
-   "l": 2,
-   "s": "generated",
-   "e": "Pathology deals with Diseases."
+   "answer": 1,
+   "explanation": "Pathology deals with Diseases.",
+   "topic": "Branches of Science",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00858",
-   "q": "Which of the following statements about Neptune is correct?",
-   "o": [
+   "question": "Which of the following statements about Neptune is correct?",
+   "options": [
     "Supernova",
     "Jupiter",
     "Eighth",
     "Sirius"
    ],
-   "a": 2,
-   "t": "Astronomy",
-   "l": 3,
-   "s": "generated",
-   "e": "Neptune: Eighth."
+   "answer": 2,
+   "explanation": "Neptune: Eighth.",
+   "topic": "Astronomy",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00859",
-   "q": "Louis Pasteur is known for which of the following?",
-   "o": [
+   "question": "Louis Pasteur is known for which of the following?",
+   "options": [
     "Boyle's law of gases",
     "Germ theory and pasteurisation",
     "Centigrade temperature scale",
     "Electrodynamics"
    ],
-   "a": 1,
-   "t": "Scientists",
-   "l": 2,
-   "s": "generated",
-   "e": "Louis Pasteur is known for Germ theory and pasteurisation."
+   "answer": 1,
+   "explanation": "Louis Pasteur is known for Germ theory and pasteurisation.",
+   "topic": "Scientists",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00860",
-   "q": "Parliament of India is best described as which of the following?",
-   "o": [
+   "question": "Parliament of India is best described as which of the following?",
+   "options": [
     "Council of States, permanent house",
     "Union legislature consisting of the President and two Houses",
     "Watches over vigilance in government",
     "Constitutional head of the Republic"
    ],
-   "a": 1,
-   "t": "Institutions of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Parliament of India — Union legislature consisting of the President and two Houses."
+   "answer": 1,
+   "explanation": "Parliament of India — Union legislature consisting of the President and two Houses.",
+   "topic": "Institutions of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00861",
-   "q": "On which date is World Statistics Day observed?",
-   "o": [
+   "question": "On which date is World Statistics Day observed?",
+   "options": [
     "23 March",
     "20 October",
     "21 June",
     "first Monday of October"
    ],
-   "a": 1,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Statistics Day is observed on 20 October."
+   "answer": 1,
+   "explanation": "World Statistics Day is observed on 20 October.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00862",
-   "q": "Where is the headquarters of United Nations Environment Programme?",
-   "o": [
+   "question": "Where is the headquarters of United Nations Environment Programme?",
+   "options": [
     "Brussels",
     "Nairobi",
     "Bengaluru",
     "Bern"
    ],
-   "a": 1,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "United Nations Environment Programme is headquartered at Nairobi."
+   "answer": 1,
+   "explanation": "United Nations Environment Programme is headquartered at Nairobi.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00863",
-   "q": "UEFA Champions League is associated with which sport?",
-   "o": [
+   "question": "UEFA Champions League is associated with which sport?",
+   "options": [
     "Football",
     "Tennis",
     "Cricket",
     "Hockey"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "UEFA Champions League is associated with Football."
+   "answer": 0,
+   "explanation": "UEFA Champions League is associated with Football.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00864",
-   "q": "Shaurya Chakra is associated with which of the following?",
-   "o": [
+   "question": "Shaurya Chakra is associated with which of the following?",
+   "options": [
     "Indian award for peace, disarmament and development",
     "Third highest peacetime gallantry award of India",
     "Third highest civilian award of India",
     "Literary award for Indian languages"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Shaurya Chakra — Third highest peacetime gallantry award of India."
+   "answer": 1,
+   "explanation": "Shaurya Chakra — Third highest peacetime gallantry award of India.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00865",
-   "q": "First person to sail solo around the world is associated with which of the following?",
-   "o": [
+   "question": "First person to sail solo around the world is associated with which of the following?",
+   "options": [
     "Soviet Union",
     "Joshua Slocum",
     "Athens",
     "Karnam Malleswari"
    ],
-   "a": 1,
-   "t": "First in the World",
-   "l": 2,
-   "s": "generated",
-   "e": "First person to sail solo around the world — Joshua Slocum."
+   "answer": 1,
+   "explanation": "First person to sail solo around the world — Joshua Slocum.",
+   "topic": "First in the World",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00866",
-   "q": "Which is the longest river in Asia?",
-   "o": [
+   "question": "Which is the longest river in Asia?",
+   "options": [
     "Lake Superior",
     "Bay of Bengal",
     "Yangtze",
     "West Bengal"
    ],
-   "a": 2,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 2,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00867",
-   "q": "Which of the following pairs of soil and feature is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of soil and feature is correctly matched?",
+   "options": [
     "Red soil - Formed from crystalline rocks, rich in iron",
     "Red soil - Also called regur, ideal for cotton",
     "Red soil - Formed in waterlogged areas with organic matter",
     "Red soil - Formed by leaching in high rainfall areas"
    ],
-   "a": 0,
-   "t": "Soils of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Red soil - Formed from crystalline rocks, rich in iron is correctly matched."
+   "answer": 0,
+   "explanation": "Only Red soil - Formed from crystalline rocks, rich in iron is correctly matched.",
+   "topic": "Soils of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00868",
-   "q": "Which mineral is found in large quantities in Madhya Pradesh?",
-   "o": [
+   "question": "Which mineral is found in large quantities in Madhya Pradesh?",
+   "options": [
     "Manganese",
     "Uranium",
     "Iron ore",
     "Diamond"
    ],
-   "a": 3,
-   "t": "Minerals and States",
-   "l": 3,
-   "s": "generated",
-   "e": "Diamond is found in Madhya Pradesh."
+   "answer": 3,
+   "explanation": "Diamond is found in Madhya Pradesh.",
+   "topic": "Minerals and States",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00869",
-   "q": "Which biosphere reserve or wetland is located in Madhya Pradesh?",
-   "o": [
+   "question": "Which biosphere reserve or wetland is located in Madhya Pradesh?",
+   "options": [
     "Gulf of Mannar Biosphere Reserve",
     "Kanchenjunga Biosphere Reserve",
     "Nanda Devi Biosphere Reserve",
     "Panna Biosphere Reserve"
    ],
-   "a": 3,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Panna Biosphere Reserve is located in Madhya Pradesh."
+   "answer": 3,
+   "explanation": "Panna Biosphere Reserve is located in Madhya Pradesh.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00870",
-   "q": "What is the capital of Peru?",
-   "o": [
+   "question": "What is the capital of Peru?",
+   "options": [
     "Kyiv",
     "Lima",
     "Baku",
     "Stockholm"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Peru is Lima."
+   "answer": 1,
+   "explanation": "The capital of Peru is Lima.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00871",
-   "q": "Which element has the chemical symbol Nb?",
-   "o": [
+   "question": "Which element has the chemical symbol Nb?",
+   "options": [
     "Technetium",
     "Californium",
     "Niobium",
     "Magnesium"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "Nb is the symbol of Niobium."
+   "answer": 2,
+   "explanation": "Nb is the symbol of Niobium.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00872",
-   "q": "Bengaluru is the capital of which Indian state?",
-   "o": [
+   "question": "Bengaluru is the capital of which Indian state?",
+   "options": [
     "Karnataka",
     "Maharashtra",
     "Mizoram",
     "Chhattisgarh"
    ],
-   "a": 0,
-   "t": "States and Capitals",
-   "l": 2,
-   "s": "generated",
-   "e": "Bengaluru is the capital of Karnataka."
+   "answer": 0,
+   "explanation": "Bengaluru is the capital of Karnataka.",
+   "topic": "States and Capitals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00873",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "National Song - Indian Rupee",
     "National Song - Vande Mataram",
     "National Song - King Cobra",
     "National Song - Banyan"
    ],
-   "a": 1,
-   "t": "National Symbols",
-   "l": 3,
-   "s": "generated",
-   "e": "Only National Song - Vande Mataram is correctly matched."
+   "answer": 1,
+   "explanation": "Only National Song - Vande Mataram is correctly matched.",
+   "topic": "National Symbols",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00874",
-   "q": "First Indian to swim across the English Channel is associated with which of the following?",
-   "o": [
+   "question": "First Indian to swim across the English Channel is associated with which of the following?",
+   "options": [
     "Rakesh Sharma",
     "Mihir Sen",
     "Indira Gandhi",
     "Justice Fathima Beevi"
    ],
-   "a": 1,
-   "t": "First in India",
-   "l": 2,
-   "s": "generated",
-   "e": "First Indian to swim across the English Channel — Mihir Sen."
+   "answer": 1,
+   "explanation": "First Indian to swim across the English Channel — Mihir Sen.",
+   "topic": "First in India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00875",
-   "q": "Theyyam is a folk or classical dance form of which state?",
-   "o": [
+   "question": "Theyyam is a folk or classical dance form of which state?",
+   "options": [
     "Assam",
     "Jammu and Kashmir",
     "Nagaland",
     "Kerala"
    ],
-   "a": 3,
-   "t": "Folk Dances of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Theyyam belongs to Kerala."
+   "answer": 3,
+   "explanation": "Theyyam belongs to Kerala.",
+   "topic": "Folk Dances of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00876",
-   "q": "Wangala Festival is a major festival of which state?",
-   "o": [
+   "question": "Wangala Festival is a major festival of which state?",
+   "options": [
     "Arunachal Pradesh",
     "Ladakh",
     "Karnataka",
     "Meghalaya"
    ],
-   "a": 3,
-   "t": "Festivals of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Wangala Festival is celebrated mainly in Meghalaya."
+   "answer": 3,
+   "explanation": "Wangala Festival is celebrated mainly in Meghalaya.",
+   "topic": "Festivals of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00877",
-   "q": "The river Bhima originates from which of the following?",
-   "o": [
+   "question": "The river Bhima originates from which of the following?",
+   "options": [
     "Amarkantak",
     "Bhimashankar",
     "Bokhar Chu",
     "Sivagiri Hills"
    ],
-   "a": 1,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Bhima originates from Bhimashankar."
+   "answer": 1,
+   "explanation": "Bhima originates from Bhimashankar.",
+   "topic": "Rivers of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00878",
-   "q": "Which of the following dams is built on the river Bhagirathi?",
-   "o": [
+   "question": "Which of the following dams is built on the river Bhagirathi?",
+   "options": [
     "Tehri Dam",
     "Sardar Sarovar Dam",
     "Maithon Dam",
     "Koyna Dam"
    ],
-   "a": 0,
-   "t": "Dams of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Tehri Dam is built on the Bhagirathi."
+   "answer": 0,
+   "explanation": "Tehri Dam is built on the Bhagirathi.",
+   "topic": "Dams of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00879",
-   "q": "Rajgir Wildlife Sanctuary is located in which state?",
-   "o": [
+   "question": "Rajgir Wildlife Sanctuary is located in which state?",
+   "options": [
     "Madhya Pradesh",
     "Jharkhand",
     "Uttar Pradesh",
     "Bihar"
    ],
-   "a": 3,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Rajgir Wildlife Sanctuary is located in Bihar."
+   "answer": 3,
+   "explanation": "Rajgir Wildlife Sanctuary is located in Bihar.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00880",
-   "q": "Which of the following passes is located in Sikkim?",
-   "o": [
+   "question": "Which of the following passes is located in Sikkim?",
+   "options": [
     "Nathu La",
     "Zoji La",
     "Banihal Pass",
     "Haldighati Pass"
    ],
-   "a": 0,
-   "t": "Mountain Passes of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Nathu La is a pass in Sikkim."
+   "answer": 0,
+   "explanation": "Nathu La is a pass in Sikkim.",
+   "topic": "Mountain Passes of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00881",
-   "q": "What is the SI unit of Viscosity (dynamic)?",
-   "o": [
+   "question": "What is the SI unit of Viscosity (dynamic)?",
+   "options": [
     "Newton",
     "Pascal second",
     "Ampere",
     "Katal"
    ],
-   "a": 1,
-   "t": "SI Units",
-   "l": 1,
-   "s": "generated",
-   "e": "The SI unit of Viscosity (dynamic) is the Pascal second."
+   "answer": 1,
+   "explanation": "The SI unit of Viscosity (dynamic) is the Pascal second.",
+   "topic": "SI Units",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00882",
-   "q": "Which instrument is used to measure Humidity?",
-   "o": [
+   "question": "Which instrument is used to measure Humidity?",
+   "options": [
     "Calorimeter",
     "Hygroscope",
     "Manometer",
     "Anemometer"
    ],
-   "a": 1,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Hygroscope is used to measure Humidity."
+   "answer": 1,
+   "explanation": "Hygroscope is used to measure Humidity.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00883",
-   "q": "Which disease is caused by the deficiency of Iron?",
-   "o": [
+   "question": "Which disease is caused by the deficiency of Iron?",
+   "options": [
     "Anaemia",
     "Anaemia and bone disorders",
     "Ariboflavinosis",
     "Growth retardation"
    ],
-   "a": 0,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Iron causes Anaemia."
+   "answer": 0,
+   "explanation": "Deficiency of Iron causes Anaemia.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00884",
-   "q": "Who is credited with Radium?",
-   "o": [
+   "question": "Who is credited with Radium?",
+   "options": [
     "Albert Einstein",
     "John Logie Baird",
     "Marie Curie",
     "Galileo Galilei"
    ],
-   "a": 2,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Radium — Marie Curie."
+   "answer": 2,
+   "explanation": "Radium — Marie Curie.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00885",
-   "q": "What is the chemical name of Vinegar?",
-   "o": [
+   "question": "What is the chemical name of Vinegar?",
+   "options": [
     "Acetylsalicylic acid",
     "Acetic acid (CH3COOH)",
     "Potassium hydroxide (KOH)",
     "Calcium hydroxide (Ca(OH)2)"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Vinegar is Acetic acid (CH3COOH)."
+   "answer": 1,
+   "explanation": "Vinegar is Acetic acid (CH3COOH).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00886",
-   "q": "Which branch of science deals with Microorganisms?",
-   "o": [
+   "question": "Which branch of science deals with Microorganisms?",
+   "options": [
     "Astrophysics",
     "Botany",
     "Microbiology",
     "Ichthyology"
    ],
-   "a": 2,
-   "t": "Branches of Science",
-   "l": 2,
-   "s": "generated",
-   "e": "Microbiology deals with Microorganisms."
+   "answer": 2,
+   "explanation": "Microbiology deals with Microorganisms.",
+   "topic": "Branches of Science",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00887",
-   "q": "Which of the following statements about Halley's Comet is correct?",
-   "o": [
+   "question": "Which of the following statements about Halley's Comet is correct?",
+   "options": [
     "Aurora",
     "Lunar eclipse",
     "Sirius",
     "Halley's Comet"
    ],
-   "a": 3,
-   "t": "Astronomy",
-   "l": 3,
-   "s": "generated",
-   "e": "Halley's Comet: Halley's Comet."
+   "answer": 3,
+   "explanation": "Halley's Comet: Halley's Comet.",
+   "topic": "Astronomy",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00888",
-   "q": "Michael Faraday is known for which of the following?",
-   "o": [
+   "question": "Michael Faraday is known for which of the following?",
+   "options": [
     "Quantum theory",
     "Heliocentric model of the Solar System",
     "Electromagnetic induction",
     "Boyle's law of gases"
    ],
-   "a": 2,
-   "t": "Scientists",
-   "l": 2,
-   "s": "generated",
-   "e": "Michael Faraday is known for Electromagnetic induction."
+   "answer": 2,
+   "explanation": "Michael Faraday is known for Electromagnetic induction.",
+   "topic": "Scientists",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00889",
-   "q": "SEBI is best described as which of the following?",
-   "o": [
+   "question": "SEBI is best described as which of the following?",
+   "options": [
     "Audits government accounts",
     "Regulator of the securities market",
     "Aids and advises the President",
     "Central bank and monetary authority"
    ],
-   "a": 1,
-   "t": "Institutions of India",
-   "l": 2,
-   "s": "generated",
-   "e": "SEBI — Regulator of the securities market."
+   "answer": 1,
+   "explanation": "SEBI — Regulator of the securities market.",
+   "topic": "Institutions of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00890",
-   "q": "On which date is National Education Day (India) observed?",
-   "o": [
+   "question": "On which date is National Education Day (India) observed?",
+   "options": [
     "10 October",
     "2 February",
     "11 July",
     "11 November"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "National Education Day (India) is observed on 11 November."
+   "answer": 3,
+   "explanation": "National Education Day (India) is observed on 11 November.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00891",
-   "q": "Where is the headquarters of United Nations Industrial Development Organization?",
-   "o": [
+   "question": "Where is the headquarters of United Nations Industrial Development Organization?",
+   "options": [
     "Vienna",
     "Washington, D.C.",
     "Gland",
     "Beijing"
    ],
-   "a": 0,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "United Nations Industrial Development Organization is headquartered at Vienna."
+   "answer": 0,
+   "explanation": "United Nations Industrial Development Organization is headquartered at Vienna.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00892",
-   "q": "FIH Hockey World Cup is associated with which sport?",
-   "o": [
+   "question": "FIH Hockey World Cup is associated with which sport?",
+   "options": [
     "Golf",
     "Football",
     "Hockey",
     "Cricket"
    ],
-   "a": 2,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "FIH Hockey World Cup is associated with Hockey."
+   "answer": 2,
+   "explanation": "FIH Hockey World Cup is associated with Hockey.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00893",
-   "q": "Dhyan Chand Award is associated with which of the following?",
-   "o": [
+   "question": "Dhyan Chand Award is associated with which of the following?",
+   "options": [
     "Highest award in Indian cinema",
     "Indian award in science and technology",
     "Lifetime achievement in Indian sports",
     "American award for music"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Dhyan Chand Award — Lifetime achievement in Indian sports."
+   "answer": 2,
+   "explanation": "Dhyan Chand Award — Lifetime achievement in Indian sports.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00894",
-   "q": "Which of the following achievements belongs to United States of America?",
-   "o": [
+   "question": "Which of the following achievements belongs to United States of America?",
+   "options": [
     "First woman to climb Mount Everest",
     "First President of the United States",
     "First country to land a man on the Moon",
     "First person to climb Mount Everest"
    ],
-   "a": 2,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "First country to land a man on the Moon belongs to United States of America."
+   "answer": 2,
+   "explanation": "First country to land a man on the Moon belongs to United States of America.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00895",
-   "q": "Which country is called the Land of the Midnight Sun?",
-   "o": [
+   "question": "Which country is called the Land of the Midnight Sun?",
+   "options": [
     "Surat",
     "Panama Canal",
     "India",
     "Norway"
    ],
-   "a": 3,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 3,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00896",
-   "q": "Which of the following pairs of soil and feature is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of soil and feature is correctly matched?",
+   "options": [
     "Red soil - Most fertile soil, found in the northern plains",
     "Red soil - Found in hilly and forest regions",
     "Red soil - Formed in waterlogged areas with organic matter",
     "Red soil - Formed from crystalline rocks, rich in iron"
    ],
-   "a": 3,
-   "t": "Soils of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Red soil - Formed from crystalline rocks, rich in iron is correctly matched."
+   "answer": 3,
+   "explanation": "Only Red soil - Formed from crystalline rocks, rich in iron is correctly matched.",
+   "topic": "Soils of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00897",
-   "q": "Which mineral is found in large quantities in Rajasthan?",
-   "o": [
+   "question": "Which mineral is found in large quantities in Rajasthan?",
+   "options": [
     "Copper",
     "Manganese",
     "Petroleum",
     "Limestone"
    ],
-   "a": 0,
-   "t": "Minerals and States",
-   "l": 3,
-   "s": "generated",
-   "e": "Copper is found in Rajasthan."
+   "answer": 0,
+   "explanation": "Copper is found in Rajasthan.",
+   "topic": "Minerals and States",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00898",
-   "q": "Which biosphere reserve or wetland is located in Odisha?",
-   "o": [
+   "question": "Which biosphere reserve or wetland is located in Odisha?",
+   "options": [
     "Simlipal Biosphere Reserve",
     "Gulf of Mannar Biosphere Reserve",
     "Cold Desert Biosphere Reserve",
     "Great Nicobar Biosphere Reserve"
    ],
-   "a": 0,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Simlipal Biosphere Reserve is located in Odisha."
+   "answer": 0,
+   "explanation": "Simlipal Biosphere Reserve is located in Odisha.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00899",
-   "q": "What is the capital of Colombia?",
-   "o": [
+   "question": "What is the capital of Colombia?",
+   "options": [
     "Sri Jayawardenepura Kotte",
     "Kuala Lumpur",
     "Bogota",
     "Phnom Penh"
    ],
-   "a": 2,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Colombia is Bogota."
+   "answer": 2,
+   "explanation": "The capital of Colombia is Bogota.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00900",
-   "q": "Which element has the chemical symbol Rb?",
-   "o": [
+   "question": "Which element has the chemical symbol Rb?",
+   "options": [
     "Mendelevium",
     "Beryllium",
     "Rubidium",
     "Krypton"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "Rb is the symbol of Rubidium."
+   "answer": 2,
+   "explanation": "Rb is the symbol of Rubidium.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00901",
-   "q": "Bhubaneswar is the capital of which Indian state?",
-   "o": [
+   "question": "Bhubaneswar is the capital of which Indian state?",
+   "options": [
     "Haryana",
     "West Bengal",
     "Kerala",
     "Odisha"
    ],
-   "a": 3,
-   "t": "States and Capitals",
-   "l": 2,
-   "s": "generated",
-   "e": "Bhubaneswar is the capital of Odisha."
+   "answer": 3,
+   "explanation": "Bhubaneswar is the capital of Odisha.",
+   "topic": "States and Capitals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00902",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "National Anthem - Lion Capital of Ashoka",
     "National Anthem - Indian Peacock",
     "National Anthem - Ganges River Dolphin",
     "National Anthem - Jana Gana Mana"
    ],
-   "a": 3,
-   "t": "National Symbols",
-   "l": 3,
-   "s": "generated",
-   "e": "Only National Anthem - Jana Gana Mana is correctly matched."
+   "answer": 3,
+   "explanation": "Only National Anthem - Jana Gana Mana is correctly matched.",
+   "topic": "National Symbols",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00903",
-   "q": "Which of the following descriptions matches Tenzing Norgay?",
-   "o": [
+   "question": "Which of the following descriptions matches Tenzing Norgay?",
+   "options": [
     "First woman to win a Nobel Prize in India",
     "First Indian to climb Mount Everest",
     "First Prime Minister of India",
     "First Indian woman to win an Olympic medal"
    ],
-   "a": 1,
-   "t": "First in India",
-   "l": 3,
-   "s": "generated",
-   "e": "Tenzing Norgay is associated with: First Indian to climb Mount Everest."
+   "answer": 1,
+   "explanation": "Tenzing Norgay is associated with: First Indian to climb Mount Everest.",
+   "topic": "First in India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00904",
-   "q": "Gambhira is a folk or classical dance form of which state?",
-   "o": [
+   "question": "Gambhira is a folk or classical dance form of which state?",
+   "options": [
     "Uttar Pradesh",
     "West Bengal",
     "Sikkim",
     "Kerala"
    ],
-   "a": 1,
-   "t": "Folk Dances of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Gambhira belongs to West Bengal."
+   "answer": 1,
+   "explanation": "Gambhira belongs to West Bengal.",
+   "topic": "Folk Dances of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00905",
-   "q": "Sangai Festival is a major festival of which state?",
-   "o": [
+   "question": "Sangai Festival is a major festival of which state?",
+   "options": [
     "West Bengal",
     "Arunachal Pradesh",
     "Bihar",
     "Manipur"
    ],
-   "a": 3,
-   "t": "Festivals of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Sangai Festival is celebrated mainly in Manipur."
+   "answer": 3,
+   "explanation": "Sangai Festival is celebrated mainly in Manipur.",
+   "topic": "Festivals of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00906",
-   "q": "Sihawa is the origin of which river?",
-   "o": [
+   "question": "Sihawa is the origin of which river?",
+   "options": [
     "Krishna",
     "Mahanadi",
     "Yamuna",
     "Ghaghara"
    ],
-   "a": 1,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Sihawa is the origin of the river Mahanadi."
+   "answer": 1,
+   "explanation": "Sihawa is the origin of the river Mahanadi.",
+   "topic": "Rivers of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00907",
-   "q": "Which of the following dams is built on the river Damodar?",
-   "o": [
+   "question": "Which of the following dams is built on the river Damodar?",
+   "options": [
     "Sardar Sarovar Dam",
     "Srisailam Dam",
     "Baglihar Dam",
     "Panchet Dam"
    ],
-   "a": 3,
-   "t": "Dams of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Panchet Dam is built on the Damodar."
+   "answer": 3,
+   "explanation": "Panchet Dam is built on the Damodar.",
+   "topic": "Dams of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00908",
-   "q": "Ramgarh Vishdhari Tiger Reserve is located in which state?",
-   "o": [
+   "question": "Ramgarh Vishdhari Tiger Reserve is located in which state?",
+   "options": [
     "Rajasthan",
     "Uttar Pradesh",
     "Maharashtra",
     "Chhattisgarh"
    ],
-   "a": 0,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Ramgarh Vishdhari Tiger Reserve is located in Rajasthan."
+   "answer": 0,
+   "explanation": "Ramgarh Vishdhari Tiger Reserve is located in Rajasthan.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00909",
-   "q": "Which of the following passes is located in Arunachal Pradesh?",
-   "o": [
+   "question": "Which of the following passes is located in Arunachal Pradesh?",
+   "options": [
     "Pangsau Pass",
     "Fotu La",
     "Shencottah Gap",
     "Thal Ghat"
    ],
-   "a": 0,
-   "t": "Mountain Passes of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Pangsau Pass is a pass in Arunachal Pradesh."
+   "answer": 0,
+   "explanation": "Pangsau Pass is a pass in Arunachal Pradesh.",
+   "topic": "Mountain Passes of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00910",
-   "q": "Which physical quantity is measured in Watt?",
-   "o": [
+   "question": "Which physical quantity is measured in Watt?",
+   "options": [
     "Luminous intensity",
     "Power",
     "Mass",
     "Magnetic flux"
    ],
-   "a": 1,
-   "t": "SI Units",
-   "l": 2,
-   "s": "generated",
-   "e": "Watt is the SI unit of Power."
+   "answer": 1,
+   "explanation": "Watt is the SI unit of Power.",
+   "topic": "SI Units",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00911",
-   "q": "Which instrument is used to measure Atmospheric pressure?",
-   "o": [
+   "question": "Which instrument is used to measure Atmospheric pressure?",
+   "options": [
     "Chronometer",
     "Endoscope",
     "Barometer",
     "Polygraph"
    ],
-   "a": 2,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Barometer is used to measure Atmospheric pressure."
+   "answer": 2,
+   "explanation": "Barometer is used to measure Atmospheric pressure.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00912",
-   "q": "Which disease is caused by the deficiency of Sodium?",
-   "o": [
+   "question": "Which disease is caused by the deficiency of Sodium?",
+   "options": [
     "Scurvy",
     "Rickets in children",
     "Dehydration",
     "Anaemia and bone disorders"
    ],
-   "a": 2,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Sodium causes Dehydration."
+   "answer": 2,
+   "explanation": "Deficiency of Sodium causes Dehydration.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00913",
-   "q": "Who is credited with Bicycle?",
-   "o": [
+   "question": "Who is credited with Bicycle?",
+   "options": [
     "Wright Brothers",
     "Karl von Drais",
     "Tim Berners-Lee",
     "Jonas Salk"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Bicycle — Karl von Drais."
+   "answer": 1,
+   "explanation": "Bicycle — Karl von Drais.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00914",
-   "q": "What is the chemical name of Common salt?",
-   "o": [
+   "question": "What is the chemical name of Common salt?",
+   "options": [
     "Deuterium oxide (D2O)",
     "Nitric acid (HNO3)",
     "Sodium chloride (NaCl)",
     "Hydrated magnesium silicate"
    ],
-   "a": 2,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Common salt is Sodium chloride (NaCl)."
+   "answer": 2,
+   "explanation": "Common salt is Sodium chloride (NaCl).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00915",
-   "q": "Which branch of science deals with Bacteria?",
-   "o": [
+   "question": "Which branch of science deals with Bacteria?",
+   "options": [
     "Physics",
     "Bacteriology",
     "Cardiology",
     "Genetics"
    ],
-   "a": 1,
-   "t": "Branches of Science",
-   "l": 2,
-   "s": "generated",
-   "e": "Bacteriology deals with Bacteria."
+   "answer": 1,
+   "explanation": "Bacteriology deals with Bacteria.",
+   "topic": "Branches of Science",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00916",
-   "q": "Which of the following statements about Ganymede is correct?",
-   "o": [
+   "question": "Which of the following statements about Ganymede is correct?",
+   "options": [
     "Jupiter",
     "Seventh",
     "Saturn",
     "Pluto"
    ],
-   "a": 0,
-   "t": "Astronomy",
-   "l": 3,
-   "s": "generated",
-   "e": "Ganymede: Jupiter."
+   "answer": 0,
+   "explanation": "Ganymede: Jupiter.",
+   "topic": "Astronomy",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00917",
-   "q": "Anders Celsius is known for which of the following?",
-   "o": [
+   "question": "Anders Celsius is known for which of the following?",
+   "options": [
     "Laws of motion and gravitation",
     "Centigrade temperature scale",
     "Wireless telegraphy",
     "Discovery of penicillin"
    ],
-   "a": 1,
-   "t": "Scientists",
-   "l": 2,
-   "s": "generated",
-   "e": "Anders Celsius is known for Centigrade temperature scale."
+   "answer": 1,
+   "explanation": "Anders Celsius is known for Centigrade temperature scale.",
+   "topic": "Scientists",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00918",
-   "q": "Which institution is described as: Recommends distribution of taxes between the Centre and States?",
-   "o": [
+   "question": "Which institution is described as: Recommends distribution of taxes between the Centre and States?",
+   "options": [
     "Election Commission of India",
     "Finance Commission",
     "Vice President of India",
     "Chief Minister"
    ],
-   "a": 1,
-   "t": "Institutions of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Recommends distribution of taxes between the Centre and States describes Finance Commission."
+   "answer": 1,
+   "explanation": "Recommends distribution of taxes between the Centre and States describes Finance Commission.",
+   "topic": "Institutions of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00919",
-   "q": "On which date is Constitution Day (India) observed?",
-   "o": [
+   "question": "On which date is Constitution Day (India) observed?",
+   "options": [
     "14 November",
     "1 December",
     "26 November",
     "24 January"
    ],
-   "a": 2,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "Constitution Day (India) is observed on 26 November."
+   "answer": 2,
+   "explanation": "Constitution Day (India) is observed on 26 November.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00920",
-   "q": "Where is the headquarters of Comprehensive Nuclear-Test-Ban Treaty Organization?",
-   "o": [
+   "question": "Where is the headquarters of Comprehensive Nuclear-Test-Ban Treaty Organization?",
+   "options": [
     "Beijing",
     "Geneva",
     "Vienna",
     "New York"
    ],
-   "a": 2,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "Comprehensive Nuclear-Test-Ban Treaty Organization is headquartered at Vienna."
+   "answer": 2,
+   "explanation": "Comprehensive Nuclear-Test-Ban Treaty Organization is headquartered at Vienna.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00921",
-   "q": "Durand Cup is associated with which sport?",
-   "o": [
+   "question": "Durand Cup is associated with which sport?",
+   "options": [
     "Tennis",
     "Badminton",
     "Hockey",
     "Football"
    ],
-   "a": 3,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Durand Cup is associated with Football."
+   "answer": 3,
+   "explanation": "Durand Cup is associated with Football.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00922",
-   "q": "Nobel Prize is associated with which of the following?",
-   "o": [
+   "question": "Nobel Prize is associated with which of the following?",
+   "options": [
     "British award for fiction",
     "Asian award for public service",
     "UNESCO award for popularisation of science",
     "International award for Physics, Chemistry, Medicine, Literature, Peace and Economics"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Nobel Prize — International award for Physics, Chemistry, Medicine, Literature, Peace and Economics."
+   "answer": 3,
+   "explanation": "Nobel Prize — International award for Physics, Chemistry, Medicine, Literature, Peace and Economics.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00923",
-   "q": "Which of the following achievements belongs to Uruguay?",
-   "o": [
+   "question": "Which of the following achievements belongs to Uruguay?",
+   "options": [
     "First FIFA World Cup was held in",
     "First woman to win a Nobel Prize",
     "First country to send a human into space",
     "First country to give women the vote"
    ],
-   "a": 0,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "First FIFA World Cup was held in belongs to Uruguay."
+   "answer": 0,
+   "explanation": "First FIFA World Cup was held in belongs to Uruguay.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00924",
-   "q": "Which is the largest river island in India?",
-   "o": [
+   "question": "Which is the largest river island in India?",
+   "options": [
     "Seven",
     "Norway",
     "Ethiopia",
     "Majuli"
    ],
-   "a": 3,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 3,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00925",
-   "q": "Which of the following pairs of soil and feature is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of soil and feature is correctly matched?",
+   "options": [
     "Laterite soil - Sandy soil of arid regions",
     "Laterite soil - Formed by leaching in high rainfall areas",
     "Laterite soil - Formed from crystalline rocks, rich in iron",
     "Laterite soil - Contains excess salt, found in dry coastal areas"
    ],
-   "a": 1,
-   "t": "Soils of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Laterite soil - Formed by leaching in high rainfall areas is correctly matched."
+   "answer": 1,
+   "explanation": "Only Laterite soil - Formed by leaching in high rainfall areas is correctly matched.",
+   "topic": "Soils of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00926",
-   "q": "Which mineral is found in large quantities in Maharashtra?",
-   "o": [
+   "question": "Which mineral is found in large quantities in Maharashtra?",
+   "options": [
     "Manganese",
     "Sillimanite",
     "Graphite",
     "Natural gas"
    ],
-   "a": 3,
-   "t": "Minerals and States",
-   "l": 3,
-   "s": "generated",
-   "e": "Natural gas is found in Maharashtra."
+   "answer": 3,
+   "explanation": "Natural gas is found in Maharashtra.",
+   "topic": "Minerals and States",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00927",
-   "q": "Which biosphere reserve or wetland is located in Andhra Pradesh?",
-   "o": [
+   "question": "Which biosphere reserve or wetland is located in Andhra Pradesh?",
+   "options": [
     "Gulf of Mannar Biosphere Reserve",
     "Deepor Beel",
     "Keoladeo Ghana",
     "Seshachalam Biosphere Reserve"
    ],
-   "a": 3,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Seshachalam Biosphere Reserve is located in Andhra Pradesh."
+   "answer": 3,
+   "explanation": "Seshachalam Biosphere Reserve is located in Andhra Pradesh.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00928",
-   "q": "What is the capital of Ireland?",
-   "o": [
+   "question": "What is the capital of Ireland?",
+   "options": [
     "Mogadishu",
     "Dublin",
     "Athens",
     "Asuncion"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Ireland is Dublin."
+   "answer": 1,
+   "explanation": "The capital of Ireland is Dublin.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00929",
-   "q": "Which element has the chemical symbol Ir?",
-   "o": [
+   "question": "Which element has the chemical symbol Ir?",
+   "options": [
     "Meitnerium",
     "Platinum",
     "Iridium",
     "Sodium"
    ],
-   "a": 2,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "Ir is the symbol of Iridium."
+   "answer": 2,
+   "explanation": "Ir is the symbol of Iridium.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00930",
-   "q": "Dispur is the capital of which Indian state?",
-   "o": [
+   "question": "Dispur is the capital of which Indian state?",
+   "options": [
     "Assam",
     "Tripura",
     "Madhya Pradesh",
     "Nagaland"
    ],
-   "a": 0,
-   "t": "States and Capitals",
-   "l": 2,
-   "s": "generated",
-   "e": "Dispur is the capital of Assam."
+   "answer": 0,
+   "explanation": "Dispur is the capital of Assam.",
+   "topic": "States and Capitals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00931",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "National Anthem - Banyan",
     "National Anthem - Ganga",
     "National Anthem - Indian Peacock",
     "National Anthem - Jana Gana Mana"
    ],
-   "a": 3,
-   "t": "National Symbols",
-   "l": 3,
-   "s": "generated",
-   "e": "Only National Anthem - Jana Gana Mana is correctly matched."
+   "answer": 3,
+   "explanation": "Only National Anthem - Jana Gana Mana is correctly matched.",
+   "topic": "National Symbols",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00932",
-   "q": "Which of the following descriptions matches Pratibha Patil?",
-   "o": [
+   "question": "Which of the following descriptions matches Pratibha Patil?",
+   "options": [
     "First Indian to win the Miss World title",
     "First Indian Governor-General of India",
     "First woman President of India",
     "First Indian to win a Grand Slam in tennis"
    ],
-   "a": 2,
-   "t": "First in India",
-   "l": 3,
-   "s": "generated",
-   "e": "Pratibha Patil is associated with: First woman President of India."
+   "answer": 2,
+   "explanation": "Pratibha Patil is associated with: First woman President of India.",
+   "topic": "First in India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00933",
-   "q": "Bharatanatyam is a folk or classical dance form of which state?",
-   "o": [
+   "question": "Bharatanatyam is a folk or classical dance form of which state?",
+   "options": [
     "Punjab",
     "Tripura",
     "Rajasthan",
     "Tamil Nadu"
    ],
-   "a": 3,
-   "t": "Folk Dances of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Bharatanatyam belongs to Tamil Nadu."
+   "answer": 3,
+   "explanation": "Bharatanatyam belongs to Tamil Nadu.",
+   "topic": "Folk Dances of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00934",
-   "q": "Vishu is a major festival of which state?",
-   "o": [
+   "question": "Vishu is a major festival of which state?",
+   "options": [
     "Arunachal Pradesh",
     "Maharashtra",
     "West Bengal",
     "Kerala"
    ],
-   "a": 3,
-   "t": "Festivals of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Vishu is celebrated mainly in Kerala."
+   "answer": 3,
+   "explanation": "Vishu is celebrated mainly in Kerala.",
+   "topic": "Festivals of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00935",
-   "q": "Rakas Lake is the origin of which river?",
-   "o": [
+   "question": "Rakas Lake is the origin of which river?",
+   "options": [
     "Tungabhadra",
     "Ravi",
     "Sutlej",
     "Damodar"
    ],
-   "a": 2,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Rakas Lake is the origin of the river Sutlej."
+   "answer": 2,
+   "explanation": "Rakas Lake is the origin of the river Sutlej.",
+   "topic": "Rivers of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00936",
-   "q": "Which of the following dams is built on the river Krishna?",
-   "o": [
+   "question": "Which of the following dams is built on the river Krishna?",
+   "options": [
     "Indira Sagar Dam",
     "Nagarjuna Sagar Dam",
     "Srisailam Dam",
     "Rihand Dam"
    ],
-   "a": 1,
-   "t": "Dams of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Nagarjuna Sagar Dam is built on the Krishna."
+   "answer": 1,
+   "explanation": "Nagarjuna Sagar Dam is built on the Krishna.",
+   "topic": "Dams of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00937",
-   "q": "Sanjay Gandhi National Park is located in which state?",
-   "o": [
+   "question": "Sanjay Gandhi National Park is located in which state?",
+   "options": [
     "Maharashtra",
     "Kerala",
     "Uttar Pradesh",
     "Rajasthan"
    ],
-   "a": 0,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Sanjay Gandhi National Park is located in Maharashtra."
+   "answer": 0,
+   "explanation": "Sanjay Gandhi National Park is located in Maharashtra.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00938",
-   "q": "Which of the following passes is located in Himachal Pradesh?",
-   "o": [
+   "question": "Which of the following passes is located in Himachal Pradesh?",
+   "options": [
     "Zoji La",
     "Thal Ghat",
     "Se La Pass",
     "Rohtang Pass"
    ],
-   "a": 3,
-   "t": "Mountain Passes of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Rohtang Pass is a pass in Himachal Pradesh."
+   "answer": 3,
+   "explanation": "Rohtang Pass is a pass in Himachal Pradesh.",
+   "topic": "Mountain Passes of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00939",
-   "q": "Which physical quantity is measured in Kelvin?",
-   "o": [
+   "question": "Which physical quantity is measured in Kelvin?",
+   "options": [
     "Entropy",
     "Electric charge",
     "Temperature",
     "Capacitance"
    ],
-   "a": 2,
-   "t": "SI Units",
-   "l": 2,
-   "s": "generated",
-   "e": "Kelvin is the SI unit of Temperature."
+   "answer": 2,
+   "explanation": "Kelvin is the SI unit of Temperature.",
+   "topic": "SI Units",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00940",
-   "q": "Which instrument is used to measure Gas pressure?",
-   "o": [
+   "question": "Which instrument is used to measure Gas pressure?",
+   "options": [
     "Pyrometer",
     "Spectrometer",
     "Periscope",
     "Manometer"
    ],
-   "a": 3,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Manometer is used to measure Gas pressure."
+   "answer": 3,
+   "explanation": "Manometer is used to measure Gas pressure.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00941",
-   "q": "Which disease is caused by the deficiency of Zinc?",
-   "o": [
+   "question": "Which disease is caused by the deficiency of Zinc?",
+   "options": [
     "Dehydration",
     "Delayed blood clotting",
     "Growth retardation",
     "Pellagra"
    ],
-   "a": 2,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Zinc causes Growth retardation."
+   "answer": 2,
+   "explanation": "Deficiency of Zinc causes Growth retardation.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00942",
-   "q": "Who is credited with Electron?",
-   "o": [
+   "question": "Who is credited with Electron?",
+   "options": [
     "J. J. Thomson",
     "Alexander Fleming",
     "Henry Cavendish",
     "Dmitri Mendeleev"
    ],
-   "a": 0,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Electron — J. J. Thomson."
+   "answer": 0,
+   "explanation": "Electron — J. J. Thomson.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00943",
-   "q": "What is the chemical name of Caustic potash?",
-   "o": [
+   "question": "What is the chemical name of Caustic potash?",
+   "options": [
     "Potassium aluminium sulphate",
     "Solid carbon dioxide (CO2)",
     "Ferrous sulphate (FeSO4.7H2O)",
     "Potassium hydroxide (KOH)"
    ],
-   "a": 3,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Caustic potash is Potassium hydroxide (KOH)."
+   "answer": 3,
+   "explanation": "Caustic potash is Potassium hydroxide (KOH).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00944",
-   "q": "Which branch of science deals with Eyes?",
-   "o": [
+   "question": "Which branch of science deals with Eyes?",
+   "options": [
     "Ophthalmology",
     "Pathology",
     "Nuclear physics",
     "Dermatology"
    ],
-   "a": 0,
-   "t": "Branches of Science",
-   "l": 2,
-   "s": "generated",
-   "e": "Ophthalmology deals with Eyes."
+   "answer": 0,
+   "explanation": "Ophthalmology deals with Eyes.",
+   "topic": "Branches of Science",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00945",
-   "q": "Which of the following statements about Earth is correct?",
-   "o": [
+   "question": "Which of the following statements about Earth is correct?",
+   "options": [
     "Moon",
     "Earth",
     "Asteroid",
     "Sun"
    ],
-   "a": 1,
-   "t": "Astronomy",
-   "l": 3,
-   "s": "generated",
-   "e": "Earth: Earth."
+   "answer": 1,
+   "explanation": "Earth: Earth.",
+   "topic": "Astronomy",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00946",
-   "q": "Alexander Graham Bell is known for which of the following?",
-   "o": [
+   "question": "Alexander Graham Bell is known for which of the following?",
+   "options": [
     "Telephone",
     "Germ theory and pasteurisation",
     "Missile and space launch technology",
     "Phonograph and practical electric bulb"
    ],
-   "a": 0,
-   "t": "Scientists",
-   "l": 2,
-   "s": "generated",
-   "e": "Alexander Graham Bell is known for Telephone."
+   "answer": 0,
+   "explanation": "Alexander Graham Bell is known for Telephone.",
+   "topic": "Scientists",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00947",
-   "q": "Which institution is described as: Union legislature consisting of the President and two Houses?",
-   "o": [
+   "question": "Which institution is described as: Union legislature consisting of the President and two Houses?",
+   "options": [
     "IRDAI",
     "Central Vigilance Commission",
     "Parliament of India",
     "Governor"
    ],
-   "a": 2,
-   "t": "Institutions of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Union legislature consisting of the President and two Houses describes Parliament of India."
+   "answer": 2,
+   "explanation": "Union legislature consisting of the President and two Houses describes Parliament of India.",
+   "topic": "Institutions of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00948",
-   "q": "On which date is World Wildlife Day observed?",
-   "o": [
+   "question": "On which date is World Wildlife Day observed?",
+   "options": [
     "3 March",
     "1 June",
     "10 October",
     "22 December"
    ],
-   "a": 0,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Wildlife Day is observed on 3 March."
+   "answer": 0,
+   "explanation": "World Wildlife Day is observed on 3 March.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00949",
-   "q": "Where is the headquarters of Board of Control for Cricket in India?",
-   "o": [
+   "question": "Where is the headquarters of Board of Control for Cricket in India?",
+   "options": [
     "Mumbai",
     "New Delhi",
     "Lausanne",
     "London"
    ],
-   "a": 0,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "Board of Control for Cricket in India is headquartered at Mumbai."
+   "answer": 0,
+   "explanation": "Board of Control for Cricket in India is headquartered at Mumbai.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00950",
-   "q": "Aga Khan Cup is associated with which sport?",
-   "o": [
+   "question": "Aga Khan Cup is associated with which sport?",
+   "options": [
     "Hockey",
     "Table Tennis",
     "Football",
     "Cricket"
    ],
-   "a": 0,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Aga Khan Cup is associated with Hockey."
+   "answer": 0,
+   "explanation": "Aga Khan Cup is associated with Hockey.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00951",
-   "q": "Dada Saheb Phalke Award is associated with which of the following?",
-   "o": [
+   "question": "Dada Saheb Phalke Award is associated with which of the following?",
+   "options": [
     "International award for Physics, Chemistry, Medicine, Literature, Peace and Economics",
     "Performing arts award of India",
     "Lifetime achievement in Indian sports",
     "Highest award in Indian cinema"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Dada Saheb Phalke Award — Highest award in Indian cinema."
+   "answer": 3,
+   "explanation": "Dada Saheb Phalke Award — Highest award in Indian cinema.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00952",
-   "q": "Which of the following achievements belongs to Roger Bannister?",
-   "o": [
+   "question": "Which of the following achievements belongs to Roger Bannister?",
+   "options": [
     "First person to run a mile in under four minutes",
     "First woman to win a Nobel Prize",
     "First country to host the modern Olympic Games",
     "First Asian to win a Nobel Prize"
    ],
-   "a": 0,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "First person to run a mile in under four minutes belongs to Roger Bannister."
+   "answer": 0,
+   "explanation": "First person to run a mile in under four minutes belongs to Roger Bannister.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00953",
-   "q": "Which is the largest island in the world?",
-   "o": [
+   "question": "Which is the largest island in the world?",
+   "options": [
     "Ahmedabad",
     "Amazon",
     "India",
     "Greenland"
    ],
-   "a": 3,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 3,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00954",
-   "q": "Which of the following pairs of soil and feature is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of soil and feature is correctly matched?",
+   "options": [
     "Laterite soil - Contains excess salt, found in dry coastal areas",
     "Laterite soil - Also called regur, ideal for cotton",
     "Laterite soil - Formed by leaching in high rainfall areas",
     "Laterite soil - Found in hilly and forest regions"
    ],
-   "a": 2,
-   "t": "Soils of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Laterite soil - Formed by leaching in high rainfall areas is correctly matched."
+   "answer": 2,
+   "explanation": "Only Laterite soil - Formed by leaching in high rainfall areas is correctly matched.",
+   "topic": "Soils of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00955",
-   "q": "Which mineral is found in large quantities in Odisha?",
-   "o": [
+   "question": "Which mineral is found in large quantities in Odisha?",
+   "options": [
     "Lead and zinc",
     "Bauxite",
     "Sillimanite",
     "Mica"
    ],
-   "a": 1,
-   "t": "Minerals and States",
-   "l": 3,
-   "s": "generated",
-   "e": "Bauxite is found in Odisha."
+   "answer": 1,
+   "explanation": "Bauxite is found in Odisha.",
+   "topic": "Minerals and States",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00956",
-   "q": "Which biosphere reserve or wetland is located in West Bengal?",
-   "o": [
+   "question": "Which biosphere reserve or wetland is located in West Bengal?",
+   "options": [
     "Loktak Lake",
     "Sundarbans Biosphere Reserve",
     "Deepor Beel",
     "Pachmarhi Biosphere Reserve"
    ],
-   "a": 1,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Sundarbans Biosphere Reserve is located in West Bengal."
+   "answer": 1,
+   "explanation": "Sundarbans Biosphere Reserve is located in West Bengal.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00957",
-   "q": "What is the capital of Ecuador?",
-   "o": [
+   "question": "What is the capital of Ecuador?",
+   "options": [
     "Thimphu",
     "Bern",
     "Male",
     "Quito"
    ],
-   "a": 3,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Ecuador is Quito."
+   "answer": 3,
+   "explanation": "The capital of Ecuador is Quito.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00958",
-   "q": "Which element has the chemical symbol Fm?",
-   "o": [
+   "question": "Which element has the chemical symbol Fm?",
+   "options": [
     "Fermium",
     "Niobium",
     "Germanium",
     "Tellurium"
    ],
-   "a": 0,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "Fm is the symbol of Fermium."
+   "answer": 0,
+   "explanation": "Fm is the symbol of Fermium.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00959",
-   "q": "Hyderabad is the capital of which Indian state?",
-   "o": [
+   "question": "Hyderabad is the capital of which Indian state?",
+   "options": [
     "Tamil Nadu",
     "Jharkhand",
     "Karnataka",
     "Telangana"
    ],
-   "a": 3,
-   "t": "States and Capitals",
-   "l": 2,
-   "s": "generated",
-   "e": "Hyderabad is the capital of Telangana."
+   "answer": 3,
+   "explanation": "Hyderabad is the capital of Telangana.",
+   "topic": "States and Capitals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00960",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "National Heritage Animal - Lion Capital of Ashoka",
     "National Heritage Animal - Indian Elephant",
     "National Heritage Animal - Ganges River Dolphin",
     "National Heritage Animal - Indian Rupee"
    ],
-   "a": 1,
-   "t": "National Symbols",
-   "l": 3,
-   "s": "generated",
-   "e": "Only National Heritage Animal - Indian Elephant is correctly matched."
+   "answer": 1,
+   "explanation": "Only National Heritage Animal - Indian Elephant is correctly matched.",
+   "topic": "National Symbols",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00961",
-   "q": "Which of the following descriptions matches Dr. Rajendra Prasad?",
-   "o": [
+   "question": "Which of the following descriptions matches Dr. Rajendra Prasad?",
+   "options": [
     "First Indian to travel to space",
     "First Indian Railway line started between",
     "First Indian to win an individual Olympic gold",
     "First President of India"
    ],
-   "a": 3,
-   "t": "First in India",
-   "l": 3,
-   "s": "generated",
-   "e": "Dr. Rajendra Prasad is associated with: First President of India."
+   "answer": 3,
+   "explanation": "Dr. Rajendra Prasad is associated with: First President of India.",
+   "topic": "First in India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00962",
-   "q": "Bhangra is a folk or classical dance form of which state?",
-   "o": [
+   "question": "Bhangra is a folk or classical dance form of which state?",
+   "options": [
     "Tamil Nadu",
     "West Bengal",
     "Gujarat",
     "Punjab"
    ],
-   "a": 3,
-   "t": "Folk Dances of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Bhangra belongs to Punjab."
+   "answer": 3,
+   "explanation": "Bhangra belongs to Punjab.",
+   "topic": "Folk Dances of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00963",
-   "q": "Pongal is a major festival of which state?",
-   "o": [
+   "question": "Pongal is a major festival of which state?",
+   "options": [
     "Nagaland",
     "Maharashtra",
     "Odisha",
     "Tamil Nadu"
    ],
-   "a": 3,
-   "t": "Festivals of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Pongal is celebrated mainly in Tamil Nadu."
+   "answer": 3,
+   "explanation": "Pongal is celebrated mainly in Tamil Nadu.",
+   "topic": "Festivals of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00964",
-   "q": "Gangotri Glacier is the origin of which river?",
-   "o": [
+   "question": "Gangotri Glacier is the origin of which river?",
+   "options": [
     "Narmada",
     "Betwa",
     "Sabarmati",
     "Ganga"
    ],
-   "a": 3,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Gangotri Glacier is the origin of the river Ganga."
+   "answer": 3,
+   "explanation": "Gangotri Glacier is the origin of the river Ganga.",
+   "topic": "Rivers of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00965",
-   "q": "Which of the following dams is built on the river Krishna?",
-   "o": [
+   "question": "Which of the following dams is built on the river Krishna?",
+   "options": [
     "Idukki Dam",
     "Srisailam Dam",
     "Bhakra Nangal Dam",
     "Panchet Dam"
    ],
-   "a": 1,
-   "t": "Dams of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Srisailam Dam is built on the Krishna."
+   "answer": 1,
+   "explanation": "Srisailam Dam is built on the Krishna.",
+   "topic": "Dams of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00966",
-   "q": "Bhimbandh Wildlife Sanctuary is located in which state?",
-   "o": [
+   "question": "Bhimbandh Wildlife Sanctuary is located in which state?",
+   "options": [
     "Madhya Pradesh",
     "West Bengal",
     "Chhattisgarh",
     "Bihar"
    ],
-   "a": 3,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Bhimbandh Wildlife Sanctuary is located in Bihar."
+   "answer": 3,
+   "explanation": "Bhimbandh Wildlife Sanctuary is located in Bihar.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00967",
-   "q": "Which of the following passes is located in Kerala?",
-   "o": [
+   "question": "Which of the following passes is located in Kerala?",
+   "options": [
     "Palakkad Gap",
     "Fotu La",
     "Chang La",
     "Lipulekh Pass"
    ],
-   "a": 0,
-   "t": "Mountain Passes of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Palakkad Gap is a pass in Kerala."
+   "answer": 0,
+   "explanation": "Palakkad Gap is a pass in Kerala.",
+   "topic": "Mountain Passes of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00968",
-   "q": "Which physical quantity is measured in Metre?",
-   "o": [
+   "question": "Which physical quantity is measured in Metre?",
+   "options": [
     "Force",
     "Radioactivity",
     "Electrical conductance",
     "Length"
    ],
-   "a": 3,
-   "t": "SI Units",
-   "l": 2,
-   "s": "generated",
-   "e": "Metre is the SI unit of Length."
+   "answer": 3,
+   "explanation": "Metre is the SI unit of Length.",
+   "topic": "SI Units",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00969",
-   "q": "Which instrument is used to measure Speed of a vehicle?",
-   "o": [
+   "question": "Which instrument is used to measure Speed of a vehicle?",
+   "options": [
     "Geiger counter",
     "Speedometer",
     "Audiometer",
     "Manometer"
    ],
-   "a": 1,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Speedometer is used to measure Speed of a vehicle."
+   "answer": 1,
+   "explanation": "Speedometer is used to measure Speed of a vehicle.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00970",
-   "q": "Which disease is caused by the deficiency of Vitamin B1?",
-   "o": [
+   "question": "Which disease is caused by the deficiency of Vitamin B1?",
+   "options": [
     "Dehydration",
     "Delayed blood clotting",
     "Beri Beri",
     "Scurvy"
    ],
-   "a": 2,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Vitamin B1 causes Beri Beri."
+   "answer": 2,
+   "explanation": "Deficiency of Vitamin B1 causes Beri Beri.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00971",
-   "q": "Who is credited with Diesel engine?",
-   "o": [
+   "question": "Who is credited with Diesel engine?",
+   "options": [
     "John Logie Baird",
     "Johannes Gutenberg",
     "Gregor Mendel",
     "Rudolf Diesel"
    ],
-   "a": 3,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Diesel engine — Rudolf Diesel."
+   "answer": 3,
+   "explanation": "Diesel engine — Rudolf Diesel.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00972",
-   "q": "What is the chemical name of Epsom salt?",
-   "o": [
+   "question": "What is the chemical name of Epsom salt?",
+   "options": [
     "Magnesium oxide (MgO)",
     "Magnesium sulphate (MgSO4.7H2O)",
     "Magnesium hydroxide (Mg(OH)2)",
     "Potassium hydroxide (KOH)"
    ],
-   "a": 1,
-   "t": "Chemical Names",
-   "l": 2,
-   "s": "generated",
-   "e": "Epsom salt is Magnesium sulphate (MgSO4.7H2O)."
+   "answer": 1,
+   "explanation": "Epsom salt is Magnesium sulphate (MgSO4.7H2O).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00973",
-   "q": "Which branch of science deals with Fish farming?",
-   "o": [
+   "question": "Which branch of science deals with Fish farming?",
+   "options": [
     "Botany",
     "Ornithology",
     "Seismology",
     "Pisciculture"
    ],
-   "a": 3,
-   "t": "Branches of Science",
-   "l": 2,
-   "s": "generated",
-   "e": "Pisciculture deals with Fish farming."
+   "answer": 3,
+   "explanation": "Pisciculture deals with Fish farming.",
+   "topic": "Branches of Science",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00974",
-   "q": "Which of the following statements about Mercury is correct?",
-   "o": [
+   "question": "Which of the following statements about Mercury is correct?",
+   "options": [
     "Halley's Comet",
     "Uranus",
     "First",
     "Smallest planet"
    ],
-   "a": 2,
-   "t": "Astronomy",
-   "l": 3,
-   "s": "generated",
-   "e": "Mercury: First."
+   "answer": 2,
+   "explanation": "Mercury: First.",
+   "topic": "Astronomy",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00975",
-   "q": "Har Gobind Khorana is known for which of the following?",
-   "o": [
+   "question": "Har Gobind Khorana is known for which of the following?",
+   "options": [
     "Heliocentric model of the Solar System",
     "Molecular theory and Avogadro's law",
     "Father of modern chemistry",
     "Genetic code"
    ],
-   "a": 3,
-   "t": "Scientists",
-   "l": 2,
-   "s": "generated",
-   "e": "Har Gobind Khorana is known for Genetic code."
+   "answer": 3,
+   "explanation": "Har Gobind Khorana is known for Genetic code.",
+   "topic": "Scientists",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00976",
-   "q": "Which institution is described as: Constitutional head of the Republic?",
-   "o": [
+   "question": "Which institution is described as: Constitutional head of the Republic?",
+   "options": [
     "Comptroller and Auditor General",
     "Municipality",
     "Chief Justice of India",
     "President of India"
    ],
-   "a": 3,
-   "t": "Institutions of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Constitutional head of the Republic describes President of India."
+   "answer": 3,
+   "explanation": "Constitutional head of the Republic describes President of India.",
+   "topic": "Institutions of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00977",
-   "q": "On which date is World Health Day observed?",
-   "o": [
+   "question": "On which date is World Health Day observed?",
+   "options": [
     "30 April",
     "1 November",
     "4 July",
     "7 April"
    ],
-   "a": 3,
-   "t": "Important Days",
-   "l": 1,
-   "s": "generated",
-   "e": "World Health Day is observed on 7 April."
+   "answer": 3,
+   "explanation": "World Health Day is observed on 7 April.",
+   "topic": "Important Days",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00978",
-   "q": "Where is the headquarters of International Maritime Organization?",
-   "o": [
+   "question": "Where is the headquarters of International Maritime Organization?",
+   "options": [
     "Basel",
     "Geneva",
     "London",
     "Vienna"
    ],
-   "a": 2,
-   "t": "Organisations and Headquarters",
-   "l": 2,
-   "s": "generated",
-   "e": "International Maritime Organization is headquartered at London."
+   "answer": 2,
+   "explanation": "International Maritime Organization is headquartered at London.",
+   "topic": "Organisations and Headquarters",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00979",
-   "q": "Nehru Cup is associated with which sport?",
-   "o": [
+   "question": "Nehru Cup is associated with which sport?",
+   "options": [
     "Golf",
     "Football",
     "Cricket",
     "Hockey"
    ],
-   "a": 1,
-   "t": "Trophies and Cups",
-   "l": 2,
-   "s": "generated",
-   "e": "Nehru Cup is associated with Football."
+   "answer": 1,
+   "explanation": "Nehru Cup is associated with Football.",
+   "topic": "Trophies and Cups",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00980",
-   "q": "Sahitya Akademi Award is associated with which of the following?",
-   "o": [
+   "question": "Sahitya Akademi Award is associated with which of the following?",
+   "options": [
     "Literary award for Indian languages",
     "Award for progress in spiritual matters",
     "Highest sporting honour of India",
     "Performing arts award of India"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Sahitya Akademi Award — Literary award for Indian languages."
+   "answer": 0,
+   "explanation": "Sahitya Akademi Award — Literary award for Indian languages.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00981",
-   "q": "Which of the following achievements belongs to Karnam Malleswari?",
-   "o": [
+   "question": "Which of the following achievements belongs to Karnam Malleswari?",
+   "options": [
     "First Indian woman to win an Olympic medal",
     "First person to climb Mount Everest",
     "First woman to win a Nobel Prize",
     "First person to walk on the Moon"
    ],
-   "a": 0,
-   "t": "First in the World",
-   "l": 3,
-   "s": "generated",
-   "e": "First Indian woman to win an Olympic medal belongs to Karnam Malleswari."
+   "answer": 0,
+   "explanation": "First Indian woman to win an Olympic medal belongs to Karnam Malleswari.",
+   "topic": "First in the World",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00982",
-   "q": "Which is the largest plateau in the world?",
-   "o": [
+   "question": "Which is the largest plateau in the world?",
+   "options": [
     "Tibetan Plateau",
     "Jammu and Kashmir",
     "Amazon",
     "Strait of Gibraltar"
    ],
-   "a": 0,
-   "t": "Superlatives and World Facts",
-   "l": 2,
-   "s": "generated",
-   "e": "World and India facts of the 'first, largest, longest' type."
+   "answer": 0,
+   "explanation": "World and India facts of the 'first, largest, longest' type.",
+   "topic": "Superlatives and World Facts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00983",
-   "q": "Which of the following pairs of soil and feature is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of soil and feature is NOT correctly matched?",
+   "options": [
     "Saline soil - Contains excess salt, found in dry coastal areas",
     "Desert soil - Sandy soil of arid regions",
     "Red soil - Contains excess salt, found in dry coastal areas",
     "Alluvial soil - Most fertile soil, found in the northern plains"
    ],
-   "a": 2,
-   "t": "Soils of India",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Red soil - Contains excess salt, found in dry coastal areas is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Red soil - Contains excess salt, found in dry coastal areas is not correctly matched.",
+   "topic": "Soils of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00984",
-   "q": "Which mineral is found in large quantities in Maharashtra?",
-   "o": [
+   "question": "Which mineral is found in large quantities in Maharashtra?",
+   "options": [
     "Chromite",
     "Sillimanite",
     "Coal",
     "Natural gas"
    ],
-   "a": 1,
-   "t": "Minerals and States",
-   "l": 3,
-   "s": "generated",
-   "e": "Sillimanite is found in Maharashtra."
+   "answer": 1,
+   "explanation": "Sillimanite is found in Maharashtra.",
+   "topic": "Minerals and States",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00985",
-   "q": "Which biosphere reserve or wetland is located in Assam?",
-   "o": [
+   "question": "Which biosphere reserve or wetland is located in Assam?",
+   "options": [
     "Agasthyamalai Biosphere Reserve",
     "Deepor Beel",
     "Nilgiri Biosphere Reserve",
     "Seshachalam Biosphere Reserve"
    ],
-   "a": 1,
-   "t": "Biosphere Reserves and Wetlands",
-   "l": 3,
-   "s": "generated",
-   "e": "Deepor Beel is located in Assam."
+   "answer": 1,
+   "explanation": "Deepor Beel is located in Assam.",
+   "topic": "Biosphere Reserves and Wetlands",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00986",
-   "q": "What is the capital of Papua New Guinea?",
-   "o": [
+   "question": "What is the capital of Papua New Guinea?",
+   "options": [
     "Islamabad",
     "Port Moresby",
     "Gitega",
     "Hanoi"
    ],
-   "a": 1,
-   "t": "Countries, Capitals and Currencies",
-   "l": 1,
-   "s": "generated",
-   "e": "The capital of Papua New Guinea is Port Moresby."
+   "answer": 1,
+   "explanation": "The capital of Papua New Guinea is Port Moresby.",
+   "topic": "Countries, Capitals and Currencies",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00987",
-   "q": "Which element has the chemical symbol K?",
-   "o": [
+   "question": "Which element has the chemical symbol K?",
+   "options": [
     "Potassium",
     "Radon",
     "Bismuth",
     "Mercury"
    ],
-   "a": 0,
-   "t": "Periodic Table",
-   "l": 1,
-   "s": "generated",
-   "e": "K is the symbol of Potassium."
+   "answer": 0,
+   "explanation": "K is the symbol of Potassium.",
+   "topic": "Periodic Table",
+   "level": 1,
+   "source": "generated"
   },
   {
    "id": "static-gk-00988",
-   "q": "Gangtok is the capital of which Indian state?",
-   "o": [
+   "question": "Gangtok is the capital of which Indian state?",
+   "options": [
     "Sikkim",
     "Mizoram",
     "Goa",
     "Uttarakhand"
    ],
-   "a": 0,
-   "t": "States and Capitals",
-   "l": 2,
-   "s": "generated",
-   "e": "Gangtok is the capital of Sikkim."
+   "answer": 0,
+   "explanation": "Gangtok is the capital of Sikkim.",
+   "topic": "States and Capitals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00989",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "National Heritage Animal - Vande Mataram",
     "National Heritage Animal - Indian Elephant",
     "National Heritage Animal - Mango",
     "National Heritage Animal - Ganges River Dolphin"
    ],
-   "a": 1,
-   "t": "National Symbols",
-   "l": 3,
-   "s": "generated",
-   "e": "Only National Heritage Animal - Indian Elephant is correctly matched."
+   "answer": 1,
+   "explanation": "Only National Heritage Animal - Indian Elephant is correctly matched.",
+   "topic": "National Symbols",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00990",
-   "q": "Which of the following descriptions matches Reita Faria?",
-   "o": [
+   "question": "Which of the following descriptions matches Reita Faria?",
+   "options": [
     "First Indian nuclear test was conducted at",
     "First Indian Railway line started between",
     "First Prime Minister of India",
     "First Indian to win the Miss World title"
    ],
-   "a": 3,
-   "t": "First in India",
-   "l": 3,
-   "s": "generated",
-   "e": "Reita Faria is associated with: First Indian to win the Miss World title."
+   "answer": 3,
+   "explanation": "Reita Faria is associated with: First Indian to win the Miss World title.",
+   "topic": "First in India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00991",
-   "q": "Sattriya is a folk or classical dance form of which state?",
-   "o": [
+   "question": "Sattriya is a folk or classical dance form of which state?",
+   "options": [
     "Kerala",
     "Assam",
     "Haryana",
     "Rajasthan"
    ],
-   "a": 1,
-   "t": "Folk Dances of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Sattriya belongs to Assam."
+   "answer": 1,
+   "explanation": "Sattriya belongs to Assam.",
+   "topic": "Folk Dances of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00992",
-   "q": "Onam is a major festival of which state?",
-   "o": [
+   "question": "Onam is a major festival of which state?",
+   "options": [
     "Nagaland",
     "Kerala",
     "Madhya Pradesh",
     "Ladakh"
    ],
-   "a": 1,
-   "t": "Festivals of India",
-   "l": 2,
-   "s": "generated",
-   "e": "Onam is celebrated mainly in Kerala."
+   "answer": 1,
+   "explanation": "Onam is celebrated mainly in Kerala.",
+   "topic": "Festivals of India",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00993",
-   "q": "Kudali is the origin of which river?",
-   "o": [
+   "question": "Kudali is the origin of which river?",
+   "options": [
     "Sharavati",
     "Betwa",
     "Yamuna",
     "Tungabhadra"
    ],
-   "a": 3,
-   "t": "Rivers of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Kudali is the origin of the river Tungabhadra."
+   "answer": 3,
+   "explanation": "Kudali is the origin of the river Tungabhadra.",
+   "topic": "Rivers of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00994",
-   "q": "Which of the following dams is built on the river Rihand?",
-   "o": [
+   "question": "Which of the following dams is built on the river Rihand?",
+   "options": [
     "Srisailam Dam",
     "Indira Sagar Dam",
     "Maithon Dam",
     "Rihand Dam"
    ],
-   "a": 3,
-   "t": "Dams of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Rihand Dam is built on the Rihand."
+   "answer": 3,
+   "explanation": "Rihand Dam is built on the Rihand.",
+   "topic": "Dams of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00995",
-   "q": "Rajaji National Park is located in which state?",
-   "o": [
+   "question": "Rajaji National Park is located in which state?",
+   "options": [
     "Assam",
     "Sikkim",
     "Uttarakhand",
     "Madhya Pradesh"
    ],
-   "a": 2,
-   "t": "National Parks and Tiger Reserves",
-   "l": 2,
-   "s": "generated",
-   "e": "Rajaji National Park is located in Uttarakhand."
+   "answer": 2,
+   "explanation": "Rajaji National Park is located in Uttarakhand.",
+   "topic": "National Parks and Tiger Reserves",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00996",
-   "q": "Which of the following passes is located in Ladakh?",
-   "o": [
+   "question": "Which of the following passes is located in Ladakh?",
+   "options": [
     "Thal Ghat",
     "Khardung La",
     "Shencottah Gap",
     "Pangsau Pass"
    ],
-   "a": 1,
-   "t": "Mountain Passes of India",
-   "l": 3,
-   "s": "generated",
-   "e": "Khardung La is a pass in Ladakh."
+   "answer": 1,
+   "explanation": "Khardung La is a pass in Ladakh.",
+   "topic": "Mountain Passes of India",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "static-gk-00997",
-   "q": "Which physical quantity is measured in Joule per Kelvin?",
-   "o": [
+   "question": "Which physical quantity is measured in Joule per Kelvin?",
+   "options": [
     "Illuminance",
     "Radioactivity",
     "Mass",
     "Entropy"
    ],
-   "a": 3,
-   "t": "SI Units",
-   "l": 2,
-   "s": "generated",
-   "e": "Joule per Kelvin is the SI unit of Entropy."
+   "answer": 3,
+   "explanation": "Joule per Kelvin is the SI unit of Entropy.",
+   "topic": "SI Units",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00998",
-   "q": "Which instrument is used to measure Curvature of surfaces?",
-   "o": [
+   "question": "Which instrument is used to measure Curvature of surfaces?",
+   "options": [
     "Polygraph",
     "Microscope",
     "Spherometer",
     "Lactometer"
    ],
-   "a": 2,
-   "t": "Scientific Instruments",
-   "l": 2,
-   "s": "generated",
-   "e": "Spherometer is used to measure Curvature of surfaces."
+   "answer": 2,
+   "explanation": "Spherometer is used to measure Curvature of surfaces.",
+   "topic": "Scientific Instruments",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-00999",
-   "q": "Which disease is caused by the deficiency of Vitamin C?",
-   "o": [
+   "question": "Which disease is caused by the deficiency of Vitamin C?",
+   "options": [
     "Anaemia and bone disorders",
     "Scurvy",
     "Dehydration",
     "Tooth decay"
    ],
-   "a": 1,
-   "t": "Vitamins and Deficiencies",
-   "l": 2,
-   "s": "generated",
-   "e": "Deficiency of Vitamin C causes Scurvy."
+   "answer": 1,
+   "explanation": "Deficiency of Vitamin C causes Scurvy.",
+   "topic": "Vitamins and Deficiencies",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "static-gk-01000",
-   "q": "Who is credited with Motor car?",
-   "o": [
+   "question": "Who is credited with Motor car?",
+   "options": [
     "Gregor Mendel",
     "Karl Benz",
     "Michael Faraday",
     "James Chadwick"
    ],
-   "a": 1,
-   "t": "Inventions and Discoveries",
-   "l": 2,
-   "s": "generated",
-   "e": "Motor car — Karl Benz."
+   "answer": 1,
+   "explanation": "Motor car — Karl Benz.",
+   "topic": "Inventions and Discoveries",
+   "level": 2,
+   "source": "generated"
   }
  ]
 };

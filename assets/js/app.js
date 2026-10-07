@@ -68,7 +68,7 @@
   function pickQuestions(slugs, count, cls) {
     var levels = levelsForClass(cls);
     var pools = slugs.map(function (slug) {
-      return questionsFor(slug).filter(function (q) { return levels.indexOf(q.l) !== -1; });
+      return questionsFor(slug).filter(function (q) { return levels.indexOf(q.level) !== -1; });
     }).filter(function (p) { return p.length; });
     if (!pools.length) return [];
     var out = [], i = 0, guard = 0;
@@ -107,6 +107,10 @@
     });
   }
   function letter(i) { return "ABCD"[i]; }
+  function answerExplanation(q) {
+    return '<p><strong>Correct answer: ' + letter(q.answer) + '. ' + esc(q.options[q.answer]) + '</strong></p>' +
+      '<p><strong>Explanation:</strong> ' + esc(q.explanation) + '</p>';
+  }
 
   var CATEGORY_ICONS = {
     layers: "\uD83D\uDCDA", globe: "\uD83C\uDF0D", newspaper: "\uD83D\uDCF0", bookmark: "\uD83D\uDD16",
@@ -191,7 +195,7 @@
     var meta = manifest().filter(function (c) { return c.slug === slug; })[0];
     if (!meta) { location.hash = "#/practice"; return; }
     var levels = levelsForClass(state.class);
-    var pool = questionsFor(slug).filter(function (q) { return levels.indexOf(q.l) !== -1; });
+    var pool = questionsFor(slug).filter(function (q) { return levels.indexOf(q.level) !== -1; });
     var set = shuffle(pool).slice(0, 15);
     state.mode = "practice";
     state.session = { slug: slug, name: meta.name, questions: set, index: 0, answers: [], revealed: [] };
@@ -206,7 +210,7 @@
     var grid = app.querySelector("#cat-grid");
     manifest().forEach(function (c) {
       var levels = levelsForClass(state.class);
-      var available = questionsFor(c.slug).filter(function (q) { return levels.indexOf(q.l) !== -1; }).length;
+      var available = questionsFor(c.slug).filter(function (q) { return levels.indexOf(q.level) !== -1; }).length;
       grid.appendChild(el('<a class="tile" href="#/practice/' + c.slug + '">' +
         '<span class="name">' + (CATEGORY_ICONS[c.icon] || "\u2022") + " " + esc(c.name) + '</span>' +
         '<span class="count">' + available.toLocaleString("en-IN") + ' of ' + c.count.toLocaleString("en-IN") + ' ready for ' + esc(state.class) + '</span></a>'));
@@ -225,11 +229,11 @@
     var card = el('<section class="card">' +
       '<div class="qhead">' +
         '<div><span class="badge">' + esc(s.name) + '</span> <span class="badge">Question ' + (s.index + 1) + ' of ' + s.questions.length + '</span></div>' +
-        '<div class="muted small">' + esc(q.t || "") + ' · level ' + q.l + '</div>' +
+        '<div class="muted small">' + esc(q.topic || "") + ' · level ' + q.level + '</div>' +
       '</div>' +
-      '<p class="qtext">' + esc(q.q) + '</p>' +
+      '<p class="qtext">' + esc(q.question) + '</p>' +
       '<div class="options" id="opts"></div>' +
-      '<div id="feedback"></div>' +
+      '<div id="feedback" aria-live="polite"></div>' +
       '<div class="toolbar">' +
         '<button class="secondary" id="prev" type="button"' + (s.index === 0 ? " disabled" : "") + '>Previous</button>' +
         '<button class="primary" id="next" type="button">' + (s.index === s.questions.length - 1 ? "Finish drill" : "Next question") + '</button>' +
@@ -238,11 +242,11 @@
     app.appendChild(card);
 
     var opts = card.querySelector("#opts");
-    q.o.forEach(function (text, i) {
+    q.options.forEach(function (text, i) {
       var b = el('<button class="opt" type="button" data-i="' + i + '"><span class="letter">' + letter(i) + '</span><span>' + esc(text) + '</span></button>');
       if (revealed) {
-        if (i === q.a) b.classList.add("correct");
-        if (i === chosen && chosen !== q.a) b.classList.add("wrong");
+        if (i === q.answer) b.classList.add("correct");
+        if (i === chosen && chosen !== q.answer) b.classList.add("wrong");
       } else if (chosen === i) {
         b.classList.add("selected");
       }
@@ -255,7 +259,8 @@
     });
 
     if (revealed) {
-      card.querySelector("#feedback").appendChild(el('<div class="explain"><strong>' + (chosen === q.a ? "Correct." : "Answer: " + letter(q.a) + ".") + '</strong> ' + esc(q.e || "") + '</div>'));
+      card.querySelector("#feedback").appendChild(el('<div class="explain"><strong>' +
+        (chosen === q.answer ? "Correct." : "Incorrect.") + '</strong>' + answerExplanation(q) + '</div>'));
     }
     card.querySelector("#prev").addEventListener("click", function () { s.index--; renderQuestion(); });
     card.querySelector("#next").addEventListener("click", function () {
@@ -266,7 +271,7 @@
 
   function renderPracticeSummary() {
     var s = state.session;
-    var correct = s.questions.reduce(function (n, q, i) { return n + (s.answers[i] === q.a ? 1 : 0); }, 0);
+    var correct = s.questions.reduce(function (n, q, i) { return n + (s.answers[i] === q.answer ? 1 : 0); }, 0);
     var attempted = s.answers.filter(function (a) { return a != null; }).length;
     saveAttempt({ at: new Date().toISOString(), mode: "practice", category: s.slug, total: s.questions.length, correct: correct, attempted: attempted });
     app.innerHTML = "";
@@ -356,7 +361,7 @@
         '<div><span class="badge">' + esc(s.name) + '</span> <span class="badge warn">Question ' + (s.index + 1) + ' / ' + s.questions.length + '</span></div>' +
         '<div class="timer">Time left <span id="clock">' + formatTime(s.left) + '</span></div>' +
       '</div>' +
-      '<p class="qtext">' + esc(q.q) + '</p>' +
+      '<p class="qtext">' + esc(q.question) + '</p>' +
       '<div class="options" id="opts"></div>' +
       '<div class="palette" id="palette"></div>' +
       '<div class="toolbar">' +
@@ -364,12 +369,12 @@
         '<button class="secondary" id="next" type="button"' + (s.index === s.questions.length - 1 ? " disabled" : "") + '>Next</button>' +
         '<button class="primary" id="submit" type="button" style="margin-left:auto">Submit paper</button>' +
       '</div>' +
-      '<p class="muted small">' + esc(q.t || "") + ' · level ' + q.l + '</p>' +
+      '<p class="muted small">' + esc(q.topic || "") + ' · level ' + q.level + '</p>' +
     '</section>');
     app.appendChild(card);
 
     var opts = card.querySelector("#opts");
-    q.o.forEach(function (text, i) {
+    q.options.forEach(function (text, i) {
       var b = el('<button class="opt' + (s.answers[s.index] === i ? " selected" : "") + '" type="button"><span class="letter">' + letter(i) + '</span><span>' + esc(text) + '</span></button>');
       b.addEventListener("click", function () { s.answers[s.index] = i; renderExam(); });
       opts.appendChild(b);
@@ -397,7 +402,7 @@
     var correct = 0, wrong = 0, skipped = 0;
     s.questions.forEach(function (q, i) {
       if (s.answers[i] == null) skipped++;
-      else if (s.answers[i] === q.a) correct++;
+      else if (s.answers[i] === q.answer) correct++;
       else wrong++;
     });
     var score = correct - wrong * NEGATIVE_MARKING;
@@ -431,15 +436,15 @@
     var list = wrap.querySelector("#list");
     s.questions.forEach(function (q, i) {
       var chosen = s.answers[i];
-      var mark = chosen == null ? '<span class="badge warn">Skipped</span>' : (chosen === q.a ? '<span class="badge good">Correct</span>' : '<span class="badge bad">Wrong</span>');
+      var mark = chosen == null ? '<span class="badge warn">Skipped</span>' : (chosen === q.answer ? '<span class="badge good">Correct</span>' : '<span class="badge bad">Wrong</span>');
       var item = el('<div style="border-bottom:1px solid var(--line); padding:14px 0">' +
         '<div class="qhead"><strong>Q' + (i + 1) + '</strong> ' + mark + '</div>' +
-        '<p style="font-weight:600;margin:8px 0">' + esc(q.q) + '</p>' +
-        '<p class="small">' + q.o.map(function (o, oi) {
-          var style = oi === q.a ? "color:var(--good);font-weight:700" : (oi === chosen ? "color:var(--bad)" : "color:var(--muted)");
+        '<p style="font-weight:600;margin:8px 0">' + esc(q.question) + '</p>' +
+        '<p class="small">' + q.options.map(function (o, oi) {
+          var style = oi === q.answer ? "color:var(--good);font-weight:700" : (oi === chosen ? "color:var(--bad)" : "color:var(--muted)");
           return '<span style="' + style + '">' + letter(oi) + ". " + esc(o) + '</span>';
         }).join("<br>") + '</p>' +
-        '<p class="small muted">' + esc(q.e || "") + '</p>' +
+        '<div class="explain small">' + answerExplanation(q) + '</div>' +
       '</div>');
       list.appendChild(item);
     });

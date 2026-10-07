@@ -16,3018 +16,3018 @@
  "questions": [
   {
    "id": "awards-honours-00001",
-   "q": "Which is the highest civilian award of India?",
-   "o": [
+   "question": "Which is the highest civilian award of India?",
+   "options": [
     "Padma Vibhushan",
     "Bharat Ratna",
     "Padma Bhushan",
     "Padma Shri"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "The Bharat Ratna is the highest civilian award of India."
+   "answer": 1,
+   "explanation": "The Bharat Ratna is the highest civilian award of India.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "awards-honours-00002",
-   "q": "Who was the first recipient of the Bharat Ratna?",
-   "o": [
+   "question": "Who was the first recipient of the Bharat Ratna?",
+   "options": [
     "Jawaharlal Nehru",
     "C. Rajagopalachari",
     "S. Radhakrishnan",
     "C. V. Raman"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 3,
-   "s": "curated",
-   "e": "C. Rajagopalachari was among the first recipients in 1954."
+   "answer": 1,
+   "explanation": "C. Rajagopalachari was among the first recipients in 1954.",
+   "topic": "Curated",
+   "level": 3,
+   "source": "curated"
   },
   {
    "id": "awards-honours-00003",
-   "q": "Which is the highest gallantry award of India?",
-   "o": [
+   "question": "Which is the highest gallantry award of India?",
+   "options": [
     "Ashoka Chakra",
     "Param Vir Chakra",
     "Maha Vir Chakra",
     "Vir Chakra"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "The Param Vir Chakra is the highest wartime gallantry award."
+   "answer": 1,
+   "explanation": "The Param Vir Chakra is the highest wartime gallantry award.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "awards-honours-00004",
-   "q": "Who was the first woman to receive the Bharat Ratna?",
-   "o": [
+   "question": "Who was the first woman to receive the Bharat Ratna?",
+   "options": [
     "Indira Gandhi",
     "Mother Teresa",
     "Sarojini Naidu",
     "Aruna Asaf Ali"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 3,
-   "s": "curated",
-   "e": "Indira Gandhi received the Bharat Ratna in 1971."
+   "answer": 0,
+   "explanation": "Indira Gandhi received the Bharat Ratna in 1971.",
+   "topic": "Curated",
+   "level": 3,
+   "source": "curated"
   },
   {
    "id": "awards-honours-00005",
-   "q": "The Jnanpith Award is given for excellence in:",
-   "o": [
+   "question": "The Jnanpith Award is given for excellence in:",
+   "options": [
     "Cinema",
     "Literature",
     "Science",
     "Sports"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "The Jnanpith Award honours writers in Indian languages."
+   "answer": 1,
+   "explanation": "The Jnanpith Award honours writers in Indian languages.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "awards-honours-00006",
-   "q": "The Dada Saheb Phalke Award is associated with:",
-   "o": [
+   "question": "The Dada Saheb Phalke Award is associated with:",
+   "options": [
     "Music",
     "Cinema",
     "Painting",
     "Theatre"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "It is the highest award in Indian cinema."
+   "answer": 1,
+   "explanation": "It is the highest award in Indian cinema.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "awards-honours-00007",
-   "q": "Which award is the highest sporting honour of India?",
-   "o": [
+   "question": "Which award is the highest sporting honour of India?",
+   "options": [
     "Arjuna Award",
     "Dronacharya Award",
     "Major Dhyan Chand Khel Ratna",
     "Dhyan Chand Award"
    ],
-   "a": 2,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "The Khel Ratna is India's highest sporting honour."
+   "answer": 2,
+   "explanation": "The Khel Ratna is India's highest sporting honour.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "awards-honours-00008",
-   "q": "The Dronacharya Award is given to:",
-   "o": [
+   "question": "The Dronacharya Award is given to:",
+   "options": [
     "Players",
     "Coaches",
     "Umpires",
     "Sports journalists"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "The Dronacharya Award recognises outstanding coaches."
+   "answer": 1,
+   "explanation": "The Dronacharya Award recognises outstanding coaches.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "awards-honours-00009",
-   "q": "In which year was the Nobel Prize first awarded?",
-   "o": [
+   "question": "In which year was the Nobel Prize first awarded?",
+   "options": [
     "1895",
     "1901",
     "1913",
     "1920"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "The first Nobel Prizes were awarded in 1901."
+   "answer": 1,
+   "explanation": "The first Nobel Prizes were awarded in 1901.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "awards-honours-00010",
-   "q": "Who was the first Indian to win a Nobel Prize?",
-   "o": [
+   "question": "Who was the first Indian to win a Nobel Prize?",
+   "options": [
     "C. V. Raman",
     "Rabindranath Tagore",
     "Mother Teresa",
     "Amartya Sen"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Rabindranath Tagore won the Nobel Prize in Literature in 1913."
+   "answer": 1,
+   "explanation": "Rabindranath Tagore won the Nobel Prize in Literature in 1913.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "awards-honours-00011",
-   "q": "C. V. Raman won the Nobel Prize in which field?",
-   "o": [
+   "question": "C. V. Raman won the Nobel Prize in which field?",
+   "options": [
     "Physics",
     "Chemistry",
     "Medicine",
     "Literature"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "C. V. Raman won the Nobel Prize in Physics in 1930."
+   "answer": 0,
+   "explanation": "C. V. Raman won the Nobel Prize in Physics in 1930.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "awards-honours-00012",
-   "q": "Amartya Sen won the Nobel Prize in which field?",
-   "o": [
+   "question": "Amartya Sen won the Nobel Prize in which field?",
+   "options": [
     "Economics",
     "Physics",
     "Peace",
     "Literature"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Amartya Sen won the Nobel Memorial Prize in Economic Sciences in 1998."
+   "answer": 0,
+   "explanation": "Amartya Sen won the Nobel Memorial Prize in Economic Sciences in 1998.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "awards-honours-00013",
-   "q": "The Ramon Magsaysay Award is often called the:",
-   "o": [
+   "question": "The Ramon Magsaysay Award is often called the:",
+   "options": [
     "Asian Nobel Prize",
     "European Nobel Prize",
     "Indian Nobel Prize",
     "World Peace Prize"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "It is popularly known as Asia's Nobel Prize."
+   "answer": 0,
+   "explanation": "It is popularly known as Asia's Nobel Prize.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "awards-honours-00014",
-   "q": "Which award is given for bravery by children in India?",
-   "o": [
+   "question": "Which award is given for bravery by children in India?",
+   "options": [
     "National Bravery Award",
     "Ashoka Chakra",
     "Kirti Chakra",
     "Shaurya Chakra"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "The National Bravery Award honours brave children."
+   "answer": 0,
+   "explanation": "The National Bravery Award honours brave children.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "awards-honours-00015",
-   "q": "The Pulitzer Prize is associated with:",
-   "o": [
+   "question": "The Pulitzer Prize is associated with:",
+   "options": [
     "Journalism",
     "Medicine",
     "Physics",
     "Music only"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "The Pulitzer Prize mainly recognises journalism and letters."
+   "answer": 0,
+   "explanation": "The Pulitzer Prize mainly recognises journalism and letters.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "awards-honours-00016",
-   "q": "Which award is given to Indian scientists for research in science and technology?",
-   "o": [
+   "question": "Which award is given to Indian scientists for research in science and technology?",
+   "options": [
     "Shanti Swarup Bhatnagar Prize",
     "Dada Saheb Phalke Award",
     "Jnanpith Award",
     "Vyas Samman"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "The Shanti Swarup Bhatnagar Prize is a prestigious Indian science award."
+   "answer": 0,
+   "explanation": "The Shanti Swarup Bhatnagar Prize is a prestigious Indian science award.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "awards-honours-00017",
-   "q": "The Gandhi Peace Prize is awarded by the Government of India for:",
-   "o": [
+   "question": "The Gandhi Peace Prize is awarded by the Government of India for:",
+   "options": [
     "Social and economic development",
     "Cinema",
     "Sports",
     "Literature"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 3,
-   "s": "curated",
-   "e": "It recognises contributions to social, economic and political transformation."
+   "answer": 0,
+   "explanation": "It recognises contributions to social, economic and political transformation.",
+   "topic": "Curated",
+   "level": 3,
+   "source": "curated"
   },
   {
    "id": "awards-honours-00018",
-   "q": "Which is the highest award for valour in peacetime in India?",
-   "o": [
+   "question": "Which is the highest award for valour in peacetime in India?",
+   "options": [
     "Param Vir Chakra",
     "Ashoka Chakra",
     "Maha Vir Chakra",
     "Sena Medal"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "The Ashoka Chakra is awarded for peacetime gallantry."
+   "answer": 1,
+   "explanation": "The Ashoka Chakra is awarded for peacetime gallantry.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "awards-honours-00019",
-   "q": "The Oscar award is associated with which field?",
-   "o": [
+   "question": "The Oscar award is associated with which field?",
+   "options": [
     "Cinema",
     "Music",
     "Literature",
     "Science"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "The Academy Awards, known as Oscars, honour cinema."
+   "answer": 0,
+   "explanation": "The Academy Awards, known as Oscars, honour cinema.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "awards-honours-00020",
-   "q": "Which award is given for lifetime achievement in Indian sports?",
-   "o": [
+   "question": "Which award is given for lifetime achievement in Indian sports?",
+   "options": [
     "Dhyan Chand Award",
     "Arjuna Award",
     "Khel Ratna",
     "Dronacharya Award"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "The Dhyan Chand Award honours lifetime contribution to sports."
+   "answer": 0,
+   "explanation": "The Dhyan Chand Award honours lifetime contribution to sports.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "awards-honours-00021",
-   "q": "Who was the first Indian woman to win the Miss World title?",
-   "o": [
+   "question": "Who was the first Indian woman to win the Miss World title?",
+   "options": [
     "Aishwarya Rai",
     "Reita Faria",
     "Sushmita Sen",
     "Priyanka Chopra"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 3,
-   "s": "curated",
-   "e": "Reita Faria won the Miss World title in 1966."
+   "answer": 1,
+   "explanation": "Reita Faria won the Miss World title in 1966.",
+   "topic": "Curated",
+   "level": 3,
+   "source": "curated"
   },
   {
    "id": "awards-honours-00022",
-   "q": "Right Livelihood Award is associated with which of the following?",
-   "o": [
+   "question": "Right Livelihood Award is associated with which of the following?",
+   "options": [
     "Highest military decoration of India",
     "Alternative Nobel Prize",
     "Third highest civilian award of India",
     "Outstanding performance in Indian sports"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Right Livelihood Award — Alternative Nobel Prize."
+   "answer": 1,
+   "explanation": "Right Livelihood Award — Alternative Nobel Prize.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00023",
-   "q": "Arjuna Award is associated with which of the following?",
-   "o": [
+   "question": "Arjuna Award is associated with which of the following?",
+   "options": [
     "Asian award for public service",
     "International award for Physics, Chemistry, Medicine, Literature, Peace and Economics",
     "Highest military decoration of India",
     "Outstanding performance in Indian sports"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Arjuna Award — Outstanding performance in Indian sports."
+   "answer": 3,
+   "explanation": "Arjuna Award — Outstanding performance in Indian sports.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00024",
-   "q": "Indira Gandhi Prize is associated with which of the following?",
-   "o": [
+   "question": "Indira Gandhi Prize is associated with which of the following?",
+   "options": [
     "American award for films",
     "American award for music",
     "Asian award for public service",
     "Indian award for peace, disarmament and development"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Indira Gandhi Prize — Indian award for peace, disarmament and development."
+   "answer": 3,
+   "explanation": "Indira Gandhi Prize — Indian award for peace, disarmament and development.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00025",
-   "q": "Pulitzer Prize is associated with which of the following?",
-   "o": [
+   "question": "Pulitzer Prize is associated with which of the following?",
+   "options": [
     "Indian award in agricultural science",
     "American award for journalism and letters",
     "Indian literary award",
     "Indian award in science and technology"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Pulitzer Prize — American award for journalism and letters."
+   "answer": 1,
+   "explanation": "Pulitzer Prize — American award for journalism and letters.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00026",
-   "q": "National Film Award is associated with which of the following?",
-   "o": [
+   "question": "National Film Award is associated with which of the following?",
+   "options": [
     "Awards for Indian cinema",
     "UNESCO award for popularisation of science",
     "Asian award for public service",
     "Performing arts award of India"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "National Film Award — Awards for Indian cinema."
+   "answer": 0,
+   "explanation": "National Film Award — Awards for Indian cinema.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00027",
-   "q": "Sangeet Natak Akademi Award is associated with which of the following?",
-   "o": [
+   "question": "Sangeet Natak Akademi Award is associated with which of the following?",
+   "options": [
     "Coaching excellence in Indian sports",
     "Performing arts award of India",
     "British award for fiction",
     "Alternative Nobel Prize"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Sangeet Natak Akademi Award — Performing arts award of India."
+   "answer": 1,
+   "explanation": "Sangeet Natak Akademi Award — Performing arts award of India.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00028",
-   "q": "Kirti Chakra is associated with which of the following?",
-   "o": [
+   "question": "Kirti Chakra is associated with which of the following?",
+   "options": [
     "Asian award for public service",
     "Third highest civilian award of India",
     "Second highest peacetime gallantry award of India",
     "Second highest civilian award of India"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Kirti Chakra — Second highest peacetime gallantry award of India."
+   "answer": 2,
+   "explanation": "Kirti Chakra — Second highest peacetime gallantry award of India.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00029",
-   "q": "Jnanpith Award is associated with which of the following?",
-   "o": [
+   "question": "Jnanpith Award is associated with which of the following?",
+   "options": [
     "Highest literary award of India",
     "Performing arts award of India",
     "Highest civilian award of India",
     "American award for journalism and letters"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Jnanpith Award — Highest literary award of India."
+   "answer": 0,
+   "explanation": "Jnanpith Award — Highest literary award of India.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00030",
-   "q": "National Bravery Award is associated with which of the following?",
-   "o": [
+   "question": "National Bravery Award is associated with which of the following?",
+   "options": [
     "Coaching excellence in Indian sports",
     "Award for brave children in India",
     "Second highest peacetime gallantry award of India",
     "Highest military decoration of India"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "National Bravery Award — Award for brave children in India."
+   "answer": 1,
+   "explanation": "National Bravery Award — Award for brave children in India.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00031",
-   "q": "Shanti Swarup Bhatnagar Prize is associated with which of the following?",
-   "o": [
+   "question": "Shanti Swarup Bhatnagar Prize is associated with which of the following?",
+   "options": [
     "Indian award in science and technology",
     "American award for music",
     "Highest civilian award of India",
     "Third highest peacetime gallantry award of India"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Shanti Swarup Bhatnagar Prize — Indian award in science and technology."
+   "answer": 0,
+   "explanation": "Shanti Swarup Bhatnagar Prize — Indian award in science and technology.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00032",
-   "q": "Ashoka Chakra is associated with which of the following?",
-   "o": [
+   "question": "Ashoka Chakra is associated with which of the following?",
+   "options": [
     "Indian literary award",
     "Second highest military decoration of India",
     "Second highest peacetime gallantry award of India",
     "Highest peacetime gallantry award of India"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Ashoka Chakra — Highest peacetime gallantry award of India."
+   "answer": 3,
+   "explanation": "Ashoka Chakra — Highest peacetime gallantry award of India.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00033",
-   "q": "Vyas Samman is associated with which of the following?",
-   "o": [
+   "question": "Vyas Samman is associated with which of the following?",
+   "options": [
     "Second highest civilian award of India",
     "Award for progress in spiritual matters",
     "Indian literary award",
     "Highest peacetime gallantry award of India"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Vyas Samman — Indian literary award."
+   "answer": 2,
+   "explanation": "Vyas Samman — Indian literary award.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00034",
-   "q": "Ramon Magsaysay Award is associated with which of the following?",
-   "o": [
+   "question": "Ramon Magsaysay Award is associated with which of the following?",
+   "options": [
     "Third highest military decoration of India",
     "Lifetime achievement in Indian sports",
     "Asian award for public service",
     "Indian award in science and technology"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Ramon Magsaysay Award — Asian award for public service."
+   "answer": 2,
+   "explanation": "Ramon Magsaysay Award — Asian award for public service.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00035",
-   "q": "Maha Vir Chakra is associated with which of the following?",
-   "o": [
+   "question": "Maha Vir Chakra is associated with which of the following?",
+   "options": [
     "Second highest military decoration of India",
     "Second highest civilian award of India",
     "Indian literary award",
     "American award for films"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Maha Vir Chakra — Second highest military decoration of India."
+   "answer": 0,
+   "explanation": "Maha Vir Chakra — Second highest military decoration of India.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00036",
-   "q": "Padma Bhushan is associated with which of the following?",
-   "o": [
+   "question": "Padma Bhushan is associated with which of the following?",
+   "options": [
     "Second highest civilian award of India",
     "American award for music",
     "Second highest peacetime gallantry award of India",
     "Third highest civilian award of India"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Padma Bhushan — Third highest civilian award of India."
+   "answer": 3,
+   "explanation": "Padma Bhushan — Third highest civilian award of India.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00037",
-   "q": "Saraswati Samman is associated with which of the following?",
-   "o": [
+   "question": "Saraswati Samman is associated with which of the following?",
+   "options": [
     "Awards for Indian cinema",
     "British award for fiction",
     "Second highest military decoration of India",
     "Indian literary award"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Saraswati Samman — Indian literary award."
+   "answer": 3,
+   "explanation": "Saraswati Samman — Indian literary award.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00038",
-   "q": "Academy Award (Oscar) is associated with which of the following?",
-   "o": [
+   "question": "Academy Award (Oscar) is associated with which of the following?",
+   "options": [
     "American award for films",
     "Second highest civilian award of India",
     "Award for brave children in India",
     "Indian award for social work and peace"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Academy Award (Oscar) — American award for films."
+   "answer": 0,
+   "explanation": "Academy Award (Oscar) — American award for films.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00039",
-   "q": "Infosys Prize is associated with which of the following?",
-   "o": [
+   "question": "Infosys Prize is associated with which of the following?",
+   "options": [
     "Alternative Nobel Prize",
     "Indian award for social work and peace",
     "Highest sporting honour of India",
     "Indian award for research"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Infosys Prize — Indian award for research."
+   "answer": 3,
+   "explanation": "Infosys Prize — Indian award for research.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00040",
-   "q": "Shaurya Chakra is associated with which of the following?",
-   "o": [
+   "question": "Shaurya Chakra is associated with which of the following?",
+   "options": [
     "Lifetime achievement in Indian sports",
     "Alternative Nobel Prize",
     "Third highest peacetime gallantry award of India",
     "Literary award for Indian languages"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Shaurya Chakra — Third highest peacetime gallantry award of India."
+   "answer": 2,
+   "explanation": "Shaurya Chakra — Third highest peacetime gallantry award of India.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00041",
-   "q": "Param Vir Chakra is associated with which of the following?",
-   "o": [
+   "question": "Param Vir Chakra is associated with which of the following?",
+   "options": [
     "American award for music",
     "British award for fiction",
     "Indian award in science and technology",
     "Highest military decoration of India"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Param Vir Chakra — Highest military decoration of India."
+   "answer": 3,
+   "explanation": "Param Vir Chakra — Highest military decoration of India.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00042",
-   "q": "Booker Prize is associated with which of the following?",
-   "o": [
+   "question": "Booker Prize is associated with which of the following?",
+   "options": [
     "British award for fiction",
     "Performing arts award of India",
     "Indian award in science and technology",
     "Highest award in Indian cinema"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Booker Prize — British award for fiction."
+   "answer": 0,
+   "explanation": "Booker Prize — British award for fiction.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00043",
-   "q": "Padma Vibhushan is associated with which of the following?",
-   "o": [
+   "question": "Padma Vibhushan is associated with which of the following?",
+   "options": [
     "Alternative Nobel Prize",
     "Second highest civilian award of India",
     "Highest civilian award of India",
     "Highest literary award of India"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Padma Vibhushan — Second highest civilian award of India."
+   "answer": 1,
+   "explanation": "Padma Vibhushan — Second highest civilian award of India.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00044",
-   "q": "Nobel Prize is associated with which of the following?",
-   "o": [
+   "question": "Nobel Prize is associated with which of the following?",
+   "options": [
     "Indian award for social work and peace",
     "Highest military decoration of India",
     "Indian literary award",
     "International award for Physics, Chemistry, Medicine, Literature, Peace and Economics"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Nobel Prize — International award for Physics, Chemistry, Medicine, Literature, Peace and Economics."
+   "answer": 3,
+   "explanation": "Nobel Prize — International award for Physics, Chemistry, Medicine, Literature, Peace and Economics.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00045",
-   "q": "Gandhi Peace Prize is associated with which of the following?",
-   "o": [
+   "question": "Gandhi Peace Prize is associated with which of the following?",
+   "options": [
     "British award for fiction",
     "Indian award for social work and peace",
     "Second highest peacetime gallantry award of India",
     "Awards for Indian cinema"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Gandhi Peace Prize — Indian award for social work and peace."
+   "answer": 1,
+   "explanation": "Gandhi Peace Prize — Indian award for social work and peace.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00046",
-   "q": "Kalinga Prize is associated with which of the following?",
-   "o": [
+   "question": "Kalinga Prize is associated with which of the following?",
+   "options": [
     "Highest peacetime gallantry award of India",
     "Indian literary award",
     "Indian award for peace, disarmament and development",
     "UNESCO award for popularisation of science"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Kalinga Prize — UNESCO award for popularisation of science."
+   "answer": 3,
+   "explanation": "Kalinga Prize — UNESCO award for popularisation of science.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00047",
-   "q": "Vir Chakra is associated with which of the following?",
-   "o": [
+   "question": "Vir Chakra is associated with which of the following?",
+   "options": [
     "Highest award in Indian cinema",
     "American award for music",
     "Third highest military decoration of India",
     "Alternative Nobel Prize"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Vir Chakra — Third highest military decoration of India."
+   "answer": 2,
+   "explanation": "Vir Chakra — Third highest military decoration of India.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00048",
-   "q": "Borlaug Award is associated with which of the following?",
-   "o": [
+   "question": "Borlaug Award is associated with which of the following?",
+   "options": [
     "Award for progress in spiritual matters",
     "Lifetime achievement in Indian sports",
     "Indian award in agricultural science",
     "British award for fiction"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Borlaug Award — Indian award in agricultural science."
+   "answer": 2,
+   "explanation": "Borlaug Award — Indian award in agricultural science.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00049",
-   "q": "Bharat Ratna is associated with which of the following?",
-   "o": [
+   "question": "Bharat Ratna is associated with which of the following?",
+   "options": [
     "UNESCO award for popularisation of science",
     "Highest civilian award of India",
     "Coaching excellence in Indian sports",
     "Asian award for public service"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Bharat Ratna — Highest civilian award of India."
+   "answer": 1,
+   "explanation": "Bharat Ratna — Highest civilian award of India.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00050",
-   "q": "Templeton Prize is associated with which of the following?",
-   "o": [
+   "question": "Templeton Prize is associated with which of the following?",
+   "options": [
     "UNESCO award for popularisation of science",
     "Award for progress in spiritual matters",
     "Outstanding performance in Indian sports",
     "Lifetime achievement in Indian sports"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Templeton Prize — Award for progress in spiritual matters."
+   "answer": 1,
+   "explanation": "Templeton Prize — Award for progress in spiritual matters.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00051",
-   "q": "Padma Shri is associated with which of the following?",
-   "o": [
+   "question": "Padma Shri is associated with which of the following?",
+   "options": [
     "Indian literary award",
     "Fourth highest civilian award of India",
     "American award for films",
     "American award for journalism and letters"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Padma Shri — Fourth highest civilian award of India."
+   "answer": 1,
+   "explanation": "Padma Shri — Fourth highest civilian award of India.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00052",
-   "q": "Dronacharya Award is associated with which of the following?",
-   "o": [
+   "question": "Dronacharya Award is associated with which of the following?",
+   "options": [
     "Indian award for peace, disarmament and development",
     "Highest peacetime gallantry award of India",
     "Coaching excellence in Indian sports",
     "Highest civilian award of India"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Dronacharya Award — Coaching excellence in Indian sports."
+   "answer": 2,
+   "explanation": "Dronacharya Award — Coaching excellence in Indian sports.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00053",
-   "q": "Grammy Award is associated with which of the following?",
-   "o": [
+   "question": "Grammy Award is associated with which of the following?",
+   "options": [
     "American award for music",
     "Lifetime achievement in Indian sports",
     "Third highest military decoration of India",
     "UNESCO award for popularisation of science"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Grammy Award — American award for music."
+   "answer": 0,
+   "explanation": "Grammy Award — American award for music.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00054",
-   "q": "Major Dhyan Chand Khel Ratna Award is associated with which of the following?",
-   "o": [
+   "question": "Major Dhyan Chand Khel Ratna Award is associated with which of the following?",
+   "options": [
     "Highest sporting honour of India",
     "Highest award in Indian cinema",
     "Indian award for research",
     "Third highest civilian award of India"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Major Dhyan Chand Khel Ratna Award — Highest sporting honour of India."
+   "answer": 0,
+   "explanation": "Major Dhyan Chand Khel Ratna Award — Highest sporting honour of India.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00055",
-   "q": "Dada Saheb Phalke Award is associated with which of the following?",
-   "o": [
+   "question": "Dada Saheb Phalke Award is associated with which of the following?",
+   "options": [
     "American award for films",
     "Third highest civilian award of India",
     "Third highest military decoration of India",
     "Highest award in Indian cinema"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Dada Saheb Phalke Award — Highest award in Indian cinema."
+   "answer": 3,
+   "explanation": "Dada Saheb Phalke Award — Highest award in Indian cinema.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00056",
-   "q": "Dhyan Chand Award is associated with which of the following?",
-   "o": [
+   "question": "Dhyan Chand Award is associated with which of the following?",
+   "options": [
     "Second highest peacetime gallantry award of India",
     "Asian award for public service",
     "Lifetime achievement in Indian sports",
     "Indian award for social work and peace"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Dhyan Chand Award — Lifetime achievement in Indian sports."
+   "answer": 2,
+   "explanation": "Dhyan Chand Award — Lifetime achievement in Indian sports.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00057",
-   "q": "Sahitya Akademi Award is associated with which of the following?",
-   "o": [
+   "question": "Sahitya Akademi Award is associated with which of the following?",
+   "options": [
     "Literary award for Indian languages",
     "Highest literary award of India",
     "Performing arts award of India",
     "Second highest civilian award of India"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 2,
-   "s": "generated",
-   "e": "Sahitya Akademi Award — Literary award for Indian languages."
+   "answer": 0,
+   "explanation": "Sahitya Akademi Award — Literary award for Indian languages.",
+   "topic": "Awards and Honours",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00058",
-   "q": "Which award is described as: Indian literary award?",
-   "o": [
+   "question": "Which award is described as: Indian literary award?",
+   "options": [
     "Vir Chakra",
     "Ashoka Chakra",
     "Right Livelihood Award",
     "Vyas Samman"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Indian literary award describes Vyas Samman."
+   "answer": 3,
+   "explanation": "Indian literary award describes Vyas Samman.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00059",
-   "q": "Which award is described as: UNESCO award for popularisation of science?",
-   "o": [
+   "question": "Which award is described as: UNESCO award for popularisation of science?",
+   "options": [
     "Booker Prize",
     "Shanti Swarup Bhatnagar Prize",
     "Dronacharya Award",
     "Kalinga Prize"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "UNESCO award for popularisation of science describes Kalinga Prize."
+   "answer": 3,
+   "explanation": "UNESCO award for popularisation of science describes Kalinga Prize.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00060",
-   "q": "Which award is described as: American award for films?",
-   "o": [
+   "question": "Which award is described as: American award for films?",
+   "options": [
     "Sahitya Akademi Award",
     "Vir Chakra",
     "Academy Award (Oscar)",
     "Saraswati Samman"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "American award for films describes Academy Award (Oscar)."
+   "answer": 2,
+   "explanation": "American award for films describes Academy Award (Oscar).",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00061",
-   "q": "Which award is described as: Asian award for public service?",
-   "o": [
+   "question": "Which award is described as: Asian award for public service?",
+   "options": [
     "Param Vir Chakra",
     "Ramon Magsaysay Award",
     "Borlaug Award",
     "Kalinga Prize"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Asian award for public service describes Ramon Magsaysay Award."
+   "answer": 1,
+   "explanation": "Asian award for public service describes Ramon Magsaysay Award.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00062",
-   "q": "Which award is described as: Performing arts award of India?",
-   "o": [
+   "question": "Which award is described as: Performing arts award of India?",
+   "options": [
     "Sangeet Natak Akademi Award",
     "Dada Saheb Phalke Award",
     "Major Dhyan Chand Khel Ratna Award",
     "Arjuna Award"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Performing arts award of India describes Sangeet Natak Akademi Award."
+   "answer": 0,
+   "explanation": "Performing arts award of India describes Sangeet Natak Akademi Award.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00063",
-   "q": "Which award is described as: Indian award in agricultural science?",
-   "o": [
+   "question": "Which award is described as: Indian award in agricultural science?",
+   "options": [
     "Booker Prize",
     "Padma Vibhushan",
     "Padma Bhushan",
     "Borlaug Award"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Indian award in agricultural science describes Borlaug Award."
+   "answer": 3,
+   "explanation": "Indian award in agricultural science describes Borlaug Award.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00064",
-   "q": "Which award is described as: Award for brave children in India?",
-   "o": [
+   "question": "Which award is described as: Award for brave children in India?",
+   "options": [
     "Sangeet Natak Akademi Award",
     "National Bravery Award",
     "Grammy Award",
     "Gandhi Peace Prize"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Award for brave children in India describes National Bravery Award."
+   "answer": 1,
+   "explanation": "Award for brave children in India describes National Bravery Award.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00065",
-   "q": "Which award is described as: Coaching excellence in Indian sports?",
-   "o": [
+   "question": "Which award is described as: Coaching excellence in Indian sports?",
+   "options": [
     "Padma Vibhushan",
     "Sahitya Akademi Award",
     "Dronacharya Award",
     "Saraswati Samman"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Coaching excellence in Indian sports describes Dronacharya Award."
+   "answer": 2,
+   "explanation": "Coaching excellence in Indian sports describes Dronacharya Award.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00066",
-   "q": "Which award is described as: Outstanding performance in Indian sports?",
-   "o": [
+   "question": "Which award is described as: Outstanding performance in Indian sports?",
+   "options": [
     "Infosys Prize",
     "Padma Bhushan",
     "Padma Shri",
     "Arjuna Award"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Outstanding performance in Indian sports describes Arjuna Award."
+   "answer": 3,
+   "explanation": "Outstanding performance in Indian sports describes Arjuna Award.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00067",
-   "q": "Which award is described as: Highest civilian award of India?",
-   "o": [
+   "question": "Which award is described as: Highest civilian award of India?",
+   "options": [
     "Borlaug Award",
     "Major Dhyan Chand Khel Ratna Award",
     "Padma Bhushan",
     "Bharat Ratna"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Highest civilian award of India describes Bharat Ratna."
+   "answer": 3,
+   "explanation": "Highest civilian award of India describes Bharat Ratna.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00068",
-   "q": "Which award is described as: Second highest military decoration of India?",
-   "o": [
+   "question": "Which award is described as: Second highest military decoration of India?",
+   "options": [
     "Grammy Award",
     "Pulitzer Prize",
     "Maha Vir Chakra",
     "Kalinga Prize"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Second highest military decoration of India describes Maha Vir Chakra."
+   "answer": 2,
+   "explanation": "Second highest military decoration of India describes Maha Vir Chakra.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00069",
-   "q": "Which award is described as: Awards for Indian cinema?",
-   "o": [
+   "question": "Which award is described as: Awards for Indian cinema?",
+   "options": [
     "National Film Award",
     "Shaurya Chakra",
     "Major Dhyan Chand Khel Ratna Award",
     "Shanti Swarup Bhatnagar Prize"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Awards for Indian cinema describes National Film Award."
+   "answer": 0,
+   "explanation": "Awards for Indian cinema describes National Film Award.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00070",
-   "q": "Which award is described as: British award for fiction?",
-   "o": [
+   "question": "Which award is described as: British award for fiction?",
+   "options": [
     "Booker Prize",
     "Padma Vibhushan",
     "Ramon Magsaysay Award",
     "Maha Vir Chakra"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "British award for fiction describes Booker Prize."
+   "answer": 0,
+   "explanation": "British award for fiction describes Booker Prize.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00071",
-   "q": "Which award is described as: Second highest peacetime gallantry award of India?",
-   "o": [
+   "question": "Which award is described as: Second highest peacetime gallantry award of India?",
+   "options": [
     "Kirti Chakra",
     "Ashoka Chakra",
     "Bharat Ratna",
     "Maha Vir Chakra"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Second highest peacetime gallantry award of India describes Kirti Chakra."
+   "answer": 0,
+   "explanation": "Second highest peacetime gallantry award of India describes Kirti Chakra.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00072",
-   "q": "Which award is described as: Indian literary award?",
-   "o": [
+   "question": "Which award is described as: Indian literary award?",
+   "options": [
     "Major Dhyan Chand Khel Ratna Award",
     "Infosys Prize",
     "Saraswati Samman",
     "Dronacharya Award"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Indian literary award describes Saraswati Samman."
+   "answer": 2,
+   "explanation": "Indian literary award describes Saraswati Samman.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00073",
-   "q": "Which award is described as: Indian award in science and technology?",
-   "o": [
+   "question": "Which award is described as: Indian award in science and technology?",
+   "options": [
     "Shaurya Chakra",
     "Jnanpith Award",
     "Academy Award (Oscar)",
     "Shanti Swarup Bhatnagar Prize"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Indian award in science and technology describes Shanti Swarup Bhatnagar Prize."
+   "answer": 3,
+   "explanation": "Indian award in science and technology describes Shanti Swarup Bhatnagar Prize.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00074",
-   "q": "Which award is described as: Highest sporting honour of India?",
-   "o": [
+   "question": "Which award is described as: Highest sporting honour of India?",
+   "options": [
     "Right Livelihood Award",
     "Param Vir Chakra",
     "Major Dhyan Chand Khel Ratna Award",
     "Ashoka Chakra"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Highest sporting honour of India describes Major Dhyan Chand Khel Ratna Award."
+   "answer": 2,
+   "explanation": "Highest sporting honour of India describes Major Dhyan Chand Khel Ratna Award.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00075",
-   "q": "Which award is described as: American award for journalism and letters?",
-   "o": [
+   "question": "Which award is described as: American award for journalism and letters?",
+   "options": [
     "Pulitzer Prize",
     "Booker Prize",
     "Padma Shri",
     "Infosys Prize"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "American award for journalism and letters describes Pulitzer Prize."
+   "answer": 0,
+   "explanation": "American award for journalism and letters describes Pulitzer Prize.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00076",
-   "q": "Which award is described as: Highest literary award of India?",
-   "o": [
+   "question": "Which award is described as: Highest literary award of India?",
+   "options": [
     "Templeton Prize",
     "Infosys Prize",
     "Jnanpith Award",
     "Pulitzer Prize"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Highest literary award of India describes Jnanpith Award."
+   "answer": 2,
+   "explanation": "Highest literary award of India describes Jnanpith Award.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00077",
-   "q": "Which award is described as: Alternative Nobel Prize?",
-   "o": [
+   "question": "Which award is described as: Alternative Nobel Prize?",
+   "options": [
     "Right Livelihood Award",
     "Padma Bhushan",
     "Booker Prize",
     "Sangeet Natak Akademi Award"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Alternative Nobel Prize describes Right Livelihood Award."
+   "answer": 0,
+   "explanation": "Alternative Nobel Prize describes Right Livelihood Award.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00078",
-   "q": "Which award is described as: Indian award for research?",
-   "o": [
+   "question": "Which award is described as: Indian award for research?",
+   "options": [
     "Kalinga Prize",
     "Infosys Prize",
     "Pulitzer Prize",
     "Shanti Swarup Bhatnagar Prize"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Indian award for research describes Infosys Prize."
+   "answer": 1,
+   "explanation": "Indian award for research describes Infosys Prize.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00079",
-   "q": "Which award is described as: Third highest civilian award of India?",
-   "o": [
+   "question": "Which award is described as: Third highest civilian award of India?",
+   "options": [
     "Padma Bhushan",
     "Kalinga Prize",
     "Borlaug Award",
     "Maha Vir Chakra"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Third highest civilian award of India describes Padma Bhushan."
+   "answer": 0,
+   "explanation": "Third highest civilian award of India describes Padma Bhushan.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00080",
-   "q": "Which award is described as: Highest peacetime gallantry award of India?",
-   "o": [
+   "question": "Which award is described as: Highest peacetime gallantry award of India?",
+   "options": [
     "Saraswati Samman",
     "Ashoka Chakra",
     "Nobel Prize",
     "Shanti Swarup Bhatnagar Prize"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Highest peacetime gallantry award of India describes Ashoka Chakra."
+   "answer": 1,
+   "explanation": "Highest peacetime gallantry award of India describes Ashoka Chakra.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00081",
-   "q": "Which award is described as: Highest military decoration of India?",
-   "o": [
+   "question": "Which award is described as: Highest military decoration of India?",
+   "options": [
     "Param Vir Chakra",
     "Gandhi Peace Prize",
     "Jnanpith Award",
     "Pulitzer Prize"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Highest military decoration of India describes Param Vir Chakra."
+   "answer": 0,
+   "explanation": "Highest military decoration of India describes Param Vir Chakra.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00082",
-   "q": "Which award is described as: Second highest civilian award of India?",
-   "o": [
+   "question": "Which award is described as: Second highest civilian award of India?",
+   "options": [
     "Vir Chakra",
     "National Bravery Award",
     "Padma Vibhushan",
     "Infosys Prize"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Second highest civilian award of India describes Padma Vibhushan."
+   "answer": 2,
+   "explanation": "Second highest civilian award of India describes Padma Vibhushan.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00083",
-   "q": "Which award is described as: Third highest military decoration of India?",
-   "o": [
+   "question": "Which award is described as: Third highest military decoration of India?",
+   "options": [
     "Maha Vir Chakra",
     "Vir Chakra",
     "Infosys Prize",
     "Vyas Samman"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Third highest military decoration of India describes Vir Chakra."
+   "answer": 1,
+   "explanation": "Third highest military decoration of India describes Vir Chakra.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00084",
-   "q": "Which award is described as: Award for progress in spiritual matters?",
-   "o": [
+   "question": "Which award is described as: Award for progress in spiritual matters?",
+   "options": [
     "Infosys Prize",
     "Templeton Prize",
     "Arjuna Award",
     "Bharat Ratna"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Award for progress in spiritual matters describes Templeton Prize."
+   "answer": 1,
+   "explanation": "Award for progress in spiritual matters describes Templeton Prize.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00085",
-   "q": "Which award is described as: Fourth highest civilian award of India?",
-   "o": [
+   "question": "Which award is described as: Fourth highest civilian award of India?",
+   "options": [
     "National Bravery Award",
     "Padma Shri",
     "Jnanpith Award",
     "Booker Prize"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Fourth highest civilian award of India describes Padma Shri."
+   "answer": 1,
+   "explanation": "Fourth highest civilian award of India describes Padma Shri.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00086",
-   "q": "Which award is described as: Literary award for Indian languages?",
-   "o": [
+   "question": "Which award is described as: Literary award for Indian languages?",
+   "options": [
     "Templeton Prize",
     "Booker Prize",
     "Sahitya Akademi Award",
     "Kirti Chakra"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Literary award for Indian languages describes Sahitya Akademi Award."
+   "answer": 2,
+   "explanation": "Literary award for Indian languages describes Sahitya Akademi Award.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00087",
-   "q": "Which award is described as: Third highest peacetime gallantry award of India?",
-   "o": [
+   "question": "Which award is described as: Third highest peacetime gallantry award of India?",
+   "options": [
     "Right Livelihood Award",
     "Shaurya Chakra",
     "Maha Vir Chakra",
     "Major Dhyan Chand Khel Ratna Award"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Third highest peacetime gallantry award of India describes Shaurya Chakra."
+   "answer": 1,
+   "explanation": "Third highest peacetime gallantry award of India describes Shaurya Chakra.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00088",
-   "q": "Which award is described as: American award for music?",
-   "o": [
+   "question": "Which award is described as: American award for music?",
+   "options": [
     "Dada Saheb Phalke Award",
     "Grammy Award",
     "Right Livelihood Award",
     "Major Dhyan Chand Khel Ratna Award"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "American award for music describes Grammy Award."
+   "answer": 1,
+   "explanation": "American award for music describes Grammy Award.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00089",
-   "q": "Which award is described as: Indian award for peace, disarmament and development?",
-   "o": [
+   "question": "Which award is described as: Indian award for peace, disarmament and development?",
+   "options": [
     "Kirti Chakra",
     "Infosys Prize",
     "Dhyan Chand Award",
     "Indira Gandhi Prize"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Indian award for peace, disarmament and development describes Indira Gandhi Prize."
+   "answer": 3,
+   "explanation": "Indian award for peace, disarmament and development describes Indira Gandhi Prize.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00090",
-   "q": "Which award is described as: Indian award for social work and peace?",
-   "o": [
+   "question": "Which award is described as: Indian award for social work and peace?",
+   "options": [
     "Sangeet Natak Akademi Award",
     "Gandhi Peace Prize",
     "Indira Gandhi Prize",
     "Dada Saheb Phalke Award"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Indian award for social work and peace describes Gandhi Peace Prize."
+   "answer": 1,
+   "explanation": "Indian award for social work and peace describes Gandhi Peace Prize.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00091",
-   "q": "Which award is described as: Lifetime achievement in Indian sports?",
-   "o": [
+   "question": "Which award is described as: Lifetime achievement in Indian sports?",
+   "options": [
     "Maha Vir Chakra",
     "Pulitzer Prize",
     "Dhyan Chand Award",
     "Right Livelihood Award"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Lifetime achievement in Indian sports describes Dhyan Chand Award."
+   "answer": 2,
+   "explanation": "Lifetime achievement in Indian sports describes Dhyan Chand Award.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00092",
-   "q": "Which award is described as: International award for Physics, Chemistry, Medicine, Literature, Peace and Economics?",
-   "o": [
+   "question": "Which award is described as: International award for Physics, Chemistry, Medicine, Literature, Peace and Economics?",
+   "options": [
     "National Bravery Award",
     "Ashoka Chakra",
     "Infosys Prize",
     "Nobel Prize"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "International award for Physics, Chemistry, Medicine, Literature, Peace and Economics describes Nobel Prize."
+   "answer": 3,
+   "explanation": "International award for Physics, Chemistry, Medicine, Literature, Peace and Economics describes Nobel Prize.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00093",
-   "q": "Which award is described as: Highest award in Indian cinema?",
-   "o": [
+   "question": "Which award is described as: Highest award in Indian cinema?",
+   "options": [
     "Kirti Chakra",
     "Padma Bhushan",
     "Dada Saheb Phalke Award",
     "Arjuna Award"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Highest award in Indian cinema describes Dada Saheb Phalke Award."
+   "answer": 2,
+   "explanation": "Highest award in Indian cinema describes Dada Saheb Phalke Award.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00094",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Param Vir Chakra - Highest military decoration of India",
     "Param Vir Chakra - American award for journalism and letters",
     "Param Vir Chakra - Highest award in Indian cinema",
     "Param Vir Chakra - Lifetime achievement in Indian sports"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Param Vir Chakra - Highest military decoration of India is correctly matched."
+   "answer": 0,
+   "explanation": "Only Param Vir Chakra - Highest military decoration of India is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00095",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Param Vir Chakra - Awards for Indian cinema",
     "Param Vir Chakra - Highest award in Indian cinema",
     "Param Vir Chakra - Indian literary award",
     "Param Vir Chakra - Highest military decoration of India"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Param Vir Chakra - Highest military decoration of India is correctly matched."
+   "answer": 3,
+   "explanation": "Only Param Vir Chakra - Highest military decoration of India is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00096",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Borlaug Award - International award for Physics, Chemistry, Medicine, Literature, Peace and Economics",
     "Borlaug Award - Third highest civilian award of India",
     "Borlaug Award - Indian award in agricultural science",
     "Borlaug Award - Award for progress in spiritual matters"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Borlaug Award - Indian award in agricultural science is correctly matched."
+   "answer": 2,
+   "explanation": "Only Borlaug Award - Indian award in agricultural science is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00097",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Borlaug Award - Coaching excellence in Indian sports",
     "Borlaug Award - Awards for Indian cinema",
     "Borlaug Award - Indian award in agricultural science",
     "Borlaug Award - Highest peacetime gallantry award of India"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Borlaug Award - Indian award in agricultural science is correctly matched."
+   "answer": 2,
+   "explanation": "Only Borlaug Award - Indian award in agricultural science is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00098",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Vyas Samman - Indian literary award",
     "Vyas Samman - Second highest military decoration of India",
     "Vyas Samman - Third highest peacetime gallantry award of India",
     "Vyas Samman - Indian award for research"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Vyas Samman - Indian literary award is correctly matched."
+   "answer": 0,
+   "explanation": "Only Vyas Samman - Indian literary award is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00099",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Vyas Samman - Second highest peacetime gallantry award of India",
     "Vyas Samman - Highest sporting honour of India",
     "Vyas Samman - Awards for Indian cinema",
     "Vyas Samman - Indian literary award"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Vyas Samman - Indian literary award is correctly matched."
+   "answer": 3,
+   "explanation": "Only Vyas Samman - Indian literary award is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00100",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Templeton Prize - Awards for Indian cinema",
     "Templeton Prize - American award for journalism and letters",
     "Templeton Prize - Indian literary award",
     "Templeton Prize - Award for progress in spiritual matters"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Templeton Prize - Award for progress in spiritual matters is correctly matched."
+   "answer": 3,
+   "explanation": "Only Templeton Prize - Award for progress in spiritual matters is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00101",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Templeton Prize - Third highest civilian award of India",
     "Templeton Prize - Indian literary award",
     "Templeton Prize - Third highest military decoration of India",
     "Templeton Prize - Award for progress in spiritual matters"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Templeton Prize - Award for progress in spiritual matters is correctly matched."
+   "answer": 3,
+   "explanation": "Only Templeton Prize - Award for progress in spiritual matters is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00102",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Academy Award (Oscar) - Indian award for social work and peace",
     "Academy Award (Oscar) - Alternative Nobel Prize",
     "Academy Award (Oscar) - American award for films",
     "Academy Award (Oscar) - Second highest peacetime gallantry award of India"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Academy Award (Oscar) - American award for films is correctly matched."
+   "answer": 2,
+   "explanation": "Only Academy Award (Oscar) - American award for films is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00103",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Academy Award (Oscar) - UNESCO award for popularisation of science",
     "Academy Award (Oscar) - Awards for Indian cinema",
     "Academy Award (Oscar) - American award for films",
     "Academy Award (Oscar) - Indian award for research"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Academy Award (Oscar) - American award for films is correctly matched."
+   "answer": 2,
+   "explanation": "Only Academy Award (Oscar) - American award for films is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00104",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Nobel Prize - International award for Physics, Chemistry, Medicine, Literature, Peace and Economics",
     "Nobel Prize - Indian literary award",
     "Nobel Prize - Indian award for research",
     "Nobel Prize - Indian award in agricultural science"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Nobel Prize - International award for Physics, Chemistry, Medicine, Literature, Peace and Economics is correctly matched."
+   "answer": 0,
+   "explanation": "Only Nobel Prize - International award for Physics, Chemistry, Medicine, Literature, Peace and Economics is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00105",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Nobel Prize - Indian award in agricultural science",
     "Nobel Prize - Third highest military decoration of India",
     "Nobel Prize - International award for Physics, Chemistry, Medicine, Literature, Peace and Economics",
     "Nobel Prize - Second highest military decoration of India"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Nobel Prize - International award for Physics, Chemistry, Medicine, Literature, Peace and Economics is correctly matched."
+   "answer": 2,
+   "explanation": "Only Nobel Prize - International award for Physics, Chemistry, Medicine, Literature, Peace and Economics is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00106",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Booker Prize - British award for fiction",
     "Booker Prize - Award for brave children in India",
     "Booker Prize - Highest literary award of India",
     "Booker Prize - Indian award for peace, disarmament and development"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Booker Prize - British award for fiction is correctly matched."
+   "answer": 0,
+   "explanation": "Only Booker Prize - British award for fiction is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00107",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Booker Prize - British award for fiction",
     "Booker Prize - Second highest civilian award of India",
     "Booker Prize - Coaching excellence in Indian sports",
     "Booker Prize - Performing arts award of India"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Booker Prize - British award for fiction is correctly matched."
+   "answer": 0,
+   "explanation": "Only Booker Prize - British award for fiction is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00108",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Jnanpith Award - Second highest civilian award of India",
     "Jnanpith Award - Indian literary award",
     "Jnanpith Award - American award for journalism and letters",
     "Jnanpith Award - Highest literary award of India"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Jnanpith Award - Highest literary award of India is correctly matched."
+   "answer": 3,
+   "explanation": "Only Jnanpith Award - Highest literary award of India is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00109",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Jnanpith Award - Award for progress in spiritual matters",
     "Jnanpith Award - Indian award in science and technology",
     "Jnanpith Award - Highest literary award of India",
     "Jnanpith Award - Outstanding performance in Indian sports"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Jnanpith Award - Highest literary award of India is correctly matched."
+   "answer": 2,
+   "explanation": "Only Jnanpith Award - Highest literary award of India is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00110",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Vir Chakra - Highest civilian award of India",
     "Vir Chakra - Third highest military decoration of India",
     "Vir Chakra - Literary award for Indian languages",
     "Vir Chakra - American award for films"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Vir Chakra - Third highest military decoration of India is correctly matched."
+   "answer": 1,
+   "explanation": "Only Vir Chakra - Third highest military decoration of India is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00111",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Vir Chakra - Awards for Indian cinema",
     "Vir Chakra - Indian award in agricultural science",
     "Vir Chakra - Lifetime achievement in Indian sports",
     "Vir Chakra - Third highest military decoration of India"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Vir Chakra - Third highest military decoration of India is correctly matched."
+   "answer": 3,
+   "explanation": "Only Vir Chakra - Third highest military decoration of India is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00112",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Dhyan Chand Award - Third highest peacetime gallantry award of India",
     "Dhyan Chand Award - Asian award for public service",
     "Dhyan Chand Award - Highest award in Indian cinema",
     "Dhyan Chand Award - Lifetime achievement in Indian sports"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Dhyan Chand Award - Lifetime achievement in Indian sports is correctly matched."
+   "answer": 3,
+   "explanation": "Only Dhyan Chand Award - Lifetime achievement in Indian sports is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00113",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Dhyan Chand Award - Third highest civilian award of India",
     "Dhyan Chand Award - Lifetime achievement in Indian sports",
     "Dhyan Chand Award - American award for music",
     "Dhyan Chand Award - Awards for Indian cinema"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Dhyan Chand Award - Lifetime achievement in Indian sports is correctly matched."
+   "answer": 1,
+   "explanation": "Only Dhyan Chand Award - Lifetime achievement in Indian sports is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00114",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Padma Shri - Second highest military decoration of India",
     "Padma Shri - Awards for Indian cinema",
     "Padma Shri - Indian award for research",
     "Padma Shri - Fourth highest civilian award of India"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Padma Shri - Fourth highest civilian award of India is correctly matched."
+   "answer": 3,
+   "explanation": "Only Padma Shri - Fourth highest civilian award of India is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00115",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Padma Shri - Second highest military decoration of India",
     "Padma Shri - Awards for Indian cinema",
     "Padma Shri - Indian literary award",
     "Padma Shri - Fourth highest civilian award of India"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Padma Shri - Fourth highest civilian award of India is correctly matched."
+   "answer": 3,
+   "explanation": "Only Padma Shri - Fourth highest civilian award of India is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00116",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Indira Gandhi Prize - Highest military decoration of India",
     "Indira Gandhi Prize - Lifetime achievement in Indian sports",
     "Indira Gandhi Prize - Indian award for peace, disarmament and development",
     "Indira Gandhi Prize - American award for journalism and letters"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Indira Gandhi Prize - Indian award for peace, disarmament and development is correctly matched."
+   "answer": 2,
+   "explanation": "Only Indira Gandhi Prize - Indian award for peace, disarmament and development is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00117",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Indira Gandhi Prize - Highest military decoration of India",
     "Indira Gandhi Prize - Third highest peacetime gallantry award of India",
     "Indira Gandhi Prize - Indian award for peace, disarmament and development",
     "Indira Gandhi Prize - Lifetime achievement in Indian sports"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Indira Gandhi Prize - Indian award for peace, disarmament and development is correctly matched."
+   "answer": 2,
+   "explanation": "Only Indira Gandhi Prize - Indian award for peace, disarmament and development is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00118",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Kalinga Prize - Indian award in agricultural science",
     "Kalinga Prize - American award for music",
     "Kalinga Prize - Literary award for Indian languages",
     "Kalinga Prize - UNESCO award for popularisation of science"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Kalinga Prize - UNESCO award for popularisation of science is correctly matched."
+   "answer": 3,
+   "explanation": "Only Kalinga Prize - UNESCO award for popularisation of science is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00119",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Kalinga Prize - Third highest military decoration of India",
     "Kalinga Prize - British award for fiction",
     "Kalinga Prize - UNESCO award for popularisation of science",
     "Kalinga Prize - Highest civilian award of India"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Kalinga Prize - UNESCO award for popularisation of science is correctly matched."
+   "answer": 2,
+   "explanation": "Only Kalinga Prize - UNESCO award for popularisation of science is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00120",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Kirti Chakra - Second highest peacetime gallantry award of India",
     "Kirti Chakra - Performing arts award of India",
     "Kirti Chakra - Indian literary award",
     "Kirti Chakra - Second highest civilian award of India"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Kirti Chakra - Second highest peacetime gallantry award of India is correctly matched."
+   "answer": 0,
+   "explanation": "Only Kirti Chakra - Second highest peacetime gallantry award of India is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00121",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Kirti Chakra - Award for brave children in India",
     "Kirti Chakra - Highest military decoration of India",
     "Kirti Chakra - Asian award for public service",
     "Kirti Chakra - Second highest peacetime gallantry award of India"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Kirti Chakra - Second highest peacetime gallantry award of India is correctly matched."
+   "answer": 3,
+   "explanation": "Only Kirti Chakra - Second highest peacetime gallantry award of India is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00122",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Right Livelihood Award - Alternative Nobel Prize",
     "Right Livelihood Award - American award for music",
     "Right Livelihood Award - Fourth highest civilian award of India",
     "Right Livelihood Award - Asian award for public service"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Right Livelihood Award - Alternative Nobel Prize is correctly matched."
+   "answer": 0,
+   "explanation": "Only Right Livelihood Award - Alternative Nobel Prize is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00123",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Right Livelihood Award - Highest literary award of India",
     "Right Livelihood Award - Alternative Nobel Prize",
     "Right Livelihood Award - Third highest peacetime gallantry award of India",
     "Right Livelihood Award - Indian award in science and technology"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Right Livelihood Award - Alternative Nobel Prize is correctly matched."
+   "answer": 1,
+   "explanation": "Only Right Livelihood Award - Alternative Nobel Prize is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00124",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Ramon Magsaysay Award - Asian award for public service",
     "Ramon Magsaysay Award - Awards for Indian cinema",
     "Ramon Magsaysay Award - Award for progress in spiritual matters",
     "Ramon Magsaysay Award - Indian award for social work and peace"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ramon Magsaysay Award - Asian award for public service is correctly matched."
+   "answer": 0,
+   "explanation": "Only Ramon Magsaysay Award - Asian award for public service is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00125",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Ramon Magsaysay Award - Indian award for social work and peace",
     "Ramon Magsaysay Award - Asian award for public service",
     "Ramon Magsaysay Award - Highest peacetime gallantry award of India",
     "Ramon Magsaysay Award - Highest sporting honour of India"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ramon Magsaysay Award - Asian award for public service is correctly matched."
+   "answer": 1,
+   "explanation": "Only Ramon Magsaysay Award - Asian award for public service is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00126",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Shanti Swarup Bhatnagar Prize - Indian literary award",
     "Shanti Swarup Bhatnagar Prize - Alternative Nobel Prize",
     "Shanti Swarup Bhatnagar Prize - Indian award in science and technology",
     "Shanti Swarup Bhatnagar Prize - Highest military decoration of India"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Shanti Swarup Bhatnagar Prize - Indian award in science and technology is correctly matched."
+   "answer": 2,
+   "explanation": "Only Shanti Swarup Bhatnagar Prize - Indian award in science and technology is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00127",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Shanti Swarup Bhatnagar Prize - Third highest peacetime gallantry award of India",
     "Shanti Swarup Bhatnagar Prize - Outstanding performance in Indian sports",
     "Shanti Swarup Bhatnagar Prize - Indian award in science and technology",
     "Shanti Swarup Bhatnagar Prize - Indian award in agricultural science"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Shanti Swarup Bhatnagar Prize - Indian award in science and technology is correctly matched."
+   "answer": 2,
+   "explanation": "Only Shanti Swarup Bhatnagar Prize - Indian award in science and technology is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00128",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Grammy Award - Award for progress in spiritual matters",
     "Grammy Award - American award for music",
     "Grammy Award - Awards for Indian cinema",
     "Grammy Award - Award for brave children in India"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Grammy Award - American award for music is correctly matched."
+   "answer": 1,
+   "explanation": "Only Grammy Award - American award for music is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00129",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Grammy Award - Third highest military decoration of India",
     "Grammy Award - Third highest civilian award of India",
     "Grammy Award - International award for Physics, Chemistry, Medicine, Literature, Peace and Economics",
     "Grammy Award - American award for music"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Grammy Award - American award for music is correctly matched."
+   "answer": 3,
+   "explanation": "Only Grammy Award - American award for music is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00130",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Major Dhyan Chand Khel Ratna Award - Indian award in science and technology",
     "Major Dhyan Chand Khel Ratna Award - British award for fiction",
     "Major Dhyan Chand Khel Ratna Award - Highest sporting honour of India",
     "Major Dhyan Chand Khel Ratna Award - Outstanding performance in Indian sports"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Major Dhyan Chand Khel Ratna Award - Highest sporting honour of India is correctly matched."
+   "answer": 2,
+   "explanation": "Only Major Dhyan Chand Khel Ratna Award - Highest sporting honour of India is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00131",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Major Dhyan Chand Khel Ratna Award - Highest sporting honour of India",
     "Major Dhyan Chand Khel Ratna Award - UNESCO award for popularisation of science",
     "Major Dhyan Chand Khel Ratna Award - Outstanding performance in Indian sports",
     "Major Dhyan Chand Khel Ratna Award - Awards for Indian cinema"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Major Dhyan Chand Khel Ratna Award - Highest sporting honour of India is correctly matched."
+   "answer": 0,
+   "explanation": "Only Major Dhyan Chand Khel Ratna Award - Highest sporting honour of India is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00132",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Bharat Ratna - Indian award for research",
     "Bharat Ratna - Highest civilian award of India",
     "Bharat Ratna - Second highest peacetime gallantry award of India",
     "Bharat Ratna - Outstanding performance in Indian sports"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Bharat Ratna - Highest civilian award of India is correctly matched."
+   "answer": 1,
+   "explanation": "Only Bharat Ratna - Highest civilian award of India is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00133",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Bharat Ratna - Outstanding performance in Indian sports",
     "Bharat Ratna - Highest civilian award of India",
     "Bharat Ratna - Indian award for social work and peace",
     "Bharat Ratna - Coaching excellence in Indian sports"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Bharat Ratna - Highest civilian award of India is correctly matched."
+   "answer": 1,
+   "explanation": "Only Bharat Ratna - Highest civilian award of India is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00134",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Shaurya Chakra - Performing arts award of India",
     "Shaurya Chakra - American award for films",
     "Shaurya Chakra - Indian award for social work and peace",
     "Shaurya Chakra - Third highest peacetime gallantry award of India"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Shaurya Chakra - Third highest peacetime gallantry award of India is correctly matched."
+   "answer": 3,
+   "explanation": "Only Shaurya Chakra - Third highest peacetime gallantry award of India is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00135",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Shaurya Chakra - Highest peacetime gallantry award of India",
     "Shaurya Chakra - Second highest peacetime gallantry award of India",
     "Shaurya Chakra - Lifetime achievement in Indian sports",
     "Shaurya Chakra - Third highest peacetime gallantry award of India"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Shaurya Chakra - Third highest peacetime gallantry award of India is correctly matched."
+   "answer": 3,
+   "explanation": "Only Shaurya Chakra - Third highest peacetime gallantry award of India is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00136",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Ashoka Chakra - Award for brave children in India",
     "Ashoka Chakra - Highest sporting honour of India",
     "Ashoka Chakra - Fourth highest civilian award of India",
     "Ashoka Chakra - Highest peacetime gallantry award of India"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ashoka Chakra - Highest peacetime gallantry award of India is correctly matched."
+   "answer": 3,
+   "explanation": "Only Ashoka Chakra - Highest peacetime gallantry award of India is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00137",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Ashoka Chakra - American award for films",
     "Ashoka Chakra - Highest peacetime gallantry award of India",
     "Ashoka Chakra - Third highest peacetime gallantry award of India",
     "Ashoka Chakra - Outstanding performance in Indian sports"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ashoka Chakra - Highest peacetime gallantry award of India is correctly matched."
+   "answer": 1,
+   "explanation": "Only Ashoka Chakra - Highest peacetime gallantry award of India is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00138",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Sangeet Natak Akademi Award - Awards for Indian cinema",
     "Sangeet Natak Akademi Award - Performing arts award of India",
     "Sangeet Natak Akademi Award - Indian award in agricultural science",
     "Sangeet Natak Akademi Award - Coaching excellence in Indian sports"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Sangeet Natak Akademi Award - Performing arts award of India is correctly matched."
+   "answer": 1,
+   "explanation": "Only Sangeet Natak Akademi Award - Performing arts award of India is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00139",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Sangeet Natak Akademi Award - Highest sporting honour of India",
     "Sangeet Natak Akademi Award - Highest military decoration of India",
     "Sangeet Natak Akademi Award - Performing arts award of India",
     "Sangeet Natak Akademi Award - Indian award for social work and peace"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Sangeet Natak Akademi Award - Performing arts award of India is correctly matched."
+   "answer": 2,
+   "explanation": "Only Sangeet Natak Akademi Award - Performing arts award of India is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00140",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Saraswati Samman - British award for fiction",
     "Saraswati Samman - Indian award for social work and peace",
     "Saraswati Samman - Second highest military decoration of India",
     "Saraswati Samman - Indian literary award"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Saraswati Samman - Indian literary award is correctly matched."
+   "answer": 3,
+   "explanation": "Only Saraswati Samman - Indian literary award is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00141",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Saraswati Samman - Indian literary award",
     "Saraswati Samman - Indian award in science and technology",
     "Saraswati Samman - Coaching excellence in Indian sports",
     "Saraswati Samman - Asian award for public service"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Saraswati Samman - Indian literary award is correctly matched."
+   "answer": 0,
+   "explanation": "Only Saraswati Samman - Indian literary award is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00142",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "National Bravery Award - Award for brave children in India",
     "National Bravery Award - Highest award in Indian cinema",
     "National Bravery Award - Highest civilian award of India",
     "National Bravery Award - Indian award for peace, disarmament and development"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only National Bravery Award - Award for brave children in India is correctly matched."
+   "answer": 0,
+   "explanation": "Only National Bravery Award - Award for brave children in India is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00143",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "National Bravery Award - Third highest military decoration of India",
     "National Bravery Award - Award for brave children in India",
     "National Bravery Award - American award for journalism and letters",
     "National Bravery Award - Indian award in agricultural science"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only National Bravery Award - Award for brave children in India is correctly matched."
+   "answer": 1,
+   "explanation": "Only National Bravery Award - Award for brave children in India is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00144",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Gandhi Peace Prize - British award for fiction",
     "Gandhi Peace Prize - Indian award for social work and peace",
     "Gandhi Peace Prize - Indian literary award",
     "Gandhi Peace Prize - American award for music"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Gandhi Peace Prize - Indian award for social work and peace is correctly matched."
+   "answer": 1,
+   "explanation": "Only Gandhi Peace Prize - Indian award for social work and peace is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00145",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Gandhi Peace Prize - Award for progress in spiritual matters",
     "Gandhi Peace Prize - Coaching excellence in Indian sports",
     "Gandhi Peace Prize - Indian award for social work and peace",
     "Gandhi Peace Prize - International award for Physics, Chemistry, Medicine, Literature, Peace and Economics"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Gandhi Peace Prize - Indian award for social work and peace is correctly matched."
+   "answer": 2,
+   "explanation": "Only Gandhi Peace Prize - Indian award for social work and peace is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00146",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Padma Vibhushan - Alternative Nobel Prize",
     "Padma Vibhushan - Second highest civilian award of India",
     "Padma Vibhushan - American award for journalism and letters",
     "Padma Vibhushan - Third highest military decoration of India"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Padma Vibhushan - Second highest civilian award of India is correctly matched."
+   "answer": 1,
+   "explanation": "Only Padma Vibhushan - Second highest civilian award of India is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00147",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Padma Vibhushan - Highest literary award of India",
     "Padma Vibhushan - Indian literary award",
     "Padma Vibhushan - Alternative Nobel Prize",
     "Padma Vibhushan - Second highest civilian award of India"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Padma Vibhushan - Second highest civilian award of India is correctly matched."
+   "answer": 3,
+   "explanation": "Only Padma Vibhushan - Second highest civilian award of India is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00148",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Infosys Prize - Lifetime achievement in Indian sports",
     "Infosys Prize - Award for brave children in India",
     "Infosys Prize - Indian award for social work and peace",
     "Infosys Prize - Indian award for research"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Infosys Prize - Indian award for research is correctly matched."
+   "answer": 3,
+   "explanation": "Only Infosys Prize - Indian award for research is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00149",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Infosys Prize - International award for Physics, Chemistry, Medicine, Literature, Peace and Economics",
     "Infosys Prize - Indian literary award",
     "Infosys Prize - Indian award for research",
     "Infosys Prize - Asian award for public service"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Infosys Prize - Indian award for research is correctly matched."
+   "answer": 2,
+   "explanation": "Only Infosys Prize - Indian award for research is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00150",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Arjuna Award - American award for journalism and letters",
     "Arjuna Award - Third highest civilian award of India",
     "Arjuna Award - Outstanding performance in Indian sports",
     "Arjuna Award - American award for music"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Arjuna Award - Outstanding performance in Indian sports is correctly matched."
+   "answer": 2,
+   "explanation": "Only Arjuna Award - Outstanding performance in Indian sports is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00151",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Arjuna Award - Outstanding performance in Indian sports",
     "Arjuna Award - Award for brave children in India",
     "Arjuna Award - Indian award for social work and peace",
     "Arjuna Award - Lifetime achievement in Indian sports"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Arjuna Award - Outstanding performance in Indian sports is correctly matched."
+   "answer": 0,
+   "explanation": "Only Arjuna Award - Outstanding performance in Indian sports is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00152",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Maha Vir Chakra - Coaching excellence in Indian sports",
     "Maha Vir Chakra - Indian award in science and technology",
     "Maha Vir Chakra - Highest military decoration of India",
     "Maha Vir Chakra - Second highest military decoration of India"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Maha Vir Chakra - Second highest military decoration of India is correctly matched."
+   "answer": 3,
+   "explanation": "Only Maha Vir Chakra - Second highest military decoration of India is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00153",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Maha Vir Chakra - Second highest military decoration of India",
     "Maha Vir Chakra - Third highest military decoration of India",
     "Maha Vir Chakra - Asian award for public service",
     "Maha Vir Chakra - Highest military decoration of India"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Maha Vir Chakra - Second highest military decoration of India is correctly matched."
+   "answer": 0,
+   "explanation": "Only Maha Vir Chakra - Second highest military decoration of India is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00154",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Sahitya Akademi Award - American award for music",
     "Sahitya Akademi Award - Outstanding performance in Indian sports",
     "Sahitya Akademi Award - Literary award for Indian languages",
     "Sahitya Akademi Award - American award for films"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Sahitya Akademi Award - Literary award for Indian languages is correctly matched."
+   "answer": 2,
+   "explanation": "Only Sahitya Akademi Award - Literary award for Indian languages is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00155",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Sahitya Akademi Award - Literary award for Indian languages",
     "Sahitya Akademi Award - Second highest civilian award of India",
     "Sahitya Akademi Award - British award for fiction",
     "Sahitya Akademi Award - Lifetime achievement in Indian sports"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Sahitya Akademi Award - Literary award for Indian languages is correctly matched."
+   "answer": 0,
+   "explanation": "Only Sahitya Akademi Award - Literary award for Indian languages is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00156",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Padma Bhushan - Coaching excellence in Indian sports",
     "Padma Bhushan - Third highest civilian award of India",
     "Padma Bhushan - Indian award for research",
     "Padma Bhushan - Lifetime achievement in Indian sports"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Padma Bhushan - Third highest civilian award of India is correctly matched."
+   "answer": 1,
+   "explanation": "Only Padma Bhushan - Third highest civilian award of India is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00157",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Padma Bhushan - Awards for Indian cinema",
     "Padma Bhushan - UNESCO award for popularisation of science",
     "Padma Bhushan - Highest military decoration of India",
     "Padma Bhushan - Third highest civilian award of India"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Padma Bhushan - Third highest civilian award of India is correctly matched."
+   "answer": 3,
+   "explanation": "Only Padma Bhushan - Third highest civilian award of India is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00158",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Pulitzer Prize - American award for journalism and letters",
     "Pulitzer Prize - Alternative Nobel Prize",
     "Pulitzer Prize - Indian award in science and technology",
     "Pulitzer Prize - Highest award in Indian cinema"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Pulitzer Prize - American award for journalism and letters is correctly matched."
+   "answer": 0,
+   "explanation": "Only Pulitzer Prize - American award for journalism and letters is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00159",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Pulitzer Prize - American award for journalism and letters",
     "Pulitzer Prize - Indian literary award",
     "Pulitzer Prize - Third highest civilian award of India",
     "Pulitzer Prize - Highest peacetime gallantry award of India"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Pulitzer Prize - American award for journalism and letters is correctly matched."
+   "answer": 0,
+   "explanation": "Only Pulitzer Prize - American award for journalism and letters is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00160",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Dada Saheb Phalke Award - Highest award in Indian cinema",
     "Dada Saheb Phalke Award - Highest sporting honour of India",
     "Dada Saheb Phalke Award - Alternative Nobel Prize",
     "Dada Saheb Phalke Award - Award for brave children in India"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Dada Saheb Phalke Award - Highest award in Indian cinema is correctly matched."
+   "answer": 0,
+   "explanation": "Only Dada Saheb Phalke Award - Highest award in Indian cinema is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00161",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Dada Saheb Phalke Award - Award for brave children in India",
     "Dada Saheb Phalke Award - Performing arts award of India",
     "Dada Saheb Phalke Award - Highest peacetime gallantry award of India",
     "Dada Saheb Phalke Award - Highest award in Indian cinema"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Dada Saheb Phalke Award - Highest award in Indian cinema is correctly matched."
+   "answer": 3,
+   "explanation": "Only Dada Saheb Phalke Award - Highest award in Indian cinema is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00162",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Dronacharya Award - Second highest civilian award of India",
     "Dronacharya Award - American award for journalism and letters",
     "Dronacharya Award - American award for music",
     "Dronacharya Award - Coaching excellence in Indian sports"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Dronacharya Award - Coaching excellence in Indian sports is correctly matched."
+   "answer": 3,
+   "explanation": "Only Dronacharya Award - Coaching excellence in Indian sports is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00163",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "Dronacharya Award - Indian award for social work and peace",
     "Dronacharya Award - American award for journalism and letters",
     "Dronacharya Award - Coaching excellence in Indian sports",
     "Dronacharya Award - British award for fiction"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Dronacharya Award - Coaching excellence in Indian sports is correctly matched."
+   "answer": 2,
+   "explanation": "Only Dronacharya Award - Coaching excellence in Indian sports is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00164",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "National Film Award - American award for music",
     "National Film Award - Second highest peacetime gallantry award of India",
     "National Film Award - Awards for Indian cinema",
     "National Film Award - International award for Physics, Chemistry, Medicine, Literature, Peace and Economics"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only National Film Award - Awards for Indian cinema is correctly matched."
+   "answer": 2,
+   "explanation": "Only National Film Award - Awards for Indian cinema is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00165",
-   "q": "Which of the following pairs of award and field is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is correctly matched?",
+   "options": [
     "National Film Award - Highest peacetime gallantry award of India",
     "National Film Award - Third highest civilian award of India",
     "National Film Award - Second highest peacetime gallantry award of India",
     "National Film Award - Awards for Indian cinema"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "Only National Film Award - Awards for Indian cinema is correctly matched."
+   "answer": 3,
+   "explanation": "Only National Film Award - Awards for Indian cinema is correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00166",
-   "q": "Which of the following pairs of award and field is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is NOT correctly matched?",
+   "options": [
     "Ramon Magsaysay Award - Asian award for public service",
     "Maha Vir Chakra - Performing arts award of India",
     "Sangeet Natak Akademi Award - Performing arts award of India",
     "Sahitya Akademi Award - Literary award for Indian languages"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Maha Vir Chakra - Performing arts award of India is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Maha Vir Chakra - Performing arts award of India is not correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00167",
-   "q": "Which of the following pairs of award and field is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is NOT correctly matched?",
+   "options": [
     "Bharat Ratna - Highest civilian award of India",
     "Vyas Samman - Indian literary award",
     "Borlaug Award - Third highest civilian award of India",
     "Booker Prize - British award for fiction"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Borlaug Award - Third highest civilian award of India is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Borlaug Award - Third highest civilian award of India is not correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00168",
-   "q": "Which of the following pairs of award and field is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is NOT correctly matched?",
+   "options": [
     "Dada Saheb Phalke Award - Second highest civilian award of India",
     "Gandhi Peace Prize - Indian award for social work and peace",
     "Kalinga Prize - UNESCO award for popularisation of science",
     "Grammy Award - American award for music"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Dada Saheb Phalke Award - Second highest civilian award of India is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Dada Saheb Phalke Award - Second highest civilian award of India is not correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00169",
-   "q": "Which of the following pairs of award and field is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is NOT correctly matched?",
+   "options": [
     "Dronacharya Award - Indian literary award",
     "Bharat Ratna - Highest civilian award of India",
     "Padma Shri - Fourth highest civilian award of India",
     "Booker Prize - British award for fiction"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Dronacharya Award - Indian literary award is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Dronacharya Award - Indian literary award is not correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00170",
-   "q": "Which of the following pairs of award and field is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is NOT correctly matched?",
+   "options": [
     "Sahitya Akademi Award - Literary award for Indian languages",
     "Kirti Chakra - Second highest peacetime gallantry award of India",
     "Sangeet Natak Akademi Award - Indian literary award",
     "Infosys Prize - Indian award for research"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Sangeet Natak Akademi Award - Indian literary award is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Sangeet Natak Akademi Award - Indian literary award is not correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00171",
-   "q": "Which of the following pairs of award and field is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is NOT correctly matched?",
+   "options": [
     "Padma Bhushan - Third highest civilian award of India",
     "Jnanpith Award - Indian literary award",
     "National Bravery Award - Award for brave children in India",
     "Gandhi Peace Prize - Indian award for social work and peace"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Jnanpith Award - Indian literary award is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Jnanpith Award - Indian literary award is not correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00172",
-   "q": "Which of the following pairs of award and field is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is NOT correctly matched?",
+   "options": [
     "Bharat Ratna - Highest civilian award of India",
     "Gandhi Peace Prize - Lifetime achievement in Indian sports",
     "Padma Shri - Fourth highest civilian award of India",
     "Shaurya Chakra - Third highest peacetime gallantry award of India"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Gandhi Peace Prize - Lifetime achievement in Indian sports is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Gandhi Peace Prize - Lifetime achievement in Indian sports is not correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00173",
-   "q": "Which of the following pairs of award and field is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is NOT correctly matched?",
+   "options": [
     "Shaurya Chakra - Indian literary award",
     "Academy Award (Oscar) - American award for films",
     "Templeton Prize - Award for progress in spiritual matters",
     "Padma Vibhushan - Second highest civilian award of India"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Shaurya Chakra - Indian literary award is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Shaurya Chakra - Indian literary award is not correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00174",
-   "q": "Which of the following pairs of award and field is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is NOT correctly matched?",
+   "options": [
     "Booker Prize - Indian award for research",
     "Sangeet Natak Akademi Award - Performing arts award of India",
     "Padma Shri - Fourth highest civilian award of India",
     "Vir Chakra - Third highest military decoration of India"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Booker Prize - Indian award for research is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Booker Prize - Indian award for research is not correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00175",
-   "q": "Which of the following pairs of award and field is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is NOT correctly matched?",
+   "options": [
     "Maha Vir Chakra - Second highest military decoration of India",
     "Sangeet Natak Akademi Award - Performing arts award of India",
     "Shaurya Chakra - Third highest peacetime gallantry award of India",
     "Param Vir Chakra - American award for films"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Param Vir Chakra - American award for films is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Param Vir Chakra - American award for films is not correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00176",
-   "q": "Which of the following pairs of award and field is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is NOT correctly matched?",
+   "options": [
     "Kirti Chakra - Second highest peacetime gallantry award of India",
     "Vir Chakra - Indian literary award",
     "National Film Award - Awards for Indian cinema",
     "National Bravery Award - Award for brave children in India"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Vir Chakra - Indian literary award is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Vir Chakra - Indian literary award is not correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00177",
-   "q": "Which of the following pairs of award and field is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is NOT correctly matched?",
+   "options": [
     "Vyas Samman - Indian literary award",
     "Templeton Prize - Award for progress in spiritual matters",
     "Nobel Prize - Highest award in Indian cinema",
     "Dhyan Chand Award - Lifetime achievement in Indian sports"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Nobel Prize - Highest award in Indian cinema is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Nobel Prize - Highest award in Indian cinema is not correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00178",
-   "q": "Which of the following pairs of award and field is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is NOT correctly matched?",
+   "options": [
     "Sangeet Natak Akademi Award - Performing arts award of India",
     "Indira Gandhi Prize - Alternative Nobel Prize",
     "Maha Vir Chakra - Second highest military decoration of India",
     "Shanti Swarup Bhatnagar Prize - Indian award in science and technology"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Indira Gandhi Prize - Alternative Nobel Prize is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Indira Gandhi Prize - Alternative Nobel Prize is not correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00179",
-   "q": "Which of the following pairs of award and field is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is NOT correctly matched?",
+   "options": [
     "Sangeet Natak Akademi Award - Performing arts award of India",
     "Padma Vibhushan - Highest award in Indian cinema",
     "Nobel Prize - International award for Physics, Chemistry, Medicine, Literature, Peace and Economics",
     "Padma Bhushan - Third highest civilian award of India"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Padma Vibhushan - Highest award in Indian cinema is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Padma Vibhushan - Highest award in Indian cinema is not correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00180",
-   "q": "Which of the following pairs of award and field is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is NOT correctly matched?",
+   "options": [
     "Param Vir Chakra - Highest military decoration of India",
     "Ramon Magsaysay Award - Second highest military decoration of India",
     "Padma Bhushan - Third highest civilian award of India",
     "Shanti Swarup Bhatnagar Prize - Indian award in science and technology"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Ramon Magsaysay Award - Second highest military decoration of India is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Ramon Magsaysay Award - Second highest military decoration of India is not correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00181",
-   "q": "Which of the following pairs of award and field is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is NOT correctly matched?",
+   "options": [
     "Sahitya Akademi Award - Literary award for Indian languages",
     "Booker Prize - British award for fiction",
     "Pulitzer Prize - American award for journalism and letters",
     "Templeton Prize - Alternative Nobel Prize"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Templeton Prize - Alternative Nobel Prize is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Templeton Prize - Alternative Nobel Prize is not correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00182",
-   "q": "Which of the following pairs of award and field is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is NOT correctly matched?",
+   "options": [
     "Jnanpith Award - Highest literary award of India",
     "Shaurya Chakra - Third highest peacetime gallantry award of India",
     "Pulitzer Prize - Second highest peacetime gallantry award of India",
     "Arjuna Award - Outstanding performance in Indian sports"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Pulitzer Prize - Second highest peacetime gallantry award of India is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Pulitzer Prize - Second highest peacetime gallantry award of India is not correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00183",
-   "q": "Which of the following pairs of award and field is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is NOT correctly matched?",
+   "options": [
     "Vir Chakra - Third highest military decoration of India",
     "Padma Shri - Fourth highest civilian award of India",
     "Bharat Ratna - Awards for Indian cinema",
     "Dronacharya Award - Coaching excellence in Indian sports"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Bharat Ratna - Awards for Indian cinema is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Bharat Ratna - Awards for Indian cinema is not correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00184",
-   "q": "Which of the following pairs of award and field is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is NOT correctly matched?",
+   "options": [
     "Infosys Prize - Indian award for research",
     "Sangeet Natak Akademi Award - Performing arts award of India",
     "Kirti Chakra - American award for journalism and letters",
     "Maha Vir Chakra - Second highest military decoration of India"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Kirti Chakra - American award for journalism and letters is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Kirti Chakra - American award for journalism and letters is not correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00185",
-   "q": "Which of the following pairs of award and field is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is NOT correctly matched?",
+   "options": [
     "Padma Vibhushan - Second highest civilian award of India",
     "Grammy Award - Performing arts award of India",
     "Nobel Prize - International award for Physics, Chemistry, Medicine, Literature, Peace and Economics",
     "Kalinga Prize - UNESCO award for popularisation of science"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Grammy Award - Performing arts award of India is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Grammy Award - Performing arts award of India is not correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00186",
-   "q": "Which of the following pairs of award and field is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is NOT correctly matched?",
+   "options": [
     "Saraswati Samman - Indian literary award",
     "Kalinga Prize - UNESCO award for popularisation of science",
     "National Film Award - Awards for Indian cinema",
     "Vyas Samman - Second highest peacetime gallantry award of India"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Vyas Samman - Second highest peacetime gallantry award of India is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Vyas Samman - Second highest peacetime gallantry award of India is not correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00187",
-   "q": "Which of the following pairs of award and field is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is NOT correctly matched?",
+   "options": [
     "Borlaug Award - Indian award in agricultural science",
     "Gandhi Peace Prize - Indian award for social work and peace",
     "Infosys Prize - Indian award for research",
     "Major Dhyan Chand Khel Ratna Award - Literary award for Indian languages"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Major Dhyan Chand Khel Ratna Award - Literary award for Indian languages is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Major Dhyan Chand Khel Ratna Award - Literary award for Indian languages is not correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00188",
-   "q": "Which of the following pairs of award and field is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is NOT correctly matched?",
+   "options": [
     "Borlaug Award - Indian award in agricultural science",
     "Infosys Prize - American award for music",
     "Vyas Samman - Indian literary award",
     "Kalinga Prize - UNESCO award for popularisation of science"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Infosys Prize - American award for music is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Infosys Prize - American award for music is not correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00189",
-   "q": "Which of the following pairs of award and field is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is NOT correctly matched?",
+   "options": [
     "Grammy Award - American award for music",
     "Gandhi Peace Prize - Indian award for social work and peace",
     "Shanti Swarup Bhatnagar Prize - Third highest peacetime gallantry award of India",
     "Padma Shri - Fourth highest civilian award of India"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Shanti Swarup Bhatnagar Prize - Third highest peacetime gallantry award of India is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Shanti Swarup Bhatnagar Prize - Third highest peacetime gallantry award of India is not correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00190",
-   "q": "Which of the following pairs of award and field is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is NOT correctly matched?",
+   "options": [
     "Nobel Prize - International award for Physics, Chemistry, Medicine, Literature, Peace and Economics",
     "Right Livelihood Award - Indian award for peace, disarmament and development",
     "Sangeet Natak Akademi Award - Performing arts award of India",
     "Major Dhyan Chand Khel Ratna Award - Highest sporting honour of India"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Right Livelihood Award - Indian award for peace, disarmament and development is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Right Livelihood Award - Indian award for peace, disarmament and development is not correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00191",
-   "q": "Which of the following pairs of award and field is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is NOT correctly matched?",
+   "options": [
     "Shanti Swarup Bhatnagar Prize - Indian award in science and technology",
     "Saraswati Samman - Coaching excellence in Indian sports",
     "Infosys Prize - Indian award for research",
     "Pulitzer Prize - American award for journalism and letters"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Saraswati Samman - Coaching excellence in Indian sports is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Saraswati Samman - Coaching excellence in Indian sports is not correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00192",
-   "q": "Which of the following pairs of award and field is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is NOT correctly matched?",
+   "options": [
     "Dhyan Chand Award - Indian literary award",
     "Grammy Award - American award for music",
     "Vir Chakra - Third highest military decoration of India",
     "Right Livelihood Award - Alternative Nobel Prize"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Dhyan Chand Award - Indian literary award is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Dhyan Chand Award - Indian literary award is not correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00193",
-   "q": "Which of the following pairs of award and field is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is NOT correctly matched?",
+   "options": [
     "Vir Chakra - Third highest military decoration of India",
     "Kalinga Prize - Third highest civilian award of India",
     "Shanti Swarup Bhatnagar Prize - Indian award in science and technology",
     "Dhyan Chand Award - Lifetime achievement in Indian sports"
    ],
-   "a": 1,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Kalinga Prize - Third highest civilian award of India is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Kalinga Prize - Third highest civilian award of India is not correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00194",
-   "q": "Which of the following pairs of award and field is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is NOT correctly matched?",
+   "options": [
     "National Film Award - Awards for Indian cinema",
     "Grammy Award - American award for music",
     "Kalinga Prize - UNESCO award for popularisation of science",
     "Padma Shri - Indian award for social work and peace"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Padma Shri - Indian award for social work and peace is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Padma Shri - Indian award for social work and peace is not correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00195",
-   "q": "Which of the following pairs of award and field is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is NOT correctly matched?",
+   "options": [
     "Grammy Award - American award for music",
     "Sangeet Natak Akademi Award - Performing arts award of India",
     "Padma Shri - Fourth highest civilian award of India",
     "Padma Bhushan - Award for progress in spiritual matters"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Padma Bhushan - Award for progress in spiritual matters is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Padma Bhushan - Award for progress in spiritual matters is not correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00196",
-   "q": "Which of the following pairs of award and field is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is NOT correctly matched?",
+   "options": [
     "Templeton Prize - Award for progress in spiritual matters",
     "National Bravery Award - Award for brave children in India",
     "Shanti Swarup Bhatnagar Prize - Indian award in science and technology",
     "National Film Award - American award for music"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair National Film Award - American award for music is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair National Film Award - American award for music is not correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00197",
-   "q": "Which of the following pairs of award and field is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is NOT correctly matched?",
+   "options": [
     "National Film Award - Awards for Indian cinema",
     "National Bravery Award - Award for brave children in India",
     "Bharat Ratna - Highest civilian award of India",
     "Academy Award (Oscar) - International award for Physics, Chemistry, Medicine, Literature, Peace and Economics"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Academy Award (Oscar) - International award for Physics, Chemistry, Medicine, Literature, Peace and Economics is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Academy Award (Oscar) - International award for Physics, Chemistry, Medicine, Literature, Peace and Economics is not correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00198",
-   "q": "Which of the following pairs of award and field is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is NOT correctly matched?",
+   "options": [
     "Arjuna Award - Asian award for public service",
     "Vyas Samman - Indian literary award",
     "Padma Bhushan - Third highest civilian award of India",
     "Padma Shri - Fourth highest civilian award of India"
    ],
-   "a": 0,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Arjuna Award - Asian award for public service is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Arjuna Award - Asian award for public service is not correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00199",
-   "q": "Which of the following pairs of award and field is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is NOT correctly matched?",
+   "options": [
     "Templeton Prize - Award for progress in spiritual matters",
     "Right Livelihood Award - Alternative Nobel Prize",
     "Param Vir Chakra - Highest military decoration of India",
     "Sahitya Akademi Award - Indian award for research"
    ],
-   "a": 3,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Sahitya Akademi Award - Indian award for research is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Sahitya Akademi Award - Indian award for research is not correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00200",
-   "q": "Which of the following pairs of award and field is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is NOT correctly matched?",
+   "options": [
     "Gandhi Peace Prize - Indian award for social work and peace",
     "Dada Saheb Phalke Award - Highest award in Indian cinema",
     "Ashoka Chakra - Highest civilian award of India",
     "Major Dhyan Chand Khel Ratna Award - Highest sporting honour of India"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Ashoka Chakra - Highest civilian award of India is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Ashoka Chakra - Highest civilian award of India is not correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "awards-honours-00201",
-   "q": "Which of the following pairs of award and field is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of award and field is NOT correctly matched?",
+   "options": [
     "Infosys Prize - Indian award for research",
     "Shanti Swarup Bhatnagar Prize - Indian award in science and technology",
     "National Bravery Award - American award for films",
     "Sahitya Akademi Award - Literary award for Indian languages"
    ],
-   "a": 2,
-   "t": "Awards and Honours",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair National Bravery Award - American award for films is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair National Bravery Award - American award for films is not correctly matched.",
+   "topic": "Awards and Honours",
+   "level": 3,
+   "source": "generated"
   }
  ]
 };

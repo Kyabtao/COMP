@@ -15,4203 +15,4203 @@
  "questions": [
   {
    "id": "computer-awareness-00001",
-   "q": "What does CPU stand for?",
-   "o": [
+   "question": "What does CPU stand for?",
+   "options": [
     "Central Processing Unit",
     "Computer Personal Unit",
     "Central Program Unit",
     "Control Processing Unit"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "CPU stands for Central Processing Unit."
+   "answer": 0,
+   "explanation": "CPU stands for Central Processing Unit.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "computer-awareness-00002",
-   "q": "Which of these is a volatile memory?",
-   "o": [
+   "question": "Which of these is a volatile memory?",
+   "options": [
     "ROM",
     "RAM",
     "Hard disk",
     "Pen drive"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "RAM loses its contents when power is switched off, so it is volatile."
+   "answer": 1,
+   "explanation": "RAM loses its contents when power is switched off, so it is volatile.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "computer-awareness-00003",
-   "q": "What is the full form of ROM?",
-   "o": [
+   "question": "What is the full form of ROM?",
+   "options": [
     "Read Only Memory",
     "Random Only Memory",
     "Read Out Memory",
     "Rapid Output Memory"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "ROM stands for Read Only Memory."
+   "answer": 0,
+   "explanation": "ROM stands for Read Only Memory.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "computer-awareness-00004",
-   "q": "Which unit of memory is the largest?",
-   "o": [
+   "question": "Which unit of memory is the largest?",
+   "options": [
     "Megabyte",
     "Gigabyte",
     "Terabyte",
     "Kilobyte"
    ],
-   "a": 2,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "A terabyte is about a thousand gigabytes, making it the largest here."
+   "answer": 2,
+   "explanation": "A terabyte is about a thousand gigabytes, making it the largest here.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "computer-awareness-00005",
-   "q": "Who is known as the father of the computer?",
-   "o": [
+   "question": "Who is known as the father of the computer?",
+   "options": [
     "Charles Babbage",
     "Alan Turing",
     "Bill Gates",
     "John von Neumann"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Charles Babbage designed the Analytical Engine and is called the father of the computer."
+   "answer": 0,
+   "explanation": "Charles Babbage designed the Analytical Engine and is called the father of the computer.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "computer-awareness-00006",
-   "q": "Which company developed the Windows operating system?",
-   "o": [
+   "question": "Which company developed the Windows operating system?",
+   "options": [
     "Apple",
     "Microsoft",
     "IBM",
     "Google"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Windows is developed by Microsoft."
+   "answer": 1,
+   "explanation": "Windows is developed by Microsoft.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "computer-awareness-00007",
-   "q": "What does WWW stand for?",
-   "o": [
+   "question": "What does WWW stand for?",
+   "options": [
     "World Wide Web",
     "Wide World Web",
     "Web World Wide",
     "World Web Wide"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "WWW stands for World Wide Web."
+   "answer": 0,
+   "explanation": "WWW stands for World Wide Web.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "computer-awareness-00008",
-   "q": "Which device is used to connect a computer to a telephone line for internet access?",
-   "o": [
+   "question": "Which device is used to connect a computer to a telephone line for internet access?",
+   "options": [
     "Modem",
     "Printer",
     "Scanner",
     "Plotter"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "A modem modulates and demodulates signals for data transmission."
+   "answer": 0,
+   "explanation": "A modem modulates and demodulates signals for data transmission.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "computer-awareness-00009",
-   "q": "What is the shortcut key to copy selected text in Windows?",
-   "o": [
+   "question": "What is the shortcut key to copy selected text in Windows?",
+   "options": [
     "Ctrl + V",
     "Ctrl + C",
     "Ctrl + X",
     "Ctrl + P"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Ctrl + C copies the selection to the clipboard."
+   "answer": 1,
+   "explanation": "Ctrl + C copies the selection to the clipboard.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "computer-awareness-00010",
-   "q": "What is the shortcut key to paste copied content?",
-   "o": [
+   "question": "What is the shortcut key to paste copied content?",
+   "options": [
     "Ctrl + P",
     "Ctrl + V",
     "Ctrl + Z",
     "Ctrl + Y"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Ctrl + V pastes the clipboard contents."
+   "answer": 1,
+   "explanation": "Ctrl + V pastes the clipboard contents.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "computer-awareness-00011",
-   "q": "Which file extension is used for a Microsoft Word document?",
-   "o": [
+   "question": "Which file extension is used for a Microsoft Word document?",
+   "options": [
     ".xlsx",
     ".docx",
     ".pptx",
     ".mdb"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Word documents use the .docx extension."
+   "answer": 1,
+   "explanation": "Word documents use the .docx extension.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "computer-awareness-00012",
-   "q": "Which file extension is used for a Microsoft Excel workbook?",
-   "o": [
+   "question": "Which file extension is used for a Microsoft Excel workbook?",
+   "options": [
     ".docx",
     ".xlsx",
     ".txt",
     ".jpg"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Excel workbooks use the .xlsx extension."
+   "answer": 1,
+   "explanation": "Excel workbooks use the .xlsx extension.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "computer-awareness-00013",
-   "q": "What does HTML stand for?",
-   "o": [
+   "question": "What does HTML stand for?",
+   "options": [
     "Hyper Text Markup Language",
     "High Text Machine Language",
     "Hyper Tabular Markup Language",
     "Home Tool Markup Language"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "HTML stands for Hyper Text Markup Language."
+   "answer": 0,
+   "explanation": "HTML stands for Hyper Text Markup Language.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "computer-awareness-00014",
-   "q": "Which of these is an operating system?",
-   "o": [
+   "question": "Which of these is an operating system?",
+   "options": [
     "Linux",
     "Oracle",
     "Photoshop",
     "Chrome"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Linux is an operating system, the others are applications or services."
+   "answer": 0,
+   "explanation": "Linux is an operating system, the others are applications or services.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "computer-awareness-00015",
-   "q": "Which generation of computers used integrated circuits?",
-   "o": [
+   "question": "Which generation of computers used integrated circuits?",
+   "options": [
     "First",
     "Second",
     "Third",
     "Fourth"
    ],
-   "a": 2,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Integrated circuits were the defining technology of third generation computers."
+   "answer": 2,
+   "explanation": "Integrated circuits were the defining technology of third generation computers.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "computer-awareness-00016",
-   "q": "Which generation of computers used microprocessors?",
-   "o": [
+   "question": "Which generation of computers used microprocessors?",
+   "options": [
     "Second",
     "Third",
     "Fourth",
     "Fifth"
    ],
-   "a": 2,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Microprocessors introduced in the fourth generation made personal computers possible."
+   "answer": 2,
+   "explanation": "Microprocessors introduced in the fourth generation made personal computers possible.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "computer-awareness-00017",
-   "q": "What is the brain of the computer called?",
-   "o": [
+   "question": "What is the brain of the computer called?",
+   "options": [
     "RAM",
     "CPU",
     "Monitor",
     "Keyboard"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "The CPU processes instructions and is called the brain of the computer."
+   "answer": 1,
+   "explanation": "The CPU processes instructions and is called the brain of the computer.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "computer-awareness-00018",
-   "q": "Which of these is system software?",
-   "o": [
+   "question": "Which of these is system software?",
+   "options": [
     "MS Word",
     "Windows",
     "Tally",
     "Photoshop"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Windows is system software that manages hardware and applications."
+   "answer": 1,
+   "explanation": "Windows is system software that manages hardware and applications.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "computer-awareness-00019",
-   "q": "What does LAN stand for?",
-   "o": [
+   "question": "What does LAN stand for?",
+   "options": [
     "Local Area Network",
     "Large Area Network",
     "Long Area Network",
     "Linked Area Network"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "LAN stands for Local Area Network."
+   "answer": 0,
+   "explanation": "LAN stands for Local Area Network.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "computer-awareness-00020",
-   "q": "Which protocol is used to transfer web pages?",
-   "o": [
+   "question": "Which protocol is used to transfer web pages?",
+   "options": [
     "FTP",
     "HTTP",
     "SMTP",
     "SNMP"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "HTTP, the Hyper Text Transfer Protocol, is used for the web."
+   "answer": 1,
+   "explanation": "HTTP, the Hyper Text Transfer Protocol, is used for the web.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "computer-awareness-00021",
-   "q": "What is the full form of URL?",
-   "o": [
+   "question": "What is the full form of URL?",
+   "options": [
     "Uniform Resource Locator",
     "Universal Resource Link",
     "Uniform Reference Locator",
     "United Resource Locator"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "URL stands for Uniform Resource Locator."
+   "answer": 0,
+   "explanation": "URL stands for Uniform Resource Locator.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "computer-awareness-00022",
-   "q": "In which generation of computers were vacuum tubes used?",
-   "o": [
+   "question": "In which generation of computers were vacuum tubes used?",
+   "options": [
     "First",
     "Second",
     "Third",
     "Fourth"
    ],
-   "a": 0,
-   "t": "Curated",
-   "l": 2,
-   "s": "curated",
-   "e": "Vacuum tubes were used in first generation computers."
+   "answer": 0,
+   "explanation": "Vacuum tubes were used in first generation computers.",
+   "topic": "Curated",
+   "level": 2,
+   "source": "curated"
   },
   {
    "id": "computer-awareness-00023",
-   "q": "Which of these is a cyber security threat?",
-   "o": [
+   "question": "Which of these is a cyber security threat?",
+   "options": [
     "Firewall",
     "Malware",
     "Antivirus",
     "Encryption"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "Malware is malicious software designed to damage or gain access to systems."
+   "answer": 1,
+   "explanation": "Malware is malicious software designed to damage or gain access to systems.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "computer-awareness-00024",
-   "q": "What does AI stand for in computing?",
-   "o": [
+   "question": "What does AI stand for in computing?",
+   "options": [
     "Automatic Input",
     "Artificial Intelligence",
     "Advanced Interface",
     "Applied Integration"
    ],
-   "a": 1,
-   "t": "Curated",
-   "l": 1,
-   "s": "curated",
-   "e": "AI stands for Artificial Intelligence."
+   "answer": 1,
+   "explanation": "AI stands for Artificial Intelligence.",
+   "topic": "Curated",
+   "level": 1,
+   "source": "curated"
   },
   {
    "id": "computer-awareness-00025",
-   "q": "Boot is best described as which of the following?",
-   "o": [
+   "question": "Boot is best described as which of the following?",
+   "options": [
     "Disk space used as an extension of RAM",
     "Process of starting a computer",
     "Number system with base two",
     "Language used to query databases"
    ],
-   "a": 1,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Boot — Process of starting a computer."
+   "answer": 1,
+   "explanation": "Boot — Process of starting a computer.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00026",
-   "q": "What is the purpose of the shortcut Ctrl + Shift + Esc?",
-   "o": [
+   "question": "What is the purpose of the shortcut Ctrl + Shift + Esc?",
+   "options": [
     "Refresh the current window",
     "Open an existing file",
     "Open Task Manager",
     "Rename the selected item"
    ],
-   "a": 2,
-   "t": "Computer Shortcuts",
-   "l": 2,
-   "s": "generated",
-   "e": "Ctrl + Shift + Esc is used to Open Task Manager."
+   "answer": 2,
+   "explanation": "Ctrl + Shift + Esc is used to Open Task Manager.",
+   "topic": "Computer Shortcuts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00027",
-   "q": "Which type of file uses the .gif extension?",
-   "o": [
+   "question": "Which type of file uses the .gif extension?",
+   "options": [
     "Data interchange file",
     "JavaScript file",
     "Animated image file",
     "Compressed image file"
    ],
-   "a": 2,
-   "t": "File Extensions",
-   "l": 2,
-   "s": "generated",
-   "e": ".gif is a Animated image file."
+   "answer": 2,
+   "explanation": ".gif is a Animated image file.",
+   "topic": "File Extensions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00028",
-   "q": "Which technology was the main feature of the Fifth generation of computers?",
-   "o": [
+   "question": "Which technology was the main feature of the Fifth generation of computers?",
+   "options": [
     "Vacuum tubes",
     "Transistors",
     "Integrated circuits",
     "Artificial intelligence"
    ],
-   "a": 3,
-   "t": "Computer Generations",
-   "l": 2,
-   "s": "generated",
-   "e": "The Fifth generation used Artificial intelligence."
+   "answer": 3,
+   "explanation": "The Fifth generation used Artificial intelligence.",
+   "topic": "Computer Generations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00029",
-   "q": "GUI is best described as which of the following?",
-   "o": [
+   "question": "GUI is best described as which of the following?",
+   "options": [
     "Copy of data kept for recovery",
     "Interface that uses icons and windows",
     "Volatile main memory used for running programs",
     "Pointing input device"
    ],
-   "a": 1,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "GUI — Interface that uses icons and windows."
+   "answer": 1,
+   "explanation": "GUI — Interface that uses icons and windows.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00030",
-   "q": "What is the purpose of the shortcut Ctrl + Alt + Del?",
-   "o": [
+   "question": "What is the purpose of the shortcut Ctrl + Alt + Del?",
+   "options": [
     "Send the selected item to the Recycle Bin",
     "Delete the previous word",
     "Copy the selected item",
     "Open the security options screen"
    ],
-   "a": 3,
-   "t": "Computer Shortcuts",
-   "l": 2,
-   "s": "generated",
-   "e": "Ctrl + Alt + Del is used to Open the security options screen."
+   "answer": 3,
+   "explanation": "Ctrl + Alt + Del is used to Open the security options screen.",
+   "topic": "Computer Shortcuts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00031",
-   "q": "Which type of file uses the .mp4 extension?",
-   "o": [
+   "question": "Which type of file uses the .mp4 extension?",
+   "options": [
     "Video file",
     "Compressed archive file",
     "Microsoft Word document",
     "Compressed image file"
    ],
-   "a": 0,
-   "t": "File Extensions",
-   "l": 2,
-   "s": "generated",
-   "e": ".mp4 is a Video file."
+   "answer": 0,
+   "explanation": ".mp4 is a Video file.",
+   "topic": "File Extensions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00032",
-   "q": "Which technology was the main feature of the Fourth generation of computers?",
-   "o": [
+   "question": "Which technology was the main feature of the Fourth generation of computers?",
+   "options": [
     "Microprocessors",
     "Integrated circuits",
     "Artificial intelligence",
     "Transistors"
    ],
-   "a": 0,
-   "t": "Computer Generations",
-   "l": 2,
-   "s": "generated",
-   "e": "The Fourth generation used Microprocessors."
+   "answer": 0,
+   "explanation": "The Fourth generation used Microprocessors.",
+   "topic": "Computer Generations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00033",
-   "q": "Compiler is best described as which of the following?",
-   "o": [
+   "question": "Compiler is best described as which of the following?",
+   "options": [
     "Program that converts source code into machine code",
     "Software that manages databases",
     "Main circuit board of a computer",
     "Wireless local area networking technology"
    ],
-   "a": 0,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Compiler — Program that converts source code into machine code."
+   "answer": 0,
+   "explanation": "Compiler — Program that converts source code into machine code.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00034",
-   "q": "What is the purpose of the shortcut Shift + Delete?",
-   "o": [
+   "question": "What is the purpose of the shortcut Shift + Delete?",
+   "options": [
     "Lock the computer",
     "Save the current file",
     "Delete an item permanently",
     "Open an existing file"
    ],
-   "a": 2,
-   "t": "Computer Shortcuts",
-   "l": 2,
-   "s": "generated",
-   "e": "Shift + Delete is used to Delete an item permanently."
+   "answer": 2,
+   "explanation": "Shift + Delete is used to Delete an item permanently.",
+   "topic": "Computer Shortcuts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00035",
-   "q": "Which type of file uses the .html extension?",
-   "o": [
+   "question": "Which type of file uses the .html extension?",
+   "options": [
     "Python source file",
     "Compressed image file",
     "Web page file",
     "Data interchange file"
    ],
-   "a": 2,
-   "t": "File Extensions",
-   "l": 2,
-   "s": "generated",
-   "e": ".html is a Web page file."
+   "answer": 2,
+   "explanation": ".html is a Web page file.",
+   "topic": "File Extensions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00036",
-   "q": "Which technology was the main feature of the First generation of computers?",
-   "o": [
+   "question": "Which technology was the main feature of the First generation of computers?",
+   "options": [
     "Artificial intelligence",
     "Microprocessors",
     "Transistors",
     "Vacuum tubes"
    ],
-   "a": 3,
-   "t": "Computer Generations",
-   "l": 2,
-   "s": "generated",
-   "e": "The First generation used Vacuum tubes."
+   "answer": 3,
+   "explanation": "The First generation used Vacuum tubes.",
+   "topic": "Computer Generations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00037",
-   "q": "Worm is best described as which of the following?",
-   "o": [
+   "question": "Worm is best described as which of the following?",
+   "options": [
     "Program that converts source code into machine code",
     "Restarting a computer",
     "Malicious program that spreads on its own",
     "Diagram of the steps of an algorithm"
    ],
-   "a": 2,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Worm — Malicious program that spreads on its own."
+   "answer": 2,
+   "explanation": "Worm — Malicious program that spreads on its own.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00038",
-   "q": "What is the purpose of the shortcut Ctrl + C?",
-   "o": [
+   "question": "What is the purpose of the shortcut Ctrl + C?",
+   "options": [
     "Send the selected item to the Recycle Bin",
     "Switch between open windows",
     "Copy the selected item",
     "Open Task Manager"
    ],
-   "a": 2,
-   "t": "Computer Shortcuts",
-   "l": 2,
-   "s": "generated",
-   "e": "Ctrl + C is used to Copy the selected item."
+   "answer": 2,
+   "explanation": "Ctrl + C is used to Copy the selected item.",
+   "topic": "Computer Shortcuts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00039",
-   "q": "Which type of file uses the .pptx extension?",
-   "o": [
+   "question": "Which type of file uses the .pptx extension?",
+   "options": [
     "Microsoft PowerPoint presentation",
     "Data interchange file",
     "Microsoft Word document",
     "Scalable vector graphics file"
    ],
-   "a": 0,
-   "t": "File Extensions",
-   "l": 2,
-   "s": "generated",
-   "e": ".pptx is a Microsoft PowerPoint presentation."
+   "answer": 0,
+   "explanation": ".pptx is a Microsoft PowerPoint presentation.",
+   "topic": "File Extensions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00040",
-   "q": "Which technology was the main feature of the Second generation of computers?",
-   "o": [
+   "question": "Which technology was the main feature of the Second generation of computers?",
+   "options": [
     "Integrated circuits",
     "Artificial intelligence",
     "Microprocessors",
     "Transistors"
    ],
-   "a": 3,
-   "t": "Computer Generations",
-   "l": 2,
-   "s": "generated",
-   "e": "The Second generation used Transistors."
+   "answer": 3,
+   "explanation": "The Second generation used Transistors.",
+   "topic": "Computer Generations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00041",
-   "q": "Router is best described as which of the following?",
-   "o": [
+   "question": "Router is best described as which of the following?",
+   "options": [
     "Network covering a wide area",
     "Running a processor above its rated speed",
     "Device that forwards data between networks",
     "Tool that finds information on the web"
    ],
-   "a": 2,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Router — Device that forwards data between networks."
+   "answer": 2,
+   "explanation": "Router — Device that forwards data between networks.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00042",
-   "q": "What is the purpose of the shortcut Delete?",
-   "o": [
+   "question": "What is the purpose of the shortcut Delete?",
+   "options": [
     "Print the current document",
     "Open an existing file",
     "Cut the selected item",
     "Send the selected item to the Recycle Bin"
    ],
-   "a": 3,
-   "t": "Computer Shortcuts",
-   "l": 2,
-   "s": "generated",
-   "e": "Delete is used to Send the selected item to the Recycle Bin."
+   "answer": 3,
+   "explanation": "Delete is used to Send the selected item to the Recycle Bin.",
+   "topic": "Computer Shortcuts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00043",
-   "q": "Which type of file uses the .jpg extension?",
-   "o": [
+   "question": "Which type of file uses the .jpg extension?",
+   "options": [
     "Cascading style sheet file",
     "Compressed image file",
     "Scalable vector graphics file",
     "Audio file"
    ],
-   "a": 1,
-   "t": "File Extensions",
-   "l": 2,
-   "s": "generated",
-   "e": ".jpg is a Compressed image file."
+   "answer": 1,
+   "explanation": ".jpg is a Compressed image file.",
+   "topic": "File Extensions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00044",
-   "q": "Which technology was the main feature of the Third generation of computers?",
-   "o": [
+   "question": "Which technology was the main feature of the Third generation of computers?",
+   "options": [
     "Transistors",
     "Integrated circuits",
     "Vacuum tubes",
     "Artificial intelligence"
    ],
-   "a": 1,
-   "t": "Computer Generations",
-   "l": 2,
-   "s": "generated",
-   "e": "The Third generation used Integrated circuits."
+   "answer": 1,
+   "explanation": "The Third generation used Integrated circuits.",
+   "topic": "Computer Generations",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00045",
-   "q": "Cache hit is best described as which of the following?",
-   "o": [
+   "question": "Cache hit is best described as which of the following?",
+   "options": [
     "Data storage on remote internet servers",
     "Amount of data a connection can carry",
     "Program that maintains and optimises the system",
     "When data requested is found in cache memory"
    ],
-   "a": 3,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Cache hit — When data requested is found in cache memory."
+   "answer": 3,
+   "explanation": "Cache hit — When data requested is found in cache memory.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00046",
-   "q": "What is the purpose of the shortcut Ctrl + P?",
-   "o": [
+   "question": "What is the purpose of the shortcut Ctrl + P?",
+   "options": [
     "Open the security options screen",
     "Find text in a document",
     "Paste the clipboard content",
     "Print the current document"
    ],
-   "a": 3,
-   "t": "Computer Shortcuts",
-   "l": 2,
-   "s": "generated",
-   "e": "Ctrl + P is used to Print the current document."
+   "answer": 3,
+   "explanation": "Ctrl + P is used to Print the current document.",
+   "topic": "Computer Shortcuts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00047",
-   "q": "Which type of file uses the .py extension?",
-   "o": [
+   "question": "Which type of file uses the .py extension?",
+   "options": [
     "Python source file",
     "Java source file",
     "Executable program file",
     "Plain text file"
    ],
-   "a": 0,
-   "t": "File Extensions",
-   "l": 2,
-   "s": "generated",
-   "e": ".py is a Python source file."
+   "answer": 0,
+   "explanation": ".py is a Python source file.",
+   "topic": "File Extensions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00048",
-   "q": "Which generation of computers used Microprocessors?",
-   "o": [
+   "question": "Which generation of computers used Microprocessors?",
+   "options": [
     "Fourth generation",
     "Second generation",
     "First generation",
     "Fifth generation"
    ],
-   "a": 0,
-   "t": "Computer Generations",
-   "l": 3,
-   "s": "generated",
-   "e": "Microprocessors were used in the Fourth generation."
+   "answer": 0,
+   "explanation": "Microprocessors were used in the Fourth generation.",
+   "topic": "Computer Generations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00049",
-   "q": "Microphone is best described as which of the following?",
-   "o": [
+   "question": "Microphone is best described as which of the following?",
+   "options": [
     "Human readable name of a website",
     "Input device that captures sound",
     "Step by step method to solve a problem",
     "Procedural programming language"
    ],
-   "a": 1,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Microphone — Input device that captures sound."
+   "answer": 1,
+   "explanation": "Microphone — Input device that captures sound.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00050",
-   "q": "What is the purpose of the shortcut Alt + Tab?",
-   "o": [
+   "question": "What is the purpose of the shortcut Alt + Tab?",
+   "options": [
     "Copy the selected item",
     "Save the current file",
     "Switch between open windows",
     "Print the current document"
    ],
-   "a": 2,
-   "t": "Computer Shortcuts",
-   "l": 2,
-   "s": "generated",
-   "e": "Alt + Tab is used to Switch between open windows."
+   "answer": 2,
+   "explanation": "Alt + Tab is used to Switch between open windows.",
+   "topic": "Computer Shortcuts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00051",
-   "q": "Which type of file uses the .css extension?",
-   "o": [
+   "question": "Which type of file uses the .css extension?",
+   "options": [
     "Audio file",
     "Comma separated values file",
     "Cascading style sheet file",
     "Microsoft PowerPoint presentation"
    ],
-   "a": 2,
-   "t": "File Extensions",
-   "l": 2,
-   "s": "generated",
-   "e": ".css is a Cascading style sheet file."
+   "answer": 2,
+   "explanation": ".css is a Cascading style sheet file.",
+   "topic": "File Extensions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00052",
-   "q": "Which generation of computers used Artificial intelligence?",
-   "o": [
+   "question": "Which generation of computers used Artificial intelligence?",
+   "options": [
     "Third generation",
     "Fourth generation",
     "First generation",
     "Fifth generation"
    ],
-   "a": 3,
-   "t": "Computer Generations",
-   "l": 3,
-   "s": "generated",
-   "e": "Artificial intelligence were used in the Fifth generation."
+   "answer": 3,
+   "explanation": "Artificial intelligence were used in the Fifth generation.",
+   "topic": "Computer Generations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00053",
-   "q": "Open source is best described as which of the following?",
-   "o": [
+   "question": "Open source is best described as which of the following?",
+   "options": [
     "Diagram of the steps of an algorithm",
     "Protocol used to transfer web pages",
     "Protocol for sending email",
     "Software whose source code is freely available"
    ],
-   "a": 3,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Open source — Software whose source code is freely available."
+   "answer": 3,
+   "explanation": "Open source — Software whose source code is freely available.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00054",
-   "q": "What is the purpose of the shortcut Windows + E?",
-   "o": [
+   "question": "What is the purpose of the shortcut Windows + E?",
+   "options": [
     "Close the current window",
     "Switch between open windows",
     "Open File Explorer",
     "Open the security options screen"
    ],
-   "a": 2,
-   "t": "Computer Shortcuts",
-   "l": 2,
-   "s": "generated",
-   "e": "Windows + E is used to Open File Explorer."
+   "answer": 2,
+   "explanation": "Windows + E is used to Open File Explorer.",
+   "topic": "Computer Shortcuts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00055",
-   "q": "Which type of file uses the .exe extension?",
-   "o": [
+   "question": "Which type of file uses the .exe extension?",
+   "options": [
     "Data interchange file",
     "Microsoft Word document",
     "Compressed archive file",
     "Executable program file"
    ],
-   "a": 3,
-   "t": "File Extensions",
-   "l": 2,
-   "s": "generated",
-   "e": ".exe is a Executable program file."
+   "answer": 3,
+   "explanation": ".exe is a Executable program file.",
+   "topic": "File Extensions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00056",
-   "q": "Which generation of computers used Transistors?",
-   "o": [
+   "question": "Which generation of computers used Transistors?",
+   "options": [
     "Fifth generation",
     "Second generation",
     "First generation",
     "Third generation"
    ],
-   "a": 1,
-   "t": "Computer Generations",
-   "l": 3,
-   "s": "generated",
-   "e": "Transistors were used in the Second generation."
+   "answer": 1,
+   "explanation": "Transistors were used in the Second generation.",
+   "topic": "Computer Generations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00057",
-   "q": "Speaker is best described as which of the following?",
-   "o": [
+   "question": "Speaker is best described as which of the following?",
+   "options": [
     "Program that maintains and optimises the system",
     "Input device that converts paper documents to digital form",
     "Input device used for typing",
     "Output device that produces sound"
    ],
-   "a": 3,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Speaker — Output device that produces sound."
+   "answer": 3,
+   "explanation": "Speaker — Output device that produces sound.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00058",
-   "q": "What is the purpose of the shortcut F2?",
-   "o": [
+   "question": "What is the purpose of the shortcut F2?",
+   "options": [
     "Open Task Manager",
     "Rename the selected item",
     "Delete an item permanently",
     "Open File Explorer"
    ],
-   "a": 1,
-   "t": "Computer Shortcuts",
-   "l": 2,
-   "s": "generated",
-   "e": "F2 is used to Rename the selected item."
+   "answer": 1,
+   "explanation": "F2 is used to Rename the selected item.",
+   "topic": "Computer Shortcuts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00059",
-   "q": "Which type of file uses the .mp3 extension?",
-   "o": [
+   "question": "Which type of file uses the .mp3 extension?",
+   "options": [
     "JavaScript file",
     "Video file",
     "Audio file",
     "Scalable vector graphics file"
    ],
-   "a": 2,
-   "t": "File Extensions",
-   "l": 2,
-   "s": "generated",
-   "e": ".mp3 is a Audio file."
+   "answer": 2,
+   "explanation": ".mp3 is a Audio file.",
+   "topic": "File Extensions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00060",
-   "q": "Which generation of computers used Integrated circuits?",
-   "o": [
+   "question": "Which generation of computers used Integrated circuits?",
+   "options": [
     "Third generation",
     "First generation",
     "Fourth generation",
     "Fifth generation"
    ],
-   "a": 0,
-   "t": "Computer Generations",
-   "l": 3,
-   "s": "generated",
-   "e": "Integrated circuits were used in the Third generation."
+   "answer": 0,
+   "explanation": "Integrated circuits were used in the Third generation.",
+   "topic": "Computer Generations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00061",
-   "q": "HTTP is best described as which of the following?",
-   "o": [
+   "question": "HTTP is best described as which of the following?",
+   "options": [
     "Protocol used to transfer web pages",
     "Smallest unit of digital data",
     "Small file stored by a website in the browser",
     "Short range wireless technology"
    ],
-   "a": 0,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "HTTP — Protocol used to transfer web pages."
+   "answer": 0,
+   "explanation": "HTTP — Protocol used to transfer web pages.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00062",
-   "q": "What is the purpose of the shortcut Ctrl + O?",
-   "o": [
+   "question": "What is the purpose of the shortcut Ctrl + O?",
+   "options": [
     "Open an existing file",
     "Redo the last undone action",
     "Delete the previous word",
     "Find text in a document"
    ],
-   "a": 0,
-   "t": "Computer Shortcuts",
-   "l": 2,
-   "s": "generated",
-   "e": "Ctrl + O is used to Open an existing file."
+   "answer": 0,
+   "explanation": "Ctrl + O is used to Open an existing file.",
+   "topic": "Computer Shortcuts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00063",
-   "q": "Which type of file uses the .java extension?",
-   "o": [
+   "question": "Which type of file uses the .java extension?",
+   "options": [
     "Comma separated values file",
     "Audio file",
     "Java source file",
     "Batch file"
    ],
-   "a": 2,
-   "t": "File Extensions",
-   "l": 2,
-   "s": "generated",
-   "e": ".java is a Java source file."
+   "answer": 2,
+   "explanation": ".java is a Java source file.",
+   "topic": "File Extensions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00064",
-   "q": "Which generation of computers used Vacuum tubes?",
-   "o": [
+   "question": "Which generation of computers used Vacuum tubes?",
+   "options": [
     "Fifth generation",
     "First generation",
     "Third generation",
     "Second generation"
    ],
-   "a": 1,
-   "t": "Computer Generations",
-   "l": 3,
-   "s": "generated",
-   "e": "Vacuum tubes were used in the First generation."
+   "answer": 1,
+   "explanation": "Vacuum tubes were used in the First generation.",
+   "topic": "Computer Generations",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00065",
-   "q": "FTP is best described as which of the following?",
-   "o": [
+   "question": "FTP is best described as which of the following?",
+   "options": [
     "Protocol for transferring files",
     "Main circuit board of a computer",
     "Address of a resource on the internet",
     "Device that modulates signals for data transmission"
    ],
-   "a": 0,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "FTP — Protocol for transferring files."
+   "answer": 0,
+   "explanation": "FTP — Protocol for transferring files.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00066",
-   "q": "What is the purpose of the shortcut Ctrl + S?",
-   "o": [
+   "question": "What is the purpose of the shortcut Ctrl + S?",
+   "options": [
     "Redo the last undone action",
     "Undo the last action",
     "Save the current file",
     "Find text in a document"
    ],
-   "a": 2,
-   "t": "Computer Shortcuts",
-   "l": 2,
-   "s": "generated",
-   "e": "Ctrl + S is used to Save the current file."
+   "answer": 2,
+   "explanation": "Ctrl + S is used to Save the current file.",
+   "topic": "Computer Shortcuts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00067",
-   "q": "Which type of file uses the .xlsx extension?",
-   "o": [
+   "question": "Which type of file uses the .xlsx extension?",
+   "options": [
     "Compressed image file",
     "Image file with transparency support",
     "Microsoft Excel workbook",
     "Compressed archive file"
    ],
-   "a": 2,
-   "t": "File Extensions",
-   "l": 2,
-   "s": "generated",
-   "e": ".xlsx is a Microsoft Excel workbook."
+   "answer": 2,
+   "explanation": ".xlsx is a Microsoft Excel workbook.",
+   "topic": "File Extensions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00068",
-   "q": "DBMS is best described as which of the following?",
-   "o": [
+   "question": "DBMS is best described as which of the following?",
+   "options": [
     "Output device that displays visuals",
     "Software that manages databases",
     "Portable USB flash storage device",
     "Software used to view web pages"
    ],
-   "a": 1,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "DBMS — Software that manages databases."
+   "answer": 1,
+   "explanation": "DBMS — Software that manages databases.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00069",
-   "q": "What is the purpose of the shortcut Windows + L?",
-   "o": [
+   "question": "What is the purpose of the shortcut Windows + L?",
+   "options": [
     "Switch between open windows",
     "Lock the computer",
     "Open Task Manager",
     "Paste the clipboard content"
    ],
-   "a": 1,
-   "t": "Computer Shortcuts",
-   "l": 2,
-   "s": "generated",
-   "e": "Windows + L is used to Lock the computer."
+   "answer": 1,
+   "explanation": "Windows + L is used to Lock the computer.",
+   "topic": "Computer Shortcuts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00070",
-   "q": "Which type of file uses the .pdf extension?",
-   "o": [
+   "question": "Which type of file uses the .pdf extension?",
+   "options": [
     "Portable Document Format file",
     "Python source file",
     "Video file",
     "Animated image file"
    ],
-   "a": 0,
-   "t": "File Extensions",
-   "l": 2,
-   "s": "generated",
-   "e": ".pdf is a Portable Document Format file."
+   "answer": 0,
+   "explanation": ".pdf is a Portable Document Format file.",
+   "topic": "File Extensions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00071",
-   "q": "IP address is best described as which of the following?",
-   "o": [
+   "question": "IP address is best described as which of the following?",
+   "options": [
     "Magnetic secondary storage device",
     "Pointing input device",
     "Unique address of a device on a network",
     "Address of a resource on the internet"
    ],
-   "a": 2,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "IP address — Unique address of a device on a network."
+   "answer": 2,
+   "explanation": "IP address — Unique address of a device on a network.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00072",
-   "q": "What is the purpose of the shortcut Ctrl + W?",
-   "o": [
+   "question": "What is the purpose of the shortcut Ctrl + W?",
+   "options": [
     "Send the selected item to the Recycle Bin",
     "Select all items",
     "Close the current window",
     "Print the current document"
    ],
-   "a": 2,
-   "t": "Computer Shortcuts",
-   "l": 2,
-   "s": "generated",
-   "e": "Ctrl + W is used to Close the current window."
+   "answer": 2,
+   "explanation": "Ctrl + W is used to Close the current window.",
+   "topic": "Computer Shortcuts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00073",
-   "q": "Which type of file uses the .svg extension?",
-   "o": [
+   "question": "Which type of file uses the .svg extension?",
+   "options": [
     "Scalable vector graphics file",
     "Cascading style sheet file",
     "Microsoft PowerPoint presentation",
     "Compressed image file"
    ],
-   "a": 0,
-   "t": "File Extensions",
-   "l": 2,
-   "s": "generated",
-   "e": ".svg is a Scalable vector graphics file."
+   "answer": 0,
+   "explanation": ".svg is a Scalable vector graphics file.",
+   "topic": "File Extensions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00074",
-   "q": "Cloud storage is best described as which of the following?",
-   "o": [
+   "question": "Cloud storage is best described as which of the following?",
+   "options": [
     "Data storage on remote internet servers",
     "Input device used for typing",
     "Protocol for retrieving email",
     "Software that detects and removes malicious programs"
    ],
-   "a": 0,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Cloud storage — Data storage on remote internet servers."
+   "answer": 0,
+   "explanation": "Cloud storage — Data storage on remote internet servers.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00075",
-   "q": "What is the purpose of the shortcut Alt + F4?",
-   "o": [
+   "question": "What is the purpose of the shortcut Alt + F4?",
+   "options": [
     "Close the active program",
     "Select all items",
     "Rename the selected item",
     "Find text in a document"
    ],
-   "a": 0,
-   "t": "Computer Shortcuts",
-   "l": 2,
-   "s": "generated",
-   "e": "Alt + F4 is used to Close the active program."
+   "answer": 0,
+   "explanation": "Alt + F4 is used to Close the active program.",
+   "topic": "Computer Shortcuts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00076",
-   "q": "Which type of file uses the .png extension?",
-   "o": [
+   "question": "Which type of file uses the .png extension?",
+   "options": [
     "Java source file",
     "Image file with transparency support",
     "Python source file",
     "Compressed image file"
    ],
-   "a": 1,
-   "t": "File Extensions",
-   "l": 2,
-   "s": "generated",
-   "e": ".png is a Image file with transparency support."
+   "answer": 1,
+   "explanation": ".png is a Image file with transparency support.",
+   "topic": "File Extensions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00077",
-   "q": "Virus is best described as which of the following?",
-   "o": [
+   "question": "Virus is best described as which of the following?",
+   "options": [
     "Unique address of a device on a network",
     "Smallest unit of digital data",
     "Firmware that starts the computer",
     "Malicious program that attaches to files"
    ],
-   "a": 3,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Virus — Malicious program that attaches to files."
+   "answer": 3,
+   "explanation": "Virus — Malicious program that attaches to files.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00078",
-   "q": "What is the purpose of the shortcut F5?",
-   "o": [
+   "question": "What is the purpose of the shortcut F5?",
+   "options": [
     "Undo the last action",
     "Lock the computer",
     "Refresh the current window",
     "Save the current file"
    ],
-   "a": 2,
-   "t": "Computer Shortcuts",
-   "l": 2,
-   "s": "generated",
-   "e": "F5 is used to Refresh the current window."
+   "answer": 2,
+   "explanation": "F5 is used to Refresh the current window.",
+   "topic": "Computer Shortcuts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00079",
-   "q": "Which type of file uses the .txt extension?",
-   "o": [
+   "question": "Which type of file uses the .txt extension?",
+   "options": [
     "Plain text file",
     "Compressed archive file",
     "JavaScript file",
     "Scalable vector graphics file"
    ],
-   "a": 0,
-   "t": "File Extensions",
-   "l": 2,
-   "s": "generated",
-   "e": ".txt is a Plain text file."
+   "answer": 0,
+   "explanation": ".txt is a Plain text file.",
+   "topic": "File Extensions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00080",
-   "q": "C is best described as which of the following?",
-   "o": [
+   "question": "C is best described as which of the following?",
+   "options": [
     "Software that secretly collects information",
     "Smallest unit of digital data",
     "Procedural programming language",
     "Step by step method to solve a problem"
    ],
-   "a": 2,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "C — Procedural programming language."
+   "answer": 2,
+   "explanation": "C — Procedural programming language.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00081",
-   "q": "What is the purpose of the shortcut Ctrl + Z?",
-   "o": [
+   "question": "What is the purpose of the shortcut Ctrl + Z?",
+   "options": [
     "Print the current document",
     "Undo the last action",
     "Select all items",
     "Open a new window or document"
    ],
-   "a": 1,
-   "t": "Computer Shortcuts",
-   "l": 2,
-   "s": "generated",
-   "e": "Ctrl + Z is used to Undo the last action."
+   "answer": 1,
+   "explanation": "Ctrl + Z is used to Undo the last action.",
+   "topic": "Computer Shortcuts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00082",
-   "q": "Which type of file uses the .csv extension?",
-   "o": [
+   "question": "Which type of file uses the .csv extension?",
+   "options": [
     "Java source file",
     "Extensible markup language file",
     "Comma separated values file",
     "Animated image file"
    ],
-   "a": 2,
-   "t": "File Extensions",
-   "l": 2,
-   "s": "generated",
-   "e": ".csv is a Comma separated values file."
+   "answer": 2,
+   "explanation": ".csv is a Comma separated values file.",
+   "topic": "File Extensions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00083",
-   "q": "Ransomware is best described as which of the following?",
-   "o": [
+   "question": "Ransomware is best described as which of the following?",
+   "options": [
     "Network covering a small area",
     "Disk space used as an extension of RAM",
     "The processing unit that executes instructions",
     "Malware that locks files and demands payment"
    ],
-   "a": 3,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Ransomware — Malware that locks files and demands payment."
+   "answer": 3,
+   "explanation": "Ransomware — Malware that locks files and demands payment.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00084",
-   "q": "What is the purpose of the shortcut Ctrl + F?",
-   "o": [
+   "question": "What is the purpose of the shortcut Ctrl + F?",
+   "options": [
     "Find text in a document",
     "Print the current document",
     "Switch between open windows",
     "Save the current file"
    ],
-   "a": 0,
-   "t": "Computer Shortcuts",
-   "l": 2,
-   "s": "generated",
-   "e": "Ctrl + F is used to Find text in a document."
+   "answer": 0,
+   "explanation": "Ctrl + F is used to Find text in a document.",
+   "topic": "Computer Shortcuts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00085",
-   "q": "Which type of file uses the .xml extension?",
-   "o": [
+   "question": "Which type of file uses the .xml extension?",
+   "options": [
     "Microsoft PowerPoint presentation",
     "Extensible markup language file",
     "Plain text file",
     "Compressed archive file"
    ],
-   "a": 1,
-   "t": "File Extensions",
-   "l": 2,
-   "s": "generated",
-   "e": ".xml is a Extensible markup language file."
+   "answer": 1,
+   "explanation": ".xml is a Extensible markup language file.",
+   "topic": "File Extensions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00086",
-   "q": "Utility software is best described as which of the following?",
-   "o": [
+   "question": "Utility software is best described as which of the following?",
+   "options": [
     "Program that maintains and optimises the system",
     "Running several tasks at the same time",
     "Network covering a wide area",
     "Procedural programming language"
    ],
-   "a": 0,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Utility software — Program that maintains and optimises the system."
+   "answer": 0,
+   "explanation": "Utility software — Program that maintains and optimises the system.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00087",
-   "q": "What is the purpose of the shortcut Ctrl + V?",
-   "o": [
+   "question": "What is the purpose of the shortcut Ctrl + V?",
+   "options": [
     "Lock the computer",
     "Paste the clipboard content",
     "Close the active program",
     "Open File Explorer"
    ],
-   "a": 1,
-   "t": "Computer Shortcuts",
-   "l": 2,
-   "s": "generated",
-   "e": "Ctrl + V is used to Paste the clipboard content."
+   "answer": 1,
+   "explanation": "Ctrl + V is used to Paste the clipboard content.",
+   "topic": "Computer Shortcuts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00088",
-   "q": "Which type of file uses the .docx extension?",
-   "o": [
+   "question": "Which type of file uses the .docx extension?",
+   "options": [
     "Microsoft Word document",
     "Compressed image file",
     "Image file with transparency support",
     "Compressed archive file"
    ],
-   "a": 0,
-   "t": "File Extensions",
-   "l": 2,
-   "s": "generated",
-   "e": ".docx is a Microsoft Word document."
+   "answer": 0,
+   "explanation": ".docx is a Microsoft Word document.",
+   "topic": "File Extensions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00089",
-   "q": "Cloud computing is best described as which of the following?",
-   "o": [
+   "question": "Cloud computing is best described as which of the following?",
+   "options": [
     "Diagram of the steps of an algorithm",
     "Program that executes code line by line",
     "Volatile main memory used for running programs",
     "Delivery of computing services over the internet"
    ],
-   "a": 3,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Cloud computing — Delivery of computing services over the internet."
+   "answer": 3,
+   "explanation": "Cloud computing — Delivery of computing services over the internet.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00090",
-   "q": "What is the purpose of the shortcut Ctrl + Y?",
-   "o": [
+   "question": "What is the purpose of the shortcut Ctrl + Y?",
+   "options": [
     "Close the current window",
     "Lock the computer",
     "Open an existing file",
     "Redo the last undone action"
    ],
-   "a": 3,
-   "t": "Computer Shortcuts",
-   "l": 2,
-   "s": "generated",
-   "e": "Ctrl + Y is used to Redo the last undone action."
+   "answer": 3,
+   "explanation": "Ctrl + Y is used to Redo the last undone action.",
+   "topic": "Computer Shortcuts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00091",
-   "q": "Which type of file uses the .json extension?",
-   "o": [
+   "question": "Which type of file uses the .json extension?",
+   "options": [
     "Image file with transparency support",
     "Compressed archive file",
     "Data interchange file",
     "Batch file"
    ],
-   "a": 2,
-   "t": "File Extensions",
-   "l": 2,
-   "s": "generated",
-   "e": ".json is a Data interchange file."
+   "answer": 2,
+   "explanation": ".json is a Data interchange file.",
+   "topic": "File Extensions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00092",
-   "q": "SMPS is best described as which of the following?",
-   "o": [
+   "question": "SMPS is best described as which of the following?",
+   "options": [
     "Number system with base two",
     "Input device that converts paper documents to digital form",
     "Power supply unit of a computer",
     "Network covering a small area"
    ],
-   "a": 2,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "SMPS — Power supply unit of a computer."
+   "answer": 2,
+   "explanation": "SMPS — Power supply unit of a computer.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00093",
-   "q": "What is the purpose of the shortcut Ctrl + X?",
-   "o": [
+   "question": "What is the purpose of the shortcut Ctrl + X?",
+   "options": [
     "Lock the computer",
     "Switch between open windows",
     "Cut the selected item",
     "Open Task Manager"
    ],
-   "a": 2,
-   "t": "Computer Shortcuts",
-   "l": 2,
-   "s": "generated",
-   "e": "Ctrl + X is used to Cut the selected item."
+   "answer": 2,
+   "explanation": "Ctrl + X is used to Cut the selected item.",
+   "topic": "Computer Shortcuts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00094",
-   "q": "Which type of file uses the .js extension?",
-   "o": [
+   "question": "Which type of file uses the .js extension?",
+   "options": [
     "Web page file",
     "JavaScript file",
     "Scalable vector graphics file",
     "Extensible markup language file"
    ],
-   "a": 1,
-   "t": "File Extensions",
-   "l": 2,
-   "s": "generated",
-   "e": ".js is a JavaScript file."
+   "answer": 1,
+   "explanation": ".js is a JavaScript file.",
+   "topic": "File Extensions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00095",
-   "q": "GPU is best described as which of the following?",
-   "o": [
+   "question": "GPU is best described as which of the following?",
+   "options": [
     "L1, L2 and L3 are cache levels",
     "Processor that handles graphics and images",
     "Language used to query databases",
     "Small file stored by a website in the browser"
    ],
-   "a": 1,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "GPU — Processor that handles graphics and images."
+   "answer": 1,
+   "explanation": "GPU — Processor that handles graphics and images.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00096",
-   "q": "What is the purpose of the shortcut Windows + D?",
-   "o": [
+   "question": "What is the purpose of the shortcut Windows + D?",
+   "options": [
     "Close the active program",
     "Show or hide the desktop",
     "Switch between open windows",
     "Delete an item permanently"
    ],
-   "a": 1,
-   "t": "Computer Shortcuts",
-   "l": 2,
-   "s": "generated",
-   "e": "Windows + D is used to Show or hide the desktop."
+   "answer": 1,
+   "explanation": "Windows + D is used to Show or hide the desktop.",
+   "topic": "Computer Shortcuts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00097",
-   "q": "Which type of file uses the .bat extension?",
-   "o": [
+   "question": "Which type of file uses the .bat extension?",
+   "options": [
     "Extensible markup language file",
     "Data interchange file",
     "Web page file",
     "Batch file"
    ],
-   "a": 3,
-   "t": "File Extensions",
-   "l": 2,
-   "s": "generated",
-   "e": ".bat is a Batch file."
+   "answer": 3,
+   "explanation": ".bat is a Batch file.",
+   "topic": "File Extensions",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00098",
-   "q": "Motherboard is best described as which of the following?",
-   "o": [
+   "question": "Motherboard is best described as which of the following?",
+   "options": [
     "Main circuit board of a computer",
     "Object oriented programming language",
     "Secure version of the web transfer protocol",
     "Program that performs a user task"
    ],
-   "a": 0,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Motherboard — Main circuit board of a computer."
+   "answer": 0,
+   "explanation": "Motherboard — Main circuit board of a computer.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00099",
-   "q": "What is the purpose of the shortcut PrtScr?",
-   "o": [
+   "question": "What is the purpose of the shortcut PrtScr?",
+   "options": [
     "Rename the selected item",
     "Capture the screen",
     "Delete the previous word",
     "Switch between open windows"
    ],
-   "a": 1,
-   "t": "Computer Shortcuts",
-   "l": 2,
-   "s": "generated",
-   "e": "PrtScr is used to Capture the screen."
+   "answer": 1,
+   "explanation": "PrtScr is used to Capture the screen.",
+   "topic": "Computer Shortcuts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00100",
-   "q": "Which file extension is used for a JavaScript file?",
-   "o": [
+   "question": "Which file extension is used for a JavaScript file?",
+   "options": [
     ".bat",
     ".exe",
     ".js",
     ".jpg"
    ],
-   "a": 2,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "JavaScript file uses the extension .js."
+   "answer": 2,
+   "explanation": "JavaScript file uses the extension .js.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00101",
-   "q": "ROM is best described as which of the following?",
-   "o": [
+   "question": "ROM is best described as which of the following?",
+   "options": [
     "Data storage on remote internet servers",
     "Non-volatile memory that holds firmware",
     "System that translates domain names into IP addresses",
     "Very fast memory close to the CPU"
    ],
-   "a": 1,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "ROM — Non-volatile memory that holds firmware."
+   "answer": 1,
+   "explanation": "ROM — Non-volatile memory that holds firmware.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00102",
-   "q": "What is the purpose of the shortcut Ctrl + A?",
-   "o": [
+   "question": "What is the purpose of the shortcut Ctrl + A?",
+   "options": [
     "Lock the computer",
     "Save the current file",
     "Select all items",
     "Capture the screen"
    ],
-   "a": 2,
-   "t": "Computer Shortcuts",
-   "l": 2,
-   "s": "generated",
-   "e": "Ctrl + A is used to Select all items."
+   "answer": 2,
+   "explanation": "Ctrl + A is used to Select all items.",
+   "topic": "Computer Shortcuts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00103",
-   "q": "Which file extension is used for a Plain text file?",
-   "o": [
+   "question": "Which file extension is used for a Plain text file?",
+   "options": [
     ".bat",
     ".rar",
     ".txt",
     ".mp4"
    ],
-   "a": 2,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Plain text file uses the extension .txt."
+   "answer": 2,
+   "explanation": "Plain text file uses the extension .txt.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00104",
-   "q": "LAN is best described as which of the following?",
-   "o": [
+   "question": "LAN is best described as which of the following?",
+   "options": [
     "Software that detects and removes malicious programs",
     "Software designed to damage or intrude",
     "Network covering a small area",
     "Object oriented programming language"
    ],
-   "a": 2,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "LAN — Network covering a small area."
+   "answer": 2,
+   "explanation": "LAN — Network covering a small area.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00105",
-   "q": "What is the purpose of the shortcut Ctrl + Backspace?",
-   "o": [
+   "question": "What is the purpose of the shortcut Ctrl + Backspace?",
+   "options": [
     "Select all items",
     "Delete the previous word",
     "Lock the computer",
     "Save the current file"
    ],
-   "a": 1,
-   "t": "Computer Shortcuts",
-   "l": 2,
-   "s": "generated",
-   "e": "Ctrl + Backspace is used to Delete the previous word."
+   "answer": 1,
+   "explanation": "Ctrl + Backspace is used to Delete the previous word.",
+   "topic": "Computer Shortcuts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00106",
-   "q": "Which file extension is used for a Python source file?",
-   "o": [
+   "question": "Which file extension is used for a Python source file?",
+   "options": [
     ".py",
     ".pptx",
     ".exe",
     ".docx"
    ],
-   "a": 0,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Python source file uses the extension .py."
+   "answer": 0,
+   "explanation": "Python source file uses the extension .py.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00107",
-   "q": "Cache is best described as which of the following?",
-   "o": [
+   "question": "Cache is best described as which of the following?",
+   "options": [
     "Temporary storage for frequently used data",
     "Input device that captures sound",
     "When data requested is found in cache memory",
     "Network covering a small area"
    ],
-   "a": 0,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Cache — Temporary storage for frequently used data."
+   "answer": 0,
+   "explanation": "Cache — Temporary storage for frequently used data.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00108",
-   "q": "What is the purpose of the shortcut Ctrl + N?",
-   "o": [
+   "question": "What is the purpose of the shortcut Ctrl + N?",
+   "options": [
     "Select all items",
     "Open a new window or document",
     "Open Task Manager",
     "Open File Explorer"
    ],
-   "a": 1,
-   "t": "Computer Shortcuts",
-   "l": 2,
-   "s": "generated",
-   "e": "Ctrl + N is used to Open a new window or document."
+   "answer": 1,
+   "explanation": "Ctrl + N is used to Open a new window or document.",
+   "topic": "Computer Shortcuts",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00109",
-   "q": "Which file extension is used for a Data interchange file?",
-   "o": [
+   "question": "Which file extension is used for a Data interchange file?",
+   "options": [
     ".bat",
     ".mp3",
     ".xml",
     ".json"
    ],
-   "a": 3,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Data interchange file uses the extension .json."
+   "answer": 3,
+   "explanation": "Data interchange file uses the extension .json.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00110",
-   "q": "Wi-Fi is best described as which of the following?",
-   "o": [
+   "question": "Wi-Fi is best described as which of the following?",
+   "options": [
     "Storage device with no moving parts",
     "Wireless local area networking technology",
     "Program that performs a user task",
     "Device that connects devices inside a network"
    ],
-   "a": 1,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Wi-Fi — Wireless local area networking technology."
+   "answer": 1,
+   "explanation": "Wi-Fi — Wireless local area networking technology.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00111",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Shift + Delete - Delete an item permanently",
     "Shift + Delete - Open File Explorer",
     "Shift + Delete - Send the selected item to the Recycle Bin",
     "Shift + Delete - Delete the previous word"
    ],
-   "a": 0,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Shift + Delete - Delete an item permanently is correctly matched."
+   "answer": 0,
+   "explanation": "Only Shift + Delete - Delete an item permanently is correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00112",
-   "q": "Which file extension is used for a Compressed image file?",
-   "o": [
+   "question": "Which file extension is used for a Compressed image file?",
+   "options": [
     ".py",
     ".jpg",
     ".xlsx",
     ".rar"
    ],
-   "a": 1,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Compressed image file uses the extension .jpg."
+   "answer": 1,
+   "explanation": "Compressed image file uses the extension .jpg.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00113",
-   "q": "Spyware is best described as which of the following?",
-   "o": [
+   "question": "Spyware is best described as which of the following?",
+   "options": [
     "Malicious program that attaches to files",
     "Devices that work as soon as they are connected",
     "Software that secretly collects information",
     "Disk space used as an extension of RAM"
    ],
-   "a": 2,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Spyware — Software that secretly collects information."
+   "answer": 2,
+   "explanation": "Spyware — Software that secretly collects information.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00114",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Shift + Delete - Open an existing file",
     "Shift + Delete - Switch between open windows",
     "Shift + Delete - Save the current file",
     "Shift + Delete - Delete an item permanently"
    ],
-   "a": 3,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Shift + Delete - Delete an item permanently is correctly matched."
+   "answer": 3,
+   "explanation": "Only Shift + Delete - Delete an item permanently is correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00115",
-   "q": "Which file extension is used for a Image file with transparency support?",
-   "o": [
+   "question": "Which file extension is used for a Image file with transparency support?",
+   "options": [
     ".mp4",
     ".csv",
     ".xlsx",
     ".png"
    ],
-   "a": 3,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Image file with transparency support uses the extension .png."
+   "answer": 3,
+   "explanation": "Image file with transparency support uses the extension .png.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00116",
-   "q": "Bit is best described as which of the following?",
-   "o": [
+   "question": "Bit is best described as which of the following?",
+   "options": [
     "Smallest unit of digital data",
     "Software designed to damage or intrude",
     "Program that performs a user task",
     "Program that converts source code into machine code"
    ],
-   "a": 0,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Bit — Smallest unit of digital data."
+   "answer": 0,
+   "explanation": "Bit — Smallest unit of digital data.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00117",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Ctrl + X - Open an existing file",
     "Ctrl + X - Close the current window",
     "Ctrl + X - Cut the selected item",
     "Ctrl + X - Delete the previous word"
    ],
-   "a": 2,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ctrl + X - Cut the selected item is correctly matched."
+   "answer": 2,
+   "explanation": "Only Ctrl + X - Cut the selected item is correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00118",
-   "q": "Which file extension is used for a Microsoft Word document?",
-   "o": [
+   "question": "Which file extension is used for a Microsoft Word document?",
+   "options": [
     ".docx",
     ".exe",
     ".js",
     ".rar"
    ],
-   "a": 0,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Microsoft Word document uses the extension .docx."
+   "answer": 0,
+   "explanation": "Microsoft Word document uses the extension .docx.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00119",
-   "q": "Computer network is best described as which of the following?",
-   "o": [
+   "question": "Computer network is best described as which of the following?",
+   "options": [
     "Object oriented programming language",
     "Program that executes code line by line",
     "Language that adds behaviour to web pages",
     "Two or more connected computers"
    ],
-   "a": 3,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Computer network — Two or more connected computers."
+   "answer": 3,
+   "explanation": "Computer network — Two or more connected computers.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00120",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Ctrl + X - Capture the screen",
     "Ctrl + X - Cut the selected item",
     "Ctrl + X - Open File Explorer",
     "Ctrl + X - Open an existing file"
    ],
-   "a": 1,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ctrl + X - Cut the selected item is correctly matched."
+   "answer": 1,
+   "explanation": "Only Ctrl + X - Cut the selected item is correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00121",
-   "q": "Which file extension is used for a Scalable vector graphics file?",
-   "o": [
+   "question": "Which file extension is used for a Scalable vector graphics file?",
+   "options": [
     ".js",
     ".exe",
     ".svg",
     ".py"
    ],
-   "a": 2,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Scalable vector graphics file uses the extension .svg."
+   "answer": 2,
+   "explanation": "Scalable vector graphics file uses the extension .svg.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00122",
-   "q": "Domain name is best described as which of the following?",
-   "o": [
+   "question": "Domain name is best described as which of the following?",
+   "options": [
     "Human readable name of a website",
     "Restarting a computer",
     "Program that converts assembly language to machine code",
     "Software that manages databases"
    ],
-   "a": 0,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Domain name — Human readable name of a website."
+   "answer": 0,
+   "explanation": "Domain name — Human readable name of a website.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00123",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Ctrl + C - Print the current document",
     "Ctrl + C - Open a new window or document",
     "Ctrl + C - Copy the selected item",
     "Ctrl + C - Switch between open windows"
    ],
-   "a": 2,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ctrl + C - Copy the selected item is correctly matched."
+   "answer": 2,
+   "explanation": "Only Ctrl + C - Copy the selected item is correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00124",
-   "q": "Which file extension is used for a Executable program file?",
-   "o": [
+   "question": "Which file extension is used for a Executable program file?",
+   "options": [
     ".gif",
     ".css",
     ".txt",
     ".exe"
    ],
-   "a": 3,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Executable program file uses the extension .exe."
+   "answer": 3,
+   "explanation": "Executable program file uses the extension .exe.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00125",
-   "q": "HTML is best described as which of the following?",
-   "o": [
+   "question": "HTML is best described as which of the following?",
+   "options": [
     "Language used to structure web pages",
     "Copy of data kept for recovery",
     "Universal character encoding standard",
     "Running a processor above its rated speed"
    ],
-   "a": 0,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "HTML — Language used to structure web pages."
+   "answer": 0,
+   "explanation": "HTML — Language used to structure web pages.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00126",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Ctrl + C - Copy the selected item",
     "Ctrl + C - Show or hide the desktop",
     "Ctrl + C - Lock the computer",
     "Ctrl + C - Print the current document"
    ],
-   "a": 0,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ctrl + C - Copy the selected item is correctly matched."
+   "answer": 0,
+   "explanation": "Only Ctrl + C - Copy the selected item is correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00127",
-   "q": "Which file extension is used for a Extensible markup language file?",
-   "o": [
+   "question": "Which file extension is used for a Extensible markup language file?",
+   "options": [
     ".jpg",
     ".xml",
     ".py",
     ".csv"
    ],
-   "a": 1,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Extensible markup language file uses the extension .xml."
+   "answer": 1,
+   "explanation": "Extensible markup language file uses the extension .xml.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00128",
-   "q": "Pen drive is best described as which of the following?",
-   "o": [
+   "question": "Pen drive is best described as which of the following?",
+   "options": [
     "Portable USB flash storage device",
     "Network covering a wide area",
     "Language used to query databases",
     "Storage device with no moving parts"
    ],
-   "a": 0,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Pen drive — Portable USB flash storage device."
+   "answer": 0,
+   "explanation": "Pen drive — Portable USB flash storage device.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00129",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Ctrl + Alt + Del - Capture the screen",
     "Ctrl + Alt + Del - Open an existing file",
     "Ctrl + Alt + Del - Send the selected item to the Recycle Bin",
     "Ctrl + Alt + Del - Open the security options screen"
    ],
-   "a": 3,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ctrl + Alt + Del - Open the security options screen is correctly matched."
+   "answer": 3,
+   "explanation": "Only Ctrl + Alt + Del - Open the security options screen is correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00130",
-   "q": "Which file extension is used for a Microsoft Excel workbook?",
-   "o": [
+   "question": "Which file extension is used for a Microsoft Excel workbook?",
+   "options": [
     ".svg",
     ".zip",
     ".jpg",
     ".xlsx"
    ],
-   "a": 3,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Microsoft Excel workbook uses the extension .xlsx."
+   "answer": 3,
+   "explanation": "Microsoft Excel workbook uses the extension .xlsx.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00131",
-   "q": "CLI is best described as which of the following?",
-   "o": [
+   "question": "CLI is best described as which of the following?",
+   "options": [
     "Universal character encoding standard",
     "Software that manages hardware and applications",
     "Core part of an operating system",
     "Interface that accepts typed commands"
    ],
-   "a": 3,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "CLI — Interface that accepts typed commands."
+   "answer": 3,
+   "explanation": "CLI — Interface that accepts typed commands.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00132",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Ctrl + Alt + Del - Delete an item permanently",
     "Ctrl + Alt + Del - Open the security options screen",
     "Ctrl + Alt + Del - Open an existing file",
     "Ctrl + Alt + Del - Cut the selected item"
    ],
-   "a": 1,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ctrl + Alt + Del - Open the security options screen is correctly matched."
+   "answer": 1,
+   "explanation": "Only Ctrl + Alt + Del - Open the security options screen is correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00133",
-   "q": "Which file extension is used for a Audio file?",
-   "o": [
+   "question": "Which file extension is used for a Audio file?",
+   "options": [
     ".exe",
     ".csv",
     ".mp3",
     ".png"
    ],
-   "a": 2,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Audio file uses the extension .mp3."
+   "answer": 2,
+   "explanation": "Audio file uses the extension .mp3.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00134",
-   "q": "Primary key is best described as which of the following?",
-   "o": [
+   "question": "Primary key is best described as which of the following?",
+   "options": [
     "Field that uniquely identifies a record",
     "Protocol for sending email",
     "Non-volatile memory that holds firmware",
     "Device that forwards data between networks"
    ],
-   "a": 0,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Primary key — Field that uniquely identifies a record."
+   "answer": 0,
+   "explanation": "Primary key — Field that uniquely identifies a record.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00135",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Ctrl + S - Save the current file",
     "Ctrl + S - Delete the previous word",
     "Ctrl + S - Print the current document",
     "Ctrl + S - Show or hide the desktop"
    ],
-   "a": 0,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ctrl + S - Save the current file is correctly matched."
+   "answer": 0,
+   "explanation": "Only Ctrl + S - Save the current file is correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00136",
-   "q": "Which file extension is used for a Web page file?",
-   "o": [
+   "question": "Which file extension is used for a Web page file?",
+   "options": [
     ".pdf",
     ".html",
     ".json",
     ".jpg"
    ],
-   "a": 1,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Web page file uses the extension .html."
+   "answer": 1,
+   "explanation": "Web page file uses the extension .html.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00137",
-   "q": "Modem is best described as which of the following?",
-   "o": [
+   "question": "Modem is best described as which of the following?",
+   "options": [
     "Device that modulates signals for data transmission",
     "Protocol for retrieving email",
     "Short range wireless technology",
     "Protocol for transferring files"
    ],
-   "a": 0,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Modem — Device that modulates signals for data transmission."
+   "answer": 0,
+   "explanation": "Modem — Device that modulates signals for data transmission.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00138",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Ctrl + S - Save the current file",
     "Ctrl + S - Redo the last undone action",
     "Ctrl + S - Switch between open windows",
     "Ctrl + S - Open the security options screen"
    ],
-   "a": 0,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ctrl + S - Save the current file is correctly matched."
+   "answer": 0,
+   "explanation": "Only Ctrl + S - Save the current file is correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00139",
-   "q": "Which file extension is used for a Compressed archive file?",
-   "o": [
+   "question": "Which file extension is used for a Compressed archive file?",
+   "options": [
     ".xlsx",
     ".pdf",
     ".js",
     ".rar"
    ],
-   "a": 3,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Compressed archive file uses the extension .rar."
+   "answer": 3,
+   "explanation": "Compressed archive file uses the extension .rar.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00140",
-   "q": "CSS is best described as which of the following?",
-   "o": [
+   "question": "CSS is best described as which of the following?",
+   "options": [
     "Volatile main memory used for running programs",
     "Non-volatile memory that holds firmware",
     "Language used to style web pages",
     "Network covering a wide area"
    ],
-   "a": 2,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "CSS — Language used to style web pages."
+   "answer": 2,
+   "explanation": "CSS — Language used to style web pages.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00141",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Ctrl + Shift + Esc - Switch between open windows",
     "Ctrl + Shift + Esc - Close the active program",
     "Ctrl + Shift + Esc - Open Task Manager",
     "Ctrl + Shift + Esc - Redo the last undone action"
    ],
-   "a": 2,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ctrl + Shift + Esc - Open Task Manager is correctly matched."
+   "answer": 2,
+   "explanation": "Only Ctrl + Shift + Esc - Open Task Manager is correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00142",
-   "q": "Which file extension is used for a Cascading style sheet file?",
-   "o": [
+   "question": "Which file extension is used for a Cascading style sheet file?",
+   "options": [
     ".jpg",
     ".xml",
     ".css",
     ".mp3"
    ],
-   "a": 2,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Cascading style sheet file uses the extension .css."
+   "answer": 2,
+   "explanation": "Cascading style sheet file uses the extension .css.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00143",
-   "q": "Byte is best described as which of the following?",
-   "o": [
+   "question": "Byte is best described as which of the following?",
+   "options": [
     "Protocol for sending email",
     "Program that converts assembly language to machine code",
     "Eight bits of digital data",
     "Disk space used as an extension of RAM"
    ],
-   "a": 2,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Byte — Eight bits of digital data."
+   "answer": 2,
+   "explanation": "Byte — Eight bits of digital data.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00144",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Ctrl + Shift + Esc - Rename the selected item",
     "Ctrl + Shift + Esc - Close the current window",
     "Ctrl + Shift + Esc - Copy the selected item",
     "Ctrl + Shift + Esc - Open Task Manager"
    ],
-   "a": 3,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ctrl + Shift + Esc - Open Task Manager is correctly matched."
+   "answer": 3,
+   "explanation": "Only Ctrl + Shift + Esc - Open Task Manager is correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00145",
-   "q": "Which file extension is used for a Java source file?",
-   "o": [
+   "question": "Which file extension is used for a Java source file?",
+   "options": [
     ".bat",
     ".java",
     ".mp3",
     ".py"
    ],
-   "a": 1,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Java source file uses the extension .java."
+   "answer": 1,
+   "explanation": "Java source file uses the extension .java.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00146",
-   "q": "Switch is best described as which of the following?",
-   "o": [
+   "question": "Switch is best described as which of the following?",
+   "options": [
     "Language used to structure web pages",
     "Protocol for transferring files",
     "Human readable name of a website",
     "Device that connects devices inside a network"
    ],
-   "a": 3,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Switch — Device that connects devices inside a network."
+   "answer": 3,
+   "explanation": "Switch — Device that connects devices inside a network.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00147",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "PrtScr - Close the current window",
     "PrtScr - Capture the screen",
     "PrtScr - Print the current document",
     "PrtScr - Copy the selected item"
    ],
-   "a": 1,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only PrtScr - Capture the screen is correctly matched."
+   "answer": 1,
+   "explanation": "Only PrtScr - Capture the screen is correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00148",
-   "q": "Which file extension is used for a Video file?",
-   "o": [
+   "question": "Which file extension is used for a Video file?",
+   "options": [
     ".mp4",
     ".jpg",
     ".gif",
     ".java"
    ],
-   "a": 0,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Video file uses the extension .mp4."
+   "answer": 0,
+   "explanation": "Video file uses the extension .mp4.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00149",
-   "q": "SMTP is best described as which of the following?",
-   "o": [
+   "question": "SMTP is best described as which of the following?",
+   "options": [
     "Number system with base two",
     "Protocol for sending email",
     "Human readable name of a website",
     "Network covering a small area"
    ],
-   "a": 1,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "SMTP — Protocol for sending email."
+   "answer": 1,
+   "explanation": "SMTP — Protocol for sending email.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00150",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "PrtScr - Open Task Manager",
     "PrtScr - Capture the screen",
     "PrtScr - Redo the last undone action",
     "PrtScr - Paste the clipboard content"
    ],
-   "a": 1,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only PrtScr - Capture the screen is correctly matched."
+   "answer": 1,
+   "explanation": "Only PrtScr - Capture the screen is correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00151",
-   "q": "Which file extension is used for a Portable Document Format file?",
-   "o": [
+   "question": "Which file extension is used for a Portable Document Format file?",
+   "options": [
     ".xml",
     ".pdf",
     ".rar",
     ".py"
    ],
-   "a": 1,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Portable Document Format file uses the extension .pdf."
+   "answer": 1,
+   "explanation": "Portable Document Format file uses the extension .pdf.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00152",
-   "q": "Hard disk is best described as which of the following?",
-   "o": [
+   "question": "Hard disk is best described as which of the following?",
+   "options": [
     "Software that manages hardware and applications",
     "Security system that filters network traffic",
     "Magnetic secondary storage device",
     "Program that converts source code into machine code"
    ],
-   "a": 2,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Hard disk — Magnetic secondary storage device."
+   "answer": 2,
+   "explanation": "Hard disk — Magnetic secondary storage device.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00153",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Windows + D - Show or hide the desktop",
     "Windows + D - Undo the last action",
     "Windows + D - Find text in a document",
     "Windows + D - Send the selected item to the Recycle Bin"
    ],
-   "a": 0,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Windows + D - Show or hide the desktop is correctly matched."
+   "answer": 0,
+   "explanation": "Only Windows + D - Show or hide the desktop is correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00154",
-   "q": "Which file extension is used for a Microsoft PowerPoint presentation?",
-   "o": [
+   "question": "Which file extension is used for a Microsoft PowerPoint presentation?",
+   "options": [
     ".pdf",
     ".pptx",
     ".css",
     ".py"
    ],
-   "a": 1,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Microsoft PowerPoint presentation uses the extension .pptx."
+   "answer": 1,
+   "explanation": "Microsoft PowerPoint presentation uses the extension .pptx.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00155",
-   "q": "Encryption is best described as which of the following?",
-   "o": [
+   "question": "Encryption is best described as which of the following?",
+   "options": [
     "Data storage on remote internet servers",
     "Malware that locks files and demands payment",
     "Process of converting data into unreadable form",
     "Language used to structure web pages"
    ],
-   "a": 2,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Encryption — Process of converting data into unreadable form."
+   "answer": 2,
+   "explanation": "Encryption — Process of converting data into unreadable form.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00156",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Windows + D - Open an existing file",
     "Windows + D - Show or hide the desktop",
     "Windows + D - Refresh the current window",
     "Windows + D - Capture the screen"
    ],
-   "a": 1,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Windows + D - Show or hide the desktop is correctly matched."
+   "answer": 1,
+   "explanation": "Only Windows + D - Show or hide the desktop is correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00157",
-   "q": "Which file extension is used for a Comma separated values file?",
-   "o": [
+   "question": "Which file extension is used for a Comma separated values file?",
+   "options": [
     ".html",
     ".csv",
     ".xml",
     ".txt"
    ],
-   "a": 1,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Comma separated values file uses the extension .csv."
+   "answer": 1,
+   "explanation": "Comma separated values file uses the extension .csv.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00158",
-   "q": "Overclocking is best described as which of the following?",
-   "o": [
+   "question": "Overclocking is best described as which of the following?",
+   "options": [
     "Very fast memory close to the CPU",
     "Running a processor above its rated speed",
     "Processor that handles graphics and images",
     "Human readable name of a website"
    ],
-   "a": 1,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Overclocking — Running a processor above its rated speed."
+   "answer": 1,
+   "explanation": "Overclocking — Running a processor above its rated speed.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00159",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Ctrl + Y - Undo the last action",
     "Ctrl + Y - Send the selected item to the Recycle Bin",
     "Ctrl + Y - Redo the last undone action",
     "Ctrl + Y - Close the current window"
    ],
-   "a": 2,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ctrl + Y - Redo the last undone action is correctly matched."
+   "answer": 2,
+   "explanation": "Only Ctrl + Y - Redo the last undone action is correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00160",
-   "q": "Which file extension is used for a Batch file?",
-   "o": [
+   "question": "Which file extension is used for a Batch file?",
+   "options": [
     ".svg",
     ".bat",
     ".txt",
     ".json"
    ],
-   "a": 1,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Batch file uses the extension .bat."
+   "answer": 1,
+   "explanation": "Batch file uses the extension .bat.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00161",
-   "q": "Trojan horse is best described as which of the following?",
-   "o": [
+   "question": "Trojan horse is best described as which of the following?",
+   "options": [
     "Software that detects and removes malicious programs",
     "Short range wireless technology",
     "Number system with base sixteen",
     "Malicious program disguised as useful software"
    ],
-   "a": 3,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Trojan horse — Malicious program disguised as useful software."
+   "answer": 3,
+   "explanation": "Trojan horse — Malicious program disguised as useful software.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00162",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Ctrl + Y - Redo the last undone action",
     "Ctrl + Y - Open an existing file",
     "Ctrl + Y - Show or hide the desktop",
     "Ctrl + Y - Copy the selected item"
    ],
-   "a": 0,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ctrl + Y - Redo the last undone action is correctly matched."
+   "answer": 0,
+   "explanation": "Only Ctrl + Y - Redo the last undone action is correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00163",
-   "q": "Which file extension is used for a Compressed archive file?",
-   "o": [
+   "question": "Which file extension is used for a Compressed archive file?",
+   "options": [
     ".csv",
     ".zip",
     ".css",
     ".mp4"
    ],
-   "a": 1,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Compressed archive file uses the extension .zip."
+   "answer": 1,
+   "explanation": "Compressed archive file uses the extension .zip.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00164",
-   "q": "HTTPS is best described as which of the following?",
-   "o": [
+   "question": "HTTPS is best described as which of the following?",
+   "options": [
     "Secure version of the web transfer protocol",
     "Program that converts assembly language to machine code",
     "Two or more connected computers",
     "Using more than one processor at a time"
    ],
-   "a": 0,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "HTTPS — Secure version of the web transfer protocol."
+   "answer": 0,
+   "explanation": "HTTPS — Secure version of the web transfer protocol.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00165",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Ctrl + P - Delete the previous word",
     "Ctrl + P - Print the current document",
     "Ctrl + P - Cut the selected item",
     "Ctrl + P - Refresh the current window"
    ],
-   "a": 1,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ctrl + P - Print the current document is correctly matched."
+   "answer": 1,
+   "explanation": "Only Ctrl + P - Print the current document is correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00166",
-   "q": "Which file extension is used for a Animated image file?",
-   "o": [
+   "question": "Which file extension is used for a Animated image file?",
+   "options": [
     ".gif",
     ".pptx",
     ".html",
     ".svg"
    ],
-   "a": 0,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Animated image file uses the extension .gif."
+   "answer": 0,
+   "explanation": "Animated image file uses the extension .gif.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00167",
-   "q": "Python is best described as which of the following?",
-   "o": [
+   "question": "Python is best described as which of the following?",
+   "options": [
     "High level general purpose programming language",
     "Program that performs a user task",
     "Security system that filters network traffic",
     "Protocol for retrieving email"
    ],
-   "a": 0,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Python — High level general purpose programming language."
+   "answer": 0,
+   "explanation": "Python — High level general purpose programming language.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00168",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Ctrl + P - Undo the last action",
     "Ctrl + P - Lock the computer",
     "Ctrl + P - Print the current document",
     "Ctrl + P - Open the security options screen"
    ],
-   "a": 2,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ctrl + P - Print the current document is correctly matched."
+   "answer": 2,
+   "explanation": "Only Ctrl + P - Print the current document is correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00169",
-   "q": "Which of the following pairs of extension and file type is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of extension and file type is correctly matched?",
+   "options": [
     ".json - Data interchange file",
     ".json - Cascading style sheet file",
     ".json - Extensible markup language file",
     ".json - Plain text file"
    ],
-   "a": 0,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Only .json - Data interchange file is correctly matched."
+   "answer": 0,
+   "explanation": "Only .json - Data interchange file is correctly matched.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00170",
-   "q": "SQL is best described as which of the following?",
-   "o": [
+   "question": "SQL is best described as which of the following?",
+   "options": [
     "Language used to query databases",
     "Program that executes code line by line",
     "Output device that prints large technical drawings",
     "Power supply unit of a computer"
    ],
-   "a": 0,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "SQL — Language used to query databases."
+   "answer": 0,
+   "explanation": "SQL — Language used to query databases.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00171",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Alt + F4 - Delete an item permanently",
     "Alt + F4 - Close the active program",
     "Alt + F4 - Rename the selected item",
     "Alt + F4 - Open the security options screen"
    ],
-   "a": 1,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Alt + F4 - Close the active program is correctly matched."
+   "answer": 1,
+   "explanation": "Only Alt + F4 - Close the active program is correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00172",
-   "q": "Which of the following pairs of extension and file type is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of extension and file type is correctly matched?",
+   "options": [
     ".json - Compressed archive file",
     ".json - Compressed image file",
     ".json - Data interchange file",
     ".json - Comma separated values file"
    ],
-   "a": 2,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Only .json - Data interchange file is correctly matched."
+   "answer": 2,
+   "explanation": "Only .json - Data interchange file is correctly matched.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00173",
-   "q": "Device driver is best described as which of the following?",
-   "o": [
+   "question": "Device driver is best described as which of the following?",
+   "options": [
     "Output device that produces sound",
     "Protocol used to transfer web pages",
     "Disk space used as an extension of RAM",
     "Software that lets the OS talk to hardware"
    ],
-   "a": 3,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Device driver — Software that lets the OS talk to hardware."
+   "answer": 3,
+   "explanation": "Device driver — Software that lets the OS talk to hardware.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00174",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Alt + F4 - Lock the computer",
     "Alt + F4 - Send the selected item to the Recycle Bin",
     "Alt + F4 - Find text in a document",
     "Alt + F4 - Close the active program"
    ],
-   "a": 3,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Alt + F4 - Close the active program is correctly matched."
+   "answer": 3,
+   "explanation": "Only Alt + F4 - Close the active program is correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00175",
-   "q": "Which of the following pairs of extension and file type is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of extension and file type is correctly matched?",
+   "options": [
     ".gif - Video file",
     ".gif - Microsoft Excel workbook",
     ".gif - Animated image file",
     ".gif - Compressed archive file"
    ],
-   "a": 2,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Only .gif - Animated image file is correctly matched."
+   "answer": 2,
+   "explanation": "Only .gif - Animated image file is correctly matched.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00176",
-   "q": "Flowchart is best described as which of the following?",
-   "o": [
+   "question": "Flowchart is best described as which of the following?",
+   "options": [
     "Diagram of the steps of an algorithm",
     "Input device that converts paper documents to digital form",
     "Device that modulates signals for data transmission",
     "Input device that captures sound"
    ],
-   "a": 0,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Flowchart — Diagram of the steps of an algorithm."
+   "answer": 0,
+   "explanation": "Flowchart — Diagram of the steps of an algorithm.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00177",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Ctrl + W - Open Task Manager",
     "Ctrl + W - Paste the clipboard content",
     "Ctrl + W - Open File Explorer",
     "Ctrl + W - Close the current window"
    ],
-   "a": 3,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ctrl + W - Close the current window is correctly matched."
+   "answer": 3,
+   "explanation": "Only Ctrl + W - Close the current window is correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00178",
-   "q": "Which of the following pairs of extension and file type is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of extension and file type is correctly matched?",
+   "options": [
     ".gif - Animated image file",
     ".gif - Audio file",
     ".gif - Data interchange file",
     ".gif - Executable program file"
    ],
-   "a": 0,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Only .gif - Animated image file is correctly matched."
+   "answer": 0,
+   "explanation": "Only .gif - Animated image file is correctly matched.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00179",
-   "q": "Search engine is best described as which of the following?",
-   "o": [
+   "question": "Search engine is best described as which of the following?",
+   "options": [
     "Software whose source code is freely available",
     "Processor that handles graphics and images",
     "Tool that finds information on the web",
     "Device that forwards data between networks"
    ],
-   "a": 2,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Search engine — Tool that finds information on the web."
+   "answer": 2,
+   "explanation": "Search engine — Tool that finds information on the web.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00180",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Ctrl + W - Close the current window",
     "Ctrl + W - Undo the last action",
     "Ctrl + W - Open a new window or document",
     "Ctrl + W - Show or hide the desktop"
    ],
-   "a": 0,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ctrl + W - Close the current window is correctly matched."
+   "answer": 0,
+   "explanation": "Only Ctrl + W - Close the current window is correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00181",
-   "q": "Which of the following pairs of extension and file type is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of extension and file type is correctly matched?",
+   "options": [
     ".exe - Plain text file",
     ".exe - Executable program file",
     ".exe - Comma separated values file",
     ".exe - Python source file"
    ],
-   "a": 1,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Only .exe - Executable program file is correctly matched."
+   "answer": 1,
+   "explanation": "Only .exe - Executable program file is correctly matched.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00182",
-   "q": "Monitor is best described as which of the following?",
-   "o": [
+   "question": "Monitor is best described as which of the following?",
+   "options": [
     "Network covering a wide area",
     "Field that uniquely identifies a record",
     "Output device that displays visuals",
     "Two or more connected computers"
    ],
-   "a": 2,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Monitor — Output device that displays visuals."
+   "answer": 2,
+   "explanation": "Monitor — Output device that displays visuals.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00183",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Ctrl + N - Save the current file",
     "Ctrl + N - Open an existing file",
     "Ctrl + N - Send the selected item to the Recycle Bin",
     "Ctrl + N - Open a new window or document"
    ],
-   "a": 3,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ctrl + N - Open a new window or document is correctly matched."
+   "answer": 3,
+   "explanation": "Only Ctrl + N - Open a new window or document is correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00184",
-   "q": "Which of the following pairs of extension and file type is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of extension and file type is correctly matched?",
+   "options": [
     ".exe - Microsoft PowerPoint presentation",
     ".exe - Executable program file",
     ".exe - Plain text file",
     ".exe - Compressed archive file"
    ],
-   "a": 1,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Only .exe - Executable program file is correctly matched."
+   "answer": 1,
+   "explanation": "Only .exe - Executable program file is correctly matched.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00185",
-   "q": "Hexadecimal is best described as which of the following?",
-   "o": [
+   "question": "Hexadecimal is best described as which of the following?",
+   "options": [
     "Informal description of a program",
     "Number system with base sixteen",
     "Object oriented programming language",
     "Language that adds behaviour to web pages"
    ],
-   "a": 1,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Hexadecimal — Number system with base sixteen."
+   "answer": 1,
+   "explanation": "Hexadecimal — Number system with base sixteen.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00186",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Ctrl + N - Print the current document",
     "Ctrl + N - Delete an item permanently",
     "Ctrl + N - Copy the selected item",
     "Ctrl + N - Open a new window or document"
    ],
-   "a": 3,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ctrl + N - Open a new window or document is correctly matched."
+   "answer": 3,
+   "explanation": "Only Ctrl + N - Open a new window or document is correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00187",
-   "q": "Which of the following pairs of extension and file type is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of extension and file type is correctly matched?",
+   "options": [
     ".bat - Batch file",
     ".bat - Extensible markup language file",
     ".bat - Microsoft Word document",
     ".bat - JavaScript file"
    ],
-   "a": 0,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Only .bat - Batch file is correctly matched."
+   "answer": 0,
+   "explanation": "Only .bat - Batch file is correctly matched.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00188",
-   "q": "RAM is best described as which of the following?",
-   "o": [
+   "question": "RAM is best described as which of the following?",
+   "options": [
     "Protocol for transferring files",
     "Pointing input device",
     "Number system with base sixteen",
     "Volatile main memory used for running programs"
    ],
-   "a": 3,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "RAM — Volatile main memory used for running programs."
+   "answer": 3,
+   "explanation": "RAM — Volatile main memory used for running programs.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00189",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Ctrl + O - Close the active program",
     "Ctrl + O - Open the security options screen",
     "Ctrl + O - Rename the selected item",
     "Ctrl + O - Open an existing file"
    ],
-   "a": 3,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ctrl + O - Open an existing file is correctly matched."
+   "answer": 3,
+   "explanation": "Only Ctrl + O - Open an existing file is correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00190",
-   "q": "Which of the following pairs of extension and file type is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of extension and file type is correctly matched?",
+   "options": [
     ".bat - Compressed image file",
     ".bat - Microsoft PowerPoint presentation",
     ".bat - Batch file",
     ".bat - Extensible markup language file"
    ],
-   "a": 2,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Only .bat - Batch file is correctly matched."
+   "answer": 2,
+   "explanation": "Only .bat - Batch file is correctly matched.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00191",
-   "q": "CPU is best described as which of the following?",
-   "o": [
+   "question": "CPU is best described as which of the following?",
+   "options": [
     "Malicious program that spreads on its own",
     "Universal character encoding standard",
     "Procedural programming language",
     "The processing unit that executes instructions"
    ],
-   "a": 3,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "CPU — The processing unit that executes instructions."
+   "answer": 3,
+   "explanation": "CPU — The processing unit that executes instructions.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00192",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Ctrl + O - Open File Explorer",
     "Ctrl + O - Refresh the current window",
     "Ctrl + O - Undo the last action",
     "Ctrl + O - Open an existing file"
    ],
-   "a": 3,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ctrl + O - Open an existing file is correctly matched."
+   "answer": 3,
+   "explanation": "Only Ctrl + O - Open an existing file is correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00193",
-   "q": "Which of the following pairs of extension and file type is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of extension and file type is correctly matched?",
+   "options": [
     ".svg - Plain text file",
     ".svg - Compressed archive file",
     ".svg - Scalable vector graphics file",
     ".svg - Compressed image file"
    ],
-   "a": 2,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Only .svg - Scalable vector graphics file is correctly matched."
+   "answer": 2,
+   "explanation": "Only .svg - Scalable vector graphics file is correctly matched.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00194",
-   "q": "ASCII is best described as which of the following?",
-   "o": [
+   "question": "ASCII is best described as which of the following?",
+   "options": [
     "Object oriented programming language",
     "Running several tasks at the same time",
     "Standard code for representing characters",
     "Diagram of the steps of an algorithm"
    ],
-   "a": 2,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "ASCII — Standard code for representing characters."
+   "answer": 2,
+   "explanation": "ASCII — Standard code for representing characters.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00195",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Ctrl + Z - Refresh the current window",
     "Ctrl + Z - Print the current document",
     "Ctrl + Z - Undo the last action",
     "Ctrl + Z - Open a new window or document"
    ],
-   "a": 2,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ctrl + Z - Undo the last action is correctly matched."
+   "answer": 2,
+   "explanation": "Only Ctrl + Z - Undo the last action is correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00196",
-   "q": "Which of the following pairs of extension and file type is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of extension and file type is correctly matched?",
+   "options": [
     ".svg - Image file with transparency support",
     ".svg - Data interchange file",
     ".svg - Audio file",
     ".svg - Scalable vector graphics file"
    ],
-   "a": 3,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Only .svg - Scalable vector graphics file is correctly matched."
+   "answer": 3,
+   "explanation": "Only .svg - Scalable vector graphics file is correctly matched.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00197",
-   "q": "Assembler is best described as which of the following?",
-   "o": [
+   "question": "Assembler is best described as which of the following?",
+   "options": [
     "Network covering a city",
     "Organised collection of data",
     "Program that converts assembly language to machine code",
     "Program that executes code line by line"
    ],
-   "a": 2,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Assembler — Program that converts assembly language to machine code."
+   "answer": 2,
+   "explanation": "Assembler — Program that converts assembly language to machine code.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00198",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Ctrl + Z - Open the security options screen",
     "Ctrl + Z - Open a new window or document",
     "Ctrl + Z - Close the current window",
     "Ctrl + Z - Undo the last action"
    ],
-   "a": 3,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ctrl + Z - Undo the last action is correctly matched."
+   "answer": 3,
+   "explanation": "Only Ctrl + Z - Undo the last action is correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00199",
-   "q": "Which of the following pairs of extension and file type is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of extension and file type is correctly matched?",
+   "options": [
     ".css - Data interchange file",
     ".css - Java source file",
     ".css - Microsoft PowerPoint presentation",
     ".css - Cascading style sheet file"
    ],
-   "a": 3,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Only .css - Cascading style sheet file is correctly matched."
+   "answer": 3,
+   "explanation": "Only .css - Cascading style sheet file is correctly matched.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00200",
-   "q": "POP3 is best described as which of the following?",
-   "o": [
+   "question": "POP3 is best described as which of the following?",
+   "options": [
     "Language used to style web pages",
     "Volatile main memory used for running programs",
     "Two or more connected computers",
     "Protocol for retrieving email"
    ],
-   "a": 3,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "POP3 — Protocol for retrieving email."
+   "answer": 3,
+   "explanation": "POP3 — Protocol for retrieving email.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00201",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Windows + E - Open File Explorer",
     "Windows + E - Capture the screen",
     "Windows + E - Close the current window",
     "Windows + E - Paste the clipboard content"
    ],
-   "a": 0,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Windows + E - Open File Explorer is correctly matched."
+   "answer": 0,
+   "explanation": "Only Windows + E - Open File Explorer is correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00202",
-   "q": "Which of the following pairs of extension and file type is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of extension and file type is correctly matched?",
+   "options": [
     ".css - Animated image file",
     ".css - Batch file",
     ".css - Web page file",
     ".css - Cascading style sheet file"
    ],
-   "a": 3,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Only .css - Cascading style sheet file is correctly matched."
+   "answer": 3,
+   "explanation": "Only .css - Cascading style sheet file is correctly matched.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00203",
-   "q": "Scanner is best described as which of the following?",
-   "o": [
+   "question": "Scanner is best described as which of the following?",
+   "options": [
     "Input device that converts paper documents to digital form",
     "Device that forwards data between networks",
     "L1, L2 and L3 are cache levels",
     "System that translates domain names into IP addresses"
    ],
-   "a": 0,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Scanner — Input device that converts paper documents to digital form."
+   "answer": 0,
+   "explanation": "Scanner — Input device that converts paper documents to digital form.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00204",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Windows + E - Send the selected item to the Recycle Bin",
     "Windows + E - Open an existing file",
     "Windows + E - Open File Explorer",
     "Windows + E - Print the current document"
    ],
-   "a": 2,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Windows + E - Open File Explorer is correctly matched."
+   "answer": 2,
+   "explanation": "Only Windows + E - Open File Explorer is correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00205",
-   "q": "Which of the following pairs of extension and file type is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of extension and file type is correctly matched?",
+   "options": [
     ".rar - Web page file",
     ".rar - Executable program file",
     ".rar - Compressed archive file",
     ".rar - Audio file"
    ],
-   "a": 2,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Only .rar - Compressed archive file is correctly matched."
+   "answer": 2,
+   "explanation": "Only .rar - Compressed archive file is correctly matched.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00206",
-   "q": "Operating system is best described as which of the following?",
-   "o": [
+   "question": "Operating system is best described as which of the following?",
+   "options": [
     "Software that manages hardware and applications",
     "Restarting a computer",
     "Output device that produces hard copies",
     "Software that secretly collects information"
    ],
-   "a": 0,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Operating system — Software that manages hardware and applications."
+   "answer": 0,
+   "explanation": "Operating system — Software that manages hardware and applications.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00207",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Delete - Show or hide the desktop",
     "Delete - Open the security options screen",
     "Delete - Send the selected item to the Recycle Bin",
     "Delete - Find text in a document"
    ],
-   "a": 2,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Delete - Send the selected item to the Recycle Bin is correctly matched."
+   "answer": 2,
+   "explanation": "Only Delete - Send the selected item to the Recycle Bin is correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00208",
-   "q": "Which of the following pairs of extension and file type is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of extension and file type is correctly matched?",
+   "options": [
     ".rar - Microsoft Word document",
     ".rar - JavaScript file",
     ".rar - Compressed archive file",
     ".rar - Compressed image file"
    ],
-   "a": 2,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Only .rar - Compressed archive file is correctly matched."
+   "answer": 2,
+   "explanation": "Only .rar - Compressed archive file is correctly matched.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00209",
-   "q": "Firmware is best described as which of the following?",
-   "o": [
+   "question": "Firmware is best described as which of the following?",
+   "options": [
     "Protocol used to transfer web pages",
     "Software stored permanently on a hardware chip",
     "Pointing input device",
     "Running several tasks at the same time"
    ],
-   "a": 1,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Firmware — Software stored permanently on a hardware chip."
+   "answer": 1,
+   "explanation": "Firmware — Software stored permanently on a hardware chip.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00210",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Delete - Copy the selected item",
     "Delete - Open the security options screen",
     "Delete - Send the selected item to the Recycle Bin",
     "Delete - Cut the selected item"
    ],
-   "a": 2,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Delete - Send the selected item to the Recycle Bin is correctly matched."
+   "answer": 2,
+   "explanation": "Only Delete - Send the selected item to the Recycle Bin is correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00211",
-   "q": "Which of the following pairs of extension and file type is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of extension and file type is correctly matched?",
+   "options": [
     ".mp3 - Audio file",
     ".mp3 - Comma separated values file",
     ".mp3 - Cascading style sheet file",
     ".mp3 - Batch file"
    ],
-   "a": 0,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Only .mp3 - Audio file is correctly matched."
+   "answer": 0,
+   "explanation": "Only .mp3 - Audio file is correctly matched.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00212",
-   "q": "Malware is best described as which of the following?",
-   "o": [
+   "question": "Malware is best described as which of the following?",
+   "options": [
     "Device that connects devices inside a network",
     "Unique address of a device on a network",
     "Software used to view web pages",
     "Software designed to damage or intrude"
    ],
-   "a": 3,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Malware — Software designed to damage or intrude."
+   "answer": 3,
+   "explanation": "Malware — Software designed to damage or intrude.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00213",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "F5 - Save the current file",
     "F5 - Refresh the current window",
     "F5 - Rename the selected item",
     "F5 - Open the security options screen"
    ],
-   "a": 1,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only F5 - Refresh the current window is correctly matched."
+   "answer": 1,
+   "explanation": "Only F5 - Refresh the current window is correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00214",
-   "q": "Which of the following pairs of extension and file type is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of extension and file type is correctly matched?",
+   "options": [
     ".mp3 - Portable Document Format file",
     ".mp3 - Audio file",
     ".mp3 - Compressed archive file",
     ".mp3 - Java source file"
    ],
-   "a": 1,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Only .mp3 - Audio file is correctly matched."
+   "answer": 1,
+   "explanation": "Only .mp3 - Audio file is correctly matched.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00215",
-   "q": "Kernel is best described as which of the following?",
-   "o": [
+   "question": "Kernel is best described as which of the following?",
+   "options": [
     "Language that adds behaviour to web pages",
     "Disk space used as an extension of RAM",
     "Core part of an operating system",
     "Informal description of a program"
    ],
-   "a": 2,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Kernel — Core part of an operating system."
+   "answer": 2,
+   "explanation": "Kernel — Core part of an operating system.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00216",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "F5 - Refresh the current window",
     "F5 - Delete an item permanently",
     "F5 - Find text in a document",
     "F5 - Print the current document"
    ],
-   "a": 0,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only F5 - Refresh the current window is correctly matched."
+   "answer": 0,
+   "explanation": "Only F5 - Refresh the current window is correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00217",
-   "q": "Which of the following pairs of extension and file type is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of extension and file type is correctly matched?",
+   "options": [
     ".docx - Compressed archive file",
     ".docx - Microsoft Word document",
     ".docx - Audio file",
     ".docx - Python source file"
    ],
-   "a": 1,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Only .docx - Microsoft Word document is correctly matched."
+   "answer": 1,
+   "explanation": "Only .docx - Microsoft Word document is correctly matched.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00218",
-   "q": "Virtual memory is best described as which of the following?",
-   "o": [
+   "question": "Virtual memory is best described as which of the following?",
+   "options": [
     "Universal character encoding standard",
     "Non-volatile memory that holds firmware",
     "Language that adds behaviour to web pages",
     "Disk space used as an extension of RAM"
    ],
-   "a": 3,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Virtual memory — Disk space used as an extension of RAM."
+   "answer": 3,
+   "explanation": "Virtual memory — Disk space used as an extension of RAM.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00219",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Alt + Tab - Send the selected item to the Recycle Bin",
     "Alt + Tab - Switch between open windows",
     "Alt + Tab - Select all items",
     "Alt + Tab - Copy the selected item"
    ],
-   "a": 1,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Alt + Tab - Switch between open windows is correctly matched."
+   "answer": 1,
+   "explanation": "Only Alt + Tab - Switch between open windows is correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00220",
-   "q": "Which of the following pairs of extension and file type is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of extension and file type is correctly matched?",
+   "options": [
     ".docx - Scalable vector graphics file",
     ".docx - Data interchange file",
     ".docx - Compressed archive file",
     ".docx - Microsoft Word document"
    ],
-   "a": 3,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Only .docx - Microsoft Word document is correctly matched."
+   "answer": 3,
+   "explanation": "Only .docx - Microsoft Word document is correctly matched.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00221",
-   "q": "Plotter is best described as which of the following?",
-   "o": [
+   "question": "Plotter is best described as which of the following?",
+   "options": [
     "Object oriented programming language",
     "Output device that prints large technical drawings",
     "Output device that produces hard copies",
     "Restarting a computer"
    ],
-   "a": 1,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Plotter — Output device that prints large technical drawings."
+   "answer": 1,
+   "explanation": "Plotter — Output device that prints large technical drawings.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00222",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Alt + Tab - Open Task Manager",
     "Alt + Tab - Switch between open windows",
     "Alt + Tab - Cut the selected item",
     "Alt + Tab - Print the current document"
    ],
-   "a": 1,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Alt + Tab - Switch between open windows is correctly matched."
+   "answer": 1,
+   "explanation": "Only Alt + Tab - Switch between open windows is correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00223",
-   "q": "Which of the following pairs of extension and file type is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of extension and file type is correctly matched?",
+   "options": [
     ".pdf - Portable Document Format file",
     ".pdf - Scalable vector graphics file",
     ".pdf - JavaScript file",
     ".pdf - Web page file"
    ],
-   "a": 0,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Only .pdf - Portable Document Format file is correctly matched."
+   "answer": 0,
+   "explanation": "Only .pdf - Portable Document Format file is correctly matched.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00224",
-   "q": "Printer is best described as which of the following?",
-   "o": [
+   "question": "Printer is best described as which of the following?",
+   "options": [
     "Output device that produces hard copies",
     "Language used to style web pages",
     "Interface that uses icons and windows",
     "Process of converting data into unreadable form"
    ],
-   "a": 0,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Printer — Output device that produces hard copies."
+   "answer": 0,
+   "explanation": "Printer — Output device that produces hard copies.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00225",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Windows + L - Select all items",
     "Windows + L - Send the selected item to the Recycle Bin",
     "Windows + L - Delete the previous word",
     "Windows + L - Lock the computer"
    ],
-   "a": 3,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Windows + L - Lock the computer is correctly matched."
+   "answer": 3,
+   "explanation": "Only Windows + L - Lock the computer is correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00226",
-   "q": "Which of the following pairs of extension and file type is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of extension and file type is correctly matched?",
+   "options": [
     ".pdf - Video file",
     ".pdf - Comma separated values file",
     ".pdf - Java source file",
     ".pdf - Portable Document Format file"
    ],
-   "a": 3,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Only .pdf - Portable Document Format file is correctly matched."
+   "answer": 3,
+   "explanation": "Only .pdf - Portable Document Format file is correctly matched.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00227",
-   "q": "Web browser is best described as which of the following?",
-   "o": [
+   "question": "Web browser is best described as which of the following?",
+   "options": [
     "Device that connects devices inside a network",
     "Software used to view web pages",
     "Language that adds behaviour to web pages",
     "Security system that filters network traffic"
    ],
-   "a": 1,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Web browser — Software used to view web pages."
+   "answer": 1,
+   "explanation": "Web browser — Software used to view web pages.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00228",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Windows + L - Paste the clipboard content",
     "Windows + L - Rename the selected item",
     "Windows + L - Copy the selected item",
     "Windows + L - Lock the computer"
    ],
-   "a": 3,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Windows + L - Lock the computer is correctly matched."
+   "answer": 3,
+   "explanation": "Only Windows + L - Lock the computer is correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00229",
-   "q": "Which of the following pairs of extension and file type is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of extension and file type is correctly matched?",
+   "options": [
     ".js - Audio file",
     ".js - JavaScript file",
     ".js - Compressed archive file",
     ".js - Portable Document Format file"
    ],
-   "a": 1,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Only .js - JavaScript file is correctly matched."
+   "answer": 1,
+   "explanation": "Only .js - JavaScript file is correctly matched.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00230",
-   "q": "Multitasking is best described as which of the following?",
-   "o": [
+   "question": "Multitasking is best described as which of the following?",
+   "options": [
     "Software used to view web pages",
     "Power supply unit of a computer",
     "Running several tasks at the same time",
     "Output device that displays visuals"
    ],
-   "a": 2,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Multitasking — Running several tasks at the same time."
+   "answer": 2,
+   "explanation": "Multitasking — Running several tasks at the same time.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00231",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Ctrl + F - Close the active program",
     "Ctrl + F - Open the security options screen",
     "Ctrl + F - Find text in a document",
     "Ctrl + F - Open an existing file"
    ],
-   "a": 2,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ctrl + F - Find text in a document is correctly matched."
+   "answer": 2,
+   "explanation": "Only Ctrl + F - Find text in a document is correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00232",
-   "q": "Which of the following pairs of extension and file type is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of extension and file type is correctly matched?",
+   "options": [
     ".js - Comma separated values file",
     ".js - Executable program file",
     ".js - JavaScript file",
     ".js - Compressed archive file"
    ],
-   "a": 2,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Only .js - JavaScript file is correctly matched."
+   "answer": 2,
+   "explanation": "Only .js - JavaScript file is correctly matched.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00233",
-   "q": "Firewall is best described as which of the following?",
-   "o": [
+   "question": "Firewall is best described as which of the following?",
+   "options": [
     "Security system that filters network traffic",
     "Very fast memory close to the CPU",
     "Portable USB flash storage device",
     "Small file stored by a website in the browser"
    ],
-   "a": 0,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Firewall — Security system that filters network traffic."
+   "answer": 0,
+   "explanation": "Firewall — Security system that filters network traffic.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00234",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Ctrl + F - Switch between open windows",
     "Ctrl + F - Delete an item permanently",
     "Ctrl + F - Find text in a document",
     "Ctrl + F - Cut the selected item"
    ],
-   "a": 2,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ctrl + F - Find text in a document is correctly matched."
+   "answer": 2,
+   "explanation": "Only Ctrl + F - Find text in a document is correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00235",
-   "q": "Which of the following pairs of extension and file type is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of extension and file type is correctly matched?",
+   "options": [
     ".zip - Microsoft PowerPoint presentation",
     ".zip - Extensible markup language file",
     ".zip - Data interchange file",
     ".zip - Compressed archive file"
    ],
-   "a": 3,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Only .zip - Compressed archive file is correctly matched."
+   "answer": 3,
+   "explanation": "Only .zip - Compressed archive file is correctly matched.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00236",
-   "q": "Antivirus is best described as which of the following?",
-   "o": [
+   "question": "Antivirus is best described as which of the following?",
+   "options": [
     "Language that adds behaviour to web pages",
     "Tool that finds information on the web",
     "Software that detects and removes malicious programs",
     "Delivery of computing services over the internet"
    ],
-   "a": 2,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Antivirus — Software that detects and removes malicious programs."
+   "answer": 2,
+   "explanation": "Antivirus — Software that detects and removes malicious programs.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00237",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Ctrl + Backspace - Find text in a document",
     "Ctrl + Backspace - Delete the previous word",
     "Ctrl + Backspace - Lock the computer",
     "Ctrl + Backspace - Redo the last undone action"
    ],
-   "a": 1,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ctrl + Backspace - Delete the previous word is correctly matched."
+   "answer": 1,
+   "explanation": "Only Ctrl + Backspace - Delete the previous word is correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00238",
-   "q": "Which of the following pairs of extension and file type is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of extension and file type is correctly matched?",
+   "options": [
     ".zip - Compressed archive file",
     ".zip - Microsoft Excel workbook",
     ".zip - Cascading style sheet file",
     ".zip - Portable Document Format file"
    ],
-   "a": 0,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Only .zip - Compressed archive file is correctly matched."
+   "answer": 0,
+   "explanation": "Only .zip - Compressed archive file is correctly matched.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00239",
-   "q": "Mouse is best described as which of the following?",
-   "o": [
+   "question": "Mouse is best described as which of the following?",
+   "options": [
     "Program that converts source code into machine code",
     "Pointing input device",
     "Protocol for sending email",
     "Malicious program that spreads on its own"
    ],
-   "a": 1,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Mouse — Pointing input device."
+   "answer": 1,
+   "explanation": "Mouse — Pointing input device.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00240",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Ctrl + Backspace - Delete the previous word",
     "Ctrl + Backspace - Select all items",
     "Ctrl + Backspace - Capture the screen",
     "Ctrl + Backspace - Rename the selected item"
    ],
-   "a": 0,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ctrl + Backspace - Delete the previous word is correctly matched."
+   "answer": 0,
+   "explanation": "Only Ctrl + Backspace - Delete the previous word is correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00241",
-   "q": "Which of the following pairs of extension and file type is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of extension and file type is correctly matched?",
+   "options": [
     ".py - Extensible markup language file",
     ".py - Microsoft Excel workbook",
     ".py - Compressed archive file",
     ".py - Python source file"
    ],
-   "a": 3,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Only .py - Python source file is correctly matched."
+   "answer": 3,
+   "explanation": "Only .py - Python source file is correctly matched.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00242",
-   "q": "Binary is best described as which of the following?",
-   "o": [
+   "question": "Binary is best described as which of the following?",
+   "options": [
     "Number system with base two",
     "Pointing input device",
     "Unique address of a device on a network",
     "Main circuit board of a computer"
    ],
-   "a": 0,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Binary — Number system with base two."
+   "answer": 0,
+   "explanation": "Binary — Number system with base two.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00243",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Ctrl + V - Open a new window or document",
     "Ctrl + V - Capture the screen",
     "Ctrl + V - Show or hide the desktop",
     "Ctrl + V - Paste the clipboard content"
    ],
-   "a": 3,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ctrl + V - Paste the clipboard content is correctly matched."
+   "answer": 3,
+   "explanation": "Only Ctrl + V - Paste the clipboard content is correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00244",
-   "q": "Which of the following pairs of extension and file type is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of extension and file type is correctly matched?",
+   "options": [
     ".py - Python source file",
     ".py - Plain text file",
     ".py - Scalable vector graphics file",
     ".py - Audio file"
    ],
-   "a": 0,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Only .py - Python source file is correctly matched."
+   "answer": 0,
+   "explanation": "Only .py - Python source file is correctly matched.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00245",
-   "q": "Application software is best described as which of the following?",
-   "o": [
+   "question": "Application software is best described as which of the following?",
+   "options": [
     "Program that performs a user task",
     "Processor that handles graphics and images",
     "Process of starting a computer",
     "Language that adds behaviour to web pages"
    ],
-   "a": 0,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Application software — Program that performs a user task."
+   "answer": 0,
+   "explanation": "Application software — Program that performs a user task.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00246",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Ctrl + V - Cut the selected item",
     "Ctrl + V - Send the selected item to the Recycle Bin",
     "Ctrl + V - Find text in a document",
     "Ctrl + V - Paste the clipboard content"
    ],
-   "a": 3,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ctrl + V - Paste the clipboard content is correctly matched."
+   "answer": 3,
+   "explanation": "Only Ctrl + V - Paste the clipboard content is correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00247",
-   "q": "Which of the following pairs of extension and file type is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of extension and file type is correctly matched?",
+   "options": [
     ".xml - Video file",
     ".xml - Portable Document Format file",
     ".xml - Extensible markup language file",
     ".xml - Plain text file"
    ],
-   "a": 2,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Only .xml - Extensible markup language file is correctly matched."
+   "answer": 2,
+   "explanation": "Only .xml - Extensible markup language file is correctly matched.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00248",
-   "q": "Interpreter is best described as which of the following?",
-   "o": [
+   "question": "Interpreter is best described as which of the following?",
+   "options": [
     "Smallest unit of digital data",
     "Short range wireless technology",
     "Program that executes code line by line",
     "System that translates domain names into IP addresses"
    ],
-   "a": 2,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Interpreter — Program that executes code line by line."
+   "answer": 2,
+   "explanation": "Interpreter — Program that executes code line by line.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00249",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "F2 - Undo the last action",
     "F2 - Save the current file",
     "F2 - Close the active program",
     "F2 - Rename the selected item"
    ],
-   "a": 3,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only F2 - Rename the selected item is correctly matched."
+   "answer": 3,
+   "explanation": "Only F2 - Rename the selected item is correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00250",
-   "q": "Which of the following pairs of extension and file type is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of extension and file type is correctly matched?",
+   "options": [
     ".xml - Extensible markup language file",
     ".xml - Video file",
     ".xml - Microsoft Word document",
     ".xml - Image file with transparency support"
    ],
-   "a": 0,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Only .xml - Extensible markup language file is correctly matched."
+   "answer": 0,
+   "explanation": "Only .xml - Extensible markup language file is correctly matched.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00251",
-   "q": "Cookie is best described as which of the following?",
-   "o": [
+   "question": "Cookie is best described as which of the following?",
+   "options": [
     "Two or more connected computers",
     "Software that detects and removes malicious programs",
     "Program that converts assembly language to machine code",
     "Small file stored by a website in the browser"
    ],
-   "a": 3,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Cookie — Small file stored by a website in the browser."
+   "answer": 3,
+   "explanation": "Cookie — Small file stored by a website in the browser.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00252",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "F2 - Refresh the current window",
     "F2 - Lock the computer",
     "F2 - Rename the selected item",
     "F2 - Print the current document"
    ],
-   "a": 2,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only F2 - Rename the selected item is correctly matched."
+   "answer": 2,
+   "explanation": "Only F2 - Rename the selected item is correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00253",
-   "q": "Which of the following pairs of extension and file type is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of extension and file type is correctly matched?",
+   "options": [
     ".pptx - Microsoft PowerPoint presentation",
     ".pptx - Java source file",
     ".pptx - Web page file",
     ".pptx - Audio file"
    ],
-   "a": 0,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Only .pptx - Microsoft PowerPoint presentation is correctly matched."
+   "answer": 0,
+   "explanation": "Only .pptx - Microsoft PowerPoint presentation is correctly matched.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00254",
-   "q": "URL is best described as which of the following?",
-   "o": [
+   "question": "URL is best described as which of the following?",
+   "options": [
     "Short range wireless technology",
     "Program that performs a user task",
     "Address of a resource on the internet",
     "Software whose source code is freely available"
    ],
-   "a": 2,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "URL — Address of a resource on the internet."
+   "answer": 2,
+   "explanation": "URL — Address of a resource on the internet.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00255",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Ctrl + A - Find text in a document",
     "Ctrl + A - Open File Explorer",
     "Ctrl + A - Open the security options screen",
     "Ctrl + A - Select all items"
    ],
-   "a": 3,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ctrl + A - Select all items is correctly matched."
+   "answer": 3,
+   "explanation": "Only Ctrl + A - Select all items is correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00256",
-   "q": "Which of the following pairs of extension and file type is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of extension and file type is correctly matched?",
+   "options": [
     ".pptx - Extensible markup language file",
     ".pptx - Video file",
     ".pptx - Batch file",
     ".pptx - Microsoft PowerPoint presentation"
    ],
-   "a": 3,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Only .pptx - Microsoft PowerPoint presentation is correctly matched."
+   "answer": 3,
+   "explanation": "Only .pptx - Microsoft PowerPoint presentation is correctly matched.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00257",
-   "q": "WAN is best described as which of the following?",
-   "o": [
+   "question": "WAN is best described as which of the following?",
+   "options": [
     "Network covering a wide area",
     "Network covering a small area",
     "Process of starting a computer",
     "Input device that captures video"
    ],
-   "a": 0,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "WAN — Network covering a wide area."
+   "answer": 0,
+   "explanation": "WAN — Network covering a wide area.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00258",
-   "q": "Which of the following pairs is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is correctly matched?",
+   "options": [
     "Ctrl + A - Delete the previous word",
     "Ctrl + A - Open Task Manager",
     "Ctrl + A - Select all items",
     "Ctrl + A - Open File Explorer"
    ],
-   "a": 2,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "Only Ctrl + A - Select all items is correctly matched."
+   "answer": 2,
+   "explanation": "Only Ctrl + A - Select all items is correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00259",
-   "q": "Which of the following pairs of extension and file type is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of extension and file type is correctly matched?",
+   "options": [
     ".java - Java source file",
     ".java - Web page file",
     ".java - Batch file",
     ".java - Plain text file"
    ],
-   "a": 0,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Only .java - Java source file is correctly matched."
+   "answer": 0,
+   "explanation": "Only .java - Java source file is correctly matched.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00260",
-   "q": "SSD is best described as which of the following?",
-   "o": [
+   "question": "SSD is best described as which of the following?",
+   "options": [
     "Storage device with no moving parts",
     "Software that detects and removes malicious programs",
     "Malicious program disguised as useful software",
     "Address of a resource on the internet"
    ],
-   "a": 0,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "SSD — Storage device with no moving parts."
+   "answer": 0,
+   "explanation": "SSD — Storage device with no moving parts.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00261",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Ctrl + W - Close the current window",
     "PrtScr - Find text in a document",
     "Ctrl + X - Cut the selected item",
     "F2 - Rename the selected item"
    ],
-   "a": 1,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair PrtScr - Find text in a document is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair PrtScr - Find text in a document is not correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00262",
-   "q": "Which of the following pairs of extension and file type is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of extension and file type is correctly matched?",
+   "options": [
     ".java - Scalable vector graphics file",
     ".java - Java source file",
     ".java - Microsoft Word document",
     ".java - Batch file"
    ],
-   "a": 1,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Only .java - Java source file is correctly matched."
+   "answer": 1,
+   "explanation": "Only .java - Java source file is correctly matched.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00263",
-   "q": "Backup is best described as which of the following?",
-   "o": [
+   "question": "Backup is best described as which of the following?",
+   "options": [
     "Input device that captures video",
     "Copy of data kept for recovery",
     "Software used to view web pages",
     "Human readable name of a website"
    ],
-   "a": 1,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Backup — Copy of data kept for recovery."
+   "answer": 1,
+   "explanation": "Backup — Copy of data kept for recovery.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00264",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Ctrl + A - Select all items",
     "Ctrl + F - Lock the computer",
     "Ctrl + N - Open a new window or document",
     "Ctrl + W - Close the current window"
    ],
-   "a": 1,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Ctrl + F - Lock the computer is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Ctrl + F - Lock the computer is not correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00265",
-   "q": "Which of the following pairs of extension and file type is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of extension and file type is correctly matched?",
+   "options": [
     ".html - Compressed image file",
     ".html - Web page file",
     ".html - Portable Document Format file",
     ".html - Java source file"
    ],
-   "a": 1,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Only .html - Web page file is correctly matched."
+   "answer": 1,
+   "explanation": "Only .html - Web page file is correctly matched.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00266",
-   "q": "MAN is best described as which of the following?",
-   "o": [
+   "question": "MAN is best described as which of the following?",
+   "options": [
     "Network covering a city",
     "Output device that prints large technical drawings",
     "Device that forwards data between networks",
     "Language used to structure web pages"
    ],
-   "a": 0,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "MAN — Network covering a city."
+   "answer": 0,
+   "explanation": "MAN — Network covering a city.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00267",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Ctrl + S - Save the current file",
     "Windows + L - Lock the computer",
     "Ctrl + Shift + Esc - Open Task Manager",
     "Ctrl + P - Open a new window or document"
    ],
-   "a": 3,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Ctrl + P - Open a new window or document is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Ctrl + P - Open a new window or document is not correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00268",
-   "q": "Which of the following pairs of extension and file type is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of extension and file type is correctly matched?",
+   "options": [
     ".html - Compressed archive file",
     ".html - Batch file",
     ".html - Web page file",
     ".html - Plain text file"
    ],
-   "a": 2,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Only .html - Web page file is correctly matched."
+   "answer": 2,
+   "explanation": "Only .html - Web page file is correctly matched.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00269",
-   "q": "Bluetooth is best described as which of the following?",
-   "o": [
+   "question": "Bluetooth is best described as which of the following?",
+   "options": [
     "Device that forwards data between networks",
     "Short range wireless technology",
     "Basic device that connects network devices",
     "Input device that captures sound"
    ],
-   "a": 1,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Bluetooth — Short range wireless technology."
+   "answer": 1,
+   "explanation": "Bluetooth — Short range wireless technology.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00270",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Ctrl + Alt + Del - Open File Explorer",
     "Ctrl + F - Find text in a document",
     "Ctrl + Backspace - Delete the previous word",
     "Ctrl + Shift + Esc - Open Task Manager"
    ],
-   "a": 0,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Ctrl + Alt + Del - Open File Explorer is not correctly matched."
+   "answer": 0,
+   "explanation": "The pair Ctrl + Alt + Del - Open File Explorer is not correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00271",
-   "q": "Which of the following pairs of extension and file type is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of extension and file type is correctly matched?",
+   "options": [
     ".xlsx - Microsoft Excel workbook",
     ".xlsx - Video file",
     ".xlsx - Executable program file",
     ".xlsx - Compressed archive file"
    ],
-   "a": 0,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Only .xlsx - Microsoft Excel workbook is correctly matched."
+   "answer": 0,
+   "explanation": "Only .xlsx - Microsoft Excel workbook is correctly matched.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00272",
-   "q": "JavaScript is best described as which of the following?",
-   "o": [
+   "question": "JavaScript is best described as which of the following?",
+   "options": [
     "Software used to view web pages",
     "Language that adds behaviour to web pages",
     "Protocol for sending email",
     "Smallest unit of digital data"
    ],
-   "a": 1,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "JavaScript — Language that adds behaviour to web pages."
+   "answer": 1,
+   "explanation": "JavaScript — Language that adds behaviour to web pages.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00273",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Ctrl + X - Cut the selected item",
     "Ctrl + S - Save the current file",
     "Ctrl + Y - Show or hide the desktop",
     "Windows + D - Show or hide the desktop"
    ],
-   "a": 2,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Ctrl + Y - Show or hide the desktop is not correctly matched."
+   "answer": 2,
+   "explanation": "The pair Ctrl + Y - Show or hide the desktop is not correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00274",
-   "q": "Which of the following pairs of extension and file type is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of extension and file type is correctly matched?",
+   "options": [
     ".xlsx - Python source file",
     ".xlsx - Microsoft Word document",
     ".xlsx - Microsoft Excel workbook",
     ".xlsx - Compressed archive file"
    ],
-   "a": 2,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Only .xlsx - Microsoft Excel workbook is correctly matched."
+   "answer": 2,
+   "explanation": "Only .xlsx - Microsoft Excel workbook is correctly matched.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00275",
-   "q": "Java is best described as which of the following?",
-   "o": [
+   "question": "Java is best described as which of the following?",
+   "options": [
     "Language used to query databases",
     "Smallest unit of digital data",
     "Malicious program that attaches to files",
     "Object oriented programming language"
    ],
-   "a": 3,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Java — Object oriented programming language."
+   "answer": 3,
+   "explanation": "Java — Object oriented programming language.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00276",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "Ctrl + Z - Undo the last action",
     "Alt + Tab - Refresh the current window",
     "Ctrl + Y - Redo the last undone action",
     "Ctrl + Shift + Esc - Open Task Manager"
    ],
-   "a": 1,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Alt + Tab - Refresh the current window is not correctly matched."
+   "answer": 1,
+   "explanation": "The pair Alt + Tab - Refresh the current window is not correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00277",
-   "q": "Which of the following pairs of extension and file type is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of extension and file type is correctly matched?",
+   "options": [
     ".mp4 - Audio file",
     ".mp4 - Batch file",
     ".mp4 - Video file",
     ".mp4 - Compressed image file"
    ],
-   "a": 2,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Only .mp4 - Video file is correctly matched."
+   "answer": 2,
+   "explanation": "Only .mp4 - Video file is correctly matched.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00278",
-   "q": "Webcam is best described as which of the following?",
-   "o": [
+   "question": "Webcam is best described as which of the following?",
+   "options": [
     "Running a processor above its rated speed",
     "Malicious program disguised as useful software",
     "Input device that captures video",
     "Process of starting a computer"
    ],
-   "a": 2,
-   "t": "Computer Fundamentals",
-   "l": 2,
-   "s": "generated",
-   "e": "Webcam — Input device that captures video."
+   "answer": 2,
+   "explanation": "Webcam — Input device that captures video.",
+   "topic": "Computer Fundamentals",
+   "level": 2,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00279",
-   "q": "Which of the following pairs is NOT correctly matched?",
-   "o": [
+   "question": "Which of the following pairs is NOT correctly matched?",
+   "options": [
     "F5 - Refresh the current window",
     "Ctrl + Shift + Esc - Open Task Manager",
     "Ctrl + C - Copy the selected item",
     "Delete - Save the current file"
    ],
-   "a": 3,
-   "t": "Computer Shortcuts",
-   "l": 3,
-   "s": "generated",
-   "e": "The pair Delete - Save the current file is not correctly matched."
+   "answer": 3,
+   "explanation": "The pair Delete - Save the current file is not correctly matched.",
+   "topic": "Computer Shortcuts",
+   "level": 3,
+   "source": "generated"
   },
   {
    "id": "computer-awareness-00280",
-   "q": "Which of the following pairs of extension and file type is correctly matched?",
-   "o": [
+   "question": "Which of the following pairs of extension and file type is correctly matched?",
+   "options": [
     ".mp4 - Video file",
     ".mp4 - Animated image file",
     ".mp4 - Compressed image file",
     ".mp4 - Image file with transparency support"
    ],
-   "a": 0,
-   "t": "File Extensions",
-   "l": 3,
-   "s": "generated",
-   "e": "Only .mp4 - Video file is correctly matched."
+   "answer": 0,
+   "explanation": "Only .mp4 - Video file is correctly matched.",
+   "topic": "File Extensions",
+   "level": 3,
+   "source": "generated"
   }
  ]
 };

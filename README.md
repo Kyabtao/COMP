@@ -70,21 +70,57 @@ files of 1,000 questions each.
 
 ### Where the questions come from
 
-* **Curated (562 questions).** Hand written MCQs in `tools/authored/*.js`, one file per
+* **Curated (563 questions).** Hand written MCQs in `tools/authored/*.js`, one file per
   category (20 or more each), every one with an explanation. These cover the whole
   syllabus and are the quality core of the bank.
 * **Generated from facts.** `tools/forms.js` turns the fact tables in `tools/data/*.js`
   (countries, elements, Indian states, science, history, polity, sport, English word
   lists, schemes, computers, abbreviations and more) into exam style MCQs: direct
   questions, reverse questions, statement questions and matched pair questions. Every
-  generated question carries `s: "generated"` and can be filtered out or replaced.
+  generated question carries `source: "generated"` and can be filtered out or replaced.
 * **Generated numerically.** `tools/numeric.js` produces arithmetic, algebra, geometry,
   statistics, series, coding and direction questions with computed answers, which is what
-  makes the aptitude categories unlimited. These are also tagged `s: "generated"`.
+  makes the aptitude categories unlimited. These are also tagged `source: "generated"`.
 
-Every question is an object with `q` (stem), `o` (four options), `a` (answer index),
-`t` (topic), `l` (level 1 to 3), `e` (explanation) and `s` (source). Use the source tag
-to show only curated content if you prefer.
+### Question format
+
+Authored and published questions use this pattern:
+
+```json
+{
+  "question": "The Harappan Civilisation belonged to which age?",
+  "options": ["Iron Age", "Bronze Age", "Stone Age", "Copper Age"],
+  "answer": 1,
+  "explanation": "The Harappan (Indus Valley) Civilisation was a Bronze Age civilisation. Its mature urban phase dates to c. 2600–1900 BCE."
+}
+```
+
+- `question`: non-empty question text.
+- `options`: exactly four distinct, non-empty strings.
+- `answer`: **0-based** integer index into `options` (0–3); `1` selects Bronze Age above.
+- `explanation`: required, non-empty text explaining the correct answer.
+
+Add objects in this format to the appropriate array in `tools/authored/*.js` and
+rebuild. You may also supply `level` (1–3; defaults to 1) and `topic` (defaults to
+`"Curated"`). Published questions additionally carry `id`, `topic`, `level` and
+`source` (`"curated"` or `"generated"`) for filtering and class selection.
+
+The descriptive fields replace the old published `q`, `o`, `a`, `e`, `t`, `l`, `s`
+keys. Browser category scripts and the Node `require("./qbank.js")` API both expose
+the new fields. Compact generator fields remain internal to the build only.
+
+Practice reveals the correct option and a labelled explanation after an answer is
+selected. Exams keep explanations hidden until the submitted paper is reviewed,
+including for skipped questions. The build and validator reject missing explanations,
+invalid option lists and out-of-range or fractional answer indexes.
+
+Run the regression tests (including DOM rendering and scoring checks):
+
+```bash
+npm install              # test-only dependency; the site still needs no build step
+npm test
+node tools/validate.js
+```
 
 ### Known gaps
 
