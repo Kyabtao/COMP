@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+npm/
+package-lock.json
+
+# Build artifacts
+temp-deploy/
+dist/
+build/
+
+# Environment variables
+.env
+.local
+
+# OS artifacts
+.DS_Store
+*.swp
+*.swo
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Temporary files
+temp/
+*.tmp
