@@ -89,7 +89,7 @@ qbank.js                       UMD entry point for the bank (browser + Node)
 tools/build-qbank.js           generates the category files
 tools/daily.js                 mints one day's fresh questions (the scheduler runs this)
 tools/daily/*.js               one committed file per published day (do not edit by hand)
-.github/workflows/daily-questions.yml  daily scheduler: mint, rebuild, validate, commit
+.github/workflows/daily-questions.yml  daily scheduler: mint, rebuild, validate, upload temp files
 tools/validate.js              validates the bank and prints the checklist
 tools/spec.js                  category, class, exam and merged target definitions
 tools/qcore.js                 deterministic PRNG, option builder, helpers
@@ -128,13 +128,21 @@ morning through the daily scheduler.
 ### Daily questions
 
 Every morning at 6 AM IST the scheduler (`.github/workflows/daily-questions.yml`)
-publishes **10 fresh questions**: computed aptitude questions (quantitative aptitude,
-mathematics, reasoning), English vocabulary, Static GK and one rotating category.
+mints **10 fresh questions** — computed aptitude questions (quantitative aptitude,
+mathematics, reasoning), English vocabulary, Static GK and one rotating category —
+and uploads them as downloadable **temp files**. Nothing is committed automatically;
+each day is reviewed and moved by hand:
+
+1. Open the day's run in the repo's **Actions** tab and download the
+   `daily-questions-YYYY-MM-DD` artifact.
+2. Copy its contents over the repo (the day file, rebuilt categories, reports).
+3. Run `node tools/validate.js`, then commit and push — Pages redeploys.
+
 Each day is deterministic — re-running the same date produces the same set — and
 every candidate is checked against the published bank, so a daily question is always
 new. Nothing is invented: answers are computed or come from fact rows.
 
-* The day's set is committed as `tools/daily/YYYY-MM-DD.js` and appended to its
+* The day's set is saved as `tools/daily/YYYY-MM-DD.js` and appended to its
   categories by the build with stable ids (`reasoning-daily-2026-10-08-03`), so
   existing questions and diffs stay untouched.
 * On the site, the home page shows a **Daily dose** strip and the **Daily** nav item
