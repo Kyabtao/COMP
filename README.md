@@ -2,8 +2,7 @@
 
 Practice site for school and competitive exams, built around a generated question bank.
 
-- **Class selection:** Class 1 to Class 12 and Graduation
-- **Exam selection:** SSC CGL, SSC CHSL, Banking (IBPS / SBI) and Railways (RRB NTPC / Group D)
+- **Single target list:** Classes 1 to 12, Graduation, SSC CGL, SSC CHSL, Banking (IBPS / SBI) and Railways (RRB NTPC / Group D) — classes and exams are merged into one list because they share the same paper pattern
 - **Every paper:** 40 questions in 40 minutes, +1 per correct answer, 0.25 negative marking
 - **Question bank:** 32,927 questions in 26 categories (see below)
 - **No build step:** plain HTML, CSS and JavaScript, hosted straight from this repository
@@ -31,12 +30,12 @@ node tools/validate.js          # checks counts, shapes and the spec checklist
 index.html                     the site (single page app)
 assets/css/style.css           styling, light and dark themes
 assets/js/qbank-loader.js      loads every category file at start up
-assets/js/app.js               routing, practice drills, 40 question exam engine
+assets/js/app.js               routing, practice drills, unified 40 question exam engine (one target list)
 qbank.js                       UMD entry point for the bank (browser + Node)
 
 tools/build-qbank.js           generates the category files
 tools/validate.js              validates the bank and prints the checklist
-tools/spec.js                  category, class and exam definitions
+tools/spec.js                  category, class, exam and merged target definitions
 tools/qcore.js                 deterministic PRNG, option builder, helpers
 tools/forms.js                 form engine: fact tables -> MCQs
 tools/numeric.js               numeric generators for the aptitude categories

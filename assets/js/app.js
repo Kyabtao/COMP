@@ -5,25 +5,67 @@
  */
 (function () {
   var STORE_KEY = "comp.progress.v1";
-  var CLASSES = ["Class 1", "Class 2", "Class 3", "Class 4", "Class 5", "Class 6", "Class 7", "Class 8",
+  var TARGET_KEY = "comp.target";
+  /**
+   * Merged target list: school classes and competitive exams live in one list
+   * because every paper follows the same pattern (40 questions, 40 minutes,
+   * +1 per correct answer, 0.25 negative marking). Class targets draw a
+   * balanced paper from every category and filter by age band; exam targets
+   * draw from their own sections at every difficulty level.
+   */
+  var CLASS_NAMES = ["Class 1", "Class 2", "Class 3", "Class 4", "Class 5", "Class 6", "Class 7", "Class 8",
     "Class 9", "Class 10", "Class 11", "Class 12", "Graduation"];
-  var EXAMS = [
-    { id: "ssc-cgl", name: "SSC CGL", sections: ["reasoning", "general-awareness", "quantitative-aptitude", "english"] },
-    { id: "ssc-chsl", name: "SSC CHSL", sections: ["reasoning", "general-awareness", "quantitative-aptitude", "english"] },
-    { id: "banking", name: "Banking (IBPS / SBI)", sections: ["reasoning", "quantitative-aptitude", "english", "general-awareness", "computer-awareness"] },
-    { id: "railways", name: "Railways (RRB NTPC / Group D)", sections: ["mathematics", "reasoning", "general-awareness"] }
-  ];
+  var CLASS_LEVELS = [[1], [1], [1], [1], [1], [1, 2], [1, 2], [1, 2], [2], [2], [2, 3], [2, 3], [1, 2, 3]];
+  var TARGETS = CLASS_NAMES.map(function (name, i) {
+    var last = i === CLASS_NAMES.length - 1;
+    return {
+      id: last ? "graduation" : "class-" + (i + 1),
+      name: name,
+      kind: last ? "college" : "school",
+      type: last ? "Higher" : "School",
+      levels: CLASS_LEVELS[i],
+      sections: null /* null = balanced paper across every category */
+    };
+  }).concat([
+    { id: "ssc-cgl", name: "SSC CGL", kind: "exam", type: "Competitive", levels: [1, 2, 3], sections: ["reasoning", "general-awareness", "quantitative-aptitude", "english"] },
+    { id: "ssc-chsl", name: "SSC CHSL", kind: "exam", type: "Competitive", levels: [1, 2, 3], sections: ["reasoning", "general-awareness", "quantitative-aptitude", "english"] },
+    { id: "banking", name: "Banking (IBPS / SBI)", kind: "exam", type: "Competitive", levels: [1, 2, 3], sections: ["reasoning", "quantitative-aptitude", "english", "general-awareness", "computer-awareness"] },
+    { id: "railways", name: "Railways (RRB NTPC / Group D)", kind: "exam", type: "Competitive", levels: [1, 2, 3], sections: ["mathematics", "reasoning", "general-awareness"] }
+  ]);
   var QUESTIONS_PER_EXAM = 40;
   var MINUTES_PER_EXAM = 40;
   var NEGATIVE_MARKING = 0.25;
 
+  function targetById(id) {
+    for (var i = 0; i < TARGETS.length; i++) if (TARGETS[i].id === id) return TARGETS[i];
+    return null;
+  }
+
+  /** Reads the merged target, upgrading old builds that stored class + exam separately. */
+  function migrateTarget() {
+    var stored = localStorage.getItem(TARGET_KEY);
+    if (stored && targetById(stored)) return stored;
+    var legacyExam = localStorage.getItem("comp.exam");
+    var legacyClass = localStorage.getItem("comp.class");
+    var next = "ssc-cgl";
+    if (legacyExam && targetById(legacyExam)) next = legacyExam;
+    else if (legacyClass) {
+      var idx = CLASS_NAMES.indexOf(legacyClass);
+      if (idx !== -1) next = TARGETS[idx].id;
+    }
+    localStorage.setItem(TARGET_KEY, next);
+    localStorage.removeItem("comp.exam");
+    localStorage.removeItem("comp.class");
+    return next;
+  }
+
   var state = {
-    class: localStorage.getItem("comp.class") || "Class 10",
-    exam: localStorage.getItem("comp.exam") || "ssc-cgl",
+    target: migrateTarget(),
     mode: null,
     session: null,
     timer: null
   };
+  function currentTarget() { return targetById(state.target) || TARGETS[0]; }
 
   /* ------------------------------------------------------------------ */
   /* bank access                                                        */
@@ -46,14 +88,29 @@
     return n;
   }
 
-  /** Class selection maps to question difficulty. */
-  function levelsForClass(cls) {
-    var n = CLASSES.indexOf(cls);
-    if (n <= 4) return [1];
-    if (n <= 7) return [1, 2];
-    if (n <= 9) return [2];
-    if (n <= 11) return [2, 3];
-    return [1, 2, 3];
+  /** Merged target maps to question difficulty. */
+  function levelsForTarget(target) { return (target && target.levels) || [1, 2, 3]; }
+
+  /** Category slugs a target draws from; class targets use every category. */
+  function targetSections(target) {
+    if (target && target.sections) return target.sections.slice();
+    return manifest().map(function (c) { return c.slug; });
+  }
+
+  function sectionLabel(slug) {
+    var found = manifest().filter(function (c) { return c.slug === slug; })[0];
+    return found ? found.name : slug.replace(/-/g, " ");
+  }
+
+  /** Single grouped <select> for the merged class + exam target list. */
+  function targetOptions(selectedId) {
+    var groups = [["school", "School — Classes 1 to 12"], ["college", "Higher"], ["exam", "Competitive exams"]];
+    return groups.map(function (g) {
+      var opts = TARGETS.filter(function (t) { return t.kind === g[0]; }).map(function (t) {
+        return '<option value="' + t.id + '"' + (t.id === selectedId ? " selected" : "") + '>' + esc(t.name) + '</option>';
+      }).join("");
+      return '<optgroup label="' + g[1] + '">' + opts + '</optgroup>';
+    }).join("");
   }
 
   function shuffle(a) {
@@ -65,18 +122,21 @@
     return a;
   }
 
-  function pickQuestions(slugs, count, cls) {
-    var levels = levelsForClass(cls);
+  function pickQuestions(slugs, count, levels) {
     var pools = slugs.map(function (slug) {
-      return questionsFor(slug).filter(function (q) { return levels.indexOf(q.level) !== -1; });
+      return shuffle(questionsFor(slug).filter(function (q) { return levels.indexOf(q.level) !== -1; }));
     }).filter(function (p) { return p.length; });
     if (!pools.length) return [];
-    var out = [], i = 0, guard = 0;
-    pools = pools.map(shuffle);
-    while (out.length < count && guard++ < count * 50) {
-      var pool = pools[i % pools.length];
-      var q = pool[(i * 7 + guard) % pool.length];
-      if (q && out.indexOf(q) === -1) out.push(q);
+    /* Round robin across the shuffled pools so every section contributes. */
+    var out = [], taken = pools.map(function () { return 0; }), i = 0, idle = 0;
+    while (out.length < count && idle < pools.length) {
+      var p = i % pools.length;
+      if (taken[p] < pools[p].length) {
+        out.push(pools[p][taken[p]++]);
+        idle = 0;
+      } else {
+        idle++;
+      }
       i++;
     }
     return shuffle(out).slice(0, count);
@@ -134,26 +194,18 @@
       '<section class="card hero">' +
         '<div>' +
           '<h1>Practice for the competition</h1>' +
-          '<p class="muted">Classes 1 to 12 and Graduation · SSC CGL, SSC CHSL, Banking and Railways · every paper is 40 questions in 40 minutes with 0.25 negative marking.</p>' +
+          '<p class="muted">One target list — Classes 1 to 12, Graduation, SSC CGL, SSC CHSL, Banking and Railways · every paper is 40 questions in 40 minutes with 0.25 negative marking.</p>' +
           '<div class="kpis">' +
             '<div class="kpi"><b>' + bank.toLocaleString("en-IN") + '</b><span>questions</span></div>' +
             '<div class="kpi"><b>' + cats.length + '</b><span>categories</span></div>' +
             '<div class="kpi"><b>' + oneK + '</b><span>categories 1,000+</span></div>' +
-            '<div class="kpi"><b>13</b><span>class levels</span></div>' +
+            '<div class="kpi"><b>' + TARGETS.length + '</b><span>targets, one pattern</span></div>' +
           '</div>' +
         '</div>' +
         '<div class="picks">' +
-          '<div style="min-width:200px">' +
-            '<label class="field" for="pick-class">Your class</label>' +
-            '<select id="pick-class">' + CLASSES.map(function (c) {
-              return '<option' + (c === state.class ? " selected" : "") + '>' + c + '</option>';
-            }).join("") + '</select>' +
-          '</div>' +
-          '<div style="min-width:220px">' +
-            '<label class="field" for="pick-exam">Target exam</label>' +
-            '<select id="pick-exam">' + EXAMS.map(function (e) {
-              return '<option value="' + e.id + '"' + (e.id === state.exam ? " selected" : "") + '>' + e.name + '</option>';
-            }).join("") + '</select>' +
+          '<div style="min-width:260px;flex:1">' +
+            '<label class="field" for="pick-target">Target — class or exam</label>' +
+            '<select id="pick-target">' + targetOptions(state.target) + '</select>' +
           '</div>' +
           '<button class="primary" id="start-exam" type="button">Start 40 question exam</button>' +
         '</div>' +
@@ -174,19 +226,17 @@
     });
 
     app.appendChild(el('<section class="card"><h2>Exam pattern</h2>' +
-      '<table><thead><tr><th>Exam</th><th>Sections</th><th>Questions</th><th>Time</th><th>Marking</th></tr></thead><tbody>' +
-      EXAMS.map(function (e) {
-        return '<tr><td>' + e.name + '</td><td>' + e.sections.length + ' sections</td><td>40</td><td>40 minutes</td><td>+1, &minus;0.25</td></tr>';
+      '<p class="muted small">One pattern for every target: 40 questions, 40 minutes, +1 for a correct answer and 0.25 negative marking. Class targets draw a balanced paper from every category; competitive exams draw from their own sections.</p>' +
+      '<table><thead><tr><th>Target</th><th>Type</th><th>Sections</th><th>Questions</th><th>Time</th><th>Marking</th></tr></thead><tbody>' +
+      TARGETS.map(function (t) {
+        var sections = t.sections ? t.sections.length + " sections" : "All categories";
+        return '<tr><td>' + esc(t.name) + '</td><td>' + t.type + '</td><td>' + sections + '</td><td>40</td><td>40 minutes</td><td>+1, &minus;0.25</td></tr>';
       }).join("") +
       '</tbody></table></section>'));
 
-    document.getElementById("pick-class").addEventListener("change", function (e) {
-      state.class = e.target.value;
-      localStorage.setItem("comp.class", state.class);
-    });
-    document.getElementById("pick-exam").addEventListener("change", function (e) {
-      state.exam = e.target.value;
-      localStorage.setItem("comp.exam", state.exam);
+    document.getElementById("pick-target").addEventListener("change", function (e) {
+      state.target = e.target.value;
+      localStorage.setItem(TARGET_KEY, state.target);
     });
     document.getElementById("start-exam").addEventListener("click", function () { location.hash = "#/exam"; });
   }
@@ -194,7 +244,7 @@
   function viewPractice(slug) {
     var meta = manifest().filter(function (c) { return c.slug === slug; })[0];
     if (!meta) { location.hash = "#/practice"; return; }
-    var levels = levelsForClass(state.class);
+    var levels = levelsForTarget(currentTarget());
     var pool = questionsFor(slug).filter(function (q) { return levels.indexOf(q.level) !== -1; });
     var set = shuffle(pool).slice(0, 15);
     state.mode = "practice";
@@ -205,15 +255,15 @@
   function viewPracticeIndex() {
     app.innerHTML = "";
     app.appendChild(el('<section class="card"><h1>Practice by category</h1>' +
-      '<p class="muted">Pick a category for a 15 question drill with instant explanations. Showing difficulty for <strong>' + esc(state.class) + '</strong>.</p>' +
+      '<p class="muted">Pick a category for a 15 question drill with instant explanations. Showing difficulty for <strong>' + esc(currentTarget().name) + '</strong>.</p>' +
       '<div class="grid cats" id="cat-grid"></div></section>'));
     var grid = app.querySelector("#cat-grid");
     manifest().forEach(function (c) {
-      var levels = levelsForClass(state.class);
+      var levels = levelsForTarget(currentTarget());
       var available = questionsFor(c.slug).filter(function (q) { return levels.indexOf(q.level) !== -1; }).length;
       grid.appendChild(el('<a class="tile" href="#/practice/' + c.slug + '">' +
         '<span class="name">' + (CATEGORY_ICONS[c.icon] || "\u2022") + " " + esc(c.name) + '</span>' +
-        '<span class="count">' + available.toLocaleString("en-IN") + ' of ' + c.count.toLocaleString("en-IN") + ' ready for ' + esc(state.class) + '</span></a>'));
+        '<span class="count">' + available.toLocaleString("en-IN") + ' of ' + c.count.toLocaleString("en-IN") + ' ready for ' + esc(currentTarget().name) + '</span></a>'));
     });
   }
 
@@ -293,42 +343,52 @@
       '<h1>40 question exam</h1>' +
       '<p class="muted">Every paper follows the competition rules: 40 questions, 40 minutes, +1 for a correct answer and 0.25 negative marking.</p>' +
       '<div class="row">' +
-        '<div><label class="field" for="e-class">Class</label><select id="e-class">' +
-          CLASSES.map(function (c) { return '<option' + (c === state.class ? " selected" : "") + '>' + c + '</option>'; }).join("") +
-        '</select></div>' +
-        '<div><label class="field" for="e-exam">Exam</label><select id="e-exam">' +
-          EXAMS.map(function (e) { return '<option value="' + e.id + '"' + (e.id === state.exam ? " selected" : "") + '>' + e.name + '</option>'; }).join("") +
+        '<div><label class="field" for="e-target">Target — class or exam</label><select id="e-target">' +
+          targetOptions(state.target) +
         '</select></div>' +
       '</div>' +
       '<h3>Sections in this paper</h3><p class="muted small" id="sec-preview"></p>' +
+      '<p class="muted small">Same pattern for every target: 40 questions, 40 minutes, +1 per correct answer and 0.25 negative marking.</p>' +
       '<button class="primary" id="begin" type="button">Begin exam</button>' +
     '</section>'));
     function preview() {
-      var exam = EXAMS.filter(function (e) { return e.id === document.getElementById("e-exam").value; })[0];
-      document.getElementById("sec-preview").textContent = exam.sections.map(function (s) { return s.replace(/-/g, " "); }).join(" · ");
+      var target = targetById(document.getElementById("e-target").value) || currentTarget();
+      var sections = targetSections(target);
+      document.getElementById("sec-preview").textContent = target.sections
+        ? sections.map(sectionLabel).join(" · ")
+        : "Balanced paper across all " + sections.length + " categories";
     }
-    document.getElementById("e-class").addEventListener("change", function (e) {
-      state.class = e.target.value; localStorage.setItem("comp.class", state.class);
-    });
-    document.getElementById("e-exam").addEventListener("change", function (e) {
-      state.exam = e.target.value; localStorage.setItem("comp.exam", state.exam); preview();
+    document.getElementById("e-target").addEventListener("change", function (e) {
+      state.target = e.target.value; localStorage.setItem(TARGET_KEY, state.target); preview();
     });
     preview();
     document.getElementById("begin").addEventListener("click", beginExam);
   }
 
   function beginExam() {
-    var exam = EXAMS.filter(function (e) { return e.id === state.exam; })[0];
-    var perSection = Math.floor(QUESTIONS_PER_EXAM / exam.sections.length);
-    var extra = QUESTIONS_PER_EXAM - perSection * exam.sections.length;
+    var target = currentTarget();
+    var sections = targetSections(target);
+    var levels = levelsForTarget(target);
+    var perSection = Math.floor(QUESTIONS_PER_EXAM / sections.length);
+    var extra = QUESTIONS_PER_EXAM - perSection * sections.length;
     var questions = [];
-    exam.sections.forEach(function (slug, i) {
-      questions = questions.concat(pickQuestions([slug], perSection + (i < extra ? 1 : 0), state.class));
+    sections.forEach(function (slug, i) {
+      questions = questions.concat(pickQuestions([slug], perSection + (i < extra ? 1 : 0), levels));
     });
-    if (questions.length < 10) { alert("Not enough questions for this class and exam yet. Try another class."); return; }
+    /* Top up from the combined pool so thin sections never shrink the paper. */
+    if (questions.length < QUESTIONS_PER_EXAM) {
+      var spare = [];
+      sections.forEach(function (slug) {
+        questionsFor(slug).forEach(function (q) {
+          if (questions.indexOf(q) === -1 && levels.indexOf(q.level) !== -1) spare.push(q);
+        });
+      });
+      questions = questions.concat(shuffle(spare).slice(0, QUESTIONS_PER_EXAM - questions.length));
+    }
+    if (questions.length < 10) { alert("Not enough questions for this target yet. Try another target."); return; }
     state.mode = "exam";
     state.session = {
-      exam: exam, name: exam.name, questions: questions, index: 0,
+      target: target, name: target.name, questions: questions, index: 0,
       answers: new Array(questions.length).fill(null),
       start: Date.now(), left: MINUTES_PER_EXAM * 60
     };
@@ -407,7 +467,7 @@
     });
     var score = correct - wrong * NEGATIVE_MARKING;
     var result = {
-      at: new Date().toISOString(), mode: "exam", exam: s.exam.name, cls: state.class,
+      at: new Date().toISOString(), mode: "exam", exam: s.target.name, target: s.target.id,
       total: s.questions.length, correct: correct, wrong: wrong, skipped: skipped,
       score: Math.round(score * 100) / 100,
       seconds: Math.round((Date.now() - s.start) / 1000)
@@ -418,7 +478,7 @@
     app.appendChild(el('<section class="card center">' +
       '<h1>Exam submitted</h1>' +
       '<p class="score">' + result.score + ' <span class="muted small">/ ' + s.questions.length + '</span></p>' +
-      '<p class="muted">' + esc(result.exam) + ' · ' + esc(result.cls) + ' · ' + correct + ' correct, ' + wrong + ' wrong, ' + skipped + ' skipped · time used ' + formatTime(result.seconds) + '</p>' +
+      '<p class="muted">' + esc(result.exam) + ' · ' + correct + ' correct, ' + wrong + ' wrong, ' + skipped + ' skipped · time used ' + formatTime(result.seconds) + '</p>' +
       '<div class="toolbar" style="justify-content:center">' +
         '<button class="primary" id="review" type="button">Review answers</button>' +
         '<button class="secondary" id="again" type="button">Take another paper</button>' +

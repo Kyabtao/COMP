@@ -6,7 +6,7 @@
  */
 const fs = require("fs");
 const path = require("path");
-const { CATEGORIES, CLASSES, EXAMS, EXAM_RULES } = require("./spec");
+const { CATEGORIES, CLASSES, EXAMS, EXAM_RULES, TARGETS } = require("./spec");
 const manifest = require("./categories/index.js");
 const { questionErrors } = require("./question-schema");
 
@@ -69,6 +69,10 @@ ok("answer index always points to a real option", answerOutOfRange === 0, answer
 ok("question ids are unique", allIds.size === total, allIds.size + " unique ids for " + total + " questions");
 ok("class selection covers 1-12 and Graduation", CLASSES.length === 13 && CLASSES[12] === "Graduation", CLASSES.join(", "));
 ok("four exam tracks configured", EXAMS.length === 4, EXAMS.map((e) => e.name).join(", "));
+ok("merged target list holds 13 classes + 4 exams in one pattern",
+  TARGETS.length === CLASSES.length + EXAMS.length && TARGETS.filter((t) => t.kind === "exam").length === 4 &&
+  TARGETS.every((t) => t.id && t.name && Array.isArray(t.levels) && t.levels.length),
+  TARGETS.length + " targets");
 ok("every exam is 40 questions", EXAM_RULES.questionCount === 40, "questionCount = " + EXAM_RULES.questionCount);
 
 /* soft checks against the original deliverable list */

@@ -14,7 +14,7 @@ function setup(t, hash, categories) {
   });
   t.after(() => dom.window.close());
   const w = dom.window;
-  w.localStorage.setItem("comp.class", "Graduation");
+  w.localStorage.setItem("comp.target", "graduation");
   w.QBANK_MANIFEST = categories ? categories.map((c) => ({ ...c, count: c.questions.length })) : bank.manifest;
   w.QBANK_CATEGORIES = Object.fromEntries((categories || bank.categories()).map((c) => [c.slug, c]));
   w.confirm = () => true;
