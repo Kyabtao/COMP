@@ -1,13 +1,13 @@
 "use strict";
 /**
- * COMP — competition prep app.
+ * ExamSathi — competition prep app.
  * Modes: home, practice (category drill), exam (configurable paper), progress.
  * Paper shape (questions, minutes, marks, penalty) is user selectable and
  * defaults to 40 questions, 40 minutes, +1 / -0.25.
  */
 (function () {
-  var STORE_KEY = "comp.progress.v1";
-  var TARGET_KEY = "comp.target";
+  var STORE_KEY = "examsathi.progress.v1";
+  var TARGET_KEY = "examsathi.target";
   /**
    * Merged target list: school classes and competitive exams live in one list
    * because every paper follows the same shape by default (40 questions,
@@ -45,8 +45,9 @@
     marks: 1,
     penalty: NEGATIVE_MARKING
   };
-  var SETTINGS_KEY = "comp.exam.settings";
-  var DRILL_KEY = "comp.drill.length";
+  var SETTINGS_KEY = "examsathi.exam.settings";
+  var DRILL_KEY = "examsathi.drill.length";
+  var THEME_KEY = "examsathi.theme";
   var DRILL_DEFAULT = 15;
   var QUESTION_CHOICES = [10, 15, 20, 25, 30, 40, 50, 60, 75, 100];
   var TIME_CHOICES = [5, 10, 15, 20, 25, 30, 40, 45, 60, 75, 90, 120];
@@ -75,6 +76,28 @@
   function storeRemove(key) {
     try { localStorage.removeItem(key); } catch (e) {}
   }
+
+  /**
+   * The site was renamed from COMP to ExamSathi: copy saved progress, target,
+   * paper settings, drill length and theme from the old comp.* keys to the new
+   * examsathi.* keys so returning visitors keep everything.
+   */
+  function migrateStorage() {
+    var pairs = [
+      [STORE_KEY, "comp.progress.v1"],
+      [TARGET_KEY, "comp.target"],
+      [SETTINGS_KEY, "comp.exam.settings"],
+      [DRILL_KEY, "comp.drill.length"],
+      [THEME_KEY, "comp.theme"]
+    ];
+    pairs.forEach(function (pair) {
+      if (storeGet(pair[0]) == null) {
+        var old = storeGet(pair[1]);
+        if (old != null) storeSet(pair[0], old);
+      }
+    });
+  }
+  migrateStorage();
 
   /** Saved paper settings, always merged over the defaults so bad values cannot leak in. */
   function examSettings() {
@@ -282,9 +305,8 @@
   function hueFor(group) { return GROUP_HUES[group] != null ? GROUP_HUES[group] : 258; }
 
   /* ------------------------------------------------------------------ */
-  /* theme                                                              */
+  /* theme (THEME_KEY lives with the other storage keys above)            */
   /* ------------------------------------------------------------------ */
-  var THEME_KEY = "comp.theme";
   function systemPrefersDark() {
     return !!(window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches);
   }
@@ -375,6 +397,40 @@
   }
 
   /* ------------------------------------------------------------------ */
+  /* daily dose (fresh questions published every morning)               */
+  /* ------------------------------------------------------------------ */
+  function dailySets() {
+    var sets = {};
+    Object.keys(store()).forEach(function (key) {
+      ((store()[key] || {}).questions || []).forEach(function (q) {
+        if (q.source === "daily" && q.dailyDate) {
+          (sets[q.dailyDate] = sets[q.dailyDate] || []).push(q);
+        }
+      });
+    });
+    return sets;
+  }
+  function latestDailyDate(sets) {
+    var dates = Object.keys(sets).sort();
+    return dates.length ? dates[dates.length - 1] : null;
+  }
+  function todayLocal() {
+    var d = new Date();
+    function pad(n) { return String(n).padStart(2, "0"); }
+    return d.getFullYear() + "-" + pad(d.getMonth() + 1) + "-" + pad(d.getDate());
+  }
+  function prettyDate(dateStr) {
+    var d = new Date(dateStr + "T00:00:00");
+    if (isNaN(d.getTime())) return dateStr;
+    return d.toLocaleDateString("en-IN", { day: "numeric", month: "short", year: "numeric" });
+  }
+  /** Today\u2019s set when it has published, otherwise the latest available day. */
+  function dailyDateToShow(sets) {
+    var today = todayLocal();
+    return sets[today] ? today : latestDailyDate(sets);
+  }
+
+  /* ------------------------------------------------------------------ */
   /* views                                                             */
   /* ------------------------------------------------------------------ */
   function viewHome() {
@@ -409,6 +465,18 @@
         '</div>' +
       '</section>'
     ));
+
+    var sets = dailySets();
+    var dailyDate = dailyDateToShow(sets);
+    if (dailyDate) {
+      var fresh = sets[dailyDate].length;
+      app.appendChild(el('<section class="card daily-strip"><div>' +
+        '<span class="badge good">\uD83D\uDCC5 New ' + (dailyDate === todayLocal() ? "today" : prettyDate(dailyDate)) + '</span>' +
+        '<h2>Daily dose \u2014 ' + fresh + ' fresh question' + (fresh === 1 ? "" : "s") + '</h2>' +
+        '<p class="muted small">Published ' + prettyDate(dailyDate) + ' \u00B7 mixed subjects and levels, with instant explanations.</p>' +
+        '</div><button class="primary" id="start-daily" type="button">\u25B6 Start the drill</button></section>'));
+      document.getElementById("start-daily").addEventListener("click", function () { location.hash = "#/daily"; });
+    }
 
     app.appendChild(el('<section class="card"><div class="card-head"><div>' +
       '<h2>Question bank</h2>' +
@@ -469,6 +537,28 @@
     var set = shuffle(pool).slice(0, length);
     state.mode = "practice";
     state.session = { slug: slug, name: meta.name, questions: set, index: 0, answers: [], revealed: [], length: length };
+    renderQuestion();
+  }
+
+  function viewDaily() {
+    var sets = dailySets();
+    var date = dailyDateToShow(sets);
+    if (!date) {
+      state.mode = null;
+      state.session = null;
+      app.innerHTML = "";
+      app.appendChild(el('<section class="card center">' +
+        '<h1>Daily dose</h1>' +
+        '<p class="muted">Fresh questions publish every morning at 6 AM. Nothing has been published yet \u2014 check back soon.</p>' +
+        '<div class="toolbar center-x"><button class="secondary" id="daily-home" type="button">Back to home</button></div></section>'));
+      document.getElementById("daily-home").addEventListener("click", function () { location.hash = "#/"; });
+      return;
+    }
+    state.mode = "practice";
+    state.session = {
+      kind: "daily", slug: "daily", name: "Daily Dose \u2014 " + prettyDate(date), date: date,
+      questions: sets[date].slice(), index: 0, answers: [], revealed: [], length: sets[date].length
+    };
     renderQuestion();
   }
 
@@ -598,7 +688,9 @@
         '<button class="secondary" id="all-cats" type="button">All categories</button>' +
         '<button class="secondary" id="home" type="button">Back to home</button>' +
       '</div></section>'));
-    document.getElementById("again").addEventListener("click", function () { viewPractice(s.slug); });
+    document.getElementById("again").addEventListener("click", function () {
+      if (s.kind === "daily") viewDaily(); else viewPractice(s.slug);
+    });
     document.getElementById("all-cats").addEventListener("click", function () { location.hash = "#/practice"; });
     document.getElementById("home").addEventListener("click", function () { location.hash = "#/"; });
   }
@@ -1048,6 +1140,7 @@
     });
     if (!parts.length) { setNav("home"); viewHome(); return; }
     if (parts[0] === "practice") { setNav("practice"); parts[1] ? viewPractice(parts[1]) : viewPracticeIndex(); return; }
+    if (parts[0] === "daily") { setNav("daily"); viewDaily(); return; }
     if (parts[0] === "exam") { setNav("exam"); viewExamSetup(); return; }
     if (parts[0] === "progress") { setNav("progress"); viewProgress(); return; }
     setNav("home"); viewHome();

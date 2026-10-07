@@ -13,7 +13,7 @@
   "railways"
  ],
  "blurb": "Series, coding, blood relations, directions and syllogisms.",
- "count": 1500,
+ "count": 1502,
  "questions": [
   {
    "id": "reasoning-00001",
@@ -22514,6 +22514,38 @@
    "topic": "Calendar",
    "level": 3,
    "source": "generated"
+  },
+  {
+   "id": "reasoning-daily-2026-10-07-03",
+   "question": "Find the next number in the series: 3, 5, 7, 9, 11, ?",
+   "options": [
+    "14",
+    "26",
+    "13",
+    "15"
+   ],
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 13.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-07"
+  },
+  {
+   "id": "reasoning-daily-2026-10-07-09",
+   "question": "Find the next number in the series: 8, 16, 32, 64, 128, 256, ?",
+   "options": [
+    "512",
+    "517",
+    "507",
+    "511"
+   ],
+   "answer": 0,
+   "explanation": "The pattern continues in the same way, so the next term is 512.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-07"
   }
  ]
 };

@@ -31,8 +31,14 @@ test("every authored and published question uses descriptive fields", () => {
   const authored = fs.readdirSync(path.join(__dirname, "../authored"))
     .flatMap((file) => require("../authored/" + file));
   const questions = bank.questions();
-  assert.equal(questions.length, 32927);
+  /* The scheduler appends daily questions, so the base bank stays pinned while the total grows. */
+  const daily = questions.filter((q) => q.source === "daily");
+  assert.equal(questions.length - daily.length, 32927);
   assert.equal(bank.manifest.length, 26);
+  for (const q of daily) {
+    assert.match(q.dailyDate, /^\d{4}-\d{2}-\d{2}$/);
+    assert.match(q.id, /-daily-\d{4}-\d{2}-\d{2}-\d{2}$/);
+  }
   for (const q of authored.concat(questions)) {
     assert.deepEqual(questionErrors(q), [], q.question);
     for (const key of ["q", "o", "a", "e", "t", "l", "s", "opts", "ans", "exp"]) {

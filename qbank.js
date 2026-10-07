@@ -1,6 +1,6 @@
 "use strict";
 /**
- * COMP question bank entry point.
+ * ExamSathi question bank entry point.
  *
  * Browser: include tools/categories/index.js and every category file, then read
  *          window.QBANK (the loader in assets/js/qbank-loader.js does this).

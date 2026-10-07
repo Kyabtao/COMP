@@ -11,7 +11,7 @@
   "ssc-chsl"
  ],
  "blurb": "Number work, algebra, geometry and speed-accuracy drills.",
- "count": 1500,
+ "count": 1502,
  "questions": [
   {
    "id": "mathematics-00001",
@@ -22512,6 +22512,38 @@
    "topic": "Statistics",
    "level": 2,
    "source": "generated"
+  },
+  {
+   "id": "mathematics-daily-2026-10-07-02",
+   "question": "If 6x + 19 = 91, what is the value of x?",
+   "options": [
+    "24",
+    "15.166666666666666",
+    "12",
+    "14"
+   ],
+   "answer": 2,
+   "explanation": "6x = 91 - 19 = 72, so x = 12.",
+   "topic": "Simple Equations",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-07"
+  },
+  {
+   "id": "mathematics-daily-2026-10-07-08",
+   "question": "If 8x + 15 = 31, what is the value of x?",
+   "options": [
+    "1",
+    "3.875",
+    "2",
+    "3"
+   ],
+   "answer": 2,
+   "explanation": "8x = 31 - 15 = 16, so x = 2.",
+   "topic": "Simple Equations",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-07"
   }
  ]
 };

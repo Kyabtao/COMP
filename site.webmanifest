@@ -1,0 +1,24 @@
+{
+  "name": "ExamSathi — Competition Prep",
+  "short_name": "ExamSathi",
+  "description": "Free practice for Classes 1 to 12, Graduation, SSC, Banking and Railway exams.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f5f6fd",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "assets/img/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/img/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

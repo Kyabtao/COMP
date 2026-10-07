@@ -1,10 +1,12 @@
-# COMP — Competition Prep
+<img src="assets/img/logo.svg" alt="ExamSathi logo" width="72" />
+
+# ExamSathi — Competition Prep
 
 Practice site for school and competitive exams, built around a generated question bank.
 
 - **Single target list:** Classes 1 to 12, Graduation, SSC CGL, SSC CHSL, Banking (IBPS / SBI) and Railways (RRB NTPC / Group D) — classes and exams are merged into one list because they share the same paper pattern
 - **Every paper:** you choose the questions, time and marking — the defaults are 40 questions in 40 minutes, +1 per correct answer, 0.25 negative marking
-- **Question bank:** 32,927 questions in 26 categories (see below)
+- **Question bank:** 32,937 questions in 26 categories (see below), growing by 10 fresh questions every morning
 - **No build step:** plain HTML, CSS and JavaScript, hosted straight from this repository
 
 ## Quick start
@@ -23,6 +25,7 @@ Opening `index.html` directly in a browser also works.
 | --- | --- |
 | **Home** | Pick a target, search the 26 categories, see your saved paper settings, or jump straight into a paper |
 | **Practice** | A drill per category (5 to 30 questions, default 15) with the correct answer and explanation revealed at once |
+| **Daily** | The daily dose: that morning's freshly published questions as one mixed drill with instant explanations |
 | **Exam** | You choose the paper: question count, time limit, marks per correct answer and the wrong-answer penalty |
 | **Progress** | Every attempt stays in this browser: attempts, exams, drills, best score, the plan used and the full table |
 
@@ -42,10 +45,10 @@ answer, −0.25 per wrong answer** — and every part can be changed before you 
   target can really supply, and it warns when a paper works out under 15 seconds per
   question.
 
-The choices are saved in this browser (`comp.exam.settings`), so the next paper opens
+The choices are saved in this browser (`examsathi.exam.settings`), so the next paper opens
 with your settings. A target that cannot fill the requested length simply gets a
 shorter paper, and the Begin button tells you the real number before you start. Drill
-length is remembered separately (`comp.drill.length`).
+length is remembered separately (`examsathi.drill.length`).
 
 Small things that make it quicker to use:
 
@@ -66,6 +69,14 @@ node tools/build-qbank.js       # writes tools/categories/*.js
 node tools/validate.js          # checks counts, shapes and the spec checklist
 ```
 
+Publish a day's fresh questions by hand (the scheduler below does this daily):
+
+```bash
+node tools/daily.js             # mints tools/daily/YYYY-MM-DD.js (10 questions)
+node tools/build-qbank.js       # appends them to their categories
+node tools/validate.js          # checks counts, shapes and the spec checklist
+```
+
 ## Layout
 
 ```
@@ -76,6 +87,9 @@ assets/js/app.js               routing, practice drills, configurable exam engin
 qbank.js                       UMD entry point for the bank (browser + Node)
 
 tools/build-qbank.js           generates the category files
+tools/daily.js                 mints one day's fresh questions (the scheduler runs this)
+tools/daily/*.js               one committed file per published day (do not edit by hand)
+.github/workflows/daily-questions.yml  daily scheduler: mint, rebuild, validate, upload temp files
 tools/validate.js              validates the bank and prints the checklist
 tools/spec.js                  category, class, exam and merged target definitions
 tools/qcore.js                 deterministic PRNG, option builder, helpers
@@ -93,21 +107,48 @@ tools/categories/gk-misc/      GENERATED GK Misc parts 01 to 17
 | Category | Questions |
 | --- | ---: |
 | GK Misc (17 part files) | 17,000 |
-| Reasoning | 1,500 |
-| Quantitative Aptitude | 1,500 |
-| Mathematics | 1,500 |
-| English Language | 1,000 |
-| General Knowledge | 1,000 |
-| Static GK | 1,000 |
-| Geography | 1,000 |
-| Indian History | 1,000 |
-| General Science | 1,000 |
+| Reasoning | 1,502+ |
+| Quantitative Aptitude | 1,502+ |
+| Mathematics | 1,502+ |
+| English Language | 1,002+ |
+| General Knowledge | 1,000+ |
+| Static GK | 1,001+ |
+| Geography | 1,000+ |
+| Indian History | 1,000+ |
+| General Science | 1,000+ |
 | Current Affairs | 1,000 |
 | Indian Polity | 724 |
-| fourteen smaller categories | 201 to 280 each |
+| Economics & Banking | 281+ |
+| thirteen smaller categories | 201 to 280 each |
 
 Eleven categories carry 1,000 or more questions, and the GK Misc pool ships as 17 part
-files of 1,000 questions each.
+files of 1,000 questions each. Categories marked `+` grow by a few questions every
+morning through the daily scheduler.
+
+### Daily questions
+
+Every morning at 6 AM IST the scheduler (`.github/workflows/daily-questions.yml`)
+mints **10 fresh questions** — computed aptitude questions (quantitative aptitude,
+mathematics, reasoning), English vocabulary, Static GK and one rotating category —
+and uploads them as downloadable **temp files**. Nothing is committed automatically;
+each day is reviewed and moved by hand:
+
+1. Open the day's run in the repo's **Actions** tab and download the
+   `daily-questions-YYYY-MM-DD` artifact.
+2. Copy its contents over the repo (the day file, rebuilt categories, reports).
+3. Run `node tools/validate.js`, then commit and push — Pages redeploys.
+
+Each day is deterministic — re-running the same date produces the same set — and
+every candidate is checked against the published bank, so a daily question is always
+new. Nothing is invented: answers are computed or come from fact rows.
+
+* The day's set is saved as `tools/daily/YYYY-MM-DD.js` and appended to its
+  categories by the build with stable ids (`reasoning-daily-2026-10-08-03`), so
+  existing questions and diffs stay untouched.
+* On the site, the home page shows a **Daily dose** strip and the **Daily** nav item
+  drills the latest set with instant explanations.
+* To publish manually: `node tools/daily.js --date 2026-10-08` (add `--count 15` for a
+  bigger day, `--dry-run` to preview), then rebuild and validate as above.
 
 ### Where the questions come from
 
@@ -188,17 +229,21 @@ npm install && npm test
 node tools/validate.js
 ```
 
-The workflow file is **in the working tree but not committed**: the automation token used
+The workflow files are **in the working tree but not committed**: the automation token used
 to build these branches does not have GitHub's `workflow` permission, so a push fails with
 `refusing to allow a GitHub App to create or update workflow ... without workflows
-permission`. Commit it once from a machine (or with a token) that has that permission and
-CI starts working on the next push:
+permission`. Commit them once from a machine (or with a token) that has that permission and
+CI plus the daily scheduler start working on the next push:
 
 ```bash
-git add .github/workflows/ci.yml
-git commit -m "Add CI workflow"
+git add .github/workflows/ci.yml .github/workflows/daily-questions.yml
+git commit -m "Add CI and daily scheduler workflows"
 git push
 ```
+
+(Until then the scheduler file is ready at `.github/workflows/daily-questions.yml` —
+merging this branch without it only means no automatic 6 AM runs yet. Daily files can
+still be minted by hand with `node tools/daily.js`.)
 
 ## Licence and credits
 

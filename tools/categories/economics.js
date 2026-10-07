@@ -11,7 +11,7 @@
   "ssc-cgl"
  ],
  "blurb": "Banking, budget, taxes, trade and national income.",
- "count": 280,
+ "count": 281,
  "questions": [
   {
    "id": "economics-00001",
@@ -4212,6 +4212,22 @@
    "topic": "Economics and Banking",
    "level": 2,
    "source": "generated"
+  },
+  {
+   "id": "economics-daily-2026-10-07-06",
+   "question": "The scheme Namami Gange was launched with which objective?",
+   "options": [
+    "Cleaning and conservation of the Ganga",
+    "Safety and empowerment of women",
+    "Free health cover for senior citizens above seventy",
+    "Free LPG connections to women from poor households"
+   ],
+   "answer": 0,
+   "explanation": "Namami Gange — Cleaning and conservation of the Ganga.",
+   "topic": "Schemes and Programmes",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-07"
   }
  ]
 };
