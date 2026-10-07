@@ -1,0 +1,256 @@
+{
+  "generatedAt": "2026-10-07T05:00:26.080Z",
+  "totalQuestions": 32907,
+  "categoriesAt1000Plus": [
+    "gk-misc",
+    "general-knowledge",
+    "current-affairs",
+    "static-gk",
+    "indian-history",
+    "geography",
+    "general-science",
+    "english",
+    "reasoning",
+    "quantitative-aptitude",
+    "mathematics"
+  ],
+  "perCategory": [
+    {
+      "slug": "gk-misc",
+      "name": "GK Misc (17 Parts)",
+      "count": 17000,
+      "target": 17000
+    },
+    {
+      "slug": "general-knowledge",
+      "name": "General Knowledge",
+      "count": 1000,
+      "target": 1000
+    },
+    {
+      "slug": "current-affairs",
+      "name": "Current Affairs",
+      "count": 1000,
+      "target": 1000
+    },
+    {
+      "slug": "static-gk",
+      "name": "Static GK",
+      "count": 1000,
+      "target": 1000
+    },
+    {
+      "slug": "indian-history",
+      "name": "Indian History",
+      "count": 1000,
+      "target": 1000
+    },
+    {
+      "slug": "indian-polity",
+      "name": "Indian Polity",
+      "count": 704,
+      "target": 1000
+    },
+    {
+      "slug": "geography",
+      "name": "Geography",
+      "count": 1000,
+      "target": 1000
+    },
+    {
+      "slug": "general-science",
+      "name": "General Science",
+      "count": 1000,
+      "target": 1000
+    },
+    {
+      "slug": "english",
+      "name": "English Language",
+      "count": 1000,
+      "target": 1000
+    },
+    {
+      "slug": "reasoning",
+      "name": "Reasoning",
+      "count": 1500,
+      "target": 1000
+    },
+    {
+      "slug": "quantitative-aptitude",
+      "name": "Quantitative Aptitude",
+      "count": 1500,
+      "target": 1000
+    },
+    {
+      "slug": "mathematics",
+      "name": "Mathematics",
+      "count": 1500,
+      "target": 1000
+    },
+    {
+      "slug": "general-awareness",
+      "name": "General Awareness",
+      "count": 280,
+      "target": 400
+    },
+    {
+      "slug": "computer-awareness",
+      "name": "Computer Awareness",
+      "count": 280,
+      "target": 400
+    },
+    {
+      "slug": "economics",
+      "name": "Economics & Banking",
+      "count": 280,
+      "target": 600
+    },
+    {
+      "slug": "general-english-grammar",
+      "name": "General English Grammar",
+      "count": 280,
+      "target": 400
+    },
+    {
+      "slug": "environmental-studies",
+      "name": "Environmental Studies",
+      "count": 280,
+      "target": 400
+    },
+    {
+      "slug": "physics",
+      "name": "Physics",
+      "count": 260,
+      "target": 400
+    },
+    {
+      "slug": "chemistry",
+      "name": "Chemistry",
+      "count": 222,
+      "target": 400
+    },
+    {
+      "slug": "biology",
+      "name": "Biology",
+      "count": 280,
+      "target": 400
+    },
+    {
+      "slug": "sports",
+      "name": "Sports",
+      "count": 260,
+      "target": 400
+    },
+    {
+      "slug": "awards-honours",
+      "name": "Awards & Honours",
+      "count": 201,
+      "target": 400
+    },
+    {
+      "slug": "books-authors",
+      "name": "Books & Authors",
+      "count": 260,
+      "target": 400
+    },
+    {
+      "slug": "days-events",
+      "name": "Days & Events",
+      "count": 280,
+      "target": 400
+    },
+    {
+      "slug": "inventions-discoveries",
+      "name": "Inventions & Discoveries",
+      "count": 260,
+      "target": 400
+    },
+    {
+      "slug": "abbreviations",
+      "name": "Abbreviations",
+      "count": 280,
+      "target": 400
+    }
+  ],
+  "gkMiscParts": [
+    1000,
+    1000,
+    1000,
+    1000,
+    1000,
+    1000,
+    1000,
+    1000,
+    1000,
+    1000,
+    1000,
+    1000,
+    1000,
+    1000,
+    1000,
+    1000,
+    1000
+  ],
+  "checks": [
+    {
+      "name": "26 category files present",
+      "pass": true,
+      "detail": "26 categories"
+    },
+    {
+      "name": "GK Misc shipped as 17 part files",
+      "pass": true,
+      "detail": "17 part files"
+    },
+    {
+      "name": "every question has 4 options and text",
+      "pass": true,
+      "detail": "clean"
+    },
+    {
+      "name": "no duplicate option inside a question",
+      "pass": true,
+      "detail": "0 questions affected"
+    },
+    {
+      "name": "answer index always points to a real option",
+      "pass": true,
+      "detail": "0 questions affected"
+    },
+    {
+      "name": "question ids are unique",
+      "pass": true,
+      "detail": "32907 unique ids for 32907 questions"
+    },
+    {
+      "name": "class selection covers 1-12 and Graduation",
+      "pass": true,
+      "detail": "Class 1, Class 2, Class 3, Class 4, Class 5, Class 6, Class 7, Class 8, Class 9, Class 10, Class 11, Class 12, Graduation"
+    },
+    {
+      "name": "four exam tracks configured",
+      "pass": true,
+      "detail": "SSC CGL, SSC CHSL, Banking (IBPS / SBI), Railways (RRB NTPC / Group D)"
+    },
+    {
+      "name": "every exam is 40 questions",
+      "pass": true,
+      "detail": "questionCount = 40"
+    },
+    {
+      "name": "[spec] total questions reach 25,000",
+      "pass": true,
+      "detail": "32907 questions built"
+    },
+    {
+      "name": "[spec] GK Misc reaches 17,000",
+      "pass": true,
+      "detail": "17000 questions"
+    },
+    {
+      "name": "[spec] nine categories hold 1,000+",
+      "pass": true,
+      "detail": "11 categories: gk-misc, general-knowledge, current-affairs, static-gk, indian-history, geography, general-science, english, reasoning, quantitative-aptitude, mathematics"
+    }
+  ]
+}

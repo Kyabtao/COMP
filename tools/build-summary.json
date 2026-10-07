@@ -1,0 +1,213 @@
+{
+  "generatedAt": "2026-10-07T05:00:25.631Z",
+  "totalQuestions": 32907,
+  "categories": [
+    {
+      "slug": "abbreviations",
+      "count": 280,
+      "target": 400
+    },
+    {
+      "slug": "computer-awareness",
+      "count": 280,
+      "target": 400
+    },
+    {
+      "slug": "environmental-studies",
+      "count": 280,
+      "target": 400
+    },
+    {
+      "slug": "economics",
+      "count": 280,
+      "target": 600
+    },
+    {
+      "slug": "physics",
+      "count": 260,
+      "target": 400
+    },
+    {
+      "slug": "chemistry",
+      "count": 222,
+      "target": 400
+    },
+    {
+      "slug": "biology",
+      "count": 280,
+      "target": 400
+    },
+    {
+      "slug": "sports",
+      "count": 260,
+      "target": 400
+    },
+    {
+      "slug": "awards-honours",
+      "count": 201,
+      "target": 400
+    },
+    {
+      "slug": "books-authors",
+      "count": 260,
+      "target": 400
+    },
+    {
+      "slug": "days-events",
+      "count": 280,
+      "target": 400
+    },
+    {
+      "slug": "inventions-discoveries",
+      "count": 260,
+      "target": 400
+    },
+    {
+      "slug": "general-awareness",
+      "count": 280,
+      "target": 400
+    },
+    {
+      "slug": "general-english-grammar",
+      "count": 280,
+      "target": 400
+    },
+    {
+      "slug": "english",
+      "count": 1000,
+      "target": 1000
+    },
+    {
+      "slug": "general-knowledge",
+      "count": 1000,
+      "target": 1000
+    },
+    {
+      "slug": "static-gk",
+      "count": 1000,
+      "target": 1000
+    },
+    {
+      "slug": "general-science",
+      "count": 1000,
+      "target": 1000
+    },
+    {
+      "slug": "geography",
+      "count": 1000,
+      "target": 1000
+    },
+    {
+      "slug": "indian-history",
+      "count": 1000,
+      "target": 1000
+    },
+    {
+      "slug": "indian-polity",
+      "count": 704,
+      "target": 1000
+    },
+    {
+      "slug": "current-affairs",
+      "count": 1000,
+      "target": 1000
+    },
+    {
+      "slug": "reasoning",
+      "count": 1500,
+      "target": 1000
+    },
+    {
+      "slug": "quantitative-aptitude",
+      "count": 1500,
+      "target": 1000
+    },
+    {
+      "slug": "mathematics",
+      "count": 1500,
+      "target": 1000
+    },
+    {
+      "slug": "gk-misc",
+      "count": 17000,
+      "target": 17000
+    }
+  ],
+  "gkMiscParts": [
+    {
+      "part": 1,
+      "count": 1000
+    },
+    {
+      "part": 2,
+      "count": 1000
+    },
+    {
+      "part": 3,
+      "count": 1000
+    },
+    {
+      "part": 4,
+      "count": 1000
+    },
+    {
+      "part": 5,
+      "count": 1000
+    },
+    {
+      "part": 6,
+      "count": 1000
+    },
+    {
+      "part": 7,
+      "count": 1000
+    },
+    {
+      "part": 8,
+      "count": 1000
+    },
+    {
+      "part": 9,
+      "count": 1000
+    },
+    {
+      "part": 10,
+      "count": 1000
+    },
+    {
+      "part": 11,
+      "count": 1000
+    },
+    {
+      "part": 12,
+      "count": 1000
+    },
+    {
+      "part": 13,
+      "count": 1000
+    },
+    {
+      "part": 14,
+      "count": 1000
+    },
+    {
+      "part": 15,
+      "count": 1000
+    },
+    {
+      "part": 16,
+      "count": 1000
+    },
+    {
+      "part": 17,
+      "count": 1000
+    }
+  ],
+  "classes": 13,
+  "exams": [
+    "SSC CGL",
+    "SSC CHSL",
+    "Banking (IBPS / SBI)",
+    "Railways (RRB NTPC / Group D)"
+  ]
+}
