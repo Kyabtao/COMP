@@ -89,7 +89,7 @@ qbank.js                       UMD entry point for the bank (browser + Node)
 tools/build-qbank.js           generates the category files
 tools/daily.js                 mints one day's fresh questions (the scheduler runs this)
 tools/daily/*.js               one committed file per published day (do not edit by hand)
-temp/                          temporary folder (gitignored): stores the workflow files below
+temp/                          stores the workflow files (tracked — the Pages deploy serves them)
 temp/ci.yml                    CI workflow: regression suite, bank validation, browser file check
 temp/daily-questions.yml       daily scheduler: mint, rebuild, validate, upload temp files
 tools/validate.js              validates the bank and prints the checklist
@@ -231,13 +231,14 @@ npm install && npm test
 node tools/validate.js
 ```
 
-The workflow files are **stored in `temp/`**, the repository's gitignored temporary
-folder, so they sit in the working tree without being committed: the automation token
-used to build these branches does not have GitHub's `workflow` permission, so a push
-fails with `refusing to allow a GitHub App to create or update workflow ... without
-workflows permission`. Move them into place and commit once from a machine (or with a
-token) that has that permission — CI plus the daily scheduler start working on the next
-push:
+The workflow files are **committed in `temp/`**, so the Pages deploy — which serves
+this repository straight from `main` — publishes them with the site. They cannot be
+pushed under `.github/workflows/`: the automation token used to build these branches
+does not have GitHub's `workflow` permission, so a push fails with `refusing to allow
+a GitHub App to create or update workflow ... without workflows permission`, and
+GitHub only runs workflows from `.github/workflows/`. Move them into place and commit
+once from a machine (or with a token) that has that permission — CI plus the daily
+scheduler start working on the next push:
 
 ```bash
 mv temp/ci.yml temp/daily-questions.yml .github/workflows/
