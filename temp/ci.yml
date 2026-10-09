@@ -1,0 +1,90 @@
+# CI workflow for ExamSathi.
+#
+# Tracked in temp/ because a workflow file cannot be pushed under
+# .github/workflows/ — the automation token that builds these branches does
+# not have GitHub's `workflows` permission ("refusing to allow a GitHub App to
+# create or update workflow ... without workflows permission") — and GitHub
+# only runs workflows from .github/workflows/. GitHub Pages serves this
+# repository straight from main, so the deployed site includes this file.
+# To activate it as a workflow, move it to .github/workflows/ci.yml and commit
+# from a machine (or with a token) that has the permission.
+#
+# What it does (see README.md, "Deploying"): runs the regression suite,
+# validates the bank and checks that the files the browser asks for are
+# present — on pushes to main, on every pull request and on demand.
+
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install the test dependency
+        run: npm install
+
+      - name: Run the regression suite
+        run: npm test
+
+      - name: Validate the question bank
+        run: node tools/validate.js
+
+      - name: Check that the files the browser asks for are present
+        run: |
+          node <<'EOF'
+          "use strict";
+          const fs = require("fs");
+          const path = require("path");
+          const missing = [];
+          const need = (p) => {
+            if (!fs.existsSync(path.join(process.cwd(), p))) missing.push(p);
+          };
+
+          /* everything index.html references */
+          [
+            "assets/css/style.css",
+            "assets/img/favicon.svg",
+            "assets/img/favicon-16x16.png",
+            "assets/img/favicon-32x32.png",
+            "assets/img/apple-touch-icon.png",
+            "site.webmanifest",
+            "tools/categories/index.js",
+            "assets/js/qbank-loader.js",
+            "assets/js/app.js"
+          ].forEach(need);
+
+          /* every category file the loader injects, taken from the manifest */
+          const manifest = require("./tools/categories/index.js");
+          for (const entry of manifest) {
+            if (entry.parts && entry.partDir) {
+              for (let p = 1; p <= entry.parts; p++) {
+                need(entry.partDir + "/part-" + String(p).padStart(2, "0") + ".js");
+              }
+            } else if (entry.file) {
+              need("tools/categories/" + entry.file + ".js");
+            }
+          }
+
+          if (missing.length) {
+            console.error("Missing files the browser asks for:");
+            missing.forEach((m) => console.error("  " + m));
+            process.exit(1);
+          }
+          console.log("All files the browser asks for are present.");
+          EOF

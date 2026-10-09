@@ -89,7 +89,9 @@ qbank.js                       UMD entry point for the bank (browser + Node)
 tools/build-qbank.js           generates the category files
 tools/daily.js                 mints one day's fresh questions (the scheduler runs this)
 tools/daily/*.js               one committed file per published day (do not edit by hand)
-.github/workflows/daily-questions.yml  daily scheduler: mint, rebuild, validate, upload temp files
+temp/                          stores the workflow files (tracked — the Pages deploy serves them)
+temp/ci.yml                    CI workflow: regression suite, bank validation, browser file check
+temp/daily-questions.yml       daily scheduler: mint, rebuild, validate, upload temp files
 tools/validate.js              validates the bank and prints the checklist
 tools/spec.js                  category, class, exam and merged target definitions
 tools/qcore.js                 deterministic PRNG, option builder, helpers
@@ -127,7 +129,7 @@ morning through the daily scheduler.
 
 ### Daily questions
 
-Every morning at 6 AM IST the scheduler (`.github/workflows/daily-questions.yml`)
+Every morning at 6 AM IST the scheduler (`temp/daily-questions.yml`)
 mints **10 fresh questions** — computed aptitude questions (quantitative aptitude,
 mathematics, reasoning), English vocabulary, Static GK and one rotating category —
 and uploads them as downloadable **temp files**. Nothing is committed automatically;
@@ -219,7 +221,7 @@ and the site needs no build step, so **every push to `main` goes live** at
 <https://kyabtao.github.io/COMP/>. Nothing else has to run: the pages are served exactly
 as committed.
 
-Verification is the one piece that lives outside the browser. `.github/workflows/ci.yml`
+Verification is the one piece that lives outside the browser. `temp/ci.yml`
 runs the regression suite, validates the bank and checks that the files the browser asks
 for are present — on pushes to `main`, on every pull request and on demand.
 
@@ -229,21 +231,25 @@ npm install && npm test
 node tools/validate.js
 ```
 
-The workflow files are **in the working tree but not committed**: the automation token used
-to build these branches does not have GitHub's `workflow` permission, so a push fails with
-`refusing to allow a GitHub App to create or update workflow ... without workflows
-permission`. Commit them once from a machine (or with a token) that has that permission and
-CI plus the daily scheduler start working on the next push:
+The workflow files are **committed in `temp/`**, so the Pages deploy — which serves
+this repository straight from `main` — publishes them with the site. They cannot be
+pushed under `.github/workflows/`: the automation token used to build these branches
+does not have GitHub's `workflow` permission, so a push fails with `refusing to allow
+a GitHub App to create or update workflow ... without workflows permission`, and
+GitHub only runs workflows from `.github/workflows/`. Move them into place and commit
+once from a machine (or with a token) that has that permission — CI plus the daily
+scheduler start working on the next push:
 
 ```bash
+mv temp/ci.yml temp/daily-questions.yml .github/workflows/
 git add .github/workflows/ci.yml .github/workflows/daily-questions.yml
 git commit -m "Add CI and daily scheduler workflows"
 git push
 ```
 
-(Until then the scheduler file is ready at `.github/workflows/daily-questions.yml` —
-merging this branch without it only means no automatic 6 AM runs yet. Daily files can
-still be minted by hand with `node tools/daily.js`.)
+(Until then the scheduler file is ready at `temp/daily-questions.yml` — merging this
+branch without it only means no automatic 6 AM runs yet. Daily files can still be
+minted by hand with `node tools/daily.js`.)
 
 ## Licence and credits
 
