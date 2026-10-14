@@ -1,0 +1,64 @@
+# Daily question scheduler for ExamSathi.
+#
+# Tracked in temp/ because a workflow file cannot be pushed under
+# .github/workflows/ — the automation token that builds these branches does
+# not have GitHub's `workflows` permission ("refusing to allow a GitHub App to
+# create or update workflow ... without workflows permission") — and GitHub
+# only runs workflows from .github/workflows/. GitHub Pages serves this
+# repository straight from main, so the deployed site includes this file.
+# To activate it as a workflow, move it to .github/workflows/daily-questions.yml
+# and commit from a machine (or with a token) that has the permission.
+#
+# What it does (see README.md, "Daily questions"): every morning at 06:00 IST
+# it mints 10 fresh questions (node tools/daily.js), rebuilds the category
+# files (node tools/build-qbank.js) and validates the bank
+# (node tools/validate.js), then uploads the day's temp files as a 30-day
+# artifact for manual review. Nothing is committed automatically.
+
+name: Daily questions
+
+on:
+  schedule:
+    # 06:00 IST every morning (IST is UTC+5:30, so 06:00 IST is 00:30 UTC)
+    - cron: "30 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  mint:
+    runs-on: ubuntu-latest
+    env:
+      TZ: Asia/Kolkata
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Stamp the run date (IST)
+        run: echo "TODAY=$(date +%F)" >> "$GITHUB_ENV"
+
+      - name: Mint the day's fresh questions
+        run: node tools/daily.js
+
+      - name: Rebuild the category files
+        run: node tools/build-qbank.js
+
+      - name: Validate the bank
+        run: node tools/validate.js
+
+      - name: Upload the day's temp files for manual review
+        uses: actions/upload-artifact@v4
+        with:
+          name: daily-questions-${{ env.TODAY }}
+          path: |
+            tools/daily/
+            tools/categories/
+            qbank-report.json
+            tools/build-summary.json
+          retention-days: 30
