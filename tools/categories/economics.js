@@ -11,7 +11,7 @@
   "ssc-cgl"
  ],
  "blurb": "Banking, budget, taxes, trade and national income.",
- "count": 281,
+ "count": 282,
  "questions": [
   {
    "id": "economics-00001",
@@ -4228,6 +4228,22 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-07"
+  },
+  {
+   "id": "economics-daily-2026-10-15-06",
+   "question": "What is the rate that banks charge each other for short-term funds called?",
+   "options": [
+    "Call money rate",
+    "Shanghai",
+    "Net National Product",
+    "Excise duty"
+   ],
+   "answer": 0,
+   "explanation": "Economics and banking fact.",
+   "topic": "Economics and Banking",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-15"
   }
  ]
 };

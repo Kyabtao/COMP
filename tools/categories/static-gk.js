@@ -13,7 +13,7 @@
   "railways"
  ],
  "blurb": "National symbols, dances, festivals, dams, parks, instruments and branches of science.",
- "count": 1001,
+ "count": 1002,
  "questions": [
   {
    "id": "static-gk-00001",
@@ -15030,6 +15030,22 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-07"
+  },
+  {
+   "id": "static-gk-daily-2026-10-15-05",
+   "question": "What is the chemical name of Borax?",
+   "options": [
+    "Sodium tetraborate (Na2B4O7.10H2O)",
+    "Potassium nitrate (KNO3)",
+    "Calcium hydroxide (Ca(OH)2)",
+    "Sodium bicarbonate and tartaric acid"
+   ],
+   "answer": 0,
+   "explanation": "Borax is Sodium tetraborate (Na2B4O7.10H2O).",
+   "topic": "Chemical Names",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-15"
   }
  ]
 };

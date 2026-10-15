@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-07T07:53:41.172Z",
-  "totalQuestions": 32937,
+  "generatedAt": "2026-10-15T08:24:59.284Z",
+  "totalQuestions": 32947,
   "categories": [
     {
       "slug": "abbreviations",
@@ -19,7 +19,7 @@
     },
     {
       "slug": "economics",
-      "count": 281,
+      "count": 282,
       "target": 600
     },
     {
@@ -74,7 +74,7 @@
     },
     {
       "slug": "english",
-      "count": 1002,
+      "count": 1004,
       "target": 1000
     },
     {
@@ -84,7 +84,7 @@
     },
     {
       "slug": "static-gk",
-      "count": 1001,
+      "count": 1002,
       "target": 1000
     },
     {
@@ -114,17 +114,17 @@
     },
     {
       "slug": "reasoning",
-      "count": 1502,
+      "count": 1504,
       "target": 1000
     },
     {
       "slug": "quantitative-aptitude",
-      "count": 1502,
+      "count": 1504,
       "target": 1000
     },
     {
       "slug": "mathematics",
-      "count": 1502,
+      "count": 1504,
       "target": 1000
     },
     {
@@ -203,6 +203,12 @@
       "count": 1000
     }
   ],
+  "daily": {
+    "days": 2,
+    "questions": 20,
+    "latest": "2026-10-15",
+    "minted": []
+  },
   "classes": 13,
   "exams": [
     "SSC CGL",

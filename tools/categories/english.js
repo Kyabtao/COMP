@@ -12,7 +12,7 @@
   "banking"
  ],
  "blurb": "Synonyms, antonyms, idioms, one-word substitutes, spellings and grammar.",
- "count": 1002,
+ "count": 1004,
  "questions": [
   {
    "id": "english-00001",
@@ -15045,6 +15045,38 @@
    "level": 1,
    "source": "daily",
    "dailyDate": "2026-10-07"
+  },
+  {
+   "id": "english-daily-2026-10-15-04",
+   "question": "What is the meaning of the idiom 'Hold water'?",
+   "options": [
+    "Be logically sound",
+    "In close partnership",
+    "Facing the same difficulty",
+    "A difficult problem"
+   ],
+   "answer": 0,
+   "explanation": "'Hold water' means Be logically sound.",
+   "topic": "Idioms and Phrases",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-15"
+  },
+  {
+   "id": "english-daily-2026-10-15-10",
+   "question": "What is the collective noun for a group of stars?",
+   "options": [
+    "Admission",
+    "She said that she would come the next day",
+    "Constellation",
+    "Written"
+   ],
+   "answer": 2,
+   "explanation": "English grammar rule.",
+   "topic": "English Grammar",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-15"
   }
  ]
 };

@@ -11,7 +11,7 @@
   "ssc-chsl"
  ],
  "blurb": "Number work, algebra, geometry and speed-accuracy drills.",
- "count": 1502,
+ "count": 1504,
  "questions": [
   {
    "id": "mathematics-00001",
@@ -22544,6 +22544,38 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-07"
+  },
+  {
+   "id": "mathematics-daily-2026-10-15-02",
+   "question": "If 5x + 19 = 29, what is the value of x?",
+   "options": [
+    "2",
+    "1",
+    "5.8",
+    "4"
+   ],
+   "answer": 0,
+   "explanation": "5x = 29 - 19 = 10, so x = 2.",
+   "topic": "Simple Equations",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-15"
+  },
+  {
+   "id": "mathematics-daily-2026-10-15-08",
+   "question": "If 10x + 12 = 122, what is the value of x?",
+   "options": [
+    "11",
+    "13",
+    "10",
+    "12"
+   ],
+   "answer": 0,
+   "explanation": "10x = 122 - 12 = 110, so x = 11.",
+   "topic": "Simple Equations",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-15"
   }
  ]
 };

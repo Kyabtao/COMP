@@ -19,6 +19,9 @@
  * Output is one file per day, tools/daily/YYYY-MM-DD.js, which the build
  * (tools/build-qbank.js) appends to its categories. Generation is
  * deterministic: the same date always produces the same set.
+ *
+ * The build calls ensureDaily() itself, so running the build is enough to
+ * grow the bank by a day's worth of questions.
  */
 const fs = require("fs");
 const path = require("path");
@@ -171,6 +174,89 @@ function loadBankKeys() {
   return keys;
 }
 
+/** Every stored day file, oldest first. */
+function dailyFiles(dir) {
+  const target = dir || DAILY_DIR;
+  if (!fs.existsSync(target)) return [];
+  return fs.readdirSync(target)
+    .filter((f) => /^\d{4}-\d{2}-\d{2}\.js$/.test(f))
+    .sort()
+    .map((f) => path.join(target, f));
+}
+
+/** The dates of every stored day, oldest first. */
+function storedDates(dir) {
+  return dailyFiles(dir).map((f) => path.basename(f, ".js"));
+}
+
+/**
+ * Keys for everything already published: the built bank plus every stored day.
+ * A minted question is checked against this set, so it is always new.
+ */
+function publishedKeys(dir) {
+  const keys = new Set();
+  try {
+    loadBankKeys().forEach((k) => keys.add(k));
+  } catch (err) {
+    /* the bank is not built yet — the stored days still count */
+    if (err.code !== "MODULE_NOT_FOUND") throw err;
+  }
+  dailyFiles(dir).forEach((f) => {
+    const day = require(f);
+    (day.questions || []).forEach((q) => keys.add(keyOf(q.question, q.options)));
+  });
+  return keys;
+}
+
+/**
+ * Mint one day and store it. A day that is already stored is left untouched,
+ * so this is safe to call on every build — the same day is never minted twice.
+ */
+function ensureDaily(dateStr, count, options) {
+  const opts = options || {};
+  const dir = opts.dir || DAILY_DIR;
+  const file = dailyFile(dateStr, dir);
+  if (fs.existsSync(file)) {
+    const stored = require(file);
+    return { date: dateStr, file, created: false, questions: stored.questions || [] };
+  }
+  const keys = new Set(opts.keys || publishedKeys(dir));
+  const payload = generateDaily(dateStr, count, keys);
+  saveDaily(payload, dir);
+  return { date: dateStr, file, created: true, questions: payload.questions };
+}
+
+/** The day after a date. */
+function nextDay(dateStr) {
+  const d = new Date(dateStr + "T00:00:00Z");
+  d.setUTCDate(d.getUTCDate() + 1);
+  return d.toISOString().slice(0, 10);
+}
+
+/** Every date from `from` to `to`, inclusive. */
+function dateRange(from, to) {
+  const out = [];
+  const cursor = new Date(from + "T00:00:00Z");
+  const end = new Date(to + "T00:00:00Z");
+  while (cursor.getTime() <= end.getTime()) {
+    out.push(cursor.toISOString().slice(0, 10));
+    cursor.setUTCDate(cursor.getUTCDate() + 1);
+  }
+  return out;
+}
+
+/**
+ * The days still missing up to `target`: everything after the newest stored
+ * day, so a build that has not run for a while can catch up in one go.
+ */
+function missingDates(target, dir) {
+  const stored = storedDates(dir);
+  if (!stored.length) return [target];
+  const last = stored[stored.length - 1];
+  if (last >= target) return [];
+  return dateRange(nextDay(last), target);
+}
+
 function dailyFile(dateStr, dir) {
   return path.join(dir || DAILY_DIR, dateStr + ".js");
 }
@@ -241,4 +327,7 @@ if (require.main === module) {
   }
 }
 
-module.exports = { generateDaily, saveDaily, dailyFile, loadBankKeys, wheelFor, rotatingSlug, keyOf, DEFAULT_COUNT };
+module.exports = {
+  generateDaily, saveDaily, dailyFile, loadBankKeys, wheelFor, rotatingSlug, keyOf, DEFAULT_COUNT,
+  dailyFiles, storedDates, publishedKeys, ensureDaily, dateRange, missingDates, nextDay, todayUTC
+};

@@ -6,7 +6,7 @@ Practice site for school and competitive exams, built around a generated questio
 
 - **Single target list:** Classes 1 to 12, Graduation, SSC CGL, SSC CHSL, Banking (IBPS / SBI) and Railways (RRB NTPC / Group D) — classes and exams are merged into one list because they share the same paper pattern
 - **Every paper:** you choose the questions, time and marking — the defaults are 40 questions in 40 minutes, +1 per correct answer, 0.25 negative marking
-- **Question bank:** 32,937 questions in 26 categories (see below), growing by 10 fresh questions every morning
+- **Question bank:** 32,947 questions in 26 categories (see below), growing by 10 fresh questions every morning
 - **No build step:** plain HTML, CSS and JavaScript, hosted straight from this repository
 
 ## Quick start
@@ -62,14 +62,25 @@ Small things that make it quicker to use:
 * Everything is responsive down to phone width, honours `prefers-reduced-motion`, and
   the submitted review prints cleanly.
 
-Rebuild the question bank (deterministic — same output every run):
+Rebuild the question bank. The build mints the day's fresh questions, stores them
+and writes the category files, so one command keeps the bank growing:
 
 ```bash
-node tools/build-qbank.js       # writes tools/categories/*.js
+node tools/build-qbank.js       # mints today's questions if they are missing, then writes tools/categories/*.js
 node tools/validate.js          # checks counts, shapes and the spec checklist
 ```
 
-Publish a day's fresh questions by hand (the scheduler below does this daily):
+The build is deterministic — the same day always produces the same set, and a day
+that is already stored is never minted again. Useful flags:
+
+```bash
+node tools/build-qbank.js --no-daily            # rebuild only, no new questions
+node tools/build-qbank.js --date 2026-10-08     # mint that day instead of today
+node tools/build-qbank.js --daily-count 15      # a bigger day (1 to 100 questions)
+node tools/build-qbank.js --catch-up            # mint every day missing since the last stored one
+```
+
+Publish a day's fresh questions on their own (the scheduler below does this daily):
 
 ```bash
 node tools/daily.js             # mints tools/daily/YYYY-MM-DD.js (10 questions)
@@ -86,8 +97,8 @@ assets/js/qbank-loader.js      loads every category file at start up
 assets/js/app.js               routing, practice drills, configurable exam engine (one target list)
 qbank.js                       UMD entry point for the bank (browser + Node)
 
-tools/build-qbank.js           generates the category files
-tools/daily.js                 mints one day's fresh questions (the scheduler runs this)
+tools/build-qbank.js           mints the day's questions, then generates the category files
+tools/daily.js                 mints one day's fresh questions (the build calls this too)
 tools/daily/*.js               one committed file per published day (do not edit by hand)
 temp/                          stores the workflow files (tracked — the Pages deploy serves them)
 temp/ci.yml                    CI workflow: regression suite, bank validation, browser file check
@@ -109,31 +120,36 @@ tools/categories/gk-misc/      GENERATED GK Misc parts 01 to 17
 | Category | Questions |
 | --- | ---: |
 | GK Misc (17 part files) | 17,000 |
-| Reasoning | 1,502+ |
-| Quantitative Aptitude | 1,502+ |
-| Mathematics | 1,502+ |
-| English Language | 1,002+ |
+| Reasoning | 1,504+ |
+| Quantitative Aptitude | 1,504+ |
+| Mathematics | 1,504+ |
+| English Language | 1,004+ |
 | General Knowledge | 1,000+ |
-| Static GK | 1,001+ |
+| Static GK | 1,002+ |
 | Geography | 1,000+ |
 | Indian History | 1,000+ |
 | General Science | 1,000+ |
 | Current Affairs | 1,000 |
 | Indian Polity | 724 |
-| Economics & Banking | 281+ |
+| Economics & Banking | 282+ |
 | thirteen smaller categories | 201 to 280 each |
 
 Eleven categories carry 1,000 or more questions, and the GK Misc pool ships as 17 part
 files of 1,000 questions each. Categories marked `+` grow by a few questions every
-morning through the daily scheduler.
+morning, because the build mints the day's set and appends it to them.
 
 ### Daily questions
 
-Every morning at 6 AM IST the scheduler (`temp/daily-questions.yml`)
-mints **10 fresh questions** — computed aptitude questions (quantitative aptitude,
+The build itself grows the bank: `node tools/build-qbank.js` mints **10 fresh
+questions** for the day — computed aptitude questions (quantitative aptitude,
 mathematics, reasoning), English vocabulary, Static GK and one rotating category —
-and uploads them as downloadable **temp files**. Nothing is committed automatically;
-each day is reviewed and moved by hand:
+stores them as `tools/daily/YYYY-MM-DD.js` and appends them to their categories.
+Run it once a day and the bank grows by ten questions a day; run it after a gap and
+`--catch-up` fills every missing day.
+
+Every morning at 6 AM IST the scheduler (`temp/daily-questions.yml`)
+runs the same build and uploads the result as downloadable **temp files**. Nothing
+is committed automatically; each day is reviewed and moved by hand:
 
 1. Open the day's run in the repo's **Actions** tab and download the
    `daily-questions-YYYY-MM-DD` artifact.
@@ -150,7 +166,10 @@ new. Nothing is invented: answers are computed or come from fact rows.
 * On the site, the home page shows a **Daily dose** strip and the **Daily** nav item
   drills the latest set with instant explanations.
 * To publish manually: `node tools/daily.js --date 2026-10-08` (add `--count 15` for a
-  bigger day, `--dry-run` to preview), then rebuild and validate as above.
+  bigger day, `--dry-run` to preview), then rebuild and validate as above — or let
+  the build do both: `node tools/build-qbank.js --date 2026-10-08 --daily-count 15`.
+* A day that is already stored is never minted twice, so the build can run as often
+  as you like: the second run of the day only rebuilds the categories.
 
 ### Where the questions come from
 
