@@ -103,6 +103,7 @@ tools/daily/*.js               one committed file per published day (do not edit
 temp/                          stores the workflow files (tracked — the Pages deploy serves them)
 temp/ci.yml                    CI workflow: regression suite, bank validation, browser file check
 temp/daily-questions.yml       daily scheduler: mint, rebuild, validate, upload temp files
+tools/install-workflows.js     installs temp/*.yml into .github/workflows/ (npm run workflows)
 tools/validate.js              validates the bank and prints the checklist
 tools/spec.js                  category, class, exam and merged target definitions
 tools/qcore.js                 deterministic PRNG, option builder, helpers
@@ -250,25 +251,32 @@ npm install && npm test
 node tools/validate.js
 ```
 
-The workflow files are **committed in `temp/`**, so the Pages deploy — which serves
-this repository straight from `main` — publishes them with the site. They cannot be
-pushed under `.github/workflows/`: the automation token used to build these branches
-does not have GitHub's `workflow` permission, so a push fails with `refusing to allow
-a GitHub App to create or update workflow ... without workflows permission`, and
-GitHub only runs workflows from `.github/workflows/`. Move them into place and commit
-once from a machine (or with a token) that has that permission — CI plus the daily
-scheduler start working on the next push:
+The workflow files are **authored in `temp/`**, so the Pages deploy — which serves this
+repository straight from `main` — publishes them with the site. They cannot be
+pushed under `.github/workflows/` from a working branch: the automation token that
+builds those branches does not have GitHub's `workflow` permission, so the push
+fails with `refusing to allow a GitHub App to create or update workflow ... without
+workflows permission`, and GitHub only runs workflows from `.github/workflows/`.
+The tracked copies therefore live in `temp/`, and one command installs them:
 
 ```bash
-mv temp/ci.yml temp/daily-questions.yml .github/workflows/
-git add .github/workflows/ci.yml .github/workflows/daily-questions.yml
-git commit -m "Add CI and daily scheduler workflows"
+npm run workflows            # copies temp/*.yml into .github/workflows/
+npm run workflows -- --check # only reports which files are out of date
+```
+
+Then commit and push the installed files from a machine (or with a token) that has
+that permission — CI plus the daily scheduler start working on the next push:
+
+```bash
+npm run workflows
+git add .github/workflows/ci.yml .github/workflows/daily-question.yml
+git commit -m "Update the CI and daily scheduler workflows"
 git push
 ```
 
 (Until then the scheduler file is ready at `temp/daily-questions.yml` — merging this
 branch without it only means no automatic 6 AM runs yet. Daily files can still be
-minted by hand with `node tools/daily.js`.)
+minted by hand with `node tools/daily.js` or `node tools/build-qbank.js`.)
 
 ## Licence and credits
 

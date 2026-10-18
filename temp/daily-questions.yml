@@ -6,8 +6,9 @@
 # create or update workflow ... without workflows permission") — and GitHub
 # only runs workflows from .github/workflows/. GitHub Pages serves this
 # repository straight from main, so the deployed site includes this file.
-# To activate it as a workflow, move it to .github/workflows/daily-questions.yml
-# and commit from a machine (or with a token) that has the permission.
+# This copy is the source of truth: install it with `npm run workflows`,
+# then commit and push from a machine (or with a token) that has the
+# permission.
 #
 # What it does (see README.md, "Daily questions"): every morning at 06:00 IST
 # it runs the build, which mints 10 fresh questions for the day

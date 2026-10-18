@@ -6,6 +6,7 @@
     "catch-up": "node tools/build-qbank.js --catch-up",
     "daily": "node tools/daily.js",
     "validate": "node tools/validate.js",
+    "workflows": "node tools/install-workflows.js",
     "test": "node --test tools/tests/*.test.js"
   },
   "devDependencies": {
