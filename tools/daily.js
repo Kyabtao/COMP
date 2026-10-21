@@ -19,6 +19,9 @@
  * Output is one file per day, tools/daily/YYYY-MM-DD.js, which the build
  * (tools/build-qbank.js) appends to its categories. Generation is
  * deterministic: the same date always produces the same set.
+ *
+ * The build calls ensureDaily() itself, so running the build is enough to
+ * grow the bank by a day's worth of questions.
  */
 const fs = require("fs");
 const path = require("path");
@@ -171,6 +174,123 @@ function loadBankKeys() {
   return keys;
 }
 
+/** Every stored day file, oldest first. */
+function dailyFiles(dir) {
+  const target = dir || DAILY_DIR;
+  if (!fs.existsSync(target)) return [];
+  return fs.readdirSync(target)
+    .filter((f) => /^\d{4}-\d{2}-\d{2}\.js$/.test(f))
+    .sort()
+    .map((f) => path.join(target, f));
+}
+
+/** The dates of every stored day, oldest first. */
+function storedDates(dir) {
+  return dailyFiles(dir).map((f) => path.basename(f, ".js"));
+}
+
+/**
+ * Keys of every question in the built bank, read one category file at a time.
+ * `complete` is false when the manifest lists a file that cannot be read: the
+ * key set is then only a part of the bank, and nothing new may be minted on
+ * it. A bank that has not been built yet is not a problem — there is nothing
+ * published to repeat.
+ */
+function bankKeys() {
+  const keys = new Set();
+  const manifestFile = path.join(__dirname, "categories", "index.js");
+  if (!fs.existsSync(manifestFile)) return { keys, complete: true };
+  let manifest = [];
+  try {
+    manifest = require(manifestFile);
+  } catch (err) {
+    return { keys, complete: false };
+  }
+  let complete = true;
+  for (const entry of manifest) {
+    const file = path.join(__dirname, "categories", entry.file + ".js");
+    let data = null;
+    try {
+      data = require(file);
+    } catch (err) {
+      complete = false; // one unreadable file must not hide the rest of the bank
+      continue;
+    }
+    for (const q of data.questions || []) keys.add(keyOf(q.question, q.options));
+  }
+  return { keys, complete };
+}
+
+/** Keys of every question in the stored days. */
+function dailyKeys(dir) {
+  const keys = new Set();
+  dailyFiles(dir).forEach((f) => {
+    const day = require(f);
+    (day.questions || []).forEach((q) => keys.add(keyOf(q.question, q.options)));
+  });
+  return keys;
+}
+
+/**
+ * Keys for everything already published: the built bank plus every stored day.
+ * A minted question is checked against this set, so it is always new.
+ */
+function publishedKeys(dir) {
+  const keys = new Set();
+  bankKeys().keys.forEach((k) => keys.add(k));
+  dailyKeys(dir).forEach((k) => keys.add(k));
+  return keys;
+}
+
+/**
+ * Mint one day and store it. A day that is already stored is left untouched,
+ * so this is safe to call on every build — the same day is never minted twice.
+ */
+function ensureDaily(dateStr, count, options) {
+  const opts = options || {};
+  const dir = opts.dir || DAILY_DIR;
+  const file = dailyFile(dateStr, dir);
+  if (fs.existsSync(file)) {
+    const stored = require(file);
+    return { date: dateStr, file, created: false, questions: stored.questions || [] };
+  }
+  const keys = new Set(opts.keys || publishedKeys(dir));
+  const payload = generateDaily(dateStr, count, keys);
+  saveDaily(payload, dir);
+  return { date: dateStr, file, created: true, questions: payload.questions };
+}
+
+/** The day after a date. */
+function nextDay(dateStr) {
+  const d = new Date(dateStr + "T00:00:00Z");
+  d.setUTCDate(d.getUTCDate() + 1);
+  return d.toISOString().slice(0, 10);
+}
+
+/** Every date from `from` to `to`, inclusive. */
+function dateRange(from, to) {
+  const out = [];
+  const cursor = new Date(from + "T00:00:00Z");
+  const end = new Date(to + "T00:00:00Z");
+  while (cursor.getTime() <= end.getTime()) {
+    out.push(cursor.toISOString().slice(0, 10));
+    cursor.setUTCDate(cursor.getUTCDate() + 1);
+  }
+  return out;
+}
+
+/**
+ * The days still missing up to `target`: everything after the newest stored
+ * day, so a build that has not run for a while can catch up in one go.
+ */
+function missingDates(target, dir) {
+  const stored = storedDates(dir);
+  if (!stored.length) return [target];
+  const last = stored[stored.length - 1];
+  if (last >= target) return [];
+  return dateRange(nextDay(last), target);
+}
+
 function dailyFile(dateStr, dir) {
   return path.join(dir || DAILY_DIR, dateStr + ".js");
 }
@@ -192,19 +312,39 @@ function todayUTC() {
   return new Date().toISOString().slice(0, 10);
 }
 
+/**
+ * Rebuild the question bank so the day's questions are in it, not only in the
+ * day file. The build is the same one the site is served from, so the day's
+ * questions land in their categories with their stable ids. It runs as its own
+ * process, so the two tools keep their own state.
+ */
+function publishToBank() {
+  const { execFileSync } = require("child_process");
+  execFileSync(process.execPath, [path.join(__dirname, "build-qbank.js"), "--no-daily"], { stdio: "inherit" });
+}
+
 function main(argv) {
   const args = (argv || []).slice(2);
   let dateStr = todayUTC();
   let count = DEFAULT_COUNT;
   let force = false;
   let dryRun = false;
+  let build = true;
   for (let i = 0; i < args.length; i++) {
     if (args[i] === "--date" && args[i + 1]) dateStr = args[++i];
     else if (args[i] === "--count" && args[i + 1]) count = Number(args[++i]);
     else if (args[i] === "--force") force = true;
     else if (args[i] === "--dry-run") dryRun = true;
+    else if (args[i] === "--no-build") build = false;
     else if (args[i] === "--help" || args[i] === "-h") {
-      console.log("Usage: node tools/daily.js [--date YYYY-MM-DD] [--count N] [--force] [--dry-run]");
+      console.log("Usage: node tools/daily.js [--date YYYY-MM-DD] [--count N] [--force] [--dry-run] [--no-build]");
+      console.log("");
+      console.log("  (no flag)        mint the day's questions and publish them in the question bank");
+      console.log("  --no-build       mint only, leave the question bank alone");
+      console.log("  --date D         mint this day instead of today");
+      console.log("  --count N        how many questions the day holds (1 to 100)");
+      console.log("  --force          mint the day again, even if it is already stored");
+      console.log("  --dry-run        print the set without writing anything");
       return;
     } else {
       throw new Error("unknown argument " + args[i] + " (try --help)");
@@ -212,7 +352,13 @@ function main(argv) {
   }
   const file = dailyFile(dateStr);
   if (!dryRun && !force && fs.existsSync(file)) {
-    console.log("Daily file already exists for " + dateStr + " — nothing to do. (" + file + ")");
+    console.log("Daily file already exists for " + dateStr + " (" + file + ").");
+    if (build) {
+      console.log("Publishing it in the question bank…");
+      publishToBank();
+    } else {
+      console.log("Nothing to do.");
+    }
     return;
   }
   console.log("Loading the published bank to guarantee fresh questions…");
@@ -229,9 +375,24 @@ function main(argv) {
   payload.questions.forEach((q) => { mix[q.category] = (mix[q.category] || 0) + 1; });
   console.log("Wrote " + payload.questions.length + " daily questions for " + dateStr + " to " + file);
   console.log("Mix: " + Object.keys(mix).map((k) => k + " x" + mix[k]).join(", "));
-  console.log("Next: node tools/build-qbank.js && node tools/validate.js");
+  if (!build) {
+    console.log("Next: node tools/build-qbank.js && node tools/validate.js");
+    return;
+  }
+  console.log("Publishing the day in the question bank…");
+  publishToBank();
+  console.log("The question bank now holds the " + payload.questions.length + " questions of " + dateStr + ".");
+  console.log("Next: node tools/validate.js");
 }
 
+module.exports = {
+  generateDaily, saveDaily, dailyFile, loadBankKeys, wheelFor, rotatingSlug, keyOf, DEFAULT_COUNT,
+  dailyFiles, storedDates, publishedKeys, bankKeys, dailyKeys, ensureDaily, dateRange, missingDates,
+  nextDay, todayUTC, publishToBank
+};
+
+/* the exports are published before the command line runs, so that a tool
+   required from here (the build) always sees a complete module */
 if (require.main === module) {
   try {
     main(process.argv);
@@ -240,5 +401,3 @@ if (require.main === module) {
     process.exitCode = 1;
   }
 }
-
-module.exports = { generateDaily, saveDaily, dailyFile, loadBankKeys, wheelFor, rotatingSlug, keyOf, DEFAULT_COUNT };

@@ -4,6 +4,17 @@
  * Builds tools/categories/*.js — the question bank files that index.html loads.
  * Deterministic: run `node tools/build-qbank.js` and you get the same bank.
  *
+ * The build also mints the day's fresh questions and stores them in
+ * tools/daily/YYYY-MM-DD.js before it writes the categories, so one command
+ * keeps the bank growing: every day brings a new set, which is appended to
+ * its categories with stable ids. A day that is already stored is never
+ * minted again, and the same date always produces the same set.
+ *
+ *   node tools/build-qbank.js                  # mint today (if missing) + build
+ *   node tools/build-qbank.js --no-daily       # rebuild only, no new questions
+ *   node tools/build-qbank.js --date 2026-10-08 --daily-count 15
+ *   node tools/build-qbank.js --catch-up       # mint every missing day
+ *
  * Allocation order matters. Subject categories claim their own pools first, the
  * aptitude categories then stream unlimited numeric questions, and GK Misc is
  * filled last from whatever fact capacity is left, split into 17 part files.
@@ -16,11 +27,13 @@ const { spec } = require("./tables");
 const { CATEGORIES, CLASSES, EXAMS } = require("./spec");
 const numeric = require("./numeric");
 const { assertQuestion } = require("./question-schema");
+const daily = require("./daily");
 
 const ROOT = path.join(__dirname, "..");
-const OUT = path.join(__dirname, "categories");
+const OUT = process.env.QBANK_OUT || path.join(__dirname, "categories");
 const AUTHORED = path.join(__dirname, "authored");
-const DAILY = path.join(__dirname, "daily");
+const DAILY = process.env.DAILY_DIR || path.join(__dirname, "daily");
+const SUMMARY = process.env.QBANK_SUMMARY || path.join(__dirname, "build-summary.json");
 
 /**
  * Allocation phases. Niche categories claim their small pools first, broad subject
@@ -52,6 +65,8 @@ const PHASE_C = [
 const FILL_ORDER = PHASE_A.concat(PHASE_B, PHASE_C.map((p) => p.slug), ["gk-misc"]);
 
 const seenQuestions = new Set();
+/** What the stored days contributed to this build. */
+const dailyStats = { days: 0, questions: 0, latest: null, dropped: 0 };
 const norm = (s) => String(s).toLowerCase().replace(/\s+/g, " ").trim();
 /** Question identity includes the options, because matched pair items share a stem. */
 const keyOf = (q) => norm(q.q) + "|" + norm((q.opts || []).slice().sort().join("~"));
@@ -74,16 +89,17 @@ function loadAuthored(slug) {
  * stable ids so the positional numbering below never renumbers old questions.
  */
 function loadDaily(slug) {
-  if (!fs.existsSync(DAILY)) return [];
-  const files = fs.readdirSync(DAILY).filter((f) => /^\d{4}-\d{2}-\d{2}\.js$/.test(f)).sort();
+  const files = daily.dailyFiles(DAILY);
+  dailyStats.days = files.length;
   const out = [];
   files.forEach((f) => {
-    const day = require(path.join(DAILY, f));
+    const day = require(f);
+    if (day.date > (dailyStats.latest || "")) dailyStats.latest = day.date;
     (day.questions || []).forEach((q, index) => {
       if (q.category !== slug) return;
       assertQuestion(q, "daily " + day.date + " question " + (index + 1));
       const key = keyOf({ q: q.question, opts: q.options });
-      if (seenQuestions.has(key)) return; // a manual re-run must never duplicate
+      if (seenQuestions.has(key)) { dailyStats.dropped++; return; } // a manual re-run must never duplicate
       seenQuestions.add(key);
       out.push({
         id: slug + "-daily-" + day.date + "-" + String(index + 1).padStart(2, "0"),
@@ -93,6 +109,7 @@ function loadDaily(slug) {
       });
     });
   });
+  dailyStats.questions += out.length;
   return out;
 }
 
@@ -179,7 +196,120 @@ function meta(cat, count) {
   };
 }
 
-function main() {
+/**
+ * Command line for the build.
+ *
+ *   --date YYYY-MM-DD   mint this day instead of today
+ *   --daily-count N     questions in the day's set (default 10)
+ *   --catch-up          mint every day missing since the last stored one
+ *   --no-daily          rebuild the bank without minting anything new
+ */
+function parseArgs(argv) {
+  const opts = { date: daily.todayUTC(), count: daily.DEFAULT_COUNT, catchUp: false, mint: true };
+  const args = (argv || []).slice(2);
+  for (let i = 0; i < args.length; i++) {
+    if (args[i] === "--date" && args[i + 1]) opts.date = args[++i];
+    else if ((args[i] === "--daily-count" || args[i] === "--count") && args[i + 1]) opts.count = Number(args[++i]);
+    else if (args[i] === "--catch-up") opts.catchUp = true;
+    else if (args[i] === "--no-daily") opts.mint = false;
+    else if (args[i] === "--help" || args[i] === "-h") { usage(); return null; }
+    else throw new Error("unknown argument " + args[i] + " (try --help)");
+  }
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(opts.date) || isNaN(new Date(opts.date + "T00:00:00Z").getTime())) {
+    throw new Error('date must look like 2026-10-08, got "' + opts.date + '"');
+  }
+  if (!Number.isInteger(opts.count) || opts.count < 1 || opts.count > 100) {
+    throw new Error("daily count must be a whole number from 1 to 100, got " + opts.count);
+  }
+  return opts;
+}
+
+function usage() {
+  console.log("Usage: node tools/build-qbank.js [--date YYYY-MM-DD] [--daily-count N] [--catch-up] [--no-daily]");
+  console.log("");
+  console.log("  (no flag)        mint today's questions if they are not stored yet, then build");
+  console.log("  --no-daily       rebuild the bank without minting a new day");
+  console.log("  --date D         mint this day instead of today");
+  console.log("  --daily-count N  how many questions the day holds (default " + daily.DEFAULT_COUNT + ")");
+  console.log("  --catch-up       mint every day missing since the last stored one");
+}
+
+/**
+ * Mint and store the day's questions. The freshness set is everything already
+ * published — the built bank plus every stored day — so a daily question is
+ * always new. A day that is already stored is skipped, so the build can run
+ * as often as you like without ever minting the same day twice.
+ */
+function mintDays(opts) {
+  const bank = daily.bankKeys();
+  if (!bank.complete) {
+    console.log("The published bank could not be read in full — not minting, so that no question is published twice.");
+    return [];
+  }
+  const keys = new Set([...bank.keys, ...daily.dailyKeys(DAILY)]);
+  const dates = opts.catchUp ? daily.missingDates(opts.date, DAILY) : [opts.date];
+  const minted = [];
+  for (const date of dates) {
+    const res = daily.ensureDaily(date, opts.count, { dir: DAILY, keys });
+    if (!res.created) continue;
+    res.questions.forEach((q) => keys.add(daily.keyOf(q.question, q.options)));
+    minted.push(res);
+  }
+  return minted;
+}
+
+/**
+ * The categories the build publishes. GK Misc is not one of them — it is
+ * filled from the fact pool and split into parts — so a daily question for it
+ * would never be published. Say so instead of dropping it quietly.
+ */
+function unsupportedDailyQuestions() {
+  const published = new Set(CATEGORIES.map((c) => c.slug).filter((s) => s !== "gk-misc"));
+  const out = [];
+  daily.dailyFiles(DAILY).forEach((f) => {
+    const day = require(f);
+    (day.questions || []).forEach((q) => {
+      if (!published.has(q.category)) out.push(q.category);
+    });
+  });
+  return out;
+}
+
+function main(argv) {
+  const opts = parseArgs(argv);
+  if (!opts) return; // --help
+
+  /* a build always starts from a clean slate, even inside a long process */
+  seenQuestions.clear();
+  dailyStats.days = 0;
+  dailyStats.questions = 0;
+  dailyStats.latest = null;
+  dailyStats.dropped = 0;
+
+  let minted = [];
+  if (opts.mint) {
+    if (opts.date > daily.todayUTC()) {
+      console.log("note: " + opts.date + " is in the future — the site's daily drill will show it as the latest set.");
+    }
+    try {
+      minted = mintDays(opts);
+    } catch (err) {
+      /* a day that cannot be minted must never stop the bank from building */
+      console.log("Could not mint a new day (" + err.message + ") — building the bank as it stands.");
+    }
+  }
+  minted.forEach((m) => {
+    console.log("Minted " + m.questions.length + " new questions for " + m.date + " (" + m.file + ").");
+  });
+  const unsupported = unsupportedDailyQuestions();
+  if (unsupported.length) {
+    const counts = {};
+    unsupported.forEach((u) => (counts[u] = (counts[u] || 0) + 1));
+    Object.keys(counts).forEach((u) => {
+      console.log("note: " + counts[u] + " daily question(s) for " + u + " are not published by the build.");
+    });
+  }
+
   fs.mkdirSync(OUT, { recursive: true });
   fs.mkdirSync(path.join(OUT, "gk-misc"), { recursive: true });
 
@@ -276,14 +406,34 @@ function main() {
     totalQuestions: total,
     categories: report.map((r) => ({ slug: r.slug, count: r.count, target: r.target })),
     gkMiscParts: parts.map((p) => ({ part: p.part, count: p.count })),
+    daily: {
+      days: dailyStats.days,
+      questions: dailyStats.questions,
+      latest: dailyStats.latest,
+      minted: minted.map((m) => ({ date: m.date, questions: m.questions.length }))
+    },
     classes: CLASSES.length,
     exams: EXAMS.map((e) => e.name)
   };
-  fs.writeFileSync(path.join(__dirname, "build-summary.json"), JSON.stringify(summary, null, 2));
+  fs.writeFileSync(SUMMARY, JSON.stringify(summary, null, 2));
 
   console.log("Built " + report.length + " categories with " + total + " total questions.");
   for (const r of report) console.log("  " + r.slug.padEnd(24) + String(r.count).padStart(6) + " / target " + r.target);
   console.log("  gk-misc parts: " + parts.map((p) => p.count).join(", "));
+  console.log("  daily: " + dailyStats.questions + " questions from " + dailyStats.days +
+    " stored day(s), latest " + (dailyStats.latest || "none"));
+  if (dailyStats.dropped) {
+    console.log("  note: " + dailyStats.dropped + " daily question(s) matched an existing question and were skipped");
+  }
 }
 
-main();
+if (require.main === module) {
+  try {
+    main(process.argv);
+  } catch (err) {
+    console.error("tools/build-qbank.js: " + err.message);
+    process.exitCode = 1;
+  }
+}
+
+module.exports = { main, parseArgs, mintDays, loadDaily, keyOf };

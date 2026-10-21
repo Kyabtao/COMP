@@ -6,7 +6,7 @@ Practice site for school and competitive exams, built around a generated questio
 
 - **Single target list:** Classes 1 to 12, Graduation, SSC CGL, SSC CHSL, Banking (IBPS / SBI) and Railways (RRB NTPC / Group D) — classes and exams are merged into one list because they share the same paper pattern
 - **Every paper:** you choose the questions, time and marking — the defaults are 40 questions in 40 minutes, +1 per correct answer, 0.25 negative marking
-- **Question bank:** 32,937 questions in 26 categories (see below), growing by 10 fresh questions every morning
+- **Question bank:** 32,957 questions in 26 categories (see below), growing by 10 fresh questions every morning
 - **No build step:** plain HTML, CSS and JavaScript, hosted straight from this repository
 
 ## Quick start
@@ -62,20 +62,36 @@ Small things that make it quicker to use:
 * Everything is responsive down to phone width, honours `prefers-reduced-motion`, and
   the submitted review prints cleanly.
 
-Rebuild the question bank (deterministic — same output every run):
+Rebuild the question bank. The build mints the day's fresh questions, stores them
+and writes the category files, so one command keeps the bank growing:
 
 ```bash
-node tools/build-qbank.js       # writes tools/categories/*.js
+node tools/build-qbank.js       # mints today's questions if they are missing, then writes tools/categories/*.js
 node tools/validate.js          # checks counts, shapes and the spec checklist
 ```
 
-Publish a day's fresh questions by hand (the scheduler below does this daily):
+The build is deterministic — the same day always produces the same set, and a day
+that is already stored is never minted again. Useful flags:
+
+```bash
+node tools/build-qbank.js --no-daily            # rebuild only, no new questions
+node tools/build-qbank.js --date 2026-10-08     # mint that day instead of today
+node tools/build-qbank.js --daily-count 15      # a bigger day (1 to 100 questions)
+node tools/build-qbank.js --catch-up            # mint every day missing since the last stored one
+```
+
+Publish a day's fresh questions on their own (the scheduler below does this daily):
 
 ```bash
 node tools/daily.js             # mints tools/daily/YYYY-MM-DD.js (10 questions)
-node tools/build-qbank.js       # appends them to their categories
+                                # and publishes them in the question bank
 node tools/validate.js          # checks counts, shapes and the spec checklist
 ```
+
+`node tools/daily.js` writes the day **and** puts the questions in the question bank
+(it rebuilds the categories, so they are in the bank the site is served from). Add
+`--no-build` to mint the day without touching the bank, `--date YYYY-MM-DD` to mint
+another day, `--count N` for a bigger day and `--dry-run` to preview.
 
 ## Layout
 
@@ -86,12 +102,13 @@ assets/js/qbank-loader.js      loads every category file at start up
 assets/js/app.js               routing, practice drills, configurable exam engine (one target list)
 qbank.js                       UMD entry point for the bank (browser + Node)
 
-tools/build-qbank.js           generates the category files
-tools/daily.js                 mints one day's fresh questions (the scheduler runs this)
+tools/build-qbank.js           mints the day's questions, then generates the category files
+tools/daily.js                 mints one day's fresh questions and publishes them in the bank
 tools/daily/*.js               one committed file per published day (do not edit by hand)
 temp/                          stores the workflow files (tracked — the Pages deploy serves them)
 temp/ci.yml                    CI workflow: regression suite, bank validation, browser file check
 temp/daily-questions.yml       daily scheduler: mint, rebuild, validate, upload temp files
+tools/install-workflows.js     installs temp/*.yml into .github/workflows/ (npm run workflows)
 tools/validate.js              validates the bank and prints the checklist
 tools/spec.js                  category, class, exam and merged target definitions
 tools/qcore.js                 deterministic PRNG, option builder, helpers
@@ -109,40 +126,46 @@ tools/categories/gk-misc/      GENERATED GK Misc parts 01 to 17
 | Category | Questions |
 | --- | ---: |
 | GK Misc (17 part files) | 17,000 |
-| Reasoning | 1,502+ |
-| Quantitative Aptitude | 1,502+ |
-| Mathematics | 1,502+ |
-| English Language | 1,002+ |
+| Reasoning | 1,506+ |
+| Quantitative Aptitude | 1,506+ |
+| Mathematics | 1,506+ |
+| English Language | 1,006+ |
 | General Knowledge | 1,000+ |
-| Static GK | 1,001+ |
+| Static GK | 1,003+ |
 | Geography | 1,000+ |
 | Indian History | 1,000+ |
 | General Science | 1,000+ |
 | Current Affairs | 1,000 |
 | Indian Polity | 724 |
-| Economics & Banking | 281+ |
-| thirteen smaller categories | 201 to 280 each |
+| Economics & Banking | 282+ |
+| thirteen smaller categories | 201 to 281 each |
 
 Eleven categories carry 1,000 or more questions, and the GK Misc pool ships as 17 part
 files of 1,000 questions each. Categories marked `+` grow by a few questions every
-morning through the daily scheduler.
+morning, because the build mints the day's set and appends it to them.
 
 ### Daily questions
 
-Every morning at 6 AM IST the scheduler (`temp/daily-questions.yml`)
-mints **10 fresh questions** — computed aptitude questions (quantitative aptitude,
+The build itself grows the bank: `node tools/build-qbank.js` mints **10 fresh
+questions** for the day — computed aptitude questions (quantitative aptitude,
 mathematics, reasoning), English vocabulary, Static GK and one rotating category —
-and uploads them as downloadable **temp files**. Nothing is committed automatically;
-each day is reviewed and moved by hand:
+stores them as `tools/daily/YYYY-MM-DD.js` and appends them to their categories.
+`node tools/daily.js` does the same for a single day and publishes it in the bank.
+Run either once a day and the bank grows by ten questions a day; run the build after
+a gap and `--catch-up` fills every missing day.
+
+Every morning at 6 AM IST the scheduler (`temp/daily-questions.yml`)
+runs the same build and uploads the result as downloadable **temp files**. Nothing
+is committed automatically; each day is reviewed and moved by hand:
 
 1. Open the day's run in the repo's **Actions** tab and download the
    `daily-questions-YYYY-MM-DD` artifact.
 2. Copy its contents over the repo (the day file, rebuilt categories, reports).
 3. Run `node tools/validate.js`, then commit and push — Pages redeploys.
 
-Each day is deterministic — re-running the same date produces the same set — and
-every candidate is checked against the published bank, so a daily question is always
-new. Nothing is invented: answers are computed or come from fact rows.
+Each day is deterministic — re-running the same date against the same bank produces
+the same set — and every candidate is checked against the published bank, so a daily
+question is always new. Nothing is invented: answers are computed or come from fact rows.
 
 * The day's set is saved as `tools/daily/YYYY-MM-DD.js` and appended to its
   categories by the build with stable ids (`reasoning-daily-2026-10-08-03`), so
@@ -150,7 +173,11 @@ new. Nothing is invented: answers are computed or come from fact rows.
 * On the site, the home page shows a **Daily dose** strip and the **Daily** nav item
   drills the latest set with instant explanations.
 * To publish manually: `node tools/daily.js --date 2026-10-08` (add `--count 15` for a
-  bigger day, `--dry-run` to preview), then rebuild and validate as above.
+  bigger day, `--dry-run` to preview) — it mints the day and puts the questions in the
+  question bank. The same happens with `node tools/build-qbank.js --date 2026-10-08
+  --daily-count 15`, which mints and rebuilds in one go.
+* A day that is already stored is never minted twice, so the build can run as often
+  as you like: the second run of the day only rebuilds the categories.
 
 ### Where the questions come from
 
@@ -231,25 +258,32 @@ npm install && npm test
 node tools/validate.js
 ```
 
-The workflow files are **committed in `temp/`**, so the Pages deploy — which serves
-this repository straight from `main` — publishes them with the site. They cannot be
-pushed under `.github/workflows/`: the automation token used to build these branches
-does not have GitHub's `workflow` permission, so a push fails with `refusing to allow
-a GitHub App to create or update workflow ... without workflows permission`, and
-GitHub only runs workflows from `.github/workflows/`. Move them into place and commit
-once from a machine (or with a token) that has that permission — CI plus the daily
-scheduler start working on the next push:
+The workflow files are **authored in `temp/`**, so the Pages deploy — which serves this
+repository straight from `main` — publishes them with the site. They cannot be
+pushed under `.github/workflows/` from a working branch: the automation token that
+builds those branches does not have GitHub's `workflow` permission, so the push
+fails with `refusing to allow a GitHub App to create or update workflow ... without
+workflows permission`, and GitHub only runs workflows from `.github/workflows/`.
+The tracked copies therefore live in `temp/`, and one command installs them:
 
 ```bash
-mv temp/ci.yml temp/daily-questions.yml .github/workflows/
-git add .github/workflows/ci.yml .github/workflows/daily-questions.yml
-git commit -m "Add CI and daily scheduler workflows"
+npm run workflows            # copies temp/*.yml into .github/workflows/
+npm run workflows -- --check # only reports which files are out of date
+```
+
+Then commit and push the installed files from a machine (or with a token) that has
+that permission — CI plus the daily scheduler start working on the next push:
+
+```bash
+npm run workflows
+git add .github/workflows/ci.yml .github/workflows/daily-question.yml
+git commit -m "Update the CI and daily scheduler workflows"
 git push
 ```
 
 (Until then the scheduler file is ready at `temp/daily-questions.yml` — merging this
 branch without it only means no automatic 6 AM runs yet. Daily files can still be
-minted by hand with `node tools/daily.js`.)
+minted by hand with `node tools/daily.js` or `node tools/build-qbank.js`.)
 
 ## Licence and credits
 

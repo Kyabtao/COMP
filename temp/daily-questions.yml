@@ -6,14 +6,16 @@
 # create or update workflow ... without workflows permission") — and GitHub
 # only runs workflows from .github/workflows/. GitHub Pages serves this
 # repository straight from main, so the deployed site includes this file.
-# To activate it as a workflow, move it to .github/workflows/daily-questions.yml
-# and commit from a machine (or with a token) that has the permission.
+# This copy is the source of truth: install it with `npm run workflows`,
+# then commit and push from a machine (or with a token) that has the
+# permission.
 #
 # What it does (see README.md, "Daily questions"): every morning at 06:00 IST
-# it mints 10 fresh questions (node tools/daily.js), rebuilds the category
-# files (node tools/build-qbank.js) and validates the bank
-# (node tools/validate.js), then uploads the day's temp files as a 30-day
-# artifact for manual review. Nothing is committed automatically.
+# it runs the build, which mints 10 fresh questions for the day
+# (node tools/build-qbank.js), stores them in tools/daily/ and rebuilds the
+# category files, then validates the bank (node tools/validate.js) and uploads
+# the day's temp files as a 30-day artifact for manual review. Nothing is
+# committed automatically.
 
 name: Daily questions
 
@@ -43,10 +45,7 @@ jobs:
       - name: Stamp the run date (IST)
         run: echo "TODAY=$(date +%F)" >> "$GITHUB_ENV"
 
-      - name: Mint the day's fresh questions
-        run: node tools/daily.js
-
-      - name: Rebuild the category files
+      - name: Mint the day's fresh questions and rebuild the bank
         run: node tools/build-qbank.js
 
       - name: Validate the bank

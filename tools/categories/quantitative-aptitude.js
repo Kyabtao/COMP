@@ -12,7 +12,7 @@
   "banking"
  ],
  "blurb": "Arithmetic, percentages, interest, ratios and mensuration.",
- "count": 1502,
+ "count": 1506,
  "questions": [
   {
    "id": "quantitative-aptitude-00001",
@@ -22545,6 +22545,70 @@
    "level": 1,
    "source": "daily",
    "dailyDate": "2026-10-07"
+  },
+  {
+   "id": "quantitative-aptitude-daily-2026-10-15-01",
+   "question": "What is 14 x 61?",
+   "options": [
+    "854",
+    "915",
+    "868",
+    "793"
+   ],
+   "answer": 0,
+   "explanation": "14 x 61 = 854.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-10-15"
+  },
+  {
+   "id": "quantitative-aptitude-daily-2026-10-15-07",
+   "question": "What is 85 x 88?",
+   "options": [
+    "7480",
+    "7392",
+    "7476",
+    "7565"
+   ],
+   "answer": 0,
+   "explanation": "85 x 88 = 7480.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-10-15"
+  },
+  {
+   "id": "quantitative-aptitude-daily-2026-10-21-01",
+   "question": "What is 52 x 18?",
+   "options": [
+    "954",
+    "988",
+    "936",
+    "932"
+   ],
+   "answer": 2,
+   "explanation": "52 x 18 = 936.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-10-21"
+  },
+  {
+   "id": "quantitative-aptitude-daily-2026-10-21-07",
+   "question": "What is 19 x 31?",
+   "options": [
+    "608",
+    "589",
+    "585",
+    "558"
+   ],
+   "answer": 1,
+   "explanation": "19 x 31 = 589.",
+   "topic": "Multiplication",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-10-21"
   }
  ]
 };

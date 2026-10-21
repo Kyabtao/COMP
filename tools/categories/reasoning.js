@@ -13,7 +13,7 @@
   "railways"
  ],
  "blurb": "Series, coding, blood relations, directions and syllogisms.",
- "count": 1502,
+ "count": 1506,
  "questions": [
   {
    "id": "reasoning-00001",
@@ -22546,6 +22546,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-07"
+  },
+  {
+   "id": "reasoning-daily-2026-10-15-03",
+   "question": "Find the next number in the series: 5, 14, 23, 32, 41, ?",
+   "options": [
+    "41",
+    "59",
+    "51",
+    "50"
+   ],
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 50.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-15"
+  },
+  {
+   "id": "reasoning-daily-2026-10-15-09",
+   "question": "Find the next number in the series: 6, 9, 12, 15, 18, 21, ?",
+   "options": [
+    "27",
+    "23",
+    "25",
+    "24"
+   ],
+   "answer": 3,
+   "explanation": "The pattern continues in the same way, so the next term is 24.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-15"
+  },
+  {
+   "id": "reasoning-daily-2026-10-21-03",
+   "question": "Find the next number in the series: 81, 100, 121, 144, 169, 196, ?",
+   "options": [
+    "450",
+    "216",
+    "225",
+    "234"
+   ],
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 225.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-21"
+  },
+  {
+   "id": "reasoning-daily-2026-10-21-09",
+   "question": "Find the next number in the series: 9, 12, 15, 18, 21, 24, ?",
+   "options": [
+    "24",
+    "54",
+    "27",
+    "26"
+   ],
+   "answer": 2,
+   "explanation": "The pattern continues in the same way, so the next term is 27.",
+   "topic": "Number Series",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-21"
   }
  ]
 };

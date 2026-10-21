@@ -12,7 +12,7 @@
   "banking"
  ],
  "blurb": "Synonyms, antonyms, idioms, one-word substitutes, spellings and grammar.",
- "count": 1002,
+ "count": 1006,
  "questions": [
   {
    "id": "english-00001",
@@ -15045,6 +15045,70 @@
    "level": 1,
    "source": "daily",
    "dailyDate": "2026-10-07"
+  },
+  {
+   "id": "english-daily-2026-10-15-04",
+   "question": "What is the meaning of the idiom 'Hold water'?",
+   "options": [
+    "Be logically sound",
+    "In close partnership",
+    "Facing the same difficulty",
+    "A difficult problem"
+   ],
+   "answer": 0,
+   "explanation": "'Hold water' means Be logically sound.",
+   "topic": "Idioms and Phrases",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-15"
+  },
+  {
+   "id": "english-daily-2026-10-15-10",
+   "question": "What is the collective noun for a group of stars?",
+   "options": [
+    "Admission",
+    "She said that she would come the next day",
+    "Constellation",
+    "Written"
+   ],
+   "answer": 2,
+   "explanation": "English grammar rule.",
+   "topic": "English Grammar",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-15"
+  },
+  {
+   "id": "english-daily-2026-10-21-04",
+   "question": "What is the plural of Half?",
+   "options": [
+    "Formulae",
+    "Vertices",
+    "Halves",
+    "Wolves"
+   ],
+   "answer": 2,
+   "explanation": "The plural of Half is Halves.",
+   "topic": "Plurals",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-10-21"
+  },
+  {
+   "id": "english-daily-2026-10-21-10",
+   "question": "Choose the one word substitute for: One who does not believe in God",
+   "options": [
+    "Sociologist",
+    "Barber",
+    "Matricide",
+    "Atheist"
+   ],
+   "answer": 3,
+   "explanation": "One who does not believe in God — Atheist.",
+   "topic": "One Word Substitution",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-21"
   }
  ]
 };
