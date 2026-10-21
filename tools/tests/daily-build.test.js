@@ -154,6 +154,54 @@ test("a bank that cannot be read in full stops the mint", () => {
   }
 });
 
+test("the daily generator stores its questions in the question bank", () => {
+  const out = tmpDir("qbank-out-");
+  const days = tmpDir("qbank-days-");
+  const summary = path.join(out, "build-summary.json");
+  try {
+    execFileSync("node", [path.join(__dirname, "..", "daily.js"), "--date", "2026-11-05", "--count", "4"], {
+      env: Object.assign({}, process.env, { QBANK_OUT: out, DAILY_DIR: days, QBANK_SUMMARY: summary }),
+      stdio: "pipe"
+    });
+
+    /* the day is stored … */
+    const day = require(path.join(days, "2026-11-05.js"));
+    assert.equal(day.questions.length, 4);
+
+    /* … and it is in the question bank, not only in the day file */
+    const published = fs.readdirSync(out)
+      .filter((f) => f.endsWith(".js") && f !== "index.js")
+      .flatMap((f) => require(path.join(out, f)).questions || []);
+    const added = published.filter((q) => q.source === "daily" && q.dailyDate === "2026-11-05");
+    assert.equal(added.length, 4, "every question of the day is in the bank");
+    for (const q of added) {
+      assert.match(q.id, /-daily-2026-11-05-\d\d$/, "stable daily id: " + q.id);
+    }
+    const report = JSON.parse(fs.readFileSync(summary, "utf8"));
+    assert.equal(report.daily.questions, 4);
+  } finally {
+    fs.rmSync(out, { recursive: true, force: true });
+    fs.rmSync(days, { recursive: true, force: true });
+  }
+});
+
+test("the daily generator can mint without touching the question bank", () => {
+  const out = tmpDir("qbank-out-");
+  const days = tmpDir("qbank-days-");
+  const summary = path.join(out, "build-summary.json");
+  try {
+    execFileSync("node", [path.join(__dirname, "..", "daily.js"), "--date", "2026-11-06", "--count", "2", "--no-build"], {
+      env: Object.assign({}, process.env, { QBANK_OUT: out, DAILY_DIR: days, QBANK_SUMMARY: summary }),
+      stdio: "pipe"
+    });
+    assert.ok(fs.existsSync(path.join(days, "2026-11-06.js")), "the day is stored");
+    assert.equal(fs.readdirSync(out).length, 0, "the question bank is untouched");
+  } finally {
+    fs.rmSync(out, { recursive: true, force: true });
+    fs.rmSync(days, { recursive: true, force: true });
+  }
+});
+
 test("a build without the daily step adds nothing", () => {
   const { out, days } = runBuild(["--no-daily"]);
   try {

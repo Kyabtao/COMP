@@ -84,9 +84,14 @@ Publish a day's fresh questions on their own (the scheduler below does this dail
 
 ```bash
 node tools/daily.js             # mints tools/daily/YYYY-MM-DD.js (10 questions)
-node tools/build-qbank.js       # appends them to their categories
+                                # and publishes them in the question bank
 node tools/validate.js          # checks counts, shapes and the spec checklist
 ```
+
+`node tools/daily.js` writes the day **and** puts the questions in the question bank
+(it rebuilds the categories, so they are in the bank the site is served from). Add
+`--no-build` to mint the day without touching the bank, `--date YYYY-MM-DD` to mint
+another day, `--count N` for a bigger day and `--dry-run` to preview.
 
 ## Layout
 
@@ -98,7 +103,7 @@ assets/js/app.js               routing, practice drills, configurable exam engin
 qbank.js                       UMD entry point for the bank (browser + Node)
 
 tools/build-qbank.js           mints the day's questions, then generates the category files
-tools/daily.js                 mints one day's fresh questions (the build calls this too)
+tools/daily.js                 mints one day's fresh questions and publishes them in the bank
 tools/daily/*.js               one committed file per published day (do not edit by hand)
 temp/                          stores the workflow files (tracked — the Pages deploy serves them)
 temp/ci.yml                    CI workflow: regression suite, bank validation, browser file check
@@ -145,8 +150,9 @@ The build itself grows the bank: `node tools/build-qbank.js` mints **10 fresh
 questions** for the day — computed aptitude questions (quantitative aptitude,
 mathematics, reasoning), English vocabulary, Static GK and one rotating category —
 stores them as `tools/daily/YYYY-MM-DD.js` and appends them to their categories.
-Run it once a day and the bank grows by ten questions a day; run it after a gap and
-`--catch-up` fills every missing day.
+`node tools/daily.js` does the same for a single day and publishes it in the bank.
+Run either once a day and the bank grows by ten questions a day; run the build after
+a gap and `--catch-up` fills every missing day.
 
 Every morning at 6 AM IST the scheduler (`temp/daily-questions.yml`)
 runs the same build and uploads the result as downloadable **temp files**. Nothing
@@ -167,8 +173,9 @@ question is always new. Nothing is invented: answers are computed or come from f
 * On the site, the home page shows a **Daily dose** strip and the **Daily** nav item
   drills the latest set with instant explanations.
 * To publish manually: `node tools/daily.js --date 2026-10-08` (add `--count 15` for a
-  bigger day, `--dry-run` to preview), then rebuild and validate as above — or let
-  the build do both: `node tools/build-qbank.js --date 2026-10-08 --daily-count 15`.
+  bigger day, `--dry-run` to preview) — it mints the day and puts the questions in the
+  question bank. The same happens with `node tools/build-qbank.js --date 2026-10-08
+  --daily-count 15`, which mints and rebuilds in one go.
 * A day that is already stored is never minted twice, so the build can run as often
   as you like: the second run of the day only rebuilds the categories.
 
