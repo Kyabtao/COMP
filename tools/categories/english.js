@@ -12,7 +12,7 @@
   "banking"
  ],
  "blurb": "Synonyms, antonyms, idioms, one-word substitutes, spellings and grammar.",
- "count": 1004,
+ "count": 1006,
  "questions": [
   {
    "id": "english-00001",
@@ -15077,6 +15077,38 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-15"
+  },
+  {
+   "id": "english-daily-2026-10-21-04",
+   "question": "What is the plural of Half?",
+   "options": [
+    "Formulae",
+    "Vertices",
+    "Halves",
+    "Wolves"
+   ],
+   "answer": 2,
+   "explanation": "The plural of Half is Halves.",
+   "topic": "Plurals",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-10-21"
+  },
+  {
+   "id": "english-daily-2026-10-21-10",
+   "question": "Choose the one word substitute for: One who does not believe in God",
+   "options": [
+    "Sociologist",
+    "Barber",
+    "Matricide",
+    "Atheist"
+   ],
+   "answer": 3,
+   "explanation": "One who does not believe in God — Atheist.",
+   "topic": "One Word Substitution",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-21"
   }
  ]
 };

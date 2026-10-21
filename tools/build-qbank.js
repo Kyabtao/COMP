@@ -241,7 +241,12 @@ function usage() {
  * as often as you like without ever minting the same day twice.
  */
 function mintDays(opts) {
-  const keys = daily.publishedKeys(DAILY);
+  const bank = daily.bankKeys();
+  if (!bank.complete) {
+    console.log("The published bank could not be read in full — not minting, so that no question is published twice.");
+    return [];
+  }
+  const keys = new Set([...bank.keys, ...daily.dailyKeys(DAILY)]);
   const dates = opts.catchUp ? daily.missingDates(opts.date, DAILY) : [opts.date];
   const minted = [];
   for (const date of dates) {
@@ -264,7 +269,7 @@ function unsupportedDailyQuestions() {
   daily.dailyFiles(DAILY).forEach((f) => {
     const day = require(f);
     (day.questions || []).forEach((q) => {
-      if (!published.has(q.category)) out.push(day.date + ": " + q.category);
+      if (!published.has(q.category)) out.push(q.category);
     });
   });
   return out;
@@ -283,6 +288,9 @@ function main(argv) {
 
   let minted = [];
   if (opts.mint) {
+    if (opts.date > daily.todayUTC()) {
+      console.log("note: " + opts.date + " is in the future — the site's daily drill will show it as the latest set.");
+    }
     try {
       minted = mintDays(opts);
     } catch (err) {
@@ -294,7 +302,13 @@ function main(argv) {
     console.log("Minted " + m.questions.length + " new questions for " + m.date + " (" + m.file + ").");
   });
   const unsupported = unsupportedDailyQuestions();
-  unsupported.forEach((u) => console.log("note: daily question for " + u + " is not published by the build."));
+  if (unsupported.length) {
+    const counts = {};
+    unsupported.forEach((u) => (counts[u] = (counts[u] || 0) + 1));
+    Object.keys(counts).forEach((u) => {
+      console.log("note: " + counts[u] + " daily question(s) for " + u + " are not published by the build.");
+    });
+  }
 
   fs.mkdirSync(OUT, { recursive: true });
   fs.mkdirSync(path.join(OUT, "gk-misc"), { recursive: true });

@@ -61,7 +61,7 @@ var manifest = [
    "railways"
   ],
   "blurb": "National symbols, dances, festivals, dams, parks, instruments and branches of science.",
-  "count": 1002
+  "count": 1003
  },
  {
   "slug": "indian-history",
@@ -131,7 +131,7 @@ var manifest = [
    "banking"
   ],
   "blurb": "Synonyms, antonyms, idioms, one-word substitutes, spellings and grammar.",
-  "count": 1004
+  "count": 1006
  },
  {
   "slug": "reasoning",
@@ -146,7 +146,7 @@ var manifest = [
    "railways"
   ],
   "blurb": "Series, coding, blood relations, directions and syllogisms.",
-  "count": 1504
+  "count": 1506
  },
  {
   "slug": "quantitative-aptitude",
@@ -160,7 +160,7 @@ var manifest = [
    "banking"
   ],
   "blurb": "Arithmetic, percentages, interest, ratios and mensuration.",
-  "count": 1504
+  "count": 1506
  },
  {
   "slug": "mathematics",
@@ -173,7 +173,7 @@ var manifest = [
    "ssc-chsl"
   ],
   "blurb": "Number work, algebra, geometry and speed-accuracy drills.",
-  "count": 1504
+  "count": 1506
  },
  {
   "slug": "general-awareness",
@@ -200,7 +200,7 @@ var manifest = [
    "ssc-cgl"
   ],
   "blurb": "Hardware, software, internet and cyber security.",
-  "count": 280
+  "count": 281
  },
  {
   "slug": "economics",

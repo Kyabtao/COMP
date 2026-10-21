@@ -6,7 +6,7 @@ Practice site for school and competitive exams, built around a generated questio
 
 - **Single target list:** Classes 1 to 12, Graduation, SSC CGL, SSC CHSL, Banking (IBPS / SBI) and Railways (RRB NTPC / Group D) — classes and exams are merged into one list because they share the same paper pattern
 - **Every paper:** you choose the questions, time and marking — the defaults are 40 questions in 40 minutes, +1 per correct answer, 0.25 negative marking
-- **Question bank:** 32,947 questions in 26 categories (see below), growing by 10 fresh questions every morning
+- **Question bank:** 32,957 questions in 26 categories (see below), growing by 10 fresh questions every morning
 - **No build step:** plain HTML, CSS and JavaScript, hosted straight from this repository
 
 ## Quick start
@@ -121,19 +121,19 @@ tools/categories/gk-misc/      GENERATED GK Misc parts 01 to 17
 | Category | Questions |
 | --- | ---: |
 | GK Misc (17 part files) | 17,000 |
-| Reasoning | 1,504+ |
-| Quantitative Aptitude | 1,504+ |
-| Mathematics | 1,504+ |
-| English Language | 1,004+ |
+| Reasoning | 1,506+ |
+| Quantitative Aptitude | 1,506+ |
+| Mathematics | 1,506+ |
+| English Language | 1,006+ |
 | General Knowledge | 1,000+ |
-| Static GK | 1,002+ |
+| Static GK | 1,003+ |
 | Geography | 1,000+ |
 | Indian History | 1,000+ |
 | General Science | 1,000+ |
 | Current Affairs | 1,000 |
 | Indian Polity | 724 |
 | Economics & Banking | 282+ |
-| thirteen smaller categories | 201 to 280 each |
+| thirteen smaller categories | 201 to 281 each |
 
 Eleven categories carry 1,000 or more questions, and the GK Misc pool ships as 17 part
 files of 1,000 questions each. Categories marked `+` grow by a few questions every
@@ -157,9 +157,9 @@ is committed automatically; each day is reviewed and moved by hand:
 2. Copy its contents over the repo (the day file, rebuilt categories, reports).
 3. Run `node tools/validate.js`, then commit and push — Pages redeploys.
 
-Each day is deterministic — re-running the same date produces the same set — and
-every candidate is checked against the published bank, so a daily question is always
-new. Nothing is invented: answers are computed or come from fact rows.
+Each day is deterministic — re-running the same date against the same bank produces
+the same set — and every candidate is checked against the published bank, so a daily
+question is always new. Nothing is invented: answers are computed or come from fact rows.
 
 * The day's set is saved as `tools/daily/YYYY-MM-DD.js` and appended to its
   categories by the build with stable ids (`reasoning-daily-2026-10-08-03`), so

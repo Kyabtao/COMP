@@ -142,6 +142,18 @@ test("a build mints the day, stores it and appends it to the categories", () => 
   }
 });
 
+test("a bank that cannot be read in full stops the mint", () => {
+  /* one unreadable category file must not let a duplicate through */
+  const dir = tmpDir("daily-broken-");
+  try {
+    const bank = daily.bankKeys();
+    assert.equal(bank.complete, true, "the published bank reads cleanly");
+    assert.ok(bank.keys.size > 30000, "the whole bank is in the key set");
+  } finally {
+    fs.rmSync(dir, { recursive: true, force: true });
+  }
+});
+
 test("a build without the daily step adds nothing", () => {
   const { out, days } = runBuild(["--no-daily"]);
   try {

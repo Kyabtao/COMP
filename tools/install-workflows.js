@@ -18,9 +18,19 @@
 const fs = require("fs");
 const path = require("path");
 
-const ROOT = process.argv.includes("--root")
-  ? path.resolve(process.argv[process.argv.indexOf("--root") + 1])
-  : path.join(__dirname, "..");
+/** The repository root to work in. */
+function rootFrom(argv) {
+  const at = argv.indexOf("--root");
+  if (at === -1) return path.join(__dirname, "..");
+  const value = argv[at + 1];
+  if (!value || value.startsWith("--")) {
+    console.error("--root needs the path of a checkout, e.g. --root ..");
+    process.exit(1);
+  }
+  return path.resolve(value);
+}
+
+const ROOT = rootFrom(process.argv);
 const CHECK_ONLY = process.argv.includes("--check");
 
 /** The tracked copy and where it belongs once it is installed. */

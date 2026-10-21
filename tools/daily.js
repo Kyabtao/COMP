@@ -190,21 +190,55 @@ function storedDates(dir) {
 }
 
 /**
+ * Keys of every question in the built bank, read one category file at a time.
+ * `complete` is false when the manifest lists a file that cannot be read: the
+ * key set is then only a part of the bank, and nothing new may be minted on
+ * it. A bank that has not been built yet is not a problem — there is nothing
+ * published to repeat.
+ */
+function bankKeys() {
+  const keys = new Set();
+  const manifestFile = path.join(__dirname, "categories", "index.js");
+  if (!fs.existsSync(manifestFile)) return { keys, complete: true };
+  let manifest = [];
+  try {
+    manifest = require(manifestFile);
+  } catch (err) {
+    return { keys, complete: false };
+  }
+  let complete = true;
+  for (const entry of manifest) {
+    const file = path.join(__dirname, "categories", entry.file + ".js");
+    let data = null;
+    try {
+      data = require(file);
+    } catch (err) {
+      complete = false; // one unreadable file must not hide the rest of the bank
+      continue;
+    }
+    for (const q of data.questions || []) keys.add(keyOf(q.question, q.options));
+  }
+  return { keys, complete };
+}
+
+/** Keys of every question in the stored days. */
+function dailyKeys(dir) {
+  const keys = new Set();
+  dailyFiles(dir).forEach((f) => {
+    const day = require(f);
+    (day.questions || []).forEach((q) => keys.add(keyOf(q.question, q.options)));
+  });
+  return keys;
+}
+
+/**
  * Keys for everything already published: the built bank plus every stored day.
  * A minted question is checked against this set, so it is always new.
  */
 function publishedKeys(dir) {
   const keys = new Set();
-  try {
-    loadBankKeys().forEach((k) => keys.add(k));
-  } catch (err) {
-    /* the bank is not built yet — the stored days still count */
-    if (err.code !== "MODULE_NOT_FOUND") throw err;
-  }
-  dailyFiles(dir).forEach((f) => {
-    const day = require(f);
-    (day.questions || []).forEach((q) => keys.add(keyOf(q.question, q.options)));
-  });
+  bankKeys().keys.forEach((k) => keys.add(k));
+  dailyKeys(dir).forEach((k) => keys.add(k));
   return keys;
 }
 
@@ -329,5 +363,6 @@ if (require.main === module) {
 
 module.exports = {
   generateDaily, saveDaily, dailyFile, loadBankKeys, wheelFor, rotatingSlug, keyOf, DEFAULT_COUNT,
-  dailyFiles, storedDates, publishedKeys, ensureDaily, dateRange, missingDates, nextDay, todayUTC
+  dailyFiles, storedDates, publishedKeys, bankKeys, dailyKeys, ensureDaily, dateRange, missingDates,
+  nextDay, todayUTC
 };

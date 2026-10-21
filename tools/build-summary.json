@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-15T08:24:59.284Z",
-  "totalQuestions": 32947,
+  "generatedAt": "2026-10-21T04:13:41.636Z",
+  "totalQuestions": 32957,
   "categories": [
     {
       "slug": "abbreviations",
@@ -9,7 +9,7 @@
     },
     {
       "slug": "computer-awareness",
-      "count": 280,
+      "count": 281,
       "target": 400
     },
     {
@@ -74,7 +74,7 @@
     },
     {
       "slug": "english",
-      "count": 1004,
+      "count": 1006,
       "target": 1000
     },
     {
@@ -84,7 +84,7 @@
     },
     {
       "slug": "static-gk",
-      "count": 1002,
+      "count": 1003,
       "target": 1000
     },
     {
@@ -114,17 +114,17 @@
     },
     {
       "slug": "reasoning",
-      "count": 1504,
+      "count": 1506,
       "target": 1000
     },
     {
       "slug": "quantitative-aptitude",
-      "count": 1504,
+      "count": 1506,
       "target": 1000
     },
     {
       "slug": "mathematics",
-      "count": 1504,
+      "count": 1506,
       "target": 1000
     },
     {
@@ -204,9 +204,9 @@
     }
   ],
   "daily": {
-    "days": 2,
-    "questions": 20,
-    "latest": "2026-10-15",
+    "days": 3,
+    "questions": 30,
+    "latest": "2026-10-21",
     "minted": []
   },
   "classes": 13,

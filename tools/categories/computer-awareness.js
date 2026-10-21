@@ -11,7 +11,7 @@
   "ssc-cgl"
  ],
  "blurb": "Hardware, software, internet and cyber security.",
- "count": 280,
+ "count": 281,
  "questions": [
   {
    "id": "computer-awareness-00001",
@@ -4212,6 +4212,22 @@
    "topic": "File Extensions",
    "level": 3,
    "source": "generated"
+  },
+  {
+   "id": "computer-awareness-daily-2026-10-21-06",
+   "question": "What is the purpose of the shortcut Ctrl + Shift + Esc?",
+   "options": [
+    "Refresh the current window",
+    "Send the selected item to the Recycle Bin",
+    "Open an existing file",
+    "Open Task Manager"
+   ],
+   "answer": 3,
+   "explanation": "Ctrl + Shift + Esc is used to Open Task Manager.",
+   "topic": "Computer Shortcuts",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-21"
   }
  ]
 };
