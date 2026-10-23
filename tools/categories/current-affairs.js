@@ -13,7 +13,7 @@
   "railways"
  ],
  "blurb": "Recent schemes, missions, summits, awards and appointments.",
- "count": 1000,
+ "count": 1007,
  "questions": [
   {
    "id": "current-affairs-00001",
@@ -15014,6 +15014,118 @@
    "topic": "Economics and Banking",
    "level": 2,
    "source": "generated"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-22-02",
+   "question": "What is the primary constitutional or statutory mandate of the office or body 'Central Vigilance Commission (CVC)'?",
+   "options": [
+    "Apex vigilance institution monitoring all vigilance activity under the Central Government and advising central authorities",
+    "Serving as the chief legal adviser to the Government of India with the right of audience in all courts across India",
+    "Compiling National Accounts Statistics (GDP), Index of Industrial Production (IIP), Consumer Price Index (CPI) and Periodic Labour Force Surveys",
+    "Superintendence, direction and control of the preparation of electoral rolls and conduct of elections to Parliament, State Legislatures, President and Vice-President"
+   ],
+   "answer": 0,
+   "explanation": "Central Vigilance Commission (CVC) is mandated with: Apex vigilance institution monitoring all vigilance activity under the Central Government and advising central authorities (Conferred statutory status via the Central Vigilance Commission Act, 2003 on the Santhanam Committee's recommendation).",
+   "topic": "Appointments, Heads of Institutions & Constitutional Offices",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-22-20",
+   "question": "What is the primary objective of the 'Clean Plant Programme' scheme or initiative of the Government of India?",
+   "options": [
+    "Providing farmers access to virus-free, high-quality horticulture planting material through Clean Plant Centres",
+    "Delivering saturation of basic housing, water, road and health facilities to 75 Particularly Vulnerable Tribal Groups (PVTGs)",
+    "Providing collateral-free and guarantor-free education loans to meritorious students admitted to top quality higher education institutions",
+    "Allowing parents and guardians to open a contributory pension account for minor children that converts into a regular NPS account at age 18"
+   ],
+   "answer": 0,
+   "explanation": "Clean Plant Programme was launched under the Ministry of Agriculture and ADB with the objective of: Providing farmers access to virus-free, high-quality horticulture planting material through Clean Plant Centres.",
+   "topic": "Recent Government Schemes & Initiatives",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-22-29",
+   "question": "What is the primary constitutional or statutory mandate of the office or body 'National Green Tribunal (NGT)'?",
+   "options": [
+    "Compiling National Accounts Statistics (GDP), Index of Industrial Production (IIP), Consumer Price Index (CPI) and Periodic Labour Force Surveys",
+    "Serving as the chief legal adviser to the Government of India with the right of audience in all courts across India",
+    "Expeditious disposal of cases relating to environmental protection and conservation of forests and natural resources",
+    "Inquiring into violations of human rights or negligence in the prevention of such violations by a public servant"
+   ],
+   "answer": 2,
+   "explanation": "National Green Tribunal (NGT) is mandated with: Expeditious disposal of cases relating to environmental protection and conservation of forests and natural resources (Established under the National Green Tribunal Act, 2010 enforcing Article 21 right to a healthy environment).",
+   "topic": "Appointments, Heads of Institutions & Constitutional Offices",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-22-47",
+   "question": "What is the primary objective of the 'PM Vidyalaxmi Scheme' scheme or initiative of the Government of India?",
+   "options": [
+    "Providing agricultural drones to 15,000 women Self-Help Groups for rental services to farmers for foliar fertiliser and pesticide spraying",
+    "Imparting foundational literacy, numeracy and critical life skills to non-literate adults aged 15 years and above",
+    "Delivering saturation of basic housing, water, road and health facilities to 75 Particularly Vulnerable Tribal Groups (PVTGs)",
+    "Providing collateral-free and guarantor-free education loans to meritorious students admitted to top quality higher education institutions"
+   ],
+   "answer": 3,
+   "explanation": "PM Vidyalaxmi Scheme was launched under the Ministry of Education with the objective of: Providing collateral-free and guarantor-free education loans to meritorious students admitted to top quality higher education institutions.",
+   "topic": "Recent Government Schemes & Initiatives",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-22-56",
+   "question": "What is the primary constitutional or statutory mandate of the office or body 'Insolvency and Bankruptcy Board of India (IBBI)'?",
+   "options": [
+    "Laying down science-based standards for articles of food and regulating their manufacture, storage, distribution and import",
+    "Regulating insolvency professionals, insolvency agencies and corporate/individual resolution processes in a time-bound manner",
+    "Serving as the chief legal adviser to the Government of India with the right of audience in all courts across India",
+    "Apex vigilance institution monitoring all vigilance activity under the Central Government and advising central authorities"
+   ],
+   "answer": 1,
+   "explanation": "Insolvency and Bankruptcy Board of India (IBBI) is mandated with: Regulating insolvency professionals, insolvency agencies and corporate/individual resolution processes in a time-bound manner (Established on 1 October 2016 under the Insolvency and Bankruptcy Code (IBC), 2016).",
+   "topic": "Appointments, Heads of Institutions & Constitutional Offices",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-22-74",
+   "question": "What is the primary objective of the 'Vivad se Vishwas Scheme 2024' scheme or initiative of the Government of India?",
+   "options": [
+    "Accelerating the adoption of electric two-wheelers, three-wheelers, e-ambulances, e-trucks and public charging infrastructure",
+    "Delivering saturation of basic housing, water, road and health facilities to 75 Particularly Vulnerable Tribal Groups (PVTGs)",
+    "Resolving pending direct tax appeals and reducing income-tax litigation through simplified settlement terms",
+    "Allowing parents and guardians to open a contributory pension account for minor children that converts into a regular NPS account at age 18"
+   ],
+   "answer": 2,
+   "explanation": "Vivad se Vishwas Scheme 2024 was launched under the Ministry of Finance (CBDT) with the objective of: Resolving pending direct tax appeals and reducing income-tax litigation through simplified settlement terms.",
+   "topic": "Recent Government Schemes & Initiatives",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-22-83",
+   "question": "What is the primary constitutional or statutory mandate of the office or body 'Comptroller and Auditor General of India (CAG)'?",
+   "options": [
+    "Auditing all receipts and expenditure of the Consolidated Fund of India, Consolidated Funds of States and Union Territories",
+    "Laying down science-based standards for articles of food and regulating their manufacture, storage, distribution and import",
+    "Superintendence, direction and control of the preparation of electoral rolls and conduct of elections to Parliament, State Legislatures, President and Vice-President",
+    "Apex vigilance institution monitoring all vigilance activity under the Central Government and advising central authorities"
+   ],
+   "answer": 0,
+   "explanation": "Comptroller and Auditor General of India (CAG) is mandated with: Auditing all receipts and expenditure of the Consolidated Fund of India, Consolidated Funds of States and Union Territories (Article 148 of the Constitution with a tenure of 6 years or up to 65 years of age).",
+   "topic": "Appointments, Heads of Institutions & Constitutional Offices",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
   }
  ]
 };

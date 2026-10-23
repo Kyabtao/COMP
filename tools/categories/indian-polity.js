@@ -12,7 +12,7 @@
   "railways"
  ],
  "blurb": "Constitution, articles, amendments and institutions.",
- "count": 724,
+ "count": 728,
  "questions": [
   {
    "id": "indian-polity-00001",
@@ -10873,6 +10873,70 @@
    "topic": "Constitution Facts",
    "level": 3,
    "source": "generated"
+  },
+  {
+   "id": "indian-polity-daily-2026-10-22-08",
+   "question": "Under the Constitution of India, what does 'Article 226' specifically provide for?",
+   "options": [
+    "Superintendence, direction and control of elections vested in the Election Commission of India",
+    "Definition of a Money Bill and the final authority of the Speaker of the Lok Sabha to certify whether a bill is a Money Bill",
+    "Annual Financial Statement (Union Budget) showing estimated receipts and expenditure of the Government of India for a financial year",
+    "Power of High Courts to issue writs for the enforcement of Fundamental Rights as well as for any other legal right"
+   ],
+   "answer": 3,
+   "explanation": "Article 226 of the Indian Constitution deals with Power of High Courts to issue writs for the enforcement of Fundamental Rights as well as for any other legal right (Part VI — The High Courts in the States).",
+   "topic": "Indian Polity & Constitutional Governance",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "indian-polity-daily-2026-10-22-35",
+   "question": "Under the Constitution of India, what does 'Article 143' specifically provide for?",
+   "options": [
+    "Advisory jurisdiction empowering the President to consult the Supreme Court on questions of law or fact of public importance",
+    "Power of High Courts to issue writs for the enforcement of Fundamental Rights as well as for any other legal right",
+    "Autonomous District and Regional Councils for the administration of tribal areas in Assam, Meghalaya, Tripura and Mizoram",
+    "Superintendence, direction and control of elections vested in the Election Commission of India"
+   ],
+   "answer": 0,
+   "explanation": "Article 143 of the Indian Constitution deals with Advisory jurisdiction empowering the President to consult the Supreme Court on questions of law or fact of public importance (Part V — The Union Judiciary).",
+   "topic": "Indian Polity & Constitutional Governance",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "indian-polity-daily-2026-10-22-62",
+   "question": "Under the Constitution of India, what does 'Article 324' specifically provide for?",
+   "options": [
+    "Superintendence, direction and control of elections vested in the Election Commission of India",
+    "Annual Financial Statement (Union Budget) showing estimated receipts and expenditure of the Government of India for a financial year",
+    "Constitution of a Finance Commission every five years to recommend distribution of net tax proceeds between the Union and States",
+    "Reservation of seats for Scheduled Castes, Scheduled Tribes and not less than one-third seats for women in Panchayats"
+   ],
+   "answer": 0,
+   "explanation": "Article 324 of the Indian Constitution deals with Superintendence, direction and control of elections vested in the Election Commission of India (Part XV — Elections).",
+   "topic": "Indian Polity & Constitutional Governance",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "indian-polity-daily-2026-10-22-89",
+   "question": "Under the Constitution of India, what does 'Article 108' specifically provide for?",
+   "options": [
+    "Constitution of a Finance Commission every five years to recommend distribution of net tax proceeds between the Union and States",
+    "Superintendence, direction and control of elections vested in the Election Commission of India",
+    "Joint sitting of both Houses of Parliament summoned by the President and presided over by the Speaker of the Lok Sabha to resolve a deadlock on an ordinary bill",
+    "Disqualification of legislators on the ground of defection from one political party to another"
+   ],
+   "answer": 2,
+   "explanation": "Article 108 of the Indian Constitution deals with Joint sitting of both Houses of Parliament summoned by the President and presided over by the Speaker of the Lok Sabha to resolve a deadlock on an ordinary bill (Part V — Legislative Procedure in Parliament).",
+   "topic": "Indian Polity & Constitutional Governance",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
   }
  ]
 };

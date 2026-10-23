@@ -12,7 +12,7 @@
   "railways"
  ],
  "blurb": "Defence, awards, institutions and national facts.",
- "count": 280,
+ "count": 283,
  "questions": [
   {
    "id": "general-awareness-00001",
@@ -4213,6 +4213,54 @@
    "topic": "Schemes and Programmes",
    "level": 2,
    "source": "generated"
+  },
+  {
+   "id": "general-awareness-daily-2026-10-22-25",
+   "question": "With which country does India conduct the joint military or defence exercise 'Eastern Bridge'?",
+   "options": [
+    "Bangladesh",
+    "Japan",
+    "Oman",
+    "Singapore"
+   ],
+   "answer": 2,
+   "explanation": "'Eastern Bridge' is a joint bilateral air force operational exercise conducted between India and Oman.",
+   "topic": "Joint Military Exercises in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "general-awareness-daily-2026-10-22-52",
+   "question": "With which country does India conduct the joint military or defence exercise 'SIMBEX'?",
+   "options": [
+    "Singapore",
+    "Egypt",
+    "Sri Lanka",
+    "Australia"
+   ],
+   "answer": 0,
+   "explanation": "'SIMBEX' is a joint annual bilateral naval exercise in the Indo-Pacific conducted between India and Singapore.",
+   "topic": "Joint Military Exercises in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "general-awareness-daily-2026-10-22-79",
+   "question": "With which country does India conduct the joint military or defence exercise 'Lamitiye'?",
+   "options": [
+    "Bangladesh",
+    "Seychelles",
+    "Kyrgyzstan",
+    "Japan"
+   ],
+   "answer": 1,
+   "explanation": "'Lamitiye' is a joint joint military defence exercise held in the Indian Ocean region conducted between India and Seychelles.",
+   "topic": "Joint Military Exercises in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
   }
  ]
 };

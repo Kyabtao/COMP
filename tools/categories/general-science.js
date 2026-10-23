@@ -12,7 +12,7 @@
   "railways"
  ],
  "blurb": "Physics, chemistry and biology facts combined.",
- "count": 1000,
+ "count": 1005,
  "questions": [
   {
    "id": "general-science-00001",
@@ -15013,6 +15013,86 @@
    "topic": "Missions and Programmes",
    "level": 3,
    "source": "generated"
+  },
+  {
+   "id": "general-science-daily-2026-10-22-13",
+   "question": "What is the primary scientific or strategic purpose of the 'JUICE (Jupiter Icy Moons Explorer)' mission or platform recently in the news?",
+   "options": [
+    "Studying Jupiter and its three large ocean-bearing moons Ganymede, Callisto and Europa",
+    "Investigating whether Jupiter's icy moon Europa has conditions suitable for life beneath its subsurface ocean",
+    "Providing high-performance computing for astronomy, physics and earth sciences deployed under the National Supercomputing Mission",
+    "Serving as a canisterised new-generation medium-range ballistic missile with a range between 1,000 and 2,000 km"
+   ],
+   "answer": 0,
+   "explanation": "JUICE (Jupiter Icy Moons Explorer), developed or launched by European Space Agency (ESA), is designed for: Studying Jupiter and its three large ocean-bearing moons Ganymede, Callisto and Europa.",
+   "topic": "Science, Space & Defence Missions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "general-science-daily-2026-10-22-40",
+   "question": "What is the primary scientific or strategic purpose of the 'INS Vaghsheer' mission or platform recently in the news?",
+   "options": [
+    "Operating as the sixth and final Kalvari-class (Scorpene) diesel-electric attack submarine under Project 75",
+    "Neutralising enemy radar and communication installations as an indigenously developed air-to-surface anti-radiation missile",
+    "Studying the dense atmosphere, surface geology and solar wind interaction of planet Venus",
+    "Investigating whether Jupiter's icy moon Europa has conditions suitable for life beneath its subsurface ocean"
+   ],
+   "answer": 0,
+   "explanation": "INS Vaghsheer, developed or launched by Mazagon Dock Shipbuilders Limited (MDL) for the Indian Navy, is designed for: Operating as the sixth and final Kalvari-class (Scorpene) diesel-electric attack submarine under Project 75.",
+   "topic": "Science, Space & Defence Missions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "general-science-daily-2026-10-22-67",
+   "question": "What is the primary scientific or strategic purpose of the 'Psyche Mission' mission or platform recently in the news?",
+   "options": [
+    "Engaging manoeuvring supersonic aerial targets as an indigenous Beyond Visual Range Air-to-Air Missile (BVRAAM)",
+    "Demonstrating precision formation flying of two satellites to create artificial solar eclipses for studying the Sun's corona",
+    "Exploring the metal-rich asteroid 16 Psyche in the main asteroid belt between Mars and Jupiter",
+    "Studying Jupiter and its three large ocean-bearing moons Ganymede, Callisto and Europa"
+   ],
+   "answer": 2,
+   "explanation": "Psyche Mission, developed or launched by NASA, is designed for: Exploring the metal-rich asteroid 16 Psyche in the main asteroid belt between Mars and Jupiter.",
+   "topic": "Science, Space & Defence Missions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "general-science-daily-2026-10-22-92",
+   "question": "Which ISRO mission launched on 30 December 2024 successfully demonstrated autonomous spacecraft rendezvous and docking in orbit?",
+   "options": [
+    "SpaDeX",
+    "INSAT-3DS",
+    "EOS-08",
+    "XPoSat"
+   ],
+   "answer": 0,
+   "explanation": "ISRO's Space Docking Experiment (SpaDeX), using two satellites SDX01 (Chaser) and SDX02 (Target) launched aboard PSLV-C60, made India the fourth country to achieve autonomous space docking.",
+   "topic": "ISRO Space Missions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "general-science-daily-2026-10-22-94",
+   "question": "What is the primary scientific or strategic purpose of the 'PROBA-3' mission or platform recently in the news?",
+   "options": [
+    "Demonstrating pinpoint lunar landing accuracy within 100 metres of the target site",
+    "Running high-resolution numerical weather prediction models for cyclone, heavy rainfall and heatwave forecasting",
+    "Studying Jupiter and its three large ocean-bearing moons Ganymede, Callisto and Europa",
+    "Demonstrating precision formation flying of two satellites to create artificial solar eclipses for studying the Sun's corona"
+   ],
+   "answer": 3,
+   "explanation": "PROBA-3, developed or launched by European Space Agency (ESA) launched by ISRO's PSLV-C59, is designed for: Demonstrating precision formation flying of two satellites to create artificial solar eclipses for studying the Sun's corona.",
+   "topic": "Science, Space & Defence Missions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
   }
  ]
 };

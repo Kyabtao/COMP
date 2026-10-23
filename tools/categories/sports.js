@@ -12,7 +12,7 @@
   "railways"
  ],
  "blurb": "Trophies, terms, players and tournaments.",
- "count": 260,
+ "count": 264,
  "questions": [
   {
    "id": "sports-00001",
@@ -3913,6 +3913,70 @@
    "topic": "Trophies and Cups",
    "level": 3,
    "source": "generated"
+  },
+  {
+   "id": "sports-daily-2026-10-22-16",
+   "question": "Which team, athlete or host city is associated with '2026 Commonwealth Games Host City' in recent sports news?",
+   "options": [
+    "Grand Slam title with Matthew Ebden at age 43",
+    "Aichi-Nagoya, Japan",
+    "Royal Challengers Bengaluru (captained by Smriti Mandhana)",
+    "Glasgow, Scotland"
+   ],
+   "answer": 3,
+   "explanation": "2026 Commonwealth Games Host City — Glasgow, Scotland (selected as host for the 23rd Commonwealth Games after previously staging the 2014 edition).",
+   "topic": "Sports Championships, Trophies & Venues in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "sports-daily-2026-10-22-43",
+   "question": "Which team, athlete or host city is associated with '2024 Asian Champions Trophy Men's Hockey (Hulunbuir, China)' in recent sports news?",
+   "options": [
+    "New Zealand White Ferns",
+    "Indian Men's Hockey Team (captained by Harmanpreet Singh)",
+    "Royal Challengers Bengaluru (captained by Smriti Mandhana)",
+    "Aichi-Nagoya, Japan"
+   ],
+   "answer": 1,
+   "explanation": "2024 Asian Champions Trophy Men's Hockey (Hulunbuir, China) — Indian Men's Hockey Team (captained by Harmanpreet Singh) (India defeated host nation China 1–0 in the final to win a record fifth Asian Champions Trophy title).",
+   "topic": "Sports Championships, Trophies & Venues in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "sports-daily-2026-10-22-70",
+   "question": "Which team, athlete or host city is associated with 'Santosh Trophy 77th National Football Championship (2024)' in recent sports news?",
+   "options": [
+    "Services Football Team (hosted in Yupia, Arunachal Pradesh)",
+    "New Zealand White Ferns",
+    "Grand Slam title with Matthew Ebden at age 43",
+    "Saudi Arabia"
+   ],
+   "answer": 0,
+   "explanation": "Santosh Trophy 77th National Football Championship (2024) — Services Football Team (hosted in Yupia, Arunachal Pradesh) (Services defeated Goa in the final at Golden Jubilee Stadium in Arunachal Pradesh to claim their seventh Santosh Trophy).",
+   "topic": "Sports Championships, Trophies & Venues in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "sports-daily-2026-10-22-97",
+   "question": "Which team, athlete or host city is associated with '2024 Women's Premier League (WPL Season 2)' in recent sports news?",
+   "options": [
+    "United States, Canada and Mexico",
+    "Royal Challengers Bengaluru (captained by Smriti Mandhana)",
+    "Indian Men's Hockey Team (captained by Harmanpreet Singh)",
+    "China"
+   ],
+   "answer": 1,
+   "explanation": "2024 Women's Premier League (WPL Season 2) — Royal Challengers Bengaluru (captained by Smriti Mandhana) (Royal Challengers Bengaluru defeated Delhi Capitals at Arun Jaitley Stadium to win their first WPL title).",
+   "topic": "Sports Championships, Trophies & Venues in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
   }
  ]
 };

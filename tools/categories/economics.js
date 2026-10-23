@@ -11,7 +11,7 @@
   "ssc-cgl"
  ],
  "blurb": "Banking, budget, taxes, trade and national income.",
- "count": 282,
+ "count": 285,
  "questions": [
   {
    "id": "economics-00001",
@@ -4244,6 +4244,54 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-15"
+  },
+  {
+   "id": "economics-daily-2026-10-22-27",
+   "question": "In banking and macroeconomic policy, how is 'Lead Bank Scheme' defined?",
+   "options": [
+    "IPO application mechanism where bid money remains blocked in the investor's bank account until shares are allotted",
+    "An overnight emergency liquidity window allowing scheduled commercial banks to borrow from the RBI by dipping into their SLR portfolio up to a specified limit",
+    "District-level credit planning framework where a designated commercial bank coordinates credit deployment across all financial institutions in a district",
+    "Secure centralised web platform for individuals and entities to apply online for regulatory authorisations, licences and approvals"
+   ],
+   "answer": 2,
+   "explanation": "Lead Bank Scheme refers to: District-level credit planning framework where a designated commercial bank coordinates credit deployment across all financial institutions in a district (regulated or measured under Reserve Bank of India (introduced following the Gadgil Study Group and Nariman Committee)).",
+   "topic": "Economics, Banking & Financial Awareness",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "economics-daily-2026-10-22-54",
+   "question": "In banking and macroeconomic policy, how is 'Marginal Standing Facility (MSF)' defined?",
+   "options": [
+    "Supervisory intervention triggered when a bank breaches risk thresholds on Capital Adequacy, Net Non-Performing Assets and Leverage Ratio",
+    "Debt instruments issued on behalf of the Government of India whose proceeds are deployed exclusively in public-sector green infrastructure projects",
+    "An overnight emergency liquidity window allowing scheduled commercial banks to borrow from the RBI by dipping into their SLR portfolio up to a specified limit",
+    "District-level credit planning framework where a designated commercial bank coordinates credit deployment across all financial institutions in a district"
+   ],
+   "answer": 2,
+   "explanation": "Marginal Standing Facility (MSF) refers to: An overnight emergency liquidity window allowing scheduled commercial banks to borrow from the RBI by dipping into their SLR portfolio up to a specified limit (regulated or measured under Reserve Bank of India Monetary Policy Framework).",
+   "topic": "Economics, Banking & Financial Awareness",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "economics-daily-2026-10-22-81",
+   "question": "In banking and macroeconomic policy, how is 'Priority Sector Lending (PSL) Norms' defined?",
+   "options": [
+    "Mandate requiring domestic scheduled commercial banks and foreign banks with 20+ branches to direct 40% of Adjusted Net Bank Credit to agriculture, MSMEs and weaker sections",
+    "Consent-based financial data-sharing network regulated as an NBFC-AA that lets individuals securely share bank, tax and investment records",
+    "Centralised web portal enabling citizens to search for unclaimed bank deposits across multiple banks in one place",
+    "Supervisory intervention triggered when a bank breaches risk thresholds on Capital Adequacy, Net Non-Performing Assets and Leverage Ratio"
+   ],
+   "answer": 0,
+   "explanation": "Priority Sector Lending (PSL) Norms refers to: Mandate requiring domestic scheduled commercial banks and foreign banks with 20+ branches to direct 40% of Adjusted Net Bank Credit to agriculture, MSMEs and weaker sections (regulated or measured under Reserve Bank of India Financial Inclusion and Development Department).",
+   "topic": "Economics, Banking & Financial Awareness",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
   }
  ]
 };

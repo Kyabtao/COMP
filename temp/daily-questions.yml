@@ -11,11 +11,11 @@
 # permission.
 #
 # What it does (see README.md, "Daily questions"): every morning at 06:00 IST
-# it runs the build, which mints 10 fresh questions for the day
-# (node tools/build-qbank.js), stores them in tools/daily/ and rebuilds the
-# category files, then validates the bank (node tools/validate.js) and uploads
-# the day's temp files as a 30-day artifact for manual review. Nothing is
-# committed automatically.
+# it runs the news & competition updater, which adds 100 fresh real-world
+# questions for the day (node tools/news.js), stores them in tools/daily/ and
+# rebuilds the category files, then validates the bank (node tools/validate.js)
+# and uploads the day's temp files as a 30-day artifact for manual review.
+# Nothing is committed automatically.
 
 name: Daily questions
 
@@ -45,8 +45,8 @@ jobs:
       - name: Stamp the run date (IST)
         run: echo "TODAY=$(date +%F)" >> "$GITHUB_ENV"
 
-      - name: Mint the day's fresh questions and rebuild the bank
-        run: node tools/build-qbank.js
+      - name: Update the bank with 100 real-world news & competition questions
+        run: node tools/news.js
 
       - name: Validate the bank
         run: node tools/validate.js

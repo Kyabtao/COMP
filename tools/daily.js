@@ -31,11 +31,12 @@ const { spec } = require("./tables");
 const { CATEGORIES } = require("./spec");
 const numeric = require("./numeric");
 const { assertQuestion } = require("./question-schema");
+const { buildPoolFromNewsData } = require("./news");
 
 const ROOT = path.join(__dirname, "..");
 const DAILY_DIR = process.env.DAILY_DIR || path.join(__dirname, "daily");
 
-const DEFAULT_COUNT = 10;
+const DEFAULT_COUNT = 100;
 /** Aptitude categories stream unlimited computed questions. */
 const NUMERIC_STREAMS = {
   "quantitative-aptitude": "quantStream",
@@ -94,12 +95,25 @@ function toDaily(question, category) {
   }, "Daily candidate for " + category);
 }
 
+let cachedNewsPool = null;
+function getNewsPool() {
+  if (!cachedNewsPool) cachedNewsPool = buildPoolFromNewsData("daily-shared", false);
+  return cachedNewsPool;
+}
+
 /**
- * Pull fresh questions for one category. Numeric streams are unlimited;
- * fact-table streams walk every matching table with the day's seed.
+ * Pull fresh questions for one category. Real-world news & competition
+ * questions are drawn first; fact-table and computed streams act as fallbacks.
  */
 function pullForCategory(slug, seed, need, isFresh) {
   const out = [];
+  const rand = new Rand(seed);
+  const newsForSlug = rand.shuffle(getNewsPool().filter((q) => q.category === slug));
+  for (const q of newsForSlug) {
+    if (out.length >= need) return out;
+    if (!isFresh(q.question, q.options)) continue;
+    out.push(q);
+  }
   const streamName = NUMERIC_STREAMS[slug];
   if (streamName) {
     const stream = numeric[streamName](seed);
@@ -129,29 +143,45 @@ function pullForCategory(slug, seed, need, isFresh) {
 
 /**
  * Generate the daily set. bankKeys holds keyOf() for every question already
- * published, so the day's set is guaranteed new.
+ * published, so the day's set is guaranteed new (both by stem and options).
  */
 function generateDaily(dateStr, count, bankKeys) {
   if (!/^\d{4}-\d{2}-\d{2}$/.test(dateStr) || isNaN(new Date(dateStr + "T00:00:00Z").getTime())) {
     throw new Error('date must look like 2026-10-08, got "' + dateStr + '"');
   }
-  const n = Number(count);
+  const n = count === undefined ? DEFAULT_COUNT : Number(count);
   if (!Number.isInteger(n) || n < 1 || n > 100) {
     throw new Error("count must be a whole number from 1 to 100, got " + count);
   }
   const seen = new Set(bankKeys || []);
+  const seenStems = new Set();
+  for (const k of seen) {
+    const idx = String(k).indexOf("|");
+    if (idx !== -1) seenStems.add(String(k).slice(0, idx));
+  }
   const fresh = [];
   const isFresh = (question, options) => {
+    const stem = norm(question);
     const key = keyOf(question, options);
-    if (seen.has(key)) return false;
+    if (seen.has(key) || (!/^which of the following pairs/i.test(stem) && seenStems.has(stem))) return false;
     seen.add(key);
+    seenStems.add(stem);
     return true;
   };
   const wheel = wheelFor(dateStr);
+  const generalNews = new Rand(seedFor("examsathi:daily:news:" + dateStr)).shuffle(getNewsPool().slice());
   for (let i = 0; i < n; i++) {
     const slug = wheel[i % wheel.length];
     const seed = seedFor("examsathi:daily:" + dateStr + ":" + slug + ":" + Math.floor(i / wheel.length));
     let got = pullForCategory(slug, seed, 1, isFresh);
+    if (!got.length) {
+      for (const q of generalNews) {
+        if (isFresh(q.question, q.options)) {
+          got = [q];
+          break;
+        }
+      }
+    }
     if (!got.length) {
       // Fact pools can run dry; fall back to unlimited computed questions
       // from another aptitude stream so the day always ships full.

@@ -6,7 +6,7 @@ Practice site for school and competitive exams, built around a generated questio
 
 - **Single target list:** Classes 1 to 12, Graduation, SSC CGL, SSC CHSL, Banking (IBPS / SBI) and Railways (RRB NTPC / Group D) — classes and exams are merged into one list because they share the same paper pattern
 - **Every paper:** you choose the questions, time and marking — the defaults are 40 questions in 40 minutes, +1 per correct answer, 0.25 negative marking
-- **Question bank:** 32,957 questions in 26 categories (see below), growing by 10 fresh questions every morning
+- **Question bank:** 33,057 questions in 26 categories (see below), growing by 100 fresh real-world news & competition questions per update
 - **No build step:** plain HTML, CSS and JavaScript, hosted straight from this repository
 
 ## Quick start
@@ -25,7 +25,7 @@ Opening `index.html` directly in a browser also works.
 | --- | --- |
 | **Home** | Pick a target, search the 26 categories, see your saved paper settings, or jump straight into a paper |
 | **Practice** | A drill per category (5 to 30 questions, default 15) with the correct answer and explanation revealed at once |
-| **Daily** | The daily dose: that morning's freshly published questions as one mixed drill with instant explanations |
+| **Daily** | The daily challenge: 10 random questions drawn from that day's 100 freshly published real-world questions, with instant explanations |
 | **Exam** | You choose the paper: question count, time limit, marks per correct answer and the wrong-answer penalty |
 | **Progress** | Every attempt stays in this browser: attempts, exams, drills, best score, the plan used and the full table |
 
@@ -80,18 +80,32 @@ node tools/build-qbank.js --daily-count 15      # a bigger day (1 to 100 questio
 node tools/build-qbank.js --catch-up            # mint every day missing since the last stored one
 ```
 
-Publish a day's fresh questions on their own (the scheduler below does this daily):
+Update the question bank with **100 real-world questions** from news feeds and
+competitive exam sources (without random numerical arithmetic or repeated stems):
 
 ```bash
-node tools/daily.js             # mints tools/daily/YYYY-MM-DD.js (10 questions)
+node tools/news.js              # mints tools/daily/YYYY-MM-DD.js (100 real-world questions)
+                                # and publishes them in the question bank
+node tools/news.js --list-sources            # list configured news & competition sites
+node tools/news.js --source gktoday          # pull from a named source or feed URL
+node tools/news.js --url https://...         # pull from a custom RSS, Atom or JSON feed
+node tools/news.js --file feed.xml           # import from a local RSS, XML or JSON file
+node tools/news.js --append --count 100      # top up an existing day file to 100 questions
+node tools/validate.js                       # checks counts, shapes and the spec checklist
+```
+
+Publish a day's fresh questions via the daily generator or build:
+
+```bash
+node tools/daily.js             # mints tools/daily/YYYY-MM-DD.js (100 questions)
                                 # and publishes them in the question bank
 node tools/validate.js          # checks counts, shapes and the spec checklist
 ```
 
-`node tools/daily.js` writes the day **and** puts the questions in the question bank
-(it rebuilds the categories, so they are in the bank the site is served from). Add
+`node tools/news.js` and `node tools/daily.js` write the day **and** put the questions in the question bank
+(rebuilding the categories, so they are in the bank the site is served from). Add
 `--no-build` to mint the day without touching the bank, `--date YYYY-MM-DD` to mint
-another day, `--count N` for a bigger day and `--dry-run` to preview.
+another day, `--count N` for a custom count and `--dry-run` to preview.
 
 ## Layout
 
@@ -102,12 +116,14 @@ assets/js/qbank-loader.js      loads every category file at start up
 assets/js/app.js               routing, practice drills, configurable exam engine (one target list)
 qbank.js                       UMD entry point for the bank (browser + Node)
 
+tools/news.js                  updates the bank with 100 real-world news & competition questions
 tools/build-qbank.js           mints the day's questions, then generates the category files
 tools/daily.js                 mints one day's fresh questions and publishes them in the bank
 tools/daily/*.js               one committed file per published day (do not edit by hand)
 temp/                          stores the workflow files (tracked — the Pages deploy serves them)
 temp/ci.yml                    CI workflow: regression suite, bank validation, browser file check
 temp/daily-questions.yml       daily scheduler: mint, rebuild, validate, upload temp files
+temp/news-questions.yml        news & competition scheduler: add 100 real-world questions + rebuild
 tools/install-workflows.js     installs temp/*.yml into .github/workflows/ (npm run workflows)
 tools/validate.js              validates the bank and prints the checklist
 tools/spec.js                  category, class, exam and merged target definitions
@@ -115,6 +131,7 @@ tools/qcore.js                 deterministic PRNG, option builder, helpers
 tools/forms.js                 form engine: fact tables -> MCQs
 tools/numeric.js               numeric generators for the aptitude categories
 tools/tables.js                registry mapping fact tables to categories
+tools/data/news-competition.js real-world news & competitive exam question pool
 tools/data/*.js                the source fact tables
 tools/authored/*.js            hand written MCQs
 tools/categories/*.js          GENERATED question bank (do not edit by hand)
@@ -126,33 +143,36 @@ tools/categories/gk-misc/      GENERATED GK Misc parts 01 to 17
 | Category | Questions |
 | --- | ---: |
 | GK Misc (17 part files) | 17,000 |
-| Reasoning | 1,506+ |
-| Quantitative Aptitude | 1,506+ |
-| Mathematics | 1,506+ |
-| English Language | 1,006+ |
-| General Knowledge | 1,000+ |
-| Static GK | 1,003+ |
-| Geography | 1,000+ |
-| Indian History | 1,000+ |
-| General Science | 1,000+ |
-| Current Affairs | 1,000 |
-| Indian Polity | 724 |
-| Economics & Banking | 282+ |
-| thirteen smaller categories | 201 to 281 each |
+| Quantitative Aptitude | 1,510+ |
+| Mathematics | 1,510+ |
+| Reasoning | 1,509+ |
+| English Language | 1,009+ |
+| Current Affairs | 1,007+ |
+| Static GK | 1,006+ |
+| General Science | 1,005+ |
+| General Knowledge | 1,004+ |
+| Geography | 1,004+ |
+| Indian History | 1,004+ |
+| Indian Polity | 728+ |
+| Economics & Banking | 285+ |
+| thirteen smaller categories | 207 to 285 each |
 
 Eleven categories carry 1,000 or more questions, and the GK Misc pool ships as 17 part
-files of 1,000 questions each. Categories marked `+` grow by a few questions every
-morning, because the build mints the day's set and appends it to them.
+files of 1,000 questions each. Categories marked `+` grow with every daily update,
+because the updater mints 100 fresh real-world questions and appends them to their categories.
 
-### Daily questions
+### Daily questions & News CLI
 
-The build itself grows the bank: `node tools/build-qbank.js` mints **10 fresh
-questions** for the day — computed aptitude questions (quantitative aptitude,
-mathematics, reasoning), English vocabulary, Static GK and one rotating category —
-stores them as `tools/daily/YYYY-MM-DD.js` and appends them to their categories.
-`node tools/daily.js` does the same for a single day and publishes it in the bank.
-Run either once a day and the bank grows by ten questions a day; run the build after
-a gap and `--catch-up` fills every missing day.
+`node tools/news.js` (`npm run news`) updates the question bank with **100 fresh
+real-world questions** from news feeds (PIB, The Hindu, Indian Express) and competitive
+exam sources (GKToday, AffairsCloud, Jagran Josh, OpenTDB, SSC/Banking/Railways pools)
+without generating random numerical arithmetic or repeating any question stem already in
+the bank. It stores the day's set as `tools/daily/YYYY-MM-DD.js` and rebuilds the
+categories so the bank grows by 100 real-world questions at a time.
+
+On the site, the **Daily** challenge (`#/daily`) randomly selects **10 questions** from
+that day's 100 published questions for a fast, replayable daily drill with instant
+explanations.
 
 Every morning at 6 AM IST the scheduler (`temp/daily-questions.yml`)
 runs the same build and uploads the result as downloadable **temp files**. Nothing
@@ -276,8 +296,8 @@ that permission — CI plus the daily scheduler start working on the next push:
 
 ```bash
 npm run workflows
-git add .github/workflows/ci.yml .github/workflows/daily-question.yml
-git commit -m "Update the CI and daily scheduler workflows"
+git add .github/workflows/ci.yml .github/workflows/daily-question.yml .github/workflows/news-questions.yml
+git commit -m "Update the CI, daily and news scheduler workflows"
 git push
 ```
 

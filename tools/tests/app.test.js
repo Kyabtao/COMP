@@ -259,6 +259,41 @@ test("the daily route drills the latest published set", (t) => {
   assert.match(d.querySelector(".daily-strip").textContent, /New today/);
 });
 
+test("the daily challenge takes only 10 random questions even when 100 are added to the bank", (t) => {
+  const pad = (n) => String(n).padStart(2, "0");
+  const now = new Date();
+  const stamp = now.getFullYear() + "-" + pad(now.getMonth() + 1) + "-" + pad(now.getDate());
+  const hundred = Array.from({ length: 100 }, (_, i) => ({
+    ...example,
+    id: "current-affairs-daily-" + stamp + "-" + String(i + 1).padStart(2, "0"),
+    question: "Real-world news question #" + (i + 1) + "?",
+    source: "daily",
+    dailyDate: stamp
+  }));
+  const w = setup(t, "#/daily", [
+    { slug: "current-affairs", name: "Current Affairs", questions: hundred }
+  ]);
+  const d = w.document;
+  assert.match(d.querySelector(".badge.plain").textContent, /^Question 1 of 10$/);
+
+  const firstRunStems = [];
+  for (let i = 0; i < 10; i++) {
+    firstRunStems.push(d.querySelector(".qtext").textContent);
+    d.querySelectorAll(".opt")[example.answer].click();
+    d.querySelector("#next").click();
+  }
+  assert.equal(new Set(firstRunStems).size, 10, "10 distinct questions in the challenge");
+  const attempt = JSON.parse(w.localStorage.getItem("examsathi.progress.v1")).attempts[0];
+  assert.equal(attempt.total, 10);
+  assert.equal(attempt.correct, 10);
+
+  /* Home strip shows 100 fresh questions in the bank and 10 random per daily challenge */
+  w.location.hash = "#/";
+  w.dispatchEvent(new w.Event("hashchange"));
+  assert.match(d.querySelector(".daily-strip").textContent, /100 fresh questions/);
+  assert.match(d.querySelector(".daily-strip").textContent, /10 random questions per daily challenge/);
+});
+
 test("the daily route explains itself when nothing has published yet", (t) => {
   const w = setup(t, "#/daily", [{ slug: "english", name: "English", questions: [example] }]);
   assert.match(w.document.querySelector("#app").textContent, /Nothing has been published yet/);

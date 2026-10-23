@@ -12,7 +12,7 @@
   "railways"
  ],
  "blurb": "Civilian, gallantry, literary and international awards.",
- "count": 201,
+ "count": 207,
  "questions": [
   {
    "id": "awards-honours-00001",
@@ -3028,6 +3028,102 @@
    "topic": "Awards and Honours",
    "level": 3,
    "source": "generated"
+  },
+  {
+   "id": "awards-honours-daily-2026-10-22-07",
+   "question": "For what distinction is '58th Jnanpith Award Laureates' recognised in recent awards and honours news?",
+   "options": [
+    "Michel Talagrand (French mathematician, CNRS Paris)",
+    "Gulzar (Urdu) and Jagadguru Rambhadracharya (Sanskrit)",
+    "Avi Wigderson",
+    "Johan Rockstrom"
+   ],
+   "answer": 1,
+   "explanation": "58th Jnanpith Award Laureates — Gulzar (Urdu) and Jagadguru Rambhadracharya (Sanskrit) (India's highest literary honour bestowed by Bharatiya Jnanpith for lifetime contribution to Indian literature).",
+   "topic": "Awards, Laureates & Cultural Honours in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "awards-honours-daily-2026-10-22-11",
+   "question": "John J. Hopfield and Geoffrey E. Hinton were awarded the 2024 Nobel Prize in Physics for foundational discoveries enabling which field?",
+   "options": [
+    "Topological phase transitions of matter",
+    "Attosecond light pulses in electron dynamics",
+    "Artificial neural networks and machine learning",
+    "Quantum entanglement and Bell inequalities"
+   ],
+   "answer": 2,
+   "explanation": "John Hopfield and Geoffrey Hinton received the 2024 Nobel Prize in Physics for foundational discoveries and inventions that enable machine learning with artificial neural networks.",
+   "topic": "Nobel Prizes",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "awards-honours-daily-2026-10-22-34",
+   "question": "For what distinction is '2024 Ramon Magsaysay Award (animation & storytelling)' recognised in recent awards and honours news?",
+   "options": [
+    "Daniel Barenboim and Ali Abu Awwad",
+    "Vinod Kumar Shukla (Hindi poet and novelist)",
+    "Taikan Oki (Japanese hydrologist, University of Tokyo)",
+    "Hayao Miyazaki (co-founder of Studio Ghibli, Japan)"
+   ],
+   "answer": 3,
+   "explanation": "2024 Ramon Magsaysay Award (animation & storytelling) — Hayao Miyazaki (co-founder of Studio Ghibli, Japan) (honoured for using animation to illuminate the human condition and inspire environmental and peace awareness among children).",
+   "topic": "Awards, Laureates & Cultural Honours in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "awards-honours-daily-2026-10-22-61",
+   "question": "For what distinction is '2024 Pritzker Architecture Prize' recognised in recent awards and honours news?",
+   "options": [
+    "Avi Wigderson",
+    "Taikan Oki (Japanese hydrologist, University of Tokyo)",
+    "Hayao Miyazaki (co-founder of Studio Ghibli, Japan)",
+    "Riken Yamamoto (Japanese architect)"
+   ],
+   "answer": 3,
+   "explanation": "2024 Pritzker Architecture Prize — Riken Yamamoto (Japanese architect) (recognised for designing architecture that fosters community solidarity and blends public and private realms).",
+   "topic": "Awards, Laureates & Cultural Honours in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "awards-honours-daily-2026-10-22-65",
+   "question": "Victor Ambros and Gary Ruvkun received the 2024 Nobel Prize in Physiology or Medicine for the discovery of what?",
+   "options": [
+    "Nucleoside base modifications for mRNA vaccines",
+    "Genomes of extinct hominins and human evolution",
+    "Receptors for temperature and touch",
+    "microRNA and its role in post-transcriptional gene regulation"
+   ],
+   "answer": 3,
+   "explanation": "Victor Ambros and Gary Ruvkun won the 2024 Nobel Prize in Physiology or Medicine for discovering microRNA and its crucial role in how genes are regulated.",
+   "topic": "Nobel Prizes",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "awards-honours-daily-2026-10-22-88",
+   "question": "For what distinction is '2024 Abel Prize in Mathematics' recognised in recent awards and honours news?",
+   "options": [
+    "Daniel Barenboim and Ali Abu Awwad",
+    "Taikan Oki (Japanese hydrologist, University of Tokyo)",
+    "Michel Talagrand (French mathematician, CNRS Paris)",
+    "Hayao Miyazaki (co-founder of Studio Ghibli, Japan)"
+   ],
+   "answer": 2,
+   "explanation": "2024 Abel Prize in Mathematics — Michel Talagrand (French mathematician, CNRS Paris) (awarded by the Norwegian Academy of Science and Letters for groundbreaking contributions to probability theory, stochastic processes and spin glasses).",
+   "topic": "Awards, Laureates & Cultural Honours in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
   }
  ]
 };

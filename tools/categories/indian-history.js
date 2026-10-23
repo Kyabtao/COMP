@@ -12,7 +12,7 @@
   "railways"
  ],
  "blurb": "Events, dynasties, rulers, movements and freedom fighters.",
- "count": 1000,
+ "count": 1004,
  "questions": [
   {
    "id": "indian-history-00001",
@@ -15013,6 +15013,70 @@
    "topic": "World History Events",
    "level": 3,
    "source": "generated"
+  },
+  {
+   "id": "indian-history-daily-2026-10-22-18",
+   "question": "In Indian history, what is the historical significance of 'Ghadar Party (1913)'?",
+   "options": [
+    "Revolutionary anti-colonial organisation founded by Indian expatriates on the Pacific Coast of North America with its newspaper 'The Ghadar'",
+    "Detailed stone temple inscriptions recording the 'Kudavolai' ballot system of village sabha local self-government",
+    "Star-shaped soapstone temple complexes famed for hyper-realistic sculptural friezes and lathe-turned pillars",
+    "Three-tier constitutional proposal that set up the Constituent Assembly of India while rejecting the demand for a separate sovereign Pakistan"
+   ],
+   "answer": 0,
+   "explanation": "Ghadar Party (1913) is significant for: Revolutionary anti-colonial organisation founded by Indian expatriates on the Pacific Coast of North America with its newspaper 'The Ghadar' (headquartered at Yugantar Ashram in San Francisco under Sohan Singh Bhakna and Lala Har Dayal).",
+   "topic": "Indian History & Culture in Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "indian-history-daily-2026-10-22-45",
+   "question": "In Indian history, what is the historical significance of 'Poona Pact (24 September 1932)'?",
+   "options": [
+    "Three-tier constitutional proposal that set up the Constituent Assembly of India while rejecting the demand for a separate sovereign Pakistan",
+    "Agreement replacing separate electorates for the Depressed Classes with reserved seats within the general electorate",
+    "Decisive naval battle on the Brahmaputra river where the Ahom forces defeated the Mughal imperial fleet",
+    "Star-shaped soapstone temple complexes famed for hyper-realistic sculptural friezes and lathe-turned pillars"
+   ],
+   "answer": 1,
+   "explanation": "Poona Pact (24 September 1932) is significant for: Agreement replacing separate electorates for the Depressed Classes with reserved seats within the general electorate (signed at Yerwada Central Jail, Pune between Dr B. R. Ambedkar and Madan Mohan Malaviya).",
+   "topic": "Indian History & Culture in Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "indian-history-daily-2026-10-22-72",
+   "question": "In Indian history, what is the historical significance of 'Hoysala Sacred Ensembles'?",
+   "options": [
+    "13th-century sandbox-foundation temple whose vimana is built with porous 'floating bricks' that reduce structural weight",
+    "Agreement replacing separate electorates for the Depressed Classes with reserved seats within the general electorate",
+    "Star-shaped soapstone temple complexes famed for hyper-realistic sculptural friezes and lathe-turned pillars",
+    "Decisive naval battle on the Brahmaputra river where the Ahom forces defeated the Mughal imperial fleet"
+   ],
+   "answer": 2,
+   "explanation": "Hoysala Sacred Ensembles is significant for: Star-shaped soapstone temple complexes famed for hyper-realistic sculptural friezes and lathe-turned pillars (Belur, Halebidu and Somanathapura built in 12th–13th century Karnataka under Vishnuvardhana and Narasimha III).",
+   "topic": "Indian History & Culture in Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "indian-history-daily-2026-10-22-99",
+   "question": "In Indian history, what is the historical significance of 'Battle of Saraighat (1671)'?",
+   "options": [
+    "Star-shaped soapstone temple complexes famed for hyper-realistic sculptural friezes and lathe-turned pillars",
+    "Peasant uprising in Bengal demanding that sharecroppers (bargadars) retain two-thirds of the harvest instead of half",
+    "Decisive naval battle on the Brahmaputra river where the Ahom forces defeated the Mughal imperial fleet",
+    "Agreement replacing separate electorates for the Depressed Classes with reserved seats within the general electorate"
+   ],
+   "answer": 2,
+   "explanation": "Battle of Saraighat (1671) is significant for: Decisive naval battle on the Brahmaputra river where the Ahom forces defeated the Mughal imperial fleet (led by Ahom commander Lachit Borphukan near Guwahati).",
+   "topic": "Indian History & Culture in Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
   }
  ]
 };

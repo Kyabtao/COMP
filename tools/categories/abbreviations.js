@@ -13,7 +13,7 @@
   "railways"
  ],
  "blurb": "Full forms of common abbreviations and acronyms.",
- "count": 280,
+ "count": 284,
  "questions": [
   {
    "id": "abbreviations-00001",
@@ -4214,6 +4214,70 @@
    "topic": "Abbreviations",
    "level": 3,
    "source": "generated"
+  },
+  {
+   "id": "abbreviations-daily-2026-10-22-06",
+   "question": "What does the acronym 'PRITHvi', frequently seen in recent news and competitive exams, stand for?",
+   "options": [
+    "Promoting Research in Earth Systems Science, Technology and Human Resource Development",
+    "Digital Advancement of Rural Post Office for A New India",
+    "Digital Personal Data Protection Act",
+    "Anusandhan National Research Foundation"
+   ],
+   "answer": 0,
+   "explanation": "PRITHvi stands for 'Promoting Research in Earth Systems Science, Technology and Human Resource Development' (umbrella scheme of the Ministry of Earth Sciences covering atmosphere, ocean, cryosphere and geoscience).",
+   "topic": "Abbreviations & Tech Acronyms in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "abbreviations-daily-2026-10-22-33",
+   "question": "What does the acronym 'SATHI Portal', frequently seen in recent news and competitive exams, stand for?",
+   "options": [
+    "Seed Traceability, Authentication and Holistic Inventory Portal",
+    "Creation and Harmonious Application of Modern Processes for Increasing the Output and National Strength",
+    "Digital Advancement of Rural Post Office for A New India",
+    "Carbon Border Adjustment Mechanism"
+   ],
+   "answer": 0,
+   "explanation": "SATHI Portal stands for 'Seed Traceability, Authentication and Holistic Inventory Portal' (digital platform developed by the Ministry of Agriculture and NIC for end-to-end seed certification and tracking).",
+   "topic": "Abbreviations & Tech Acronyms in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "abbreviations-daily-2026-10-22-60",
+   "question": "What does the acronym 'ANRF', frequently seen in recent news and competitive exams, stand for?",
+   "options": [
+    "Anusandhan National Research Foundation",
+    "Performance Assessment, Review, and Analysis of Knowledge for Holistic Development",
+    "Seed Traceability, Authentication and Holistic Inventory Portal",
+    "Carbon Border Adjustment Mechanism"
+   ],
+   "answer": 0,
+   "explanation": "ANRF stands for 'Anusandhan National Research Foundation' (statutory apex body established by the ANRF Act 2023 to seed and fund R&D across Indian universities).",
+   "topic": "Abbreviations & Tech Acronyms in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "abbreviations-daily-2026-10-22-87",
+   "question": "What does the acronym 'APAAR ID', frequently seen in recent news and competitive exams, stand for?",
+   "options": [
+    "Creation and Harmonious Application of Modern Processes for Increasing the Output and National Strength",
+    "Logistics Ease Across Different States Index",
+    "Automated Permanent Academic Account Registry ID",
+    "Open Network for Digital Commerce"
+   ],
+   "answer": 2,
+   "explanation": "APAAR ID stands for 'Automated Permanent Academic Account Registry ID' (One Nation One Student ID lifelong 12-digit academic credit bank identifier under NEP 2020).",
+   "topic": "Abbreviations & Tech Acronyms in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
   }
  ]
 };

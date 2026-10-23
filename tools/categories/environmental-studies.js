@@ -11,7 +11,7 @@
   "railways"
  ],
  "blurb": "Ecology, pollution, climate agreements and wildlife.",
- "count": 280,
+ "count": 285,
  "questions": [
   {
    "id": "environmental-studies-00001",
@@ -4212,6 +4212,86 @@
    "topic": "Pollutants and Effects",
    "level": 3,
    "source": "generated"
+  },
+  {
+   "id": "environmental-studies-daily-2026-10-22-14",
+   "question": "In which Indian state is the Ramsar wetland or conservation site 'Hirakud Reservoir' located?",
+   "options": [
+    "Tamil Nadu",
+    "Karnataka",
+    "Odisha",
+    "Madhya Pradesh"
+   ],
+   "answer": 2,
+   "explanation": "'Hirakud Reservoir' (earthen dam reservoir across the Mahanadi river supporting diverse fish fauna and wintering waterbirds) is a notified Ramsar wetland site located in Odisha.",
+   "topic": "Ecology, Ramsar Wetlands & Biosphere Reserves",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "environmental-studies-daily-2026-10-22-38",
+   "question": "Ratapani Wildlife Sanctuary, which was notified as India's 57th Tiger Reserve in December 2024, lies in which state?",
+   "options": [
+    "Rajasthan",
+    "Uttarakhand",
+    "Madhya Pradesh",
+    "Maharashtra"
+   ],
+   "answer": 2,
+   "explanation": "Ratapani Tiger Reserve in Raisen district of Madhya Pradesh was notified as India's 57th Tiger Reserve (and the 8th in Madhya Pradesh) in December 2024.",
+   "topic": "Tiger Reserves in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "environmental-studies-daily-2026-10-22-41",
+   "question": "In which Indian state is the Ramsar wetland or conservation site 'Aghanashini Estuary' located?",
+   "options": [
+    "Bihar",
+    "Tamil Nadu",
+    "Odisha",
+    "Karnataka"
+   ],
+   "answer": 3,
+   "explanation": "'Aghanashini Estuary' (brackish-water coastal estuary at the confluence of the Aghanashini river with the Arabian Sea, known for mangrove crabs and bivalves) is a notified Ramsar wetland site located in Karnataka.",
+   "topic": "Ecology, Ramsar Wetlands & Biosphere Reserves",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "environmental-studies-daily-2026-10-22-68",
+   "question": "In which Indian state is the Ramsar wetland or conservation site 'Nagi Bird Sanctuary' located?",
+   "options": [
+    "Bihar",
+    "Karnataka",
+    "Madhya Pradesh",
+    "Tamil Nadu"
+   ],
+   "answer": 0,
+   "explanation": "'Nagi Bird Sanctuary' (human-made reservoir in Jamui district surrounded by dry deciduous hills hosting winter Indo-Gangetic waterfowl) is a notified Ramsar wetland site located in Bihar.",
+   "topic": "Ecology, Ramsar Wetlands & Biosphere Reserves",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "environmental-studies-daily-2026-10-22-95",
+   "question": "In which Indian state is the Ramsar wetland or conservation site 'Karaivetti Bird Sanctuary' located?",
+   "options": [
+    "Karnataka",
+    "Madhya Pradesh",
+    "Bihar",
+    "Tamil Nadu"
+   ],
+   "answer": 3,
+   "explanation": "'Karaivetti Bird Sanctuary' (freshwater irrigation tank in Ariyalur district hosting thousands of congregating waterbirds in winter) is a notified Ramsar wetland site located in Tamil Nadu.",
+   "topic": "Ecology, Ramsar Wetlands & Biosphere Reserves",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
   }
  ]
 };

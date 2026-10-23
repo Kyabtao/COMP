@@ -46,6 +46,9 @@ jobs:
       - name: Validate the question bank
         run: node tools/validate.js
 
+      - name: Verify the news & competition question updater CLI
+        run: node tools/news.js --dry-run --offline --count 100
+
       - name: Check that the files the browser asks for are present
         run: |
           node <<'EOF'

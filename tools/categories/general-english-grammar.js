@@ -12,7 +12,7 @@
   "banking"
  ],
  "blurb": "Voice, narration, articles, prepositions and error spotting.",
- "count": 280,
+ "count": 284,
  "questions": [
   {
    "id": "general-english-grammar-00001",
@@ -4213,6 +4213,70 @@
    "topic": "Prepositions",
    "level": 2,
    "source": "generated"
+  },
+  {
+   "id": "general-english-grammar-daily-2026-10-22-01",
+   "question": "Which preposition correctly follows the adjectives 'senior', 'junior', 'superior', 'inferior', 'prior' and 'preferable' in comparative structures?",
+   "options": [
+    "'The Secretary and Treasurer' refers to one person holding both posts (singular verb); 'The Secretary and the Treasurer' refers to two distinct persons (plural verb)",
+    "The verb agrees in number and person with the nearer subject (Rule of Proximity)",
+    "to (never 'than')",
+    "Simple past tense (past subjunctive, e.g., 'It is high time we started')"
+   ],
+   "answer": 2,
+   "explanation": "Latinate comparatives ending in '-ior' (senior, junior, superior, inferior, prior, anterior, posterior) and 'preferable' always take the preposition 'to' instead of 'than'.",
+   "topic": "General English Grammar Rules in Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "general-english-grammar-daily-2026-10-22-28",
+   "question": "Which article usage rule applies when 'the' is placed before both nouns vs only the first noun in 'The Secretary and Treasurer'?",
+   "options": [
+    "'The Secretary and Treasurer' refers to one person holding both posts (singular verb); 'The Secretary and the Treasurer' refers to two distinct persons (plural verb)",
+    "to (never 'than')",
+    "Simple past tense (past subjunctive, e.g., 'It is high time we started')",
+    "The first (main) subject"
+   ],
+   "answer": 0,
+   "explanation": "Repeating the definite article before each coordinated title indicates two separate individuals, whereas a single article indicates one individual holding dual roles.",
+   "topic": "General English Grammar Rules in Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "general-english-grammar-daily-2026-10-22-55",
+   "question": "When two singular subjects are joined by 'either ... or', 'neither ... nor', or 'not only ... but also', how does the verb agree?",
+   "options": [
+    "when / before (never 'than')",
+    "The verb agrees in number and person with the nearer subject (Rule of Proximity)",
+    "Gerund (-ing form, e.g., 'looking forward to meeting you')",
+    "If + Past Perfect (had + V3), ... would have + Past Participle (V3)"
+   ],
+   "answer": 1,
+   "explanation": "With correlative conjunctions like 'neither ... nor', the verb agrees with the subject closer to it (e.g., 'Neither the teacher nor the students were present').",
+   "topic": "General English Grammar Rules in Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "general-english-grammar-daily-2026-10-22-82",
+   "question": "In conditional sentences of Type 3 (unreal past condition), what tense structure is used in the 'if'-clause and the main clause?",
+   "options": [
+    "to (never 'than')",
+    "The first (main) subject",
+    "'The Secretary and Treasurer' refers to one person holding both posts (singular verb); 'The Secretary and the Treasurer' refers to two distinct persons (plural verb)",
+    "If + Past Perfect (had + V3), ... would have + Past Participle (V3)"
+   ],
+   "answer": 3,
+   "explanation": "Type 3 conditionals express hypothetical past situations: 'If she had studied harder, she would have cleared the exam.'",
+   "topic": "General English Grammar Rules in Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
   }
  ]
 };
