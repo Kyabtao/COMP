@@ -12,7 +12,7 @@
   "railways"
  ],
  "blurb": "Trophies, terms, players and tournaments.",
- "count": 264,
+ "count": 306,
  "questions": [
   {
    "id": "sports-00001",
@@ -3977,6 +3977,678 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "sports-daily-2026-10-24-46",
+   "question": "Which current affairs development was reported regarding: \"Rieko trumps the favourite Stud Poker for a stunning win in the Sprinters’ Cup; Dyf lives up to the billing in the Stayers’ Cup\"?",
+   "options": [
+    "Invitation Cup weekend: Royal Legacy runs to glory in the Mysore Derby",
+    "Australia face selection headaches after 'shambolic' South Africa defeat",
+    "S. Meghana retires from all forms of cricket",
+    "England's Bodhana Sivanandan becomes International Master at age of 11, breaks 38-year-old record"
+   ],
+   "answer": 0,
+   "explanation": "Invitation Cup weekend: Royal Legacy runs to glory in the Mysore Derby — Rieko trumps the favourite Stud Poker for a stunning win in the Sprinters’ Cup; Dyf lives up to the billing in the Stayers’ Cup (The Hindu — Sports, Sat, 24 Oct 2026 22:40:28 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "sports-daily-2026-10-24-47",
+   "question": "Which current affairs development was reported regarding: \"Unai Emery’s team climbed to sixth on 11 points with their first league victory ​at Villa Park this ‌season and third successive league win over City\"?",
+   "options": [
+    "The injury layoff helped me focus on the controllables: Ajith Ram",
+    "Premier League: Jackson double ends Man City’s perfect run as Villa win 2-1",
+    "Naman Dhir — teeing off in style",
+    "Asian Para Games: Thulasimathi Murugesan wins gold, ends day with three medals"
+   ],
+   "answer": 1,
+   "explanation": "Premier League: Jackson double ends Man City’s perfect run as Villa win 2-1 — Unai Emery’s team climbed to sixth on 11 points with their first league victory ​at Villa Park this ‌season and third successive league win over City (The Hindu — Sports, Sat, 24 Oct 2026 19:20:57 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "sports-daily-2026-10-24-48",
+   "question": "Which current affairs development was reported regarding: \"‘Well you know I was elected by 211 member associations from all over the world, I think what is important is that in an organization like FIFA, there can be different views, different points of view,’ said Gianni...\"?",
+   "options": [
+    "Miami Vice, Noraiah and Your Unforgettable catch the eye",
+    "IND vs NZ second T20I: Tilak Varma’s unbeaten 51 fuels India’s four-wicket win in 2nd T20I",
+    "Infantino says he’s supported by ‘vast, vast majority’ of football ahead of FIFA elections",
+    "Asian Para Games 2026: Nitesh, Naveen triumph gold in badminton; Thulasimathi, Nitya claim silver"
+   ],
+   "answer": 2,
+   "explanation": "Infantino says he’s supported by ‘vast, vast majority’ of football ahead of FIFA elections — ‘Well you know I was elected by 211 member associations from all over the world, I think what is important is that in an organization like FIFA, there can be different views, different points of view,’ said Gianni... (The Hindu — Sports, Sat, 24 Oct 2026 19:11:30 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "sports-daily-2026-10-24-49",
+   "question": "Which current affairs development was reported regarding: \"The iconic fixture that pits Barcelona versus Real Madrid continues to stop the world. Why does it evoke such interest? Why is there such ‘needle’ between the sides? And how will the managers of the two Spanish...\"?",
+   "options": [
+    "El Clasico: Flick, Mourinho and the morbo of all morbos",
+    "Asian Para Games 2026: Sandeep, Haney win gold with world records",
+    "Invitation Cup weekend: Royal Legacy runs to glory in the Mysore Derby",
+    "Asian Para Games 2026: India wins gold in para recurve men’s doubles archery"
+   ],
+   "answer": 0,
+   "explanation": "El Clasico: Flick, Mourinho and the morbo of all morbos — The iconic fixture that pits Barcelona versus Real Madrid continues to stop the world. Why does it evoke such interest? Why is there such ‘needle’ between the sides? And how will the managers of the two Spanish... (The Hindu — Sports, Sat, 24 Oct 2026 18:41:47 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "sports-daily-2026-10-24-50",
+   "question": "Which current affairs development was reported regarding: \"The 32-year-old veteran, in unfamiliar territory on home ground, takes a one stroke lead over defending champion Shannon and three-time winner Pornanong\"?",
+   "options": [
+    "Indian Super League: Blasters and Mumbai will look to put their indifferent starts to the season behind them",
+    "Hero Women’s Indian Open: Vani in the van for the first time ever in a LET event",
+    "Bihar to host India-New Zealand Under-20 Rugby Series",
+    "Asian Para Games 2026: Nitesh, Naveen triumph gold in badminton; Thulasimathi, Nitya claim silver"
+   ],
+   "answer": 1,
+   "explanation": "Hero Women’s Indian Open: Vani in the van for the first time ever in a LET event — The 32-year-old veteran, in unfamiliar territory on home ground, takes a one stroke lead over defending champion Shannon and three-time winner Pornanong (The Hindu — Sports, Sat, 24 Oct 2026 18:13:56 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "sports-daily-2026-10-24-51",
+   "question": "Which current affairs development was reported regarding: \"Bayern Munich said on October 24 that coach Vincent Kompany will undergo more testing to determine why he collapsed during a training session the previous day\"?",
+   "options": [
+    "Women in Blue start firm favourites as focus shifts to ODIs",
+    "Bayern Munich says coach Vincent Kompany is ’stable’ after collapsing at Friday training session",
+    "Quality of Indian content has improved drastically, appeals to other cultures as well: JioStar international business chief",
+    "USA to host women's football Club World Cup in 2028 - FIFA"
+   ],
+   "answer": 1,
+   "explanation": "Bayern Munich says coach Vincent Kompany is ’stable’ after collapsing at Friday training session — Bayern Munich said on October 24 that coach Vincent Kompany will undergo more testing to determine why he collapsed during a training session the previous day (The Hindu — Sports, Sat, 24 Oct 2026 18:04:49 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "sports-daily-2026-10-24-52",
+   "question": "Which current affairs development was reported regarding: \"Sindhu registered a 21-10, 20-22, 21-16 win over Japan’s Hina Akechi in an hour and 13 minutes\"?",
+   "options": [
+    "Parvinder Awana to head BCCI junior selection committee",
+    "El Clasico: Flick, Mourinho and the morbo of all morbos",
+    "Sindhu reaches French Open badminton final",
+    "Women in Blue start firm favourites as focus shifts to ODIs"
+   ],
+   "answer": 2,
+   "explanation": "Sindhu reaches French Open badminton final — Sindhu registered a 21-10, 20-22, 21-16 win over Japan’s Hina Akechi in an hour and 13 minutes (The Hindu — Sports, Sat, 24 Oct 2026 16:44:10 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "sports-daily-2026-10-24-53",
+   "question": "Which current affairs development was reported regarding: \"Chasing 180, India slipped to 112 for six in the 15th over but Tilak turned the tables on New Zealand, scoring 51 not out off 26 balls with six fours and a six\"?",
+   "options": [
+    "Dominant India aims to seal ODI series against Zimbabwe",
+    "IND vs NZ second T20I: Tilak Varma’s unbeaten 51 fuels India’s four-wicket win in 2nd T20I",
+    "Promising Indian sprinter Dondapati Jayaram dies in road accident",
+    "Hero Women’s Indian Open: Vani in the van for the first time ever in a LET event"
+   ],
+   "answer": 1,
+   "explanation": "IND vs NZ second T20I: Tilak Varma’s unbeaten 51 fuels India’s four-wicket win in 2nd T20I — Chasing 180, India slipped to 112 for six in the 15th over but Tilak turned the tables on New Zealand, scoring 51 not out off 26 balls with six fours and a six (The Hindu — Sports, Sat, 24 Oct 2026 16:26:49 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "sports-daily-2026-10-24-54",
+   "question": "Which current affairs development was reported regarding: \"What makes El Clásico one of football’s greatest rivalries? Srinivasan Ramani, The Hindu’s Deputy National Editor, joins In Focus to explore the history, politics, identity and footballing philosophies behind the...\"?",
+   "options": [
+    "Asian Para Games 2026: Sandeep, Haney win gold with world records",
+    "Dominant India aims to seal ODI series against Zimbabwe",
+    "The injury layoff helped me focus on the controllables: Ajith Ram",
+    "What makes Real Madrid vs Barcelona football’s greatest rivalry? | In Focus Podcast"
+   ],
+   "answer": 3,
+   "explanation": "What makes Real Madrid vs Barcelona football’s greatest rivalry? | In Focus Podcast — What makes El Clásico one of football’s greatest rivalries? Srinivasan Ramani, The Hindu’s Deputy National Editor, joins In Focus to explore the history, politics, identity and footballing philosophies behind the... (The Hindu — Sports, Sat, 24 Oct 2026 16:01:29 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "sports-daily-2026-10-24-55",
+   "question": "Which current affairs development was reported regarding: \"Meet 10-year-old Guru Tarun SK from the city, who has been selected by the Federation of Motor Sports Clubs of India (FMSCI) to represent India in the Under-12 category\"?",
+   "options": [
+    "Asian Para Games 2026: Sandeep, Haney win gold with world records",
+    "World Billiards Championship: Cue sports icon Pankaj Advani wins 29th world title",
+    "Coimbatore boy to represent India at Asia Pacific Motorsport Championship 2026",
+    "Premier League: Jackson double ends Man City’s perfect run as Villa win 2-1"
+   ],
+   "answer": 2,
+   "explanation": "Coimbatore boy to represent India at Asia Pacific Motorsport Championship 2026 — Meet 10-year-old Guru Tarun SK from the city, who has been selected by the Federation of Motor Sports Clubs of India (FMSCI) to represent India in the Under-12 category (The Hindu — Sports, Sat, 24 Oct 2026 13:45:31 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "sports-daily-2026-10-24-56",
+   "question": "Which current affairs development was reported regarding: \"At this week's European Women's Chess Club Cup, Sivanandan came close to drawing her opening-round match against Russian Grandmaster Aleksandra Goryachkina before defeating Belarusian International Master Olga...\"?",
+   "options": [
+    "Asian Para Games 2026: India wins gold in para recurve men’s doubles archery",
+    "Sindhu reaches French Open badminton final",
+    "Asian football endorses Infantino re-election in apparent U-turn",
+    "England's Bodhana Sivanandan becomes International Master at age of 11, breaks 38-year-old record"
+   ],
+   "answer": 3,
+   "explanation": "England's Bodhana Sivanandan becomes International Master at age of 11, breaks 38-year-old record — At this week's European Women's Chess Club Cup, Sivanandan came close to drawing her opening-round match against Russian Grandmaster Aleksandra Goryachkina before defeating Belarusian International Master Olga... (The Hindu — Sports, Sat, 24 Oct 2026 11:12:02 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "sports-daily-2026-10-24-57",
+   "question": "Which current affairs development was reported regarding: \"Pollard replaces Mahela Jayawardene, whose two-season second stint ended with a disappointing IPL 2026 campaign for the team\"?",
+   "options": [
+    "Ayush Mhatre undergoes surgery for hamstring injury, sidelined for about three months",
+    "Premier League: Jackson double ends Man City’s perfect run as Villa win 2-1",
+    "Chiara manages to hold on to the top spot; Pranavi stays within striking distance",
+    "Kieron Pollard appointed as head coach for Mumbai Indians"
+   ],
+   "answer": 3,
+   "explanation": "Kieron Pollard appointed as head coach for Mumbai Indians — Pollard replaces Mahela Jayawardene, whose two-season second stint ended with a disappointing IPL 2026 campaign for the team (The Hindu — Sports, Sat, 24 Oct 2026 10:51:59 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "sports-daily-2026-10-24-58",
+   "question": "Which current affairs development was reported regarding: \"JioStar recently tied up with international streaming platform Starz Play to expand into the Middle East and North Africa regions. Last month it expanded into Singapore, the UK, and Canada\"?",
+   "options": [
+    "Promising Indian sprinter Dondapati Jayaram dies in road accident",
+    "Quality of Indian content has improved drastically, appeals to other cultures as well: JioStar international business chief",
+    "S. Meghana retires from all forms of cricket",
+    "The Golden Dream and Femme Fatale impress"
+   ],
+   "answer": 1,
+   "explanation": "Quality of Indian content has improved drastically, appeals to other cultures as well: JioStar international business chief — JioStar recently tied up with international streaming platform Starz Play to expand into the Middle East and North Africa regions. Last month it expanded into Singapore, the UK, and Canada (The Hindu — Sports, Sat, 24 Oct 2026 10:42:10 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "sports-daily-2026-10-24-59",
+   "question": "Which current affairs development was reported regarding: \"Australia collapsed to 99 all out in their first innings and were then dismissed for 295, with a superb 121 from Travis Head and defiant 40 off 166 balls by nightwatchman Scott Boland the only highlights\"?",
+   "options": [
+    "Women in Blue start firm favourites as focus shifts to ODIs",
+    "Asian Para Games 2026: India wins gold in para recurve men’s doubles archery",
+    "The Golden Dream and Femme Fatale impress",
+    "Australia face selection headaches after 'shambolic' South Africa defeat"
+   ],
+   "answer": 3,
+   "explanation": "Australia face selection headaches after 'shambolic' South Africa defeat — Australia collapsed to 99 all out in their first innings and were then dismissed for 295, with a superb 121 from Travis Head and defiant 40 off 166 balls by nightwatchman Scott Boland the only highlights (The Hindu — Sports, Sat, 24 Oct 2026 03:31:32 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "sports-daily-2026-10-24-60",
+   "question": "Which current affairs development was reported regarding: \"The 56-year-old Swiss was present at a Tokyo meeting of the Asian Football Confederation (AFC) when president Sheikh Salman bin Ebrahim al-Khalifa gave his unequivocal backing, in a significant boost to Infantino’s...\"?",
+   "options": [
+    "Asian football endorses Infantino re-election in apparent U-turn",
+    "Bihar to host India-New Zealand Under-20 Rugby Series",
+    "IND vs NZ second T20I: Tilak Varma’s unbeaten 51 fuels India’s four-wicket win in 2nd T20I",
+    "Sindhu, Ashmita enter quarterfinals of French Open badminton"
+   ],
+   "answer": 0,
+   "explanation": "Asian football endorses Infantino re-election in apparent U-turn — The 56-year-old Swiss was present at a Tokyo meeting of the Asian Football Confederation (AFC) when president Sheikh Salman bin Ebrahim al-Khalifa gave his unequivocal backing, in a significant boost to Infantino’s... (The Hindu — Sports, Sat, 24 Oct 2026 03:25:32 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "sports-daily-2026-10-24-61",
+   "question": "Which current affairs development was reported regarding: \"After taking the opening game 11-6, the Indians lost the next two, leaving themselves under enormous pressure. However, the duo responded impressively, winning the fourth game 11-9 before holding their nerve to...\"?",
+   "options": [
+    "Ishan Kishan ruled out of 2nd T20I against New Zealand",
+    "Ayush Mhatre undergoes surgery for hamstring injury, sidelined for about three months",
+    "Asian Para Games: Thulasimathi Murugesan wins gold, ends day with three medals",
+    "India wins historic first mixed doubles medal at Asian TT in 72 years"
+   ],
+   "answer": 3,
+   "explanation": "India wins historic first mixed doubles medal at Asian TT in 72 years — After taking the opening game 11-6, the Indians lost the next two, leaving themselves under enormous pressure. However, the duo responded impressively, winning the fourth game 11-9 before holding their nerve to... (The Hindu — Sports, Sat, 24 Oct 2026 03:19:28 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "sports-daily-2026-10-24-62",
+   "question": "Which current affairs development was reported regarding: \"Both Agarwal and Kumar won two gold medals each at the Games.\"?",
+   "options": [
+    "Chiara manages to hold on to the top spot; Pranavi stays within striking distance",
+    "Naman Dhir — teeing off in style",
+    "Sri Lanka trumps Brook's fastest double century to beat England by two wickets in cricket tri-series",
+    "Mona and Nishad to be India's flag-bearers at closing ceremony of Asian Para Games"
+   ],
+   "answer": 3,
+   "explanation": "Mona and Nishad to be India's flag-bearers at closing ceremony of Asian Para Games — Both Agarwal and Kumar won two gold medals each at the Games. (The Hindu — Sports, Sat, 24 Oct 2026 03:12:26 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "sports-daily-2026-10-24-63",
+   "question": "Which current affairs development was reported regarding: \"The defending champions made a dominant start, with in-form Ramírez scoring in the eighth minute. After receiving the ball on the right side of the penalty area, Ramírez lifted it over Albino Gomes to put East Bengal...\"?",
+   "options": [
+    "Sichuan to meet Denso Iris in the final of FIBA-Women’s Basketball League Asia tournament",
+    "Ranji Trophy: Ticket collector Ravi Singh on the right track",
+    "Ake Loba's brace hand East Bengal easy 5-1 win over Inter Kashi in ISL",
+    "Sambudla dominates proceedings, climbs to the top of the F4 Indian championship"
+   ],
+   "answer": 2,
+   "explanation": "Ake Loba's brace hand East Bengal easy 5-1 win over Inter Kashi in ISL — The defending champions made a dominant start, with in-form Ramírez scoring in the eighth minute. After receiving the ball on the right side of the penalty area, Ramírez lifted it over Albino Gomes to put East Bengal... (The Hindu — Sports, Sat, 24 Oct 2026 03:04:49 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "sports-daily-2026-10-24-64",
+   "question": "Which current affairs development was reported regarding: \"\"Ayush Mhatre underwent right hamstring surgery yesterday (on Thursday) at the Kokilaben Hospital in Mumbai, performed by Dr Dinshaw Pardiwala,\" says BCCI source\"?",
+   "options": [
+    "The injury layoff helped me focus on the controllables: Ajith Ram",
+    "World Billiards Championship: Cue sports icon Pankaj Advani wins 29th world title",
+    "Ayush Mhatre undergoes surgery for hamstring injury, sidelined for about three months",
+    "Asian Para Games: Thulasimathi Murugesan wins gold, ends day with three medals"
+   ],
+   "answer": 2,
+   "explanation": "Ayush Mhatre undergoes surgery for hamstring injury, sidelined for about three months — \"Ayush Mhatre underwent right hamstring surgery yesterday (on Thursday) at the Kokilaben Hospital in Mumbai, performed by Dr Dinshaw Pardiwala,\" says BCCI source (The Hindu — Sports, Sat, 24 Oct 2026 02:57:35 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "sports-daily-2026-10-24-65",
+   "question": "Which current affairs development was reported regarding: \"\"As I announce my retirement from all formats of cricket as a player, my heart is overflowing with gratitude,\" Meghana wrote in an Instagram post\"?",
+   "options": [
+    "India-Zimbabwe: Good to be back in the room and score runs: Pratika",
+    "World Billiards Championship: Cue sports icon Pankaj Advani wins 29th world title",
+    "Infantino says he’s supported by ‘vast, vast majority’ of football ahead of FIFA elections",
+    "S. Meghana retires from all forms of cricket"
+   ],
+   "answer": 3,
+   "explanation": "S. Meghana retires from all forms of cricket — \"As I announce my retirement from all formats of cricket as a player, my heart is overflowing with gratitude,\" Meghana wrote in an Instagram post (The Hindu — Sports, Sat, 24 Oct 2026 02:52:33 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "sports-daily-2026-10-24-66",
+   "question": "Which current affairs development was reported regarding: \"The 36-year-old made the journey from under-19 champion to cricket administrator in less than two decades. He speaks in this interview about the benefits of ex-cricketers running the game, the evolution of the IPL...\"?",
+   "options": [
+    "Hitting hard came naturally; but today, I wouldn’t be in the top 100: Saurabh Tiwary",
+    "Sichuan to meet Denso Iris in the final of FIBA-Women’s Basketball League Asia tournament",
+    "Ayush Mhatre undergoes surgery for hamstring injury, sidelined for about three months",
+    "Invitation Cup weekend: Stud Poker can repeat in Mysore Derby; Time And Tide for Sprinters’ Cup; Red Bishop appeals most in Stayers’ Cup"
+   ],
+   "answer": 0,
+   "explanation": "Hitting hard came naturally; but today, I wouldn’t be in the top 100: Saurabh Tiwary — The 36-year-old made the journey from under-19 champion to cricket administrator in less than two decades. He speaks in this interview about the benefits of ex-cricketers running the game, the evolution of the IPL... (The Hindu — Sports, Fri, 23 Oct 2026 22:51:48 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "sports-daily-2026-10-24-67",
+   "question": "Which current affairs development was reported regarding: \"Bharat Petroleum Corporation Ltd. beats Hockey Unit of Tamil Nadu 5-1\"?",
+   "options": [
+    "MCC-Murugappa Gold Cup hockey: Wasteful Railways pips Indian Army",
+    "Ranji Trophy: Ticket collector Ravi Singh on the right track",
+    "World Billiards Championship: Cue sports icon Pankaj Advani wins 29th world title",
+    "Mona and Nishad to be India's flag-bearers at closing ceremony of Asian Para Games"
+   ],
+   "answer": 0,
+   "explanation": "MCC-Murugappa Gold Cup hockey: Wasteful Railways pips Indian Army — Bharat Petroleum Corporation Ltd. beats Hockey Unit of Tamil Nadu 5-1 (The Hindu — Sports, Fri, 23 Oct 2026 19:37:53 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "sports-daily-2026-10-24-68",
+   "question": "Which current affairs development was reported regarding: \"Speed Demons Delhi’s Shahan converts pole position into victory in a closely contested opening race of the Indian Racing League (IRL)\"?",
+   "options": [
+    "Dominant India aims to seal ODI series against Zimbabwe",
+    "Chiara manages to hold on to the top spot; Pranavi stays within striking distance",
+    "Sambudla dominates proceedings, climbs to the top of the F4 Indian championship",
+    "Asian Para Games: Thulasimathi Murugesan wins gold, ends day with three medals"
+   ],
+   "answer": 2,
+   "explanation": "Sambudla dominates proceedings, climbs to the top of the F4 Indian championship — Speed Demons Delhi’s Shahan converts pole position into victory in a closely contested opening race of the Indian Racing League (IRL) (The Hindu — Sports, Fri, 23 Oct 2026 18:33:36 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "sports-daily-2026-10-24-69",
+   "question": "Which current affairs development was reported regarding: \"After retirement, he moved into coaching, working with Delhi’s U16, U19 and U23 teams, as well as India U19 and various BCCI/COE high-performance programmes\"?",
+   "options": [
+    "Parvinder Awana to head BCCI junior selection committee",
+    "Hitting hard came naturally; but today, I wouldn’t be in the top 100: Saurabh Tiwary",
+    "Ayush Mhatre undergoes surgery for hamstring injury, sidelined for about three months",
+    "Ishan Kishan ruled out of 2nd T20I against New Zealand"
+   ],
+   "answer": 0,
+   "explanation": "Parvinder Awana to head BCCI junior selection committee — After retirement, he moved into coaching, working with Delhi’s U16, U19 and U23 teams, as well as India U19 and various BCCI/COE high-performance programmes (The Hindu — Sports, Fri, 23 Oct 2026 16:00:44 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "sports-daily-2026-10-24-70",
+   "question": "Which current affairs development was reported regarding: \"In the first T20 international, the batters saved the day for India after the bowlers endured another ordinary outing\"?",
+   "options": [
+    "IND vs NZ second T20I: Pressure mounts on visiting bowlers at batting-friendly Christchurch",
+    "Infantino says he’s supported by ‘vast, vast majority’ of football ahead of FIFA elections",
+    "Invitation Cup: Zuccaro is in a class of his own; Alfonsine appeals most in Super Mile",
+    "Miami Vice, Noraiah and Your Unforgettable catch the eye"
+   ],
+   "answer": 0,
+   "explanation": "IND vs NZ second T20I: Pressure mounts on visiting bowlers at batting-friendly Christchurch — In the first T20 international, the batters saved the day for India after the bowlers endured another ordinary outing (The Hindu — Sports, Fri, 23 Oct 2026 16:00:10 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "sports-daily-2026-10-24-71",
+   "question": "Which current affairs development was reported regarding: \"India finished fifth in the 2023 Asian Para Games with a medal tally of 111 (29 gold, 31 silver, 51 bronze)\"?",
+   "options": [
+    "Parvinder Awana to head BCCI junior selection committee",
+    "Asian Para Games 2026: Indian para-athletes’ medal tally crosses 100",
+    "Sichuan to meet Denso Iris in the final of FIBA-Women’s Basketball League Asia tournament",
+    "Asian football endorses Infantino re-election in apparent U-turn"
+   ],
+   "answer": 1,
+   "explanation": "Asian Para Games 2026: Indian para-athletes’ medal tally crosses 100 — India finished fifth in the 2023 Asian Para Games with a medal tally of 111 (29 gold, 31 silver, 51 bronze) (The Hindu — Sports, Fri, 23 Oct 2026 15:17:15 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "sports-daily-2026-10-24-72",
+   "question": "Which current affairs development was reported regarding: \"The 41-year-old was the only Indian in the last-four stage and eventually came out on top\"?",
+   "options": [
+    "World Billiards Championship: Cue sports icon Pankaj Advani wins 29th world title",
+    "IND vs NZ second T20I: Pressure mounts on visiting bowlers at batting-friendly Christchurch",
+    "Asian Para Games 2026: Mona Agarwal wins second gold with world record",
+    "TN coach Murray wants the players to develop a cohesive style of play"
+   ],
+   "answer": 0,
+   "explanation": "World Billiards Championship: Cue sports icon Pankaj Advani wins 29th world title — The 41-year-old was the only Indian in the last-four stage and eventually came out on top (The Hindu — Sports, Fri, 23 Oct 2026 15:11:19 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "sports-daily-2026-10-24-73",
+   "question": "Which current affairs development was reported regarding: \"Along with the two silver medals Thulasimathi won earlier in the day, she combined with Manasi Joshi to clinch gold at the women’s doubles SL3-SU5 badminton\"?",
+   "options": [
+    "Asian Para Games: Thulasimathi Murugesan wins gold, ends day with three medals",
+    "Chiara manages to hold on to the top spot; Pranavi stays within striking distance",
+    "What makes Real Madrid vs Barcelona football’s greatest rivalry? | In Focus Podcast",
+    "Infantino says he’s supported by ‘vast, vast majority’ of football ahead of FIFA elections"
+   ],
+   "answer": 0,
+   "explanation": "Asian Para Games: Thulasimathi Murugesan wins gold, ends day with three medals — Along with the two silver medals Thulasimathi won earlier in the day, she combined with Manasi Joshi to clinch gold at the women’s doubles SL3-SU5 badminton (The Hindu — Sports, Fri, 23 Oct 2026 15:02:34 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "sports-daily-2026-10-24-74",
+   "question": "Which current affairs development was reported regarding: \"Kotak said the team management should be appreciated for sticking to Samson and Abhishek despite the social media-fuelled clamour for the inclusion of 15-year-old batting sensation Vaibhav Sooryavanshi\"?",
+   "options": [
+    "IND vs NZ T20I series: Sitanshu Kotak lauds Samson, Abhishek’s ‘fearless attitude’ and mind-control",
+    "MCC-Murugappa Gold Cup hockey: Wasteful Railways pips Indian Army",
+    "IND vs NZ second T20I: Pressure mounts on visiting bowlers at batting-friendly Christchurch",
+    "Women in Blue start firm favourites as focus shifts to ODIs"
+   ],
+   "answer": 0,
+   "explanation": "IND vs NZ T20I series: Sitanshu Kotak lauds Samson, Abhishek’s ‘fearless attitude’ and mind-control — Kotak said the team management should be appreciated for sticking to Samson and Abhishek despite the social media-fuelled clamour for the inclusion of 15-year-old batting sensation Vaibhav Sooryavanshi (The Hindu — Sports, Fri, 23 Oct 2026 14:26:40 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "sports-daily-2026-10-24-75",
+   "question": "Which current affairs development was reported regarding: \"Earlier, Mona Agarwal had won gold in the women's 10m air rifle standing SH1 event with a Games-record score of 250.0, while Lekhara bagged silver with 249.6 points\"?",
+   "options": [
+    "Anahat Singh enters maiden PSA Gold-level semis at Silicon Valley squash",
+    "Sindhu, Ashmita enter quarterfinals of French Open badminton",
+    "Bayern Munich says coach Vincent Kompany is ’stable’ after collapsing at Friday training session",
+    "Asian Para Games 2026: Mona Agarwal wins second gold with world record"
+   ],
+   "answer": 3,
+   "explanation": "Asian Para Games 2026: Mona Agarwal wins second gold with world record — Earlier, Mona Agarwal had won gold in the women's 10m air rifle standing SH1 event with a Games-record score of 250.0, while Lekhara bagged silver with 249.6 points (The Hindu — Sports, Fri, 23 Oct 2026 10:56:49 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "sports-daily-2026-10-24-76",
+   "question": "Which current affairs development was reported regarding: \"Ishan Kishan is ruled out of the second T20I against New Zealand due to a low grade right adductor strain, which he sustained during the first T20I of the series, a BCCI statement added.\"?",
+   "options": [
+    "Asian Para Games 2026: Nitesh, Naveen triumph gold in badminton; Thulasimathi, Nitya claim silver",
+    "Ishan Kishan ruled out of 2nd T20I against New Zealand",
+    "Women in Blue start firm favourites as focus shifts to ODIs",
+    "Anahat Singh enters maiden PSA Gold-level semis at Silicon Valley squash"
+   ],
+   "answer": 1,
+   "explanation": "Ishan Kishan ruled out of 2nd T20I against New Zealand — Ishan Kishan is ruled out of the second T20I against New Zealand due to a low grade right adductor strain, which he sustained during the first T20I of the series, a BCCI statement added. (The Hindu — Sports, Fri, 23 Oct 2026 10:44:18 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "sports-daily-2026-10-24-77",
+   "question": "Which current affairs development was reported regarding: \"A day after taking out Egyptian world No.3 and eight-time world champion Nour ElSherbini in straight games, the 18-year-old world No.15 Anahat beat world No.14 Hany 4-11, 11-8, 4-11, 11-2, 11-5 in 42 minutes in the...\"?",
+   "options": [
+    "IND vs NZ second T20I: Pressure mounts on visiting bowlers at batting-friendly Christchurch",
+    "Bayern Munich says coach Vincent Kompany is ’stable’ after collapsing at Friday training session",
+    "Anahat Singh enters maiden PSA Gold-level semis at Silicon Valley squash",
+    "Hitting hard came naturally; but today, I wouldn’t be in the top 100: Saurabh Tiwary"
+   ],
+   "answer": 2,
+   "explanation": "Anahat Singh enters maiden PSA Gold-level semis at Silicon Valley squash — A day after taking out Egyptian world No.3 and eight-time world champion Nour ElSherbini in straight games, the 18-year-old world No.15 Anahat beat world No.14 Hany 4-11, 11-8, 4-11, 11-2, 11-5 in 42 minutes in the... (The Hindu — Sports, Fri, 23 Oct 2026 09:53:01 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "sports-daily-2026-10-24-78",
+   "question": "Which current affairs development was reported regarding: \"India's Nimisha Chakkungalparambil and Parmod Bijarnia claimed the silver medals in their respective women's long jump T47 and men's 1500m T46 competitions\"?",
+   "options": [
+    "TN coach Murray wants the players to develop a cohesive style of play",
+    "Asian Para Games 2026: Sandeep, Haney win gold with world records",
+    "USA to host women's football Club World Cup in 2028 - FIFA",
+    "MCC-Murugappa Gold Cup: Hockey Karnataka rallies to hold PNB"
+   ],
+   "answer": 1,
+   "explanation": "Asian Para Games 2026: Sandeep, Haney win gold with world records — India's Nimisha Chakkungalparambil and Parmod Bijarnia claimed the silver medals in their respective women's long jump T47 and men's 1500m T46 competitions (The Hindu — Sports, Fri, 23 Oct 2026 09:33:15 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "sports-daily-2026-10-24-79",
+   "question": "Which current affairs development was reported regarding: \"The Indian duo shared the opening set with China after both sides shot 35. They then took control, winning the second set 37-36 and the third 38-36 to seal the title and take the match 5-1 on set points\"?",
+   "options": [
+    "Kieron Pollard appointed as head coach for Mumbai Indians",
+    "Pratika’s unbeaten century makes it a walk in the park for India",
+    "Asian Para Games 2026: India wins gold in para recurve men’s doubles archery",
+    "Miami Vice, Noraiah and Your Unforgettable catch the eye"
+   ],
+   "answer": 2,
+   "explanation": "Asian Para Games 2026: India wins gold in para recurve men’s doubles archery — The Indian duo shared the opening set with China after both sides shot 35. They then took control, winning the second set 37-36 and the third 38-36 to seal the title and take the match 5-1 on set points (The Hindu — Sports, Fri, 23 Oct 2026 08:46:07 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "sports-daily-2026-10-24-80",
+   "question": "Which current affairs development was reported regarding: \"While Nitesh Kumar produced a clinical performance to beat Pramod Bhagat, Naveen Sivakumar showcased his prowess to beat Indonesia’s Fredy Setiawan\"?",
+   "options": [
+    "Asian Para Games 2026: Nitesh, Naveen triumph gold in badminton; Thulasimathi, Nitya claim silver",
+    "Senthamizh Arasu keeps his dream of turning out for the senior Indian hockey team alive",
+    "Anahat Singh enters maiden PSA Gold-level semis at Silicon Valley squash",
+    "The Golden Dream and Femme Fatale impress"
+   ],
+   "answer": 0,
+   "explanation": "Asian Para Games 2026: Nitesh, Naveen triumph gold in badminton; Thulasimathi, Nitya claim silver — While Nitesh Kumar produced a clinical performance to beat Pramod Bhagat, Naveen Sivakumar showcased his prowess to beat Indonesia’s Fredy Setiawan (The Hindu — Sports, Fri, 23 Oct 2026 08:39:22 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "sports-daily-2026-10-24-81",
+   "question": "Which current affairs development was reported regarding: \"What has stood out in the 26-year-old’s brief foray at the highest level is his composure and calmness under pressure, and his ability to back his strengths and clear boundaries with consummate ease\"?",
+   "options": [
+    "World Billiards Championship: Cue sports icon Pankaj Advani wins 29th world title",
+    "Ake Loba's brace hand East Bengal easy 5-1 win over Inter Kashi in ISL",
+    "Naman Dhir — teeing off in style",
+    "Hitting hard came naturally; but today, I wouldn’t be in the top 100: Saurabh Tiwary"
+   ],
+   "answer": 2,
+   "explanation": "Naman Dhir — teeing off in style — What has stood out in the 26-year-old’s brief foray at the highest level is his composure and calmness under pressure, and his ability to back his strengths and clear boundaries with consummate ease (The Hindu — Sports, Fri, 23 Oct 2026 07:46:33 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "sports-daily-2026-10-24-82",
+   "question": "Which current affairs development was reported regarding: \"The U.S. has a proven track record of staging large sporting events, notably co-hosting the men's World Cup earlier this year\"?",
+   "options": [
+    "TN coach Murray wants the players to develop a cohesive style of play",
+    "IND vs NZ T20I series: Sitanshu Kotak lauds Samson, Abhishek’s ‘fearless attitude’ and mind-control",
+    "Asian Para Games 2026: India wins gold in para recurve men’s doubles archery",
+    "USA to host women's football Club World Cup in 2028 - FIFA"
+   ],
+   "answer": 3,
+   "explanation": "USA to host women's football Club World Cup in 2028 - FIFA — The U.S. has a proven track record of staging large sporting events, notably co-hosting the men's World Cup earlier this year (The Hindu — Sports, Fri, 23 Oct 2026 07:25:40 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "sports-daily-2026-10-24-83",
+   "question": "Which current affairs development was reported regarding: \"Men’s and women’s teams from both countries arrive in Patna. Seven players from Bihar were selected for the Indian teams. Matches to be held at Rajgir Sports Complex in Nalanda\"?",
+   "options": [
+    "Anahat Singh enters maiden PSA Gold-level semis at Silicon Valley squash",
+    "Asian Para Games 2026: Nitesh, Naveen triumph gold in badminton; Thulasimathi, Nitya claim silver",
+    "Women in Blue start firm favourites as focus shifts to ODIs",
+    "Bihar to host India-New Zealand Under-20 Rugby Series"
+   ],
+   "answer": 3,
+   "explanation": "Bihar to host India-New Zealand Under-20 Rugby Series — Men’s and women’s teams from both countries arrive in Patna. Seven players from Bihar were selected for the Indian teams. Matches to be held at Rajgir Sports Complex in Nalanda (The Hindu — Sports, Fri, 23 Oct 2026 03:53:21 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "sports-daily-2026-10-24-84",
+   "question": "Which current affairs development was reported regarding: \"Brook's 116-ball 202 propelled England to its fourth highest ODI score of 429-4 before it ran into Sri Lanka's super counterpunch to lose by two wickets\"?",
+   "options": [
+    "Chiara manages to hold on to the top spot; Pranavi stays within striking distance",
+    "El Clasico: Flick, Mourinho and the morbo of all morbos",
+    "Sri Lanka trumps Brook's fastest double century to beat England by two wickets in cricket tri-series",
+    "Kieron Pollard appointed as head coach for Mumbai Indians"
+   ],
+   "answer": 2,
+   "explanation": "Sri Lanka trumps Brook's fastest double century to beat England by two wickets in cricket tri-series — Brook's 116-ball 202 propelled England to its fourth highest ODI score of 429-4 before it ran into Sri Lanka's super counterpunch to lose by two wickets (The Hindu — Sports, Fri, 23 Oct 2026 03:52:06 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "sports-daily-2026-10-24-85",
+   "question": "Which current affairs development was reported regarding: \"Unseeded Ashmita was the star of the day, upsetting world No. 2 and third seed Yamaguchi 21-19 21-18 in a second-round match that lasted 37 minutes\"?",
+   "options": [
+    "Asian Para Games 2026: India wins gold in para recurve men’s doubles archery",
+    "Sindhu, Ashmita enter quarterfinals of French Open badminton",
+    "Hitting hard came naturally; but today, I wouldn’t be in the top 100: Saurabh Tiwary",
+    "Hero Women’s Indian Open: Vani in the van for the first time ever in a LET event"
+   ],
+   "answer": 1,
+   "explanation": "Sindhu, Ashmita enter quarterfinals of French Open badminton — Unseeded Ashmita was the star of the day, upsetting world No. 2 and third seed Yamaguchi 21-19 21-18 in a second-round match that lasted 37 minutes (The Hindu — Sports, Fri, 23 Oct 2026 03:47:15 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "sports-daily-2026-10-24-86",
+   "question": "Which current affairs development was reported regarding: \"Jayaram along with Malay Barik, another athlete, was going to Kataka for Dussehra celebration by bike on Wednesday evening when the accident occurred\"?",
+   "options": [
+    "El Clasico: Flick, Mourinho and the morbo of all morbos",
+    "MCC-Murugappa Gold Cup hockey: Wasteful Railways pips Indian Army",
+    "Invitation Cup weekend: Stud Poker can repeat in Mysore Derby; Time And Tide for Sprinters’ Cup; Red Bishop appeals most in Stayers’ Cup",
+    "Promising Indian sprinter Dondapati Jayaram dies in road accident"
+   ],
+   "answer": 3,
+   "explanation": "Promising Indian sprinter Dondapati Jayaram dies in road accident — Jayaram along with Malay Barik, another athlete, was going to Kataka for Dussehra celebration by bike on Wednesday evening when the accident occurred (The Hindu — Sports, Fri, 23 Oct 2026 00:49:55 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "sports-daily-2026-10-24-87",
+   "question": "Which current affairs development was reported regarding: \"Jintimani replaces injured pacer Renuka; Zimbabwe will hope to pose a tough question or two to the World champion\"?",
+   "options": [
+    "IND vs NZ T20I series: Sitanshu Kotak lauds Samson, Abhishek’s ‘fearless attitude’ and mind-control",
+    "Women in Blue start firm favourites as focus shifts to ODIs",
+    "Asian Para Games 2026: India wins gold in para recurve men’s doubles archery",
+    "Parvinder Awana to head BCCI junior selection committee"
+   ],
+   "answer": 1,
+   "explanation": "Women in Blue start firm favourites as focus shifts to ODIs — Jintimani replaces injured pacer Renuka; Zimbabwe will hope to pose a tough question or two to the World champion (The Hindu — Sports, Thu, 22 Oct 2026 23:48:57 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
   }
  ]
 };

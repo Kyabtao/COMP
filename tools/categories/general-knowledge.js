@@ -12,7 +12,7 @@
   "railways"
  ],
  "blurb": "Countries, capitals, currencies, days, organisations and world firsts.",
- "count": 1004,
+ "count": 1017,
  "questions": [
   {
    "id": "general-knowledge-00001",
@@ -15077,6 +15077,214 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-24-88",
+   "question": "Which of the following rings from the DC Comics' \"Lantern Corps\" are classified as Parasitic?",
+   "options": [
+    "Yellow (Fear)",
+    "Indigo (Compassion)",
+    "Green (Willpower)",
+    "White (Life)"
+   ],
+   "answer": 1,
+   "explanation": "Indigo (Compassion) is the correct answer for: Which of the following rings from the DC Comics' \"Lantern Corps\" are classified as Parasitic? (Entertainment: Comics).",
+   "topic": "Entertainment: Comics",
+   "level": 3,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-24-89",
+   "question": "Xanthophobia is the fear of what color?",
+   "options": [
+    "Red",
+    "Green",
+    "Yellow",
+    "Blue"
+   ],
+   "answer": 2,
+   "explanation": "Yellow is the correct answer for: Xanthophobia is the fear of what color? (General Knowledge).",
+   "topic": "General Knowledge",
+   "level": 3,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-24-90",
+   "question": "Who is the origin of the quote \"What doesn't kill you makes you stronger\"?",
+   "options": [
+    "Christopher Hitchens",
+    "G. Gordon Liddy",
+    "Friedrich Nietzsche",
+    "Kelly Clarkson"
+   ],
+   "answer": 2,
+   "explanation": "Friedrich Nietzsche is the correct answer for: Who is the origin of the quote \"What doesn't kill you makes you stronger\"? (General Knowledge).",
+   "topic": "General Knowledge",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-24-91",
+   "question": "What was the name of the first Robin in the Batman comics?",
+   "options": [
+    "Bruce Wayne",
+    "Dick Grayson",
+    "Tim Drake",
+    "Jason Todd"
+   ],
+   "answer": 1,
+   "explanation": "Dick Grayson is the correct answer for: What was the name of the first Robin in the Batman comics? (Entertainment: Comics).",
+   "topic": "Entertainment: Comics",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-24-92",
+   "question": "In what year was Garry's Mod released as a standalone title on Valve's Steam distribution service?",
+   "options": [
+    "2007",
+    "2004",
+    "2006",
+    "2003"
+   ],
+   "answer": 2,
+   "explanation": "2006 is the correct answer for: In what year was Garry's Mod released as a standalone title on Valve's Steam distribution service? (Entertainment: Video Games).",
+   "topic": "Entertainment: Video Games",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-24-93",
+   "question": "In the game \"Subnautica\", which feature was removed due to performance issues in 2016?",
+   "options": [
+    "Terraforming",
+    "Crafting",
+    "Multiplayer",
+    "Building"
+   ],
+   "answer": 0,
+   "explanation": "Terraforming is the correct answer for: In the game \"Subnautica\", which feature was removed due to performance issues in 2016? (Entertainment: Video Games).",
+   "topic": "Entertainment: Video Games",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-24-94",
+   "question": "Who is believed to have been the first European to 'discover' the land of New Zealand?",
+   "options": [
+    "Abel Tasman",
+    "Jeanne Bar&eacute;",
+    "John Cabot",
+    "Christopher Columbus"
+   ],
+   "answer": 0,
+   "explanation": "Abel Tasman is the correct answer for: Who is believed to have been the first European to 'discover' the land of New Zealand? (History).",
+   "topic": "History",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-24-95",
+   "question": "What were the first two Pok&eacute;mon games released?",
+   "options": [
+    "Red and Green",
+    "Red and Blue",
+    "Red and Yellow",
+    "Green and Blue"
+   ],
+   "answer": 0,
+   "explanation": "Red and Green is the correct answer for: What were the first two Pok&eacute;mon games released? (Entertainment: Video Games).",
+   "topic": "Entertainment: Video Games",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-24-96",
+   "question": "Which of these books was NOT written by the Czech author Karel Čapek?",
+   "options": [
+    "Journey to the Center of the Earth",
+    "R.U.R. (Rossum's Universal Robots)",
+    "Dashenka, or the Life of a Puppy",
+    "The War with the Newts"
+   ],
+   "answer": 0,
+   "explanation": "Journey to the Center of the Earth is the correct answer for: Which of these books was NOT written by the Czech author Karel Čapek? (Entertainment: Books).",
+   "topic": "Entertainment: Books",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-24-97",
+   "question": "In what year did the Wall Street Crash take place?",
+   "options": [
+    "1929",
+    "1925",
+    "1932",
+    "1930"
+   ],
+   "answer": 0,
+   "explanation": "1929 is the correct answer for: In what year did the Wall Street Crash take place? (History).",
+   "topic": "History",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-24-98",
+   "question": "Which painting was not made by Vincent Van Gogh?",
+   "options": [
+    "Bedroom In Arles",
+    "Starry Night",
+    "The Ninth Wave",
+    "Caf&eacute; Terrace at Night"
+   ],
+   "answer": 2,
+   "explanation": "The Ninth Wave is the correct answer for: Which painting was not made by Vincent Van Gogh? (Art).",
+   "topic": "Art",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-24-99",
+   "question": "In quantum physics, which of these theorised sub-atomic particles has yet to be observed?",
+   "options": [
+    "Graviton",
+    "Z boson",
+    "Tau neutrino",
+    "Gluon"
+   ],
+   "answer": 0,
+   "explanation": "Graviton is the correct answer for: In quantum physics, which of these theorised sub-atomic particles has yet to be observed? (Science & Nature).",
+   "topic": "Science & Nature",
+   "level": 3,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-24-100",
+   "question": "In \"Clash Royale\" what is Arena 4 called?",
+   "options": [
+    "P.E.K.K.A's Playhouse",
+    "Spell Valley",
+    "Royal Arena",
+    "Barbarian Bowl"
+   ],
+   "answer": 1,
+   "explanation": "Spell Valley is the correct answer for: In \"Clash Royale\" what is Arena 4 called? (Entertainment: Video Games).",
+   "topic": "Entertainment: Video Games",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
   }
  ]
 };

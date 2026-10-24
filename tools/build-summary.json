@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-24T17:16:11.420Z",
-  "totalQuestions": 33157,
+  "generatedAt": "2026-10-24T17:18:42.786Z",
+  "totalQuestions": 33257,
   "categories": [
     {
       "slug": "abbreviations",
@@ -19,7 +19,7 @@
     },
     {
       "slug": "economics",
-      "count": 300,
+      "count": 345,
       "target": 600
     },
     {
@@ -39,7 +39,7 @@
     },
     {
       "slug": "sports",
-      "count": 264,
+      "count": 306,
       "target": 400
     },
     {
@@ -79,7 +79,7 @@
     },
     {
       "slug": "general-knowledge",
-      "count": 1004,
+      "count": 1017,
       "target": 1000
     },
     {
@@ -204,9 +204,9 @@
     }
   ],
   "daily": {
-    "days": 5,
-    "questions": 230,
-    "latest": "2026-10-23",
+    "days": 6,
+    "questions": 330,
+    "latest": "2026-10-24",
     "minted": []
   },
   "classes": 13,

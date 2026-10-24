@@ -31,7 +31,7 @@ var manifest = [
    "railways"
   ],
   "blurb": "Countries, capitals, currencies, days, organisations and world firsts.",
-  "count": 1004
+  "count": 1017
  },
  {
   "slug": "current-affairs",
@@ -213,7 +213,7 @@ var manifest = [
    "ssc-cgl"
   ],
   "blurb": "Banking, budget, taxes, trade and national income.",
-  "count": 300
+  "count": 345
  },
  {
   "slug": "general-english-grammar",
@@ -293,7 +293,7 @@ var manifest = [
    "railways"
   ],
   "blurb": "Trophies, terms, players and tournaments.",
-  "count": 264
+  "count": 306
  },
  {
   "slug": "awards-honours",

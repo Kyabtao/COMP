@@ -11,7 +11,7 @@
   "ssc-cgl"
  ],
  "blurb": "Banking, budget, taxes, trade and national income.",
- "count": 300,
+ "count": 345,
  "questions": [
   {
    "id": "economics-00001",
@@ -4532,6 +4532,726 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "economics-daily-2026-10-24-01",
+   "question": "Which current affairs development was reported regarding: \"The replacement of MGNREGA with the VB-GRAM G Act has weakened the rural right-to-work framework; restoring a meaningful right to work through adequate funding, living wages and stronger local institutions would...\"?",
+   "options": [
+    "What if a cheque bounces?",
+    "Sensex tumbles 876 points; Nifty drops below 22,900 dragged by private banks",
+    "The RBI and its growing fiscal role",
+    "The broken promise of the right to work"
+   ],
+   "answer": 3,
+   "explanation": "The broken promise of the right to work — The replacement of MGNREGA with the VB-GRAM G Act has weakened the rural right-to-work framework; restoring a meaningful right to work through adequate funding, living wages and stronger local institutions would... (The Hindu — Economy & Banking, Wed, 21 Oct 2026 22:04:36 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "economics-daily-2026-10-24-02",
+   "question": "Which current affairs development was reported regarding: \"Pralhad Joshi, Union Minister for New and Renewable Energy also stated the government is working to add a dedicated component for agrivoltaics in the second phase of PM-Kusum.\"?",
+   "options": [
+    "Stock markets close lower amid elevated crude oil, rising inflation",
+    "Coal stocks at thermal plants hold above 18 MT as supply deficit narrows",
+    "Agrivoltaics on 10% of suitable land can meet 2050 power demand: Pralhad Joshi",
+    "What if a cheque bounces?"
+   ],
+   "answer": 2,
+   "explanation": "Agrivoltaics on 10% of suitable land can meet 2050 power demand: Pralhad Joshi — Pralhad Joshi, Union Minister for New and Renewable Energy also stated the government is working to add a dedicated component for agrivoltaics in the second phase of PM-Kusum. (The Hindu — Economy & Banking, Wed, 21 Oct 2026 21:48:07 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "economics-daily-2026-10-24-03",
+   "question": "Which current affairs development was reported regarding: \"The Indian currency earlier recorded a similar closing level on September 4\"?",
+   "options": [
+    "Robert E. Hall and Michael Woodford | Putting people in economics",
+    "OPEC cuts India’s 2026 oil demand growth forecast to 40,000 barrels per day",
+    "Does ‘inflation targeting’ work in India?",
+    "Rupee strengthens for eighth consecutive day on IPO inflows; rise in crude prices cap gains"
+   ],
+   "answer": 3,
+   "explanation": "Rupee strengthens for eighth consecutive day on IPO inflows; rise in crude prices cap gains — The Indian currency earlier recorded a similar closing level on September 4 (The Hindu — Economy & Banking, Wed, 21 Oct 2026 19:42:18 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "economics-daily-2026-10-24-04",
+   "question": "Which current affairs development was reported regarding: \"The India-EU FTA is set to come into force early next year and significantly slash import duties on luxury cars. This has already boosted demand in India, say Ferrari chiefs\"?",
+   "options": [
+    "Unemployment rate in country stands at 5% in September, stable compared to August: NSO",
+    "Anticipation over upcoming EU FTA more than doubles Ferrari orders in India",
+    "Oil prices extend rally to near six-month high amid Houthi attacks on Saudi Arabia",
+    "Explained | RBI’s worries about pressure on rupee and measures to curb volatility in forex market"
+   ],
+   "answer": 1,
+   "explanation": "Anticipation over upcoming EU FTA more than doubles Ferrari orders in India — The India-EU FTA is set to come into force early next year and significantly slash import duties on luxury cars. This has already boosted demand in India, say Ferrari chiefs (The Hindu — Economy & Banking, Wed, 21 Oct 2026 16:57:23 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "economics-daily-2026-10-24-05",
+   "question": "Which current affairs development was reported regarding: \"The 30-share BSE Sensex fell 484.98 points, or 0.66%, to 73,367.92\"?",
+   "options": [
+    "Market's early rally fizzles out as banking, financial stocks weigh on benchmarks",
+    "India’s trade caught in the middle",
+    "SEBI’s SME IPO reforms offer a financing choice as rates rise",
+    "SBI’s cyber defences: What the bank had in place"
+   ],
+   "answer": 0,
+   "explanation": "Market's early rally fizzles out as banking, financial stocks weigh on benchmarks — The 30-share BSE Sensex fell 484.98 points, or 0.66%, to 73,367.92 (The Hindu — Economy & Banking, Wed, 21 Oct 2026 16:43:13 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "economics-daily-2026-10-24-06",
+   "question": "Which current affairs development was reported regarding: \"“Impacted customers are the most likely to receive calls from persons posing as SBI officials who can recite their account details back to them” the Internet Freedom Foundation said asking SBI to alert the said customers\"?",
+   "options": [
+    "Oil hits near six-month high as Houthi attacks rattle Saudi Arabia",
+    "Data breach: SBI admits exposure of its customer data on the Dark Web",
+    "ADNOC open to further long-term LPG deals with India, sees India among most important energy markets: Acting CEO, Downstream",
+    "Data suggests broad-based increase in food prices: RBI Bulletin"
+   ],
+   "answer": 1,
+   "explanation": "Data breach: SBI admits exposure of its customer data on the Dark Web — “Impacted customers are the most likely to receive calls from persons posing as SBI officials who can recite their account details back to them” the Internet Freedom Foundation said asking SBI to alert the said customers (The Hindu — Economy & Banking, Wed, 21 Oct 2026 14:21:45 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "economics-daily-2026-10-24-07",
+   "question": "Which current affairs development was reported regarding: \"Looser listing norms and tougher profitability tests could help established small firms tap equity at a time when the RBI is turning hawkish\"?",
+   "options": [
+    "India-U.S. deal ‘finalised’, implementation after clarity on India’s competitive advantage, says Goyal",
+    "SEBI’s SME IPO reforms offer a financing choice as rates rise",
+    "2026 Economics Nobel Prize: Putting the humanity in macroeconomics",
+    "Ethanol tender sparks feedstock concerns as rice gains ground over maize"
+   ],
+   "answer": 1,
+   "explanation": "SEBI’s SME IPO reforms offer a financing choice as rates rise — Looser listing norms and tougher profitability tests could help established small firms tap equity at a time when the RBI is turning hawkish (The Hindu — Economy & Banking, Wed, 21 Oct 2026 12:15:23 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "economics-daily-2026-10-24-08",
+   "question": "Which current affairs development was reported regarding: \"The latest Free Trade Agreement to come into force has several advantages for India in terms of trade, investment, and the mobility of students, while protecting India’s sensitive sectors\"?",
+   "options": [
+    "What are the deal contours of India-New Zealand FTA?",
+    "Robert E. Hall and Michael Woodford | Putting people in economics",
+    "Oil hits near six-month high as Houthi attacks rattle Saudi Arabia",
+    "Why managing fiscal is a tightrope for State governments"
+   ],
+   "answer": 0,
+   "explanation": "What are the deal contours of India-New Zealand FTA? — The latest Free Trade Agreement to come into force has several advantages for India in terms of trade, investment, and the mobility of students, while protecting India’s sensitive sectors (The Hindu — Economy & Banking, Wed, 21 Oct 2026 11:19:47 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "economics-daily-2026-10-24-09",
+   "question": "Which current affairs development was reported regarding: \"Regional partnerships can help businesses unlock the potential of the India-U.K. trade pact\"?",
+   "options": [
+    "Finances for disabled",
+    "Govt. to roll out National Electricity Data Sharing framework in October: Power Secretary",
+    "Food and fuel push wholesale inflation to series-high of 11.4% in September 2026",
+    "Moves by the North of England to unlock India trade"
+   ],
+   "answer": 3,
+   "explanation": "Moves by the North of England to unlock India trade — Regional partnerships can help businesses unlock the potential of the India-U.K. trade pact (The Hindu — Economy & Banking, Wed, 21 Oct 2026 09:58:35 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "economics-daily-2026-10-24-10",
+   "question": "Which current affairs development was reported regarding: \"S. Jaishankar hosts U.S. Secretary of State, UAE FM in Mumbai, holds trilateral talks on trade, energy, and connectivity\"?",
+   "options": [
+    "Rubio pushes for India to buy more U.S., Venezuelan oil",
+    "OPEC cuts India’s 2026 oil demand growth forecast to 40,000 barrels per day",
+    "Agrivoltaics on 10% of suitable land can meet 2050 power demand: Pralhad Joshi",
+    "Sensex tumbles 876 points; Nifty drops below 22,900 dragged by private banks"
+   ],
+   "answer": 0,
+   "explanation": "Rubio pushes for India to buy more U.S., Venezuelan oil — S. Jaishankar hosts U.S. Secretary of State, UAE FM in Mumbai, holds trilateral talks on trade, energy, and connectivity (The Hindu — Economy & Banking, Wed, 21 Oct 2026 03:57:35 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "economics-daily-2026-10-24-11",
+   "question": "Which current affairs development was reported regarding: \"Robert E. Hall and Michael Woodford provided the theoretical and empirical underpinnings to a basic but powerful idea for policymakers: the economy is made out of the people in it.\"?",
+   "options": [
+    "2026 Economics Nobel Prize: Putting the humanity in macroeconomics",
+    "Sensex tumbles 876 points; Nifty drops below 22,900 dragged by private banks",
+    "Food, fuel and precious metals drive September retail inflation to 23-month high of 5.5%",
+    "SEBI’s SME IPO reforms offer a financing choice as rates rise"
+   ],
+   "answer": 0,
+   "explanation": "2026 Economics Nobel Prize: Putting the humanity in macroeconomics — Robert E. Hall and Michael Woodford provided the theoretical and empirical underpinnings to a basic but powerful idea for policymakers: the economy is made out of the people in it. (The Hindu — Economy & Banking, Tue, 20 Oct 2026 14:53:16 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "economics-daily-2026-10-24-12",
+   "question": "Which current affairs development was reported regarding: \"The FTA includes two new Temporary Employment Entry (TEE) visa categories for Indian nationals\"?",
+   "options": [
+    "Bharat Petroleum’s net profit dips amid volatile crude prices in Q2",
+    "Govt. to roll out National Electricity Data Sharing framework in October: Power Secretary",
+    "Stock markets close lower amid elevated crude oil, rising inflation",
+    "India-New Zealand FTA comes into force; new visa categories for Indians, zero-duty access for exports"
+   ],
+   "answer": 3,
+   "explanation": "India-New Zealand FTA comes into force; new visa categories for Indians, zero-duty access for exports — The FTA includes two new Temporary Employment Entry (TEE) visa categories for Indian nationals (The Hindu — Economy & Banking, Tue, 20 Oct 2026 14:17:30 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "economics-daily-2026-10-24-13",
+   "question": "Which current affairs development was reported regarding: \"The winners of the 2026 Economics Nobel Prize transformed macroeconomics by showing how individual choices, household expectations and business behaviour shape the economy and influence the effectiveness of...\"?",
+   "options": [
+    "Stock markets close lower amid elevated crude oil, rising inflation",
+    "Robert E. Hall and Michael Woodford | Putting people in economics",
+    "Anticipation over upcoming EU FTA more than doubles Ferrari orders in India",
+    "Sensex tumbles 876 points; Nifty drops below 22,900 dragged by private banks"
+   ],
+   "answer": 1,
+   "explanation": "Robert E. Hall and Michael Woodford | Putting people in economics — The winners of the 2026 Economics Nobel Prize transformed macroeconomics by showing how individual choices, household expectations and business behaviour shape the economy and influence the effectiveness of... (The Hindu — Economy & Banking, Tue, 20 Oct 2026 12:11:24 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "economics-daily-2026-10-24-14",
+   "question": "Which current affairs development was reported regarding: \"“It is difficult to estimate but it should be upwards of 5-gigawatts in the next 3-4 years. It depends on state’s enthusiasm, ability to quickly notify a feed-in tariff,” said Union Ministry of New and Renewable...\"?",
+   "options": [
+    "India’s agrivoltaic capacity is expected to be more than 5-gigawatts in next 3-4 years: MNRE Secretary",
+    "Stock markets close lower amid elevated crude oil, rising inflation",
+    "Robert E. Hall and Michael Woodford | Putting people in economics",
+    "Rubio pushes for India to buy more U.S., Venezuelan oil"
+   ],
+   "answer": 0,
+   "explanation": "India’s agrivoltaic capacity is expected to be more than 5-gigawatts in next 3-4 years: MNRE Secretary — “It is difficult to estimate but it should be upwards of 5-gigawatts in the next 3-4 years. It depends on state’s enthusiasm, ability to quickly notify a feed-in tariff,” said Union Ministry of New and Renewable... (The Hindu — Economy & Banking, Mon, 19 Oct 2026 21:11:40 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "economics-daily-2026-10-24-15",
+   "question": "Which current affairs development was reported regarding: \"The rupee snapped its six-session winning streak and settled in negative territory amid continued pressure from foreign institutional investor outflows and elevated crude oil prices\"?",
+   "options": [
+    "Robert E. Hall and Michael Woodford | Putting people in economics",
+    "Rupee falls 3 paise to close at 94.92 against U.S. dollar",
+    "India’s agrivoltaic capacity is expected to be more than 5-gigawatts in next 3-4 years: MNRE Secretary",
+    "6.14% growth registered in freight loading in September 2026 over September 2025: Indian Railways"
+   ],
+   "answer": 1,
+   "explanation": "Rupee falls 3 paise to close at 94.92 against U.S. dollar — The rupee snapped its six-session winning streak and settled in negative territory amid continued pressure from foreign institutional investor outflows and elevated crude oil prices (The Hindu — Economy & Banking, Mon, 19 Oct 2026 16:38:00 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "economics-daily-2026-10-24-16",
+   "question": "Which current affairs development was reported regarding: \"The 30-share BSE Sensex tumbled 876.37 points, or 1.17%, to settle at 73,852.90, while during the day, it crashed 1,020.73 points, or 1.36%, to 73,708.54\"?",
+   "options": [
+    "Sensex tumbles 876 points; Nifty drops below 22,900 dragged by private banks",
+    "India does not grow at anybody’s cost; it grows with and for the world: PM Modi",
+    "Net FDI at $3.3 billion in September 2026, positive for third consecutive month",
+    "Government to modify labour survey to capture gig economy, unpaid household workers"
+   ],
+   "answer": 0,
+   "explanation": "Sensex tumbles 876 points; Nifty drops below 22,900 dragged by private banks — The 30-share BSE Sensex tumbled 876.37 points, or 1.17%, to settle at 73,852.90, while during the day, it crashed 1,020.73 points, or 1.36%, to 73,708.54 (The Hindu — Economy & Banking, Mon, 19 Oct 2026 16:30:33 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "economics-daily-2026-10-24-17",
+   "question": "Which current affairs development was reported regarding: \"Operating profit grows 46.6% year-on-year; gross advances rise 16.4% and gross NPAs decline to 1.61%\"?",
+   "options": [
+    "Government to modify labour survey to capture gig economy, unpaid household workers",
+    "Finances for disabled",
+    "Indian Bank net profit rises 14.7% to ₹3,462 crore in Q2",
+    "Will keenly hear views on LTCG and STT matters, Finance Minister Sitharaman says"
+   ],
+   "answer": 2,
+   "explanation": "Indian Bank net profit rises 14.7% to ₹3,462 crore in Q2 — Operating profit grows 46.6% year-on-year; gross advances rise 16.4% and gross NPAs decline to 1.61% (The Hindu — Economy & Banking, Mon, 19 Oct 2026 05:47:47 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "economics-daily-2026-10-24-18",
+   "question": "Which current affairs development was reported regarding: \"Disability introduces a permanent, elevated baseline of living costs such as home retrofitting and full-time care-giving support\"?",
+   "options": [
+    "Finances for disabled",
+    "India’s exports jump 23% in September; trade deficit narrows to $30.21 billion",
+    "Net FDI at $3.3 billion in September 2026, positive for third consecutive month",
+    "SEBI’s SME IPO reforms offer a financing choice as rates rise"
+   ],
+   "answer": 0,
+   "explanation": "Finances for disabled — Disability introduces a permanent, elevated baseline of living costs such as home retrofitting and full-time care-giving support (The Hindu — Economy & Banking, Mon, 19 Oct 2026 05:13:52 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "economics-daily-2026-10-24-19",
+   "question": "Which current affairs development was reported regarding: \"The issuer must ensure sufficient balance when the cheque is presented and avoid issuing signed blank cheques\"?",
+   "options": [
+    "Rupee falls 3 paise to close at 94.92 against U.S. dollar",
+    "Food, fuel and precious metals drive September retail inflation to 23-month high of 5.5%",
+    "Oil hits near six-month high as Houthi attacks rattle Saudi Arabia",
+    "What if a cheque bounces?"
+   ],
+   "answer": 3,
+   "explanation": "What if a cheque bounces? — The issuer must ensure sufficient balance when the cheque is presented and avoid issuing signed blank cheques (The Hindu — Economy & Banking, Mon, 19 Oct 2026 05:11:16 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "economics-daily-2026-10-24-20",
+   "question": "Which current affairs development was reported regarding: \"Cashless claim settlement promises a simpler way to handle hospitalisation insurance claims. But does it also promise freedom from hospital bills? Not quite.\"?",
+   "options": [
+    "India does not grow at anybody’s cost; it grows with and for the world: PM Modi",
+    "Ethanol tender sparks feedstock concerns as rice gains ground over maize",
+    "Rupee rises 19 paise to close at 95.17 against U.S. dollar",
+    "Your claim may be cashless, but not costless"
+   ],
+   "answer": 3,
+   "explanation": "Your claim may be cashless, but not costless — Cashless claim settlement promises a simpler way to handle hospitalisation insurance claims. But does it also promise freedom from hospital bills? Not quite. (The Hindu — Economy & Banking, Mon, 19 Oct 2026 05:11:00 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "economics-daily-2026-10-24-21",
+   "question": "Which current affairs development was reported regarding: \"India’s 60-plus population is projected to touch 347 million by 2050, underscoring the need for a robust caregiving ecosystem; a formal training programme, building on existing small-scale initiatives, could promote...\"?",
+   "options": [
+    "Oil hits near six-month high as Houthi attacks rattle Saudi Arabia",
+    "SBI’s cyber defences: What the bank had in place",
+    "Why does India need a trained workforce for elderly care?",
+    "Economics beyond the individual"
+   ],
+   "answer": 2,
+   "explanation": "Why does India need a trained workforce for elderly care? — India’s 60-plus population is projected to touch 347 million by 2050, underscoring the need for a robust caregiving ecosystem; a formal training programme, building on existing small-scale initiatives, could promote... (The Hindu — Economy & Banking, Sun, 18 Oct 2026 22:23:25 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "economics-daily-2026-10-24-22",
+   "question": "Which current affairs development was reported regarding: \"Corporate investment as a share of GDP in India has declined sharply since demonetisation, with the fall persisting despite tax cuts and a low-interest-rate regime; smaller firms face higher interest costs, while...\"?",
+   "options": [
+    "OPEC cuts India’s 2026 oil demand growth forecast to 40,000 barrels per day",
+    "India’s agrivoltaic capacity is expected to be more than 5-gigawatts in next 3-4 years: MNRE Secretary",
+    "What drives corporate investment?",
+    "The reality behind falling net FDI"
+   ],
+   "answer": 2,
+   "explanation": "What drives corporate investment? — Corporate investment as a share of GDP in India has declined sharply since demonetisation, with the fall persisting despite tax cuts and a low-interest-rate regime; smaller firms face higher interest costs, while... (The Hindu — Economy & Banking, Sun, 18 Oct 2026 21:48:38 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "economics-daily-2026-10-24-23",
+   "question": "Which current affairs development was reported regarding: \"India’s Phillips curve is found to be flat, while households’ inflation expectations remain consistently higher than the RBI’s projections; this suggests that inflation targeting can lower output and employment...\"?",
+   "options": [
+    "Does ‘inflation targeting’ work in India?",
+    "Net FDI at $3.3 billion in September 2026, positive for third consecutive month",
+    "Oil prices extend rally to near six-month high amid Houthi attacks on Saudi Arabia",
+    "ADNOC open to further long-term LPG deals with India, sees India among most important energy markets: Acting CEO, Downstream"
+   ],
+   "answer": 0,
+   "explanation": "Does ‘inflation targeting’ work in India? — India’s Phillips curve is found to be flat, while households’ inflation expectations remain consistently higher than the RBI’s projections; this suggests that inflation targeting can lower output and employment... (The Hindu — Economy & Banking, Sun, 18 Oct 2026 21:48:26 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "economics-daily-2026-10-24-24",
+   "question": "Which current affairs development was reported regarding: \"The E20 blend’s promised savings were offset by lower mileage, with consumers spending an estimated ₹88,234 cr. extra over the last three years; its benefits for emissions and forex savings are uncertain, as higher...\"?",
+   "options": [
+    "ADNOC open to further long-term LPG deals with India, sees India among most important energy markets: Acting CEO, Downstream",
+    "SEBI’s SME IPO reforms offer a financing choice as rates rise",
+    "Govt. to roll out National Electricity Data Sharing framework in October: Power Secretary",
+    "What lies beyond India’s E20 push"
+   ],
+   "answer": 3,
+   "explanation": "What lies beyond India’s E20 push — The E20 blend’s promised savings were offset by lower mileage, with consumers spending an estimated ₹88,234 cr. extra over the last three years; its benefits for emissions and forex savings are uncertain, as higher... (The Hindu — Economy & Banking, Sun, 18 Oct 2026 21:48:14 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "economics-daily-2026-10-24-25",
+   "question": "Which current affairs development was reported regarding: \"India’s trade surplus with the U.S. is critical as it offsets a structural trade deficit with China, but a heavy U.S. tariff and the potential impact of AI on exports could put this surplus at risk and intensify...\"?",
+   "options": [
+    "OPEC cuts India’s 2026 oil demand growth forecast to 40,000 barrels per day",
+    "Oil hits near six-month high as Houthi attacks rattle Saudi Arabia",
+    "India’s trade caught in the middle",
+    "Government to modify labour survey to capture gig economy, unpaid household workers"
+   ],
+   "answer": 2,
+   "explanation": "India’s trade caught in the middle — India’s trade surplus with the U.S. is critical as it offsets a structural trade deficit with China, but a heavy U.S. tariff and the potential impact of AI on exports could put this surplus at risk and intensify... (The Hindu — Economy & Banking, Sun, 18 Oct 2026 21:47:59 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "economics-daily-2026-10-24-26",
+   "question": "Which current affairs development was reported regarding: \"Net spend on oil and gas imports increased about 40% to $13.4 billion.\"?",
+   "options": [
+    "OPEC cuts India’s 2026 oil demand growth forecast to 40,000 barrels per day",
+    "Economics beyond the individual",
+    "India’s crude imports rise 7% in September, bill surges 47%",
+    "Your claim may be cashless, but not costless"
+   ],
+   "answer": 2,
+   "explanation": "India’s crude imports rise 7% in September, bill surges 47% — Net spend on oil and gas imports increased about 40% to $13.4 billion. (The Hindu — Economy & Banking, Sun, 18 Oct 2026 11:52:16 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "economics-daily-2026-10-24-27",
+   "question": "Which current affairs development was reported regarding: \"The draft standards propose on-road emissions testing and new checks on pollution from brakes and tyres, with cars first in line for a phased rollout from April 2029\"?",
+   "options": [
+    "What changes under India’s proposed BS-VII vehicle emission rules | Explained",
+    "Moves by the North of England to unlock India trade",
+    "Sensex tumbles 876 points; Nifty drops below 22,900 dragged by private banks",
+    "Data suggests broad-based increase in food prices: RBI Bulletin"
+   ],
+   "answer": 0,
+   "explanation": "What changes under India’s proposed BS-VII vehicle emission rules | Explained — The draft standards propose on-road emissions testing and new checks on pollution from brakes and tyres, with cars first in line for a phased rollout from April 2029 (The Hindu — Economy & Banking, Sun, 18 Oct 2026 07:28:59 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "economics-daily-2026-10-24-28",
+   "question": "Which current affairs development was reported regarding: \"The rural unemployment rate remains “broadly stable” at 4.2% against 4.1% in August, while urban rate marginally rises from 6.8% in August to 6.9% in this month\"?",
+   "options": [
+    "Unemployment rate in country stands at 5% in September, stable compared to August: NSO",
+    "India does not grow at anybody’s cost; it grows with and for the world: PM Modi",
+    "Oil prices extend rally to near six-month high amid Houthi attacks on Saudi Arabia",
+    "Anticipation over upcoming EU FTA more than doubles Ferrari orders in India"
+   ],
+   "answer": 0,
+   "explanation": "Unemployment rate in country stands at 5% in September, stable compared to August: NSO — The rural unemployment rate remains “broadly stable” at 4.2% against 4.1% in August, while urban rate marginally rises from 6.8% in August to 6.9% in this month (The Hindu — Economy & Banking, Sun, 18 Oct 2026 05:08:32 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "economics-daily-2026-10-24-29",
+   "question": "Which current affairs development was reported regarding: \"High crude oil prices amid the West Asia crisis have helped India earn better realisations from petroleum product exports\"?",
+   "options": [
+    "India’s exports jump 23% in September; trade deficit narrows to $30.21 billion",
+    "Explained | RBI’s worries about pressure on rupee and measures to curb volatility in forex market",
+    "Govt. to roll out National Electricity Data Sharing framework in October: Power Secretary",
+    "Rupee rises 19 paise to close at 95.17 against U.S. dollar"
+   ],
+   "answer": 0,
+   "explanation": "India’s exports jump 23% in September; trade deficit narrows to $30.21 billion — High crude oil prices amid the West Asia crisis have helped India earn better realisations from petroleum product exports (The Hindu — Economy & Banking, Sun, 18 Oct 2026 02:22:18 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "economics-daily-2026-10-24-30",
+   "question": "Which current affairs development was reported regarding: \"Commerce Minister Piyush Goyal said that the deal was going through its final contours and the legal drafting. His comments come soon after Ministers on both sides indicated that talks were hitting blocks and that...\"?",
+   "options": [
+    "India-U.S. deal ‘finalised’, implementation after clarity on India’s competitive advantage, says Goyal",
+    "Why does India need a trained workforce for elderly care?",
+    "The reality behind falling net FDI",
+    "Food and fuel push wholesale inflation to series-high of 11.4% in September 2026"
+   ],
+   "answer": 0,
+   "explanation": "India-U.S. deal ‘finalised’, implementation after clarity on India’s competitive advantage, says Goyal — Commerce Minister Piyush Goyal said that the deal was going through its final contours and the legal drafting. His comments come soon after Ministers on both sides indicated that talks were hitting blocks and that... (The Hindu — Economy & Banking, Sun, 18 Oct 2026 01:53:25 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "economics-daily-2026-10-24-31",
+   "question": "Which current affairs development was reported regarding: \"Direct tax collection up 13.21% to ₹13.38 lakh crore till Oct 14, driven by strong corporate tax growth and higher STT refunds\"?",
+   "options": [
+    "Oil prices extend rally to near six-month high amid Houthi attacks on Saudi Arabia",
+    "Data breach: SBI admits exposure of its customer data on the Dark Web",
+    "Net direct tax collection grows 13% to ₹13.38 lakh crore till October 14",
+    "Anticipation over upcoming EU FTA more than doubles Ferrari orders in India"
+   ],
+   "answer": 2,
+   "explanation": "Net direct tax collection grows 13% to ₹13.38 lakh crore till October 14 — Direct tax collection up 13.21% to ₹13.38 lakh crore till Oct 14, driven by strong corporate tax growth and higher STT refunds (The Hindu — Economy & Banking, Sun, 18 Oct 2026 01:39:48 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "economics-daily-2026-10-24-32",
+   "question": "Which current affairs development was reported regarding: \"Power Secretary Pankaj Agarwal added that a data governance committee would also be set up at the national level which would be headed by Chairperson of the Central Electricity Authority.\"?",
+   "options": [
+    "Economics beyond the individual",
+    "SEBI’s SME IPO reforms offer a financing choice as rates rise",
+    "Govt. to roll out National Electricity Data Sharing framework in October: Power Secretary",
+    "Anticipation over upcoming EU FTA more than doubles Ferrari orders in India"
+   ],
+   "answer": 2,
+   "explanation": "Govt. to roll out National Electricity Data Sharing framework in October: Power Secretary — Power Secretary Pankaj Agarwal added that a data governance committee would also be set up at the national level which would be headed by Chairperson of the Central Electricity Authority. (The Hindu — Economy & Banking, Sun, 18 Oct 2026 00:18:08 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "economics-daily-2026-10-24-33",
+   "question": "Which current affairs development was reported regarding: \"orex traders said the Indian rupee rose to a one-month high on the RBI's measures to curb speculative bets\"?",
+   "options": [
+    "Food, fuel and precious metals drive September retail inflation to 23-month high of 5.5%",
+    "NTPC eyes green hydrogen exports, targets Asian and European markets",
+    "IndusInd Bank posts profit of ₹1,242 crores in Q2; asset quality improvement and interest income drives growth",
+    "Rupee rises 19 paise to close at 95.17 against U.S. dollar"
+   ],
+   "answer": 3,
+   "explanation": "Rupee rises 19 paise to close at 95.17 against U.S. dollar — orex traders said the Indian rupee rose to a one-month high on the RBI's measures to curb speculative bets (The Hindu — Economy & Banking, Sat, 17 Oct 2026 23:56:19 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "economics-daily-2026-10-24-34",
+   "question": "Which current affairs development was reported regarding: \"The 30-share BSE Sensex declined 251.89 points, or 0.34% to settle at 72,781.89. During the day, it hit a high of 73,195.26 and a low of 72,578.75\"?",
+   "options": [
+    "Food and fuel push wholesale inflation to series-high of 11.4% in September 2026",
+    "The broken promise of the right to work",
+    "IndusInd Bank posts profit of ₹1,242 crores in Q2; asset quality improvement and interest income drives growth",
+    "Stock markets close lower amid elevated crude oil, rising inflation"
+   ],
+   "answer": 3,
+   "explanation": "Stock markets close lower amid elevated crude oil, rising inflation — The 30-share BSE Sensex declined 251.89 points, or 0.34% to settle at 72,781.89. During the day, it hit a high of 73,195.26 and a low of 72,578.75 (The Hindu — Economy & Banking, Sat, 17 Oct 2026 23:55:33 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "economics-daily-2026-10-24-35",
+   "question": "Which current affairs development was reported regarding: \"This is the highest inflation as per the new series of the WPI, which has data since April 2024. According to the old series, September’s inflation is the highest since August 2022\"?",
+   "options": [
+    "IMF upgrades 2026 growth forecast but warns of ‘split’ outlook",
+    "Market's early rally fizzles out as banking, financial stocks weigh on benchmarks",
+    "Food and fuel push wholesale inflation to series-high of 11.4% in September 2026",
+    "What are the deal contours of India-New Zealand FTA?"
+   ],
+   "answer": 2,
+   "explanation": "Food and fuel push wholesale inflation to series-high of 11.4% in September 2026 — This is the highest inflation as per the new series of the WPI, which has data since April 2024. According to the old series, September’s inflation is the highest since August 2022 (The Hindu — Economy & Banking, Sat, 17 Oct 2026 23:53:01 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "economics-daily-2026-10-24-36",
+   "question": "Which current affairs development was reported regarding: \"Gasoline and diesel to drive consumption amid strong vehicle sales, manufacturing and agricultural activity.\"?",
+   "options": [
+    "Data suggests broad-based increase in food prices: RBI Bulletin",
+    "Net direct tax collection grows 13% to ₹13.38 lakh crore till October 14",
+    "OPEC cuts India’s 2026 oil demand growth forecast to 40,000 barrels per day",
+    "Explained | RBI’s worries about pressure on rupee and measures to curb volatility in forex market"
+   ],
+   "answer": 2,
+   "explanation": "OPEC cuts India’s 2026 oil demand growth forecast to 40,000 barrels per day — Gasoline and diesel to drive consumption amid strong vehicle sales, manufacturing and agricultural activity. (The Hindu — Economy & Banking, Sat, 17 Oct 2026 22:11:57 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "economics-daily-2026-10-24-37",
+   "question": "Which current affairs development was reported regarding: \"CMD Gurdeep Singh added that green hydrogen could become a viable business but the priority is for it move from a pilot to commercial scale.\"?",
+   "options": [
+    "Coal stocks at thermal plants hold above 18 MT as supply deficit narrows",
+    "Oil prices extend rally to near six-month high amid Houthi attacks on Saudi Arabia",
+    "NTPC eyes green hydrogen exports, targets Asian and European markets",
+    "Rupee rises 19 paise to close at 95.17 against U.S. dollar"
+   ],
+   "answer": 2,
+   "explanation": "NTPC eyes green hydrogen exports, targets Asian and European markets — CMD Gurdeep Singh added that green hydrogen could become a viable business but the priority is for it move from a pilot to commercial scale. (The Hindu — Economy & Banking, Sat, 17 Oct 2026 22:09:09 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "economics-daily-2026-10-24-38",
+   "question": "Which current affairs development was reported regarding: \"The Finance Minister also said that the Reserve Bank of India (RBI) would continue to take action to prevent volatility in the rupee exchange rate\"?",
+   "options": [
+    "Will keenly hear views on LTCG and STT matters, Finance Minister Sitharaman says",
+    "Oil hits near six-month high as Houthi attacks rattle Saudi Arabia",
+    "SEBI’s SME IPO reforms offer a financing choice as rates rise",
+    "Explained | RBI’s worries about pressure on rupee and measures to curb volatility in forex market"
+   ],
+   "answer": 0,
+   "explanation": "Will keenly hear views on LTCG and STT matters, Finance Minister Sitharaman says — The Finance Minister also said that the Reserve Bank of India (RBI) would continue to take action to prevent volatility in the rupee exchange rate (The Hindu — Economy & Banking, Sat, 17 Oct 2026 21:34:31 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "economics-daily-2026-10-24-39",
+   "question": "Which current affairs development was reported regarding: \"\"Freight revenue during September 2026 increased by ₹1,266 crore over September 2025, registering a 9.3% growth,\" the Railway Board said\"?",
+   "options": [
+    "6.14% growth registered in freight loading in September 2026 over September 2025: Indian Railways",
+    "Robert E. Hall and Michael Woodford | Putting people in economics",
+    "The RBI and its growing fiscal role",
+    "Why managing fiscal is a tightrope for State governments"
+   ],
+   "answer": 0,
+   "explanation": "6.14% growth registered in freight loading in September 2026 over September 2025: Indian Railways — \"Freight revenue during September 2026 increased by ₹1,266 crore over September 2025, registering a 9.3% growth,\" the Railway Board said (The Hindu — Economy & Banking, Sat, 17 Oct 2026 21:25:17 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "economics-daily-2026-10-24-40",
+   "question": "Which current affairs development was reported regarding: \"The Prime Minister cited the country's 7.8% economic growth in the April-June quarter, foreign-exchange reserves exceeding $700 billion and reforms spanning taxation, insolvency and labour laws as evidence of its...\"?",
+   "options": [
+    "India does not grow at anybody’s cost; it grows with and for the world: PM Modi",
+    "Rupee falls 3 paise to close at 94.92 against U.S. dollar",
+    "India-U.S. deal ‘finalised’, implementation after clarity on India’s competitive advantage, says Goyal",
+    "Crude oil sourcing presently volatile; procuring more on landed basis: HPCL Chief"
+   ],
+   "answer": 0,
+   "explanation": "India does not grow at anybody’s cost; it grows with and for the world: PM Modi — The Prime Minister cited the country's 7.8% economic growth in the April-June quarter, foreign-exchange reserves exceeding $700 billion and reforms spanning taxation, insolvency and labour laws as evidence of its... (The Hindu — Economy & Banking, Sat, 17 Oct 2026 21:12:08 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "economics-daily-2026-10-24-41",
+   "question": "Which current affairs development was reported regarding: \"In its World Economic Outlook report, the Fund left its forecast for 2027 global growth unchanged at 3.4%\"?",
+   "options": [
+    "NTPC eyes green hydrogen exports, targets Asian and European markets",
+    "India-U.S. deal ‘finalised’, implementation after clarity on India’s competitive advantage, says Goyal",
+    "Net direct tax collection grows 13% to ₹13.38 lakh crore till October 14",
+    "IMF upgrades 2026 growth forecast but warns of ‘split’ outlook"
+   ],
+   "answer": 3,
+   "explanation": "IMF upgrades 2026 growth forecast but warns of ‘split’ outlook — In its World Economic Outlook report, the Fund left its forecast for 2027 global growth unchanged at 3.4% (The Hindu — Economy & Banking, Sat, 17 Oct 2026 20:43:56 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "economics-daily-2026-10-24-42",
+   "question": "Which current affairs development was reported regarding: \"ADNOC supplied more than 500,000 barrels of crude a day to India in 2025, “almost one in ten barrels of [India’s] crude imports”. The company is exploring opportunities with ISPRL to expand storage of crude oil, LNG...\"?",
+   "options": [
+    "ADNOC open to further long-term LPG deals with India, sees India among most important energy markets: Acting CEO, Downstream",
+    "What changes under India’s proposed BS-VII vehicle emission rules | Explained",
+    "Rupee strengthens for eighth consecutive day on IPO inflows; rise in crude prices cap gains",
+    "Economics beyond the individual"
+   ],
+   "answer": 0,
+   "explanation": "ADNOC open to further long-term LPG deals with India, sees India among most important energy markets: Acting CEO, Downstream — ADNOC supplied more than 500,000 barrels of crude a day to India in 2025, “almost one in ten barrels of [India’s] crude imports”. The company is exploring opportunities with ISPRL to expand storage of crude oil, LNG... (The Hindu — Economy & Banking, Sat, 17 Oct 2026 20:38:27 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "economics-daily-2026-10-24-43",
+   "question": "Which current affairs development was reported regarding: \"Inflation as measured by the Consumer Price Index (CPI) in September 2026 was the highest since October 2024. The rate in September also marked a substantial increase over the 4.8% rate seen in August 2026\"?",
+   "options": [
+    "OPEC cuts India’s 2026 oil demand growth forecast to 40,000 barrels per day",
+    "Food, fuel and precious metals drive September retail inflation to 23-month high of 5.5%",
+    "Does ‘inflation targeting’ work in India?",
+    "Ethanol tender sparks feedstock concerns as rice gains ground over maize"
+   ],
+   "answer": 1,
+   "explanation": "Food, fuel and precious metals drive September retail inflation to 23-month high of 5.5% — Inflation as measured by the Consumer Price Index (CPI) in September 2026 was the highest since October 2024. The rate in September also marked a substantial increase over the 4.8% rate seen in August 2026 (The Hindu — Economy & Banking, Sat, 17 Oct 2026 19:05:32 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "economics-daily-2026-10-24-44",
+   "question": "Which current affairs development was reported regarding: \"The RBI said these measures would strengthen market discipline and ensure appropriate risk management in the foreign exchange market, while maintaining an orderly and transparent market environment\"?",
+   "options": [
+    "The RBI and its growing fiscal role",
+    "Why managing fiscal is a tightrope for State governments",
+    "Explained | RBI’s worries about pressure on rupee and measures to curb volatility in forex market",
+    "Market's early rally fizzles out as banking, financial stocks weigh on benchmarks"
+   ],
+   "answer": 2,
+   "explanation": "Explained | RBI’s worries about pressure on rupee and measures to curb volatility in forex market — The RBI said these measures would strengthen market discipline and ensure appropriate risk management in the foreign exchange market, while maintaining an orderly and transparent market environment (The Hindu — Economy & Banking, Sat, 17 Oct 2026 18:29:33 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "economics-daily-2026-10-24-45",
+   "question": "Which current affairs development was reported regarding: \"The daily requirement of coal for domestic thermal power plants is less than 3 MT per day. They account for more than 60% of the power generated during peak hours.\"?",
+   "options": [
+    "2026 Economics Nobel Prize: Putting the humanity in macroeconomics",
+    "Coal stocks at thermal plants hold above 18 MT as supply deficit narrows",
+    "Govt. to roll out National Electricity Data Sharing framework in October: Power Secretary",
+    "Rupee falls 3 paise to close at 94.92 against U.S. dollar"
+   ],
+   "answer": 1,
+   "explanation": "Coal stocks at thermal plants hold above 18 MT as supply deficit narrows — The daily requirement of coal for domestic thermal power plants is less than 3 MT per day. They account for more than 60% of the power generated during peak hours. (The Hindu — Economy & Banking, Sat, 17 Oct 2026 18:21:19 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
   }
  ]
 };
