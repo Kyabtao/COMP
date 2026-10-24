@@ -1,5 +1,5 @@
 {
-  "totalQuestions": 33057,
+  "totalQuestions": 33157,
   "categoriesAt1000Plus": [
     "gk-misc",
     "general-knowledge",
@@ -29,7 +29,7 @@
     {
       "slug": "current-affairs",
       "name": "Current Affairs",
-      "count": 1007,
+      "count": 1043,
       "target": 1000
     },
     {
@@ -59,7 +59,7 @@
     {
       "slug": "general-science",
       "name": "General Science",
-      "count": 1005,
+      "count": 1054,
       "target": 1000
     },
     {
@@ -101,7 +101,7 @@
     {
       "slug": "economics",
       "name": "Economics & Banking",
-      "count": 285,
+      "count": 300,
       "target": 600
     },
     {
@@ -224,7 +224,7 @@
     {
       "name": "question ids are unique",
       "pass": true,
-      "detail": "33057 unique ids for 33057 questions"
+      "detail": "33157 unique ids for 33157 questions"
     },
     {
       "name": "class selection covers 1-12 and Graduation",
@@ -249,7 +249,7 @@
     {
       "name": "[spec] total questions reach 25,000",
       "pass": true,
-      "detail": "33057 questions built"
+      "detail": "33157 questions built"
     },
     {
       "name": "[spec] GK Misc reaches 17,000",

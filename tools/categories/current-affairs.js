@@ -13,7 +13,7 @@
   "railways"
  ],
  "blurb": "Recent schemes, missions, summits, awards and appointments.",
- "count": 1007,
+ "count": 1043,
  "questions": [
   {
    "id": "current-affairs-00001",
@@ -15126,6 +15126,582 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-23-01",
+   "question": "Which current affairs development was reported regarding: \"The Chief Minister said political and ideological differences would not come in the way of investment and development and the government had a clear approach and strong determination to advance economic growth\"?",
+   "options": [
+    "Kin of Dalit youth in Keralam’s Kottayam accuses police of custodial torture",
+    "Forum urges CM to frame rules for Malayalam Language Act",
+    "Telangana to unveil new Aerospace and Defence Policy 2.0 soon, says Revanth",
+    "Venugopal writes to Shah, Adhikari over alleged attack on Christian families in Bengal; demand action"
+   ],
+   "answer": 2,
+   "explanation": "Telangana to unveil new Aerospace and Defence Policy 2.0 soon, says Revanth — The Chief Minister said political and ideological differences would not come in the way of investment and development and the government had a clear approach and strong determination to advance economic growth (The Hindu — National & Current Affairs, Sat, 24 Oct 2026 22:40:20 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-23-02",
+   "question": "Which current affairs development was reported regarding: \"Iran Air not allowed to fly medicines directly from India to Tehran, due to fear of U.S. sanctions; India says medicines can be taken through a third country; Tehran says humanitarian aid is exempted from sanctions\"?",
+   "options": [
+    "BRS MLAs demand restart of Kannepalli pump house to meet Hyderabad’s drinking water needs",
+    "Iran Speaker to skip BRICS meet, as Iran seeks bilateral air route for ‘humanitarian aid’ from India",
+    "Naidu meets Amit Shah, Ashwini Vaishnaw in New Delhi",
+    "Road Ministry seeks forensic audit of its portals after vehicle data leak"
+   ],
+   "answer": 1,
+   "explanation": "Iran Speaker to skip BRICS meet, as Iran seeks bilateral air route for ‘humanitarian aid’ from India — Iran Air not allowed to fly medicines directly from India to Tehran, due to fear of U.S. sanctions; India says medicines can be taken through a third country; Tehran says humanitarian aid is exempted from sanctions (The Hindu — National & Current Affairs, Sat, 24 Oct 2026 22:39:33 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-23-03",
+   "question": "Which current affairs development was reported regarding: \"If the MHA does not return to the May 22 agenda, we will be forced to hit the streets, agitate and prepare to go to jail for our legitimate demands within the Constitution, says co-chairperson Asgar Karbalai\"?",
+   "options": [
+    "Cancellation of Vajra Mushti Kalaga: Pramoda Devi Wadiyar to issue a statement",
+    "Commuters wait through multiple signal cycles at junctions along Old Madras Road",
+    "Aroma Chundan clinches title in Thazhathangady Boat Race",
+    "MHA employing tools of fear, intimidation and threats in Ladakh: Kargil Democratic Alliance"
+   ],
+   "answer": 3,
+   "explanation": "MHA employing tools of fear, intimidation and threats in Ladakh: Kargil Democratic Alliance — If the MHA does not return to the May 22 agenda, we will be forced to hit the streets, agitate and prepare to go to jail for our legitimate demands within the Constitution, says co-chairperson Asgar Karbalai (The Hindu — National & Current Affairs, Sat, 24 Oct 2026 22:39:04 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-23-04",
+   "question": "Which current affairs development was reported regarding: \"Semi-arid areas are expanding in north-west India as oceanic cycle ‘Victoria Mode’ affects flow of moisture; this can dent food supply and cause displacement of people, say scientists from IMD and Indian Institute of...\"?",
+   "options": [
+    "Yaduveer urges government to frame official protocol for Dasara rituals",
+    "A distant Pacific phenomenon may be drying India’s north, says study",
+    "Suspension of ADGP Ajithkumar extended by 120 days",
+    "Telangana to unveil new Aerospace and Defence Policy 2.0 soon, says Revanth"
+   ],
+   "answer": 1,
+   "explanation": "A distant Pacific phenomenon may be drying India’s north, says study — Semi-arid areas are expanding in north-west India as oceanic cycle ‘Victoria Mode’ affects flow of moisture; this can dent food supply and cause displacement of people, say scientists from IMD and Indian Institute of... (The Hindu — National & Current Affairs, Sat, 24 Oct 2026 22:36:06 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-23-05",
+   "question": "Which current affairs development was reported regarding: \"Allegations against the Erattupetta police, who are accused of assaulting the youth during questioning in connection with a suspected cable theft case\"?",
+   "options": [
+    "Kin of Dalit youth in Keralam’s Kottayam accuses police of custodial torture",
+    "‘If you are alive, you must show it’: Hyderabad’s anti-SIR protest brings together people of all age groups",
+    "BRS MLAs demand restart of Kannepalli pump house to meet Hyderabad’s drinking water needs",
+    "INDIA bloc to hold ‘public impeachment proceeding’ of CEC Gyanesh Kumar, says K.C. Venugopal"
+   ],
+   "answer": 0,
+   "explanation": "Kin of Dalit youth in Keralam’s Kottayam accuses police of custodial torture — Allegations against the Erattupetta police, who are accused of assaulting the youth during questioning in connection with a suspected cable theft case (The Hindu — National & Current Affairs, Sat, 24 Oct 2026 22:31:36 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-23-06",
+   "question": "Which current affairs development was reported regarding: \"‘After this Public Impeachment, we will hold a Dilli Chalo March against Vote Chori culminating at Ramleela Maidan on November 1st, where at least a million concerned citizens will participate,’ said K.C. Venugopal\"?",
+   "options": [
+    "INDIA bloc to hold ‘public impeachment proceeding’ of CEC Gyanesh Kumar, says K.C. Venugopal",
+    "ISRO will not be privatised, says chairperson Narayanan",
+    "Chamundeshwari Rathotsava held atop Chamundi Hills",
+    "Healthy life, clean surroundings every citizen’s right: NCDRC member Indrajit Singh"
+   ],
+   "answer": 0,
+   "explanation": "INDIA bloc to hold ‘public impeachment proceeding’ of CEC Gyanesh Kumar, says K.C. Venugopal — ‘After this Public Impeachment, we will hold a Dilli Chalo March against Vote Chori culminating at Ramleela Maidan on November 1st, where at least a million concerned citizens will participate,’ said K.C. Venugopal (The Hindu — National & Current Affairs, Sat, 24 Oct 2026 22:30:40 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-23-07",
+   "question": "Which current affairs development was reported regarding: \"Reviews security preparedness and policing measures; pushes for stronger intelligence gathering and close monitoring of emerging security challenges\"?",
+   "options": [
+    "Kashmir IGP calls for action against overground workers, hybrid terrorists",
+    "Insurance-driven health care threatens public health system, warns KSSP seminar",
+    "Naidu meets Amit Shah, Ashwini Vaishnaw in New Delhi",
+    "Venugopal writes to Shah, Adhikari over alleged attack on Christian families in Bengal; demand action"
+   ],
+   "answer": 0,
+   "explanation": "Kashmir IGP calls for action against overground workers, hybrid terrorists — Reviews security preparedness and policing measures; pushes for stronger intelligence gathering and close monitoring of emerging security challenges (The Hindu — National & Current Affairs, Sat, 24 Oct 2026 22:30:37 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-23-08",
+   "question": "Which current affairs development was reported regarding: \"In a representation to the Department of Pharmaceuticals, the group urges the government to replace Medanta chairman with a member free of potential conflicts of interest.\"?",
+   "options": [
+    "Local body polls: TDP-led alliance seeks SIT probe into alleged YSRCP violence",
+    "Man brandishes revolver at bouncers, customers after argument at Hyderabad bar",
+    "Advocacy group questions Medanta MD Naresh Trehan’s inclusion in panel on pharma marketing practices",
+    "Road Ministry seeks forensic audit of its portals after vehicle data leak"
+   ],
+   "answer": 2,
+   "explanation": "Advocacy group questions Medanta MD Naresh Trehan’s inclusion in panel on pharma marketing practices — In a representation to the Department of Pharmaceuticals, the group urges the government to replace Medanta chairman with a member free of potential conflicts of interest. (The Hindu — National & Current Affairs, Sat, 24 Oct 2026 22:29:05 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-23-09",
+   "question": "Which current affairs development was reported regarding: \"Absence of officials despite being summoned amounts to breach of privilege, Congress leader and panel chair Venugopal tells Speaker seeking appropriate action\"?",
+   "options": [
+    "Congress leader seeks action against Chief Secretaries of six States for skipping PAC hearing",
+    "Yaduveer urges government to frame official protocol for Dasara rituals",
+    "Healthy life, clean surroundings every citizen’s right: NCDRC member Indrajit Singh",
+    "AISA president Neha Bora refuses to sign peace bond, next hearing on October 29"
+   ],
+   "answer": 0,
+   "explanation": "Congress leader seeks action against Chief Secretaries of six States for skipping PAC hearing — Absence of officials despite being summoned amounts to breach of privilege, Congress leader and panel chair Venugopal tells Speaker seeking appropriate action (The Hindu — National & Current Affairs, Sat, 24 Oct 2026 22:19:52 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-23-10",
+   "question": "Which current affairs development was reported regarding: \"Bus driver killed, conductor injured as mudslide and uprooted trees hit Tamil Nadu State Transport Corporation bus in Nilgiris\"?",
+   "options": [
+    "Cancellation of Vajra Mushti Kalaga: Pramoda Devi Wadiyar to issue a statement",
+    "IMD issues red alert for three districts in Keralam on October 25",
+    "VISWAS to hold children’s parliament on drug abuse",
+    "IMD warns of heavy rainfall over several T.N. districts; red alert for five districts in Keralam | Live"
+   ],
+   "answer": 3,
+   "explanation": "IMD warns of heavy rainfall over several T.N. districts; red alert for five districts in Keralam | Live — Bus driver killed, conductor injured as mudslide and uprooted trees hit Tamil Nadu State Transport Corporation bus in Nilgiris (The Hindu — National & Current Affairs, Sat, 24 Oct 2026 22:13:29 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-23-11",
+   "question": "Which current affairs development was reported regarding: \"600 master trainers to be trained in first phase; programme aims to equip 60,000 civil defence volunteers across 12 States and Union Territories with emergency response skills\"?",
+   "options": [
+    "Appeals open for rejected MPTC, ZPTC nominations in Nagari on October 25",
+    "Indian Army to train civil defence personnel in 12 States, UTs",
+    "Sabnam Gafoor endowment lecture in Kochi on October 25",
+    "Road Ministry seeks forensic audit of its portals after vehicle data leak"
+   ],
+   "answer": 1,
+   "explanation": "Indian Army to train civil defence personnel in 12 States, UTs — 600 master trainers to be trained in first phase; programme aims to equip 60,000 civil defence volunteers across 12 States and Union Territories with emergency response skills (The Hindu — National & Current Affairs, Sat, 24 Oct 2026 22:08:44 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-23-12",
+   "question": "Which current affairs development was reported regarding: \"Farmer IDs are expected to enable ‘transparent, efficient and timely’ access for farmers to government schemes, bank credit, crop insurance, and disaster relief\"?",
+   "options": [
+    "Karnataka government plans discounted fares for Golden Chariot tourist train during off-season",
+    "11 crore farmers get unique digital ID",
+    "R. Ashok seeks probe into alleged irregularities in waste management tenders",
+    "Chamundeshwari Rathotsava held atop Chamundi Hills"
+   ],
+   "answer": 1,
+   "explanation": "11 crore farmers get unique digital ID — Farmer IDs are expected to enable ‘transparent, efficient and timely’ access for farmers to government schemes, bank credit, crop insurance, and disaster relief (The Hindu — National & Current Affairs, Sat, 24 Oct 2026 22:03:33 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-23-13",
+   "question": "Which current affairs development was reported regarding: \"Contributions from private companies should not be misinterpreted as privatisation of the space agency, says the chairperson\"?",
+   "options": [
+    "Venugopal writes to Shah, Adhikari over alleged attack on Christian families in Bengal; demand action",
+    "Nine arrested after land dispute turns violent in Shabad",
+    "Man brandishes revolver at bouncers, customers after argument at Hyderabad bar",
+    "ISRO will not be privatised, says chairperson Narayanan"
+   ],
+   "answer": 3,
+   "explanation": "ISRO will not be privatised, says chairperson Narayanan — Contributions from private companies should not be misinterpreted as privatisation of the space agency, says the chairperson (The Hindu — National & Current Affairs, Sat, 24 Oct 2026 22:00:18 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-23-14",
+   "question": "Which current affairs development was reported regarding: \"Guidelines favour patient education, physical activity and exercise, with imaging reserved for cases where serious disease is suspected, say doctors\"?",
+   "options": [
+    "Insurance-driven health care threatens public health system, warns KSSP seminar",
+    "Back pain: Lancet review calls for clinical assessment over routine scans",
+    "IMD issues red alert for three districts in Keralam on October 25",
+    "IMD warns of heavy rainfall over several T.N. districts; red alert for five districts in Keralam | Live"
+   ],
+   "answer": 1,
+   "explanation": "Back pain: Lancet review calls for clinical assessment over routine scans — Guidelines favour patient education, physical activity and exercise, with imaging reserved for cases where serious disease is suspected, say doctors (The Hindu — National & Current Affairs, Sat, 24 Oct 2026 21:56:15 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-23-15",
+   "question": "Which current affairs development was reported regarding: \"The length of traffic queues forces commuters to wait for at least two signal cycles to cross a signalised junction on Old Madras Road\"?",
+   "options": [
+    "Police showcase weapons, security measures at open house for students",
+    "Commuters wait through multiple signal cycles at junctions along Old Madras Road",
+    "AISA president Neha Bora refuses to sign peace bond, next hearing on October 29",
+    "Aroma Chundan clinches title in Thazhathangady Boat Race"
+   ],
+   "answer": 1,
+   "explanation": "Commuters wait through multiple signal cycles at junctions along Old Madras Road — The length of traffic queues forces commuters to wait for at least two signal cycles to cross a signalised junction on Old Madras Road (The Hindu — National & Current Affairs, Sat, 24 Oct 2026 21:49:23 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-23-16",
+   "question": "Which current affairs development was reported regarding: \"The weather system over Bay of Bengal is likely to intensify into a deep depression on Sunday and into a cyclonic storm by Monday morning and is expected to make landfall on October 28\"?",
+   "options": [
+    "Healthy life, clean surroundings every citizen’s right: NCDRC member Indrajit Singh",
+    "Sabnam Gafoor endowment lecture in Kochi on October 25",
+    "When a future ‘Gaganyaatri’ retraced Ryland Grace’s path to Tau Ceti",
+    "Schools to be closed, response team on alert as Odisha steps up cyclone preparedness"
+   ],
+   "answer": 3,
+   "explanation": "Schools to be closed, response team on alert as Odisha steps up cyclone preparedness — The weather system over Bay of Bengal is likely to intensify into a deep depression on Sunday and into a cyclonic storm by Monday morning and is expected to make landfall on October 28 (The Hindu — National & Current Affairs, Sat, 24 Oct 2026 21:37:32 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-23-17",
+   "question": "Which current affairs development was reported regarding: \"Addressing a press conference, Mr. Ashok said that one of the ₹133-crore tenders floated by the GBA had been awarded to a private company despite the firm failing to meet the eligibility criteria.\"?",
+   "options": [
+    "Venugopal writes to Shah, Adhikari over alleged attack on Christian families in Bengal; demand action",
+    "R. Ashok seeks probe into alleged irregularities in waste management tenders",
+    "11 crore farmers get unique digital ID",
+    "Chamundeshwari Rathotsava held atop Chamundi Hills"
+   ],
+   "answer": 1,
+   "explanation": "R. Ashok seeks probe into alleged irregularities in waste management tenders — Addressing a press conference, Mr. Ashok said that one of the ₹133-crore tenders floated by the GBA had been awarded to a private company despite the firm failing to meet the eligibility criteria. (The Hindu — National & Current Affairs, Sat, 24 Oct 2026 21:32:31 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-23-18",
+   "question": "Which current affairs development was reported regarding: \"Dr. Mohana Rao Patibandla presents research on complex craniovertebral junction surgery\"?",
+   "options": [
+    "Back pain: Lancet review calls for clinical assessment over routine scans",
+    "Guntur doctor presents research at neurosurgeons’ meet in London",
+    "Kerala University VC says no move to ban student politics, stresses need to curb violence",
+    "INDIA bloc to hold ‘public impeachment proceeding’ of CEC Gyanesh Kumar, says K.C. Venugopal"
+   ],
+   "answer": 1,
+   "explanation": "Guntur doctor presents research at neurosurgeons’ meet in London — Dr. Mohana Rao Patibandla presents research on complex craniovertebral junction surgery (The Hindu — National & Current Affairs, Sat, 24 Oct 2026 21:27:29 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-23-19",
+   "question": "Which current affairs development was reported regarding: \"District Collector P. Raja Babu announced that the ZPTC/MPTC nomination process was completed in an extremely peaceful and transparent atmosphere\"?",
+   "options": [
+    "Parishad nominations filed peacefully in Nellore, Prakasam, Markapuram districts",
+    "Healthy life, clean surroundings every citizen’s right: NCDRC member Indrajit Singh",
+    "Konaseema Centre for Migration to launch campaign against fake agents, agencies",
+    "IMD warns of heavy rainfall over several T.N. districts; red alert for five districts in Keralam | Live"
+   ],
+   "answer": 0,
+   "explanation": "Parishad nominations filed peacefully in Nellore, Prakasam, Markapuram districts — District Collector P. Raja Babu announced that the ZPTC/MPTC nomination process was completed in an extremely peaceful and transparent atmosphere (The Hindu — National & Current Affairs, Sat, 24 Oct 2026 21:27:12 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-23-20",
+   "question": "Which current affairs development was reported regarding: \"Public Accounts Committee chairman says the incident in Patlapur village, where three Christian families were allegedly assaulted, humiliated and coerced to renounce their faith, is deeply disturbing\"?",
+   "options": [
+    "GTA Detroit hosts vibrant Bathukamma and Dasara celebrations in Michigan",
+    "Venugopal writes to Shah, Adhikari over alleged attack on Christian families in Bengal; demand action",
+    "Commuters wait through multiple signal cycles at junctions along Old Madras Road",
+    "Forum urges CM to frame rules for Malayalam Language Act"
+   ],
+   "answer": 1,
+   "explanation": "Venugopal writes to Shah, Adhikari over alleged attack on Christian families in Bengal; demand action — Public Accounts Committee chairman says the incident in Patlapur village, where three Christian families were allegedly assaulted, humiliated and coerced to renounce their faith, is deeply disturbing (The Hindu — National & Current Affairs, Sat, 24 Oct 2026 21:23:17 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-23-21",
+   "question": "Which current affairs development was reported regarding: \"The ruling NDA ally additionally expelled Anant Singh’s wife and former MLA Neelam Devi for six years from the primary membership of the party\"?",
+   "options": [
+    "Forum urges CM to frame rules for Malayalam Language Act",
+    "Kashmir IGP calls for action against overground workers, hybrid terrorists",
+    "Healthy life, clean surroundings every citizen’s right: NCDRC member Indrajit Singh",
+    "JD(U) expels strongman MLA Anant Singh from the party for six years"
+   ],
+   "answer": 3,
+   "explanation": "JD(U) expels strongman MLA Anant Singh from the party for six years — The ruling NDA ally additionally expelled Anant Singh’s wife and former MLA Neelam Devi for six years from the primary membership of the party (The Hindu — National & Current Affairs, Sat, 24 Oct 2026 21:20:29 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-23-22",
+   "question": "Which current affairs development was reported regarding: \"V-C Mohanan Kunnummal said campuses should allow students to express differing opinions and engage in debate without resorting to violence\"?",
+   "options": [
+    "Sabnam Gafoor endowment lecture in Kochi on October 25",
+    "Kerala University VC says no move to ban student politics, stresses need to curb violence",
+    "Kin of Dalit youth in Keralam’s Kottayam accuses police of custodial torture",
+    "A distant Pacific phenomenon may be drying India’s north, says study"
+   ],
+   "answer": 1,
+   "explanation": "Kerala University VC says no move to ban student politics, stresses need to curb violence — V-C Mohanan Kunnummal said campuses should allow students to express differing opinions and engage in debate without resorting to violence (The Hindu — National & Current Affairs, Sat, 24 Oct 2026 21:15:56 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-23-23",
+   "question": "Which current affairs development was reported regarding: \"Malappuram, Kozhikode and Wayanad districts are under red alert on October 25, while Idukki and Palakkad are under red alert on October 26\"?",
+   "options": [
+    "IMD issues red alert for three districts in Keralam on October 25",
+    "TNSTC driver killed as bus caught in landslip at Burliyar on Mettupalayam-Coonoor ghat road",
+    "Bharath urges Kurnool voters to back NDA for better infrastructure",
+    "Kashmir IGP calls for action against overground workers, hybrid terrorists"
+   ],
+   "answer": 0,
+   "explanation": "IMD issues red alert for three districts in Keralam on October 25 — Malappuram, Kozhikode and Wayanad districts are under red alert on October 25, while Idukki and Palakkad are under red alert on October 26 (The Hindu — National & Current Affairs, Sat, 24 Oct 2026 21:10:22 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-23-24",
+   "question": "Which current affairs development was reported regarding: \"A senior Ministry official says they have sought the intervention of the Ministry of Electronics and Information Technology to review its data-sharing policy and suggest ways to strengthen it\"?",
+   "options": [
+    "Yaduveer urges government to frame official protocol for Dasara rituals",
+    "Bhatti Vikramarka calls for judicious use of water, electricity amid El Nino concerns",
+    "Show cause notice issued to 125 medical shops across Hyderabad against illegal sale of habit-forming drugs",
+    "Road Ministry seeks forensic audit of its portals after vehicle data leak"
+   ],
+   "answer": 3,
+   "explanation": "Road Ministry seeks forensic audit of its portals after vehicle data leak — A senior Ministry official says they have sought the intervention of the Ministry of Electronics and Information Technology to review its data-sharing policy and suggest ways to strengthen it (The Hindu — National & Current Affairs, Sat, 24 Oct 2026 21:10:11 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-23-25",
+   "question": "Which current affairs development was reported regarding: \"In a lecture in Keralam, Group Captain Angad Pratap, one of the four astronaut-candidates picked for Gaganyaan, chooses the star systems depicted in Project Hail Mary to describe the prospects and challenges of...\"?",
+   "options": [
+    "JD(U) expels strongman MLA Anant Singh from the party for six years",
+    "Road Ministry seeks forensic audit of its portals after vehicle data leak",
+    "When a future ‘Gaganyaatri’ retraced Ryland Grace’s path to Tau Ceti",
+    "Venugopal writes to Shah, Adhikari over alleged attack on Christian families in Bengal; demand action"
+   ],
+   "answer": 2,
+   "explanation": "When a future ‘Gaganyaatri’ retraced Ryland Grace’s path to Tau Ceti — In a lecture in Keralam, Group Captain Angad Pratap, one of the four astronaut-candidates picked for Gaganyaan, chooses the star systems depicted in Project Hail Mary to describe the prospects and challenges of... (The Hindu — National & Current Affairs, Sat, 24 Oct 2026 21:08:04 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-23-26",
+   "question": "Which current affairs development was reported regarding: \"Delegation alleges conspiracy to disrupt elections and seeks probe into attacks on police and alleged mobilisation of anti-social elements\"?",
+   "options": [
+    "Local body polls: TDP-led alliance seeks SIT probe into alleged YSRCP violence",
+    "Chamundeshwari Rathotsava held atop Chamundi Hills",
+    "BRS MLAs demand restart of Kannepalli pump house to meet Hyderabad’s drinking water needs",
+    "GTA Detroit hosts vibrant Bathukamma and Dasara celebrations in Michigan"
+   ],
+   "answer": 0,
+   "explanation": "Local body polls: TDP-led alliance seeks SIT probe into alleged YSRCP violence — Delegation alleges conspiracy to disrupt elections and seeks probe into attacks on police and alleged mobilisation of anti-social elements (The Hindu — National & Current Affairs, Sat, 24 Oct 2026 21:06:56 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-23-27",
+   "question": "Which current affairs development was reported regarding: \"Experts call for higher government spending, tighter regulation of private players and measures to reduce out-of-pocket treatment costs\"?",
+   "options": [
+    "Local body polls: TDP-led alliance seeks SIT probe into alleged YSRCP violence",
+    "Venugopal writes to Shah, Adhikari over alleged attack on Christian families in Bengal; demand action",
+    "Yaduveer urges government to frame official protocol for Dasara rituals",
+    "Insurance-driven health care threatens public health system, warns KSSP seminar"
+   ],
+   "answer": 3,
+   "explanation": "Insurance-driven health care threatens public health system, warns KSSP seminar — Experts call for higher government spending, tighter regulation of private players and measures to reduce out-of-pocket treatment costs (The Hindu — National & Current Affairs, Sat, 24 Oct 2026 21:04:36 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-23-28",
+   "question": "Which current affairs development was reported regarding: \"Speaking during his visit to the Ernakulam District Consumer Disputes Redressal Commission, Indrajit Singh emphasises the need to give equal importance to environmental protection alongside consumer protection.\"?",
+   "options": [
+    "Venugopal writes to Shah, Adhikari over alleged attack on Christian families in Bengal; demand action",
+    "Naidu meets Amit Shah, Ashwini Vaishnaw in New Delhi",
+    "Healthy life, clean surroundings every citizen’s right: NCDRC member Indrajit Singh",
+    "AISA president Neha Bora refuses to sign peace bond, next hearing on October 29"
+   ],
+   "answer": 2,
+   "explanation": "Healthy life, clean surroundings every citizen’s right: NCDRC member Indrajit Singh — Speaking during his visit to the Ernakulam District Consumer Disputes Redressal Commission, Indrajit Singh emphasises the need to give equal importance to environmental protection alongside consumer protection. (The Hindu — National & Current Affairs, Sat, 24 Oct 2026 21:02:19 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-23-29",
+   "question": "Which current affairs development was reported regarding: \"Schools must conduct preliminary rounds and nominate the first prize winner for the district-level final.\"?",
+   "options": [
+    "VISWAS to hold children’s parliament on drug abuse",
+    "Schools to be closed, response team on alert as Odisha steps up cyclone preparedness",
+    "Back pain: Lancet review calls for clinical assessment over routine scans",
+    "Kin of Dalit youth in Keralam’s Kottayam accuses police of custodial torture"
+   ],
+   "answer": 0,
+   "explanation": "VISWAS to hold children’s parliament on drug abuse — Schools must conduct preliminary rounds and nominate the first prize winner for the district-level final. (The Hindu — National & Current Affairs, Sat, 24 Oct 2026 20:56:56 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-23-30",
+   "question": "Which current affairs development was reported regarding: \"Organised jointly by the Sabnam Gafoor Foundation and the School of Gender Studies, Mahatma Gandhi University, the lecture will examine how women’s life experiences and social engagements are documented in history...\"?",
+   "options": [
+    "Sabnam Gafoor endowment lecture in Kochi on October 25",
+    "Suspension of ADGP Ajithkumar extended by 120 days",
+    "Prakasam Collector calls for utmost vigilance in handling polling materials",
+    "e-Khata open houses to resume from Oct. 31"
+   ],
+   "answer": 0,
+   "explanation": "Sabnam Gafoor endowment lecture in Kochi on October 25 — Organised jointly by the Sabnam Gafoor Foundation and the School of Gender Studies, Mahatma Gandhi University, the lecture will examine how women’s life experiences and social engagements are documented in history... (The Hindu — National & Current Affairs, Sat, 24 Oct 2026 20:55:13 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-23-31",
+   "question": "Which current affairs development was reported regarding: \"The High Court judge, however, says that he has passed certain directions to the special executive magistrate (SEM) on providing all material to the student leader in the proceedings\"?",
+   "options": [
+    "Show cause notice issued to 125 medical shops across Hyderabad against illegal sale of habit-forming drugs",
+    "Police showcase weapons, security measures at open house for students",
+    "AISA president Neha Bora refuses to sign peace bond, next hearing on October 29",
+    "Kin of Dalit youth in Keralam’s Kottayam accuses police of custodial torture"
+   ],
+   "answer": 2,
+   "explanation": "AISA president Neha Bora refuses to sign peace bond, next hearing on October 29 — The High Court judge, however, says that he has passed certain directions to the special executive magistrate (SEM) on providing all material to the student leader in the proceedings (The Hindu — National & Current Affairs, Sat, 24 Oct 2026 20:52:05 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-23-32",
+   "question": "Which current affairs development was reported regarding: \"Participating in a cycle rally, the Industries Minister stresses development projects in Kurnool city have gained significant momentum since the alliance government came to power\"?",
+   "options": [
+    "Ensure timely completion of projects undertaken by GIDA: Chief Minister",
+    "Bharath urges Kurnool voters to back NDA for better infrastructure",
+    "ISRO will not be privatised, says chairperson Narayanan",
+    "When a future ‘Gaganyaatri’ retraced Ryland Grace’s path to Tau Ceti"
+   ],
+   "answer": 1,
+   "explanation": "Bharath urges Kurnool voters to back NDA for better infrastructure — Participating in a cycle rally, the Industries Minister stresses development projects in Kurnool city have gained significant momentum since the alliance government came to power (The Hindu — National & Current Affairs, Sat, 24 Oct 2026 20:50:30 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-23-33",
+   "question": "Which current affairs development was reported regarding: \"The progress of various projects has to be evaluated regularly for timely completion of works, says Chief Minister. He suggests improvements in basic infrastructure facilities, including better connectivity to the...\"?",
+   "options": [
+    "KTR urges youth against ignoring AI",
+    "Ensure timely completion of projects undertaken by GIDA: Chief Minister",
+    "‘If you are alive, you must show it’: Hyderabad’s anti-SIR protest brings together people of all age groups",
+    "Iran Speaker to skip BRICS meet, as Iran seeks bilateral air route for ‘humanitarian aid’ from India"
+   ],
+   "answer": 1,
+   "explanation": "Ensure timely completion of projects undertaken by GIDA: Chief Minister — The progress of various projects has to be evaluated regularly for timely completion of works, says Chief Minister. He suggests improvements in basic infrastructure facilities, including better connectivity to the... (The Hindu — National & Current Affairs, Sat, 24 Oct 2026 20:49:55 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-23-34",
+   "question": "Which current affairs development was reported regarding: \"The RSS march applications became a talking point after Home Minister Priyank Kharge took to social media to share two communications from the RSS that “informed” the police of the proposed marches in the city.\"?",
+   "options": [
+    "Police permission sought for over 60 RSS marches across Bengaluru",
+    "KTR urges youth against ignoring AI",
+    "BRS MLAs demand restart of Kannepalli pump house to meet Hyderabad’s drinking water needs",
+    "Parvatipuram witnessing rapid progress, says TDP MLA"
+   ],
+   "answer": 0,
+   "explanation": "Police permission sought for over 60 RSS marches across Bengaluru — The RSS march applications became a talking point after Home Minister Priyank Kharge took to social media to share two communications from the RSS that “informed” the police of the proposed marches in the city. (The Hindu — National & Current Affairs, Sat, 24 Oct 2026 20:49:07 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-23-35",
+   "question": "Which current affairs development was reported regarding: \"More than 300 people were stranded along the ghat section following multiple landslips\"?",
+   "options": [
+    "TNSTC driver killed as bus caught in landslip at Burliyar on Mettupalayam-Coonoor ghat road",
+    "‘If you are alive, you must show it’: Hyderabad’s anti-SIR protest brings together people of all age groups",
+    "VISWAS to hold children’s parliament on drug abuse",
+    "IMD warns of heavy rainfall over several T.N. districts; red alert for five districts in Keralam | Live"
+   ],
+   "answer": 0,
+   "explanation": "TNSTC driver killed as bus caught in landslip at Burliyar on Mettupalayam-Coonoor ghat road — More than 300 people were stranded along the ghat section following multiple landslips (The Hindu — National & Current Affairs, Sat, 24 Oct 2026 20:46:27 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-23-36",
+   "question": "Which current affairs development was reported regarding: \"Aroma Chundan crossed the finish line in 3 minutes and 21.227 seconds to win the title\"?",
+   "options": [
+    "Healthy life, clean surroundings every citizen’s right: NCDRC member Indrajit Singh",
+    "Suspension of ADGP Ajithkumar extended by 120 days",
+    "Aroma Chundan clinches title in Thazhathangady Boat Race",
+    "Congress leader seeks action against Chief Secretaries of six States for skipping PAC hearing"
+   ],
+   "answer": 2,
+   "explanation": "Aroma Chundan clinches title in Thazhathangady Boat Race — Aroma Chundan crossed the finish line in 3 minutes and 21.227 seconds to win the title (The Hindu — National & Current Affairs, Sat, 24 Oct 2026 20:33:35 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
   }
  ]
 };

@@ -46,7 +46,7 @@ var manifest = [
    "railways"
   ],
   "blurb": "Recent schemes, missions, summits, awards and appointments.",
-  "count": 1007
+  "count": 1043
  },
  {
   "slug": "static-gk",
@@ -117,7 +117,7 @@ var manifest = [
    "railways"
   ],
   "blurb": "Physics, chemistry and biology facts combined.",
-  "count": 1005
+  "count": 1054
  },
  {
   "slug": "english",
@@ -213,7 +213,7 @@ var manifest = [
    "ssc-cgl"
   ],
   "blurb": "Banking, budget, taxes, trade and national income.",
-  "count": 285
+  "count": 300
  },
  {
   "slug": "general-english-grammar",

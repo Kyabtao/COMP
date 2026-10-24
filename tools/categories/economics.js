@@ -11,7 +11,7 @@
   "ssc-cgl"
  ],
  "blurb": "Banking, budget, taxes, trade and national income.",
- "count": 285,
+ "count": 300,
  "questions": [
   {
    "id": "economics-00001",
@@ -4292,6 +4292,246 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "economics-daily-2026-10-23-86",
+   "question": "Which current affairs development was reported regarding: \"The competing concerns highlight the challenge facing the ethanol procurement framework: balancing the availability and cost of different feedstocks.\"?",
+   "options": [
+    "Government to modify labour survey to capture gig economy, unpaid household workers",
+    "Why managing fiscal is a tightrope for State governments",
+    "India’s agrivoltaic capacity is expected to be more than 5-gigawatts in next 3-4 years: MNRE Secretary",
+    "Ethanol tender sparks feedstock concerns as rice gains ground over maize"
+   ],
+   "answer": 3,
+   "explanation": "Ethanol tender sparks feedstock concerns as rice gains ground over maize — The competing concerns highlight the challenge facing the ethanol procurement framework: balancing the availability and cost of different feedstocks. (The Hindu — Economy & Banking, Sat, 24 Oct 2026 18:42:59 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "economics-daily-2026-10-23-87",
+   "question": "Which current affairs development was reported regarding: \"Inflation in rural areas was found to be higher than in urban areas; headline CPI inflation edged up over the months and showed signs of greater generalisation across commodities\"?",
+   "options": [
+    "What lies beyond India’s E20 push",
+    "Data suggests broad-based increase in food prices: RBI Bulletin",
+    "NTPC eyes green hydrogen exports, targets Asian and European markets",
+    "What drives corporate investment?"
+   ],
+   "answer": 1,
+   "explanation": "Data suggests broad-based increase in food prices: RBI Bulletin — Inflation in rural areas was found to be higher than in urban areas; headline CPI inflation edged up over the months and showed signs of greater generalisation across commodities (The Hindu — Economy & Banking, Sat, 24 Oct 2026 13:49:33 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "economics-daily-2026-10-23-88",
+   "question": "Which current affairs development was reported regarding: \"Bharat Petroleum’s revenues spurred 29% whilst net profit declined 22.5% on a year-over-year basis in Q2\"?",
+   "options": [
+    "Bharat Petroleum’s net profit dips amid volatile crude prices in Q2",
+    "OPEC cuts India’s 2026 oil demand growth forecast to 40,000 barrels per day",
+    "What changes under India’s proposed BS-VII vehicle emission rules | Explained",
+    "Food and fuel push wholesale inflation to series-high of 11.4% in September 2026"
+   ],
+   "answer": 0,
+   "explanation": "Bharat Petroleum’s net profit dips amid volatile crude prices in Q2 — Bharat Petroleum’s revenues spurred 29% whilst net profit declined 22.5% on a year-over-year basis in Q2 (The Hindu — Economy & Banking, Fri, 23 Oct 2026 22:45:33 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "economics-daily-2026-10-23-89",
+   "question": "Which current affairs development was reported regarding: \"The bank’s bottom line for Q2FY27 was supported by a rise in net interest income, which stood at ₹4,569 crore as against ₹4,409 crores a year ago\"?",
+   "options": [
+    "Rupee strengthens for eighth consecutive day on IPO inflows; rise in crude prices cap gains",
+    "Oil prices extend rally to near six-month high amid Houthi attacks on Saudi Arabia",
+    "Economics beyond the individual",
+    "IndusInd Bank posts profit of ₹1,242 crores in Q2; asset quality improvement and interest income drives growth"
+   ],
+   "answer": 3,
+   "explanation": "IndusInd Bank posts profit of ₹1,242 crores in Q2; asset quality improvement and interest income drives growth — The bank’s bottom line for Q2FY27 was supported by a rise in net interest income, which stood at ₹4,569 crore as against ₹4,409 crores a year ago (The Hindu — Economy & Banking, Fri, 23 Oct 2026 22:36:53 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "economics-daily-2026-10-23-90",
+   "question": "Which current affairs development was reported regarding: \"Periodic Labour Force Survey will include additional questions to measure labour underutilisation\"?",
+   "options": [
+    "India’s trade caught in the middle",
+    "Government to modify labour survey to capture gig economy, unpaid household workers",
+    "Why does India need a trained workforce for elderly care?",
+    "Data suggests broad-based increase in food prices: RBI Bulletin"
+   ],
+   "answer": 1,
+   "explanation": "Government to modify labour survey to capture gig economy, unpaid household workers — Periodic Labour Force Survey will include additional questions to measure labour underutilisation (The Hindu — Economy & Banking, Fri, 23 Oct 2026 22:29:40 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "economics-daily-2026-10-23-91",
+   "question": "Which current affairs development was reported regarding: \"Vikas Kaushal, Chairman and Managing Director (CMD) informed the state-owned OMC is procuring more on landed basis than on FOB basis and term contracts\"?",
+   "options": [
+    "Crude oil sourcing presently volatile; procuring more on landed basis: HPCL Chief",
+    "India does not grow at anybody’s cost; it grows with and for the world: PM Modi",
+    "Moves by the North of England to unlock India trade",
+    "Market's early rally fizzles out as banking, financial stocks weigh on benchmarks"
+   ],
+   "answer": 0,
+   "explanation": "Crude oil sourcing presently volatile; procuring more on landed basis: HPCL Chief — Vikas Kaushal, Chairman and Managing Director (CMD) informed the state-owned OMC is procuring more on landed basis than on FOB basis and term contracts (The Hindu — Economy & Banking, Fri, 23 Oct 2026 21:59:49 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "economics-daily-2026-10-23-92",
+   "question": "Which current affairs development was reported regarding: \"FDI inflows exceeded outflows in seven out of the last eight months, a reversal of what occurred in the five months before that\"?",
+   "options": [
+    "The RBI and its growing fiscal role",
+    "Net FDI at $3.3 billion in September 2026, positive for third consecutive month",
+    "India’s exports jump 23% in September; trade deficit narrows to $30.21 billion",
+    "OPEC cuts India’s 2026 oil demand growth forecast to 40,000 barrels per day"
+   ],
+   "answer": 1,
+   "explanation": "Net FDI at $3.3 billion in September 2026, positive for third consecutive month — FDI inflows exceeded outflows in seven out of the last eight months, a reversal of what occurred in the five months before that (The Hindu — Economy & Banking, Fri, 23 Oct 2026 21:10:30 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "economics-daily-2026-10-23-93",
+   "question": "Which current affairs development was reported regarding: \"Brent crude futures touched an intraday high of $114.94 a barrel on Friday after Houthi attacks on Saudi Arabia’s civilian and energy infrastructure, with India’s crude basket averaging $120.08 so far this month;...\"?",
+   "options": [
+    "The reality behind falling net FDI",
+    "Rupee strengthens for eighth consecutive day on IPO inflows; rise in crude prices cap gains",
+    "Does ‘inflation targeting’ work in India?",
+    "Oil prices extend rally to near six-month high amid Houthi attacks on Saudi Arabia"
+   ],
+   "answer": 3,
+   "explanation": "Oil prices extend rally to near six-month high amid Houthi attacks on Saudi Arabia — Brent crude futures touched an intraday high of $114.94 a barrel on Friday after Houthi attacks on Saudi Arabia’s civilian and energy infrastructure, with India’s crude basket averaging $120.08 so far this month;... (The Hindu — Economy & Banking, Fri, 23 Oct 2026 18:13:00 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "economics-daily-2026-10-23-94",
+   "question": "Which current affairs development was reported regarding: \"Poland PM Donald Tusk called for greater technological cooperation between India and Poland, while addressing the India-Poland Business Forum at Bengaluru\"?",
+   "options": [
+    "Crude oil sourcing presently volatile; procuring more on landed basis: HPCL Chief",
+    "Rupee falls 3 paise to close at 94.92 against U.S. dollar",
+    "Rubio pushes for India to buy more U.S., Venezuelan oil",
+    "India-Poland strategic partnership should translate into JVs: PM Donald Tusk"
+   ],
+   "answer": 3,
+   "explanation": "India-Poland strategic partnership should translate into JVs: PM Donald Tusk — Poland PM Donald Tusk called for greater technological cooperation between India and Poland, while addressing the India-Poland Business Forum at Bengaluru (The Hindu — Economy & Banking, Fri, 23 Oct 2026 15:26:41 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "economics-daily-2026-10-23-95",
+   "question": "Which current affairs development was reported regarding: \"Mainstream macroeconomics’ focus on individual choices overlooks how business investment, driven by profit expectations and uncertainty, shapes economic growth and instability; Keynesian economics shows why saving...\"?",
+   "options": [
+    "Moves by the North of England to unlock India trade",
+    "Economics beyond the individual",
+    "India’s crude imports rise 7% in September, bill surges 47%",
+    "Coal stocks at thermal plants hold above 18 MT as supply deficit narrows"
+   ],
+   "answer": 1,
+   "explanation": "Economics beyond the individual — Mainstream macroeconomics’ focus on individual choices overlooks how business investment, driven by profit expectations and uncertainty, shapes economic growth and instability; Keynesian economics shows why saving... (The Hindu — Economy & Banking, Thu, 22 Oct 2026 22:43:18 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "economics-daily-2026-10-23-96",
+   "question": "Which current affairs development was reported regarding: \"Most State government expenditure is on social sectors, such as health and education, and economic sectors, such as agriculture and irrigation. In Kerala, such spending has driven social progress since the 1960s. The...\"?",
+   "options": [
+    "Indian Bank net profit rises 14.7% to ₹3,462 crore in Q2",
+    "Moves by the North of England to unlock India trade",
+    "Why managing fiscal is a tightrope for State governments",
+    "Coal stocks at thermal plants hold above 18 MT as supply deficit narrows"
+   ],
+   "answer": 2,
+   "explanation": "Why managing fiscal is a tightrope for State governments — Most State government expenditure is on social sectors, such as health and education, and economic sectors, such as agriculture and irrigation. In Kerala, such spending has driven social progress since the 1960s. The... (The Hindu — Economy & Banking, Thu, 22 Oct 2026 22:20:44 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "economics-daily-2026-10-23-97",
+   "question": "Which current affairs development was reported regarding: \"RBI’s record ₹2.87 lakh crore surplus transfer to the Centre shows its growing fiscal significance, as earnings from reserve management and foreign assets support govt. finances; the trend raises questions about...\"?",
+   "options": [
+    "SEBI’s SME IPO reforms offer a financing choice as rates rise",
+    "India-Poland strategic partnership should translate into JVs: PM Donald Tusk",
+    "The RBI and its growing fiscal role",
+    "Why does India need a trained workforce for elderly care?"
+   ],
+   "answer": 2,
+   "explanation": "The RBI and its growing fiscal role — RBI’s record ₹2.87 lakh crore surplus transfer to the Centre shows its growing fiscal significance, as earnings from reserve management and foreign assets support govt. finances; the trend raises questions about... (The Hindu — Economy & Banking, Thu, 22 Oct 2026 21:53:52 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "economics-daily-2026-10-23-98",
+   "question": "Which current affairs development was reported regarding: \"India’s net FDI has declined sharply despite strong gross inflows, underlining the impact of disinvestment/capital repatriation; an understanding of these trends requires looking beyond aggregate inflow, outflow...\"?",
+   "options": [
+    "Will keenly hear views on LTCG and STT matters, Finance Minister Sitharaman says",
+    "The reality behind falling net FDI",
+    "India’s trade caught in the middle",
+    "Coal stocks at thermal plants hold above 18 MT as supply deficit narrows"
+   ],
+   "answer": 1,
+   "explanation": "The reality behind falling net FDI — India’s net FDI has declined sharply despite strong gross inflows, underlining the impact of disinvestment/capital repatriation; an understanding of these trends requires looking beyond aggregate inflow, outflow... (The Hindu — Economy & Banking, Thu, 22 Oct 2026 21:38:41 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "economics-daily-2026-10-23-99",
+   "question": "Which current affairs development was reported regarding: \"The bank’s FY26 reports detail IT audits, automated threat monitoring and security testing, and outline plans for an integrated Cyber Defence Centre\"?",
+   "options": [
+    "6.14% growth registered in freight loading in September 2026 over September 2025: Indian Railways",
+    "Bharat Petroleum’s net profit dips amid volatile crude prices in Q2",
+    "India-U.S. deal ‘finalised’, implementation after clarity on India’s competitive advantage, says Goyal",
+    "SBI’s cyber defences: What the bank had in place"
+   ],
+   "answer": 3,
+   "explanation": "SBI’s cyber defences: What the bank had in place — The bank’s FY26 reports detail IT audits, automated threat monitoring and security testing, and outline plans for an integrated Cyber Defence Centre (The Hindu — Economy & Banking, Thu, 22 Oct 2026 18:53:24 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "economics-daily-2026-10-23-100",
+   "question": "Which current affairs development was reported regarding: \"Brent crude futures (December) were trading about 3.2% higher than their previous close at $112.35 per barrel on Thursday afternoon\"?",
+   "options": [
+    "Oil hits near six-month high as Houthi attacks rattle Saudi Arabia",
+    "Economics beyond the individual",
+    "6.14% growth registered in freight loading in September 2026 over September 2025: Indian Railways",
+    "What are the deal contours of India-New Zealand FTA?"
+   ],
+   "answer": 0,
+   "explanation": "Oil hits near six-month high as Houthi attacks rattle Saudi Arabia — Brent crude futures (December) were trading about 3.2% higher than their previous close at $112.35 per barrel on Thursday afternoon (The Hindu — Economy & Banking, Thu, 22 Oct 2026 16:46:42 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
   }
  ]
 };
