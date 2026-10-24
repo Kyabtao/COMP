@@ -11,11 +11,11 @@
 # permission.
 #
 # What it does (see README.md, "Daily questions"): every morning at 06:00 IST
-# it runs the build, which mints 10 fresh questions for the day
-# (node tools/build-qbank.js), stores them in tools/daily/ and rebuilds the
-# category files, then validates the bank (node tools/validate.js) and uploads
-# the day's temp files as a 30-day artifact for manual review. Nothing is
-# committed automatically.
+# it runs the news & competition updater, which adds 100 fresh real-world
+# questions for the day (node tools/news.js), stores them in tools/daily/ and
+# rebuilds the category files, then validates the bank (node tools/validate.js)
+# and uploads the day's temp files as a 30-day artifact for manual review.
+# Nothing is committed automatically.
 
 name: Daily questions
 
@@ -26,7 +26,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   mint:
@@ -45,8 +45,8 @@ jobs:
       - name: Stamp the run date (IST)
         run: echo "TODAY=$(date +%F)" >> "$GITHUB_ENV"
 
-      - name: Mint the day's fresh questions and rebuild the bank
-        run: node tools/build-qbank.js
+      - name: Update the bank with 100 real-world news & competition questions
+        run: node tools/news.js
 
       - name: Validate the bank
         run: node tools/validate.js
@@ -61,3 +61,15 @@ jobs:
             qbank-report.json
             tools/build-summary.json
           retention-days: 30
+
+      - name: Commit and push the updated question bank to main
+        if: github.ref == 'refs/heads/main'
+        continue-on-error: true
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add tools/daily/ tools/categories/ qbank-report.json tools/build-summary.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Update question bank with 100 real-world questions for ${TODAY}"
+            git push
+          fi
