@@ -1,0 +1,110 @@
+# News & competition question updater workflow for ExamSathi.
+#
+# Tracked in temp/ because a workflow file cannot be pushed under
+# .github/workflows/ — the automation token that builds these branches does
+# not have GitHub's `workflows` permission ("refusing to allow a GitHub App to
+# create or update workflow ... without workflows permission") — and GitHub
+# only runs workflows from .github/workflows/. GitHub Pages serves this
+# repository straight from main, so the deployed site includes this file.
+# This copy is the source of truth: install it with `npm run workflows`,
+# then commit and push from a machine (or with a token) that has the
+# permission.
+#
+# What it does (see README.md, "Daily questions & News CLI"): every morning at
+# 06:00 IST (or on manual dispatch) it runs `node tools/news.js` to fetch and
+# mint 100 fresh real-world questions from news feeds (PIB, The Hindu, Indian
+# Express) and competition sources (GKToday, AffairsCloud, Jagran Josh,
+# OpenTDB, verified exam pool) without random numerical arithmetic or repeated
+# stems, rebuilds the category files, validates the bank and uploads the
+# resulting files as a 30-day artifact.
+
+name: News and competition questions
+
+on:
+  schedule:
+    # 06:00 IST every morning (IST is UTC+5:30, so 06:00 IST is 00:30 UTC)
+    - cron: "30 0 * * *"
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "Target date (YYYY-MM-DD, leave blank for today IST)"
+        required: false
+        default: ""
+      count:
+        description: "Number of real-world questions to add (1 to 500)"
+        required: false
+        default: "100"
+      source:
+        description: "Optional named source (pib, the-hindu, indian-express, gktoday, affairscloud, jagran-josh, opentdb) or feed URL"
+        required: false
+        default: ""
+      append:
+        description: "Top up an existing day file up to count"
+        required: false
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+jobs:
+  update-bank:
+    runs-on: ubuntu-latest
+    env:
+      TZ: Asia/Kolkata
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Resolve target date and CLI flags
+        env:
+          INPUT_DATE: ${{ github.event.inputs.date }}
+          INPUT_COUNT: ${{ github.event.inputs.count }}
+          INPUT_SOURCE: ${{ github.event.inputs.source }}
+          INPUT_APPEND: ${{ github.event.inputs.append }}
+        run: |
+          TARGET_DATE="${INPUT_DATE:-$(date +%F)}"
+          TARGET_COUNT="${INPUT_COUNT:-100}"
+          echo "TODAY=${TARGET_DATE}" >> "$GITHUB_ENV"
+          ARGS="--date ${TARGET_DATE} --count ${TARGET_COUNT}"
+          if [ -n "${INPUT_SOURCE}" ]; then
+            ARGS="${ARGS} --source ${INPUT_SOURCE}"
+          fi
+          if [ "${INPUT_APPEND}" = "true" ]; then
+            ARGS="${ARGS} --append"
+          fi
+          echo "NEWS_ARGS=${ARGS}" >> "$GITHUB_ENV"
+
+      - name: Update the bank with 100 real-world news & competition questions
+        run: node tools/news.js ${{ env.NEWS_ARGS }}
+
+      - name: Validate the question bank
+        run: node tools/validate.js
+
+      - name: Upload the updated bank files for review
+        uses: actions/upload-artifact@v4
+        with:
+          name: news-questions-${{ env.TODAY }}
+          path: |
+            tools/daily/
+            tools/categories/
+            qbank-report.json
+            tools/build-summary.json
+          retention-days: 30
+
+      - name: Commit and push the updated question bank to main
+        if: github.ref == 'refs/heads/main'
+        continue-on-error: true
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add tools/daily/ tools/categories/ qbank-report.json tools/build-summary.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Update question bank with real-world news & competition questions for ${TODAY}"
+            git push
+          fi
