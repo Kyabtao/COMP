@@ -13,7 +13,7 @@
   "railways"
  ],
  "blurb": "National symbols, dances, festivals, dams, parks, instruments and branches of science.",
- "count": 1003,
+ "count": 1006,
  "questions": [
   {
    "id": "static-gk-00001",
@@ -15062,6 +15062,54 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-21"
+  },
+  {
+   "id": "static-gk-daily-2026-10-22-21",
+   "question": "The Geographical Indication (GI) tagged product 'Bundelkhand Kathiya Gehu' belongs to which Indian state or union territory?",
+   "options": [
+    "Maharashtra",
+    "Odisha",
+    "Uttar Pradesh",
+    "Andhra Pradesh"
+   ],
+   "answer": 2,
+   "explanation": "'Bundelkhand Kathiya Gehu' (drought-resistant indigenous durum wheat variety rich in protein and micronutrients) holds a Geographical Indication (GI) tag from Uttar Pradesh.",
+   "topic": "GI Tags & Regional Heritage in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "static-gk-daily-2026-10-22-48",
+   "question": "The Geographical Indication (GI) tagged product 'Narasapur Crochet Lace' belongs to which Indian state or union territory?",
+   "options": [
+    "Uttar Pradesh",
+    "Ladakh",
+    "Andhra Pradesh",
+    "Assam"
+   ],
+   "answer": 2,
+   "explanation": "'Narasapur Crochet Lace' (delicate hand-knotted cotton lace craft practised by women artisans in the Godavari region) holds a Geographical Indication (GI) tag from Andhra Pradesh.",
+   "topic": "GI Tags & Regional Heritage in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "static-gk-daily-2026-10-22-75",
+   "question": "The Geographical Indication (GI) tagged product 'Mankurad Mango' belongs to which Indian state or union territory?",
+   "options": [
+    "Uttar Pradesh",
+    "Assam",
+    "Goa",
+    "Andhra Pradesh"
+   ],
+   "answer": 2,
+   "explanation": "'Mankurad Mango' (prized golden-yellow coastal mango variety introduced during the Portuguese era) holds a Geographical Indication (GI) tag from Goa.",
+   "topic": "GI Tags & Regional Heritage in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
   }
  ]
 };

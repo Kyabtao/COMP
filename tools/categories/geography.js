@@ -12,7 +12,7 @@
   "railways"
  ],
  "blurb": "Physical, world and Indian geography with climate and minerals.",
- "count": 1000,
+ "count": 1004,
  "questions": [
   {
    "id": "geography-00001",
@@ -15013,6 +15013,70 @@
    "topic": "Geography Questions",
    "level": 2,
    "source": "generated"
+  },
+  {
+   "id": "geography-daily-2026-10-22-04",
+   "question": "In physical and regional geography, which bodies of water or landmasses are connected or separated by 'Nine Degree Channel'?",
+   "options": [
+    "Separates Minicoy Island of India from the northern atolls of the Maldives",
+    "Arm of the Indian Ocean located between the island nation of Madagascar and mainland Southeast Africa (Mozambique)",
+    "Separates the island of Minicoy from the main Lakshadweep archipelago in the Arabian Sea",
+    "Connects the Atlantic Ocean to the Mediterranean Sea and separates Spain (Europe) from Morocco (Africa)"
+   ],
+   "answer": 2,
+   "explanation": "Nine Degree Channel connects or separates: Separates the island of Minicoy from the main Lakshadweep archipelago in the Arabian Sea (a deep shipping lane crucial for international maritime traffic between the Middle East and Southeast Asia).",
+   "topic": "World & Indian Geography in Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "geography-daily-2026-10-22-31",
+   "question": "In physical and regional geography, which bodies of water or landmasses are connected or separated by 'Eight Degree Channel (Maliku Kandu)'?",
+   "options": [
+    "Connects the Java Sea to the Indian Ocean between the Indonesian islands of Java and Sumatra",
+    "Separates Minicoy Island of India from the northern atolls of the Maldives",
+    "Connects the Bay of Bengal in the northeast with the Gulf of Mannar in the southwest between Tamil Nadu and Sri Lanka",
+    "Connects the Black Sea with the Sea of Marmara and separates European Turkey from Asian Turkey (Anatolia)"
+   ],
+   "answer": 1,
+   "explanation": "Eight Degree Channel (Maliku Kandu) connects or separates: Separates Minicoy Island of India from the northern atolls of the Maldives (marks the traditional maritime boundary between India (Lakshadweep) and the Republic of Maldives).",
+   "topic": "World & Indian Geography in Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "geography-daily-2026-10-22-58",
+   "question": "In physical and regional geography, which bodies of water or landmasses are connected or separated by 'Bering Strait'?",
+   "options": [
+    "Connects the Arctic Ocean (Chukchi Sea) with the Bering Sea (Pacific Ocean) between Russia's Chukotka Peninsula and Alaska",
+    "Connects the Persian Gulf with the Gulf of Oman and the Arabian Sea between Iran and Oman",
+    "Connects the Andaman Sea (Indian Ocean) with the South China Sea (Pacific Ocean) between the Malay Peninsula and Sumatra",
+    "Connects the Bay of Bengal in the northeast with the Gulf of Mannar in the southwest between Tamil Nadu and Sri Lanka"
+   ],
+   "answer": 0,
+   "explanation": "Bering Strait connects or separates: Connects the Arctic Ocean (Chukchi Sea) with the Bering Sea (Pacific Ocean) between Russia's Chukotka Peninsula and Alaska (contains the Diomede Islands through which the International Date Line passes).",
+   "topic": "World & Indian Geography in Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "geography-daily-2026-10-22-85",
+   "question": "In physical and regional geography, which bodies of water or landmasses are connected or separated by 'Strait of Hormuz'?",
+   "options": [
+    "Connects the Black Sea with the Sea of Marmara and separates European Turkey from Asian Turkey (Anatolia)",
+    "Arm of the Indian Ocean located between the island nation of Madagascar and mainland Southeast Africa (Mozambique)",
+    "Separates Rutland Island (part of South Andaman) from Little Andaman",
+    "Connects the Persian Gulf with the Gulf of Oman and the Arabian Sea between Iran and Oman"
+   ],
+   "answer": 3,
+   "explanation": "Strait of Hormuz connects or separates: Connects the Persian Gulf with the Gulf of Oman and the Arabian Sea between Iran and Oman (the world's most critical oil transit chokepoint carrying nearly one-fifth of global petroleum consumption).",
+   "topic": "World & Indian Geography in Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
   }
  ]
 };

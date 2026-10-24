@@ -12,7 +12,7 @@
   "railways"
  ],
  "blurb": "Countries, capitals, currencies, days, organisations and world firsts.",
- "count": 1000,
+ "count": 1004,
  "questions": [
   {
    "id": "general-knowledge-00001",
@@ -15013,6 +15013,70 @@
    "topic": "Awards and Honours",
    "level": 3,
    "source": "generated"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-22-09",
+   "question": "Where was the '19th Summit of the Non-Aligned Movement (NAM 2024)' held or headquartered according to recent international affairs?",
+   "options": [
+    "United Nations Headquarters, New York",
+    "Apia, Samoa",
+    "Kampala, Uganda",
+    "Geneva, Switzerland (UNEP Secretariat)"
+   ],
+   "answer": 2,
+   "explanation": "19th Summit of the Non-Aligned Movement (NAM 2024) is associated with Kampala, Uganda (theme 'Deepening Cooperation for Shared Global Affluence' bringing together 120 developing member states).",
+   "topic": "International Summits, Treaties & Global Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-22-36",
+   "question": "Where was the 'UN Summit of the Future (September 2024)' held or headquartered according to recent international affairs?",
+   "options": [
+    "New Delhi G20 MoU Corridor linking India, UAE, Saudi Arabia, Jordan, Israel and Europe",
+    "United Nations Headquarters, New York",
+    "Kampala, Uganda",
+    "Seoul and Paris"
+   ],
+   "answer": 1,
+   "explanation": "UN Summit of the Future (September 2024) is associated with United Nations Headquarters, New York (adoption of the Pact for the Future, the Global Digital Compact and the Declaration on Future Generations).",
+   "topic": "International Summits, Treaties & Global Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-22-63",
+   "question": "Where was the 'AI Action Summit / Bletchley & Seoul AI Safety Process' held or headquartered according to recent international affairs?",
+   "options": [
+    "Astana, Kazakhstan",
+    "United Nations Headquarters, New York",
+    "Seoul and Paris",
+    "United Nations Convention on the Law of the Sea (UNCLOS) framework"
+   ],
+   "answer": 2,
+   "explanation": "AI Action Summit / Bletchley & Seoul AI Safety Process is associated with Seoul and Paris (international commitments on frontier AI safety testing, governance and inclusive artificial intelligence).",
+   "topic": "International Summits, Treaties & Global Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-22-90",
+   "question": "Where was the 'High Seas Treaty (BBNJ Agreement)' held or headquartered according to recent international affairs?",
+   "options": [
+    "Borgo Egnazia (Apulia), Italy",
+    "United Nations Headquarters, New York",
+    "Seoul and Paris",
+    "United Nations Convention on the Law of the Sea (UNCLOS) framework"
+   ],
+   "answer": 3,
+   "explanation": "High Seas Treaty (BBNJ Agreement) is associated with United Nations Convention on the Law of the Sea (UNCLOS) framework (legally binding global treaty to protect marine biodiversity in areas beyond national jurisdiction covering two-thirds of the oceans).",
+   "topic": "International Summits, Treaties & Global Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
   }
  ]
 };

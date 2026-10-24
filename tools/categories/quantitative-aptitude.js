@@ -12,7 +12,7 @@
   "banking"
  ],
  "blurb": "Arithmetic, percentages, interest, ratios and mensuration.",
- "count": 1506,
+ "count": 1510,
  "questions": [
   {
    "id": "quantitative-aptitude-00001",
@@ -22609,6 +22609,70 @@
    "level": 1,
    "source": "daily",
    "dailyDate": "2026-10-21"
+  },
+  {
+   "id": "quantitative-aptitude-daily-2026-10-22-15",
+   "question": "According to Bayes' Theorem for two events A and B with P(B) > 0, how is the conditional probability P(A | B) expressed?",
+   "options": [
+    "(a + b - ab/100)%",
+    "Centroid",
+    "PA x PB = PC x PD",
+    "[P(B | A) x P(A)] / P(B)"
+   ],
+   "answer": 3,
+   "explanation": "Bayes' Theorem relates the posterior probability P(A | B) to the likelihood P(B | A) and prior P(A) via P(A | B) = [P(B | A) x P(A)] / P(B).",
+   "topic": "Quantitative & Mathematical Concepts from Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "quantitative-aptitude-daily-2026-10-22-42",
+   "question": "If a tangent segment PT and a secant PAB are drawn to a circle from an external point P, which relation connects PT, PA and PB?",
+   "options": [
+    "PT^2 = PA x PB",
+    "P x (r / 100)^2",
+    "e = 1",
+    "[P(B | A) x P(A)] / P(B)"
+   ],
+   "answer": 0,
+   "explanation": "By the Tangent-Secant Theorem, the square of the length of the tangent segment PT equals the product of the external secant segment PA and the whole secant segment PB.",
+   "topic": "Quantitative & Mathematical Concepts from Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "quantitative-aptitude-daily-2026-10-22-69",
+   "question": "For a moderately skewed frequency distribution in statistics, what is Karl Pearson's empirical relationship between Mean, Median and Mode?",
+   "options": [
+    "(n - 2) x 180 degrees",
+    "e = 1",
+    "PT^2 = PA x PB",
+    "Mode = 3 Median - 2 Mean"
+   ],
+   "answer": 3,
+   "explanation": "Karl Pearson's empirical formula for a moderately asymmetrical distribution states that (Mean - Mode) = 3(Mean - Median), which simplifies to Mode = 3 Median - 2 Mean.",
+   "topic": "Quantitative & Mathematical Concepts from Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "quantitative-aptitude-daily-2026-10-22-96",
+   "question": "When two successive discounts of a% and b% are offered on the marked price of an article, what is the single equivalent discount percentage?",
+   "options": [
+    "PA x PB = PC x PD",
+    "(a + b - ab/100)%",
+    "Circumcentre (intersection of perpendicular bisectors)",
+    "P x (r / 100)^2"
+   ],
+   "answer": 1,
+   "explanation": "Applying b% after a% leaves (1 - a/100)(1 - b/100) of the marked price, yielding a net single equivalent discount of (a + b - ab/100)%.",
+   "topic": "Quantitative & Mathematical Concepts from Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
   }
  ]
 };

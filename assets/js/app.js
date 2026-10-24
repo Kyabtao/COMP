@@ -49,6 +49,7 @@
   var DRILL_KEY = "examsathi.drill.length";
   var THEME_KEY = "examsathi.theme";
   var DRILL_DEFAULT = 15;
+  var DAILY_CHALLENGE_COUNT = 10;
   var QUESTION_CHOICES = [10, 15, 20, 25, 30, 40, 50, 60, 75, 100];
   var TIME_CHOICES = [5, 10, 15, 20, 25, 30, 40, 45, 60, 75, 90, 120];
   var MARK_CHOICES = [1, 2, 3, 4];
@@ -470,10 +471,11 @@
     var dailyDate = dailyDateToShow(sets);
     if (dailyDate) {
       var fresh = sets[dailyDate].length;
+      var challengeCount = Math.min(DAILY_CHALLENGE_COUNT, fresh);
       app.appendChild(el('<section class="card daily-strip"><div>' +
         '<span class="badge good">\uD83D\uDCC5 New ' + (dailyDate === todayLocal() ? "today" : prettyDate(dailyDate)) + '</span>' +
         '<h2>Daily dose \u2014 ' + fresh + ' fresh question' + (fresh === 1 ? "" : "s") + '</h2>' +
-        '<p class="muted small">Published ' + prettyDate(dailyDate) + ' \u00B7 mixed subjects and levels, with instant explanations.</p>' +
+        '<p class="muted small">Published ' + prettyDate(dailyDate) + ' \u00B7 ' + challengeCount + ' random question' + (challengeCount === 1 ? "" : "s") + ' per daily challenge, with instant explanations.</p>' +
         '</div><button class="primary" id="start-daily" type="button">\u25B6 Start the drill</button></section>'));
       document.getElementById("start-daily").addEventListener("click", function () { location.hash = "#/daily"; });
     }
@@ -554,10 +556,12 @@
       document.getElementById("daily-home").addEventListener("click", function () { location.hash = "#/"; });
       return;
     }
+    var pool = sets[date].slice();
+    var set = shuffle(pool).slice(0, DAILY_CHALLENGE_COUNT);
     state.mode = "practice";
     state.session = {
       kind: "daily", slug: "daily", name: "Daily Dose \u2014 " + prettyDate(date), date: date,
-      questions: sets[date].slice(), index: 0, answers: [], revealed: [], length: sets[date].length
+      questions: set, poolSize: pool.length, index: 0, answers: [], revealed: [], length: set.length
     };
     renderQuestion();
   }

@@ -11,7 +11,7 @@
   "railways"
  ],
  "blurb": "Human body, plants, diseases and nutrition.",
- "count": 280,
+ "count": 284,
  "questions": [
   {
    "id": "biology-00001",
@@ -4212,6 +4212,70 @@
    "topic": "Diseases and Causative Agents",
    "level": 3,
    "source": "generated"
+  },
+  {
+   "id": "biology-daily-2026-10-22-05",
+   "question": "In human biology and public health news, what is 'National Sickle Cell Anaemia Elimination Mission' known for?",
+   "options": [
+    "India's first indigenously developed quadrivalent Human Papillomavirus (qHPV) vaccine against cervical cancer",
+    "World's first intranasal COVID-19 vaccine approved for primary and heterologous booster immunisation",
+    "World's first regulator-approved CRISPR-Cas9 gene-editing therapy for Sickle Cell Disease and Beta-Thalassemia",
+    "Eliminating sickle cell genetic transmission as a public health problem in India by 2047 through screening 7 crore people in tribal districts"
+   ],
+   "answer": 3,
+   "explanation": "National Sickle Cell Anaemia Elimination Mission is associated with: Eliminating sickle cell genetic transmission as a public health problem in India by 2047 through screening 7 crore people in tribal districts (screens individuals aged 0 to 40 years for inherited haemoglobin beta-globin point mutation).",
+   "topic": "Biology, Health & Medical Science in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "biology-daily-2026-10-22-32",
+   "question": "In human biology and public health news, what is 'NexCAR19' known for?",
+   "options": [
+    "High-efficacy malaria vaccine recommended by the WHO for prevention of Plasmodium falciparum malaria in children",
+    "Assisted reproductive procedure replacing defective maternal mitochondria with healthy donor ooplasm mitochondria",
+    "Live-attenuated tetravalent vaccine prequalified by the WHO against all four serotypes of Dengue virus",
+    "India's first indigenous CAR-T cell therapy approved for treating B-cell lymphomas and leukaemia"
+   ],
+   "answer": 3,
+   "explanation": "NexCAR19 is associated with: India's first indigenous CAR-T cell therapy approved for treating B-cell lymphomas and leukaemia (developed jointly by IIT Bombay, Tata Memorial Centre and ImmunoAct).",
+   "topic": "Biology, Health & Medical Science in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "biology-daily-2026-10-22-59",
+   "question": "In human biology and public health news, what is 'Wolbachia Method' known for?",
+   "options": [
+    "Biological control technique introducing symbiotic Wolbachia bacteria into Aedes aegypti mosquitoes to block dengue and Zika transmission",
+    "Assisted reproductive procedure replacing defective maternal mitochondria with healthy donor ooplasm mitochondria",
+    "Direct benefit transfer nutrition support scheme for all notified Tuberculosis (TB) patients under the National TB Elimination Programme",
+    "High-efficacy malaria vaccine recommended by the WHO for prevention of Plasmodium falciparum malaria in children"
+   ],
+   "answer": 0,
+   "explanation": "Wolbachia Method is associated with: Biological control technique introducing symbiotic Wolbachia bacteria into Aedes aegypti mosquitoes to block dengue and Zika transmission (endorsed by the World Mosquito Program to reduce arboviral replication inside vectors).",
+   "topic": "Biology, Health & Medical Science in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "biology-daily-2026-10-22-86",
+   "question": "In human biology and public health news, what is 'Mitochondrial Replacement Therapy (Three-Parent Baby Technique)' known for?",
+   "options": [
+    "Biological control technique introducing symbiotic Wolbachia bacteria into Aedes aegypti mosquitoes to block dengue and Zika transmission",
+    "Assisted reproductive procedure replacing defective maternal mitochondria with healthy donor ooplasm mitochondria",
+    "World's first regulator-approved CRISPR-Cas9 gene-editing therapy for Sickle Cell Disease and Beta-Thalassemia",
+    "India's first indigenously developed quadrivalent Human Papillomavirus (qHPV) vaccine against cervical cancer"
+   ],
+   "answer": 1,
+   "explanation": "Mitochondrial Replacement Therapy (Three-Parent Baby Technique) is associated with: Assisted reproductive procedure replacing defective maternal mitochondria with healthy donor ooplasm mitochondria (prevents transmission of maternally inherited mitochondrial DNA disorders).",
+   "topic": "Biology, Health & Medical Science in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
   }
  ]
 };

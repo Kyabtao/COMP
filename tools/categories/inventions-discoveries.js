@@ -11,7 +11,7 @@
   "railways"
  ],
  "blurb": "Inventions, inventors and discoveries.",
- "count": 260,
+ "count": 263,
  "questions": [
   {
    "id": "inventions-discoveries-00001",
@@ -3912,6 +3912,54 @@
    "topic": "Inventions and Discoveries",
    "level": 3,
    "source": "generated"
+  },
+  {
+   "id": "inventions-discoveries-daily-2026-10-22-22",
+   "question": "Which scientist or innovator is credited with the discovery or invention of 'Synthesis of the First Artificial Gene in a Living Cell'?",
+   "options": [
+    "G. N. Ramachandran",
+    "Har Gobind Khorana",
+    "Manindra Agrawal, Neeraj Kayal and Nitin Saxena",
+    "Birbal Sahni"
+   ],
+   "answer": 1,
+   "explanation": "Synthesis of the First Artificial Gene in a Living Cell was discovered or invented by Har Gobind Khorana (deciphered the genetic code showing how nucleotide triplets specify amino acids and synthesized the first functional artificial gene).",
+   "topic": "Inventions, Pioneers & Scientific Milestones",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "inventions-discoveries-daily-2026-10-22-49",
+   "question": "Which scientist or innovator is credited with the discovery or invention of 'Chandrasekhar Limit (1.44 Solar Masses)'?",
+   "options": [
+    "Prasanta Chandra Mahalanobis",
+    "Manindra Agrawal, Neeraj Kayal and Nitin Saxena",
+    "Har Gobind Khorana",
+    "Subrahmanyan Chandrasekhar"
+   ],
+   "answer": 3,
+   "explanation": "Chandrasekhar Limit (1.44 Solar Masses) was discovered or invented by Subrahmanyan Chandrasekhar (established the maximum mass of a stable white dwarf star above which it undergoes gravitational collapse into a neutron star or black hole).",
+   "topic": "Inventions, Pioneers & Scientific Milestones",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "inventions-discoveries-daily-2026-10-22-76",
+   "question": "Which scientist or innovator is credited with the discovery or invention of 'Mahalanobis Distance in Multivariate Statistics'?",
+   "options": [
+    "Har Gobind Khorana",
+    "Manindra Agrawal, Neeraj Kayal and Nitin Saxena",
+    "Prasanta Chandra Mahalanobis",
+    "Satyendra Nath Bose (with Albert Einstein)"
+   ],
+   "answer": 2,
+   "explanation": "Mahalanobis Distance in Multivariate Statistics was discovered or invented by Prasanta Chandra Mahalanobis (introduced a scale-invariant statistical measure comparing a point with a distribution and founded the Indian Statistical Institute).",
+   "topic": "Inventions, Pioneers & Scientific Milestones",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
   }
  ]
 };

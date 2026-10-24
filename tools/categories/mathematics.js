@@ -11,7 +11,7 @@
   "ssc-chsl"
  ],
  "blurb": "Number work, algebra, geometry and speed-accuracy drills.",
- "count": 1506,
+ "count": 1510,
  "questions": [
   {
    "id": "mathematics-00001",
@@ -22608,6 +22608,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-21"
+  },
+  {
+   "id": "mathematics-daily-2026-10-22-12",
+   "question": "For any two positive integers a and b, which identity relates their Highest Common Factor (HCF) and Lowest Common Multiple (LCM)?",
+   "options": [
+    "2uv / (u + v) (the Harmonic Mean of u and v)",
+    "HCF(a, b) x LCM(a, b) = a x b",
+    "4 times",
+    "sqrt[s(s - a)(s - b)(s - c)]"
+   ],
+   "answer": 1,
+   "explanation": "The product of two positive integers always equals the product of their Greatest Common Divisor (HCF) and Least Common Multiple (LCM).",
+   "topic": "Applied Mathematics & Quantitative Problem Solving",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "mathematics-daily-2026-10-22-39",
+   "question": "If a person travels a fixed distance from A to B at speed u and returns from B to A along the same route at speed v, what is the average speed for the entire round trip?",
+   "options": [
+    "2",
+    "2uv / (u + v) (the Harmonic Mean of u and v)",
+    "sqrt[s(s - a)(s - b)(s - c)]",
+    "sec^2(theta) - tan^2(theta) = 1"
+   ],
+   "answer": 1,
+   "explanation": "Total distance is 2d and total time is d/u + d/v, so average speed = 2d / (d/u + d/v) = 2uv / (u + v), which is the harmonic mean of the two speeds.",
+   "topic": "Applied Mathematics & Quantitative Problem Solving",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "mathematics-daily-2026-10-22-66",
+   "question": "In trigonometry, what is the fundamental Pythagorean identity relating secant (sec theta) and tangent (tan theta)?",
+   "options": [
+    "4 times",
+    "2uv / (u + v) (the Harmonic Mean of u and v)",
+    "sec^2(theta) - tan^2(theta) = 1",
+    "2"
+   ],
+   "answer": 2,
+   "explanation": "Dividing sin^2(theta) + cos^2(theta) = 1 throughout by cos^2(theta) yields tan^2(theta) + 1 = sec^2(theta), or sec^2(theta) - tan^2(theta) = 1.",
+   "topic": "Applied Mathematics & Quantitative Problem Solving",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "mathematics-daily-2026-10-22-93",
+   "question": "For a quadratic equation ax^2 + bx + c = 0 (a != 0), under what condition on the discriminant D = b^2 - 4ac are the two roots real and equal?",
+   "options": [
+    "|a x b| / 2",
+    "4 times",
+    "b^2 - 4ac = 0",
+    "n(A) + n(B) - n(A intersection B)"
+   ],
+   "answer": 2,
+   "explanation": "When the discriminant D = b^2 - 4ac equals zero, the quadratic equation has two real and coincident (equal) roots given by x = -b / (2a).",
+   "topic": "Applied Mathematics & Quantitative Problem Solving",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
   }
  ]
 };

@@ -11,7 +11,7 @@
   "railways"
  ],
  "blurb": "Elements, acids, bases, salts and chemical names.",
- "count": 222,
+ "count": 226,
  "questions": [
   {
    "id": "chemistry-00001",
@@ -3342,6 +3342,70 @@
    "topic": "Chemical Names",
    "level": 3,
    "source": "generated"
+  },
+  {
+   "id": "chemistry-daily-2026-10-22-17",
+   "question": "Which chemical compound or substance is specifically used for 'Non-stick coating applied to modern cookware surfaces'?",
+   "options": [
+    "Potash Alum (K2SO4.Al2(SO4)3.24H2O)",
+    "Magnesium Hydroxide (Mg(OH)2)",
+    "Silver Iodide (AgI)",
+    "Polytetrafluoroethylene (PTFE / Teflon)"
+   ],
+   "answer": 3,
+   "explanation": "Polytetrafluoroethylene (PTFE / Teflon) (a synthetic fluoropolymer of tetrafluoroethylene with high thermal stability and chemical inertness) is used for Non-stick coating applied to modern cookware surfaces.",
+   "topic": "Chemistry in Everyday Life & Industry",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "chemistry-daily-2026-10-22-44",
+   "question": "Which chemical compound or substance is specifically used for 'Antacid suspension (Milk of Magnesia) used to neutralise excess stomach acid'?",
+   "options": [
+    "Ethyl Mercaptan (Ethanethiol)",
+    "Formalin (aqueous Formaldehyde solution)",
+    "Magnesium Hydroxide (Mg(OH)2)",
+    "Sodium Azide (NaN3)"
+   ],
+   "answer": 2,
+   "explanation": "Magnesium Hydroxide (Mg(OH)2) (a mild alkaline suspension that reacts with hydrochloric acid in gastric juice without producing carbon dioxide) is used for Antacid suspension (Milk of Magnesia) used to neutralise excess stomach acid.",
+   "topic": "Chemistry in Everyday Life & Industry",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "chemistry-daily-2026-10-22-71",
+   "question": "Which chemical compound or substance is specifically used for 'Odorant added to domestic LPG cylinders to detect gas leaks immediately'?",
+   "options": [
+    "Kevlar (Poly-paraphenylene terephthalamide)",
+    "Calcium Chloride (CaCl2)",
+    "Magnesium Hydroxide (Mg(OH)2)",
+    "Ethyl Mercaptan (Ethanethiol)"
+   ],
+   "answer": 3,
+   "explanation": "Ethyl Mercaptan (Ethanethiol) (a volatile organosulfur compound with a pungent smell added to odourless propane-butane gas) is used for Odorant added to domestic LPG cylinders to detect gas leaks immediately.",
+   "topic": "Chemistry in Everyday Life & Industry",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "chemistry-daily-2026-10-22-98",
+   "question": "Which chemical compound or substance is specifically used for 'De-icing snow-covered airport runways and mountain roads in sub-zero temperatures'?",
+   "options": [
+    "Magnesium Hydroxide (Mg(OH)2)",
+    "Calcium Chloride (CaCl2)",
+    "Silver Iodide (AgI)",
+    "Ethyl Mercaptan (Ethanethiol)"
+   ],
+   "answer": 1,
+   "explanation": "Calcium Chloride (CaCl2) (a hygroscopic exothermic salt that depresses the freezing point of water down to minus 29 degrees Celsius) is used for De-icing snow-covered airport runways and mountain roads in sub-zero temperatures.",
+   "topic": "Chemistry in Everyday Life & Industry",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
   }
  ]
 };

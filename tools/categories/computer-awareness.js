@@ -11,7 +11,7 @@
   "ssc-cgl"
  ],
  "blurb": "Hardware, software, internet and cyber security.",
- "count": 281,
+ "count": 285,
  "questions": [
   {
    "id": "computer-awareness-00001",
@@ -4228,6 +4228,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-21"
+  },
+  {
+   "id": "computer-awareness-daily-2026-10-22-10",
+   "question": "In computer science and cyber security exams, what is the role of 'Post-Quantum Cryptography (PQC)'?",
+   "options": [
+    "Cryptographic algorithms based on mathematical lattice problems designed to remain secure against attacks by both classical and quantum computers",
+    "National nodal agency for responding to computer security incidents, vulnerability advisories and cyber threat mitigation in India",
+    "Passwordless authentication mechanism using device-bound public-key cryptography and biometrics instead of shared text passwords",
+    "AI architecture that grounds Large Language Model outputs by retrieving relevant documents from an external knowledge base before generating a response"
+   ],
+   "answer": 0,
+   "explanation": "Post-Quantum Cryptography (PQC) is defined as: Cryptographic algorithms based on mathematical lattice problems designed to remain secure against attacks by both classical and quantum computers (standardized by NIST (FIPS 203 ML-KEM, FIPS 204 ML-DSA and FIPS 205 SLH-DSA)).",
+   "topic": "Cyber Security, Cloud & Computer Awareness",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "computer-awareness-daily-2026-10-22-37",
+   "question": "In computer science and cyber security exams, what is the role of 'WPA3 (Wi-Fi Protected Access 3)'?",
+   "options": [
+    "A security model requiring strict identity verification for every user and device attempting to access resources, regardless of whether they are inside or outside the network perimeter",
+    "Passwordless authentication mechanism using device-bound public-key cryptography and biometrics instead of shared text passwords",
+    "Cryptographic authentication of DNS responses to prevent DNS cache poisoning and man-in-the-middle redirection attacks",
+    "Wireless network security certification replacing WPA2 PSK with Simultaneous Authentication of Equals (SAE) to resist offline dictionary attacks"
+   ],
+   "answer": 3,
+   "explanation": "WPA3 (Wi-Fi Protected Access 3) is defined as: Wireless network security certification replacing WPA2 PSK with Simultaneous Authentication of Equals (SAE) to resist offline dictionary attacks (mandated by the Wi-Fi Alliance with 128-bit or 192-bit cryptographic suites).",
+   "topic": "Cyber Security, Cloud & Computer Awareness",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "computer-awareness-daily-2026-10-22-64",
+   "question": "In computer science and cyber security exams, what is the role of 'Zero-Trust Security Architecture'?",
+   "options": [
+    "Cryptographic algorithms based on mathematical lattice problems designed to remain secure against attacks by both classical and quantum computers",
+    "A security model requiring strict identity verification for every user and device attempting to access resources, regardless of whether they are inside or outside the network perimeter",
+    "Passwordless authentication mechanism using device-bound public-key cryptography and biometrics instead of shared text passwords",
+    "Cryptographic authentication of DNS responses to prevent DNS cache poisoning and man-in-the-middle redirection attacks"
+   ],
+   "answer": 1,
+   "explanation": "Zero-Trust Security Architecture is defined as: A security model requiring strict identity verification for every user and device attempting to access resources, regardless of whether they are inside or outside the network perimeter (NIST SP 800-207 principle of 'never trust, always verify').",
+   "topic": "Cyber Security, Cloud & Computer Awareness",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "computer-awareness-daily-2026-10-22-91",
+   "question": "In computer science and cyber security exams, what is the role of 'Retrieval-Augmented Generation (RAG)'?",
+   "options": [
+    "Operating-system-level virtualization that packages an application and its dependencies into isolated user-space instances sharing the host OS kernel",
+    "Wireless network security certification replacing WPA2 PSK with Simultaneous Authentication of Equals (SAE) to resist offline dictionary attacks",
+    "AI architecture that grounds Large Language Model outputs by retrieving relevant documents from an external knowledge base before generating a response",
+    "Passwordless authentication mechanism using device-bound public-key cryptography and biometrics instead of shared text passwords"
+   ],
+   "answer": 2,
+   "explanation": "Retrieval-Augmented Generation (RAG) is defined as: AI architecture that grounds Large Language Model outputs by retrieving relevant documents from an external knowledge base before generating a response (reduces hallucinations and enables up-to-date citations without retraining model weights).",
+   "topic": "Cyber Security, Cloud & Computer Awareness",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
   }
  ]
 };

@@ -11,7 +11,7 @@
   "railways"
  ],
  "blurb": "Motion, energy, light, electricity and units.",
- "count": 260,
+ "count": 263,
  "questions": [
   {
    "id": "physics-00001",
@@ -3912,6 +3912,54 @@
    "topic": "Scientific Instruments",
    "level": 3,
    "source": "generated"
+  },
+  {
+   "id": "physics-daily-2026-10-22-24",
+   "question": "In competitive science exams, which principle or phenomenon explains 'Constant ratio of sine of angle of incidence to sine of angle of refraction for two given media'?",
+   "options": [
+    "Lenz's Law of Electromagnetic Induction",
+    "Zeeman Effect",
+    "Photoelectric Effect explained by Einstein's photon theory",
+    "Snell's Law of Refraction"
+   ],
+   "answer": 3,
+   "explanation": "Constant ratio of sine of angle of incidence to sine of angle of refraction for two given media is explained by Snell's Law of Refraction (designing corrective lenses, prisms and refractometers).",
+   "topic": "Competitive Exam Science — Physics, Chemistry & Biology",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "physics-daily-2026-10-22-51",
+   "question": "In competitive science exams, which principle or phenomenon explains 'Emission of photoelectrons from a metal surface only when incident light exceeds a threshold frequency'?",
+   "options": [
+    "Photoelectric Effect explained by Einstein's photon theory",
+    "Bernoulli's Principle of pressure-velocity trade-off",
+    "Zeeman Effect",
+    "Doppler Effect"
+   ],
+   "answer": 0,
+   "explanation": "Emission of photoelectrons from a metal surface only when incident light exceeds a threshold frequency is explained by Photoelectric Effect explained by Einstein's photon theory (solar photovoltaic cells, light meters and automatic door sensors).",
+   "topic": "Competitive Exam Science — Physics, Chemistry & Biology",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "physics-daily-2026-10-22-78",
+   "question": "In competitive science exams, which principle or phenomenon explains 'Upward lift experienced by a spinning ball or an aerofoil wing in fluid flow'?",
+   "options": [
+    "Doppler Effect",
+    "Rayleigh Scattering of shorter-wavelength light by atmospheric molecules",
+    "Bernoulli's Principle of pressure-velocity trade-off",
+    "Hall Effect"
+   ],
+   "answer": 2,
+   "explanation": "Upward lift experienced by a spinning ball or an aerofoil wing in fluid flow is explained by Bernoulli's Principle of pressure-velocity trade-off (atomisers, aircraft wing design and Bunsen burner air intake).",
+   "topic": "Competitive Exam Science — Physics, Chemistry & Biology",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
   }
  ]
 };

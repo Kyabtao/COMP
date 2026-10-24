@@ -12,7 +12,7 @@
   "banking"
  ],
  "blurb": "Synonyms, antonyms, idioms, one-word substitutes, spellings and grammar.",
- "count": 1006,
+ "count": 1009,
  "questions": [
   {
    "id": "english-00001",
@@ -15109,6 +15109,54 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-21"
+  },
+  {
+   "id": "english-daily-2026-10-22-23",
+   "question": "In competitive English usage, what does the expression or literary term 'Pyrrhic victory' mean?",
+   "options": [
+    "An ever-present and imminent peril hanging over someone in a position of power",
+    "A victory won at such a devastating cost that it is tantamount to defeat",
+    "Solve an intractably complex problem through bold, decisive and direct action",
+    "Requires the modal auxiliary 'should' or bare subjunctive without a negative particle"
+   ],
+   "answer": 1,
+   "explanation": "'Pyrrhic victory' means: A victory won at such a devastating cost that it is tantamount to defeat. (Named after King Pyrrhus of Epirus following the Battle of Asculum against Rome)",
+   "topic": "Competitive English & Grammar Usage",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "english-daily-2026-10-22-50",
+   "question": "In competitive English usage, what does the expression or literary term 'Cross the Rubicon' mean?",
+   "options": [
+    "A victory won at such a devastating cost that it is tantamount to defeat",
+    "Solve an intractably complex problem through bold, decisive and direct action",
+    "Take an irrevocable step that commits a person to a definite course of action with no turning back",
+    "An apparently free choice where there is in reality only one option offered: take it or leave it"
+   ],
+   "answer": 2,
+   "explanation": "'Cross the Rubicon' means: Take an irrevocable step that commits a person to a definite course of action with no turning back. (Refers to Julius Caesar leading his legion across the Rubicon river in 49 BCE)",
+   "topic": "Competitive English & Grammar Usage",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "english-daily-2026-10-22-77",
+   "question": "In competitive English usage, what does the expression or literary term 'Subjunctive mood after 'lest'' mean?",
+   "options": [
+    "Solve an intractably complex problem through bold, decisive and direct action",
+    "An ever-present and imminent peril hanging over someone in a position of power",
+    "A victory won at such a devastating cost that it is tantamount to defeat",
+    "Requires the modal auxiliary 'should' or bare subjunctive without a negative particle"
+   ],
+   "answer": 3,
+   "explanation": "'Subjunctive mood after 'lest'' means: Requires the modal auxiliary 'should' or bare subjunctive without a negative particle. (Example: 'Walk carefully lest you should fall' (never 'lest you should not fall'))",
+   "topic": "Competitive English & Grammar Usage",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
   }
  ]
 };

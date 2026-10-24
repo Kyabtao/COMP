@@ -36,7 +36,8 @@ const CHECK_ONLY = process.argv.includes("--check");
 /** The tracked copy and where it belongs once it is installed. */
 const FILES = [
   { from: "temp/ci.yml", to: ".github/workflows/ci.yml" },
-  { from: "temp/daily-questions.yml", to: ".github/workflows/daily-question.yml" }
+  { from: "temp/daily-questions.yml", to: ".github/workflows/daily-question.yml" },
+  { from: "temp/news-questions.yml", to: ".github/workflows/news-questions.yml" }
 ];
 
 function read(file) {

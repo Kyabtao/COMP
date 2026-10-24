@@ -31,7 +31,7 @@ var manifest = [
    "railways"
   ],
   "blurb": "Countries, capitals, currencies, days, organisations and world firsts.",
-  "count": 1000
+  "count": 1004
  },
  {
   "slug": "current-affairs",
@@ -46,7 +46,7 @@ var manifest = [
    "railways"
   ],
   "blurb": "Recent schemes, missions, summits, awards and appointments.",
-  "count": 1000
+  "count": 1007
  },
  {
   "slug": "static-gk",
@@ -61,7 +61,7 @@ var manifest = [
    "railways"
   ],
   "blurb": "National symbols, dances, festivals, dams, parks, instruments and branches of science.",
-  "count": 1003
+  "count": 1006
  },
  {
   "slug": "indian-history",
@@ -75,7 +75,7 @@ var manifest = [
    "railways"
   ],
   "blurb": "Events, dynasties, rulers, movements and freedom fighters.",
-  "count": 1000
+  "count": 1004
  },
  {
   "slug": "indian-polity",
@@ -89,7 +89,7 @@ var manifest = [
    "railways"
   ],
   "blurb": "Constitution, articles, amendments and institutions.",
-  "count": 724
+  "count": 728
  },
  {
   "slug": "geography",
@@ -103,7 +103,7 @@ var manifest = [
    "railways"
   ],
   "blurb": "Physical, world and Indian geography with climate and minerals.",
-  "count": 1000
+  "count": 1004
  },
  {
   "slug": "general-science",
@@ -117,7 +117,7 @@ var manifest = [
    "railways"
   ],
   "blurb": "Physics, chemistry and biology facts combined.",
-  "count": 1000
+  "count": 1005
  },
  {
   "slug": "english",
@@ -131,7 +131,7 @@ var manifest = [
    "banking"
   ],
   "blurb": "Synonyms, antonyms, idioms, one-word substitutes, spellings and grammar.",
-  "count": 1006
+  "count": 1009
  },
  {
   "slug": "reasoning",
@@ -146,7 +146,7 @@ var manifest = [
    "railways"
   ],
   "blurb": "Series, coding, blood relations, directions and syllogisms.",
-  "count": 1506
+  "count": 1509
  },
  {
   "slug": "quantitative-aptitude",
@@ -160,7 +160,7 @@ var manifest = [
    "banking"
   ],
   "blurb": "Arithmetic, percentages, interest, ratios and mensuration.",
-  "count": 1506
+  "count": 1510
  },
  {
   "slug": "mathematics",
@@ -173,7 +173,7 @@ var manifest = [
    "ssc-chsl"
   ],
   "blurb": "Number work, algebra, geometry and speed-accuracy drills.",
-  "count": 1506
+  "count": 1510
  },
  {
   "slug": "general-awareness",
@@ -187,7 +187,7 @@ var manifest = [
    "railways"
   ],
   "blurb": "Defence, awards, institutions and national facts.",
-  "count": 280
+  "count": 283
  },
  {
   "slug": "computer-awareness",
@@ -200,7 +200,7 @@ var manifest = [
    "ssc-cgl"
   ],
   "blurb": "Hardware, software, internet and cyber security.",
-  "count": 281
+  "count": 285
  },
  {
   "slug": "economics",
@@ -213,7 +213,7 @@ var manifest = [
    "ssc-cgl"
   ],
   "blurb": "Banking, budget, taxes, trade and national income.",
-  "count": 282
+  "count": 285
  },
  {
   "slug": "general-english-grammar",
@@ -227,7 +227,7 @@ var manifest = [
    "banking"
   ],
   "blurb": "Voice, narration, articles, prepositions and error spotting.",
-  "count": 280
+  "count": 284
  },
  {
   "slug": "environmental-studies",
@@ -240,7 +240,7 @@ var manifest = [
    "railways"
   ],
   "blurb": "Ecology, pollution, climate agreements and wildlife.",
-  "count": 280
+  "count": 285
  },
  {
   "slug": "physics",
@@ -253,7 +253,7 @@ var manifest = [
    "railways"
   ],
   "blurb": "Motion, energy, light, electricity and units.",
-  "count": 260
+  "count": 263
  },
  {
   "slug": "chemistry",
@@ -266,7 +266,7 @@ var manifest = [
    "railways"
   ],
   "blurb": "Elements, acids, bases, salts and chemical names.",
-  "count": 222
+  "count": 226
  },
  {
   "slug": "biology",
@@ -279,7 +279,7 @@ var manifest = [
    "railways"
   ],
   "blurb": "Human body, plants, diseases and nutrition.",
-  "count": 280
+  "count": 284
  },
  {
   "slug": "sports",
@@ -293,7 +293,7 @@ var manifest = [
    "railways"
   ],
   "blurb": "Trophies, terms, players and tournaments.",
-  "count": 260
+  "count": 264
  },
  {
   "slug": "awards-honours",
@@ -307,7 +307,7 @@ var manifest = [
    "railways"
   ],
   "blurb": "Civilian, gallantry, literary and international awards.",
-  "count": 201
+  "count": 207
  },
  {
   "slug": "books-authors",
@@ -320,7 +320,7 @@ var manifest = [
    "ssc-chsl"
   ],
   "blurb": "Famous books and their authors.",
-  "count": 260
+  "count": 264
  },
  {
   "slug": "days-events",
@@ -335,7 +335,7 @@ var manifest = [
    "railways"
   ],
   "blurb": "Important national and international days.",
-  "count": 280
+  "count": 284
  },
  {
   "slug": "inventions-discoveries",
@@ -348,7 +348,7 @@ var manifest = [
    "railways"
   ],
   "blurb": "Inventions, inventors and discoveries.",
-  "count": 260
+  "count": 263
  },
  {
   "slug": "abbreviations",
@@ -363,7 +363,7 @@ var manifest = [
    "railways"
   ],
   "blurb": "Full forms of common abbreviations and acronyms.",
-  "count": 280
+  "count": 284
  }
 ];
 if (typeof module !== "undefined" && module.exports) module.exports = manifest;

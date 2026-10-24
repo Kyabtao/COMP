@@ -11,7 +11,7 @@
   "ssc-chsl"
  ],
  "blurb": "Famous books and their authors.",
- "count": 260,
+ "count": 264,
  "questions": [
   {
    "id": "books-authors-00001",
@@ -3912,6 +3912,70 @@
    "topic": "Books and Authors",
    "level": 3,
    "source": "generated"
+  },
+  {
+   "id": "books-authors-daily-2026-10-22-03",
+   "question": "Who is the author of the book 'Smoke and Ashes: A Writer's Journey Through Opium's Hidden Histories', which was recently featured in literary news and competitive exams?",
+   "options": [
+    "Shane Watson",
+    "Amitav Ghosh",
+    "Duvvuri Subbarao",
+    "Paul Lynch"
+   ],
+   "answer": 1,
+   "explanation": "'Smoke and Ashes: A Writer's Journey Through Opium's Hidden Histories' (non-fiction exploration of how the colonial opium trade shaped modern Asia and the global economy) was written by Amitav Ghosh.",
+   "topic": "Books & Authors in Recent News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "books-authors-daily-2026-10-22-30",
+   "question": "Who is the author of the book 'The Scientist Entrepreneur: Empowering Millions of Women', which was recently featured in literary news and competitive exams?",
+   "options": [
+    "Kalpana Sankar",
+    "Amitav Ghosh",
+    "Chetna Maroo",
+    "Paul Lynch"
+   ],
+   "answer": 0,
+   "explanation": "'The Scientist Entrepreneur: Empowering Millions of Women' (autobiography documenting microfinance and grassroots women's empowerment in rural India) was written by Kalpana Sankar.",
+   "topic": "Books & Authors in Recent News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "books-authors-daily-2026-10-22-57",
+   "question": "Who is the author of the book 'Prophet Song', which was recently featured in literary news and competitive exams?",
+   "options": [
+    "General Manoj Mukund Naravane",
+    "Paul Lynch",
+    "Shane Watson",
+    "Amitav Ghosh"
+   ],
+   "answer": 1,
+   "explanation": "'Prophet Song' (Booker Prize-winning dystopian novel depicting a Dublin family navigating a slide into totalitarianism) was written by Paul Lynch.",
+   "topic": "Books & Authors in Recent News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "books-authors-daily-2026-10-22-84",
+   "question": "Who is the author of the book 'A Fly on the RBI Wall', which was recently featured in literary news and competitive exams?",
+   "options": [
+    "Alpna Killawala",
+    "Geetanjali Shree (translated by Daisy Rockwell)",
+    "Paul Lynch",
+    "Kalpana Sankar"
+   ],
+   "answer": 0,
+   "explanation": "'A Fly on the RBI Wall' (inside chronicle of 25 years of communications and policy evolution at the Reserve Bank of India) was written by Alpna Killawala.",
+   "topic": "Books & Authors in Recent News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
   }
  ]
 };

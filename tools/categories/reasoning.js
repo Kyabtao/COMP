@@ -13,7 +13,7 @@
   "railways"
  ],
  "blurb": "Series, coding, blood relations, directions and syllogisms.",
- "count": 1506,
+ "count": 1509,
  "questions": [
   {
    "id": "reasoning-00001",
@@ -22610,6 +22610,54 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-21"
+  },
+  {
+   "id": "reasoning-daily-2026-10-22-26",
+   "question": "Complete the analogy from Indian constitutional posts: Attorney General : Article 76 :: Advocate General of a State : ?",
+   "options": [
+    "London",
+    "Odisha",
+    "Article 165",
+    "Kerala and Tamil Nadu"
+   ],
+   "answer": 2,
+   "explanation": "Article 76 provides for the Attorney General for India, and the corresponding state-level constitutional office — the Advocate General — is provided under Article 165.",
+   "topic": "Logical & Verbal Reasoning from Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "reasoning-daily-2026-10-22-53",
+   "question": "Complete the analogy from space exploration: Vikram : Lander :: Pragyan : ?",
+   "options": [
+    "Six-wheeled Lunar Rover",
+    "Article 165",
+    "Inverse relationship between inflation and unemployment",
+    "Direct beam solar radiation"
+   ],
+   "answer": 0,
+   "explanation": "In ISRO's Chandrayaan-3 mission, Vikram was the lunar lander module while Pragyan was the six-wheeled solar-powered lunar rover.",
+   "topic": "Logical & Verbal Reasoning from Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "reasoning-daily-2026-10-22-80",
+   "question": "Complete the analogy from scientific instrumentation: Seismograph : Earthquakes :: Pyrheliometer : ?",
+   "options": [
+    "Inverse relationship between inflation and unemployment",
+    "London",
+    "Direct beam solar radiation",
+    "Article 165"
+   ],
+   "answer": 2,
+   "explanation": "A seismograph measures earthquake seismic waves, whereas a pyrheliometer is specifically designed to measure direct beam solar irradiance.",
+   "topic": "Logical & Verbal Reasoning from Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
   }
  ]
 };

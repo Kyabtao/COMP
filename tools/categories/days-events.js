@@ -13,7 +13,7 @@
   "railways"
  ],
  "blurb": "Important national and international days.",
- "count": 280,
+ "count": 284,
  "questions": [
   {
    "id": "days-events-00001",
@@ -4214,6 +4214,70 @@
    "topic": "Important Days",
    "level": 3,
    "source": "generated"
+  },
+  {
+   "id": "days-events-daily-2026-10-22-19",
+   "question": "On which date is 'Janjatiya Gaurav Divas' observed in India or internationally?",
+   "options": [
+    "15 November",
+    "23 January",
+    "5 October",
+    "30 March"
+   ],
+   "answer": 0,
+   "explanation": "Janjatiya Gaurav Divas is observed on 15 November (the birth anniversary of tribal freedom fighter Bhagwan Birsa Munda honouring tribal contributions to Indian history).",
+   "topic": "Important National & International Days in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "days-events-daily-2026-10-22-46",
+   "question": "On which date is 'National Dolphin Day' observed in India or internationally?",
+   "options": [
+    "26 December",
+    "5 October",
+    "15 November",
+    "7 August"
+   ],
+   "answer": 1,
+   "explanation": "National Dolphin Day is observed on 5 October (awareness and conservation of the Gangetic River Dolphin, India's National Aquatic Animal).",
+   "topic": "Important National & International Days in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "days-events-daily-2026-10-22-73",
+   "question": "On which date is 'Veer Baal Divas' observed in India or internationally?",
+   "options": [
+    "21 December",
+    "14 August",
+    "26 December",
+    "23 January"
+   ],
+   "answer": 2,
+   "explanation": "Veer Baal Divas is observed on 26 December (the martyrdom of Sahibzada Zorawar Singh and Sahibzada Fateh Singh, the younger sons of Guru Gobind Singh).",
+   "topic": "Important National & International Days in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "days-events-daily-2026-10-22-100",
+   "question": "On which date is 'Parakram Divas' observed in India or internationally?",
+   "options": [
+    "15 November",
+    "23 January",
+    "26 December",
+    "25 June"
+   ],
+   "answer": 1,
+   "explanation": "Parakram Divas is observed on 23 January (the birth anniversary of Netaji Subhas Chandra Bose celebrating his indomitable spirit and service to the nation).",
+   "topic": "Important National & International Days in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-22"
   }
  ]
 };

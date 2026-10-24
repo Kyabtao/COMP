@@ -37,7 +37,7 @@ test("every authored and published question uses descriptive fields", () => {
   assert.equal(bank.manifest.length, 26);
   for (const q of daily) {
     assert.match(q.dailyDate, /^\d{4}-\d{2}-\d{2}$/);
-    assert.match(q.id, /-daily-\d{4}-\d{2}-\d{2}-\d{2}$/);
+    assert.match(q.id, /-daily-\d{4}-\d{2}-\d{2}-\d{2,3}$/);
   }
   for (const q of authored.concat(questions)) {
     assert.deepEqual(questionErrors(q), [], q.question);

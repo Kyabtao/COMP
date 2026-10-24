@@ -122,7 +122,7 @@ test("a build mints the day, stores it and appends it to the categories", () => 
     assert.equal(added.length, fromDay.length);
     assert.ok(added.length > 0, "the day reached the english category");
     for (const q of added) {
-      assert.match(q.id, /-daily-2026-11-04-\d\d$/, "stable daily id: " + q.id);
+      assert.match(q.id, /-daily-2026-11-04-\d{2,3}$/, "stable daily id: " + q.id);
       assert.ok(q.explanation, "every daily question explains itself");
     }
 
@@ -175,7 +175,7 @@ test("the daily generator stores its questions in the question bank", () => {
     const added = published.filter((q) => q.source === "daily" && q.dailyDate === "2026-11-05");
     assert.equal(added.length, 4, "every question of the day is in the bank");
     for (const q of added) {
-      assert.match(q.id, /-daily-2026-11-05-\d\d$/, "stable daily id: " + q.id);
+      assert.match(q.id, /-daily-2026-11-05-\d{2,3}$/, "stable daily id: " + q.id);
     }
     const report = JSON.parse(fs.readFileSync(summary, "utf8"));
     assert.equal(report.daily.questions, 4);
