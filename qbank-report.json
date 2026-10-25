@@ -1,5 +1,5 @@
 {
-  "totalQuestions": 33257,
+  "totalQuestions": 33357,
   "categoriesAt1000Plus": [
     "gk-misc",
     "general-knowledge",
@@ -23,13 +23,13 @@
     {
       "slug": "general-knowledge",
       "name": "General Knowledge",
-      "count": 1017,
+      "count": 1066,
       "target": 1000
     },
     {
       "slug": "current-affairs",
       "name": "Current Affairs",
-      "count": 1043,
+      "count": 1086,
       "target": 1000
     },
     {
@@ -53,13 +53,13 @@
     {
       "slug": "geography",
       "name": "Geography",
-      "count": 1004,
+      "count": 1005,
       "target": 1000
     },
     {
       "slug": "general-science",
       "name": "General Science",
-      "count": 1054,
+      "count": 1056,
       "target": 1000
     },
     {
@@ -89,7 +89,7 @@
     {
       "slug": "general-awareness",
       "name": "General Awareness",
-      "count": 283,
+      "count": 284,
       "target": 400
     },
     {
@@ -113,7 +113,7 @@
     {
       "slug": "environmental-studies",
       "name": "Environmental Studies",
-      "count": 285,
+      "count": 286,
       "target": 400
     },
     {
@@ -137,7 +137,7 @@
     {
       "slug": "sports",
       "name": "Sports",
-      "count": 306,
+      "count": 308,
       "target": 400
     },
     {
@@ -155,7 +155,7 @@
     {
       "slug": "days-events",
       "name": "Days & Events",
-      "count": 284,
+      "count": 285,
       "target": 400
     },
     {
@@ -224,7 +224,7 @@
     {
       "name": "question ids are unique",
       "pass": true,
-      "detail": "33257 unique ids for 33257 questions"
+      "detail": "33357 unique ids for 33357 questions"
     },
     {
       "name": "class selection covers 1-12 and Graduation",
@@ -249,7 +249,7 @@
     {
       "name": "[spec] total questions reach 25,000",
       "pass": true,
-      "detail": "33257 questions built"
+      "detail": "33357 questions built"
     },
     {
       "name": "[spec] GK Misc reaches 17,000",

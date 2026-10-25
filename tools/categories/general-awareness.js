@@ -12,7 +12,7 @@
   "railways"
  ],
  "blurb": "Defence, awards, institutions and national facts.",
- "count": 283,
+ "count": 284,
  "questions": [
   {
    "id": "general-awareness-00001",
@@ -4261,6 +4261,22 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "general-awareness-daily-2026-10-25-98",
+   "question": "With which country does India conduct the joint military or defence exercise 'Shakti'?",
+   "options": [
+    "France",
+    "Singapore",
+    "Kyrgyzstan",
+    "Japan"
+   ],
+   "answer": 0,
+   "explanation": "'Shakti' is a joint joint army exercise focused on semi-urban and mountainous counter-insurgency operations conducted between India and France.",
+   "topic": "Joint Military Exercises in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
   }
  ]
 };

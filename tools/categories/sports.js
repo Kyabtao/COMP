@@ -12,7 +12,7 @@
   "railways"
  ],
  "blurb": "Trophies, terms, players and tournaments.",
- "count": 306,
+ "count": 308,
  "questions": [
   {
    "id": "sports-00001",
@@ -4649,6 +4649,38 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "sports-daily-2026-10-25-43",
+   "question": "Which current affairs development was reported regarding: \"Rieko pips Encino for a stunning win in the Sprinters’ Cup; Dyf lives up to the billing in the Stayers’ Cup\"?",
+   "options": [
+    "Sambudla dominates proceedings, climbs to the top of the F4 Indian championship",
+    "Invitation Cup weekend: Royal Legacy runs to glory in the Mysore Derby",
+    "Ayush Mhatre undergoes surgery for hamstring injury, sidelined for about three months",
+    "Asian Para Games 2026: Sandeep, Haney win gold with world records"
+   ],
+   "answer": 1,
+   "explanation": "Invitation Cup weekend: Royal Legacy runs to glory in the Mysore Derby — Rieko pips Encino for a stunning win in the Sprinters’ Cup; Dyf lives up to the billing in the Stayers’ Cup (The Hindu — Sports, Sat, 24 Oct 2026 23:41:33 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "sports-daily-2026-10-25-44",
+   "question": "Which current affairs development was reported regarding: \"Ezri Konsa bundled the ball into the net in the opening minutes for his first goal for the club since joining from Aston Villa in August\"?",
+   "options": [
+    "The injury layoff helped me focus on the controllables: Ajith Ram",
+    "MCC-Murugappa Gold Cup hockey: Wasteful Railways pips Indian Army",
+    "Arsenal sink Everton to join Manchester City at Premier League summit",
+    "Indian Super League: Blasters and Mumbai will look to put their indifferent starts to the season behind them"
+   ],
+   "answer": 2,
+   "explanation": "Arsenal sink Everton to join Manchester City at Premier League summit — Ezri Konsa bundled the ball into the net in the opening minutes for his first goal for the club since joining from Aston Villa in August (The Hindu — Sports, Sat, 24 Oct 2026 22:52:54 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
   }
  ]
 };

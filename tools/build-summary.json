@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-24T17:18:42.786Z",
-  "totalQuestions": 33257,
+  "generatedAt": "2026-10-25T05:04:15.870Z",
+  "totalQuestions": 33357,
   "categories": [
     {
       "slug": "abbreviations",
@@ -14,7 +14,7 @@
     },
     {
       "slug": "environmental-studies",
-      "count": 285,
+      "count": 286,
       "target": 400
     },
     {
@@ -39,7 +39,7 @@
     },
     {
       "slug": "sports",
-      "count": 306,
+      "count": 308,
       "target": 400
     },
     {
@@ -54,7 +54,7 @@
     },
     {
       "slug": "days-events",
-      "count": 284,
+      "count": 285,
       "target": 400
     },
     {
@@ -64,7 +64,7 @@
     },
     {
       "slug": "general-awareness",
-      "count": 283,
+      "count": 284,
       "target": 400
     },
     {
@@ -79,7 +79,7 @@
     },
     {
       "slug": "general-knowledge",
-      "count": 1017,
+      "count": 1066,
       "target": 1000
     },
     {
@@ -89,12 +89,12 @@
     },
     {
       "slug": "general-science",
-      "count": 1054,
+      "count": 1056,
       "target": 1000
     },
     {
       "slug": "geography",
-      "count": 1004,
+      "count": 1005,
       "target": 1000
     },
     {
@@ -109,7 +109,7 @@
     },
     {
       "slug": "current-affairs",
-      "count": 1043,
+      "count": 1086,
       "target": 1000
     },
     {
@@ -204,9 +204,9 @@
     }
   ],
   "daily": {
-    "days": 6,
-    "questions": 330,
-    "latest": "2026-10-24",
+    "days": 7,
+    "questions": 430,
+    "latest": "2026-10-25",
     "minted": []
   },
   "classes": 13,

@@ -12,7 +12,7 @@
   "railways"
  ],
  "blurb": "Countries, capitals, currencies, days, organisations and world firsts.",
- "count": 1017,
+ "count": 1066,
  "questions": [
   {
    "id": "general-knowledge-00001",
@@ -15285,6 +15285,790 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-25-45",
+   "question": "What is the name of Ruby Rose's weapon from RWBY?",
+   "options": [
+    "Crescent Rose",
+    "Magnhild",
+    "Thorned Rosebud",
+    "Crooked Scythe"
+   ],
+   "answer": 0,
+   "explanation": "Crescent Rose is the correct answer for: What is the name of Ruby Rose's weapon from RWBY? (Entertainment: Cartoon & Animations).",
+   "topic": "Entertainment: Cartoon & Animations",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-25-46",
+   "question": "During the events of Half-Life: Opposing Force, what is the age of Adrian Shephard, the protagonist?",
+   "options": [
+    "22",
+    "23",
+    "24",
+    "21"
+   ],
+   "answer": 0,
+   "explanation": "22 is the correct answer for: During the events of Half-Life: Opposing Force, what is the age of Adrian Shephard, the protagonist? (Entertainment: Video Games).",
+   "topic": "Entertainment: Video Games",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-25-47",
+   "question": "Which of these is not a layer in the OSI model for data communications?",
+   "options": [
+    "Transport Layer",
+    "Application Layer",
+    "Connection Layer",
+    "Physical Layer"
+   ],
+   "answer": 2,
+   "explanation": "Connection Layer is the correct answer for: Which of these is not a layer in the OSI model for data communications? (Science: Computers).",
+   "topic": "Science: Computers",
+   "level": 3,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-25-48",
+   "question": "Who is the second person to take up the mantle of Night Owl in the Watchmen graphic novel?",
+   "options": [
+    "Adrian Veidt",
+    "Nelson Gardner",
+    "Daniel Dreiberg",
+    "Hollis Mason"
+   ],
+   "answer": 2,
+   "explanation": "Daniel Dreiberg is the correct answer for: Who is the second person to take up the mantle of Night Owl in the Watchmen graphic novel? (Entertainment: Comics).",
+   "topic": "Entertainment: Comics",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-25-49",
+   "question": "Approximately how many Apple I personal computers were created?",
+   "options": [
+    "1000",
+    "100",
+    "500",
+    "200"
+   ],
+   "answer": 3,
+   "explanation": "200 is the correct answer for: Approximately how many Apple I personal computers were created? (Science: Computers).",
+   "topic": "Science: Computers",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-25-50",
+   "question": "What does AD stand for in relation to Windows Operating Systems?",
+   "options": [
+    "Automated Database",
+    "Active Directory",
+    "Alternative Drive",
+    "Active Department"
+   ],
+   "answer": 1,
+   "explanation": "Active Directory is the correct answer for: What does AD stand for in relation to Windows Operating Systems? (Science: Computers).",
+   "topic": "Science: Computers",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-25-51",
+   "question": "In the co-op shooter Payday 2, which contact helps you break out Hoxton?",
+   "options": [
+    "The Elephant",
+    "Vlad",
+    "The Dentist",
+    "The Butcher"
+   ],
+   "answer": 2,
+   "explanation": "The Dentist is the correct answer for: In the co-op shooter Payday 2, which contact helps you break out Hoxton? (Entertainment: Video Games).",
+   "topic": "Entertainment: Video Games",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-25-52",
+   "question": "Who assassinated President James A. Garfield?",
+   "options": [
+    "Sirhan Sirhan",
+    "Charles Guiteau",
+    "Leon Czolgosz",
+    "John Wilkes Booth"
+   ],
+   "answer": 1,
+   "explanation": "Charles Guiteau is the correct answer for: Who assassinated President James A. Garfield? (History).",
+   "topic": "History",
+   "level": 3,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-25-53",
+   "question": "What was the name of the planet in \"Aliens\"?",
+   "options": [
+    "Weyland Yutani Corporation Base",
+    "FR-838",
+    "LV-426",
+    "DI-621"
+   ],
+   "answer": 2,
+   "explanation": "LV-426 is the correct answer for: What was the name of the planet in \"Aliens\"? (Entertainment: Film).",
+   "topic": "Entertainment: Film",
+   "level": 3,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-25-54",
+   "question": "What is the Linnean name of the domestic apple tree?",
+   "options": [
+    "Appelus delectica",
+    "Malus americana",
+    "Malus pumila",
+    "Pomus domestica"
+   ],
+   "answer": 2,
+   "explanation": "Malus pumila is the correct answer for: What is the Linnean name of the domestic apple tree? (Science & Nature).",
+   "topic": "Science & Nature",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-25-55",
+   "question": "Which of these teams isn't a member of the NHL's \"Original Six\" era?",
+   "options": [
+    "Boston Bruins",
+    "New York Rangers",
+    "Philadelphia Flyers",
+    "Toronto Maple Leafs"
+   ],
+   "answer": 2,
+   "explanation": "Philadelphia Flyers is the correct answer for: Which of these teams isn't a member of the NHL's \"Original Six\" era? (Sports).",
+   "topic": "Sports",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-25-56",
+   "question": "Which of the following films was directed by Ivan Reitman, written by Gary Ross, featured Kevin Kline, and was released in 1993?",
+   "options": [
+    "Carl",
+    "John",
+    "Dave",
+    "Will"
+   ],
+   "answer": 2,
+   "explanation": "Dave is the correct answer for: Which of the following films was directed by Ivan Reitman, written by Gary Ross, featured Kevin Kline, and was released in 1993? (Entertainment: Film).",
+   "topic": "Entertainment: Film",
+   "level": 3,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-25-57",
+   "question": "Which of these European cities was the first to host the modern Summer Olympic Games three times?",
+   "options": [
+    "London",
+    "Paris",
+    "Rome",
+    "Athens"
+   ],
+   "answer": 0,
+   "explanation": "London is the correct answer for: Which of these European cities was the first to host the modern Summer Olympic Games three times? (Sports).",
+   "topic": "Sports",
+   "level": 3,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-25-58",
+   "question": "Who is the father of Icarus, who flew too close to the sun?",
+   "options": [
+    "Daedalus",
+    "Perseus",
+    "Minos",
+    "Zeus"
+   ],
+   "answer": 0,
+   "explanation": "Daedalus is the correct answer for: Who is the father of Icarus, who flew too close to the sun? (Mythology).",
+   "topic": "Mythology",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-25-59",
+   "question": "What was the original name of New York City?",
+   "options": [
+    "New Paris",
+    "New Amsterdam",
+    "New Rome",
+    "New London"
+   ],
+   "answer": 1,
+   "explanation": "New Amsterdam is the correct answer for: What was the original name of New York City? (History).",
+   "topic": "History",
+   "level": 3,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-25-60",
+   "question": "Who voiced Finn in Adventure Time?",
+   "options": [
+    "Nolan North",
+    "John DiMaggio",
+    "Jeremy Shada",
+    "Tom Kenny"
+   ],
+   "answer": 2,
+   "explanation": "Jeremy Shada is the correct answer for: Who voiced Finn in Adventure Time? (Entertainment: Cartoon & Animations).",
+   "topic": "Entertainment: Cartoon & Animations",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-25-61",
+   "question": "In the game Call of Duty, what is the last level where you play as an American soldier?",
+   "options": [
+    "Brecourt",
+    "Chateau",
+    "Festung Recogne",
+    "Ste. Mere-Eglise (Day)"
+   ],
+   "answer": 2,
+   "explanation": "Festung Recogne is the correct answer for: In the game Call of Duty, what is the last level where you play as an American soldier? (Entertainment: Video Games).",
+   "topic": "Entertainment: Video Games",
+   "level": 3,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-25-62",
+   "question": "In the Magic: The Gathering universe, the Antiquities, Ice Age, and Alliances expansions take place on which continent?",
+   "options": [
+    "Shiv",
+    "Jamuraa",
+    "Terisiare",
+    "Aerona"
+   ],
+   "answer": 2,
+   "explanation": "Terisiare is the correct answer for: In the Magic: The Gathering universe, the Antiquities, Ice Age, and Alliances expansions take place on which continent? (Entertainment: Books).",
+   "topic": "Entertainment: Books",
+   "level": 3,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-25-63",
+   "question": "As poverty and racial tensions pushed African-Americans out of the southern US, many of them moved north in an event known as what?",
+   "options": [
+    "The Resettlement",
+    "The Great Awakening",
+    "The Great Migration",
+    "The Harlem Renaissance"
+   ],
+   "answer": 2,
+   "explanation": "The Great Migration is the correct answer for: As poverty and racial tensions pushed African-Americans out of the southern US, many of them moved north in an event known as what? (History).",
+   "topic": "History",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-25-64",
+   "question": "Which one of these rulers did not belong to the Habsburg dynasty?",
+   "options": [
+    "Philip V",
+    "Charles V",
+    "Francis Joseph",
+    "Philip II"
+   ],
+   "answer": 0,
+   "explanation": "Philip V is the correct answer for: Which one of these rulers did not belong to the Habsburg dynasty? (History).",
+   "topic": "History",
+   "level": 3,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-25-65",
+   "question": "What does RAID stand for?",
+   "options": [
+    "Range of Applications with Identical Designs",
+    "Redundant Array of Independent Disks",
+    "Rapid Access for Indexed Devices",
+    "Randomized Abstract Identification Description"
+   ],
+   "answer": 1,
+   "explanation": "Redundant Array of Independent Disks is the correct answer for: What does RAID stand for? (Science: Computers).",
+   "topic": "Science: Computers",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-25-66",
+   "question": "Who is the main protagonist in the game Life is Strange: Before The Storm?",
+   "options": [
+    "Chloe Price",
+    "Max Caulfield",
+    "Rachel Amber",
+    "Frank Bowers"
+   ],
+   "answer": 0,
+   "explanation": "Chloe Price is the correct answer for: Who is the main protagonist in the game Life is Strange: Before The Storm? (Entertainment: Video Games).",
+   "topic": "Entertainment: Video Games",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-25-67",
+   "question": "The following Spanish provinces are located in the northern area of Spain except:",
+   "options": [
+    "Navarre",
+    "Asturias",
+    "Le&oacute;n",
+    "Murcia"
+   ],
+   "answer": 3,
+   "explanation": "Murcia is the correct answer for: The following Spanish provinces are located in the northern area of Spain except: (Geography).",
+   "topic": "Geography",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-25-68",
+   "question": "The Proclaimers - I'm Gonna Be (500 Miles) reached what position on the US Hot 100 Charts in 1993?",
+   "options": [
+    "1st",
+    "8th",
+    "5th",
+    "3rd"
+   ],
+   "answer": 3,
+   "explanation": "3rd is the correct answer for: The Proclaimers - I'm Gonna Be (500 Miles) reached what position on the US Hot 100 Charts in 1993? (Entertainment: Music).",
+   "topic": "Entertainment: Music",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-25-69",
+   "question": "Which of the following is the longest river in Europe?",
+   "options": [
+    "Ural",
+    "Dnieper",
+    "Danube",
+    "Volga"
+   ],
+   "answer": 3,
+   "explanation": "Volga is the correct answer for: Which of the following is the longest river in Europe? (Geography).",
+   "topic": "Geography",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-25-70",
+   "question": "What colour is the circle on the Japanese flag?",
+   "options": [
+    "White",
+    "Black",
+    "Yellow",
+    "Red"
+   ],
+   "answer": 3,
+   "explanation": "Red is the correct answer for: What colour is the circle on the Japanese flag? (Geography).",
+   "topic": "Geography",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-25-71",
+   "question": "Which member of the Velvet Room is not a playable character in Persona 4 Arena Ultimax?",
+   "options": [
+    "Elizabeth",
+    "Margaret",
+    "Marie",
+    "Theodore"
+   ],
+   "answer": 3,
+   "explanation": "Theodore is the correct answer for: Which member of the Velvet Room is not a playable character in Persona 4 Arena Ultimax? (Entertainment: Video Games).",
+   "topic": "Entertainment: Video Games",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-25-72",
+   "question": "Volkswagen's legendary VR6 engine has cylinders positioned at what degree angle?",
+   "options": [
+    "45 Degree",
+    "90 Degree",
+    "30 Degree",
+    "15 Degree"
+   ],
+   "answer": 3,
+   "explanation": "15 Degree is the correct answer for: Volkswagen's legendary VR6 engine has cylinders positioned at what degree angle? (Vehicles).",
+   "topic": "Vehicles",
+   "level": 3,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-25-73",
+   "question": "Which Super Mario video game when they introduce Bowser Jr. for the first time?",
+   "options": [
+    "Mario & Luigi: Bowser's Inside Story + Bowser Jr.'s Journey",
+    "Super Mario Galaxy",
+    "Mario Party series",
+    "Super Mario Sunshine"
+   ],
+   "answer": 3,
+   "explanation": "Super Mario Sunshine is the correct answer for: Which Super Mario video game when they introduce Bowser Jr. for the first time? (Entertainment: Video Games).",
+   "topic": "Entertainment: Video Games",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-25-74",
+   "question": "What is the fastest road legal car in the world?",
+   "options": [
+    "Pagani Huayra BC",
+    "Koenigsegg Agera RS",
+    "Hennessy Venom GT",
+    "Bugatti Veyron Super Sport"
+   ],
+   "answer": 1,
+   "explanation": "Koenigsegg Agera RS is the correct answer for: What is the fastest road legal car in the world? (Vehicles).",
+   "topic": "Vehicles",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-25-75",
+   "question": "Which of these country's capitals starts with the letter B?",
+   "options": [
+    "Jordan",
+    "Qatar",
+    "Kuwait",
+    "Lebanon"
+   ],
+   "answer": 3,
+   "explanation": "Lebanon is the correct answer for: Which of these country's capitals starts with the letter B? (Geography).",
+   "topic": "Geography",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-25-76",
+   "question": "In what city in the dystopia alternate future of Half-Life 2 do you first start in?",
+   "options": [
+    "City 18",
+    "City 17",
+    "City 45",
+    "City 6"
+   ],
+   "answer": 1,
+   "explanation": "City 17 is the correct answer for: In what city in the dystopia alternate future of Half-Life 2 do you first start in? (Entertainment: Video Games).",
+   "topic": "Entertainment: Video Games",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-25-77",
+   "question": "What is the medical term for low blood sugar?",
+   "options": [
+    "Hypoxia",
+    "Hypothyroidism",
+    "Hypothermia",
+    "Hypoglycemia"
+   ],
+   "answer": 3,
+   "explanation": "Hypoglycemia is the correct answer for: What is the medical term for low blood sugar? (Science & Nature).",
+   "topic": "Science & Nature",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-25-78",
+   "question": "What is the romanized Russian word for \"winter\"?",
+   "options": [
+    "Zima",
+    "Leto",
+    "Vesna",
+    "Osen'"
+   ],
+   "answer": 0,
+   "explanation": "Zima is the correct answer for: What is the romanized Russian word for \"winter\"? (General Knowledge).",
+   "topic": "General Knowledge",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-25-79",
+   "question": "Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?",
+   "options": [
+    "Shellshock",
+    "Heartbleed",
+    "Shellscript",
+    "Corrupted Blood"
+   ],
+   "answer": 1,
+   "explanation": "Heartbleed is the correct answer for: Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library? (Science: Computers).",
+   "topic": "Science: Computers",
+   "level": 3,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-25-80",
+   "question": "In the game Sonic Forces, which of the following was not from a previous game?",
+   "options": [
+    "Infinite",
+    "Zavoc",
+    "Chaos",
+    "Metal Sonic"
+   ],
+   "answer": 0,
+   "explanation": "Infinite is the correct answer for: In the game Sonic Forces, which of the following was not from a previous game? (Entertainment: Video Games).",
+   "topic": "Entertainment: Video Games",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-25-81",
+   "question": "Which of the following is NOT a venomous snake?",
+   "options": [
+    "Yellow bellied sea snake",
+    "Black mamba",
+    "Reticulated python",
+    "Malayan Krait"
+   ],
+   "answer": 2,
+   "explanation": "Reticulated python is the correct answer for: Which of the following is NOT a venomous snake? (Animals).",
+   "topic": "Animals",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-25-82",
+   "question": "What's Harry Potter's dad's name?",
+   "options": [
+    "Frank Potter",
+    "James Potter",
+    "Joey Potter",
+    "Hairy Potter Sr."
+   ],
+   "answer": 1,
+   "explanation": "James Potter is the correct answer for: What's Harry Potter's dad's name? (Entertainment: Books).",
+   "topic": "Entertainment: Books",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-25-83",
+   "question": "Which of the following collision avoidance systems helps airplanes avoid colliding with each other?",
+   "options": [
+    "TAWS",
+    "OCAS",
+    "TCAS",
+    "GPWS"
+   ],
+   "answer": 2,
+   "explanation": "TCAS is the correct answer for: Which of the following collision avoidance systems helps airplanes avoid colliding with each other? (Vehicles).",
+   "topic": "Vehicles",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-25-84",
+   "question": "How many years did the Hundred Years' War last?",
+   "options": [
+    "90",
+    "116",
+    "100",
+    "101"
+   ],
+   "answer": 1,
+   "explanation": "116 is the correct answer for: How many years did the Hundred Years' War last? (History).",
+   "topic": "History",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-25-85",
+   "question": "Which continent is considered the largest and most populous continent in the world?",
+   "options": [
+    "Europe",
+    "North America",
+    "Asia",
+    "Africa"
+   ],
+   "answer": 2,
+   "explanation": "Asia is the correct answer for: Which continent is considered the largest and most populous continent in the world? (Geography).",
+   "topic": "Geography",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-25-86",
+   "question": "In Grand Theft Auto V, what was Michael De Santa's former surname?",
+   "options": [
+    "Townley",
+    "De Santos",
+    "Watson",
+    "Simpson"
+   ],
+   "answer": 0,
+   "explanation": "Townley is the correct answer for: In Grand Theft Auto V, what was Michael De Santa's former surname? (Entertainment: Video Games).",
+   "topic": "Entertainment: Video Games",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-25-87",
+   "question": "Which movie served as the KTMA pilot episode for the show \"Mystery Science Theater 3000\"?",
+   "options": [
+    "Plan 9 From Outer Space",
+    "The Robot Vs. The Aztec Mummy",
+    "The Crawling Eye",
+    "The Green Slime"
+   ],
+   "answer": 3,
+   "explanation": "The Green Slime is the correct answer for: Which movie served as the KTMA pilot episode for the show \"Mystery Science Theater 3000\"? (Entertainment: Television).",
+   "topic": "Entertainment: Television",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-25-88",
+   "question": "Which of these is a stop codon in DNA?",
+   "options": [
+    "TAA",
+    "ACT",
+    "GTA",
+    "ACA"
+   ],
+   "answer": 0,
+   "explanation": "TAA is the correct answer for: Which of these is a stop codon in DNA? (Science & Nature).",
+   "topic": "Science & Nature",
+   "level": 3,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-25-89",
+   "question": "What position does Harry Potter play in Quidditch?",
+   "options": [
+    "Beater",
+    "Seeker",
+    "Chaser",
+    "Keeper"
+   ],
+   "answer": 1,
+   "explanation": "Seeker is the correct answer for: What position does Harry Potter play in Quidditch? (Entertainment: Books).",
+   "topic": "Entertainment: Books",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-25-90",
+   "question": "La Fenice opera house is in which Italian city?",
+   "options": [
+    "Milan",
+    "Rome",
+    "Venice",
+    "Pompeii"
+   ],
+   "answer": 2,
+   "explanation": "Venice is the correct answer for: La Fenice opera house is in which Italian city? (Entertainment: Music).",
+   "topic": "Entertainment: Music",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-25-91",
+   "question": "Who founded the Khan Academy?",
+   "options": [
+    "Ben Khan",
+    "Sal Khan",
+    "Kitt Khan",
+    "Adel Khan"
+   ],
+   "answer": 1,
+   "explanation": "Sal Khan is the correct answer for: Who founded the Khan Academy? (General Knowledge).",
+   "topic": "General Knowledge",
+   "level": 3,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-25-92",
+   "question": "How many Star Spirits do you rescue in the Nintendo 64 video game \"Paper Mario\"?",
+   "options": [
+    "5",
+    "12",
+    "10",
+    "7"
+   ],
+   "answer": 3,
+   "explanation": "7 is the correct answer for: How many Star Spirits do you rescue in the Nintendo 64 video game \"Paper Mario\"? (Entertainment: Video Games).",
+   "topic": "Entertainment: Video Games",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-25-93",
+   "question": "Who was the first man to travel into outer space?",
+   "options": [
+    "Virgil Ivan \"Gus\" Grissom",
+    "Neil Armstrong",
+    "Yuri Gagarin",
+    "Buzz Aldrin"
+   ],
+   "answer": 2,
+   "explanation": "Yuri Gagarin is the correct answer for: Who was the first man to travel into outer space? (History).",
+   "topic": "History",
+   "level": 3,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
   }
  ]
 };

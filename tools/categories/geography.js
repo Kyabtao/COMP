@@ -12,7 +12,7 @@
   "railways"
  ],
  "blurb": "Physical, world and Indian geography with climate and minerals.",
- "count": 1004,
+ "count": 1005,
  "questions": [
   {
    "id": "geography-00001",
@@ -15077,6 +15077,22 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "geography-daily-2026-10-25-99",
+   "question": "In physical and regional geography, which bodies of water or landmasses are connected or separated by 'Mozambique Channel'?",
+   "options": [
+    "Arm of the Indian Ocean located between the island nation of Madagascar and mainland Southeast Africa (Mozambique)",
+    "Mountain pass in the Spin Ghar range connecting Peshawar (Pakistan) with Jalalabad and Kabul (Afghanistan)",
+    "Separates Little Andaman (Andaman Islands) from Car Nicobar (Nicobar Islands) in the Bay of Bengal",
+    "Connects the Andaman Sea (Indian Ocean) with the South China Sea (Pacific Ocean) between the Malay Peninsula and Sumatra"
+   ],
+   "answer": 0,
+   "explanation": "Mozambique Channel connects or separates: Arm of the Indian Ocean located between the island nation of Madagascar and mainland Southeast Africa (Mozambique) (stretches roughly 1,600 km and carries the warm Agulhas-feeding Mozambique Current).",
+   "topic": "World & Indian Geography in Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
   }
  ]
 };

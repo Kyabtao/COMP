@@ -13,7 +13,7 @@
   "railways"
  ],
  "blurb": "Important national and international days.",
- "count": 284,
+ "count": 285,
  "questions": [
   {
    "id": "days-events-00001",
@@ -4278,6 +4278,22 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "days-events-daily-2026-10-25-95",
+   "question": "On which date is 'Good Governance Day (Susashan Divas)' observed in India or internationally?",
+   "options": [
+    "15 November",
+    "26 December",
+    "26 January",
+    "25 December"
+   ],
+   "answer": 3,
+   "explanation": "Good Governance Day (Susashan Divas) is observed on 25 December (the birth anniversary of former Prime Minister Atal Bihari Vajpayee promoting transparent citizen-centric administration).",
+   "topic": "Important National & International Days in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
   }
  ]
 };

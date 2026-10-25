@@ -11,7 +11,7 @@
   "railways"
  ],
  "blurb": "Ecology, pollution, climate agreements and wildlife.",
- "count": 285,
+ "count": 286,
  "questions": [
   {
    "id": "environmental-studies-00001",
@@ -4292,6 +4292,22 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "environmental-studies-daily-2026-10-25-96",
+   "question": "In which Indian state is the Ramsar wetland or conservation site 'Tampara Lake' located?",
+   "options": [
+    "Karnataka",
+    "Odisha",
+    "Madhya Pradesh",
+    "Tamil Nadu"
+   ],
+   "answer": 1,
+   "explanation": "'Tampara Lake' (natural freshwater depression near the Rushikulya river basin in Ganjam district) is a notified Ramsar wetland site located in Odisha.",
+   "topic": "Ecology, Ramsar Wetlands & Biosphere Reserves",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
   }
  ]
 };

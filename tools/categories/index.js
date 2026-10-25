@@ -31,7 +31,7 @@ var manifest = [
    "railways"
   ],
   "blurb": "Countries, capitals, currencies, days, organisations and world firsts.",
-  "count": 1017
+  "count": 1066
  },
  {
   "slug": "current-affairs",
@@ -46,7 +46,7 @@ var manifest = [
    "railways"
   ],
   "blurb": "Recent schemes, missions, summits, awards and appointments.",
-  "count": 1043
+  "count": 1086
  },
  {
   "slug": "static-gk",
@@ -103,7 +103,7 @@ var manifest = [
    "railways"
   ],
   "blurb": "Physical, world and Indian geography with climate and minerals.",
-  "count": 1004
+  "count": 1005
  },
  {
   "slug": "general-science",
@@ -117,7 +117,7 @@ var manifest = [
    "railways"
   ],
   "blurb": "Physics, chemistry and biology facts combined.",
-  "count": 1054
+  "count": 1056
  },
  {
   "slug": "english",
@@ -187,7 +187,7 @@ var manifest = [
    "railways"
   ],
   "blurb": "Defence, awards, institutions and national facts.",
-  "count": 283
+  "count": 284
  },
  {
   "slug": "computer-awareness",
@@ -240,7 +240,7 @@ var manifest = [
    "railways"
   ],
   "blurb": "Ecology, pollution, climate agreements and wildlife.",
-  "count": 285
+  "count": 286
  },
  {
   "slug": "physics",
@@ -293,7 +293,7 @@ var manifest = [
    "railways"
   ],
   "blurb": "Trophies, terms, players and tournaments.",
-  "count": 306
+  "count": 308
  },
  {
   "slug": "awards-honours",
@@ -335,7 +335,7 @@ var manifest = [
    "railways"
   ],
   "blurb": "Important national and international days.",
-  "count": 284
+  "count": 285
  },
  {
   "slug": "inventions-discoveries",

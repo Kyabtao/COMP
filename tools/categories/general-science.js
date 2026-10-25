@@ -12,7 +12,7 @@
   "railways"
  ],
  "blurb": "Physics, chemistry and biology facts combined.",
- "count": 1054,
+ "count": 1056,
  "questions": [
   {
    "id": "general-science-00001",
@@ -15877,6 +15877,38 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "general-science-daily-2026-10-25-42",
+   "question": "Which current affairs development was reported regarding: \"Elon Musk limited Ukraine’s access to the military-grade network of Starlink after Trum pcriticised Kyiv’s strikes on Russia’s energy infrastructure\"?",
+   "options": [
+    "Starshield | The non-state sovereigns",
+    "Health Quiz: On arthritis",
+    "Government asks Meta to ensure its recommendation systems do not expose users to limited set of narratives",
+    "Russian military satellite makes ‘close approach’ to U.S. radar satellite in orbit"
+   ],
+   "answer": 0,
+   "explanation": "Starshield | The non-state sovereigns — Elon Musk limited Ukraine’s access to the military-grade network of Starlink after Trum pcriticised Kyiv’s strikes on Russia’s energy infrastructure (The Hindu — Science & Technology, Sun, 25 Oct 2026 01:42:51 +0530).",
+   "topic": "The Hindu — Science & Technology Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "general-science-daily-2026-10-25-97",
+   "question": "The BioE3 Policy approved by the Union Cabinet in August 2024 stands for Biotechnology for which three pillars?",
+   "options": [
+    "Exports, Enterprise and Ethics",
+    "Engineering, Evolution and Ecology",
+    "Energy, Ecology and Education",
+    "Economy, Environment and Employment"
+   ],
+   "answer": 3,
+   "explanation": "The BioE3 (Biotechnology for Economy, Environment and Employment) Policy promotes high-performance biomanufacturing across bio-based chemicals, smart proteins, precision biotherapeutics and climate-resilient agriculture.",
+   "topic": "Science & Technology Policy",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
   }
  ]
 };
