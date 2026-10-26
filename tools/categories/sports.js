@@ -12,7 +12,7 @@
   "railways"
  ],
  "blurb": "Trophies, terms, players and tournaments.",
- "count": 308,
+ "count": 320,
  "questions": [
   {
    "id": "sports-00001",
@@ -4681,6 +4681,198 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "sports-daily-2026-10-26-55",
+   "question": "Which current affairs development was reported regarding: \"The 28-year-old had suffered a right adductor strain during the series-opener last week.\"?",
+   "options": [
+    "For record-breaking Chuki, this is just the start of big things",
+    "Ishan Kishan ruled out of third T20I against New Zealand as precautionary measure",
+    "Sichuan to meet Denso Iris in the final of FIBA-Women’s Basketball League Asia tournament",
+    "Ranji Trophy: Ticket collector Ravi Singh on the right track"
+   ],
+   "answer": 1,
+   "explanation": "Ishan Kishan ruled out of third T20I against New Zealand as precautionary measure — The 28-year-old had suffered a right adductor strain during the series-opener last week. (The Hindu — Sports, Mon, 26 Oct 2026 09:54:31 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "sports-daily-2026-10-26-56",
+   "question": "Which current affairs development was reported regarding: \"French superstar Mbappe opened the scoring before the interval and then slotted home late on to inflict Barca’s first domestic defeat of the campaign after Raphinha had equalised for the champions\"?",
+   "options": [
+    "Kieron Pollard appointed as head coach for Mumbai Indians",
+    "Ishan Kishan ruled out of third T20I against New Zealand as precautionary measure",
+    "Arsenal sink Everton to join Manchester City at Premier League summit",
+    "Kylian Mbappe double helps Real Madrid stuns Barcelona in La Liga Clasico"
+   ],
+   "answer": 3,
+   "explanation": "Kylian Mbappe double helps Real Madrid stuns Barcelona in La Liga Clasico — French superstar Mbappe opened the scoring before the interval and then slotted home late on to inflict Barca’s first domestic defeat of the campaign after Raphinha had equalised for the champions (The Hindu — Sports, Mon, 26 Oct 2026 08:56:42 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "sports-daily-2026-10-26-57",
+   "question": "Which current affairs development was reported regarding: \"Like Kohli during a chase, he somehow swaps his brain for a computer; he works out angles and areas to target and bowlers to attack, mentally recalibrating with every passing over and somehow insulating himself from...\"?",
+   "options": [
+    "Tilak —the yo-yo man of India’s T20 set-up",
+    "Ishan Kishan ruled out of third T20I against New Zealand as precautionary measure",
+    "Sichuan to meet Denso Iris in the final of FIBA-Women’s Basketball League Asia tournament",
+    "Infantino says he’s supported by ‘vast, vast majority’ of football ahead of FIFA elections"
+   ],
+   "answer": 0,
+   "explanation": "Tilak —the yo-yo man of India’s T20 set-up — Like Kohli during a chase, he somehow swaps his brain for a computer; he works out angles and areas to target and bowlers to attack, mentally recalibrating with every passing over and somehow insulating himself from... (The Hindu — Sports, Mon, 26 Oct 2026 08:10:02 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "sports-daily-2026-10-26-58",
+   "question": "Which current affairs development was reported regarding: \"The absence of Siraj and Gill should not take the sheen away from the top-of-the-table clash; a tracks that aids the slow bowlers awaits\"?",
+   "options": [
+    "Ranji Trophy: Ticket collector Ravi Singh on the right track",
+    "Ranji Trophy: Spin, summit and Gymkhana showdown as Hyderabad hosts Punjab",
+    "Infantino says he’s supported by ‘vast, vast majority’ of football ahead of FIFA elections",
+    "India keen to host World junior 3x3 championships: Govindaraj"
+   ],
+   "answer": 1,
+   "explanation": "Ranji Trophy: Spin, summit and Gymkhana showdown as Hyderabad hosts Punjab — The absence of Siraj and Gill should not take the sheen away from the top-of-the-table clash; a tracks that aids the slow bowlers awaits (The Hindu — Sports, Sun, 25 Oct 2026 20:44:37 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "sports-daily-2026-10-26-59",
+   "question": "Which current affairs development was reported regarding: \"Under-pressure Manchester United manager Michael Carrick has dropped captain Bruno Fernandes in a statement selection with the team in a crisis\"?",
+   "options": [
+    "El Clasico: Flick, Mourinho and the morbo of all morbos",
+    "Fasalul and his love for overcoming hurdles",
+    "Bruno Fernandes dropped by Man United in big call by manager Michael Carrick",
+    "My father pushes me to become a better player, says Tagenarine"
+   ],
+   "answer": 2,
+   "explanation": "Bruno Fernandes dropped by Man United in big call by manager Michael Carrick — Under-pressure Manchester United manager Michael Carrick has dropped captain Bruno Fernandes in a statement selection with the team in a crisis (The Hindu — Sports, Sun, 25 Oct 2026 19:26:06 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "sports-daily-2026-10-26-60",
+   "question": "Which current affairs development was reported regarding: \"Echoes Of Time turns in a courageous performance to take the honours in the Major P.K. Mehra Memorial Super Mile\"?",
+   "options": [
+    "Bruno Fernandes dropped by Man United in big call by manager Michael Carrick",
+    "Sindhu reaches French Open badminton final",
+    "Zuccaro primed to deliver in Indian Turf Invitation Cup",
+    "Zuccaro brooks no challenge in the Invitation Cup"
+   ],
+   "answer": 3,
+   "explanation": "Zuccaro brooks no challenge in the Invitation Cup — Echoes Of Time turns in a courageous performance to take the honours in the Major P.K. Mehra Memorial Super Mile (The Hindu — Sports, Sun, 25 Oct 2026 19:18:58 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "sports-daily-2026-10-26-61",
+   "question": "Which current affairs development was reported regarding: \"Sai Kishore’s men approach the game with confidence after having posted an innings victory over Uttarakhand in the previous round; the visiting side eyes its first win of the season\"?",
+   "options": [
+    "Ranji Trophy: Tamil Nadu, Railways keen to travel full steam",
+    "Premier League: Jackson double ends Man City’s perfect run as Villa win 2-1",
+    "India keen to host World junior 3x3 championships: Govindaraj",
+    "Vaisakh Chandran corrects bowling action, regains his rhythm"
+   ],
+   "answer": 0,
+   "explanation": "Ranji Trophy: Tamil Nadu, Railways keen to travel full steam — Sai Kishore’s men approach the game with confidence after having posted an innings victory over Uttarakhand in the previous round; the visiting side eyes its first win of the season (The Hindu — Sports, Sun, 25 Oct 2026 18:38:03 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "sports-daily-2026-10-26-62",
+   "question": "Which current affairs development was reported regarding: \"The host carries the momentum of securing an innings win against Odisha in its previous encounter; the form of batters Baby, Azharuddeen and spin trio of Jalaj, Sarvate and Vaisakh is a plus; the visitor’s deep...\"?",
+   "options": [
+    "Australia face selection headaches after 'shambolic' South Africa defeat",
+    "Kylian Mbappe double helps Real Madrid stuns Barcelona in La Liga Clasico",
+    "Ranji Trophy: Buoyant Kerala faces a formidable Bengal challenge",
+    "England's Bodhana Sivanandan becomes International Master at age of 11, breaks 38-year-old record"
+   ],
+   "answer": 2,
+   "explanation": "Ranji Trophy: Buoyant Kerala faces a formidable Bengal challenge — The host carries the momentum of securing an innings win against Odisha in its previous encounter; the form of batters Baby, Azharuddeen and spin trio of Jalaj, Sarvate and Vaisakh is a plus; the visitor’s deep... (The Hindu — Sports, Sun, 25 Oct 2026 18:26:10 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "sports-daily-2026-10-26-63",
+   "question": "Which current affairs development was reported regarding: \"The host will fancy its chances against Tripura, one of the weaker Elite sides, which comes into the fixture on the back of two defeats; rain could disrupt the plans though\"?",
+   "options": [
+    "Pornanong Phatlum wins Indian Open golf",
+    "Ranji Trophy: Tamil Nadu, Railways keen to travel full steam",
+    "Ranji Trophy: Karnataka will aim to shrug off its disappointing start to the season",
+    "India wins historic first mixed doubles medal at Asian TT in 72 years"
+   ],
+   "answer": 2,
+   "explanation": "Ranji Trophy: Karnataka will aim to shrug off its disappointing start to the season — The host will fancy its chances against Tripura, one of the weaker Elite sides, which comes into the fixture on the back of two defeats; rain could disrupt the plans though (The Hindu — Sports, Sun, 25 Oct 2026 18:20:34 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "sports-daily-2026-10-26-64",
+   "question": "Which current affairs development was reported regarding: \"It will be the maiden senior Weightlifting World Championships to be held in India\"?",
+   "options": [
+    "Australia face selection headaches after 'shambolic' South Africa defeat",
+    "Ranji Trophy: Buoyant Kerala faces a formidable Bengal challenge",
+    "Ahmedabad to host senior Weightlifting World Championships in 2029: IWF",
+    "Miami Vice, Noraiah and Your Unforgettable catch the eye"
+   ],
+   "answer": 2,
+   "explanation": "Ahmedabad to host senior Weightlifting World Championships in 2029: IWF — It will be the maiden senior Weightlifting World Championships to be held in India (The Hindu — Sports, Sun, 25 Oct 2026 18:14:24 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "sports-daily-2026-10-26-65",
+   "question": "Which current affairs development was reported regarding: \"The 31-year-old Indian lost 21-16, 11-21, 12-21 to the Olympic champion, who clinched her fourth French Open title and 11th crown of the season\"?",
+   "options": [
+    "Pornanong Phatlum wins Indian Open golf",
+    "Fighting Sindhu loses to nemesis An Se Young to sign off with runner-up finish",
+    "TAI Awards: Zavaray Poonawalla honoured with Legend of Indian Horse Racing award",
+    "Invitation Cup weekend: Royal Legacy runs to glory in the Mysore Derby"
+   ],
+   "answer": 1,
+   "explanation": "Fighting Sindhu loses to nemesis An Se Young to sign off with runner-up finish — The 31-year-old Indian lost 21-16, 11-21, 12-21 to the Olympic champion, who clinched her fourth French Open title and 11th crown of the season (The Hindu — Sports, Sun, 25 Oct 2026 18:04:55 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "sports-daily-2026-10-26-66",
+   "question": "Which current affairs development was reported regarding: \"Both teams come into this contest on the back of two resounding wins each; this encounter presents itself as the first significant test of the season for visitor and much will depend on whether its pace attack,...\"?",
+   "options": [
+    "Arsenal sink Everton to join Manchester City at Premier League summit",
+    "Ranji Trophy: Will Haryana find a way to blunt Mumbai’s pace attack?",
+    "Ranji Trophy: Buoyant Kerala faces a formidable Bengal challenge",
+    "Ranji Trophy: Tamil Nadu, Railways keen to travel full steam"
+   ],
+   "answer": 1,
+   "explanation": "Ranji Trophy: Will Haryana find a way to blunt Mumbai’s pace attack? — Both teams come into this contest on the back of two resounding wins each; this encounter presents itself as the first significant test of the season for visitor and much will depend on whether its pace attack,... (The Hindu — Sports, Sun, 25 Oct 2026 17:56:05 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
   }
  ]
 };

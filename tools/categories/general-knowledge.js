@@ -12,7 +12,7 @@
   "railways"
  ],
  "blurb": "Countries, capitals, currencies, days, organisations and world firsts.",
- "count": 1066,
+ "count": 1100,
  "questions": [
   {
    "id": "general-knowledge-00001",
@@ -16069,6 +16069,550 @@
    "level": 3,
    "source": "daily",
    "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-26-67",
+   "question": "Which student in Yandere Simulator is known for asking irritating and stupid questions?",
+   "options": [
+    "Oka Ruto",
+    "Kokona Hruka",
+    "Pipi Osu",
+    "Midori Gurin"
+   ],
+   "answer": 3,
+   "explanation": "Midori Gurin is the correct answer for: Which student in Yandere Simulator is known for asking irritating and stupid questions? (Entertainment: Video Games).",
+   "topic": "Entertainment: Video Games",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-26-68",
+   "question": "Prior to 2018, which car company is the only Japanese company which won the 24 Hours of Le Mans?",
+   "options": [
+    "Mazda",
+    "Subaru",
+    "Toyota",
+    "Nissan"
+   ],
+   "answer": 0,
+   "explanation": "Mazda is the correct answer for: Prior to 2018, which car company is the only Japanese company which won the 24 Hours of Le Mans? (Sports).",
+   "topic": "Sports",
+   "level": 3,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-26-69",
+   "question": "What is rapper Drake's real name?",
+   "options": [
+    "Dwayne Carter",
+    "Aubrey Graham",
+    "Andre Young",
+    "Shaun Carter"
+   ],
+   "answer": 1,
+   "explanation": "Aubrey Graham is the correct answer for: What is rapper Drake's real name? (Entertainment: Music).",
+   "topic": "Entertainment: Music",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-26-70",
+   "question": "Which ability from the \"Magic: The Gathering\" Scars of Mirrodin expansion involves having at least three artifacts in play?",
+   "options": [
+    "Imprint",
+    "Living Weapon",
+    "Affinity",
+    "Metalcraft"
+   ],
+   "answer": 3,
+   "explanation": "Metalcraft is the correct answer for: Which ability from the \"Magic: The Gathering\" Scars of Mirrodin expansion involves having at least three artifacts in play? (Entertainment: Board Games).",
+   "topic": "Entertainment: Board Games",
+   "level": 3,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-26-71",
+   "question": "In Terraria, which debuff does the ankh charm not provide immunity to?",
+   "options": [
+    "Bleeding",
+    "Venom",
+    "Cursed",
+    "Slow"
+   ],
+   "answer": 1,
+   "explanation": "Venom is the correct answer for: In Terraria, which debuff does the ankh charm not provide immunity to? (Entertainment: Video Games).",
+   "topic": "Entertainment: Video Games",
+   "level": 3,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-26-72",
+   "question": "Ozzy Osbourne was the lead singer for what metal band?",
+   "options": [
+    "Judas Priest",
+    "AC/DC",
+    "Iron Maiden",
+    "Black Sabbath"
+   ],
+   "answer": 3,
+   "explanation": "Black Sabbath is the correct answer for: Ozzy Osbourne was the lead singer for what metal band? (Entertainment: Music).",
+   "topic": "Entertainment: Music",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-26-73",
+   "question": "In the movie \"Spaceballs\", what are the Spaceballs attempting to steal from Planet Druidia?",
+   "options": [
+    "Meatballs",
+    "Princess Lonestar",
+    "The Schwartz",
+    "Air"
+   ],
+   "answer": 3,
+   "explanation": "Air is the correct answer for: In the movie \"Spaceballs\", what are the Spaceballs attempting to steal from Planet Druidia? (Entertainment: Film).",
+   "topic": "Entertainment: Film",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-26-74",
+   "question": "What is the age of Ash Ketchum in Pokemon when he starts his journey?",
+   "options": [
+    "12",
+    "10",
+    "11",
+    "9"
+   ],
+   "answer": 1,
+   "explanation": "10 is the correct answer for: What is the age of Ash Ketchum in Pokemon when he starts his journey? (Entertainment: Japanese Anime & Manga).",
+   "topic": "Entertainment: Japanese Anime & Manga",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-26-75",
+   "question": "What stage of development do the majority of eukaryotic cells remain in for most of their life?",
+   "options": [
+    "Stasis",
+    "Interphase",
+    "Prophase",
+    "Telophase"
+   ],
+   "answer": 1,
+   "explanation": "Interphase is the correct answer for: What stage of development do the majority of eukaryotic cells remain in for most of their life? (Science & Nature).",
+   "topic": "Science & Nature",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-26-76",
+   "question": "The Maori hold that which island nation was founded by Kupe, who discovered it under a long white cloud?",
+   "options": [
+    "New Zealand",
+    "Hawaii",
+    "Fiji",
+    "Vanuatu"
+   ],
+   "answer": 0,
+   "explanation": "New Zealand is the correct answer for: The Maori hold that which island nation was founded by Kupe, who discovered it under a long white cloud? (Mythology).",
+   "topic": "Mythology",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-26-77",
+   "question": "Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?",
+   "options": [
+    "Commodore",
+    "Microsoft",
+    "Atari",
+    "Apple"
+   ],
+   "answer": 3,
+   "explanation": "Apple is the correct answer for: Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne? (Science: Computers).",
+   "topic": "Science: Computers",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-26-78",
+   "question": "Which president erased the national debt of the United States?",
+   "options": [
+    "Ronald Reagan",
+    "Andrew Jackson",
+    "John F. Kennedy",
+    "Franklin Roosevelt"
+   ],
+   "answer": 1,
+   "explanation": "Andrew Jackson is the correct answer for: Which president erased the national debt of the United States? (Politics).",
+   "topic": "Politics",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-26-79",
+   "question": "Which of the following anime of the mecha genre began airing in 1982?",
+   "options": [
+    "Mobile Suit Gundam",
+    "Armored Trooper VOTOMS",
+    "Neon Genesis Evangelion",
+    "The Super Dimension Fortress Macross"
+   ],
+   "answer": 3,
+   "explanation": "The Super Dimension Fortress Macross is the correct answer for: Which of the following anime of the mecha genre began airing in 1982? (Entertainment: Japanese Anime & Manga).",
+   "topic": "Entertainment: Japanese Anime & Manga",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-26-80",
+   "question": "When was the first mammal successfully cloned?",
+   "options": [
+    "1985",
+    "1999",
+    "1996",
+    "2009"
+   ],
+   "answer": 2,
+   "explanation": "1996 is the correct answer for: When was the first mammal successfully cloned? (Science & Nature).",
+   "topic": "Science & Nature",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-26-81",
+   "question": "Burning which of these metals will produce a bright white flame?",
+   "options": [
+    "Copper",
+    "Magnesium",
+    "Lithium",
+    "Lead"
+   ],
+   "answer": 1,
+   "explanation": "Magnesium is the correct answer for: Burning which of these metals will produce a bright white flame? (Science & Nature).",
+   "topic": "Science & Nature",
+   "level": 3,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-26-82",
+   "question": "Who is the vocalist and frontman of rock band \"Guns N' Roses\"?",
+   "options": [
+    "Kurt Cobain",
+    "Bono",
+    "Axl Rose",
+    "Slash"
+   ],
+   "answer": 2,
+   "explanation": "Axl Rose is the correct answer for: Who is the vocalist and frontman of rock band \"Guns N' Roses\"? (Entertainment: Music).",
+   "topic": "Entertainment: Music",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-26-83",
+   "question": "Who was the Author of the manga Monster Hunter Orage?",
+   "options": [
+    "Keiichi Hikami",
+    "Hirohiko Araki",
+    "Hiro Mashima",
+    "Shin Yamamoto"
+   ],
+   "answer": 2,
+   "explanation": "Hiro Mashima is the correct answer for: Who was the Author of the manga Monster Hunter Orage? (Entertainment: Japanese Anime & Manga).",
+   "topic": "Entertainment: Japanese Anime & Manga",
+   "level": 3,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-26-84",
+   "question": "Which item of clothing is usually worn by a Scotsman at a wedding?",
+   "options": [
+    "Skirt",
+    "Kilt",
+    "Rhobes",
+    "Dress"
+   ],
+   "answer": 1,
+   "explanation": "Kilt is the correct answer for: Which item of clothing is usually worn by a Scotsman at a wedding? (General Knowledge).",
+   "topic": "General Knowledge",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-26-85",
+   "question": "Which of the following Assyrian kings did NOT rule during the Neo-Assyrian Empire?",
+   "options": [
+    "Shamshi-Adad III",
+    "Shalmaneser V",
+    "Esharhaddon",
+    "Ashur-nasir-pal II"
+   ],
+   "answer": 0,
+   "explanation": "Shamshi-Adad III is the correct answer for: Which of the following Assyrian kings did NOT rule during the Neo-Assyrian Empire? (History).",
+   "topic": "History",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-26-86",
+   "question": "What year was the United States Declaration of Independence signed?",
+   "options": [
+    "1774",
+    "1776",
+    "1775",
+    "1777"
+   ],
+   "answer": 1,
+   "explanation": "1776 is the correct answer for: What year was the United States Declaration of Independence signed? (History).",
+   "topic": "History",
+   "level": 3,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-26-87",
+   "question": "In the video game \"League of Legends\" which character is known as \"The Sinister Blade\"?",
+   "options": [
+    "Akali",
+    "Katarina",
+    "Shaco",
+    "Zed"
+   ],
+   "answer": 1,
+   "explanation": "Katarina is the correct answer for: In the video game \"League of Legends\" which character is known as \"The Sinister Blade\"? (Entertainment: Video Games).",
+   "topic": "Entertainment: Video Games",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-26-88",
+   "question": "Which of these is NOT a playable character race in the video game \"Starbound\"?",
+   "options": [
+    "Floran",
+    "Fenerox",
+    "Hylotl",
+    "Novakid"
+   ],
+   "answer": 1,
+   "explanation": "Fenerox is the correct answer for: Which of these is NOT a playable character race in the video game \"Starbound\"? (Entertainment: Video Games).",
+   "topic": "Entertainment: Video Games",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-26-89",
+   "question": "Which of the following Presidents of the United States was assassinated?",
+   "options": [
+    "Lyndon Johnson",
+    "Franklin Roosevelt",
+    "William McKinley",
+    "Chester Arthur"
+   ],
+   "answer": 2,
+   "explanation": "William McKinley is the correct answer for: Which of the following Presidents of the United States was assassinated? (History).",
+   "topic": "History",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-26-90",
+   "question": "What is the name of the Greek god of peaceful deaths?",
+   "options": [
+    "Hades",
+    "Thanatos",
+    "Moros",
+    "Tartarus"
+   ],
+   "answer": 1,
+   "explanation": "Thanatos is the correct answer for: What is the name of the Greek god of peaceful deaths? (Mythology).",
+   "topic": "Mythology",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-26-91",
+   "question": "Only 9% of US Households owned a television in",
+   "options": [
+    "1913",
+    "1950",
+    "1965",
+    "1969"
+   ],
+   "answer": 1,
+   "explanation": "1950 is the correct answer for: Only 9% of US Households owned a television in (General Knowledge).",
+   "topic": "General Knowledge",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-26-92",
+   "question": "How long did World War II last?",
+   "options": [
+    "7 years",
+    "5 years",
+    "4 years",
+    "6 years"
+   ],
+   "answer": 3,
+   "explanation": "6 years is the correct answer for: How long did World War II last? (History).",
+   "topic": "History",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-26-93",
+   "question": "From what show is the character \"James Doakes\"?",
+   "options": [
+    "Dexter",
+    "Marvel's Daredevil",
+    "Boardwalk Empire",
+    "The Walking Dead"
+   ],
+   "answer": 0,
+   "explanation": "Dexter is the correct answer for: From what show is the character \"James Doakes\"? (Entertainment: Television).",
+   "topic": "Entertainment: Television",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-26-94",
+   "question": "In the game Overwatch, which hero out of the following 4 is from Brazil?",
+   "options": [
+    "McCree",
+    "Symmetra",
+    "Sombra",
+    "L&uacute;cio"
+   ],
+   "answer": 3,
+   "explanation": "L&uacute;cio is the correct answer for: In the game Overwatch, which hero out of the following 4 is from Brazil? (Entertainment: Video Games).",
+   "topic": "Entertainment: Video Games",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-26-95",
+   "question": "In \"Hexadecimal\", what color would be displayed from the color code? \"#00FF00\"?",
+   "options": [
+    "Green",
+    "Red",
+    "Blue",
+    "Yellow"
+   ],
+   "answer": 0,
+   "explanation": "Green is the correct answer for: In \"Hexadecimal\", what color would be displayed from the color code? \"#00FF00\"? (Science: Computers).",
+   "topic": "Science: Computers",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-26-96",
+   "question": "The US state of New York has about as many inhabitants as?",
+   "options": [
+    "Hungary",
+    "Poland",
+    "Romania",
+    "Germany"
+   ],
+   "answer": 2,
+   "explanation": "Romania is the correct answer for: The US state of New York has about as many inhabitants as? (Geography).",
+   "topic": "Geography",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-26-97",
+   "question": "What episode of \"Mr. Bean\" saw him trying to prevent people from seeing him naked?",
+   "options": [
+    "Mr. Bean in Room 426",
+    "Back to School Mr. Bean",
+    "The Trouble with Mr. Bean",
+    "Mr. Bean Goes to Town"
+   ],
+   "answer": 0,
+   "explanation": "Mr. Bean in Room 426 is the correct answer for: What episode of \"Mr. Bean\" saw him trying to prevent people from seeing him naked? (Entertainment: Television).",
+   "topic": "Entertainment: Television",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-26-98",
+   "question": "Which of these online games was originally named LindenWorld in it's early development?",
+   "options": [
+    "HabboHotel",
+    "IMVU",
+    "ActiveWorlds",
+    "SecondLife"
+   ],
+   "answer": 3,
+   "explanation": "SecondLife is the correct answer for: Which of these online games was originally named LindenWorld in it's early development? (Entertainment: Video Games).",
+   "topic": "Entertainment: Video Games",
+   "level": 3,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-26-99",
+   "question": "Who won the UEFA Champions League in 2016?",
+   "options": [
+    "Manchester City F.C.",
+    "Real Madrid C.F.",
+    "FC Bayern Munich",
+    "Atletico Madrid"
+   ],
+   "answer": 1,
+   "explanation": "Real Madrid C.F. is the correct answer for: Who won the UEFA Champions League in 2016? (Sports).",
+   "topic": "Sports",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-26-100",
+   "question": "In \"Undertale\", how many main endings are there?",
+   "options": [
+    "5",
+    "3",
+    "13",
+    "2"
+   ],
+   "answer": 1,
+   "explanation": "3 is the correct answer for: In \"Undertale\", how many main endings are there? (Entertainment: Video Games).",
+   "topic": "Entertainment: Video Games",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
   }
  ]
 };

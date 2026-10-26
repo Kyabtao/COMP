@@ -11,7 +11,7 @@
   "ssc-cgl"
  ],
  "blurb": "Banking, budget, taxes, trade and national income.",
- "count": 345,
+ "count": 348,
  "questions": [
   {
    "id": "economics-00001",
@@ -5252,6 +5252,54 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "economics-daily-2026-10-26-52",
+   "question": "Which current affairs development was reported regarding: \"The government’s proposal to allow an MDR of 0.25–0.5% on UPI transactions above ₹2,000 reverses a decade-long policy; taxing the payment rail could weaken incentives for banks and fintechs to invest in UPI while...\"?",
+   "options": [
+    "UPI and the cost of policy reversal",
+    "India’s trade caught in the middle",
+    "What if a cheque bounces?",
+    "What are the deal contours of India-New Zealand FTA?"
+   ],
+   "answer": 0,
+   "explanation": "UPI and the cost of policy reversal — The government’s proposal to allow an MDR of 0.25–0.5% on UPI transactions above ₹2,000 reverses a decade-long policy; taxing the payment rail could weaken incentives for banks and fintechs to invest in UPI while... (The Hindu — Economy & Banking, Sun, 25 Oct 2026 22:39:42 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "economics-daily-2026-10-26-53",
+   "question": "Which current affairs development was reported regarding: \"A significant share of life insurance premiums is reinvested in securities that finance government expenditure. While the case for deeper insurance penetration is often made in terms of household financial...\"?",
+   "options": [
+    "How India’s life insurance sector funds government expenditure",
+    "Stock markets close lower amid elevated crude oil, rising inflation",
+    "Agrivoltaics on 10% of suitable land can meet 2050 power demand: Pralhad Joshi",
+    "Unemployment rate in country stands at 5% in September, stable compared to August: NSO"
+   ],
+   "answer": 0,
+   "explanation": "How India’s life insurance sector funds government expenditure — A significant share of life insurance premiums is reinvested in securities that finance government expenditure. While the case for deeper insurance penetration is often made in terms of household financial... (The Hindu — Economy & Banking, Sun, 25 Oct 2026 19:30:54 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "economics-daily-2026-10-26-54",
+   "question": "Which current affairs development was reported regarding: \"It’s easy to swipe a card to satisfy a desire and gratify an impulse. However, unmindful swipe scan accumulate into a mountain of debt, take a toll on monthly budget, and derail financial goals\"?",
+   "options": [
+    "India does not grow at anybody’s cost; it grows with and for the world: PM Modi",
+    "OPEC cuts India’s 2026 oil demand growth forecast to 40,000 barrels per day",
+    "Market's early rally fizzles out as banking, financial stocks weigh on benchmarks",
+    "Swiping in dark: The hidden cost of plastic money"
+   ],
+   "answer": 3,
+   "explanation": "Swiping in dark: The hidden cost of plastic money — It’s easy to swipe a card to satisfy a desire and gratify an impulse. However, unmindful swipe scan accumulate into a mountain of debt, take a toll on monthly budget, and derail financial goals (The Hindu — Economy & Banking, Sun, 25 Oct 2026 16:29:46 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
   }
  ]
 };

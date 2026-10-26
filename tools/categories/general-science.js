@@ -12,7 +12,7 @@
   "railways"
  ],
  "blurb": "Physics, chemistry and biology facts combined.",
- "count": 1056,
+ "count": 1061,
  "questions": [
   {
    "id": "general-science-00001",
@@ -15909,6 +15909,86 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "general-science-daily-2026-10-26-47",
+   "question": "Which current affairs development was reported regarding: \"Claude Cohen-Tannoudji had many connections with India, including acknowledging the work of a little-known scientist who had died three decades before Cohen-Tannoudji won the Nobel Prize\"?",
+   "options": [
+    "Why are the whites of human eyes white?",
+    "Top AI researchers demand action to prevent models going ‘rogue’",
+    "A physicist who took atoms near absolute zero, and physics further",
+    "‘Turtle Walker’: Zoya Akhtar-backed documentary pays tribute to Satish Bhaskar’s life and legacy"
+   ],
+   "answer": 2,
+   "explanation": "A physicist who took atoms near absolute zero, and physics further — Claude Cohen-Tannoudji had many connections with India, including acknowledging the work of a little-known scientist who had died three decades before Cohen-Tannoudji won the Nobel Prize (The Hindu — Science & Technology, Mon, 26 Oct 2026 07:19:34 +0530).",
+   "topic": "The Hindu — Science & Technology Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "general-science-daily-2026-10-26-48",
+   "question": "Which current affairs development was reported regarding: \"A new study measured how different neighbouring languages were from one another. The authors say that linguistic hotspots may offer glimpses into how human languages became more varied before large migrations and...\"?",
+   "options": [
+    "Scientists unearth new instance of ‘contagious cancer’ in animals",
+    "How people’s genes are revealing why some languages are so unique",
+    "IISc study says strong magnetic fields could allow white dwarfs to grow beyond the Chandrasekhar limit",
+    "Indian scientists identify Martian analogue sites"
+   ],
+   "answer": 1,
+   "explanation": "How people’s genes are revealing why some languages are so unique — A new study measured how different neighbouring languages were from one another. The authors say that linguistic hotspots may offer glimpses into how human languages became more varied before large migrations and... (The Hindu — Science & Technology, Sun, 25 Oct 2026 19:39:33 +0530).",
+   "topic": "The Hindu — Science & Technology Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "general-science-daily-2026-10-26-49",
+   "question": "Which current affairs development was reported regarding: \"Despite its proper structure, India’s only dedicated space university has just 1,356 students across all levels, a small base to feed a rapidly scaling space and defence-space programme\"?",
+   "options": [
+    "How poor education, training infra constrains India's military space plans",
+    "India’s first solar mission Aditya-L1 generates Doppler velocity images of the solar corona",
+    "Ex-OpenAI employee accused of planting device appears to have Saudi backing, court filing shows",
+    "Quiz: The Kalam Code"
+   ],
+   "answer": 0,
+   "explanation": "How poor education, training infra constrains India's military space plans — Despite its proper structure, India’s only dedicated space university has just 1,356 students across all levels, a small base to feed a rapidly scaling space and defence-space programme (The Hindu — Science & Technology, Sun, 25 Oct 2026 18:02:35 +0530).",
+   "topic": "The Hindu — Science & Technology Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "general-science-daily-2026-10-26-50",
+   "question": "Which current affairs development was reported regarding: \"User data is routinely commoditised today, and passing a law assuming compliance and waiting for complaints or litigation will not suffice. As the DPDP Act comes into effect, the government must finance, build, and...\"?",
+   "options": [
+    "Anna Mani: a star from the hills",
+    "ISRO will not be privatised, says chairperson Narayanan",
+    "India needs to train its clinical staff before erecting data shields",
+    "Indian research can shape the world"
+   ],
+   "answer": 2,
+   "explanation": "India needs to train its clinical staff before erecting data shields — User data is routinely commoditised today, and passing a law assuming compliance and waiting for complaints or litigation will not suffice. As the DPDP Act comes into effect, the government must finance, build, and... (The Hindu — Science & Technology, Sun, 25 Oct 2026 17:08:03 +0530).",
+   "topic": "The Hindu — Science & Technology Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "general-science-daily-2026-10-26-51",
+   "question": "Which current affairs development was reported regarding: \"The ISRO chief said that the upcoming Kulasekarapattinam spaceport facility will feature crucial infrastructure such as integration buildings, launch pads, rail-track systems, telemetry, tracking, and command systems\"?",
+   "options": [
+    "ISRO to have four launch pads by 2029, says Narayanan",
+    "Japan to launch spacecraft on a mission to get samples from a Martian moon",
+    "Health Quiz: On arthritis",
+    "Ex-OpenAI employee accused of planting device appears to have Saudi backing, court filing shows"
+   ],
+   "answer": 0,
+   "explanation": "ISRO to have four launch pads by 2029, says Narayanan — The ISRO chief said that the upcoming Kulasekarapattinam spaceport facility will feature crucial infrastructure such as integration buildings, launch pads, rail-track systems, telemetry, tracking, and command systems (The Hindu — Science & Technology, Sun, 25 Oct 2026 11:23:44 +0530).",
+   "topic": "The Hindu — Science & Technology Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
   }
  ]
 };
