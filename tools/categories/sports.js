@@ -12,7 +12,7 @@
   "railways"
  ],
  "blurb": "Trophies, terms, players and tournaments.",
- "count": 320,
+ "count": 334,
  "questions": [
   {
    "id": "sports-00001",
@@ -4873,6 +4873,230 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "sports-daily-2026-10-27-59",
+   "question": "Which current affairs development was reported regarding: \"On a balmy Monday in Jharkhand’s capital, Badoni brought up his sixth First Class hundred and remained unbeaten on 106 to steer the visitor to 309 for five at stumps\"?",
+   "options": [
+    "Ranji Trophy: Will Haryana find a way to blunt Mumbai’s pace attack?",
+    "Badoni notches up his sixth First Class hundred as Delhi dominates day one",
+    "For record-breaking Chuki, this is just the start of big things",
+    "Indian Super League: Blasters and Mumbai will look to put their indifferent starts to the season behind them"
+   ],
+   "answer": 1,
+   "explanation": "Badoni notches up his sixth First Class hundred as Delhi dominates day one — On a balmy Monday in Jharkhand’s capital, Badoni brought up his sixth First Class hundred and remained unbeaten on 106 to steer the visitor to 309 for five at stumps (The Hindu — Sports, Tue, 27 Oct 2026 07:12:48 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "sports-daily-2026-10-27-60",
+   "question": "Which current affairs development was reported regarding: \"Harry Kane is the first ‌Englishman to win the prestigious award in 25 years, after Michael Owen won ​it in 2001\"?",
+   "options": [
+    "De la Fuente wins men's Ballon d'Or coach of the year; Pere Romeu bags women’s award",
+    "Batting with Badoni makes my job easier: Mathur",
+    "Harry Kane crowned Ballon d'Or winner, Putellas wins women's award",
+    "Zuccaro brooks no challenge in the Invitation Cup"
+   ],
+   "answer": 2,
+   "explanation": "Harry Kane crowned Ballon d'Or winner, Putellas wins women's award — Harry Kane is the first ‌Englishman to win the prestigious award in 25 years, after Michael Owen won ​it in 2001 (The Hindu — Sports, Tue, 27 Oct 2026 07:06:05 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "sports-daily-2026-10-27-61",
+   "question": "Which current affairs development was reported regarding: \"The 36-year-old hasn’t played for India since the ICC Champions Trophy in March 2025. While he continues to turn up for Bengal in the domestic circuit, the persistent absence from the national set-up has raised...\"?",
+   "options": [
+    "De la Fuente wins men's Ballon d'Or coach of the year; Pere Romeu bags women’s award",
+    "Nobody on the outside can judge the length of my spells: Shami",
+    "Katame, Priority Road and Break Point impress",
+    "TAI Awards: Zavaray Poonawalla honoured with Legend of Indian Horse Racing award"
+   ],
+   "answer": 1,
+   "explanation": "Nobody on the outside can judge the length of my spells: Shami — The 36-year-old hasn’t played for India since the ICC Champions Trophy in March 2025. While he continues to turn up for Bengal in the domestic circuit, the persistent absence from the national set-up has raised... (The Hindu — Sports, Tue, 27 Oct 2026 00:35:41 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "sports-daily-2026-10-27-62",
+   "question": "Which current affairs development was reported regarding: \"For the final round in Portugal, MRF Tyres fielded six crews across its official Team MRF Tyres and MRF Tyres Dealers Team programmes\"?",
+   "options": [
+    "Railways has got a fighting total: Zubair",
+    "Ranji Trophy: Karnataka will aim to shrug off its disappointing start to the season",
+    "Zuccaro primed to deliver in Indian Turf Invitation Cup",
+    "Team MRF Tyres wins four European Rally Championship title"
+   ],
+   "answer": 3,
+   "explanation": "Team MRF Tyres wins four European Rally Championship title — For the final round in Portugal, MRF Tyres fielded six crews across its official Team MRF Tyres and MRF Tyres Dealers Team programmes (The Hindu — Sports, Mon, 26 Oct 2026 23:26:24 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "sports-daily-2026-10-27-63",
+   "question": "Which current affairs development was reported regarding: \"The No. 8 batter turned things around with a swashbuckling 75 against Tamil Nadu\"?",
+   "options": [
+    "Bruno Fernandes dropped by Man United in big call by manager Michael Carrick",
+    "Railways has got a fighting total: Zubair",
+    "De la Fuente wins men's Ballon d'Or coach of the year; Pere Romeu bags women’s award",
+    "Ranji Trophy: Raghuvanshi, Musheer help Mumbai take opening day’s honours"
+   ],
+   "answer": 1,
+   "explanation": "Railways has got a fighting total: Zubair — The No. 8 batter turned things around with a swashbuckling 75 against Tamil Nadu (The Hindu — Sports, Mon, 26 Oct 2026 20:48:39 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "sports-daily-2026-10-27-64",
+   "question": "Which current affairs development was reported regarding: \"Veteran off-spinner makes an immediate impact upon returning to the XI as he bags a four-wicket haul in the first innings against Andhra\"?",
+   "options": [
+    "Ranji Trophy: Jayant shows his mettle as Chhattisgarh takes opening-day honours",
+    "Murugappa Gold Cup: BPCL strengthens semifinal prospects with third straight win",
+    "Vaisakh Chandran corrects bowling action, regains his rhythm",
+    "Ishan Kishan ruled out of third T20I against New Zealand as precautionary measure"
+   ],
+   "answer": 0,
+   "explanation": "Ranji Trophy: Jayant shows his mettle as Chhattisgarh takes opening-day honours — Veteran off-spinner makes an immediate impact upon returning to the XI as he bags a four-wicket haul in the first innings against Andhra (The Hindu — Sports, Mon, 26 Oct 2026 20:30:46 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "sports-daily-2026-10-27-65",
+   "question": "Which current affairs development was reported regarding: \"The mini-auction will be held in Goa on December 16\"?",
+   "options": [
+    "Ishan Kishan ruled out of third T20I against New Zealand as precautionary measure",
+    "Dhruv Goswami, Balaprasath share FLGB4 honours",
+    "IPL retention deadline set for November 15",
+    "Irish Twist and Absolute Serenity catch the eye"
+   ],
+   "answer": 2,
+   "explanation": "IPL retention deadline set for November 15 — The mini-auction will be held in Goa on December 16 (The Hindu — Sports, Mon, 26 Oct 2026 20:30:00 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "sports-daily-2026-10-27-66",
+   "question": "Which current affairs development was reported regarding: \"The left-arm spinner scalps three and the pacer two as the visitors lose wickets rapidly after a steady start on a truncated first day; Ankur’s good knock undone by a poor choice of stroke\"?",
+   "options": [
+    "Fans hail ‘Telugu brothers’ Tilak Varma, Nitish Kumar Reddy after India’s Christchurch T20I win",
+    "Zuccaro primed to deliver in Indian Turf Invitation Cup",
+    "My father pushes me to become a better player, says Tagenarine",
+    "Ranji Trophy: Sarvate and Basil strike to help Kerala take control against Bengal"
+   ],
+   "answer": 3,
+   "explanation": "Ranji Trophy: Sarvate and Basil strike to help Kerala take control against Bengal — The left-arm spinner scalps three and the pacer two as the visitors lose wickets rapidly after a steady start on a truncated first day; Ankur’s good knock undone by a poor choice of stroke (The Hindu — Sports, Mon, 26 Oct 2026 19:33:09 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "sports-daily-2026-10-27-67",
+   "question": "Which current affairs development was reported regarding: \"The Railways player, walking out at No. 8, dominates the 61-run last-wicket stand with Himanshu to take the visitor to 184; Sonu gets three in his opening burst\"?",
+   "options": [
+    "For record-breaking Chuki, this is just the start of big things",
+    "Ranji Trophy: Zubair frustrates TN after host’s bowlers come to the party",
+    "Badoni notches up his sixth First Class hundred as Delhi dominates day one",
+    "De la Fuente wins men's Ballon d'Or coach of the year; Pere Romeu bags women’s award"
+   ],
+   "answer": 1,
+   "explanation": "Ranji Trophy: Zubair frustrates TN after host’s bowlers come to the party — The Railways player, walking out at No. 8, dominates the 61-run last-wicket stand with Himanshu to take the visitor to 184; Sonu gets three in his opening burst (The Hindu — Sports, Mon, 26 Oct 2026 19:16:31 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "sports-daily-2026-10-27-68",
+   "question": "Which current affairs development was reported regarding: \"The two hit hundreds and put on 208 for the second wicket as the home side reaches 290 for three; Haryana bowlers find the going tough after captain Ankit elects to field\"?",
+   "options": [
+    "Ranji Trophy: Raghuvanshi, Musheer help Mumbai take opening day’s honours",
+    "Chennai teen takes chess to underprivileged children",
+    "‘Murugappa Cup offers valuable exposure for Malaysian juniors’",
+    "Sichuan to meet Denso Iris in the final of FIBA-Women’s Basketball League Asia tournament"
+   ],
+   "answer": 0,
+   "explanation": "Ranji Trophy: Raghuvanshi, Musheer help Mumbai take opening day’s honours — The two hit hundreds and put on 208 for the second wicket as the home side reaches 290 for three; Haryana bowlers find the going tough after captain Ankit elects to field (The Hindu — Sports, Mon, 26 Oct 2026 18:23:11 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "sports-daily-2026-10-27-69",
+   "question": "Which current affairs development was reported regarding: \"India takes on Bangladesh in its tournament opener\"?",
+   "options": [
+    "Ranji Trophy: Spin, summit and Gymkhana showdown as Hyderabad hosts Punjab",
+    "Asian Champions Trophy: Jalandhar in focus as city hosts maiden international hockey tournament",
+    "More than the 100, I was thinking of building partnership with Harmanpreet: Deepti",
+    "Fans hail ‘Telugu brothers’ Tilak Varma, Nitish Kumar Reddy after India’s Christchurch T20I win"
+   ],
+   "answer": 1,
+   "explanation": "Asian Champions Trophy: Jalandhar in focus as city hosts maiden international hockey tournament — India takes on Bangladesh in its tournament opener (The Hindu — Sports, Mon, 26 Oct 2026 17:38:36 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "sports-daily-2026-10-27-70",
+   "question": "Which current affairs development was reported regarding: \"Sai Swaroop V. who uses his free time to take chess classes for those who cannot afford it\"?",
+   "options": [
+    "Chennai teen takes chess to underprivileged children",
+    "Katame, Priority Road and Break Point impress",
+    "Kylian Mbappe double helps Real Madrid stuns Barcelona in La Liga Clasico",
+    "Ishan Kishan ruled out of third T20I against New Zealand as precautionary measure"
+   ],
+   "answer": 0,
+   "explanation": "Chennai teen takes chess to underprivileged children — Sai Swaroop V. who uses his free time to take chess classes for those who cannot afford it (The Hindu — Sports, Mon, 26 Oct 2026 14:59:26 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "sports-daily-2026-10-27-71",
+   "question": "Which current affairs development was reported regarding: \"Deepti celebrated her second century in the ODI format with an unbeaten 106 off 86 balls in the series-clinching 121-run win over Zimbabwe.\"?",
+   "options": [
+    "Denso Iris reigns supreme",
+    "Ranji Trophy: Will Haryana find a way to blunt Mumbai’s pace attack?",
+    "More than the 100, I was thinking of building partnership with Harmanpreet: Deepti",
+    "Zuccaro primed to deliver in Indian Turf Invitation Cup"
+   ],
+   "answer": 2,
+   "explanation": "More than the 100, I was thinking of building partnership with Harmanpreet: Deepti — Deepti celebrated her second century in the ODI format with an unbeaten 106 off 86 balls in the series-clinching 121-run win over Zimbabwe. (The Hindu — Sports, Mon, 26 Oct 2026 12:01:20 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "sports-daily-2026-10-27-72",
+   "question": "Which current affairs development was reported regarding: \"The decision to retain fast bowlers as cover is part of a long-term workload management strategy devised months before the tour\"?",
+   "options": [
+    "India has got a bulletproof plan for bowlers’ workload management: Morkel",
+    "Irish Twist and Absolute Serenity catch the eye",
+    "India keen to host World junior 3x3 championships: Govindaraj",
+    "Vaisakh Chandran corrects bowling action, regains his rhythm"
+   ],
+   "answer": 0,
+   "explanation": "India has got a bulletproof plan for bowlers’ workload management: Morkel — The decision to retain fast bowlers as cover is part of a long-term workload management strategy devised months before the tour (The Hindu — Sports, Mon, 26 Oct 2026 10:49:13 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
   }
  ]
 };

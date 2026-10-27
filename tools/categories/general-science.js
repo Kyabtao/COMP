@@ -12,7 +12,7 @@
   "railways"
  ],
  "blurb": "Physics, chemistry and biology facts combined.",
- "count": 1061,
+ "count": 1063,
  "questions": [
   {
    "id": "general-science-00001",
@@ -15989,6 +15989,38 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "general-science-daily-2026-10-27-56",
+   "question": "Which current affairs development was reported regarding: \"Kashmir’s traditional varieties carry cold-tolerance and other locally adapted genes that modern varieties have partly lost, making them potentially valuable as climate change increases stress on crops, new research...\"?",
+   "options": [
+    "In Kashmir’s traditional rice, clues to a journey from East Asia",
+    "Ex-OpenAI employee accused of planting device appears to have Saudi backing, court filing shows",
+    "Why is glass transparent?",
+    "Tap space-tech start-ups’ capabilities for major projects of Indian space programme: G. Madhavan Nair"
+   ],
+   "answer": 0,
+   "explanation": "In Kashmir’s traditional rice, clues to a journey from East Asia — Kashmir’s traditional varieties carry cold-tolerance and other locally adapted genes that modern varieties have partly lost, making them potentially valuable as climate change increases stress on crops, new research... (The Hindu — Science & Technology, Mon, 26 Oct 2026 14:58:11 +0530).",
+   "topic": "The Hindu — Science & Technology Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "general-science-daily-2026-10-27-57",
+   "question": "Which current affairs development was reported regarding: \"In a preprint paper uploaded to the arXiv repository in July 2025, Marathon scientists had predicted this process could produce roughly 2 tonnes of gold annually for every gigawatt (GW) of thermal fusion power\"?",
+   "options": [
+    "After Musk ‘punishes’ Ukraine, how exposed is India to foreign tech?",
+    "India’s first solar mission Aditya-L1 generates Doppler velocity images of the solar corona",
+    "Starshield | The non-state sovereigns",
+    "Seven caveats in the claim about turning mercury into gold with nuclear fusion"
+   ],
+   "answer": 3,
+   "explanation": "Seven caveats in the claim about turning mercury into gold with nuclear fusion — In a preprint paper uploaded to the arXiv repository in July 2025, Marathon scientists had predicted this process could produce roughly 2 tonnes of gold annually for every gigawatt (GW) of thermal fusion power (The Hindu — Science & Technology, Mon, 26 Oct 2026 13:45:55 +0530).",
+   "topic": "The Hindu — Science & Technology Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
   }
  ]
 };

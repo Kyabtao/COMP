@@ -11,7 +11,7 @@
   "ssc-cgl"
  ],
  "blurb": "Banking, budget, taxes, trade and national income.",
- "count": 348,
+ "count": 349,
  "questions": [
   {
    "id": "economics-00001",
@@ -5300,6 +5300,22 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "economics-daily-2026-10-27-58",
+   "question": "Which current affairs development was reported regarding: \"Russian crude accounted for 37% of their import basket in the second quarter.\"?",
+   "options": [
+    "Crude oil sourcing presently volatile; procuring more on landed basis: HPCL Chief",
+    "Data breach: SBI admits exposure of its customer data on the Dark Web",
+    "Market's early rally fizzles out as banking, financial stocks weigh on benchmarks",
+    "BPCL shifts crude sourcing towards Middle East as Russian oil loses price edge"
+   ],
+   "answer": 3,
+   "explanation": "BPCL shifts crude sourcing towards Middle East as Russian oil loses price edge — Russian crude accounted for 37% of their import basket in the second quarter. (The Hindu — Economy & Banking, Mon, 26 Oct 2026 22:03:28 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
   }
  ]
 };

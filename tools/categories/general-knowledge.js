@@ -12,7 +12,7 @@
   "railways"
  ],
  "blurb": "Countries, capitals, currencies, days, organisations and world firsts.",
- "count": 1100,
+ "count": 1128,
  "questions": [
   {
    "id": "general-knowledge-00001",
@@ -16613,6 +16613,454 @@
    "level": 1,
    "source": "daily",
    "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-27-73",
+   "question": "What are the first 6 digits of the number \"Pi\"?",
+   "options": [
+    "3.12423",
+    "3.14169",
+    "3.25812",
+    "3.14159"
+   ],
+   "answer": 3,
+   "explanation": "3.14159 is the correct answer for: What are the first 6 digits of the number \"Pi\"? (Science: Mathematics).",
+   "topic": "Science: Mathematics",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-27-74",
+   "question": "In World of Warcraft, What was the original level cap?",
+   "options": [
+    "50",
+    "70",
+    "100",
+    "60"
+   ],
+   "answer": 3,
+   "explanation": "60 is the correct answer for: In World of Warcraft, What was the original level cap? (Entertainment: Video Games).",
+   "topic": "Entertainment: Video Games",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-27-75",
+   "question": "In \"Starbound\", according to the asset files, the description of the \"Erchius Ghost\" is the same as which other assets?",
+   "options": [
+    "Petricub",
+    "Pyromantle",
+    "Trictus",
+    "Spookit"
+   ],
+   "answer": 3,
+   "explanation": "Spookit is the correct answer for: In \"Starbound\", according to the asset files, the description of the \"Erchius Ghost\" is the same as which other assets? (Entertainment: Video Games).",
+   "topic": "Entertainment: Video Games",
+   "level": 3,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-27-76",
+   "question": "In Geometry Dash, what is level 13?",
+   "options": [
+    "Electroman Adventures",
+    "Clutterfunk",
+    "Theory of Everything",
+    "Clubstep"
+   ],
+   "answer": 0,
+   "explanation": "Electroman Adventures is the correct answer for: In Geometry Dash, what is level 13? (Entertainment: Video Games).",
+   "topic": "Entertainment: Video Games",
+   "level": 3,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-27-77",
+   "question": "Which character is from \"Splatoon\"?",
+   "options": [
+    "Cyrus",
+    "Palutena",
+    "Shulk",
+    "Marie"
+   ],
+   "answer": 3,
+   "explanation": "Marie is the correct answer for: Which character is from \"Splatoon\"? (Entertainment: Video Games).",
+   "topic": "Entertainment: Video Games",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-27-78",
+   "question": "Which of the following is NOT a word used to describe an earthquake?",
+   "options": [
+    "Strike-slip",
+    "Foreshock",
+    "Temblor",
+    "Drop-slide"
+   ],
+   "answer": 3,
+   "explanation": "Drop-slide is the correct answer for: Which of the following is NOT a word used to describe an earthquake? (Science & Nature).",
+   "topic": "Science & Nature",
+   "level": 3,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-27-79",
+   "question": "In the game Dark Souls, what is the name of the region you're in for the majority of the game?",
+   "options": [
+    "Catarina",
+    "Drangleic",
+    "Oolacile",
+    "Lordran"
+   ],
+   "answer": 3,
+   "explanation": "Lordran is the correct answer for: In the game Dark Souls, what is the name of the region you're in for the majority of the game? (Entertainment: Video Games).",
+   "topic": "Entertainment: Video Games",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-27-80",
+   "question": "What do the video games No Man's Sky and Mighty No. 9 have in common?",
+   "options": [
+    "Both were announced in 2013.",
+    "Both were crowdfunded.",
+    "Both were released for the PlayStation 3.",
+    "Both were developed by indie studios."
+   ],
+   "answer": 0,
+   "explanation": "Both were announced in 2013. is the correct answer for: What do the video games No Man's Sky and Mighty No. 9 have in common? (Entertainment: Video Games).",
+   "topic": "Entertainment: Video Games",
+   "level": 3,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-27-81",
+   "question": "Which of these is NOT considered a woodwind instrument?",
+   "options": [
+    "Oboe",
+    "Clarinet",
+    "Trombone",
+    "Bassoon"
+   ],
+   "answer": 2,
+   "explanation": "Trombone is the correct answer for: Which of these is NOT considered a woodwind instrument? (Entertainment: Music).",
+   "topic": "Entertainment: Music",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-27-82",
+   "question": "Which show is known for the songs \"You are a Pirate\", \"Cooking by the Book\" and \"We Are Number One\"?",
+   "options": [
+    "Sofia the First",
+    "Tom and Jerry",
+    "DuckTales",
+    "LazyTown"
+   ],
+   "answer": 3,
+   "explanation": "LazyTown is the correct answer for: Which show is known for the songs \"You are a Pirate\", \"Cooking by the Book\" and \"We Are Number One\"? (Entertainment: Television).",
+   "topic": "Entertainment: Television",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-27-83",
+   "question": "In Norse mythology, what is the name of the serpent which eats the roots of the ash tree Yggdrasil?",
+   "options": [
+    "Odin",
+    "Bragi",
+    "Nidhogg",
+    "Ymir"
+   ],
+   "answer": 2,
+   "explanation": "Nidhogg is the correct answer for: In Norse mythology, what is the name of the serpent which eats the roots of the ash tree Yggdrasil? (Mythology).",
+   "topic": "Mythology",
+   "level": 3,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-27-84",
+   "question": "In Marvel Comics, Taurus is the founder and leader of which criminal organization?",
+   "options": [
+    "The Union",
+    "Zodiac",
+    "Scorpio",
+    "Tiger Mafia"
+   ],
+   "answer": 1,
+   "explanation": "Zodiac is the correct answer for: In Marvel Comics, Taurus is the founder and leader of which criminal organization? (Entertainment: Comics).",
+   "topic": "Entertainment: Comics",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-27-85",
+   "question": "Which animation studio animated the 2016 anime \"Mob Psycho 100\"?",
+   "options": [
+    "Shaft",
+    "Madhouse",
+    "A-1 Pictures",
+    "Bones"
+   ],
+   "answer": 3,
+   "explanation": "Bones is the correct answer for: Which animation studio animated the 2016 anime \"Mob Psycho 100\"? (Entertainment: Japanese Anime & Manga).",
+   "topic": "Entertainment: Japanese Anime & Manga",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-27-86",
+   "question": "What is Pikachu's National Pok&eacute;Dex Number?",
+   "options": [
+    "#109",
+    "#001",
+    "#031",
+    "#025"
+   ],
+   "answer": 3,
+   "explanation": "#025 is the correct answer for: What is Pikachu's National Pok&eacute;Dex Number? (Entertainment: Video Games).",
+   "topic": "Entertainment: Video Games",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-27-87",
+   "question": "The Thirty Years War ended with which treaty?",
+   "options": [
+    "Treaty of Paris",
+    "Peace of Westphalia",
+    "Treaty of Versailles",
+    "Peace of Prague"
+   ],
+   "answer": 1,
+   "explanation": "Peace of Westphalia is the correct answer for: The Thirty Years War ended with which treaty? (History).",
+   "topic": "History",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-27-88",
+   "question": "Who is attributed credit for recording the epic poem The Odyssey?",
+   "options": [
+    "Aristotle",
+    "Odysseus",
+    "Homer",
+    "Socrates"
+   ],
+   "answer": 2,
+   "explanation": "Homer is the correct answer for: Who is attributed credit for recording the epic poem The Odyssey? (History).",
+   "topic": "History",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-27-89",
+   "question": "What is the official language in Liechtenstein?",
+   "options": [
+    "Italian",
+    "German",
+    "French",
+    "English"
+   ],
+   "answer": 1,
+   "explanation": "German is the correct answer for: What is the official language in Liechtenstein? (Geography).",
+   "topic": "Geography",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-27-90",
+   "question": "What is the name of New Zealand's indigenous people?",
+   "options": [
+    "Maori",
+    "Polynesians",
+    "Vikings",
+    "Samoans"
+   ],
+   "answer": 0,
+   "explanation": "Maori is the correct answer for: What is the name of New Zealand's indigenous people? (Geography).",
+   "topic": "Geography",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-27-91",
+   "question": "In CoD: Black Ops III, what is the name of the rogue A.I. antagonist?",
+   "options": [
+    "Cabal",
+    "Corvus",
+    "Icarus",
+    "Legion"
+   ],
+   "answer": 1,
+   "explanation": "Corvus is the correct answer for: In CoD: Black Ops III, what is the name of the rogue A.I. antagonist? (Entertainment: Video Games).",
+   "topic": "Entertainment: Video Games",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-27-92",
+   "question": "Which one of these cartoon characters is NOT voiced by Rob Paulsen?",
+   "options": [
+    "Max Tennyson (Ben 10)",
+    "Yakko Warner (Animaniacs)",
+    "Carl Wheezer (Jimmy Neutron)",
+    "The Mask (The Mask, TV Series)"
+   ],
+   "answer": 0,
+   "explanation": "Max Tennyson (Ben 10) is the correct answer for: Which one of these cartoon characters is NOT voiced by Rob Paulsen? (Entertainment: Cartoon & Animations).",
+   "topic": "Entertainment: Cartoon & Animations",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-27-93",
+   "question": "Which of the following presidents is not on Mount Rushmore?",
+   "options": [
+    "Thomas Jefferson",
+    "John F. Kennedy",
+    "Abraham Lincoln",
+    "Theodore Roosevelt"
+   ],
+   "answer": 1,
+   "explanation": "John F. Kennedy is the correct answer for: Which of the following presidents is not on Mount Rushmore? (General Knowledge).",
+   "topic": "General Knowledge",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-27-94",
+   "question": "What was Rage Against the Machine's debut album?",
+   "options": [
+    "Rage Against the Machine",
+    "The Battle Of Los Angeles",
+    "Evil Empire",
+    "Bombtrack"
+   ],
+   "answer": 0,
+   "explanation": "Rage Against the Machine is the correct answer for: What was Rage Against the Machine's debut album? (Entertainment: Music).",
+   "topic": "Entertainment: Music",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-27-95",
+   "question": "In \"One Piece\", who confirms the existence of the legendary treasure, One Piece?",
+   "options": [
+    "Edward \"Whitebeard\" Newgate",
+    "Pirate King Gol D Roger",
+    "Silvers Rayleigh",
+    "Former Marine Fleet Admiral Sengoku"
+   ],
+   "answer": 0,
+   "explanation": "Edward \"Whitebeard\" Newgate is the correct answer for: In \"One Piece\", who confirms the existence of the legendary treasure, One Piece? (Entertainment: Japanese Anime & Manga).",
+   "topic": "Entertainment: Japanese Anime & Manga",
+   "level": 3,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-27-96",
+   "question": "During which American Civil War campaign did Union troops dig a tunnel beneath Confederate troops to detonate explosives underneath them?",
+   "options": [
+    "Gettysburg Campagin",
+    "Antietam Campaign",
+    "Siege of Petersburg",
+    "Siege of Vicksburg"
+   ],
+   "answer": 2,
+   "explanation": "Siege of Petersburg is the correct answer for: During which American Civil War campaign did Union troops dig a tunnel beneath Confederate troops to detonate explosives underneath them? (History).",
+   "topic": "History",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-27-97",
+   "question": "The ontological argument for the proof of God's existence is first attributed to whom?",
+   "options": [
+    "Immanuel Kant",
+    "Aristotle",
+    "Anselm of Canterbury",
+    "Ren&eacute; Descartes"
+   ],
+   "answer": 2,
+   "explanation": "Anselm of Canterbury is the correct answer for: The ontological argument for the proof of God's existence is first attributed to whom? (History).",
+   "topic": "History",
+   "level": 3,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-27-98",
+   "question": "Jaguar Cars was previously owned by which car manfacturer?",
+   "options": [
+    "Chrysler",
+    "Fiat",
+    "General Motors",
+    "Ford"
+   ],
+   "answer": 3,
+   "explanation": "Ford is the correct answer for: Jaguar Cars was previously owned by which car manfacturer? (Vehicles).",
+   "topic": "Vehicles",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-27-99",
+   "question": "What Russian automatic gas-operated assault rifle was developed in the Soviet Union in 1947, and is still popularly used today?",
+   "options": [
+    "AK-47",
+    "MG 42",
+    "M16",
+    "RPK"
+   ],
+   "answer": 0,
+   "explanation": "AK-47 is the correct answer for: What Russian automatic gas-operated assault rifle was developed in the Soviet Union in 1947, and is still popularly used today? (History).",
+   "topic": "History",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-27-100",
+   "question": "Out of these four buildings, which one is the tallest, with a height of 2,717 ft (828 m)?",
+   "options": [
+    "Ping An Finance Centre, China",
+    "Burj Khalifa, United Arab Emirates",
+    "Shanghai Tower, China",
+    "Lotte World Tower, South Korea"
+   ],
+   "answer": 1,
+   "explanation": "Burj Khalifa, United Arab Emirates is the correct answer for: Out of these four buildings, which one is the tallest, with a height of 2,717 ft (828 m)? (General Knowledge).",
+   "topic": "General Knowledge",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
   }
  ]
 };
