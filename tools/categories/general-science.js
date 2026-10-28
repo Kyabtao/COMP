@@ -12,7 +12,7 @@
   "railways"
  ],
  "blurb": "Physics, chemistry and biology facts combined.",
- "count": 1063,
+ "count": 1068,
  "questions": [
   {
    "id": "general-science-00001",
@@ -16021,6 +16021,86 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "general-science-daily-2026-10-28-54",
+   "question": "Which current affairs development was reported regarding: \"In his fourth term, the President can potentially negotiate across the divides that currently frustrate climate agreements, given his country’s status as Latin America’s largest economy, host to most of the Amazon,...\"?",
+   "options": [
+    "Why are the whites of human eyes white?",
+    "How people’s genes are revealing why some languages are so unique",
+    "Indian scientists identify Martian analogue sites",
+    "Lula’s win gives Brazil an opportunity to cement its climate leadership, but challenges remain"
+   ],
+   "answer": 3,
+   "explanation": "Lula’s win gives Brazil an opportunity to cement its climate leadership, but challenges remain — In his fourth term, the President can potentially negotiate across the divides that currently frustrate climate agreements, given his country’s status as Latin America’s largest economy, host to most of the Amazon,... (The Hindu — Science & Technology, Tue, 27 Oct 2026 20:09:05 +0530).",
+   "topic": "The Hindu — Science & Technology Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "general-science-daily-2026-10-28-55",
+   "question": "Which current affairs development was reported regarding: \"Laboratory tests show higher protein bioavailability in five plant-based products than in their chicken counterparts; researchers caution further studies needed to assess health benefits\"?",
+   "options": [
+    "Scientists unearth new instance of ‘contagious cancer’ in animals",
+    "Plant-based meat yields higher share of absorbable protein than traditional meat: study",
+    "‘Turtle Walker’: Zoya Akhtar-backed documentary pays tribute to Satish Bhaskar’s life and legacy",
+    "Science Snapshots: October 25, 2026"
+   ],
+   "answer": 1,
+   "explanation": "Plant-based meat yields higher share of absorbable protein than traditional meat: study — Laboratory tests show higher protein bioavailability in five plant-based products than in their chicken counterparts; researchers caution further studies needed to assess health benefits (The Hindu — Science & Technology, Tue, 27 Oct 2026 18:17:34 +0530).",
+   "topic": "The Hindu — Science & Technology Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "general-science-daily-2026-10-28-56",
+   "question": "Which current affairs development was reported regarding: \"The findings of new research reinforce a long-standing idea in genetics that there is no single ‘personality gene’; the dataset the researchers used also directly challenged older theories that attempted to link...\"?",
+   "options": [
+    "Your DNA says less about your personality than a short online quiz",
+    "Scientists unearth new instance of ‘contagious cancer’ in animals",
+    "Why scratching an itch feel so good",
+    "First Nation community in Canada uses data centre to preserve its heritage"
+   ],
+   "answer": 0,
+   "explanation": "Your DNA says less about your personality than a short online quiz — The findings of new research reinforce a long-standing idea in genetics that there is no single ‘personality gene’; the dataset the researchers used also directly challenged older theories that attempted to link... (The Hindu — Science & Technology, Tue, 27 Oct 2026 15:08:11 +0530).",
+   "topic": "The Hindu — Science & Technology Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "general-science-daily-2026-10-28-57",
+   "question": "Which current affairs development was reported regarding: \"Scratch, scratch… and then you hit the exact spot. Aah, yes! We have all had that satisfying moment when a stubborn itch finally disappears under our fingernails. But why does scratching an itch feel so good, and...\"?",
+   "options": [
+    "In Kashmir’s traditional rice, clues to a journey from East Asia",
+    "Bleached corals brought back to luminous life, in two lab experiments",
+    "Why scratching an itch feel so good",
+    "India’s first solar mission Aditya-L1 generates Doppler velocity images of the solar corona"
+   ],
+   "answer": 2,
+   "explanation": "Why scratching an itch feel so good — Scratch, scratch… and then you hit the exact spot. Aah, yes! We have all had that satisfying moment when a stubborn itch finally disappears under our fingernails. But why does scratching an itch feel so good, and... (The Hindu — Science & Technology, Tue, 27 Oct 2026 14:23:58 +0530).",
+   "topic": "The Hindu — Science & Technology Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "general-science-daily-2026-10-28-58",
+   "question": "Which current affairs development was reported regarding: \"The idea of turning a human body into compost might sound unusual, or even unsettling. But how does it actually work? Is it a better alternative to existing methods?\"?",
+   "options": [
+    "What is ‘human composting’ — how does it work?",
+    "Japan to launch spacecraft on a mission to get samples from a Martian moon",
+    "In Kashmir’s traditional rice, clues to a journey from East Asia",
+    "First Nation community in Canada uses data centre to preserve its heritage"
+   ],
+   "answer": 0,
+   "explanation": "What is ‘human composting’ — how does it work? — The idea of turning a human body into compost might sound unusual, or even unsettling. But how does it actually work? Is it a better alternative to existing methods? (The Hindu — Science & Technology, Tue, 27 Oct 2026 12:17:14 +0530).",
+   "topic": "The Hindu — Science & Technology Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
   }
  ]
 };

@@ -12,7 +12,7 @@
   "railways"
  ],
  "blurb": "Countries, capitals, currencies, days, organisations and world firsts.",
- "count": 1128,
+ "count": 1146,
  "questions": [
   {
    "id": "general-knowledge-00001",
@@ -17061,6 +17061,294 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-28-83",
+   "question": "Which of the following is NOT one of the main characters in Grand Theft Auto V's story mode?",
+   "options": [
+    "Michael de Santa",
+    "Tommy Vercetti",
+    "Trevor Phillips",
+    "Franklin Clinton"
+   ],
+   "answer": 1,
+   "explanation": "Tommy Vercetti is the correct answer for: Which of the following is NOT one of the main characters in Grand Theft Auto V's story mode? (Entertainment: Video Games).",
+   "topic": "Entertainment: Video Games",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-28-84",
+   "question": "Who was the only god from Greece who did not get a name change in Rome?",
+   "options": [
+    "Demeter",
+    "Apollo",
+    "Zeus",
+    "Athena"
+   ],
+   "answer": 1,
+   "explanation": "Apollo is the correct answer for: Who was the only god from Greece who did not get a name change in Rome? (Mythology).",
+   "topic": "Mythology",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-28-85",
+   "question": "Who painted the Mona Lisa?",
+   "options": [
+    "Vincent van Gogh",
+    "Leonardo da Vinci",
+    "Michelangelo",
+    "Pablo Picasso"
+   ],
+   "answer": 1,
+   "explanation": "Leonardo da Vinci is the correct answer for: Who painted the Mona Lisa? (Art).",
+   "topic": "Art",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-28-86",
+   "question": "In the Hellboy universe, what was Abe Sapien's birth name?",
+   "options": [
+    "Langdon Everett Caul",
+    "Sir Edward Grey",
+    "Landis Pope",
+    "Lord Baltimore"
+   ],
+   "answer": 0,
+   "explanation": "Langdon Everett Caul is the correct answer for: In the Hellboy universe, what was Abe Sapien's birth name? (Entertainment: Comics).",
+   "topic": "Entertainment: Comics",
+   "level": 3,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-28-87",
+   "question": "Which player has scored the most goals in the England Premier League (EPL)?",
+   "options": [
+    "Didier Drogba",
+    "Alan Shearer",
+    "Lionel Messi",
+    "Wayne Rooney"
+   ],
+   "answer": 1,
+   "explanation": "Alan Shearer is the correct answer for: Which player has scored the most goals in the England Premier League (EPL)? (Sports).",
+   "topic": "Sports",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-28-88",
+   "question": "What company developed the vocaloid Hatsune Miku?",
+   "options": [
+    "Yamaha Corporation",
+    "Sony",
+    "Crypton Future Media",
+    "Sega"
+   ],
+   "answer": 2,
+   "explanation": "Crypton Future Media is the correct answer for: What company developed the vocaloid Hatsune Miku? (General Knowledge).",
+   "topic": "General Knowledge",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-28-89",
+   "question": "Which of these is NOT a song on The Beatles' 1968 self titled album, also known as the White album?",
+   "options": [
+    "Why Don't We Do It in the Road?",
+    "Everybody's Got Something to Hide Except Me and My Monkey",
+    "Being For The Benefit Of Mr. Kite!",
+    "The Continuing Story of Bungalow Bill"
+   ],
+   "answer": 2,
+   "explanation": "Being For The Benefit Of Mr. Kite! is the correct answer for: Which of these is NOT a song on The Beatles' 1968 self titled album, also known as the White album? (Entertainment: Music).",
+   "topic": "Entertainment: Music",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-28-90",
+   "question": "Which Aerosmith album featured \"Walk This Way\"?",
+   "options": [
+    "Rocks",
+    "Draw the Line",
+    "Toys in the Attic",
+    "Get Your Wings"
+   ],
+   "answer": 2,
+   "explanation": "Toys in the Attic is the correct answer for: Which Aerosmith album featured \"Walk This Way\"? (Entertainment: Music).",
+   "topic": "Entertainment: Music",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-28-91",
+   "question": "Which of these is NOT a possible drink to be made in the game \"VA-11 HALL-A: Cyberpunk Bartender Action\"?",
+   "options": [
+    "Fringe Weaver",
+    "Bad Touch",
+    "Piano Man",
+    "Sour Appletini"
+   ],
+   "answer": 3,
+   "explanation": "Sour Appletini is the correct answer for: Which of these is NOT a possible drink to be made in the game \"VA-11 HALL-A: Cyberpunk Bartender Action\"? (Entertainment: Video Games).",
+   "topic": "Entertainment: Video Games",
+   "level": 3,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-28-92",
+   "question": "What was the first Super Mario game ever released in North America for the 3DS?",
+   "options": [
+    "New Super Mario Bros. 2",
+    "Mario Kart 7",
+    "Super Mario 3D Land",
+    "Super Mario Maker"
+   ],
+   "answer": 2,
+   "explanation": "Super Mario 3D Land is the correct answer for: What was the first Super Mario game ever released in North America for the 3DS? (Entertainment: Video Games).",
+   "topic": "Entertainment: Video Games",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-28-93",
+   "question": "Who was the leader of the Communist Party of Yugoslavia ?",
+   "options": [
+    "Aleskandar Petrovic",
+    "Karadjordje Petrovic",
+    "Josip Broz Tito",
+    "Milos Obilic"
+   ],
+   "answer": 2,
+   "explanation": "Josip Broz Tito is the correct answer for: Who was the leader of the Communist Party of Yugoslavia ? (History).",
+   "topic": "History",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-28-94",
+   "question": "Which of these Pok&eacute;mon cannot learn Surf?",
+   "options": [
+    "Tauros",
+    "Nidoking",
+    "Linoone",
+    "Arbok"
+   ],
+   "answer": 3,
+   "explanation": "Arbok is the correct answer for: Which of these Pok&eacute;mon cannot learn Surf? (Entertainment: Video Games).",
+   "topic": "Entertainment: Video Games",
+   "level": 3,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-28-95",
+   "question": "What is the equation for the area of a sphere?",
+   "options": [
+    "(1/3)&pi;hr^2",
+    "&pi;r^4",
+    "(4/3)&pi;r^3",
+    "4&pi;r^2"
+   ],
+   "answer": 2,
+   "explanation": "(4/3)&pi;r^3 is the correct answer for: What is the equation for the area of a sphere? (Science: Mathematics).",
+   "topic": "Science: Mathematics",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-28-96",
+   "question": "When was the \"Siege of Leningrad\" lifted during World War II?",
+   "options": [
+    "March 1944",
+    "September 1943",
+    "November 1943",
+    "January 1944"
+   ],
+   "answer": 3,
+   "explanation": "January 1944 is the correct answer for: When was the \"Siege of Leningrad\" lifted during World War II? (History).",
+   "topic": "History",
+   "level": 3,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-28-97",
+   "question": "In \"A Hat In Time\" who is the final boss?",
+   "options": [
+    "Mafia Boss",
+    "Conductor",
+    "Mustache Girl",
+    "Snatcher"
+   ],
+   "answer": 2,
+   "explanation": "Mustache Girl is the correct answer for: In \"A Hat In Time\" who is the final boss? (Entertainment: Video Games).",
+   "topic": "Entertainment: Video Games",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-28-98",
+   "question": "Who are the original creators of Rachet & Clank?",
+   "options": [
+    "PixelTail Games",
+    "Rare",
+    "Bethesda",
+    "Insomniac Games"
+   ],
+   "answer": 3,
+   "explanation": "Insomniac Games is the correct answer for: Who are the original creators of Rachet & Clank? (Entertainment: Video Games).",
+   "topic": "Entertainment: Video Games",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-28-99",
+   "question": "In vanilla Minecraft, you can make armor out of all BUT which of the following?",
+   "options": [
+    "Emeralds",
+    "Diamonds",
+    "Leather",
+    "Iron"
+   ],
+   "answer": 0,
+   "explanation": "Emeralds is the correct answer for: In vanilla Minecraft, you can make armor out of all BUT which of the following? (Entertainment: Video Games).",
+   "topic": "Entertainment: Video Games",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-28-100",
+   "question": "In \"A Certain Magical Index,\" what is Accelerator able to control?",
+   "options": [
+    "Vectors",
+    "Quantums",
+    "Wormholes",
+    "Velocity"
+   ],
+   "answer": 0,
+   "explanation": "Vectors is the correct answer for: In \"A Certain Magical Index,\" what is Accelerator able to control? (Entertainment: Japanese Anime & Manga).",
+   "topic": "Entertainment: Japanese Anime & Manga",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
   }
  ]
 };

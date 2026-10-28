@@ -11,7 +11,7 @@
   "ssc-cgl"
  ],
  "blurb": "Banking, budget, taxes, trade and national income.",
- "count": 349,
+ "count": 353,
  "questions": [
   {
    "id": "economics-00001",
@@ -5316,6 +5316,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "economics-daily-2026-10-28-59",
+   "question": "Which current affairs development was reported regarding: \"An expert panel constituted by Keralam’s UDF government to review the functioning of KIIFB has recommended winding it up and absorbing its functions into the State government, prompting a closer look at the merits of...\"?",
+   "options": [
+    "On the question of KIIFB’s future",
+    "Anticipation over upcoming EU FTA more than doubles Ferrari orders in India",
+    "Moves by the North of England to unlock India trade",
+    "Rupee rises 19 paise to close at 95.17 against U.S. dollar"
+   ],
+   "answer": 0,
+   "explanation": "On the question of KIIFB’s future — An expert panel constituted by Keralam’s UDF government to review the functioning of KIIFB has recommended winding it up and absorbing its functions into the State government, prompting a closer look at the merits of... (The Hindu — Economy & Banking, Tue, 27 Oct 2026 23:21:59 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "economics-daily-2026-10-28-60",
+   "question": "Which current affairs development was reported regarding: \"The capex spend in the first half of the fiscal year surpassing the stipulated target of ₹7,286 crore for the period.\"?",
+   "options": [
+    "UPI and the cost of policy reversal",
+    "Coal India H1 capital expenditure surges 27% to ₹7,966-cr, exceeds target",
+    "SBI’s cyber defences: What the bank had in place",
+    "Finances for disabled"
+   ],
+   "answer": 1,
+   "explanation": "Coal India H1 capital expenditure surges 27% to ₹7,966-cr, exceeds target — The capex spend in the first half of the fiscal year surpassing the stipulated target of ₹7,286 crore for the period. (The Hindu — Economy & Banking, Tue, 27 Oct 2026 19:28:00 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "economics-daily-2026-10-28-61",
+   "question": "Which current affairs development was reported regarding: \"Nayara, which operates 7,108 petrol pumps across the country, raised petrol and diesel prices with effect from early hours of Saturday, October 3, sources said\"?",
+   "options": [
+    "Nayara Energy hikes petrol by ₹5, diesel by ₹3",
+    "How India’s life insurance sector funds government expenditure",
+    "Rubio pushes for India to buy more U.S., Venezuelan oil",
+    "Oil prices extend rally to near six-month high amid Houthi attacks on Saudi Arabia"
+   ],
+   "answer": 0,
+   "explanation": "Nayara Energy hikes petrol by ₹5, diesel by ₹3 — Nayara, which operates 7,108 petrol pumps across the country, raised petrol and diesel prices with effect from early hours of Saturday, October 3, sources said (The Hindu — Economy & Banking, Tue, 27 Oct 2026 15:38:27 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "economics-daily-2026-10-28-62",
+   "question": "Which current affairs development was reported regarding: \"India's refining capacity is currently around 290 million tonnes per annum and is expected to expand further, he said\"?",
+   "options": [
+    "India poised to refine for world as global capacity declines: Union Minister Hardeep Puri",
+    "Food and fuel push wholesale inflation to series-high of 11.4% in September 2026",
+    "Net FDI at $3.3 billion in September 2026, positive for third consecutive month",
+    "Why managing fiscal is a tightrope for State governments"
+   ],
+   "answer": 0,
+   "explanation": "India poised to refine for world as global capacity declines: Union Minister Hardeep Puri — India's refining capacity is currently around 290 million tonnes per annum and is expected to expand further, he said (The Hindu — Economy & Banking, Tue, 27 Oct 2026 15:24:25 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
   }
  ]
 };

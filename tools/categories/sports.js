@@ -12,7 +12,7 @@
   "railways"
  ],
  "blurb": "Trophies, terms, players and tournaments.",
- "count": 334,
+ "count": 354,
  "questions": [
   {
    "id": "sports-00001",
@@ -5097,6 +5097,326 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "sports-daily-2026-10-28-63",
+   "question": "Which current affairs development was reported regarding: \"There are only 27 available slots — including 20 reserved for the Indians\"?",
+   "options": [
+    "WPL auction: Sneh among biggest names in the fray",
+    "Tilak —the yo-yo man of India’s T20 set-up",
+    "Snapping ties abruptly with a match made in heaven",
+    "Punjab and Haryana HC directs BFI to keep no-confidence meeting in abeyance"
+   ],
+   "answer": 0,
+   "explanation": "WPL auction: Sneh among biggest names in the fray — There are only 27 available slots — including 20 reserved for the Indians (The Hindu — Sports, Wed, 28 Oct 2026 00:28:54 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "sports-daily-2026-10-28-64",
+   "question": "Which current affairs development was reported regarding: \"When he dismissed Kent’s Zimbabwean batter Tawanda Muyeye for his third scalp of the innings and his 50th of the season on September 15, James Anderson would hardly have imagined that it would be his final wicket for...\"?",
+   "options": [
+    "Snapping ties abruptly with a match made in heaven",
+    "Tilak —the yo-yo man of India’s T20 set-up",
+    "Ishan Kishan ruled out of third T20I against New Zealand as precautionary measure",
+    "Prabhsimran, Salil and Ramandeep shine as Punjab makes 289 for 6 on opening day"
+   ],
+   "answer": 0,
+   "explanation": "Snapping ties abruptly with a match made in heaven — When he dismissed Kent’s Zimbabwean batter Tawanda Muyeye for his third scalp of the innings and his 50th of the season on September 15, James Anderson would hardly have imagined that it would be his final wicket for... (The Hindu — Sports, Wed, 28 Oct 2026 00:24:48 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "sports-daily-2026-10-28-65",
+   "question": "Which current affairs development was reported regarding: \"Mandeep Singh struck three goals and created as many for the host\"?",
+   "options": [
+    "Ranji Trophy: Steady Karnataka builds up a first-innings lead",
+    "Prabhsimran, Salil and Ramandeep shine as Punjab makes 289 for 6 on opening day",
+    "De la Fuente wins men's Ballon d'Or coach of the year; Pere Romeu bags women’s award",
+    "Asian Champions Trophy: India slams 13 past hapless Bangladesh"
+   ],
+   "answer": 3,
+   "explanation": "Asian Champions Trophy: India slams 13 past hapless Bangladesh — Mandeep Singh struck three goals and created as many for the host (The Hindu — Sports, Wed, 28 Oct 2026 00:17:11 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "sports-daily-2026-10-28-66",
+   "question": "Which current affairs development was reported regarding: \"The home team wraaps up the Goan first innings for 220\"?",
+   "options": [
+    "Ranji Trophy: Centurion Shahbaz and Shami put Bengal in command",
+    "After his 38-ball 113, Abhishek Sharma plays down Yuvraj’s 12-ball fifty challenge",
+    "Kylian Mbappe double helps Real Madrid stuns Barcelona in La Liga Clasico",
+    "Ranji Trophy: Shorey, Samarth, Malewar fifties put Vidarbha in pole position"
+   ],
+   "answer": 3,
+   "explanation": "Ranji Trophy: Shorey, Samarth, Malewar fifties put Vidarbha in pole position — The home team wraaps up the Goan first innings for 220 (The Hindu — Sports, Tue, 27 Oct 2026 23:24:50 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "sports-daily-2026-10-28-67",
+   "question": "Which current affairs development was reported regarding: \"Dharanidharan began his journey with the pole vault in Class IX before financial difficulties forced him to switch to javelin the following year\"?",
+   "options": [
+    "Ranji Trophy: Salil takes Punjab to 431; Hyderabad solid in reply",
+    "Young javelin star Dharanidharan eyes breaching the 80m mark",
+    "Kotian and Musheer stand out for Mumbai on a frustrating day",
+    "Ranji Trophy: Raghuvanshi, Musheer help Mumbai take opening day’s honours"
+   ],
+   "answer": 1,
+   "explanation": "Young javelin star Dharanidharan eyes breaching the 80m mark — Dharanidharan began his journey with the pole vault in Class IX before financial difficulties forced him to switch to javelin the following year (The Hindu — Sports, Tue, 27 Oct 2026 23:11:36 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "sports-daily-2026-10-28-68",
+   "question": "Which current affairs development was reported regarding: \"The middle-order batter smashes his third successive ton and puts on 116 for the last wicket with Umesh after Milind reduces the visitor to 315 for nine; Abhirath and Rahul lead the host’s response\"?",
+   "options": [
+    "Kasvankar, Misal rescue Goa after Vidarbha bowlers make early inroads",
+    "Ranji Trophy: Salil takes Punjab to 431; Hyderabad solid in reply",
+    "Murugappa Gold Cup: Last-gasp goal keeps IOCL in semifinal race",
+    "Snapping ties abruptly with a match made in heaven"
+   ],
+   "answer": 1,
+   "explanation": "Ranji Trophy: Salil takes Punjab to 431; Hyderabad solid in reply — The middle-order batter smashes his third successive ton and puts on 116 for the last wicket with Umesh after Milind reduces the visitor to 315 for nine; Abhirath and Rahul lead the host’s response (The Hindu — Sports, Tue, 27 Oct 2026 23:11:10 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "sports-daily-2026-10-28-69",
+   "question": "Which current affairs development was reported regarding: \"The Women in Blue are aiming for a clean sweep against the Zimbabweans\"?",
+   "options": [
+    "India likely to experiment in final ODI",
+    "Flight Of Fancy, Perfect Attitude, Battle Crown, Shining Dawn and Pledge shine",
+    "Chennai teen takes chess to underprivileged children",
+    "Denso Iris reigns supreme"
+   ],
+   "answer": 0,
+   "explanation": "India likely to experiment in final ODI — The Women in Blue are aiming for a clean sweep against the Zimbabweans (The Hindu — Sports, Tue, 27 Oct 2026 22:07:40 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "sports-daily-2026-10-28-70",
+   "question": "Which current affairs development was reported regarding: \"Salil’s crucial 93-run stand with Ramandeep on day one and his 116-run 10th-wicket partnership with Umesh on Tuesday take the wind out of Hyderabad’s sails\"?",
+   "options": [
+    "Railways has got a fighting total: Zubair",
+    "Denso Iris reigns supreme",
+    "De la Fuente wins men's Ballon d'Or coach of the year; Pere Romeu bags women’s award",
+    "Salil credits coaches Rajan and Yuvraj for his purple patch"
+   ],
+   "answer": 3,
+   "explanation": "Salil credits coaches Rajan and Yuvraj for his purple patch — Salil’s crucial 93-run stand with Ramandeep on day one and his 116-run 10th-wicket partnership with Umesh on Tuesday take the wind out of Hyderabad’s sails (The Hindu — Sports, Tue, 27 Oct 2026 22:03:11 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "sports-daily-2026-10-28-71",
+   "question": "Which current affairs development was reported regarding: \"The skipper extends his purple patch with an unbeaten 210; the No. 7 batter hits an unconquered 150 during their unbroken 334-run sixth-wicket alliance as the visitor posts a mammoth total\"?",
+   "options": [
+    "Sharath recalls five-year ‘fruitful journey’ as a national selector",
+    "Ranji Trophy: Sarvate and Basil strike to help Kerala take control against Bengal",
+    "Ranji Trophy: Steady Karnataka builds up a first-innings lead",
+    "Ranji Trophy: Badoni, Mathur mastermind a perfect day for Delhi"
+   ],
+   "answer": 3,
+   "explanation": "Ranji Trophy: Badoni, Mathur mastermind a perfect day for Delhi — The skipper extends his purple patch with an unbeaten 210; the No. 7 batter hits an unconquered 150 during their unbroken 334-run sixth-wicket alliance as the visitor posts a mammoth total (The Hindu — Sports, Tue, 27 Oct 2026 21:57:39 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "sports-daily-2026-10-28-72",
+   "question": "Which current affairs development was reported regarding: \"The all-rounder follows up his third FC ton with couple of Kerala scalps while the veteran pacer home team’s top order with three wickets\"?",
+   "options": [
+    "Asian Champions Trophy: India slams 13 past hapless Bangladesh",
+    "Ranji Trophy: Centurion Shahbaz and Shami put Bengal in command",
+    "Happy but not satisfied, says Musheer",
+    "Irish Twist and Absolute Serenity catch the eye"
+   ],
+   "answer": 1,
+   "explanation": "Ranji Trophy: Centurion Shahbaz and Shami put Bengal in command — The all-rounder follows up his third FC ton with couple of Kerala scalps while the veteran pacer home team’s top order with three wickets (The Hindu — Sports, Tue, 27 Oct 2026 21:50:06 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "sports-daily-2026-10-28-73",
+   "question": "Which current affairs development was reported regarding: \"The former scores a patient unbeaten 52 as the host makes 430 against Haryana, while the latter strikes twice in the last hour\"?",
+   "options": [
+    "Sharath recalls five-year ‘fruitful journey’ as a national selector",
+    "Kotian and Musheer stand out for Mumbai on a frustrating day",
+    "Murugappa Gold Cup: Last-gasp goal keeps IOCL in semifinal race",
+    "Ranji Trophy: Zubair frustrates TN after host’s bowlers come to the party"
+   ],
+   "answer": 1,
+   "explanation": "Kotian and Musheer stand out for Mumbai on a frustrating day — The former scores a patient unbeaten 52 as the host makes 430 against Haryana, while the latter strikes twice in the last hour (The Hindu — Sports, Tue, 27 Oct 2026 21:17:30 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "sports-daily-2026-10-28-74",
+   "question": "Which current affairs development was reported regarding: \"Rohan, Aneesh and Karun notch up half-centuries as the host gains an advantage of 103 runs over visiting Tripura on the second day of their Group B encounter\"?",
+   "options": [
+    "Ranji Trophy: Steady Karnataka builds up a first-innings lead",
+    "Ranji Trophy: Bowlers have a field day as 16 wickets fall",
+    "Flight Of Fancy, Perfect Attitude, Battle Crown, Shining Dawn and Pledge shine",
+    "IPL retention deadline set for November 15"
+   ],
+   "answer": 0,
+   "explanation": "Ranji Trophy: Steady Karnataka builds up a first-innings lead — Rohan, Aneesh and Karun notch up half-centuries as the host gains an advantage of 103 runs over visiting Tripura on the second day of their Group B encounter (The Hindu — Sports, Tue, 27 Oct 2026 21:03:58 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "sports-daily-2026-10-28-75",
+   "question": "Which current affairs development was reported regarding: \"The No. 4 batter’s unbeaten 74 puts the visitor just 15 runs behind Andhra’s first-innings total with two wickets in hand; Vijay is the pick of the home team’s bowlers with three scalps\"?",
+   "options": [
+    "Ranji Trophy: Salil takes Punjab to 431; Hyderabad solid in reply",
+    "Ranji Trophy: Shorey, Samarth, Malewar fifties put Vidarbha in pole position",
+    "Ranji Trophy: Raghuvanshi, Musheer help Mumbai take opening day’s honours",
+    "Ranji Trophy: Khare’s patient knock keeps Chhattisgarh in the hunt"
+   ],
+   "answer": 3,
+   "explanation": "Ranji Trophy: Khare’s patient knock keeps Chhattisgarh in the hunt — The No. 4 batter’s unbeaten 74 puts the visitor just 15 runs behind Andhra’s first-innings total with two wickets in hand; Vijay is the pick of the home team’s bowlers with three scalps (The Hindu — Sports, Tue, 27 Oct 2026 20:57:14 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "sports-daily-2026-10-28-76",
+   "question": "Which current affairs development was reported regarding: \"Left-arm tweaker Raj and offie Toufik run riot to earn Railways a 19-run first-innings lead; Sai Kishore and Hemchudeshan, however, bring Tamil Nadu back into the contest\"?",
+   "options": [
+    "India likely to experiment in final ODI",
+    "Mbappe dropped by Chinese brands for ‘offending national sentiments’",
+    "Ranji Trophy: Bowlers have a field day as 16 wickets fall",
+    "Salil credits coaches Rajan and Yuvraj for his purple patch"
+   ],
+   "answer": 2,
+   "explanation": "Ranji Trophy: Bowlers have a field day as 16 wickets fall — Left-arm tweaker Raj and offie Toufik run riot to earn Railways a 19-run first-innings lead; Sai Kishore and Hemchudeshan, however, bring Tamil Nadu back into the contest (The Hindu — Sports, Tue, 27 Oct 2026 19:13:55 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "sports-daily-2026-10-28-77",
+   "question": "Which current affairs development was reported regarding: \"His comments came after India registered a six-wicket, with the left-hander earning the Player of the Match award\"?",
+   "options": [
+    "‘Murugappa Cup offers valuable exposure for Malaysian juniors’",
+    "Ranji Trophy: Raghuvanshi, Musheer help Mumbai take opening day’s honours",
+    "Ranji Trophy: Jayant shows his mettle as Chhattisgarh takes opening-day honours",
+    "After his 38-ball 113, Abhishek Sharma plays down Yuvraj’s 12-ball fifty challenge"
+   ],
+   "answer": 3,
+   "explanation": "After his 38-ball 113, Abhishek Sharma plays down Yuvraj’s 12-ball fifty challenge — His comments came after India registered a six-wicket, with the left-hander earning the Player of the Match award (The Hindu — Sports, Tue, 27 Oct 2026 17:02:28 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "sports-daily-2026-10-28-78",
+   "question": "Which current affairs development was reported regarding: \"The Indian bowlers didn’t have too many wickets to show for their effort but they were once again impressive in the last five overs giving away only 52 runs\"?",
+   "options": [
+    "Murugappa Gold Cup: Last-gasp goal keeps IOCL in semifinal race",
+    "IND vs NZ third T20I: Incredible Abhishek mauls New Zealand as India clinch series with six-wicket win",
+    "Salil credits coaches Rajan and Yuvraj for his purple patch",
+    "Batting with Badoni makes my job easier: Mathur"
+   ],
+   "answer": 1,
+   "explanation": "IND vs NZ third T20I: Incredible Abhishek mauls New Zealand as India clinch series with six-wicket win — The Indian bowlers didn’t have too many wickets to show for their effort but they were once again impressive in the last five overs giving away only 52 runs (The Hindu — Sports, Tue, 27 Oct 2026 16:52:05 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "sports-daily-2026-10-28-79",
+   "question": "Which current affairs development was reported regarding: \"Harmanpreet Kaur had stepped down from captaincy after leading the team to a second successive Asian Games gold in Japan\"?",
+   "options": [
+    "Ranji Trophy: Khare’s patient knock keeps Chhattisgarh in the hunt",
+    "Jharkhand and Delhi eye a spruce-up after middling start to the season",
+    "Harmanpreet Kaur moves up to eighth in ICC ODI rankings",
+    "Ranji Trophy: Raj praises Yuvraj and Indrajith for showing the way"
+   ],
+   "answer": 2,
+   "explanation": "Harmanpreet Kaur moves up to eighth in ICC ODI rankings — Harmanpreet Kaur had stepped down from captaincy after leading the team to a second successive Asian Games gold in Japan (The Hindu — Sports, Tue, 27 Oct 2026 16:41:52 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "sports-daily-2026-10-28-80",
+   "question": "Which current affairs development was reported regarding: \"The announcements came after a video emerged online with Mbappe saying that the funniest internet meme he had seen was of his face photo-shopped onto that of “some guy — I think he’s a Chinese dictator”\"?",
+   "options": [
+    "Mbappe dropped by Chinese brands for ‘offending national sentiments’",
+    "Asian Champions Trophy: India slams 13 past hapless Bangladesh",
+    "Kasvankar, Misal rescue Goa after Vidarbha bowlers make early inroads",
+    "Railways has got a fighting total: Zubair"
+   ],
+   "answer": 0,
+   "explanation": "Mbappe dropped by Chinese brands for ‘offending national sentiments’ — The announcements came after a video emerged online with Mbappe saying that the funniest internet meme he had seen was of his face photo-shopped onto that of “some guy — I think he’s a Chinese dictator” (The Hindu — Sports, Tue, 27 Oct 2026 14:10:19 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "sports-daily-2026-10-28-81",
+   "question": "Which current affairs development was reported regarding: \"While the host is fifth in Group C with four points from two matches, Ayush Badoni & Co., languishing at sixth, have three points in their kitty\"?",
+   "options": [
+    "Jharkhand and Delhi eye a spruce-up after middling start to the season",
+    "Ranji Trophy: Raghuvanshi, Musheer help Mumbai take opening day’s honours",
+    "ISL: Manvir strikes late as Mohun Bagan edges Chennaiyin",
+    "De la Fuente wins men's Ballon d'Or coach of the year; Pere Romeu bags women’s award"
+   ],
+   "answer": 0,
+   "explanation": "Jharkhand and Delhi eye a spruce-up after middling start to the season — While the host is fifth in Group C with four points from two matches, Ayush Badoni & Co., languishing at sixth, have three points in their kitty (The Hindu — Sports, Tue, 27 Oct 2026 10:29:07 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "sports-daily-2026-10-28-82",
+   "question": "Which current affairs development was reported regarding: \"While he is chuffed for Kushagra and Shikhar, having worked with them since their u-16 days, he is left with a depleted outfit now\"?",
+   "options": [
+    "IND vs NZ third T20I: Incredible Abhishek mauls New Zealand as India clinch series with six-wicket win",
+    "Good for Jharkhand that the bench is being tested: coach Ratan",
+    "Murugappa Gold Cup: Last-gasp goal keeps IOCL in semifinal race",
+    "Railways has got a fighting total: Zubair"
+   ],
+   "answer": 1,
+   "explanation": "Good for Jharkhand that the bench is being tested: coach Ratan — While he is chuffed for Kushagra and Shikhar, having worked with them since their u-16 days, he is left with a depleted outfit now (The Hindu — Sports, Tue, 27 Oct 2026 10:27:15 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
   }
  ]
 };
