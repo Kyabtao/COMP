@@ -13,7 +13,7 @@
   "railways"
  ],
  "blurb": "Recent schemes, missions, summits, awards and appointments.",
- "count": 1240,
+ "count": 1295,
  "questions": [
   {
    "id": "current-affairs-00001",
@@ -18854,6 +18854,886 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-29-01",
+   "question": "Which current affairs development was reported regarding: \"In a video posted on Facebook, a visibly angry Naseeruddin Shah came out in support of Jamia Millia Islamia students, who have been protesting for the restoration of the students' union, and called himself a \"dimagi...\"?",
+   "options": [
+    "NCP leader challenges Sunetra Pawar’s decision to appoint a new national chief spokesperson",
+    "20 units of illegally mined sand near Ambur seized",
+    "Cyclone ‘Arnab’ highlights | Five killed in Andhra; Telangana extends support to Andhra for restoration works",
+    "Extremely harmful to Indian democracy: Rijiju slams Naseeruddin Shah's 'dimagi naxal' video"
+   ],
+   "answer": 3,
+   "explanation": "Extremely harmful to Indian democracy: Rijiju slams Naseeruddin Shah's 'dimagi naxal' video — In a video posted on Facebook, a visibly angry Naseeruddin Shah came out in support of Jamia Millia Islamia students, who have been protesting for the restoration of the students' union, and called himself a \"dimagi... (The Hindu — National & Current Affairs, Thu, 29 Oct 2026 11:37:21 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-29-02",
+   "question": "Which current affairs development was reported regarding: \"​Flagging off the rally, Assistant Superintendent of Post Offices (Yadgir division) Krishna Mohite stressed that honesty, morality, and accountability form the foundation of individual and societal prosperity\"?",
+   "options": [
+    "Pakistan minister invites Punjab CM Mann",
+    "Cyclone Arnab: Guntur district records 41 mm average rainfall; authorities stay alert",
+    "Postal Department organises awareness rally in Yadgir to promote integrity",
+    "Bihar MLC polls: Upper caste candidates dominate election results"
+   ],
+   "answer": 2,
+   "explanation": "Postal Department organises awareness rally in Yadgir to promote integrity — ​Flagging off the rally, Assistant Superintendent of Post Offices (Yadgir division) Krishna Mohite stressed that honesty, morality, and accountability form the foundation of individual and societal prosperity (The Hindu — National & Current Affairs, Thu, 29 Oct 2026 11:37:10 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-29-03",
+   "question": "Which current affairs development was reported regarding: \"As India gears up for Durga Puja 2026, the air will once again thrum with the beat of the dhak. In this special package, we bring you stories from pandals across cities, meet the artisans shaping this year’s idols,...\"?",
+   "options": [
+    "Durga Puja 2026: All set for the beat of the dhak",
+    "40% of patients at NIMHANS neurology casualty have stroke; KMCRI in Hubbali treats 120 cases a month",
+    "Social media users trash Telangana CEO’s claims on SIR, call the process a sham",
+    "TNCC president asks Karnataka government to respect Cauvery Water Management Authority order"
+   ],
+   "answer": 0,
+   "explanation": "Durga Puja 2026: All set for the beat of the dhak — As India gears up for Durga Puja 2026, the air will once again thrum with the beat of the dhak. In this special package, we bring you stories from pandals across cities, meet the artisans shaping this year’s idols,... (The Hindu — National & Current Affairs, Thu, 29 Oct 2026 11:34:05 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-29-04",
+   "question": "Which current affairs development was reported regarding: \"Complaint against the duo was filed following financial dispute related to making of Action Hero Biju 2. The complainant alleged that after entering into an agreement to produce the film, its overseas rights were...\"?",
+   "options": [
+    "Kochi residents flag worsening air quality, especially at night",
+    "All 17 escapees from Theni district jail apprehended in less than 40 hours: IGP South Zone",
+    "Kerala HC quashes cheating case against Nivin Pauly, director Abrid Shine after out-of-court settlement in dispute over film rights",
+    "Cyberabad Police plan one-way loop to ease IT corridor traffic"
+   ],
+   "answer": 2,
+   "explanation": "Kerala HC quashes cheating case against Nivin Pauly, director Abrid Shine after out-of-court settlement in dispute over film rights — Complaint against the duo was filed following financial dispute related to making of Action Hero Biju 2. The complainant alleged that after entering into an agreement to produce the film, its overseas rights were... (The Hindu — National & Current Affairs, Thu, 29 Oct 2026 11:32:59 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-29-05",
+   "question": "Which current affairs development was reported regarding: \"Researchers from CUSAT and SCTIMST, Thiruvananthapuram, find significant differences between gut bacteria of Parkinson’s patients and those of healthy individuals\"?",
+   "options": [
+    "Study in Keralam sheds light on link between gut bacteria, Parkinson’s disease",
+    "Revenue authorities told to examine records in 13-year-old land dispute involving 70 acres of government land in Kalaburagi district",
+    "Rupee rises 11 paise to 95.17 against U.S. dollar in early trade",
+    "TNCC president asks Karnataka government to respect Cauvery Water Management Authority order"
+   ],
+   "answer": 0,
+   "explanation": "Study in Keralam sheds light on link between gut bacteria, Parkinson’s disease — Researchers from CUSAT and SCTIMST, Thiruvananthapuram, find significant differences between gut bacteria of Parkinson’s patients and those of healthy individuals (The Hindu — National & Current Affairs, Thu, 29 Oct 2026 11:29:13 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-29-06",
+   "question": "Which current affairs development was reported regarding: \"Police say no separate request was received for the proposed mock impeachment on October 30 and November 1; rally at Ramlila Maidan on November 1 cleared subject to conditions, including CCTV surveillance and a ban...\"?",
+   "options": [
+    "Bihar MLC polls: Upper caste candidates dominate election results",
+    "DVAC searches ex-Minister K.N. Nehru’s residence in Tiruchi",
+    "West Bengal police ‘encounters’: the events and the questions they raise | Explained",
+    "Delhi Police grants Congress rally at Ramlila Maidan with strict conditions, denies mock impeachment request"
+   ],
+   "answer": 3,
+   "explanation": "Delhi Police grants Congress rally at Ramlila Maidan with strict conditions, denies mock impeachment request — Police say no separate request was received for the proposed mock impeachment on October 30 and November 1; rally at Ramlila Maidan on November 1 cleared subject to conditions, including CCTV surveillance and a ban... (The Hindu — National & Current Affairs, Thu, 29 Oct 2026 11:25:49 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-29-07",
+   "question": "Which current affairs development was reported regarding: \"The Congress rally will be held at the Ramlila Maidan, which is one of the three designated protest sites in Delhi after Jantar Mantar was de-notified\"?",
+   "options": [
+    "Social media users trash Telangana CEO’s claims on SIR, call the process a sham",
+    "Maharashtra MLC election: Congress trumps BJP in Nagpur, MVA leads 3-2 in State",
+    "West Bengal police ‘encounters’: the events and the questions they raise | Explained",
+    "Congress rally on November 1: What are the conditions imposed by Delhi Police"
+   ],
+   "answer": 3,
+   "explanation": "Congress rally on November 1: What are the conditions imposed by Delhi Police — The Congress rally will be held at the Ramlila Maidan, which is one of the three designated protest sites in Delhi after Jantar Mantar was de-notified (The Hindu — National & Current Affairs, Thu, 29 Oct 2026 11:25:04 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-29-08",
+   "question": "Which current affairs development was reported regarding: \"Since the BJP government came to power in Bengal in May, five people — three of them accused of murder and two charged with sexual assault of minors — have been killed in police encounters\"?",
+   "options": [
+    "West Bengal police ‘encounters’: the events and the questions they raise | Explained",
+    "Study in Keralam sheds light on link between gut bacteria, Parkinson’s disease",
+    "Kerala HC quashes cheating case against Nivin Pauly, director Abrid Shine after out-of-court settlement in dispute over film rights",
+    "20 units of illegally mined sand near Ambur seized"
+   ],
+   "answer": 0,
+   "explanation": "West Bengal police ‘encounters’: the events and the questions they raise | Explained — Since the BJP government came to power in Bengal in May, five people — three of them accused of murder and two charged with sexual assault of minors — have been killed in police encounters (The Hindu — National & Current Affairs, Thu, 29 Oct 2026 11:17:24 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-29-09",
+   "question": "Which current affairs development was reported regarding: \"At least 17 districts of southern Odisha affected by heavy rainfall due to cyclonic storm Arnab; Andhra Pradesh records five deaths as CM Naidu announces relief measures\"?",
+   "options": [
+    "20 units of illegally mined sand near Ambur seized",
+    "Cyclone Arnab to weaken into depression on October 29, says IMD | LIVE updates",
+    "Poland pivots towards India as ‘strategic partnership’ with China develops cracks",
+    "Digital Personal Data Protection Act does not infringe on press freedom: Ashwini Vaishnaw"
+   ],
+   "answer": 1,
+   "explanation": "Cyclone Arnab to weaken into depression on October 29, says IMD | LIVE updates — At least 17 districts of southern Odisha affected by heavy rainfall due to cyclonic storm Arnab; Andhra Pradesh records five deaths as CM Naidu announces relief measures (The Hindu — National & Current Affairs, Thu, 29 Oct 2026 11:17:11 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-29-10",
+   "question": "Which current affairs development was reported regarding: \"From the auctions at Vizhinjam fishing harbour to seafood markets across the region, brown mussels sustain a community of divers whose livelihoods depend on the sea and its seasonal bounty\"?",
+   "options": [
+    "Cabinet approves 3% hike in dearness allowance for central government employees",
+    "How brown mussels sustain livelihoods along Thiruvananthapuram’s coast",
+    "DVAC searches ex-Minister K.N. Nehru’s residence in Tiruchi",
+    "SAD-AAP trade barbs on drug menace issue in Punjab"
+   ],
+   "answer": 1,
+   "explanation": "How brown mussels sustain livelihoods along Thiruvananthapuram’s coast — From the auctions at Vizhinjam fishing harbour to seafood markets across the region, brown mussels sustain a community of divers whose livelihoods depend on the sea and its seasonal bounty (The Hindu — National & Current Affairs, Thu, 29 Oct 2026 11:16:00 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-29-11",
+   "question": "Which current affairs development was reported regarding: \"The youth’s father Lalan Paswan said that his son was incarcerated for leaving his job without informing the company and was also trapped after paying an agent to return home\"?",
+   "options": [
+    "Bihar MLC polls: Upper caste candidates dominate election results",
+    "Jharkhand youth jailed in UAE, family seeks Government help for his return",
+    "Thane Police warn of action over highway blockades amid Purnekar murder protests, say SIT probe on track",
+    "TNCC president asks Karnataka government to respect Cauvery Water Management Authority order"
+   ],
+   "answer": 1,
+   "explanation": "Jharkhand youth jailed in UAE, family seeks Government help for his return — The youth’s father Lalan Paswan said that his son was incarcerated for leaving his job without informing the company and was also trapped after paying an agent to return home (The Hindu — National & Current Affairs, Thu, 29 Oct 2026 11:12:23 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-29-12",
+   "question": "Which current affairs development was reported regarding: \"Candidates in the fray for the local body elections visit the cyclone-affected areas, coordinating relief efforts, and helping the administrative machinery restore normalcy\"?",
+   "options": [
+    "Cyclone Arnab: Corporator candidates shift focus to relief works from electioneering in Vizag",
+    "Jharkhand youth jailed in UAE, family seeks Government help for his return",
+    "Forest panel rejects Uttarakhand HC relocation plan again over forest land concerns",
+    "Social media users trash Telangana CEO’s claims on SIR, call the process a sham"
+   ],
+   "answer": 0,
+   "explanation": "Cyclone Arnab: Corporator candidates shift focus to relief works from electioneering in Vizag — Candidates in the fray for the local body elections visit the cyclone-affected areas, coordinating relief efforts, and helping the administrative machinery restore normalcy (The Hindu — National & Current Affairs, Thu, 29 Oct 2026 11:08:50 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-29-13",
+   "question": "Which current affairs development was reported regarding: \"The operation, carried out by a team headed by a Deputy Superintendent of Police, began at around 7 a.m.\"?",
+   "options": [
+    "West Bengal police ‘encounters’: the events and the questions they raise | Explained",
+    "T.N. govt. declares holiday on November 9 in view of Deepavali",
+    "DVAC searches ex-Minister K.N. Nehru’s residence in Tiruchi",
+    "Karnataka High Court flags irony: Law meant to curb red tapism bogged down it"
+   ],
+   "answer": 2,
+   "explanation": "DVAC searches ex-Minister K.N. Nehru’s residence in Tiruchi — The operation, carried out by a team headed by a Deputy Superintendent of Police, began at around 7 a.m. (The Hindu — National & Current Affairs, Thu, 29 Oct 2026 10:57:49 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-29-14",
+   "question": "Which current affairs development was reported regarding: \"The U.S. Fed kept interest rates unchanged at 3.75%–4.00% as widely expected, but the market reaction turned mildly dollar-negative, forex traders said\"?",
+   "options": [
+    "Social media users trash Telangana CEO’s claims on SIR, call the process a sham",
+    "ED attaches land, buildings of Mohammad Ali Jauhar University in Rampur in money laundering case",
+    "Rupee rises 11 paise to 95.17 against U.S. dollar in early trade",
+    "Several road surveillance cameras in Kozhikode city on the blink"
+   ],
+   "answer": 2,
+   "explanation": "Rupee rises 11 paise to 95.17 against U.S. dollar in early trade — The U.S. Fed kept interest rates unchanged at 3.75%–4.00% as widely expected, but the market reaction turned mildly dollar-negative, forex traders said (The Hindu — National & Current Affairs, Thu, 29 Oct 2026 10:52:33 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-29-15",
+   "question": "Which current affairs development was reported regarding: \"Accessible and affordable public spaces for literary programmes, better coordination of local events and initiatives to encourage young writers sought\"?",
+   "options": [
+    "Telangana SIR: Form-6 rejections and Form-7 deletions unusually high during pre-SIR period",
+    "As Kozhikode marks three years of ‘City of Literature’ recognition, writers seek more focus at local level",
+    "Karnataka High Court flags irony: Law meant to curb red tapism bogged down it",
+    "Hunker down: On Cyclone Arnab, its landfall"
+   ],
+   "answer": 1,
+   "explanation": "As Kozhikode marks three years of ‘City of Literature’ recognition, writers seek more focus at local level — Accessible and affordable public spaces for literary programmes, better coordination of local events and initiatives to encourage young writers sought (The Hindu — National & Current Affairs, Thu, 29 Oct 2026 10:50:13 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-29-16",
+   "question": "Which current affairs development was reported regarding: \"The protests, which continued overnight, followed allegations by Purnekar’s family that police had failed to act against former Thane mayor Meenakshi Shinde and her husband Rajendra Shinde despite evidence allegedly...\"?",
+   "options": [
+    "40% of patients at NIMHANS neurology casualty have stroke; KMCRI in Hubbali treats 120 cases a month",
+    "Railways to turn off charging points in trains during night",
+    "Traders seek action against street vendors, encroachments in Dharwad",
+    "Thane Police warn of action over highway blockades amid Purnekar murder protests, say SIT probe on track"
+   ],
+   "answer": 3,
+   "explanation": "Thane Police warn of action over highway blockades amid Purnekar murder protests, say SIT probe on track — The protests, which continued overnight, followed allegations by Purnekar’s family that police had failed to act against former Thane mayor Meenakshi Shinde and her husband Rajendra Shinde despite evidence allegedly... (The Hindu — National & Current Affairs, Thu, 29 Oct 2026 10:49:44 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-29-17",
+   "question": "Which current affairs development was reported regarding: \"In a Facebook post, the physical education teacher had alleged that worms were found in food served to students attending the event. Organisers conducted an inspection and found it to be false, said police\"?",
+   "options": [
+    "How brown mussels sustain livelihoods along Thiruvananthapuram’s coast",
+    "Karnataka High Court flags irony: Law meant to curb red tapism bogged down it",
+    "‘RSS Friends’ registers in U.S. to step up outreach, correct inaccuracies",
+    "Keralam teacher arrested for alleging worms found in food at State Sports Meet; Minister alleges conspiracy"
+   ],
+   "answer": 3,
+   "explanation": "Keralam teacher arrested for alleging worms found in food at State Sports Meet; Minister alleges conspiracy — In a Facebook post, the physical education teacher had alleged that worms were found in food served to students attending the event. Organisers conducted an inspection and found it to be false, said police (The Hindu — National & Current Affairs, Thu, 29 Oct 2026 10:29:19 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-29-18",
+   "question": "Which current affairs development was reported regarding: \"While the NCP SP called for going back to ballot papers for holding elections, the BJP called for introspection among the alliance partners\"?",
+   "options": [
+    "Jharkhand youth jailed in UAE, family seeks Government help for his return",
+    "KSU leader serves legal notice on private firm MD in Kannur",
+    "Maharashtra MLC election: Congress trumps BJP in Nagpur, MVA leads 3-2 in State",
+    "CM to release book co-authored by late B. Madhusoodana Kurup"
+   ],
+   "answer": 2,
+   "explanation": "Maharashtra MLC election: Congress trumps BJP in Nagpur, MVA leads 3-2 in State — While the NCP SP called for going back to ballot papers for holding elections, the BJP called for introspection among the alliance partners (The Hindu — National & Current Affairs, Thu, 29 Oct 2026 09:53:30 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-29-19",
+   "question": "Which current affairs development was reported regarding: \"Traders’ association claims that unregulated street vending and encroachments on public spaces are affecting local businesses\"?",
+   "options": [
+    "40% of patients at NIMHANS neurology casualty have stroke; KMCRI in Hubbali treats 120 cases a month",
+    "Revenue authorities told to examine records in 13-year-old land dispute involving 70 acres of government land in Kalaburagi district",
+    "Unmarried rural youth in Maharashtra plan Statewide stir for government help in getting brides",
+    "Traders seek action against street vendors, encroachments in Dharwad"
+   ],
+   "answer": 3,
+   "explanation": "Traders seek action against street vendors, encroachments in Dharwad — Traders’ association claims that unregulated street vending and encroachments on public spaces are affecting local businesses (The Hindu — National & Current Affairs, Thu, 29 Oct 2026 09:52:09 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-29-20",
+   "question": "Which current affairs development was reported regarding: \"The number of rejections constitutes close to 27% of the total Form-6 applications processed during Pre-SIR and SIR phases, which is very high\"?",
+   "options": [
+    "Pakistan minister invites Punjab CM Mann",
+    "Telangana SIR: Form-6 rejections and Form-7 deletions unusually high during pre-SIR period",
+    "CM to release book co-authored by late B. Madhusoodana Kurup",
+    "Traders seek action against street vendors, encroachments in Dharwad"
+   ],
+   "answer": 1,
+   "explanation": "Telangana SIR: Form-6 rejections and Form-7 deletions unusually high during pre-SIR period — The number of rejections constitutes close to 27% of the total Form-6 applications processed during Pre-SIR and SIR phases, which is very high (The Hindu — National & Current Affairs, Thu, 29 Oct 2026 09:37:23 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-29-21",
+   "question": "Which current affairs development was reported regarding: \"The appeal had been heard 30 times by the Information Commission’s benches in Bengaluru and Kalaburagi\"?",
+   "options": [
+    "NCP leader challenges Sunetra Pawar’s decision to appoint a new national chief spokesperson",
+    "Rupee rises 11 paise to 95.17 against U.S. dollar in early trade",
+    "Revenue authorities told to examine records in 13-year-old land dispute involving 70 acres of government land in Kalaburagi district",
+    "Cyclone ‘Arnab’ highlights | Five killed in Andhra; Telangana extends support to Andhra for restoration works"
+   ],
+   "answer": 2,
+   "explanation": "Revenue authorities told to examine records in 13-year-old land dispute involving 70 acres of government land in Kalaburagi district — The appeal had been heard 30 times by the Information Commission’s benches in Bengaluru and Kalaburagi (The Hindu — National & Current Affairs, Thu, 29 Oct 2026 09:17:46 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-29-22",
+   "question": "Which current affairs development was reported regarding: \"Police to conduct traffic simulations and stakeholder consultations before phased implementation of proposed loop system\"?",
+   "options": [
+    "Cyberabad Police plan one-way loop to ease IT corridor traffic",
+    "Cyclone Arnab to weaken into depression on October 29, says IMD | LIVE updates",
+    "Karnataka High Court flags irony: Law meant to curb red tapism bogged down it",
+    "ED attaches land, buildings of Mohammad Ali Jauhar University in Rampur in money laundering case"
+   ],
+   "answer": 0,
+   "explanation": "Cyberabad Police plan one-way loop to ease IT corridor traffic — Police to conduct traffic simulations and stakeholder consultations before phased implementation of proposed loop system (The Hindu — National & Current Affairs, Thu, 29 Oct 2026 09:01:04 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-29-23",
+   "question": "Which current affairs development was reported regarding: \"Proactive governance kept the casualties low after Cyclone Arnab\"?",
+   "options": [
+    "Congress rally on November 1: What are the conditions imposed by Delhi Police",
+    "Hunker down: On Cyclone Arnab, its landfall",
+    "SAD-AAP trade barbs on drug menace issue in Punjab",
+    "Study in Keralam sheds light on link between gut bacteria, Parkinson’s disease"
+   ],
+   "answer": 1,
+   "explanation": "Hunker down: On Cyclone Arnab, its landfall — Proactive governance kept the casualties low after Cyclone Arnab (The Hindu — National & Current Affairs, Thu, 29 Oct 2026 08:40:07 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-29-24",
+   "question": "Which current affairs development was reported regarding: \"Hub-and-spoke model extends specialised stroke care to northern Karnataka, reducing the need for emergency transfers to Bengaluru. World Stroke Day is observed on October 29.\"?",
+   "options": [
+    "Digital Personal Data Protection Act does not infringe on press freedom: Ashwini Vaishnaw",
+    "40% of patients at NIMHANS neurology casualty have stroke; KMCRI in Hubbali treats 120 cases a month",
+    "Furniture thrown, proceedings disrupted as lawyers’ protest against HC judge turns chaotic",
+    "TNCC president asks Karnataka government to respect Cauvery Water Management Authority order"
+   ],
+   "answer": 1,
+   "explanation": "40% of patients at NIMHANS neurology casualty have stroke; KMCRI in Hubbali treats 120 cases a month — Hub-and-spoke model extends specialised stroke care to northern Karnataka, reducing the need for emergency transfers to Bengaluru. World Stroke Day is observed on October 29. (The Hindu — National & Current Affairs, Thu, 29 Oct 2026 08:13:12 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-29-25",
+   "question": "Which current affairs development was reported regarding: \"The storm now heads for Odisha, Chhattisgarh, Jharkhand and West Bengal, where heavy rain is forecast\"?",
+   "options": [
+    "Cyclone ‘Arnab’ highlights | Five killed in Andhra; Telangana extends support to Andhra for restoration works",
+    "Furniture thrown, proceedings disrupted as lawyers’ protest against HC judge turns chaotic",
+    "Unmarried rural youth in Maharashtra plan Statewide stir for government help in getting brides",
+    "Bihar MLC polls: Jan Suraaj Party opens account, JD(U)'s Neeraj Kumar 'wins' Patna Graduates seat"
+   ],
+   "answer": 0,
+   "explanation": "Cyclone ‘Arnab’ highlights | Five killed in Andhra; Telangana extends support to Andhra for restoration works — The storm now heads for Odisha, Chhattisgarh, Jharkhand and West Bengal, where heavy rain is forecast (The Hindu — National & Current Affairs, Thu, 29 Oct 2026 07:55:12 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-29-26",
+   "question": "Which current affairs development was reported regarding: \"Several people disputed the CEO’s claim that Booth Level Officers had conducted house-to-house visits, while others complained that they had not received enumeration forms\"?",
+   "options": [
+    "Bihar Cabinet approves MOU between WRD & NIH, Roorkee for ‘Flood Plain Zone Delineation Study’",
+    "KSU leader serves legal notice on private firm MD in Kannur",
+    "Social media users trash Telangana CEO’s claims on SIR, call the process a sham",
+    "Protruding posts, ad boards choke Kochi junctions, endanger commuters"
+   ],
+   "answer": 2,
+   "explanation": "Social media users trash Telangana CEO’s claims on SIR, call the process a sham — Several people disputed the CEO’s claim that Booth Level Officers had conducted house-to-house visits, while others complained that they had not received enumeration forms (The Hindu — National & Current Affairs, Thu, 29 Oct 2026 07:25:49 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-29-27",
+   "question": "Which current affairs development was reported regarding: \"Karnataka Conduct of Government Litigation Act, 2023, prescribes that officers must stick to the period of limitation fixed to prefer appeals, review or revision against a court verdict, the Bench said, noting that...\"?",
+   "options": [
+    "Karnataka High Court flags irony: Law meant to curb red tapism bogged down it",
+    "Furniture thrown, proceedings disrupted as lawyers’ protest against HC judge turns chaotic",
+    "Pakistan minister invites Punjab CM Mann",
+    "Rupee rises 11 paise to 95.17 against U.S. dollar in early trade"
+   ],
+   "answer": 0,
+   "explanation": "Karnataka High Court flags irony: Law meant to curb red tapism bogged down it — Karnataka Conduct of Government Litigation Act, 2023, prescribes that officers must stick to the period of limitation fixed to prefer appeals, review or revision against a court verdict, the Bench said, noting that... (The Hindu — National & Current Affairs, Thu, 29 Oct 2026 07:24:23 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-29-28",
+   "question": "Which current affairs development was reported regarding: \"The RSS Friends, which provided a Georgia address in the registration document, listed Rashtriya Swayamsevak Sangh, Keshavkunj, New Delhi as its “foreign principal”\"?",
+   "options": [
+    "Cyclone Arnab: Guntur district records 41 mm average rainfall; authorities stay alert",
+    "As Kozhikode marks three years of ‘City of Literature’ recognition, writers seek more focus at local level",
+    "West Bengal police ‘encounters’: the events and the questions they raise | Explained",
+    "‘RSS Friends’ registers in U.S. to step up outreach, correct inaccuracies"
+   ],
+   "answer": 3,
+   "explanation": "‘RSS Friends’ registers in U.S. to step up outreach, correct inaccuracies — The RSS Friends, which provided a Georgia address in the registration document, listed Rashtriya Swayamsevak Sangh, Keshavkunj, New Delhi as its “foreign principal” (The Hindu — National & Current Affairs, Thu, 29 Oct 2026 07:23:56 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-29-29",
+   "question": "Which current affairs development was reported regarding: \"Poland and India seek to raise bilateral trade from $6 bn to $10 bn; PM Modi visited Poland in 2024, during which ties were elevated to ‘strategic partnership’; Warsaw is also trying to diversify partnerships as...\"?",
+   "options": [
+    "T.N. govt. declares holiday on November 9 in view of Deepavali",
+    "DVAC searches ex-Minister K.N. Nehru’s residence in Tiruchi",
+    "Bihar MLC polls: Jan Suraaj Party opens account, JD(U)'s Neeraj Kumar 'wins' Patna Graduates seat",
+    "Poland pivots towards India as ‘strategic partnership’ with China develops cracks"
+   ],
+   "answer": 3,
+   "explanation": "Poland pivots towards India as ‘strategic partnership’ with China develops cracks — Poland and India seek to raise bilateral trade from $6 bn to $10 bn; PM Modi visited Poland in 2024, during which ties were elevated to ‘strategic partnership’; Warsaw is also trying to diversify partnerships as... (The Hindu — National & Current Affairs, Thu, 29 Oct 2026 07:19:39 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-29-30",
+   "question": "Which current affairs development was reported regarding: \"Core demands of the youth planning to protest include setting up an all-religion marriage registration bureau under the Social Welfare Department, providing direct financial assistance, creating steady rural...\"?",
+   "options": [
+    "Bihar MLC polls: NDA close to win 4 out of 8 seats",
+    "Forest panel rejects Uttarakhand HC relocation plan again over forest land concerns",
+    "Farmer injured by gun trap allegedly set for wild boars in Kasaragod",
+    "Unmarried rural youth in Maharashtra plan Statewide stir for government help in getting brides"
+   ],
+   "answer": 3,
+   "explanation": "Unmarried rural youth in Maharashtra plan Statewide stir for government help in getting brides — Core demands of the youth planning to protest include setting up an all-religion marriage registration bureau under the Social Welfare Department, providing direct financial assistance, creating steady rural... (The Hindu — National & Current Affairs, Thu, 29 Oct 2026 07:18:45 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-29-31",
+   "question": "Which current affairs development was reported regarding: \"Elector-to-population ratio released officially by Karnataka CEO shows under-enrolment of about 64.5 lakh electors, of whom roughly 38.41 lakh are in the 18 to 29 age group.\"?",
+   "options": [
+    "Bihar MLC polls: Jan Suraaj Party opens account, JD(U)'s Neeraj Kumar 'wins' Patna Graduates seat",
+    "Digital Personal Data Protection Act does not infringe on press freedom: Ashwini Vaishnaw",
+    "Karnataka SIR: 64.5 lakh voters potentially missing in rolls, majority of them young",
+    "Revenue authorities told to examine records in 13-year-old land dispute involving 70 acres of government land in Kalaburagi district"
+   ],
+   "answer": 2,
+   "explanation": "Karnataka SIR: 64.5 lakh voters potentially missing in rolls, majority of them young — Elector-to-population ratio released officially by Karnataka CEO shows under-enrolment of about 64.5 lakh electors, of whom roughly 38.41 lakh are in the 18 to 29 age group. (The Hindu — National & Current Affairs, Thu, 29 Oct 2026 07:01:17 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-29-32",
+   "question": "Which current affairs development was reported regarding: \"“Congress leaders are distressed by the SIR exercise that seeks to clean up the voter list, but the BJP is committed to ensuring that infiltrators are removed from it,” says Nabin\"?",
+   "options": [
+    "Several road surveillance cameras in Kozhikode city on the blink",
+    "Hunker down: On Cyclone Arnab, its landfall",
+    "Modi will return to Red Fort as PM in 2029, Congress breathing its last under Rahul: Nitin Nabin",
+    "SAD-AAP trade barbs on drug menace issue in Punjab"
+   ],
+   "answer": 2,
+   "explanation": "Modi will return to Red Fort as PM in 2029, Congress breathing its last under Rahul: Nitin Nabin — “Congress leaders are distressed by the SIR exercise that seeks to clean up the voter list, but the BJP is committed to ensuring that infiltrators are removed from it,” says Nabin (The Hindu — National & Current Affairs, Thu, 29 Oct 2026 06:46:54 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-29-33",
+   "question": "Which current affairs development was reported regarding: \"The DA and DR increase will be effective from July 1, 2026 and will benefit 48.54 lakh employees and 68.71 lakh pensioners\"?",
+   "options": [
+    "Cyclone Arnab to weaken into depression on October 29, says IMD | LIVE updates",
+    "Traders seek action against street vendors, encroachments in Dharwad",
+    "All 17 escapees from Theni district jail apprehended in less than 40 hours: IGP South Zone",
+    "Cabinet approves 3% hike in dearness allowance for central government employees"
+   ],
+   "answer": 3,
+   "explanation": "Cabinet approves 3% hike in dearness allowance for central government employees — The DA and DR increase will be effective from July 1, 2026 and will benefit 48.54 lakh employees and 68.71 lakh pensioners (The Hindu — National & Current Affairs, Thu, 29 Oct 2026 06:46:24 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-29-34",
+   "question": "Which current affairs development was reported regarding: \"IT Minister invites editors and media professionals to engage in open dialogue with government to discuss concerns surrounding the law\"?",
+   "options": [
+    "Revenue authorities told to examine records in 13-year-old land dispute involving 70 acres of government land in Kalaburagi district",
+    "Railways to turn off charging points in trains during night",
+    "Digital Personal Data Protection Act does not infringe on press freedom: Ashwini Vaishnaw",
+    "T.N. govt. declares holiday on November 9 in view of Deepavali"
+   ],
+   "answer": 2,
+   "explanation": "Digital Personal Data Protection Act does not infringe on press freedom: Ashwini Vaishnaw — IT Minister invites editors and media professionals to engage in open dialogue with government to discuss concerns surrounding the law (The Hindu — National & Current Affairs, Thu, 29 Oct 2026 06:45:45 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-29-35",
+   "question": "Which current affairs development was reported regarding: \"“ED found that funds meant for public works were diverted to the University, government works were executed on its private campus, and funds from contractors who had been allotted government contracts were routed...\"?",
+   "options": [
+    "ED attaches land, buildings of Mohammad Ali Jauhar University in Rampur in money laundering case",
+    "West Bengal police ‘encounters’: the events and the questions they raise | Explained",
+    "Revenue authorities told to examine records in 13-year-old land dispute involving 70 acres of government land in Kalaburagi district",
+    "Study in Keralam sheds light on link between gut bacteria, Parkinson’s disease"
+   ],
+   "answer": 0,
+   "explanation": "ED attaches land, buildings of Mohammad Ali Jauhar University in Rampur in money laundering case — “ED found that funds meant for public works were diverted to the University, government works were executed on its private campus, and funds from contractors who had been allotted government contracts were routed... (The Hindu — National & Current Affairs, Thu, 29 Oct 2026 06:41:13 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-29-36",
+   "question": "Which current affairs development was reported regarding: \"Cabinet approves 115 acres of land for a sugar mill and 151.58 acres for other industries. ₹12 crore approved for “Bihar State Games 2026”. Nod for underground road corridor in Patna.\"?",
+   "options": [
+    "T.N. govt. declares holiday on November 9 in view of Deepavali",
+    "ED attaches land, buildings of Mohammad Ali Jauhar University in Rampur in money laundering case",
+    "Study in Keralam sheds light on link between gut bacteria, Parkinson’s disease",
+    "Bihar Cabinet approves MOU between WRD & NIH, Roorkee for ‘Flood Plain Zone Delineation Study’"
+   ],
+   "answer": 3,
+   "explanation": "Bihar Cabinet approves MOU between WRD & NIH, Roorkee for ‘Flood Plain Zone Delineation Study’ — Cabinet approves 115 acres of land for a sugar mill and 151.58 acres for other industries. ₹12 crore approved for “Bihar State Games 2026”. Nod for underground road corridor in Patna. (The Hindu — National & Current Affairs, Thu, 29 Oct 2026 05:12:45 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-29-37",
+   "question": "Which current affairs development was reported regarding: \"The committee directed the State government to explore the possibility of locating the proposed project on suitable non-forest land before pursuing forest clearance\"?",
+   "options": [
+    "Farmer injured by gun trap allegedly set for wild boars in Kasaragod",
+    "Forest panel rejects Uttarakhand HC relocation plan again over forest land concerns",
+    "ED attaches land, buildings of Mohammad Ali Jauhar University in Rampur in money laundering case",
+    "NTK’s ‘Saattai’ Duraimurugan moves Madras High Court seeking anticipatory bail"
+   ],
+   "answer": 1,
+   "explanation": "Forest panel rejects Uttarakhand HC relocation plan again over forest land concerns — The committee directed the State government to explore the possibility of locating the proposed project on suitable non-forest land before pursuing forest clearance (The Hindu — National & Current Affairs, Thu, 29 Oct 2026 03:05:29 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-29-38",
+   "question": "Which current affairs development was reported regarding: \"Brijmohan Shrivastav claimed that the previously raised queries about her appointment as the national president were still unresolved\"?",
+   "options": [
+    "NCP leader challenges Sunetra Pawar’s decision to appoint a new national chief spokesperson",
+    "NTK’s ‘Saattai’ Duraimurugan moves Madras High Court seeking anticipatory bail",
+    "Unmarried rural youth in Maharashtra plan Statewide stir for government help in getting brides",
+    "Cyclone Arnab: Corporator candidates shift focus to relief works from electioneering in Vizag"
+   ],
+   "answer": 0,
+   "explanation": "NCP leader challenges Sunetra Pawar’s decision to appoint a new national chief spokesperson — Brijmohan Shrivastav claimed that the previously raised queries about her appointment as the national president were still unresolved (The Hindu — National & Current Affairs, Thu, 29 Oct 2026 02:53:18 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-29-39",
+   "question": "Which current affairs development was reported regarding: \"She has sought anticipatory bail in a case booked against her pursuant to a speech at DMK women’s wing meet held in Chennai on October 7, 2026\"?",
+   "options": [
+    "Maharashtra MLC election: Congress trumps BJP in Nagpur, MVA leads 3-2 in State",
+    "Corporation councillor willing to express regret for abusing and body shaming Chief Minister C. Joseph Vijay, her counsel tells Madras High Court",
+    "T.N. govt. declares holiday on November 9 in view of Deepavali",
+    "Farmer injured by gun trap allegedly set for wild boars in Kasaragod"
+   ],
+   "answer": 1,
+   "explanation": "Corporation councillor willing to express regret for abusing and body shaming Chief Minister C. Joseph Vijay, her counsel tells Madras High Court — She has sought anticipatory bail in a case booked against her pursuant to a speech at DMK women’s wing meet held in Chennai on October 7, 2026 (The Hindu — National & Current Affairs, Thu, 29 Oct 2026 02:32:02 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-29-40",
+   "question": "Which current affairs development was reported regarding: \"Punjab CM Bhagwant Mann had said that he wished to accept the invitation from the organisers of the Lahore International Punjabi Conference in Lahore from November 27 to 29 and would want to visit Sikh shrines in...\"?",
+   "options": [
+    "Cyclone Arnab: Corporator candidates shift focus to relief works from electioneering in Vizag",
+    "Cyclone ‘Arnab’ highlights | Five killed in Andhra; Telangana extends support to Andhra for restoration works",
+    "Pakistan minister invites Punjab CM Mann",
+    "Cyclone Arnab: Guntur district records 41 mm average rainfall; authorities stay alert"
+   ],
+   "answer": 2,
+   "explanation": "Pakistan minister invites Punjab CM Mann — Punjab CM Bhagwant Mann had said that he wished to accept the invitation from the organisers of the Lahore International Punjabi Conference in Lahore from November 27 to 29 and would want to visit Sikh shrines in... (The Hindu — National & Current Affairs, Thu, 29 Oct 2026 02:27:21 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-29-41",
+   "question": "Which current affairs development was reported regarding: \"The Opposition Congress party which had put up its candidates on five seats has failed to win even a single seat in the elections\"?",
+   "options": [
+    "DVAC searches ex-Minister K.N. Nehru’s residence in Tiruchi",
+    "Bihar Cabinet approves MOU between WRD & NIH, Roorkee for ‘Flood Plain Zone Delineation Study’",
+    "Bihar MLC polls: Upper caste candidates dominate election results",
+    "Cabinet approves 3% hike in dearness allowance for central government employees"
+   ],
+   "answer": 2,
+   "explanation": "Bihar MLC polls: Upper caste candidates dominate election results — The Opposition Congress party which had put up its candidates on five seats has failed to win even a single seat in the elections (The Hindu — National & Current Affairs, Thu, 29 Oct 2026 02:19:49 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-29-42",
+   "question": "Which current affairs development was reported regarding: \"The Railway Board’s renewed insistence on implementing the measure follows a recent incident in the South Eastern Railway zone. Railway staff reportedly failed to switch off charging points during the prescribed...\"?",
+   "options": [
+    "Railways to turn off charging points in trains during night",
+    "Several road surveillance cameras in Kozhikode city on the blink",
+    "Revenue authorities told to examine records in 13-year-old land dispute involving 70 acres of government land in Kalaburagi district",
+    "TN Teachers Education University gets new Registrar-in-charge following allegation of irregularities by civilian group"
+   ],
+   "answer": 0,
+   "explanation": "Railways to turn off charging points in trains during night — The Railway Board’s renewed insistence on implementing the measure follows a recent incident in the South Eastern Railway zone. Railway staff reportedly failed to switch off charging points during the prescribed... (The Hindu — National & Current Affairs, Thu, 29 Oct 2026 02:11:32 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-29-43",
+   "question": "Which current affairs development was reported regarding: \"All sitting MLCs of the Teachers constituency lost the election, whereas Janata Dal (United) candidate Neeraj Kumar retained his Patna Graduate Constituency\"?",
+   "options": [
+    "Bihar MLC polls: NDA close to win 4 out of 8 seats",
+    "Poland pivots towards India as ‘strategic partnership’ with China develops cracks",
+    "TNCC president asks Karnataka government to respect Cauvery Water Management Authority order",
+    "Karnataka SIR: 64.5 lakh voters potentially missing in rolls, majority of them young"
+   ],
+   "answer": 0,
+   "explanation": "Bihar MLC polls: NDA close to win 4 out of 8 seats — All sitting MLCs of the Teachers constituency lost the election, whereas Janata Dal (United) candidate Neeraj Kumar retained his Patna Graduate Constituency (The Hindu — National & Current Affairs, Thu, 29 Oct 2026 02:06:03 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-29-44",
+   "question": "Which current affairs development was reported regarding: \"On the night of their escape, the remand prisoners claimed that one of the inmates suffered epileptic seizures and required assistance. When a jail warder opened the cell, they overpowered him and escaped.\"?",
+   "options": [
+    "Hunker down: On Cyclone Arnab, its landfall",
+    "Forest panel rejects Uttarakhand HC relocation plan again over forest land concerns",
+    "All 17 escapees from Theni district jail apprehended in less than 40 hours: IGP South Zone",
+    "Railways to turn off charging points in trains during night"
+   ],
+   "answer": 2,
+   "explanation": "All 17 escapees from Theni district jail apprehended in less than 40 hours: IGP South Zone — On the night of their escape, the remand prisoners claimed that one of the inmates suffered epileptic seizures and required assistance. When a jail warder opened the cell, they overpowered him and escaped. (The Hindu — National & Current Affairs, Thu, 29 Oct 2026 02:03:11 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-29-45",
+   "question": "Which current affairs development was reported regarding: \"In the Patna Graduates constituency, JD(U)'s Neeraj Kumar has defeated the RJD candidate, though official results for the seat are yet to be declared\"?",
+   "options": [
+    "SAD-AAP trade barbs on drug menace issue in Punjab",
+    "West Bengal police ‘encounters’: the events and the questions they raise | Explained",
+    "TN Teachers Education University gets new Registrar-in-charge following allegation of irregularities by civilian group",
+    "Bihar MLC polls: Jan Suraaj Party opens account, JD(U)'s Neeraj Kumar 'wins' Patna Graduates seat"
+   ],
+   "answer": 3,
+   "explanation": "Bihar MLC polls: Jan Suraaj Party opens account, JD(U)'s Neeraj Kumar 'wins' Patna Graduates seat — In the Patna Graduates constituency, JD(U)'s Neeraj Kumar has defeated the RJD candidate, though official results for the seat are yet to be declared (The Hindu — National & Current Affairs, Thu, 29 Oct 2026 01:54:32 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-29-46",
+   "question": "Which current affairs development was reported regarding: \"An FIR had been registered against him for his alleged derogatory YouTube video against Chief Minister C. Joseph Vijay and Minister Aadhav Arjuna\"?",
+   "options": [
+    "Unmarried rural youth in Maharashtra plan Statewide stir for government help in getting brides",
+    "CM to release book co-authored by late B. Madhusoodana Kurup",
+    "NTK’s ‘Saattai’ Duraimurugan moves Madras High Court seeking anticipatory bail",
+    "TNCC president asks Karnataka government to respect Cauvery Water Management Authority order"
+   ],
+   "answer": 2,
+   "explanation": "NTK’s ‘Saattai’ Duraimurugan moves Madras High Court seeking anticipatory bail — An FIR had been registered against him for his alleged derogatory YouTube video against Chief Minister C. Joseph Vijay and Minister Aadhav Arjuna (The Hindu — National & Current Affairs, Thu, 29 Oct 2026 01:21:59 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-29-47",
+   "question": "Which current affairs development was reported regarding: \"Bus shelters and bunk shops occupying footpaths force pedestrians to walk along the road; the Corporation has promised follow-up action on complaints, while a ₹1.50-crore project aims to decongest Vyttila Junction\"?",
+   "options": [
+    "Protruding posts, ad boards choke Kochi junctions, endanger commuters",
+    "‘RSS Friends’ registers in U.S. to step up outreach, correct inaccuracies",
+    "Furniture thrown, proceedings disrupted as lawyers’ protest against HC judge turns chaotic",
+    "40% of patients at NIMHANS neurology casualty have stroke; KMCRI in Hubbali treats 120 cases a month"
+   ],
+   "answer": 0,
+   "explanation": "Protruding posts, ad boards choke Kochi junctions, endanger commuters — Bus shelters and bunk shops occupying footpaths force pedestrians to walk along the road; the Corporation has promised follow-up action on complaints, while a ₹1.50-crore project aims to decongest Vyttila Junction (The Hindu — National & Current Affairs, Thu, 29 Oct 2026 01:19:38 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-29-48",
+   "question": "Which current affairs development was reported regarding: \"SAD leader Bikram Singh Majithia accused Arvind Kejriwal of misleading Punjabis by giving the disproportionate assets case the label of a drug case to suppress the issue\"?",
+   "options": [
+    "Pakistan minister invites Punjab CM Mann",
+    "Cyclone Arnab: Corporator candidates shift focus to relief works from electioneering in Vizag",
+    "SAD-AAP trade barbs on drug menace issue in Punjab",
+    "CM to release book co-authored by late B. Madhusoodana Kurup"
+   ],
+   "answer": 2,
+   "explanation": "SAD-AAP trade barbs on drug menace issue in Punjab — SAD leader Bikram Singh Majithia accused Arvind Kejriwal of misleading Punjabis by giving the disproportionate assets case the label of a drug case to suppress the issue (The Hindu — National & Current Affairs, Thu, 29 Oct 2026 01:17:17 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-29-49",
+   "question": "Which current affairs development was reported regarding: \"MLA seeks Chief Minister’s intervention, citing health risks from air pollution. Pollution control board unable to gather real-time AQI data as Vyttila, Kaloor stations remain non-functional\"?",
+   "options": [
+    "Bihar MLC polls: Upper caste candidates dominate election results",
+    "Several road surveillance cameras in Kozhikode city on the blink",
+    "Study in Keralam sheds light on link between gut bacteria, Parkinson’s disease",
+    "Kochi residents flag worsening air quality, especially at night"
+   ],
+   "answer": 3,
+   "explanation": "Kochi residents flag worsening air quality, especially at night — MLA seeks Chief Minister’s intervention, citing health risks from air pollution. Pollution control board unable to gather real-time AQI data as Vyttila, Kaloor stations remain non-functional (The Hindu — National & Current Affairs, Thu, 29 Oct 2026 01:15:19 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-29-50",
+   "question": "Which current affairs development was reported regarding: \"Funds crunch delays replacement of defunct cameras, hampering police efforts to gather digital evidence; several highway cameras remain defunct following six-laning works\"?",
+   "options": [
+    "Pakistan minister invites Punjab CM Mann",
+    "SAD-AAP trade barbs on drug menace issue in Punjab",
+    "KSU leader serves legal notice on private firm MD in Kannur",
+    "Several road surveillance cameras in Kozhikode city on the blink"
+   ],
+   "answer": 3,
+   "explanation": "Several road surveillance cameras in Kozhikode city on the blink — Funds crunch delays replacement of defunct cameras, hampering police efforts to gather digital evidence; several highway cameras remain defunct following six-laning works (The Hindu — National & Current Affairs, Thu, 29 Oct 2026 01:13:23 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-29-51",
+   "question": "Which current affairs development was reported regarding: \"The dispute comes amid a wider controversy surrounding the firm and allegations of irregularities in contracts awarded during the tenure of former Kannur district panchayat president\"?",
+   "options": [
+    "KSU leader serves legal notice on private firm MD in Kannur",
+    "Unmarried rural youth in Maharashtra plan Statewide stir for government help in getting brides",
+    "Congress rally on November 1: What are the conditions imposed by Delhi Police",
+    "Traders seek action against street vendors, encroachments in Dharwad"
+   ],
+   "answer": 0,
+   "explanation": "KSU leader serves legal notice on private firm MD in Kannur — The dispute comes amid a wider controversy surrounding the firm and allegations of irregularities in contracts awarded during the tenure of former Kannur district panchayat president (The Hindu — National & Current Affairs, Thu, 29 Oct 2026 01:08:34 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-29-52",
+   "question": "Which current affairs development was reported regarding: \"The gun trap is suspected to have been planted by an unidentified poaching gang that trespassed on farmer’s property to hunt wild boars\"?",
+   "options": [
+    "Extremely harmful to Indian democracy: Rijiju slams Naseeruddin Shah's 'dimagi naxal' video",
+    "Farmer injured by gun trap allegedly set for wild boars in Kasaragod",
+    "Durga Puja 2026: All set for the beat of the dhak",
+    "Railways to turn off charging points in trains during night"
+   ],
+   "answer": 1,
+   "explanation": "Farmer injured by gun trap allegedly set for wild boars in Kasaragod — The gun trap is suspected to have been planted by an unidentified poaching gang that trespassed on farmer’s property to hunt wild boars (The Hindu — National & Current Affairs, Thu, 29 Oct 2026 01:05:43 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-29-53",
+   "question": "Which current affairs development was reported regarding: \"Officials said that the revenue earned in the public auction will go to the State exchequer\"?",
+   "options": [
+    "Cyclone Arnab: Corporator candidates shift focus to relief works from electioneering in Vizag",
+    "Postal Department organises awareness rally in Yadgir to promote integrity",
+    "20 units of illegally mined sand near Ambur seized",
+    "Bihar MLC polls: Jan Suraaj Party opens account, JD(U)'s Neeraj Kumar 'wins' Patna Graduates seat"
+   ],
+   "answer": 2,
+   "explanation": "20 units of illegally mined sand near Ambur seized — Officials said that the revenue earned in the public auction will go to the State exchequer (The Hindu — National & Current Affairs, Thu, 29 Oct 2026 01:02:59 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-29-54",
+   "question": "Which current affairs development was reported regarding: \"Welcoming the move, M. Radhakrishnan of Arappor Iyakkam, in a statement, demanded a thorough and transparent investigation into the complaint and legal action against those involved in the “fraud”\"?",
+   "options": [
+    "Bihar MLC polls: Jan Suraaj Party opens account, JD(U)'s Neeraj Kumar 'wins' Patna Graduates seat",
+    "TN Teachers Education University gets new Registrar-in-charge following allegation of irregularities by civilian group",
+    "How brown mussels sustain livelihoods along Thiruvananthapuram’s coast",
+    "Cyclone Arnab: Corporator candidates shift focus to relief works from electioneering in Vizag"
+   ],
+   "answer": 1,
+   "explanation": "TN Teachers Education University gets new Registrar-in-charge following allegation of irregularities by civilian group — Welcoming the move, M. Radhakrishnan of Arappor Iyakkam, in a statement, demanded a thorough and transparent investigation into the complaint and legal action against those involved in the “fraud” (The Hindu — National & Current Affairs, Thu, 29 Oct 2026 01:01:43 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-29-55",
+   "question": "Which current affairs development was reported regarding: \"The conduct of the lawyers prompted the court to consider disciplinary and contempt proceedings against those involved\"?",
+   "options": [
+    "Thane Police warn of action over highway blockades amid Purnekar murder protests, say SIT probe on track",
+    "‘RSS Friends’ registers in U.S. to step up outreach, correct inaccuracies",
+    "Cyberabad Police plan one-way loop to ease IT corridor traffic",
+    "Furniture thrown, proceedings disrupted as lawyers’ protest against HC judge turns chaotic"
+   ],
+   "answer": 3,
+   "explanation": "Furniture thrown, proceedings disrupted as lawyers’ protest against HC judge turns chaotic — The conduct of the lawyers prompted the court to consider disciplinary and contempt proceedings against those involved (The Hindu — National & Current Affairs, Thu, 29 Oct 2026 01:00:21 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
   }
  ]
 };

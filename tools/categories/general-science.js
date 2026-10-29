@@ -12,7 +12,7 @@
   "railways"
  ],
  "blurb": "Physics, chemistry and biology facts combined.",
- "count": 1068,
+ "count": 1071,
  "questions": [
   {
    "id": "general-science-00001",
@@ -16101,6 +16101,54 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "general-science-daily-2026-10-29-56",
+   "question": "Which current affairs development was reported regarding: \"The Hindu’s weekly Science for All newsletter explains all things Science, without the jargon\"?",
+   "options": [
+    "India’s first solar mission Aditya-L1 generates Doppler velocity images of the solar corona",
+    "How the humble salt marsh softens the ocean’s fury",
+    "Tamil Nadu may encounter El Niño differently from rest of India",
+    "A physicist who took atoms near absolute zero, and physics further"
+   ],
+   "answer": 1,
+   "explanation": "How the humble salt marsh softens the ocean’s fury — The Hindu’s weekly Science for All newsletter explains all things Science, without the jargon (The Hindu — Science & Technology, Thu, 29 Oct 2026 10:17:59 +0530).",
+   "topic": "The Hindu — Science & Technology Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "general-science-daily-2026-10-29-57",
+   "question": "Which current affairs development was reported regarding: \"An experimental therapy called CRMA-1001 is a remarkable development because, instead of targeting the virus directly, it silences the viral DNA; this is promising because current treatments rarely eliminate the DNA,...\"?",
+   "options": [
+    "Gene therapy offers to beat hepatitis B virus by muting its DNA",
+    "Scientists unearth new instance of ‘contagious cancer’ in animals",
+    "Mining project threatens future of rare Jeypore ground gecko",
+    "Science Snapshots: October 25, 2026"
+   ],
+   "answer": 0,
+   "explanation": "Gene therapy offers to beat hepatitis B virus by muting its DNA — An experimental therapy called CRMA-1001 is a remarkable development because, instead of targeting the virus directly, it silences the viral DNA; this is promising because current treatments rarely eliminate the DNA,... (The Hindu — Science & Technology, Wed, 28 Oct 2026 16:07:14 +0530).",
+   "topic": "The Hindu — Science & Technology Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "general-science-daily-2026-10-29-58",
+   "question": "Which current affairs development was reported regarding: \"As new tools like apomixis become more widely available and private companies start investing more in Indian seeds, it is as important to think about how our system will adapt to these changes as it is to invest in...\"?",
+   "options": [
+    "New form of carbon found: diamondiyne",
+    "Being a good doctor is risky in India",
+    "New genetic tools are breathing fresh life into India’s staple crops",
+    "In Kashmir’s traditional rice, clues to a journey from East Asia"
+   ],
+   "answer": 2,
+   "explanation": "New genetic tools are breathing fresh life into India’s staple crops — As new tools like apomixis become more widely available and private companies start investing more in Indian seeds, it is as important to think about how our system will adapt to these changes as it is to invest in... (The Hindu — Science & Technology, Wed, 28 Oct 2026 14:25:03 +0530).",
+   "topic": "The Hindu — Science & Technology Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
   }
  ]
 };

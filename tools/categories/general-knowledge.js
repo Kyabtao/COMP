@@ -12,7 +12,7 @@
   "railways"
  ],
  "blurb": "Countries, capitals, currencies, days, organisations and world firsts.",
- "count": 1146,
+ "count": 1163,
  "questions": [
   {
    "id": "general-knowledge-00001",
@@ -17349,6 +17349,278 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-29-84",
+   "question": "The moons, Miranda, Ariel, Umbriel, Titania and Oberon orbit which planet?",
+   "options": [
+    "Jupiter",
+    "Venus",
+    "Neptune",
+    "Uranus"
+   ],
+   "answer": 3,
+   "explanation": "Uranus is the correct answer for: The moons, Miranda, Ariel, Umbriel, Titania and Oberon orbit which planet? (Science & Nature).",
+   "topic": "Science & Nature",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-29-85",
+   "question": "Which is the largest freshwater lake in the world?",
+   "options": [
+    "Lake Superior",
+    "Lake Michigan",
+    "Lake Huron",
+    "Caspian Sea"
+   ],
+   "answer": 0,
+   "explanation": "Lake Superior is the correct answer for: Which is the largest freshwater lake in the world? (Geography).",
+   "topic": "Geography",
+   "level": 3,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-29-86",
+   "question": "In addition to his career as an astrologer and \"prophet\", Nostradamus published a 1555 treatise that included a section on what?",
+   "options": [
+    "Teaching parrots to talk",
+    "Digging graves",
+    "Cheating at card games",
+    "Making jams and jellies"
+   ],
+   "answer": 3,
+   "explanation": "Making jams and jellies is the correct answer for: In addition to his career as an astrologer and \"prophet\", Nostradamus published a 1555 treatise that included a section on what? (History).",
+   "topic": "History",
+   "level": 3,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-29-87",
+   "question": "What medication was once commonly used as rat poison?",
+   "options": [
+    "Aspirin",
+    "Tylenol",
+    "Eliquis",
+    "Coumadin"
+   ],
+   "answer": 3,
+   "explanation": "Coumadin is the correct answer for: What medication was once commonly used as rat poison? (Science & Nature).",
+   "topic": "Science & Nature",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-29-88",
+   "question": "The medical condition osteoporosis affects which part of the body?",
+   "options": [
+    "Brain",
+    "Skin",
+    "Bones",
+    "Heart"
+   ],
+   "answer": 2,
+   "explanation": "Bones is the correct answer for: The medical condition osteoporosis affects which part of the body? (Science & Nature).",
+   "topic": "Science & Nature",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-29-89",
+   "question": "What war is Call Of Duty: Black Ops based on?",
+   "options": [
+    "Vietnam",
+    "Cold War",
+    "WW1",
+    "WW3"
+   ],
+   "answer": 1,
+   "explanation": "Cold War is the correct answer for: What war is Call Of Duty: Black Ops based on? (Entertainment: Video Games).",
+   "topic": "Entertainment: Video Games",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-29-90",
+   "question": "Who is able to grab the survivors with his tongue in Left 4 Dead?",
+   "options": [
+    "Smoker",
+    "Boomer",
+    "Hunter",
+    "Jockey"
+   ],
+   "answer": 0,
+   "explanation": "Smoker is the correct answer for: Who is able to grab the survivors with his tongue in Left 4 Dead? (Entertainment: Video Games).",
+   "topic": "Entertainment: Video Games",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-29-91",
+   "question": "What is the name of the first boss the player encounters in the 2017 game, \"Little Nightmares\"?",
+   "options": [
+    "The Janitor",
+    "The Caretaker",
+    "The Overseer",
+    "The Warden"
+   ],
+   "answer": 0,
+   "explanation": "The Janitor is the correct answer for: What is the name of the first boss the player encounters in the 2017 game, \"Little Nightmares\"? (Entertainment: Video Games).",
+   "topic": "Entertainment: Video Games",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-29-92",
+   "question": "Which of the following geographic features is a ring-shaped coral reef, island, or series of islets?",
+   "options": [
+    "Atoll",
+    "Peninsula",
+    "Isthmus",
+    "Delta"
+   ],
+   "answer": 0,
+   "explanation": "Atoll is the correct answer for: Which of the following geographic features is a ring-shaped coral reef, island, or series of islets? (Geography).",
+   "topic": "Geography",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-29-93",
+   "question": "What is the name of a nine sided polygon?",
+   "options": [
+    "Octagon",
+    "Nonagon",
+    "Hexagon",
+    "Heptagon"
+   ],
+   "answer": 1,
+   "explanation": "Nonagon is the correct answer for: What is the name of a nine sided polygon? (Science: Mathematics).",
+   "topic": "Science: Mathematics",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-29-94",
+   "question": "Who wrote \"Harry Potter\"?",
+   "options": [
+    "Terry Pratchett",
+    "J.K. Rowling",
+    "J.R.R. Tolkien",
+    "Daniel Radcliffe"
+   ],
+   "answer": 1,
+   "explanation": "J.K. Rowling is the correct answer for: Who wrote \"Harry Potter\"? (Entertainment: Books).",
+   "topic": "Entertainment: Books",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-29-95",
+   "question": "America Online (AOL) started out as which of these online service providers?",
+   "options": [
+    "GEnie",
+    "Prodigy",
+    "CompuServe",
+    "Quantum Link"
+   ],
+   "answer": 3,
+   "explanation": "Quantum Link is the correct answer for: America Online (AOL) started out as which of these online service providers? (Science: Computers).",
+   "topic": "Science: Computers",
+   "level": 3,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-29-96",
+   "question": "How many Chaos Emeralds are there in the \"Sonic the Hedgehog\" universe?",
+   "options": [
+    "8",
+    "14",
+    "6",
+    "7"
+   ],
+   "answer": 3,
+   "explanation": "7 is the correct answer for: How many Chaos Emeralds are there in the \"Sonic the Hedgehog\" universe? (Entertainment: Video Games).",
+   "topic": "Entertainment: Video Games",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-29-97",
+   "question": "Without enchantments, which pickaxe in minecraft mines blocks the quickest.",
+   "options": [
+    "Iron",
+    "Diamond",
+    "Obsidian",
+    "Golden"
+   ],
+   "answer": 3,
+   "explanation": "Golden is the correct answer for: Without enchantments, which pickaxe in minecraft mines blocks the quickest. (Entertainment: Video Games).",
+   "topic": "Entertainment: Video Games",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-29-98",
+   "question": "Which of these Fortnite emotes does NOT involve a sport in some way?",
+   "options": [
+    "Freestylin'",
+    "Red Card",
+    "Kick Ups",
+    "Baller"
+   ],
+   "answer": 0,
+   "explanation": "Freestylin' is the correct answer for: Which of these Fortnite emotes does NOT involve a sport in some way? (Entertainment: Video Games).",
+   "topic": "Entertainment: Video Games",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-29-99",
+   "question": "What is the subtitle for Gran Turismo 3?",
+   "options": [
+    "Nitro",
+    "A-Spec",
+    "Drive",
+    "Championship"
+   ],
+   "answer": 1,
+   "explanation": "A-Spec is the correct answer for: What is the subtitle for Gran Turismo 3? (Entertainment: Video Games).",
+   "topic": "Entertainment: Video Games",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-29-100",
+   "question": "Which of these artists has NOT been a member of dancehall group Major Lazer?",
+   "options": [
+    "Diplo",
+    "Skrillex",
+    "Walshy Fire",
+    "Jillionaire"
+   ],
+   "answer": 1,
+   "explanation": "Skrillex is the correct answer for: Which of these artists has NOT been a member of dancehall group Major Lazer? (Entertainment: Music).",
+   "topic": "Entertainment: Music",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
   }
  ]
 };

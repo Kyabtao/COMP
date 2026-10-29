@@ -12,7 +12,7 @@
   "railways"
  ],
  "blurb": "Trophies, terms, players and tournaments.",
- "count": 354,
+ "count": 372,
  "questions": [
   {
    "id": "sports-00001",
@@ -5417,6 +5417,294 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "sports-daily-2026-10-29-66",
+   "question": "Which current affairs development was reported regarding: \"Liverpool to face Bournemouth in quarterfinals; Man City plays Bradford City\"?",
+   "options": [
+    "Carabao Cup: Liverpool beats Chelsea on penalties, Man City survives Brighton scare",
+    "Ranji Trophy: Badoni, Mathur mastermind a perfect day for Delhi",
+    "Ranji Trophy: Bowlers have a field day as 16 wickets fall",
+    "After his 38-ball 113, Abhishek Sharma plays down Yuvraj’s 12-ball fifty challenge"
+   ],
+   "answer": 0,
+   "explanation": "Carabao Cup: Liverpool beats Chelsea on penalties, Man City survives Brighton scare — Liverpool to face Bournemouth in quarterfinals; Man City plays Bradford City (The Hindu — Sports, Thu, 29 Oct 2026 11:01:14 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "sports-daily-2026-10-29-67",
+   "question": "Which current affairs development was reported regarding: \"The vice-captain makes the most of an early reprieve as the host overhauls the 128-run target by five wickets to register its second successive win; spinners Toufik and Raj bowl their heart out for Railways\"?",
+   "options": [
+    "Ranji Trophy: Centurion Shahbaz and Shami put Bengal in command",
+    "Ranji Trophy: Steady Karnataka builds up a first-innings lead",
+    "Ranji Trophy: Andre guides Tamil Nadu home in a tense chase",
+    "Vaishnavi’s five-for sets up India’s series sweep"
+   ],
+   "answer": 2,
+   "explanation": "Ranji Trophy: Andre guides Tamil Nadu home in a tense chase — The vice-captain makes the most of an early reprieve as the host overhauls the 128-run target by five wickets to register its second successive win; spinners Toufik and Raj bowl their heart out for Railways (The Hindu — Sports, Thu, 29 Oct 2026 00:17:28 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "sports-daily-2026-10-29-68",
+   "question": "Which current affairs development was reported regarding: \"India are blessed to have four equally aggressive and proven options to pick from to open the batting should it come to that. Abhishek, Samson, Sooryavanshi and Kishan are each more than a handful on his own; throw...\"?",
+   "options": [
+    "I wanted to stay till the end, says Andre",
+    "Ranji Trophy: Shorey’s century takes Vidarbha to a position of strength",
+    "Terrific Threesome — redefining the slam-bang manual",
+    "Carabao Cup: Liverpool beats Chelsea on penalties, Man City survives Brighton scare"
+   ],
+   "answer": 2,
+   "explanation": "Terrific Threesome — redefining the slam-bang manual — India are blessed to have four equally aggressive and proven options to pick from to open the batting should it come to that. Abhishek, Samson, Sooryavanshi and Kishan are each more than a handful on his own; throw... (The Hindu — Sports, Thu, 29 Oct 2026 00:15:04 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "sports-daily-2026-10-29-69",
+   "question": "Which current affairs development was reported regarding: \"UP Warriorz drafts in the T20 WC-winning captain for ₹1.10 crore; the Indian big-hitter to turn out for Capitals after being bought for ₹75 lakh; the 15-year-old is the youngest to make a WPL squad\"?",
+   "options": [
+    "WPL auction: Molineux, Kiran top earners; Kashvi scripts history",
+    "Ranji Trophy: Steady Karnataka builds up a first-innings lead",
+    "Vijay hopes to show that off-spinners can excel in both Tests and T20s",
+    "Jharkhand and Delhi eye a spruce-up after middling start to the season"
+   ],
+   "answer": 0,
+   "explanation": "WPL auction: Molineux, Kiran top earners; Kashvi scripts history — UP Warriorz drafts in the T20 WC-winning captain for ₹1.10 crore; the Indian big-hitter to turn out for Capitals after being bought for ₹75 lakh; the 15-year-old is the youngest to make a WPL squad (The Hindu — Sports, Wed, 28 Oct 2026 23:18:28 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "sports-daily-2026-10-29-70",
+   "question": "Which current affairs development was reported regarding: \"The Andhra tweaker sheds light on his transition from playing on cement tracks to turf wickets; the 25-year-old has been making rapid strides\"?",
+   "options": [
+    "Carabao Cup: Arsenal knocked out by fourth-tier Fleetwood in shootout",
+    "Ranji Trophy: Salil takes Punjab to 431; Hyderabad solid in reply",
+    "Vijay hopes to show that off-spinners can excel in both Tests and T20s",
+    "Asian Para Games gold medallist Neeraj Yadav found dead"
+   ],
+   "answer": 2,
+   "explanation": "Vijay hopes to show that off-spinners can excel in both Tests and T20s — The Andhra tweaker sheds light on his transition from playing on cement tracks to turf wickets; the 25-year-old has been making rapid strides (The Hindu — Sports, Wed, 28 Oct 2026 22:01:13 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "sports-daily-2026-10-29-71",
+   "question": "Which current affairs development was reported regarding: \"The former spinner praises Suthar and believes he is a good investment for Indian cricket\"?",
+   "options": [
+    "IOCL holds Indian Army, leaves its semifinal hopes hanging",
+    "Mix of former players and administrators ideal for smooth conduct of the game: Nadeem",
+    "Mbappe dropped by Chinese brands for ‘offending national sentiments’",
+    "Asian Para Games gold medallist Neeraj Yadav found dead"
+   ],
+   "answer": 1,
+   "explanation": "Mix of former players and administrators ideal for smooth conduct of the game: Nadeem — The former spinner praises Suthar and believes he is a good investment for Indian cricket (The Hindu — Sports, Wed, 28 Oct 2026 21:23:31 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "sports-daily-2026-10-29-72",
+   "question": "Which current affairs development was reported regarding: \"The left-arm spinner follows up his four-for in the first essay with the same number of scalps as the home side ends day three at 53 for four in pursuit of 408\"?",
+   "options": [
+    "Ranji Trophy: Raj praises Yuvraj and Indrajith for showing the way",
+    "Ranji Trophy: Pramanik puts Bengal in command as host Kerala stares down the barrel",
+    "Mix of former players and administrators ideal for smooth conduct of the game: Nadeem",
+    "Salil credits coaches Rajan and Yuvraj for his purple patch"
+   ],
+   "answer": 1,
+   "explanation": "Ranji Trophy: Pramanik puts Bengal in command as host Kerala stares down the barrel — The left-arm spinner follows up his four-for in the first essay with the same number of scalps as the home side ends day three at 53 for four in pursuit of 408 (The Hindu — Sports, Wed, 28 Oct 2026 21:18:58 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "sports-daily-2026-10-29-73",
+   "question": "Which current affairs development was reported regarding: \"The Haryana all-rounder has spent a staggering 420 minutes at the crease so far and his unbeaten first-innings ton is a lesson in application on a surface that offered increasing assistance to the spinners\"?",
+   "options": [
+    "Ranji Trophy: Shorey, Samarth, Malewar fifties put Vidarbha in pole position",
+    "After his 38-ball 113, Abhishek Sharma plays down Yuvraj’s 12-ball fifty challenge",
+    "Efficacy, Galahad, Valiant Stream and Preview excel",
+    "Ranji Trophy 2026: Nishant’s knock an endorsement for patience and attrition"
+   ],
+   "answer": 3,
+   "explanation": "Ranji Trophy 2026: Nishant’s knock an endorsement for patience and attrition — The Haryana all-rounder has spent a staggering 420 minutes at the crease so far and his unbeaten first-innings ton is a lesson in application on a surface that offered increasing assistance to the spinners (The Hindu — Sports, Wed, 28 Oct 2026 19:04:47 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "sports-daily-2026-10-29-74",
+   "question": "Which current affairs development was reported regarding: \"The Mumbai all-rounder completes a rare double of a century and five-wicket haul by scalping six in the first essay; the southpaw’s unbeaten century keeps alive Haryana’s hopes of earning a draw\"?",
+   "options": [
+    "Ranji Trophy: Musheer has a memorable day; Nishant puts in a shift",
+    "Ranji Trophy: Raj praises Yuvraj and Indrajith for showing the way",
+    "Emotional, proud homecoming for hockey heroes",
+    "Salil credits coaches Rajan and Yuvraj for his purple patch"
+   ],
+   "answer": 0,
+   "explanation": "Ranji Trophy: Musheer has a memorable day; Nishant puts in a shift — The Mumbai all-rounder completes a rare double of a century and five-wicket haul by scalping six in the first essay; the southpaw’s unbeaten century keeps alive Haryana’s hopes of earning a draw (The Hindu — Sports, Wed, 28 Oct 2026 18:56:10 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "sports-daily-2026-10-29-75",
+   "question": "Which current affairs development was reported regarding: \"A placid pitch, however, puts paid to its plans of running through Tripura’s line-up in its search for a maiden win as the visitors bat with assurance in their second essay\"?",
+   "options": [
+    "Terrific Threesome — redefining the slam-bang manual",
+    "Carabao Cup: Liverpool beats Chelsea on penalties, Man City survives Brighton scare",
+    "Ranji Trophy: Shorey’s century takes Vidarbha to a position of strength",
+    "Karnataka takes a massive lead thanks to Aneeshwar’s patient century"
+   ],
+   "answer": 3,
+   "explanation": "Karnataka takes a massive lead thanks to Aneeshwar’s patient century — A placid pitch, however, puts paid to its plans of running through Tripura’s line-up in its search for a maiden win as the visitors bat with assurance in their second essay (The Hindu — Sports, Wed, 28 Oct 2026 18:40:40 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "sports-daily-2026-10-29-76",
+   "question": "Which current affairs development was reported regarding: \"The 20-year-old grinds out an unbeaten 56 to take Tamil Nadu to victory against Railways\"?",
+   "options": [
+    "Terrific Threesome — redefining the slam-bang manual",
+    "I wanted to stay till the end, says Andre",
+    "Mirabai to compete in 53kg in Worlds",
+    "Murugappa Gold Cup: Last-gasp goal keeps IOCL in semifinal race"
+   ],
+   "answer": 1,
+   "explanation": "I wanted to stay till the end, says Andre — The 20-year-old grinds out an unbeaten 56 to take Tamil Nadu to victory against Railways (The Hindu — Sports, Wed, 28 Oct 2026 18:22:32 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "sports-daily-2026-10-29-77",
+   "question": "Which current affairs development was reported regarding: \"Chinese Foreign Ministry spokesperson Guo Jiakun said: \"We take seriously the apology ‌that the person has made\"\"?",
+   "options": [
+    "WPL auction: Molineux, Kiran top earners; Kashvi scripts history",
+    "Ranji Trophy: Centurion Shahbaz and Shami put Bengal in command",
+    "WPL auction: Sneh among biggest names in the fray",
+    "Real Madrid apologise to Chinese people over Mbappe's Mao 'dictator' comment"
+   ],
+   "answer": 3,
+   "explanation": "Real Madrid apologise to Chinese people over Mbappe's Mao 'dictator' comment — Chinese Foreign Ministry spokesperson Guo Jiakun said: \"We take seriously the apology ‌that the person has made\" (The Hindu — Sports, Wed, 28 Oct 2026 17:19:50 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "sports-daily-2026-10-29-78",
+   "question": "Which current affairs development was reported regarding: \"Abhishek hammered his fourth T20I century on October 27, smashing 113 off just 38 balls in the third T20I to power India to a six-wicket win\"?",
+   "options": [
+    "Usman Khawaja gives us another reason to admire him",
+    "Abhishek Sharma topples Ishan Kishan to become world No. 1 batter in T20I rankings",
+    "Real Madrid apologise to Chinese people over Mbappe's Mao 'dictator' comment",
+    "Ranji Trophy: Shorey, Samarth, Malewar fifties put Vidarbha in pole position"
+   ],
+   "answer": 1,
+   "explanation": "Abhishek Sharma topples Ishan Kishan to become world No. 1 batter in T20I rankings — Abhishek hammered his fourth T20I century on October 27, smashing 113 off just 38 balls in the third T20I to power India to a six-wicket win (The Hindu — Sports, Wed, 28 Oct 2026 16:34:00 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "sports-daily-2026-10-29-79",
+   "question": "Which current affairs development was reported regarding: \"The victory was a remarkable result for Fleetwood, ​who sit in the bottom half of League Two and had won only one of their ⁠previous eight league matches\"?",
+   "options": [
+    "Mix of former players and administrators ideal for smooth conduct of the game: Nadeem",
+    "Carabao Cup: Arsenal knocked out by fourth-tier Fleetwood in shootout",
+    "Chennai teen takes chess to underprivileged children",
+    "I wanted to stay till the end, says Andre"
+   ],
+   "answer": 1,
+   "explanation": "Carabao Cup: Arsenal knocked out by fourth-tier Fleetwood in shootout — The victory was a remarkable result for Fleetwood, ​who sit in the bottom half of League Two and had won only one of their ⁠previous eight league matches (The Hindu — Sports, Wed, 28 Oct 2026 13:41:57 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "sports-daily-2026-10-29-80",
+   "question": "Which current affairs development was reported regarding: \"The 42-year-old Yadav, who won three gold medals in the 2018 Jakarta Games, had missed the recent Para Games in Aichi-Nagoya due to a doping suspension\"?",
+   "options": [
+    "Batting with Badoni makes my job easier: Mathur",
+    "Jharkhand and Delhi eye a spruce-up after middling start to the season",
+    "Karnataka takes a massive lead thanks to Aneeshwar’s patient century",
+    "Asian Para Games gold medallist Neeraj Yadav found dead"
+   ],
+   "answer": 3,
+   "explanation": "Asian Para Games gold medallist Neeraj Yadav found dead — The 42-year-old Yadav, who won three gold medals in the 2018 Jakarta Games, had missed the recent Para Games in Aichi-Nagoya due to a doping suspension (The Hindu — Sports, Wed, 28 Oct 2026 13:26:15 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "sports-daily-2026-10-29-81",
+   "question": "Which current affairs development was reported regarding: \"Wawrinka announced ‌last year that he would retire at the end of ‌the 2026 season, 24 years after ‌he ⁠turned professional\"?",
+   "options": [
+    "Carabao Cup: Liverpool beats Chelsea on penalties, Man City survives Brighton scare",
+    "Ranji Trophy: Badoni, Mathur mastermind a perfect day for Delhi",
+    "World under-19 champ Aditya targets LA Olympics",
+    "Wawrinka brings career to a close with defeat in Basel"
+   ],
+   "answer": 3,
+   "explanation": "Wawrinka brings career to a close with defeat in Basel — Wawrinka announced ‌last year that he would retire at the end of ‌the 2026 season, 24 years after ‌he ⁠turned professional (The Hindu — Sports, Wed, 28 Oct 2026 12:56:29 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "sports-daily-2026-10-29-82",
+   "question": "Which current affairs development was reported regarding: \"Aleksander Vucic conceded defeat to a student-led opposition movement on October 25; Novak Djokovic says, the youth movement managed to create a sense of pride in all the people, not just in Serbia but abroad as well\"?",
+   "options": [
+    "IND vs NZ third T20I: Incredible Abhishek mauls New Zealand as India clinch series with six-wicket win",
+    "I wanted to stay till the end, says Andre",
+    "Tennis great Novak Djokovic praises Serbia's student movement after stunning election win",
+    "After his 38-ball 113, Abhishek Sharma plays down Yuvraj’s 12-ball fifty challenge"
+   ],
+   "answer": 2,
+   "explanation": "Tennis great Novak Djokovic praises Serbia's student movement after stunning election win — Aleksander Vucic conceded defeat to a student-led opposition movement on October 25; Novak Djokovic says, the youth movement managed to create a sense of pride in all the people, not just in Serbia but abroad as well (The Hindu — Sports, Wed, 28 Oct 2026 12:46:17 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "sports-daily-2026-10-29-83",
+   "question": "Which current affairs development was reported regarding: \"The defender, whose full name is Romano Benito Floriani Mussolini, is related to Benito Mussolini through the maternal side of his family\"?",
+   "options": [
+    "Wawrinka brings career to a close with defeat in Basel",
+    "Ranji Trophy: Andre guides Tamil Nadu home in a tense chase",
+    "Mussolini’s great-grandson scores his first goal for Lazio",
+    "Bright Button and Snow Girl impress"
+   ],
+   "answer": 2,
+   "explanation": "Mussolini’s great-grandson scores his first goal for Lazio — The defender, whose full name is Romano Benito Floriani Mussolini, is related to Benito Mussolini through the maternal side of his family (The Hindu — Sports, Wed, 28 Oct 2026 12:19:56 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
   }
  ]
 };

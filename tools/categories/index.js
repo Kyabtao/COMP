@@ -31,7 +31,7 @@ var manifest = [
    "railways"
   ],
   "blurb": "Countries, capitals, currencies, days, organisations and world firsts.",
-  "count": 1146
+  "count": 1163
  },
  {
   "slug": "current-affairs",
@@ -46,7 +46,7 @@ var manifest = [
    "railways"
   ],
   "blurb": "Recent schemes, missions, summits, awards and appointments.",
-  "count": 1240
+  "count": 1295
  },
  {
   "slug": "static-gk",
@@ -117,7 +117,7 @@ var manifest = [
    "railways"
   ],
   "blurb": "Physics, chemistry and biology facts combined.",
-  "count": 1068
+  "count": 1071
  },
  {
   "slug": "english",
@@ -213,7 +213,7 @@ var manifest = [
    "ssc-cgl"
   ],
   "blurb": "Banking, budget, taxes, trade and national income.",
-  "count": 353
+  "count": 360
  },
  {
   "slug": "general-english-grammar",
@@ -293,7 +293,7 @@ var manifest = [
    "railways"
   ],
   "blurb": "Trophies, terms, players and tournaments.",
-  "count": 354
+  "count": 372
  },
  {
   "slug": "awards-honours",

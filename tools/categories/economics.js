@@ -11,7 +11,7 @@
   "ssc-cgl"
  ],
  "blurb": "Banking, budget, taxes, trade and national income.",
- "count": 353,
+ "count": 360,
  "questions": [
   {
    "id": "economics-00001",
@@ -5380,6 +5380,118 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "economics-daily-2026-10-29-59",
+   "question": "Which current affairs development was reported regarding: \"Given the fact that privatisation of several PSEs is a long journey, calibrated disinvestment could serve as an interim measure\"?",
+   "options": [
+    "Data suggests broad-based increase in food prices: RBI Bulletin",
+    "Disinvestment as key economic strategy",
+    "Indian Bank net profit rises 14.7% to ₹3,462 crore in Q2",
+    "India’s exports jump 23% in September; trade deficit narrows to $30.21 billion"
+   ],
+   "answer": 1,
+   "explanation": "Disinvestment as key economic strategy — Given the fact that privatisation of several PSEs is a long journey, calibrated disinvestment could serve as an interim measure (The Hindu — Economy & Banking, Thu, 29 Oct 2026 01:14:06 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "economics-daily-2026-10-29-60",
+   "question": "Which current affairs development was reported regarding: \"The 12-member FOMC voted 10-2 to hold rates at a target range between 3.75 and 4.00%, citing the need for more data in the fight against inflation\"?",
+   "options": [
+    "U.S. Fed holds interest rates steady despite surging inflation",
+    "2026 Economics Nobel Prize: Putting the humanity in macroeconomics",
+    "What are the deal contours of India-New Zealand FTA?",
+    "Crude oil sourcing presently volatile; procuring more on landed basis: HPCL Chief"
+   ],
+   "answer": 0,
+   "explanation": "U.S. Fed holds interest rates steady despite surging inflation — The 12-member FOMC voted 10-2 to hold rates at a target range between 3.75 and 4.00%, citing the need for more data in the fight against inflation (The Hindu — Economy & Banking, Thu, 29 Oct 2026 00:08:40 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "economics-daily-2026-10-29-61",
+   "question": "Which current affairs development was reported regarding: \"The rise in youth unrest stems from failures of neoliberal capitalism, which has weakened public welfare and worsened unemployment; as falling wages undermine consumption and investment, young people face fewer jobs,...\"?",
+   "options": [
+    "India’s agrivoltaic capacity is expected to be more than 5-gigawatts in next 3-4 years: MNRE Secretary",
+    "Oil hits near six-month high as Houthi attacks rattle Saudi Arabia",
+    "India-New Zealand FTA comes into force; new visa categories for Indians, zero-duty access for exports",
+    "How neoliberalism turned the world against its young"
+   ],
+   "answer": 3,
+   "explanation": "How neoliberalism turned the world against its young — The rise in youth unrest stems from failures of neoliberal capitalism, which has weakened public welfare and worsened unemployment; as falling wages undermine consumption and investment, young people face fewer jobs,... (The Hindu — Economy & Banking, Wed, 28 Oct 2026 23:26:13 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "economics-daily-2026-10-29-62",
+   "question": "Which current affairs development was reported regarding: \"Vedanta is targeting $11 billion in profits this year, Chairman Anil Agarwal said.\"?",
+   "options": [
+    "What are the deal contours of India-New Zealand FTA?",
+    "2026 Economics Nobel Prize: Putting the humanity in macroeconomics",
+    "Vedanta Group eyeing $20 billion profits over next two years: Chairman Anil Agarwal",
+    "Coal India H1 capital expenditure surges 27% to ₹7,966-cr, exceeds target"
+   ],
+   "answer": 2,
+   "explanation": "Vedanta Group eyeing $20 billion profits over next two years: Chairman Anil Agarwal — Vedanta is targeting $11 billion in profits this year, Chairman Anil Agarwal said. (The Hindu — Economy & Banking, Wed, 28 Oct 2026 22:06:18 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "economics-daily-2026-10-29-63",
+   "question": "Which current affairs development was reported regarding: \"India risks a middle-income, low-productivity trap as weak job creation, stagnant wages and sluggish investment reinforce one another; escaping it requires better vocational education, wider diffusion of technology...\"?",
+   "options": [
+    "U.S. Fed holds interest rates steady despite surging inflation",
+    "The way out of the dangerous trap",
+    "SBI’s cyber defences: What the bank had in place",
+    "Disinvestment as key economic strategy"
+   ],
+   "answer": 1,
+   "explanation": "The way out of the dangerous trap — India risks a middle-income, low-productivity trap as weak job creation, stagnant wages and sluggish investment reinforce one another; escaping it requires better vocational education, wider diffusion of technology... (The Hindu — Economy & Banking, Wed, 28 Oct 2026 21:50:43 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "economics-daily-2026-10-29-64",
+   "question": "Which current affairs development was reported regarding: \"According to the National Accounts Statistics, the manufacturing sector’s GVA is ₹38.6 lakh crore in 2023-24 at current prices.; however, an ‘Alternative Estimate’ using data from the Annual Survey of Industries and...\"?",
+   "options": [
+    "The gap in manufacturing sector GVA",
+    "What are the deal contours of India-New Zealand FTA?",
+    "Your claim may be cashless, but not costless",
+    "India’s exports jump 23% in September; trade deficit narrows to $30.21 billion"
+   ],
+   "answer": 0,
+   "explanation": "The gap in manufacturing sector GVA — According to the National Accounts Statistics, the manufacturing sector’s GVA is ₹38.6 lakh crore in 2023-24 at current prices.; however, an ‘Alternative Estimate’ using data from the Annual Survey of Industries and... (The Hindu — Economy & Banking, Wed, 28 Oct 2026 21:40:40 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "economics-daily-2026-10-29-65",
+   "question": "Which current affairs development was reported regarding: \"Commerce Secretary Rajesh Agrawal visited Mexico for the signing. The two sides also discussed a possible business delegation from Mexico visiting India in the first quarter of 2027\"?",
+   "options": [
+    "Data suggests broad-based increase in food prices: RBI Bulletin",
+    "Your claim may be cashless, but not costless",
+    "On the question of KIIFB’s future",
+    "India and Mexico sign Terms of Reference for preferential trade agreement negotiations to begin"
+   ],
+   "answer": 3,
+   "explanation": "India and Mexico sign Terms of Reference for preferential trade agreement negotiations to begin — Commerce Secretary Rajesh Agrawal visited Mexico for the signing. The two sides also discussed a possible business delegation from Mexico visiting India in the first quarter of 2027 (The Hindu — Economy & Banking, Wed, 28 Oct 2026 20:00:00 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
   }
  ]
 };
