@@ -11,7 +11,7 @@
   "ssc-cgl"
  ],
  "blurb": "Banking, budget, taxes, trade and national income.",
- "count": 360,
+ "count": 363,
  "questions": [
   {
    "id": "economics-00001",
@@ -5492,6 +5492,54 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "economics-daily-2026-10-30-63",
+   "question": "Which current affairs development was reported regarding: \"With Deepavali falling in the first week of a month this year, people are likely to begin shopping after receiving their monthly salaries and festival bonuses; the last 5-6 days preceding the festival is likely to...\"?",
+   "options": [
+    "Bharat Petroleum’s net profit dips amid volatile crude prices in Q2",
+    "U.S. Fed holds rates steady; pressure on emerging markets expected with stronger dollar outlook",
+    "Deepavali sales expected to gain momentum in Coimbatore next week",
+    "Coal India profit jumps 57% as higher offtake, prices weigh over costs"
+   ],
+   "answer": 2,
+   "explanation": "Deepavali sales expected to gain momentum in Coimbatore next week — With Deepavali falling in the first week of a month this year, people are likely to begin shopping after receiving their monthly salaries and festival bonuses; the last 5-6 days preceding the festival is likely to... (The Hindu — Economy & Banking, Thu, 29 Oct 2026 21:21:33 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "economics-daily-2026-10-30-64",
+   "question": "Which current affairs development was reported regarding: \"Cost of input materials increased 20% during the quarter.\"?",
+   "options": [
+    "Government to modify labour survey to capture gig economy, unpaid household workers",
+    "Coal India profit jumps 57% as higher offtake, prices weigh over costs",
+    "What lies beyond India’s E20 push",
+    "What if a cheque bounces?"
+   ],
+   "answer": 1,
+   "explanation": "Coal India profit jumps 57% as higher offtake, prices weigh over costs — Cost of input materials increased 20% during the quarter. (The Hindu — Economy & Banking, Thu, 29 Oct 2026 21:00:50 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "economics-daily-2026-10-30-65",
+   "question": "Which current affairs development was reported regarding: \"The U.S. Fed is expected to keep the rates elevated, making U.S. Treasuries and the dollar relatively more attractive than emerging market economies for foreign investors\"?",
+   "options": [
+    "IndusInd Bank posts profit of ₹1,242 crores in Q2; asset quality improvement and interest income drives growth",
+    "Moves by the North of England to unlock India trade",
+    "The reality behind falling net FDI",
+    "U.S. Fed holds rates steady; pressure on emerging markets expected with stronger dollar outlook"
+   ],
+   "answer": 3,
+   "explanation": "U.S. Fed holds rates steady; pressure on emerging markets expected with stronger dollar outlook — The U.S. Fed is expected to keep the rates elevated, making U.S. Treasuries and the dollar relatively more attractive than emerging market economies for foreign investors (The Hindu — Economy & Banking, Thu, 29 Oct 2026 15:51:53 +0530).",
+   "topic": "The Hindu — Economy & Banking Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
   }
  ]
 };

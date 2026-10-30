@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-29T06:14:07.933Z",
-  "totalQuestions": 33757,
+  "generatedAt": "2026-10-30T06:10:57.040Z",
+  "totalQuestions": 33857,
   "categories": [
     {
       "slug": "abbreviations",
@@ -19,7 +19,7 @@
     },
     {
       "slug": "economics",
-      "count": 360,
+      "count": 363,
       "target": 600
     },
     {
@@ -39,7 +39,7 @@
     },
     {
       "slug": "sports",
-      "count": 372,
+      "count": 388,
       "target": 400
     },
     {
@@ -79,7 +79,7 @@
     },
     {
       "slug": "general-knowledge",
-      "count": 1163,
+      "count": 1182,
       "target": 1000
     },
     {
@@ -89,7 +89,7 @@
     },
     {
       "slug": "general-science",
-      "count": 1071,
+      "count": 1076,
       "target": 1000
     },
     {
@@ -109,7 +109,7 @@
     },
     {
       "slug": "current-affairs",
-      "count": 1295,
+      "count": 1352,
       "target": 1000
     },
     {
@@ -204,9 +204,9 @@
     }
   ],
   "daily": {
-    "days": 11,
-    "questions": 830,
-    "latest": "2026-10-29",
+    "days": 12,
+    "questions": 930,
+    "latest": "2026-10-30",
     "minted": []
   },
   "classes": 13,

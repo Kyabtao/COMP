@@ -12,7 +12,7 @@
   "railways"
  ],
  "blurb": "Physics, chemistry and biology facts combined.",
- "count": 1071,
+ "count": 1076,
  "questions": [
   {
    "id": "general-science-00001",
@@ -16149,6 +16149,86 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "general-science-daily-2026-10-30-58",
+   "question": "Which current affairs development was reported regarding: \"The draft Rules specify which animals can be used in research, what experiments are permitted and what safeguards are needed to minimise their suffering. The public can submit comments on the draft until November 5\"?",
+   "options": [
+    "Animal experiments, what the new draft rules allow and what they mean for research | Explained",
+    "Seven caveats in the claim about turning mercury into gold with nuclear fusion",
+    "First Nation community in Canada uses data centre to preserve its heritage",
+    "Government asks Meta to ensure its recommendation systems do not expose users to limited set of narratives"
+   ],
+   "answer": 0,
+   "explanation": "Animal experiments, what the new draft rules allow and what they mean for research | Explained — The draft Rules specify which animals can be used in research, what experiments are permitted and what safeguards are needed to minimise their suffering. The public can submit comments on the draft until November 5 (The Hindu — Science & Technology, Thu, 29 Oct 2026 18:58:48 +0530).",
+   "topic": "The Hindu — Science & Technology Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "general-science-daily-2026-10-30-59",
+   "question": "Which current affairs development was reported regarding: \"Insect pests cause roughly 20% of global annual crop losses, a figure projected to rise with warming, and crop protection still leans heavily on chemical insecticides. Learning how plants sense attack could point to...\"?",
+   "options": [
+    "Two-Face molecule could help make IBD treatments more effective",
+    "Feral dogs ‘a major threat’ to vultures in Thar desert, study finds",
+    "Indian scientists find new gateway in plants’ alarm system",
+    "Animal experiments, what the new draft rules allow and what they mean for research | Explained"
+   ],
+   "answer": 2,
+   "explanation": "Indian scientists find new gateway in plants’ alarm system — Insect pests cause roughly 20% of global annual crop losses, a figure projected to rise with warming, and crop protection still leans heavily on chemical insecticides. Learning how plants sense attack could point to... (The Hindu — Science & Technology, Thu, 29 Oct 2026 15:37:33 +0530).",
+   "topic": "The Hindu — Science & Technology Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "general-science-daily-2026-10-30-60",
+   "question": "Which current affairs development was reported regarding: \"For instance, even though birds and mammals comprise less than 1 per cent of animal biodiversity, they dominate both conservation and research efforts, find two studies.\"?",
+   "options": [
+    "Remembering Rosalind Franklin, whose photograph was crucial to discovering DNA’s structure",
+    "Japan to launch spacecraft on a mission to get samples from a Martian moon",
+    "Jonathan, the giant tortoise, is 198 years old. Here is his secret",
+    "Taxonomic ‘chauvinism’ rife in ecological literature"
+   ],
+   "answer": 3,
+   "explanation": "Taxonomic ‘chauvinism’ rife in ecological literature — For instance, even though birds and mammals comprise less than 1 per cent of animal biodiversity, they dominate both conservation and research efforts, find two studies. (The Hindu — Science & Technology, Thu, 29 Oct 2026 13:20:09 +0530).",
+   "topic": "The Hindu — Science & Technology Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "general-science-daily-2026-10-30-61",
+   "question": "Which current affairs development was reported regarding: \"A newly developed AI model aids art attribution, which traditionally takes a trained human eye and several tools, reports a new research paper.\"?",
+   "options": [
+    "Inadequate sleep increases the risk of fatty liver disease",
+    "Gaganyaan: ISRO completes key test ahead of first uncrewed mission",
+    "To make India a richer nation, ensure more green and blue spaces",
+    "AI can help experts tell a real Rembrandt from a fake"
+   ],
+   "answer": 3,
+   "explanation": "AI can help experts tell a real Rembrandt from a fake — A newly developed AI model aids art attribution, which traditionally takes a trained human eye and several tools, reports a new research paper. (The Hindu — Science & Technology, Thu, 29 Oct 2026 12:00:50 +0530).",
+   "topic": "The Hindu — Science & Technology Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "general-science-daily-2026-10-30-62",
+   "question": "Which current affairs development was reported regarding: \"More green and blue spaces means more biodiversity and civic sense through parks, sports fields, higher physical activities, and camaraderie among locals\"?",
+   "options": [
+    "Tamil Nadu may encounter El Niño differently from rest of India",
+    "To make India a richer nation, ensure more green and blue spaces",
+    "India’s first solar mission Aditya-L1 generates Doppler velocity images of the solar corona",
+    "What are ‘heat storms’?"
+   ],
+   "answer": 1,
+   "explanation": "To make India a richer nation, ensure more green and blue spaces — More green and blue spaces means more biodiversity and civic sense through parks, sports fields, higher physical activities, and camaraderie among locals (The Hindu — Science & Technology, Tue, 27 Oct 2026 16:04:08 +0530).",
+   "topic": "The Hindu — Science & Technology Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
   }
  ]
 };

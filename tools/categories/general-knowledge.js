@@ -12,7 +12,7 @@
   "railways"
  ],
  "blurb": "Countries, capitals, currencies, days, organisations and world firsts.",
- "count": 1163,
+ "count": 1182,
  "questions": [
   {
    "id": "general-knowledge-00001",
@@ -17621,6 +17621,310 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-30-82",
+   "question": "Which part of the body does glaucoma affect?",
+   "options": [
+    "Throat",
+    "Stomach",
+    "Blood",
+    "Eyes"
+   ],
+   "answer": 3,
+   "explanation": "Eyes is the correct answer for: Which part of the body does glaucoma affect? (Science & Nature).",
+   "topic": "Science & Nature",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-30-83",
+   "question": "Which of these voices wasn't a choice for the House AI in \"The Simpsons Treehouse of Horror\" short, House of Whacks?",
+   "options": [
+    "George Clooney",
+    "Pierce Brosnan",
+    "Matthew Perry",
+    "Dennis Miller"
+   ],
+   "answer": 0,
+   "explanation": "George Clooney is the correct answer for: Which of these voices wasn't a choice for the House AI in \"The Simpsons Treehouse of Horror\" short, House of Whacks? (Entertainment: Television).",
+   "topic": "Entertainment: Television",
+   "level": 3,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-30-84",
+   "question": "What technology is named after a tenth-century ruler of Denmark and Norway?",
+   "options": [
+    "Bluetooth",
+    "Internet",
+    "Wi-Fi",
+    "GPS"
+   ],
+   "answer": 0,
+   "explanation": "Bluetooth is the correct answer for: What technology is named after a tenth-century ruler of Denmark and Norway? (General Knowledge).",
+   "topic": "General Knowledge",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-30-85",
+   "question": "Which Pokemon generation did the fan-named \"Masuda Method\" first appear in?",
+   "options": [
+    "Black/White",
+    "X/Y",
+    "Ruby/Sapphire",
+    "Diamond/Pearl"
+   ],
+   "answer": 3,
+   "explanation": "Diamond/Pearl is the correct answer for: Which Pokemon generation did the fan-named \"Masuda Method\" first appear in? (Entertainment: Video Games).",
+   "topic": "Entertainment: Video Games",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-30-86",
+   "question": "Which of the following characters is not in the board game Clue?",
+   "options": [
+    "Mister Indigo",
+    "Miss Scarlet",
+    "Reverend Green",
+    "Colonel Mustard"
+   ],
+   "answer": 0,
+   "explanation": "Mister Indigo is the correct answer for: Which of the following characters is not in the board game Clue? (Entertainment: Board Games).",
+   "topic": "Entertainment: Board Games",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-30-87",
+   "question": "\"The A Team\" first aired in the USA and in the UK in what year?",
+   "options": [
+    "1985",
+    "1987",
+    "1981",
+    "1983"
+   ],
+   "answer": 3,
+   "explanation": "1983 is the correct answer for: \"The A Team\" first aired in the USA and in the UK in what year? (Entertainment: Television).",
+   "topic": "Entertainment: Television",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-30-88",
+   "question": "When did the Crisis of the Third Century begin?",
+   "options": [
+    "235 AD",
+    "235 BC",
+    "242 AD",
+    "210 AD"
+   ],
+   "answer": 0,
+   "explanation": "235 AD is the correct answer for: When did the Crisis of the Third Century begin? (History).",
+   "topic": "History",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-30-89",
+   "question": "Which of the following awards do Matt Stone and Trey Parker NOT have?",
+   "options": [
+    "Emmy",
+    "Tony",
+    "Oscar",
+    "Grammy"
+   ],
+   "answer": 2,
+   "explanation": "Oscar is the correct answer for: Which of the following awards do Matt Stone and Trey Parker NOT have? (Entertainment: Television).",
+   "topic": "Entertainment: Television",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-30-90",
+   "question": "Who was the voice actor for Snake in Metal Gear Solid V: The Phantom Pain?",
+   "options": [
+    "Hideo Kojima",
+    "David Hayter",
+    "Kiefer Sutherland",
+    "Norman Reedus"
+   ],
+   "answer": 2,
+   "explanation": "Kiefer Sutherland is the correct answer for: Who was the voice actor for Snake in Metal Gear Solid V: The Phantom Pain? (Entertainment: Video Games).",
+   "topic": "Entertainment: Video Games",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-30-91",
+   "question": "Which of these African regions does *not* directly border the Democratic Republic of The Congo?",
+   "options": [
+    "Tanzania",
+    "Central African Republic",
+    "Zambia",
+    "Sudan"
+   ],
+   "answer": 3,
+   "explanation": "Sudan is the correct answer for: Which of these African regions does *not* directly border the Democratic Republic of The Congo? (Geography).",
+   "topic": "Geography",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-30-92",
+   "question": "Who is the victim mentioned in the second KG-8 incident, in Ace attorney Investigations, Case 4?",
+   "options": [
+    "Deid Mann",
+    "Raymond Shields",
+    "Frank Sahwit",
+    "Shey De Killer"
+   ],
+   "answer": 0,
+   "explanation": "Deid Mann is the correct answer for: Who is the victim mentioned in the second KG-8 incident, in Ace attorney Investigations, Case 4? (Entertainment: Video Games).",
+   "topic": "Entertainment: Video Games",
+   "level": 3,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-30-93",
+   "question": "Which actors made up the trio in \"The Good, the Bad, and the Ugly\"?",
+   "options": [
+    "Yul Brynner, Steve McQueen, and Charles Bronson",
+    "Clint Eastwood, Eli Wallach, and Lee Van Cleef",
+    "Aldo Giuffr&egrave;, Mario Brega, and Luigi Pistilli",
+    "Sergio Leone, Ennio Morricone, and Tonino Delli Colli"
+   ],
+   "answer": 1,
+   "explanation": "Clint Eastwood, Eli Wallach, and Lee Van Cleef is the correct answer for: Which actors made up the trio in \"The Good, the Bad, and the Ugly\"? (Entertainment: Film).",
+   "topic": "Entertainment: Film",
+   "level": 3,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-30-94",
+   "question": "Who had a 1976 hit with the song 'You Make Me Feel Like Dancing'?",
+   "options": [
+    "Leo Sayer",
+    "Elton John",
+    "Andy Gibb",
+    "Billy Joel"
+   ],
+   "answer": 0,
+   "explanation": "Leo Sayer is the correct answer for: Who had a 1976 hit with the song 'You Make Me Feel Like Dancing'? (Entertainment: Music).",
+   "topic": "Entertainment: Music",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-30-95",
+   "question": "On a standard Monopoly board, how much do you have to pay for Tennessee Ave?",
+   "options": [
+    "$160",
+    "$220",
+    "$180",
+    "$200"
+   ],
+   "answer": 2,
+   "explanation": "$180 is the correct answer for: On a standard Monopoly board, how much do you have to pay for Tennessee Ave? (Entertainment: Board Games).",
+   "topic": "Entertainment: Board Games",
+   "level": 3,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-30-96",
+   "question": "What is the capital of the US State of New York?",
+   "options": [
+    "New York",
+    "Buffalo",
+    "Albany",
+    "Rochester"
+   ],
+   "answer": 2,
+   "explanation": "Albany is the correct answer for: What is the capital of the US State of New York? (Geography).",
+   "topic": "Geography",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-30-97",
+   "question": "Who developed the 2016 farming RPG \"Stardew Valley\"?",
+   "options": [
+    "Eric Barone",
+    "Daisuke Amaya",
+    "Lucas Pope",
+    "Jasper Byrne"
+   ],
+   "answer": 0,
+   "explanation": "Eric Barone is the correct answer for: Who developed the 2016 farming RPG \"Stardew Valley\"? (Entertainment: Video Games).",
+   "topic": "Entertainment: Video Games",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-30-98",
+   "question": "Which country did the Eureka Rebellion, an 1856 battle against colonial rule, take place in?",
+   "options": [
+    "India",
+    "Australia",
+    "Brazil",
+    "Canada"
+   ],
+   "answer": 1,
+   "explanation": "Australia is the correct answer for: Which country did the Eureka Rebellion, an 1856 battle against colonial rule, take place in? (History).",
+   "topic": "History",
+   "level": 3,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-30-99",
+   "question": "Who's the voice actor for Thrall in the Warcraft game series?",
+   "options": [
+    "Jason Derulo",
+    "Ben Affleck",
+    "Jim Carrey",
+    "Chris Metzen"
+   ],
+   "answer": 3,
+   "explanation": "Chris Metzen is the correct answer for: Who's the voice actor for Thrall in the Warcraft game series? (Entertainment: Video Games).",
+   "topic": "Entertainment: Video Games",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-30-100",
+   "question": "What does the term MIME stand for, in regards to computing?",
+   "options": [
+    "Multipurpose Internet Mail Extensions",
+    "Mail Internet Mail Exchange",
+    "Multipurpose Interleave Mail Exchange",
+    "Mail Interleave Method Exchange"
+   ],
+   "answer": 0,
+   "explanation": "Multipurpose Internet Mail Extensions is the correct answer for: What does the term MIME stand for, in regards to computing? (Science: Computers).",
+   "topic": "Science: Computers",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
   }
  ]
 };

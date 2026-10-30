@@ -12,7 +12,7 @@
   "railways"
  ],
  "blurb": "Trophies, terms, players and tournaments.",
- "count": 372,
+ "count": 388,
  "questions": [
   {
    "id": "sports-00001",
@@ -5705,6 +5705,262 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "sports-daily-2026-10-30-66",
+   "question": "Which current affairs development was reported regarding: \"The five-time IPL champion also brought in Mitchell McClenaghan as bowling coach, T.K. Dilip as fielding coach and Dhawal Kulkarni as development bowling coach\"?",
+   "options": [
+    "Ranji Trophy: Bengal completes a resounding win as Kerala capitulates",
+    "Get Set Go, Iconic and Jade Mountain please",
+    "Ranji Trophy: Punjab emerges with better returns from drawn encounter",
+    "Mumbai Indians appoint Robin Uthappa as batting coach"
+   ],
+   "answer": 3,
+   "explanation": "Mumbai Indians appoint Robin Uthappa as batting coach — The five-time IPL champion also brought in Mitchell McClenaghan as bowling coach, T.K. Dilip as fielding coach and Dhawal Kulkarni as development bowling coach (The Hindu — Sports, Fri, 30 Oct 2026 11:00:27 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "sports-daily-2026-10-30-67",
+   "question": "Which current affairs development was reported regarding: \"Rashid achieved the feat in ​his 120th ‌T20 international, with the 28-year-old boasting an average of 13.96 and an ‌economy rate of 6.13 ​in the format\"?",
+   "options": [
+    "Kotian caps a career-best haul to set up Mumbai’s win",
+    "Ranji Trophy: Pramanik puts Bengal in command as host Kerala stares down the barrel",
+    "Afghanistan’s Rashid Khan becomes first men’s player to claim 200 T20I wickets",
+    "Andhra’s bold move fails as Chhattisgarh triumphs"
+   ],
+   "answer": 2,
+   "explanation": "Afghanistan’s Rashid Khan becomes first men’s player to claim 200 T20I wickets — Rashid achieved the feat in ​his 120th ‌T20 international, with the 28-year-old boasting an average of 13.96 and an ‌economy rate of 6.13 ​in the format (The Hindu — Sports, Fri, 30 Oct 2026 11:00:23 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "sports-daily-2026-10-30-68",
+   "question": "Which current affairs development was reported regarding: \"Opposing Sourav Ganguly’s plea, the makers of ‘Doosra’ maintained that the cricketer was merely a source of inspiration for the film\"?",
+   "options": [
+    "Delhi HC asks Sourav Ganguly to specify infringing content in film ‘Doosra’",
+    "Former Dortmund star Schmelzer cherishes the battles with Bayern Munich",
+    "WPL auction: Sneh among biggest names in the fray",
+    "MCC-Murugappa Gold Cup: Indian Navy and Army seal semifinal spots"
+   ],
+   "answer": 0,
+   "explanation": "Delhi HC asks Sourav Ganguly to specify infringing content in film ‘Doosra’ — Opposing Sourav Ganguly’s plea, the makers of ‘Doosra’ maintained that the cricketer was merely a source of inspiration for the film (The Hindu — Sports, Fri, 30 Oct 2026 10:44:44 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "sports-daily-2026-10-30-69",
+   "question": "Which current affairs development was reported regarding: \"Prasidh remains in contention for the Tests as the Board said he will be added to the India A squad for the third and final game against New Zealand A beginning November 7 if he clears the fitness assessment\"?",
+   "options": [
+    "Asian Champions Trophy: India slams 13 past hapless Bangladesh",
+    "Manisha Bhanwala becomes third Indian woman to reach World Wrestling Championships Final",
+    "Prasidh Krishna ruled out of New Zealand ODI series; Siraj added to India A squad for 2nd game",
+    "MCC-Murugappa Gold Cup: Indian Navy and Army seal semifinal spots"
+   ],
+   "answer": 2,
+   "explanation": "Prasidh Krishna ruled out of New Zealand ODI series; Siraj added to India A squad for 2nd game — Prasidh remains in contention for the Tests as the Board said he will be added to the India A squad for the third and final game against New Zealand A beginning November 7 if he clears the fitness assessment (The Hindu — Sports, Fri, 30 Oct 2026 10:16:13 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "sports-daily-2026-10-30-70",
+   "question": "Which current affairs development was reported regarding: \"Manisha shocked World championships bronze medallist Laurence Beauregard by pinning the Canadian in the second period\"?",
+   "options": [
+    "Mumbai Indians appoint Robin Uthappa as batting coach",
+    "Home sweet Keralam: Leader Adrian Luna on his uncertain loan spell and the return of Blasters’ beloved Manjappada",
+    "Manisha Bhanwala becomes third Indian woman to reach World Wrestling Championships Final",
+    "MCC-Murugappa Gold Cup: Indian Navy and Army seal semifinal spots"
+   ],
+   "answer": 2,
+   "explanation": "Manisha Bhanwala becomes third Indian woman to reach World Wrestling Championships Final — Manisha shocked World championships bronze medallist Laurence Beauregard by pinning the Canadian in the second period (The Hindu — Sports, Fri, 30 Oct 2026 06:19:08 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "sports-daily-2026-10-30-71",
+   "question": "Which current affairs development was reported regarding: \"Kotian claimed eight for 84 to finish with a match haul of 11 wickets as Haryana was bowled out for 256 at the stroke of tea\"?",
+   "options": [
+    "Kotian caps a career-best haul to set up Mumbai’s win",
+    "Carabao Cup: Arsenal knocked out by fourth-tier Fleetwood in shootout",
+    "Klinger happy with Giants’ purchases at WPL mini auction",
+    "Bright Button and Snow Girl impress"
+   ],
+   "answer": 0,
+   "explanation": "Kotian caps a career-best haul to set up Mumbai’s win — Kotian claimed eight for 84 to finish with a match haul of 11 wickets as Haryana was bowled out for 256 at the stroke of tea (The Hindu — Sports, Fri, 30 Oct 2026 02:43:15 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "sports-daily-2026-10-30-72",
+   "question": "Which current affairs development was reported regarding: \"Kotian served national selectors yet another reminder to be considered for the Border-Gavaskar Trophy squad early next year\"?",
+   "options": [
+    "Kotian makes a case for Test call-up",
+    "Andhra’s bold move fails as Chhattisgarh triumphs",
+    "Vaishnavi — India’s new orchestrator",
+    "Mirabai to compete in 53kg in Worlds"
+   ],
+   "answer": 0,
+   "explanation": "Kotian makes a case for Test call-up — Kotian served national selectors yet another reminder to be considered for the Border-Gavaskar Trophy squad early next year (The Hindu — Sports, Fri, 30 Oct 2026 02:25:55 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "sports-daily-2026-10-30-73",
+   "question": "Which current affairs development was reported regarding: \"The left-arm spinner may not have burst onto the scene but is making a case for herself with stellar performances for the National team. Those who have followed her from close quarters believe that the 20-year-old is...\"?",
+   "options": [
+    "I wanted to stay till the end, says Andre",
+    "Get Set Go, Iconic and Jade Mountain please",
+    "Vaishnavi — India’s new orchestrator",
+    "Ranji Trophy: Pramanik puts Bengal in command as host Kerala stares down the barrel"
+   ],
+   "answer": 2,
+   "explanation": "Vaishnavi — India’s new orchestrator — The left-arm spinner may not have burst onto the scene but is making a case for herself with stellar performances for the National team. Those who have followed her from close quarters believe that the 20-year-old is... (The Hindu — Sports, Fri, 30 Oct 2026 00:03:51 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "sports-daily-2026-10-30-74",
+   "question": "Which current affairs development was reported regarding: \"Sukhjeet and skipper Harmanpreet score a brace each for the home team\"?",
+   "options": [
+    "Snapping ties abruptly with a match made in heaven",
+    "ACT: India registers hard-fought victory over a spirited China",
+    "Terrific Threesome — redefining the slam-bang manual",
+    "Ranji Trophy: Vihaan’s four-wicket haul helps Punjab secure the lead against Hyderabad"
+   ],
+   "answer": 1,
+   "explanation": "ACT: India registers hard-fought victory over a spirited China — Sukhjeet and skipper Harmanpreet score a brace each for the home team (The Hindu — Sports, Thu, 29 Oct 2026 23:48:24 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "sports-daily-2026-10-30-75",
+   "question": "Which current affairs development was reported regarding: \"Top seed Manav Thakkar (WR 49), G. Sathiyan (85) and Harmeet Desai (101) will be his main challengers.\"?",
+   "options": [
+    "Manisha Bhanwala becomes third Indian woman to reach World Wrestling Championships Final",
+    "Wawrinka brings career to a close with defeat in Basel",
+    "WTT Feeder Chennai: Ankur star attraction as Indians hope to excel",
+    "Delhi HC asks Sourav Ganguly to specify infringing content in film ‘Doosra’"
+   ],
+   "answer": 2,
+   "explanation": "WTT Feeder Chennai: Ankur star attraction as Indians hope to excel — Top seed Manav Thakkar (WR 49), G. Sathiyan (85) and Harmeet Desai (101) will be his main challengers. (The Hindu — Sports, Thu, 29 Oct 2026 23:47:47 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "sports-daily-2026-10-30-76",
+   "question": "Which current affairs development was reported regarding: \"The off-spinner comes up with his career-best career-best figures in Mumbai’s emphatic 10-wicket win over Haryana\"?",
+   "options": [
+    "Kotian serves another reminder to the national selectors",
+    "Asian Champions Trophy: India slams 13 past hapless Bangladesh",
+    "WTT Feeder Chennai: Ankur star attraction as Indians hope to excel",
+    "Pretty satisfied to contribute to the win: Shahbaz"
+   ],
+   "answer": 0,
+   "explanation": "Kotian serves another reminder to the national selectors — The off-spinner comes up with his career-best career-best figures in Mumbai’s emphatic 10-wicket win over Haryana (The Hindu — Sports, Thu, 29 Oct 2026 20:15:10 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "sports-daily-2026-10-30-77",
+   "question": "Which current affairs development was reported regarding: \"The Delhi captain notches up a second double hundred on the trot in the drawn encounter against Jharkhand; he says the dream is to play for India\"?",
+   "options": [
+    "Rigorous training routine works wonders for Badoni",
+    "WPL auction: Molineux, Kiran top earners; Kashvi scripts history",
+    "Terrific Threesome — redefining the slam-bang manual",
+    "Abhishek Sharma topples Ishan Kishan to become world No. 1 batter in T20I rankings"
+   ],
+   "answer": 0,
+   "explanation": "Rigorous training routine works wonders for Badoni — The Delhi captain notches up a second double hundred on the trot in the drawn encounter against Jharkhand; he says the dream is to play for India (The Hindu — Sports, Thu, 29 Oct 2026 19:17:31 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "sports-daily-2026-10-30-78",
+   "question": "Which current affairs development was reported regarding: \"In the time he’s been away from his KBFC, the State has added an ‘m’ to its name, the club has welcomed new owners from the UAE, and the Indian Super League — after a truncated and delayed season that led to Luna’s...\"?",
+   "options": [
+    "Home sweet Keralam: Leader Adrian Luna on his uncertain loan spell and the return of Blasters’ beloved Manjappada",
+    "Ranji Trophy: Pramanik puts Bengal in command as host Kerala stares down the barrel",
+    "Prasidh Krishna ruled out of New Zealand ODI series; Siraj added to India A squad for 2nd game",
+    "Carabao Cup: Arsenal knocked out by fourth-tier Fleetwood in shootout"
+   ],
+   "answer": 0,
+   "explanation": "Home sweet Keralam: Leader Adrian Luna on his uncertain loan spell and the return of Blasters’ beloved Manjappada — In the time he’s been away from his KBFC, the State has added an ‘m’ to its name, the club has welcomed new owners from the UAE, and the Indian Super League — after a truncated and delayed season that led to Luna’s... (The Hindu — Sports, Thu, 29 Oct 2026 18:49:00 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "sports-daily-2026-10-30-79",
+   "question": "Which current affairs development was reported regarding: \"The offie claims eight for 81 to bowl out Haryana for 256; openers Saxena and Raghuvanshi overhaul the target of 97 inside 11 overs as the home team registers a bonus point victory for the third straight game\"?",
+   "options": [
+    "Emotional, proud homecoming for hockey heroes",
+    "Ranji Trophy: Bengal completes a resounding win as Kerala capitulates",
+    "Ranji Trophy: Kotian’s career-best show fashions Mumbai’s thumping win",
+    "Terrific Threesome — redefining the slam-bang manual"
+   ],
+   "answer": 2,
+   "explanation": "Ranji Trophy: Kotian’s career-best show fashions Mumbai’s thumping win — The offie claims eight for 81 to bowl out Haryana for 256; openers Saxena and Raghuvanshi overhaul the target of 97 inside 11 overs as the home team registers a bonus point victory for the third straight game (The Hindu — Sports, Thu, 29 Oct 2026 18:18:44 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "sports-daily-2026-10-30-80",
+   "question": "Which current affairs development was reported regarding: \"Prahbhsimran and Saharan notch up half-centuries in the second essay; visitors pick up three points for taking the first innings honours while host Hyderabad has to rest content with one\"?",
+   "options": [
+    "Asian Para Games gold medallist Neeraj Yadav found dead",
+    "Rigorous training routine works wonders for Badoni",
+    "Ranji Trophy: Punjab emerges with better returns from drawn encounter",
+    "Emotional, proud homecoming for hockey heroes"
+   ],
+   "answer": 2,
+   "explanation": "Ranji Trophy: Punjab emerges with better returns from drawn encounter — Prahbhsimran and Saharan notch up half-centuries in the second essay; visitors pick up three points for taking the first innings honours while host Hyderabad has to rest content with one (The Hindu — Sports, Thu, 29 Oct 2026 17:58:30 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "sports-daily-2026-10-30-81",
+   "question": "Which current affairs development was reported regarding: \"Leggie Shreyas returns a five-wicket haul after seamers Vyshak and Manvanth strike early on the final day; Tripura gets bundled out for 180 shortly after lunch\"?",
+   "options": [
+    "Ranji Trophy: Karnataka gets campaign back on track with an innings victory",
+    "Efficacy, Galahad, Valiant Stream and Preview excel",
+    "IOCL holds Indian Army, leaves its semifinal hopes hanging",
+    "Young javelin star Dharanidharan eyes breaching the 80m mark"
+   ],
+   "answer": 0,
+   "explanation": "Ranji Trophy: Karnataka gets campaign back on track with an innings victory — Leggie Shreyas returns a five-wicket haul after seamers Vyshak and Manvanth strike early on the final day; Tripura gets bundled out for 180 shortly after lunch (The Hindu — Sports, Thu, 29 Oct 2026 17:39:59 +0530).",
+   "topic": "The Hindu — Sports Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
   }
  ]
 };

@@ -13,7 +13,7 @@
   "railways"
  ],
  "blurb": "Recent schemes, missions, summits, awards and appointments.",
- "count": 1295,
+ "count": 1352,
  "questions": [
   {
    "id": "current-affairs-00001",
@@ -19734,6 +19734,918 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-30-01",
+   "question": "Which current affairs development was reported regarding: \"While the claims and objections deadline has been extended in Delhi, the window has been reopened in the States of Maharashtra, Andhra Pradesh, Haryana, Telangana, and Nagaland\"?",
+   "options": [
+    "Telangana spotlight: Women blast through the mining barriers",
+    "ECI extends SIR deadline in six States including Delhi",
+    "In Delhi, BJP booth agents file deletion forms against Muslim voters living at their addresses",
+    "Tamil Nadu Cabinet decides to form commission headed by retd. HC judge to conduct Social Justice Survey"
+   ],
+   "answer": 1,
+   "explanation": "ECI extends SIR deadline in six States including Delhi — While the claims and objections deadline has been extended in Delhi, the window has been reopened in the States of Maharashtra, Andhra Pradesh, Haryana, Telangana, and Nagaland (The Hindu — National & Current Affairs, Fri, 30 Oct 2026 11:38:10 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-30-02",
+   "question": "Which current affairs development was reported regarding: \"The mandate of the Boards include design, monitor, and recommend targeted welfare schemes to gig and platform workers and traditional unorganised workers\"?",
+   "options": [
+    "Congress’s poor performance in ballot-based elections exposes contradictions in its claims: Sanjay Jaiswal",
+    "Keralam student comes third in global Arab Reading Challenge held in UAE",
+    "Labour Ministry sets up National Social Security Boards for unorganised, gig and platform workers",
+    "Tamil Nadu Cabinet decides to form commission headed by retd. HC judge to conduct Social Justice Survey"
+   ],
+   "answer": 2,
+   "explanation": "Labour Ministry sets up National Social Security Boards for unorganised, gig and platform workers — The mandate of the Boards include design, monitor, and recommend targeted welfare schemes to gig and platform workers and traditional unorganised workers (The Hindu — National & Current Affairs, Fri, 30 Oct 2026 11:36:19 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-30-03",
+   "question": "Which current affairs development was reported regarding: \"Shopian police traced online transactions across multiple payment platforms to uncover the network, which has links to terrorists lodged in different jails, officials said\"?",
+   "options": [
+    "Plan to take power cables underground in bid to give cleaner look to streets in Kalaburagi, emulate Varanasi",
+    "B-SMILE cancels tenders for two elevated corridor projects again, re-floats on same day with new estimates",
+    "Terror financing module: 10 associates of terrorists arrested in J&K",
+    "TDP leader promotes green campaigning in Tirupati by gifting saplings to voters"
+   ],
+   "answer": 2,
+   "explanation": "Terror financing module: 10 associates of terrorists arrested in J&K — Shopian police traced online transactions across multiple payment platforms to uncover the network, which has links to terrorists lodged in different jails, officials said (The Hindu — National & Current Affairs, Fri, 30 Oct 2026 11:32:24 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-30-04",
+   "question": "Which current affairs development was reported regarding: \"In a letter to Sonia Gandhi, the traders' body said the proposed rally, which is expected to draw 10 lakh people, could affect business worth ₹10,000-12,000 crore in wholesale and retail markets in central and old...\"?",
+   "options": [
+    "CTI urges Congress to postpone November 1 rally, says ₹10,000-12,000 crore trade in Delhi markets at risk",
+    "Maharashtra MLC polls: Lessons for the BJP, hope for Maha Vikas Aghadi | Explained",
+    "Jobs for locals: How feasible is the idea?",
+    "Cyclone Arnab LIVE: Cyclone wreaks havoc in Odisha, over 55,000 evacuated across 9 districts"
+   ],
+   "answer": 0,
+   "explanation": "CTI urges Congress to postpone November 1 rally, says ₹10,000-12,000 crore trade in Delhi markets at risk — In a letter to Sonia Gandhi, the traders' body said the proposed rally, which is expected to draw 10 lakh people, could affect business worth ₹10,000-12,000 crore in wholesale and retail markets in central and old... (The Hindu — National & Current Affairs, Fri, 30 Oct 2026 11:24:21 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-30-05",
+   "question": "Which current affairs development was reported regarding: \"Telangana dispatched nearly 2,000 staff along with emergency materials from its two distribution utilities to assist Andhra Pradesh in restoring power after the Arnab cyclone\"?",
+   "options": [
+    "Lessons for the BJP from Uttar Pradesh MLC election",
+    "Cyclone Arnab LIVE: Cyclone wreaks havoc in Odisha, over 55,000 evacuated across 9 districts",
+    "‘Unavailable in India’: Why are social media posts being blocked amid protests? | Explained",
+    "Telangana sends 2,000 staff, material to A.P. for power supply restoration work"
+   ],
+   "answer": 3,
+   "explanation": "Telangana sends 2,000 staff, material to A.P. for power supply restoration work — Telangana dispatched nearly 2,000 staff along with emergency materials from its two distribution utilities to assist Andhra Pradesh in restoring power after the Arnab cyclone (The Hindu — National & Current Affairs, Fri, 30 Oct 2026 11:21:51 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-30-06",
+   "question": "Which current affairs development was reported regarding: \"The External Affairs Minister will participate in the two-day deliberations, which will begin with Mr. Rubio’s address on geopolitical issues\"?",
+   "options": [
+    "Congress’s poor performance in ballot-based elections exposes contradictions in its claims: Sanjay Jaiswal",
+    "Former West Bengal minister Indranil Sen sent to 13 days police custody",
+    "PM Modi to begin two-day Gujarat visit on October 30, inaugurate projects worth ₹14,000 crore",
+    "External Affairs Minister Jaishankar in U.S. for G20 Foreign Ministers’ meet"
+   ],
+   "answer": 3,
+   "explanation": "External Affairs Minister Jaishankar in U.S. for G20 Foreign Ministers’ meet — The External Affairs Minister will participate in the two-day deliberations, which will begin with Mr. Rubio’s address on geopolitical issues (The Hindu — National & Current Affairs, Fri, 30 Oct 2026 11:21:00 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-30-07",
+   "question": "Which current affairs development was reported regarding: \"On September 30, she was crossing HMT Main Road, which connects to NASIN Circle, when she was hit by a minibus\"?",
+   "options": [
+    "‘Unavailable in India’: Why are social media posts being blocked amid protests? | Explained",
+    "Hubballi to get comprehensive stadium after Cabinet approves proposal under PPP model",
+    "‘When politics chose me’: Sonia Gandhi’s 2007 speech offered a glimpse into her personal life",
+    "Bengaluru woman dies a month after crash as GBA-traffic police coordination comes under scrutiny"
+   ],
+   "answer": 3,
+   "explanation": "Bengaluru woman dies a month after crash as GBA-traffic police coordination comes under scrutiny — On September 30, she was crossing HMT Main Road, which connects to NASIN Circle, when she was hit by a minibus (The Hindu — National & Current Affairs, Fri, 30 Oct 2026 11:18:08 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-30-08",
+   "question": "Which current affairs development was reported regarding: \"The 17th edition of the event will be organised by Nuclear Power Corporation of India Limited in and around Kaiga\"?",
+   "options": [
+    "DVAC searches premises linked to ex-Minister K.N. Nehru",
+    "Beyond ‘vote chori’, Congress needs a broader strategy to take on Modi government",
+    "NHRC flags human rights concerns over parading of three persons in south Kolkata",
+    "Kaiga Bird Marathon on February 6, 7"
+   ],
+   "answer": 3,
+   "explanation": "Kaiga Bird Marathon on February 6, 7 — The 17th edition of the event will be organised by Nuclear Power Corporation of India Limited in and around Kaiga (The Hindu — National & Current Affairs, Fri, 30 Oct 2026 11:16:36 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-30-09",
+   "question": "Which current affairs development was reported regarding: \"The mission could help restore the functioning of India’s regional satellite navigation system NavIC; its development began following the 1999 Kargil War, when the U.S reportedly clamped down on GPS data access\"?",
+   "options": [
+    "Why is ISRO’s NVS-03 satellite launch crucial? | Explained",
+    "INDIA bloc’s ‘public impeachment’ of CEC likely to avoid mocking Parliament",
+    "Telangana spotlight: Women blast through the mining barriers",
+    "Terror financing module: 10 associates of terrorists arrested in J&K"
+   ],
+   "answer": 0,
+   "explanation": "Why is ISRO’s NVS-03 satellite launch crucial? | Explained — The mission could help restore the functioning of India’s regional satellite navigation system NavIC; its development began following the 1999 Kargil War, when the U.S reportedly clamped down on GPS data access (The Hindu — National & Current Affairs, Fri, 30 Oct 2026 11:14:47 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-30-10",
+   "question": "Which current affairs development was reported regarding: \"The proposed infrastructure includes an athletics track, a football ground, basketball and volleyball courts, hockey facilities, indoor sports infrastructure, a swimming pool, a gymnasium, a horse-riding training...\"?",
+   "options": [
+    "Labour Ministry sets up National Social Security Boards for unorganised, gig and platform workers",
+    "Two youths killed as motorcycle crashes into concrete post in Keralam’s Idukki",
+    "ECI extends SIR deadline in six States including Delhi",
+    "Hubballi to get comprehensive stadium after Cabinet approves proposal under PPP model"
+   ],
+   "answer": 3,
+   "explanation": "Hubballi to get comprehensive stadium after Cabinet approves proposal under PPP model — The proposed infrastructure includes an athletics track, a football ground, basketball and volleyball courts, hockey facilities, indoor sports infrastructure, a swimming pool, a gymnasium, a horse-riding training... (The Hindu — National & Current Affairs, Fri, 30 Oct 2026 11:10:45 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-30-11",
+   "question": "Which current affairs development was reported regarding: \"Mr. Parvathaneni underscored the need to safeguard freedom of navigation and maritime commerce, saying recent attacks against commercial shipping have demonstrated how disruptions at critical maritime chokepoints can...\"?",
+   "options": [
+    "Milk price hike: BJP accuses Karnataka government of placing burden on people to help farmers",
+    "India says AI, maritime security key priorities for its UNSC candidature for 2028–29",
+    "Hubballi to get comprehensive stadium after Cabinet approves proposal under PPP model",
+    "DVAC searches places linked to former DMK MLA in Vellore"
+   ],
+   "answer": 1,
+   "explanation": "India says AI, maritime security key priorities for its UNSC candidature for 2028–29 — Mr. Parvathaneni underscored the need to safeguard freedom of navigation and maritime commerce, saying recent attacks against commercial shipping have demonstrated how disruptions at critical maritime chokepoints can... (The Hindu — National & Current Affairs, Fri, 30 Oct 2026 11:10:19 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-30-12",
+   "question": "Which current affairs development was reported regarding: \"Mohammed Shahansha, student of Madin Academy in Malappuram, wins ₹8-lakh cash prize\"?",
+   "options": [
+    "SC questions Government: If permission given for 100% ethanol-run vehicles, how will supply be made",
+    "Maharashtra MLC polls: Lessons for the BJP, hope for Maha Vikas Aghadi | Explained",
+    "India says AI, maritime security key priorities for its UNSC candidature for 2028–29",
+    "Keralam student comes third in global Arab Reading Challenge held in UAE"
+   ],
+   "answer": 3,
+   "explanation": "Keralam student comes third in global Arab Reading Challenge held in UAE — Mohammed Shahansha, student of Madin Academy in Malappuram, wins ₹8-lakh cash prize (The Hindu — National & Current Affairs, Fri, 30 Oct 2026 11:05:46 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-30-13",
+   "question": "Which current affairs development was reported regarding: \"MeitY’s advisory to Meta, shorter takedown deadlines under amended IT Rules, and platforms’ own enforcement policies have brought renewed scrutiny of how online content is blocked, and what recourse users have\"?",
+   "options": [
+    "Attempt to murder case: YouTuber surrenders before police in Keralam’s Kasaragod",
+    "External Affairs Minister Jaishankar in U.S. for G20 Foreign Ministers’ meet",
+    "Cyclone Arnab highlights: New Bay system likely to head for Andhra coast; 300 villages marooned in Ganjam",
+    "‘Unavailable in India’: Why are social media posts being blocked amid protests? | Explained"
+   ],
+   "answer": 3,
+   "explanation": "‘Unavailable in India’: Why are social media posts being blocked amid protests? | Explained — MeitY’s advisory to Meta, shorter takedown deadlines under amended IT Rules, and platforms’ own enforcement policies have brought renewed scrutiny of how online content is blocked, and what recourse users have (The Hindu — National & Current Affairs, Fri, 30 Oct 2026 11:00:34 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-30-14",
+   "question": "Which current affairs development was reported regarding: \"Following reports of flash floods in the river’s upper reaches, water levels in the Sankosh could rise suddenly in Assam’s Dhubri and West Bengal’s Alipurduar districts, says advisory\"?",
+   "options": [
+    "West Bengal government warns of strict action against violations of firecracker norms on Diwali, Chhath",
+    "Glacial lake outburst in Bhutan triggers flood alert in northern West Bengal, Assam",
+    "RTC should do more with Gamyam bus live-tracking app",
+    "Any plan to restrict sale of liquor in hotel bars and clubs located close to educational institutions? Madras High Court asks Commissioner of Prohibition and Excise"
+   ],
+   "answer": 1,
+   "explanation": "Glacial lake outburst in Bhutan triggers flood alert in northern West Bengal, Assam — Following reports of flash floods in the river’s upper reaches, water levels in the Sankosh could rise suddenly in Assam’s Dhubri and West Bengal’s Alipurduar districts, says advisory (The Hindu — National & Current Affairs, Fri, 30 Oct 2026 10:49:02 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-30-15",
+   "question": "Which current affairs development was reported regarding: \"GESCOM proposal covers 17 road stretches across five zones\"?",
+   "options": [
+    "Plan to take power cables underground in bid to give cleaner look to streets in Kalaburagi, emulate Varanasi",
+    "Telangana sends 2,000 staff, material to A.P. for power supply restoration work",
+    "Any plan to restrict sale of liquor in hotel bars and clubs located close to educational institutions? Madras High Court asks Commissioner of Prohibition and Excise",
+    "SC questions Government: If permission given for 100% ethanol-run vehicles, how will supply be made"
+   ],
+   "answer": 0,
+   "explanation": "Plan to take power cables underground in bid to give cleaner look to streets in Kalaburagi, emulate Varanasi — GESCOM proposal covers 17 road stretches across five zones (The Hindu — National & Current Affairs, Fri, 30 Oct 2026 10:48:46 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-30-16",
+   "question": "Which current affairs development was reported regarding: \"Andhra Pradesh Chief Minister N Chandrababu Naidu said the very severe cyclonic storm Arnab has inflicted a loss of at least ₹4,600 crore\"?",
+   "options": [
+    "Cyclone Arnab LIVE: Cyclone wreaks havoc in Odisha, over 55,000 evacuated across 9 districts",
+    "External Affairs Minister Jaishankar in U.S. for G20 Foreign Ministers’ meet",
+    "Two youths killed as motorcycle crashes into concrete post in Keralam’s Idukki",
+    "PM Modi to begin two-day Gujarat visit on October 30, inaugurate projects worth ₹14,000 crore"
+   ],
+   "answer": 0,
+   "explanation": "Cyclone Arnab LIVE: Cyclone wreaks havoc in Odisha, over 55,000 evacuated across 9 districts — Andhra Pradesh Chief Minister N Chandrababu Naidu said the very severe cyclonic storm Arnab has inflicted a loss of at least ₹4,600 crore (The Hindu — National & Current Affairs, Fri, 30 Oct 2026 10:44:15 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-30-17",
+   "question": "Which current affairs development was reported regarding: \"The bank said it was extending full cooperation to the authorities concerned and taking necessary steps to address the concerns of affected customers\"?",
+   "options": [
+    "Glacial lake outburst in Bhutan triggers flood alert in northern West Bengal, Assam",
+    "PNB fund misappropriation case: Bank says genuine claims to be honoured, FIR registered in Gr Noida",
+    "PM Modi to begin two-day Gujarat visit on October 30, inaugurate projects worth ₹14,000 crore",
+    "Police barged into my office to arrest former Minister Anbil Mahesh Poyyamozhi, alleges senior advocate P. Wilson in Madras HC"
+   ],
+   "answer": 1,
+   "explanation": "PNB fund misappropriation case: Bank says genuine claims to be honoured, FIR registered in Gr Noida — The bank said it was extending full cooperation to the authorities concerned and taking necessary steps to address the concerns of affected customers (The Hindu — National & Current Affairs, Fri, 30 Oct 2026 10:43:26 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-30-18",
+   "question": "Which current affairs development was reported regarding: \"A long-time loyalist of former chief minister Ramakrishna Hegde, Shivanand Koujalagi switched to H. D. Deve Gowda’s camp after the split in the Janata Parivar parties\"?",
+   "options": [
+    "Sitla Estate, Mukteshwar: Why this 40 acre Himalayan retreat has just 12 rooms",
+    "Shivanand Koujalagi, former minister and former MP, no more",
+    "Maharashtra MLC polls: Lessons for the BJP, hope for Maha Vikas Aghadi | Explained",
+    "Any plan to restrict sale of liquor in hotel bars and clubs located close to educational institutions? Madras High Court asks Commissioner of Prohibition and Excise"
+   ],
+   "answer": 1,
+   "explanation": "Shivanand Koujalagi, former minister and former MP, no more — A long-time loyalist of former chief minister Ramakrishna Hegde, Shivanand Koujalagi switched to H. D. Deve Gowda’s camp after the split in the Janata Parivar parties (The Hindu — National & Current Affairs, Fri, 30 Oct 2026 10:40:48 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-30-19",
+   "question": "Which current affairs development was reported regarding: \"The decision was taken at the Cabinet meeting chaired CM Vijay at the Secretariat in Chennai on Thursday\"?",
+   "options": [
+    "Lessons for the BJP from Uttar Pradesh MLC election",
+    "Congress demands dedicated development board for Kotia",
+    "Nutritional deficiencies, alcohol intake linked to venous stroke in Karnataka: NIMHANS study",
+    "Tamil Nadu Cabinet decides to form commission headed by retd. HC judge to conduct Social Justice Survey"
+   ],
+   "answer": 3,
+   "explanation": "Tamil Nadu Cabinet decides to form commission headed by retd. HC judge to conduct Social Justice Survey — The decision was taken at the Cabinet meeting chaired CM Vijay at the Secretariat in Chennai on Thursday (The Hindu — National & Current Affairs, Fri, 30 Oct 2026 10:39:28 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-30-20",
+   "question": "Which current affairs development was reported regarding: \"The search at Mr. Nehru’s residence, carried out by a team headed by a Deputy Superintendent of Police, began around 7 a.m.\"?",
+   "options": [
+    "In Delhi, BJP booth agents file deletion forms against Muslim voters living at their addresses",
+    "DVAC searches premises linked to ex-Minister K.N. Nehru",
+    "‘Unavailable in India’: Why are social media posts being blocked amid protests? | Explained",
+    "Jobs for locals: How feasible is the idea?"
+   ],
+   "answer": 1,
+   "explanation": "DVAC searches premises linked to ex-Minister K.N. Nehru — The search at Mr. Nehru’s residence, carried out by a team headed by a Deputy Superintendent of Police, began around 7 a.m. (The Hindu — National & Current Affairs, Fri, 30 Oct 2026 10:38:17 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-30-21",
+   "question": "Which current affairs development was reported regarding: \"The searches are part of the ongoing probe at 25 locations across Tamil Nadu linked to former Minister and DMK leader K.N. Nehru in connection with an alleged ₹634-crore cash-for-jobs scam\"?",
+   "options": [
+    "B-SMILE cancels tenders for two elevated corridor projects again, re-floats on same day with new estimates",
+    "Bengaluru woman dies a month after crash as GBA-traffic police coordination comes under scrutiny",
+    "DVAC searches places linked to former DMK MLA in Vellore",
+    "PNB fund misappropriation case: Bank says genuine claims to be honoured, FIR registered in Gr Noida"
+   ],
+   "answer": 2,
+   "explanation": "DVAC searches places linked to former DMK MLA in Vellore — The searches are part of the ongoing probe at 25 locations across Tamil Nadu linked to former Minister and DMK leader K.N. Nehru in connection with an alleged ₹634-crore cash-for-jobs scam (The Hindu — National & Current Affairs, Fri, 30 Oct 2026 10:34:03 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-30-22",
+   "question": "Which current affairs development was reported regarding: \"The Bench sought answers from the Government on how the supply for 100% ethanol will be made and also stressed on empowering farmers and looking at the issue from an environmental point of view\"?",
+   "options": [
+    "Tamil Nadu Assembly: The changing address of power",
+    "SC questions Government: If permission given for 100% ethanol-run vehicles, how will supply be made",
+    "Plan to take power cables underground in bid to give cleaner look to streets in Kalaburagi, emulate Varanasi",
+    "Will repay political debt with interest: Neeraj Kumar on Lalan Singh"
+   ],
+   "answer": 1,
+   "explanation": "SC questions Government: If permission given for 100% ethanol-run vehicles, how will supply be made — The Bench sought answers from the Government on how the supply for 100% ethanol will be made and also stressed on empowering farmers and looking at the issue from an environmental point of view (The Hindu — National & Current Affairs, Fri, 30 Oct 2026 10:30:57 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-30-23",
+   "question": "Which current affairs development was reported regarding: \"The researchers found that CVT patients were more likely to have diets deficient in protein and folate. Elevated homocysteine levels, anaemia and alcohol consumption were also common among those diagnosed with the...\"?",
+   "options": [
+    "B-SMILE cancels tenders for two elevated corridor projects again, re-floats on same day with new estimates",
+    "Two youths killed as motorcycle crashes into concrete post in Keralam’s Idukki",
+    "Nutritional deficiencies, alcohol intake linked to venous stroke in Karnataka: NIMHANS study",
+    "3,000 LED street lights to be installed in Vellore, Tiruvannamalai"
+   ],
+   "answer": 2,
+   "explanation": "Nutritional deficiencies, alcohol intake linked to venous stroke in Karnataka: NIMHANS study — The researchers found that CVT patients were more likely to have diets deficient in protein and folate. Elevated homocysteine levels, anaemia and alcohol consumption were also common among those diagnosed with the... (The Hindu — National & Current Affairs, Fri, 30 Oct 2026 10:24:35 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-30-24",
+   "question": "Which current affairs development was reported regarding: \"T.N.’s search for a new Secretariat has spanned successive governments; TVK’s latest proposal to build one near coast has revived the debate\"?",
+   "options": [
+    "Cyclone Arnab LIVE: Cyclone wreaks havoc in Odisha, over 55,000 evacuated across 9 districts",
+    "Terror financing module: 10 associates of terrorists arrested in J&K",
+    "Tamil Nadu Assembly: The changing address of power",
+    "Plan to take power cables underground in bid to give cleaner look to streets in Kalaburagi, emulate Varanasi"
+   ],
+   "answer": 2,
+   "explanation": "Tamil Nadu Assembly: The changing address of power — T.N.’s search for a new Secretariat has spanned successive governments; TVK’s latest proposal to build one near coast has revived the debate (The Hindu — National & Current Affairs, Fri, 30 Oct 2026 10:09:23 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-30-25",
+   "question": "Which current affairs development was reported regarding: \"Congress and the wider Opposition bloc may need to recalibrate their strategy on the alleged ‘vote chori’ campaign, which has overshadowed issues that affect voters’ everyday lives\"?",
+   "options": [
+    "Beyond ‘vote chori’, Congress needs a broader strategy to take on Modi government",
+    "‘Unavailable in India’: Why are social media posts being blocked amid protests? | Explained",
+    "Hubballi to get comprehensive stadium after Cabinet approves proposal under PPP model",
+    "Countdown progressing for ISRO’s crucial GSLV-F18 launch carrying navigation satellite NVS-03"
+   ],
+   "answer": 0,
+   "explanation": "Beyond ‘vote chori’, Congress needs a broader strategy to take on Modi government — Congress and the wider Opposition bloc may need to recalibrate their strategy on the alleged ‘vote chori’ campaign, which has overshadowed issues that affect voters’ everyday lives (The Hindu — National & Current Affairs, Fri, 30 Oct 2026 10:07:52 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-30-26",
+   "question": "Which current affairs development was reported regarding: \"Former Lok Sabha Speaker Meira Kumar to preside over proceedings, Kharge to move motion and Rahul Gandhi to speak at the end\"?",
+   "options": [
+    "Keralam student comes third in global Arab Reading Challenge held in UAE",
+    "West Bengal government warns of strict action against violations of firecracker norms on Diwali, Chhath",
+    "INDIA bloc’s ‘public impeachment’ of CEC likely to avoid mocking Parliament",
+    "Man, daughter killed in road accident in Tiruvannamalai"
+   ],
+   "answer": 2,
+   "explanation": "INDIA bloc’s ‘public impeachment’ of CEC likely to avoid mocking Parliament — Former Lok Sabha Speaker Meira Kumar to preside over proceedings, Kharge to move motion and Rahul Gandhi to speak at the end (The Hindu — National & Current Affairs, Fri, 30 Oct 2026 10:06:58 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-30-27",
+   "question": "Which current affairs development was reported regarding: \"Sonia Gandhi had come to India to marry Rajiv Gandhi, then a pilot with no political ambitions, and expected to build a private life with her husband and their two children\"?",
+   "options": [
+    "India says AI, maritime security key priorities for its UNSC candidature for 2028–29",
+    "‘When politics chose me’: Sonia Gandhi’s 2007 speech offered a glimpse into her personal life",
+    "Congress demands dedicated development board for Kotia",
+    "CTI urges Congress to postpone November 1 rally, says ₹10,000-12,000 crore trade in Delhi markets at risk"
+   ],
+   "answer": 1,
+   "explanation": "‘When politics chose me’: Sonia Gandhi’s 2007 speech offered a glimpse into her personal life — Sonia Gandhi had come to India to marry Rajiv Gandhi, then a pilot with no political ambitions, and expected to build a private life with her husband and their two children (The Hindu — National & Current Affairs, Fri, 30 Oct 2026 09:49:17 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-30-28",
+   "question": "Which current affairs development was reported regarding: \"After leaving Mumbai in 1998, Vikram Maira turned his family’s holiday home and orchard in Uttarakhand’s Kumaon hills into an intimate Himalayan retreat where thoughtful cooking, a close-knit local team and personal...\"?",
+   "options": [
+    "NHRC flags human rights concerns over parading of three persons in south Kolkata",
+    "Sitla Estate, Mukteshwar: Why this 40 acre Himalayan retreat has just 12 rooms",
+    "Tamil Nadu Assembly: The changing address of power",
+    "Terror financing module: 10 associates of terrorists arrested in J&K"
+   ],
+   "answer": 1,
+   "explanation": "Sitla Estate, Mukteshwar: Why this 40 acre Himalayan retreat has just 12 rooms — After leaving Mumbai in 1998, Vikram Maira turned his family’s holiday home and orchard in Uttarakhand’s Kumaon hills into an intimate Himalayan retreat where thoughtful cooking, a close-knit local team and personal... (The Hindu — National & Current Affairs, Fri, 30 Oct 2026 09:42:12 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-30-29",
+   "question": "Which current affairs development was reported regarding: \"B-SMILE says the two tenders were cancelled due to technical reasons, but won’t reveal what the technical reasons were\"?",
+   "options": [
+    "Countdown progressing for ISRO’s crucial GSLV-F18 launch carrying navigation satellite NVS-03",
+    "Bengaluru woman dies a month after crash as GBA-traffic police coordination comes under scrutiny",
+    "Congress’s poor performance in ballot-based elections exposes contradictions in its claims: Sanjay Jaiswal",
+    "B-SMILE cancels tenders for two elevated corridor projects again, re-floats on same day with new estimates"
+   ],
+   "answer": 3,
+   "explanation": "B-SMILE cancels tenders for two elevated corridor projects again, re-floats on same day with new estimates — B-SMILE says the two tenders were cancelled due to technical reasons, but won’t reveal what the technical reasons were (The Hindu — National & Current Affairs, Fri, 30 Oct 2026 09:30:16 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-30-30",
+   "question": "Which current affairs development was reported regarding: \"The Geosynchronous Satellite Launch Vehicle carrying on board the GSLV-F18 rocket is scheduled to lift off at 11.51 p.m. on Friday (October 30, 2026) from the second launch pad at the Satish Dhawan Space Centre\"?",
+   "options": [
+    "Labour Ministry sets up National Social Security Boards for unorganised, gig and platform workers",
+    "B-SMILE cancels tenders for two elevated corridor projects again, re-floats on same day with new estimates",
+    "Nutritional deficiencies, alcohol intake linked to venous stroke in Karnataka: NIMHANS study",
+    "Countdown progressing for ISRO’s crucial GSLV-F18 launch carrying navigation satellite NVS-03"
+   ],
+   "answer": 3,
+   "explanation": "Countdown progressing for ISRO’s crucial GSLV-F18 launch carrying navigation satellite NVS-03 — The Geosynchronous Satellite Launch Vehicle carrying on board the GSLV-F18 rocket is scheduled to lift off at 11.51 p.m. on Friday (October 30, 2026) from the second launch pad at the Satish Dhawan Space Centre (The Hindu — National & Current Affairs, Fri, 30 Oct 2026 09:18:05 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-30-31",
+   "question": "Which current affairs development was reported regarding: \"Section 4 of the the Motor Vehicles Act, 1988 specifies that no person under the age of eighteen years shall drive a motor vehicle in any public place. However, a person can drive a motorcycle without gears and with...\"?",
+   "options": [
+    "What does the law say about offences committed by underage drivers? | Explained",
+    "Countdown progressing for ISRO’s crucial GSLV-F18 launch carrying navigation satellite NVS-03",
+    "B-SMILE cancels tenders for two elevated corridor projects again, re-floats on same day with new estimates",
+    "Why is ISRO’s NVS-03 satellite launch crucial? | Explained"
+   ],
+   "answer": 0,
+   "explanation": "What does the law say about offences committed by underage drivers? | Explained — Section 4 of the the Motor Vehicles Act, 1988 specifies that no person under the age of eighteen years shall drive a motor vehicle in any public place. However, a person can drive a motorcycle without gears and with... (The Hindu — National & Current Affairs, Fri, 30 Oct 2026 09:12:23 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-30-32",
+   "question": "Which current affairs development was reported regarding: \"From handling explosives and repairing heavy mining equipment to supervising underground operations and training to drive 100-tonne dumpers, women at State-owned Singareni Collieries Company Limited are moving into...\"?",
+   "options": [
+    "PNB fund misappropriation case: Bank says genuine claims to be honoured, FIR registered in Gr Noida",
+    "Telangana spotlight: Women blast through the mining barriers",
+    "Keralam student comes third in global Arab Reading Challenge held in UAE",
+    "Tirupati district tightens security for free, fair local elections"
+   ],
+   "answer": 1,
+   "explanation": "Telangana spotlight: Women blast through the mining barriers — From handling explosives and repairing heavy mining equipment to supervising underground operations and training to drive 100-tonne dumpers, women at State-owned Singareni Collieries Company Limited are moving into... (The Hindu — National & Current Affairs, Fri, 30 Oct 2026 09:09:33 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-30-33",
+   "question": "Which current affairs development was reported regarding: \"The Prime Minister will also visit Ekta Nagar, where the tallest statue of Sardar Vallabhbhai Patel stands, to inaugurate the cultural and tourism festival Bharat Parv 2026 and participate in Narmada aarti, said...\"?",
+   "options": [
+    "Witness protection scheme: Kerala High Court seeks State government’s response to PIL",
+    "‘When politics chose me’: Sonia Gandhi’s 2007 speech offered a glimpse into her personal life",
+    "PM Modi to begin two-day Gujarat visit on October 30, inaugurate projects worth ₹14,000 crore",
+    "B-SMILE cancels tenders for two elevated corridor projects again, re-floats on same day with new estimates"
+   ],
+   "answer": 2,
+   "explanation": "PM Modi to begin two-day Gujarat visit on October 30, inaugurate projects worth ₹14,000 crore — The Prime Minister will also visit Ekta Nagar, where the tallest statue of Sardar Vallabhbhai Patel stands, to inaugurate the cultural and tourism festival Bharat Parv 2026 and participate in Narmada aarti, said... (The Hindu — National & Current Affairs, Fri, 30 Oct 2026 09:04:55 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-30-34",
+   "question": "Which current affairs development was reported regarding: \"Chief Minister D.K. Shivakumar highlighted that all MLAs had demanded a milk price hike across party lines in both the Legislative Assembly and the Legislative Council, cutting across partylines\"?",
+   "options": [
+    "Milk price hike: BJP accuses Karnataka government of placing burden on people to help farmers",
+    "In Delhi, BJP booth agents file deletion forms against Muslim voters living at their addresses",
+    "Congress demands dedicated development board for Kotia",
+    "Shivanand Koujalagi, former minister and former MP, no more"
+   ],
+   "answer": 0,
+   "explanation": "Milk price hike: BJP accuses Karnataka government of placing burden on people to help farmers — Chief Minister D.K. Shivakumar highlighted that all MLAs had demanded a milk price hike across party lines in both the Legislative Assembly and the Legislative Council, cutting across partylines (The Hindu — National & Current Affairs, Fri, 30 Oct 2026 09:02:28 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-30-35",
+   "question": "Which current affairs development was reported regarding: \"Attempts were being made to spread misinformation about the Special Intensive Revision (SIR), Electronic Voting Machines (EVMs), and the electoral process to undermine public confidence in democracy, says Mr. Jaiswal\"?",
+   "options": [
+    "External Affairs Minister Jaishankar in U.S. for G20 Foreign Ministers’ meet",
+    "Keralam student comes third in global Arab Reading Challenge held in UAE",
+    "INDIA bloc’s ‘public impeachment’ of CEC likely to avoid mocking Parliament",
+    "Congress’s poor performance in ballot-based elections exposes contradictions in its claims: Sanjay Jaiswal"
+   ],
+   "answer": 3,
+   "explanation": "Congress’s poor performance in ballot-based elections exposes contradictions in its claims: Sanjay Jaiswal — Attempts were being made to spread misinformation about the Special Intensive Revision (SIR), Electronic Voting Machines (EVMs), and the electoral process to undermine public confidence in democracy, says Mr. Jaiswal (The Hindu — National & Current Affairs, Fri, 30 Oct 2026 08:43:20 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-30-36",
+   "question": "Which current affairs development was reported regarding: \"“The RTC should ensure newer routes are updated as soon as they’re launched”\"?",
+   "options": [
+    "TDP leader promotes green campaigning in Tirupati by gifting saplings to voters",
+    "DVAC searches places linked to former DMK MLA in Vellore",
+    "India says AI, maritime security key priorities for its UNSC candidature for 2028–29",
+    "RTC should do more with Gamyam bus live-tracking app"
+   ],
+   "answer": 3,
+   "explanation": "RTC should do more with Gamyam bus live-tracking app — “The RTC should ensure newer routes are updated as soon as they’re launched” (The Hindu — National & Current Affairs, Fri, 30 Oct 2026 08:20:10 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-30-37",
+   "question": "Which current affairs development was reported regarding: \"The first big takeaway for the BJP is that the results of the MLC election demonstrate the 2024 Lok Sabha results may not be a fluke, when the SP, with 37 seats, brought down the BJP’s handsome tallies of 71 seats in...\"?",
+   "options": [
+    "In Delhi, BJP booth agents file deletion forms against Muslim voters living at their addresses",
+    "Lessons for the BJP from Uttar Pradesh MLC election",
+    "Any plan to restrict sale of liquor in hotel bars and clubs located close to educational institutions? Madras High Court asks Commissioner of Prohibition and Excise",
+    "‘When politics chose me’: Sonia Gandhi’s 2007 speech offered a glimpse into her personal life"
+   ],
+   "answer": 1,
+   "explanation": "Lessons for the BJP from Uttar Pradesh MLC election — The first big takeaway for the BJP is that the results of the MLC election demonstrate the 2024 Lok Sabha results may not be a fluke, when the SP, with 37 seats, brought down the BJP’s handsome tallies of 71 seats in... (The Hindu — National & Current Affairs, Fri, 30 Oct 2026 08:15:24 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-30-38",
+   "question": "Which current affairs development was reported regarding: \"Strengthening policing by arranging special deployment in sensitive and violence-prone areas, the district administration has appealed to the voters to exercise their franchise without fear\"?",
+   "options": [
+    "Lessons for the BJP from Uttar Pradesh MLC election",
+    "Tirupati district tightens security for free, fair local elections",
+    "Jobs for locals: How feasible is the idea?",
+    "DVAC searches places linked to former DMK MLA in Vellore"
+   ],
+   "answer": 1,
+   "explanation": "Tirupati district tightens security for free, fair local elections — Strengthening policing by arranging special deployment in sensitive and violence-prone areas, the district administration has appealed to the voters to exercise their franchise without fear (The Hindu — National & Current Affairs, Fri, 30 Oct 2026 08:09:04 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-30-39",
+   "question": "Which current affairs development was reported regarding: \"Congress hits the BJP where it hurts the most. Its only victory is in the RSS HQ and BJP’s traditional stronghold of Nagpur, Sharad Pawar’s party shines with a 100% strike rate; MVA wins all three Graduates’...\"?",
+   "options": [
+    "Lessons for the BJP from Uttar Pradesh MLC election",
+    "Glacial lake outburst in Bhutan triggers flood alert in northern West Bengal, Assam",
+    "Shivanand Koujalagi, former minister and former MP, no more",
+    "Maharashtra MLC polls: Lessons for the BJP, hope for Maha Vikas Aghadi | Explained"
+   ],
+   "answer": 3,
+   "explanation": "Maharashtra MLC polls: Lessons for the BJP, hope for Maha Vikas Aghadi | Explained — Congress hits the BJP where it hurts the most. Its only victory is in the RSS HQ and BJP’s traditional stronghold of Nagpur, Sharad Pawar’s party shines with a 100% strike rate; MVA wins all three Graduates’... (The Hindu — National & Current Affairs, Fri, 30 Oct 2026 07:34:01 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-30-40",
+   "question": "Which current affairs development was reported regarding: \"BJP BLAs submit nearly 68% of Form 7s seeking deletions as ‘objector’ in Mustafabad, all against Muslim electors citing ‘absent/permanently shifted’ or ‘death’\"?",
+   "options": [
+    "In Delhi, BJP booth agents file deletion forms against Muslim voters living at their addresses",
+    "Plan to take power cables underground in bid to give cleaner look to streets in Kalaburagi, emulate Varanasi",
+    "SI arrested for alleged theft of seized drug from police station",
+    "Kaiga Bird Marathon on February 6, 7"
+   ],
+   "answer": 0,
+   "explanation": "In Delhi, BJP booth agents file deletion forms against Muslim voters living at their addresses — BJP BLAs submit nearly 68% of Form 7s seeking deletions as ‘objector’ in Mustafabad, all against Muslim electors citing ‘absent/permanently shifted’ or ‘death’ (The Hindu — National & Current Affairs, Fri, 30 Oct 2026 07:28:11 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-30-41",
+   "question": "Which current affairs development was reported regarding: \"As part of his campaign for the party Mayor nominee J.B. Srinivas and other corporator candidates, senior TDP leader Ajay Pratap is presenting saplings to the public, with the twin requests to cast their vote in...\"?",
+   "options": [
+    "Nutritional deficiencies, alcohol intake linked to venous stroke in Karnataka: NIMHANS study",
+    "TDP leader promotes green campaigning in Tirupati by gifting saplings to voters",
+    "ECI extends SIR deadline in six States including Delhi",
+    "Kaiga Bird Marathon on February 6, 7"
+   ],
+   "answer": 1,
+   "explanation": "TDP leader promotes green campaigning in Tirupati by gifting saplings to voters — As part of his campaign for the party Mayor nominee J.B. Srinivas and other corporator candidates, senior TDP leader Ajay Pratap is presenting saplings to the public, with the twin requests to cast their vote in... (The Hindu — National & Current Affairs, Fri, 30 Oct 2026 07:21:16 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-30-42",
+   "question": "Which current affairs development was reported regarding: \"The old debate on reservation in jobs for locals is resurfacing at a time when employment in the IT sector and elsewhere have become hard to find and the threat of Artificial Intelligence taking away jobs looms...\"?",
+   "options": [
+    "Terror financing module: 10 associates of terrorists arrested in J&K",
+    "B-SMILE cancels tenders for two elevated corridor projects again, re-floats on same day with new estimates",
+    "Jobs for locals: How feasible is the idea?",
+    "Any plan to restrict sale of liquor in hotel bars and clubs located close to educational institutions? Madras High Court asks Commissioner of Prohibition and Excise"
+   ],
+   "answer": 2,
+   "explanation": "Jobs for locals: How feasible is the idea? — The old debate on reservation in jobs for locals is resurfacing at a time when employment in the IT sector and elsewhere have become hard to find and the threat of Artificial Intelligence taking away jobs looms... (The Hindu — National & Current Affairs, Fri, 30 Oct 2026 07:09:02 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-30-43",
+   "question": "Which current affairs development was reported regarding: \"Arnab’s remnant brings rain to West Bengal, Jharkhand and Madhya Pradesh after weakening into a depression\"?",
+   "options": [
+    "Kaiga Bird Marathon on February 6, 7",
+    "Plan to take power cables underground in bid to give cleaner look to streets in Kalaburagi, emulate Varanasi",
+    "Witness protection scheme: Kerala High Court seeks State government’s response to PIL",
+    "Cyclone Arnab highlights: New Bay system likely to head for Andhra coast; 300 villages marooned in Ganjam"
+   ],
+   "answer": 3,
+   "explanation": "Cyclone Arnab highlights: New Bay system likely to head for Andhra coast; 300 villages marooned in Ganjam — Arnab’s remnant brings rain to West Bengal, Jharkhand and Madhya Pradesh after weakening into a depression (The Hindu — National & Current Affairs, Fri, 30 Oct 2026 06:02:08 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-30-44",
+   "question": "Which current affairs development was reported regarding: \"During the entire Legislative Council election, Lalan Singh did not even campaign in support of Neeraj, but rather gave moral support to Anant Singh, who was campaigning against Neeraj\"?",
+   "options": [
+    "TDP leader promotes green campaigning in Tirupati by gifting saplings to voters",
+    "District Magistrate declares Anantnag Bar elections ‘null and void’, cites ‘violations of official orders’",
+    "Bengaluru woman dies a month after crash as GBA-traffic police coordination comes under scrutiny",
+    "Will repay political debt with interest: Neeraj Kumar on Lalan Singh"
+   ],
+   "answer": 3,
+   "explanation": "Will repay political debt with interest: Neeraj Kumar on Lalan Singh — During the entire Legislative Council election, Lalan Singh did not even campaign in support of Neeraj, but rather gave moral support to Anant Singh, who was campaigning against Neeraj (The Hindu — National & Current Affairs, Fri, 30 Oct 2026 05:56:17 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-30-45",
+   "question": "Which current affairs development was reported regarding: \"Anantnag is the third major district with a sizable number of lawyers in J&K after Jammu and Srinagar\"?",
+   "options": [
+    "Cyclone Arnab highlights: New Bay system likely to head for Andhra coast; 300 villages marooned in Ganjam",
+    "SC questions Government: If permission given for 100% ethanol-run vehicles, how will supply be made",
+    "District Magistrate declares Anantnag Bar elections ‘null and void’, cites ‘violations of official orders’",
+    "Police barged into my office to arrest former Minister Anbil Mahesh Poyyamozhi, alleges senior advocate P. Wilson in Madras HC"
+   ],
+   "answer": 2,
+   "explanation": "District Magistrate declares Anantnag Bar elections ‘null and void’, cites ‘violations of official orders’ — Anantnag is the third major district with a sizable number of lawyers in J&K after Jammu and Srinagar (The Hindu — National & Current Affairs, Fri, 30 Oct 2026 05:48:35 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-30-46",
+   "question": "Which current affairs development was reported regarding: \"Indranil Sen served as the tourism and culture minister during the Mamata Banerjee era\"?",
+   "options": [
+    "In Delhi, BJP booth agents file deletion forms against Muslim voters living at their addresses",
+    "Telangana spotlight: Women blast through the mining barriers",
+    "Former West Bengal minister Indranil Sen sent to 13 days police custody",
+    "Lessons for the BJP from Uttar Pradesh MLC election"
+   ],
+   "answer": 2,
+   "explanation": "Former West Bengal minister Indranil Sen sent to 13 days police custody — Indranil Sen served as the tourism and culture minister during the Mamata Banerjee era (The Hindu — National & Current Affairs, Fri, 30 Oct 2026 05:28:31 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-30-47",
+   "question": "Which current affairs development was reported regarding: \"As the region is rich in mineral resources, including bauxite, manganese, graphite and even gold, the Andhra Pradesh government is aggressively competing to win over the local tribal population, alleged Odisha...\"?",
+   "options": [
+    "Congress demands dedicated development board for Kotia",
+    "Will repay political debt with interest: Neeraj Kumar on Lalan Singh",
+    "Cyclone Arnab highlights: New Bay system likely to head for Andhra coast; 300 villages marooned in Ganjam",
+    "Sitla Estate, Mukteshwar: Why this 40 acre Himalayan retreat has just 12 rooms"
+   ],
+   "answer": 0,
+   "explanation": "Congress demands dedicated development board for Kotia — As the region is rich in mineral resources, including bauxite, manganese, graphite and even gold, the Andhra Pradesh government is aggressively competing to win over the local tribal population, alleged Odisha... (The Hindu — National & Current Affairs, Fri, 30 Oct 2026 03:23:26 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-30-48",
+   "question": "Which current affairs development was reported regarding: \"A doctor serving Odisha’s tribal heartland was arrested for allegedly supporting the resistance against bauxite mining. His name, along with those of other activists, did not figure in the FIR, but the police...\"?",
+   "options": [
+    "Jailhouse rock, the ‘others’ in the dock",
+    "Two youths killed as motorcycle crashes into concrete post in Keralam’s Idukki",
+    "SI arrested for alleged theft of seized drug from police station",
+    "TDP leader promotes green campaigning in Tirupati by gifting saplings to voters"
+   ],
+   "answer": 0,
+   "explanation": "Jailhouse rock, the ‘others’ in the dock — A doctor serving Odisha’s tribal heartland was arrested for allegedly supporting the resistance against bauxite mining. His name, along with those of other activists, did not figure in the FIR, but the police... (The Hindu — National & Current Affairs, Fri, 30 Oct 2026 03:16:19 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-30-49",
+   "question": "Which current affairs development was reported regarding: \"However, State Public Prosecutor R. John Sathyan denies the allegation and says the police were actually invited into the office but they did not arrest the accused inside the lawyer’s office\"?",
+   "options": [
+    "ECI extends SIR deadline in six States including Delhi",
+    "Congress’s poor performance in ballot-based elections exposes contradictions in its claims: Sanjay Jaiswal",
+    "Police barged into my office to arrest former Minister Anbil Mahesh Poyyamozhi, alleges senior advocate P. Wilson in Madras HC",
+    "Beyond ‘vote chori’, Congress needs a broader strategy to take on Modi government"
+   ],
+   "answer": 2,
+   "explanation": "Police barged into my office to arrest former Minister Anbil Mahesh Poyyamozhi, alleges senior advocate P. Wilson in Madras HC — However, State Public Prosecutor R. John Sathyan denies the allegation and says the police were actually invited into the office but they did not arrest the accused inside the lawyer’s office (The Hindu — National & Current Affairs, Fri, 30 Oct 2026 03:00:20 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-30-50",
+   "question": "Which current affairs development was reported regarding: \"Justice N. Ramesh poses the question after expressing shock over a 19-year-old college student having consumed liquor at a bar attached to a hotel reportedly run by the college management\"?",
+   "options": [
+    "Any plan to restrict sale of liquor in hotel bars and clubs located close to educational institutions? Madras High Court asks Commissioner of Prohibition and Excise",
+    "Labour Ministry sets up National Social Security Boards for unorganised, gig and platform workers",
+    "Attempt to murder case: YouTuber surrenders before police in Keralam’s Kasaragod",
+    "Tamil Nadu Assembly: The changing address of power"
+   ],
+   "answer": 0,
+   "explanation": "Any plan to restrict sale of liquor in hotel bars and clubs located close to educational institutions? Madras High Court asks Commissioner of Prohibition and Excise — Justice N. Ramesh poses the question after expressing shock over a 19-year-old college student having consumed liquor at a bar attached to a hotel reportedly run by the college management (The Hindu — National & Current Affairs, Fri, 30 Oct 2026 02:07:30 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-30-51",
+   "question": "Which current affairs development was reported regarding: \"State government “lagging” in the implementation of the scheme, says High Court. The scheme provides for threat assessment, protection measures, constitution of competent authorities and witness protection cells,...\"?",
+   "options": [
+    "Keralam student comes third in global Arab Reading Challenge held in UAE",
+    "Witness protection scheme: Kerala High Court seeks State government’s response to PIL",
+    "B-SMILE cancels tenders for two elevated corridor projects again, re-floats on same day with new estimates",
+    "Cyclone Arnab highlights: New Bay system likely to head for Andhra coast; 300 villages marooned in Ganjam"
+   ],
+   "answer": 1,
+   "explanation": "Witness protection scheme: Kerala High Court seeks State government’s response to PIL — State government “lagging” in the implementation of the scheme, says High Court. The scheme provides for threat assessment, protection measures, constitution of competent authorities and witness protection cells,... (The Hindu — National & Current Affairs, Fri, 30 Oct 2026 01:52:36 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-30-52",
+   "question": "Which current affairs development was reported regarding: \"Speaking to The Hindu, an official said that the gun culture has emerged as a “crucial segment” in the probe and that the matter had been brought up with senior police officers\"?",
+   "options": [
+    "Will repay political debt with interest: Neeraj Kumar on Lalan Singh",
+    "West Bengal government warns of strict action against violations of firecracker norms on Diwali, Chhath",
+    "Labour Ministry sets up National Social Security Boards for unorganised, gig and platform workers",
+    "M.P. wildlife officials highlight Chambal region’s gun culture as probe into cheetah shooting goes on"
+   ],
+   "answer": 3,
+   "explanation": "M.P. wildlife officials highlight Chambal region’s gun culture as probe into cheetah shooting goes on — Speaking to The Hindu, an official said that the gun culture has emerged as a “crucial segment” in the probe and that the matter had been brought up with senior police officers (The Hindu — National & Current Affairs, Fri, 30 Oct 2026 01:49:37 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-30-53",
+   "question": "Which current affairs development was reported regarding: \"No sky lanterns allowed without formal permission from the fire department, says DGP West Bengal\"?",
+   "options": [
+    "Tamil Nadu Assembly: The changing address of power",
+    "‘Unavailable in India’: Why are social media posts being blocked amid protests? | Explained",
+    "NHRC flags human rights concerns over parading of three persons in south Kolkata",
+    "West Bengal government warns of strict action against violations of firecracker norms on Diwali, Chhath"
+   ],
+   "answer": 3,
+   "explanation": "West Bengal government warns of strict action against violations of firecracker norms on Diwali, Chhath — No sky lanterns allowed without formal permission from the fire department, says DGP West Bengal (The Hindu — National & Current Affairs, Fri, 30 Oct 2026 01:43:08 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-30-54",
+   "question": "Which current affairs development was reported regarding: \"The Commission took suo motu cognisance of the incident based on media reports and observed that the contents of the news report, if true, “raise serious issues of violation of human rights”\"?",
+   "options": [
+    "NHRC flags human rights concerns over parading of three persons in south Kolkata",
+    "External Affairs Minister Jaishankar in U.S. for G20 Foreign Ministers’ meet",
+    "What does the law say about offences committed by underage drivers? | Explained",
+    "Nutritional deficiencies, alcohol intake linked to venous stroke in Karnataka: NIMHANS study"
+   ],
+   "answer": 0,
+   "explanation": "NHRC flags human rights concerns over parading of three persons in south Kolkata — The Commission took suo motu cognisance of the incident based on media reports and observed that the contents of the news report, if true, “raise serious issues of violation of human rights” (The Hindu — National & Current Affairs, Fri, 30 Oct 2026 01:27:12 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-30-55",
+   "question": "Which current affairs development was reported regarding: \"YouTuber Khader Karippodi is an accused in a case involving the alleged attempt to murder Abdul Ahad, a native of Uduma and an expatriate\"?",
+   "options": [
+    "Lessons for the BJP from Uttar Pradesh MLC election",
+    "Attempt to murder case: YouTuber surrenders before police in Keralam’s Kasaragod",
+    "Shivanand Koujalagi, former minister and former MP, no more",
+    "Maharashtra MLC polls: Lessons for the BJP, hope for Maha Vikas Aghadi | Explained"
+   ],
+   "answer": 1,
+   "explanation": "Attempt to murder case: YouTuber surrenders before police in Keralam’s Kasaragod — YouTuber Khader Karippodi is an accused in a case involving the alleged attempt to murder Abdul Ahad, a native of Uduma and an expatriate (The Hindu — National & Current Affairs, Fri, 30 Oct 2026 01:16:00 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-30-56",
+   "question": "Which current affairs development was reported regarding: \"The Central police registered a case against him following his suspension based on a Special Branch report\"?",
+   "options": [
+    "Labour Ministry sets up National Social Security Boards for unorganised, gig and platform workers",
+    "Jailhouse rock, the ‘others’ in the dock",
+    "SI arrested for alleged theft of seized drug from police station",
+    "Maharashtra MLC polls: Lessons for the BJP, hope for Maha Vikas Aghadi | Explained"
+   ],
+   "answer": 2,
+   "explanation": "SI arrested for alleged theft of seized drug from police station — The Central police registered a case against him following his suspension based on a Special Branch report (The Hindu — National & Current Affairs, Fri, 30 Oct 2026 01:01:53 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "current-affairs-daily-2026-10-30-57",
+   "question": "Which current affairs development was reported regarding: \"J&K witnessed a Cabinet expansion on October 27, with four new faces joining the Omar Abdullah Cabinet\"?",
+   "options": [
+    "‘Show me one Muslim minister at Centre, BJP-ruled States’: J&K Deputy CM",
+    "Lessons for the BJP from Uttar Pradesh MLC election",
+    "RTC should do more with Gamyam bus live-tracking app",
+    "Hubballi to get comprehensive stadium after Cabinet approves proposal under PPP model"
+   ],
+   "answer": 0,
+   "explanation": "‘Show me one Muslim minister at Centre, BJP-ruled States’: J&K Deputy CM — J&K witnessed a Cabinet expansion on October 27, with four new faces joining the Omar Abdullah Cabinet (The Hindu — National & Current Affairs, Fri, 30 Oct 2026 01:01:11 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
   }
  ]
 };
