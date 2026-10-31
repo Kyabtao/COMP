@@ -230,14 +230,23 @@ function detectMergeInfo() {
 
   let gitMerges = 0;
   let latestMergeSha = null;
+  let branch = "main";
   try {
+    branch = execFileSync("git", ["rev-parse", "--abbrev-ref", "HEAD"], {
+      cwd: ROOT,
+      encoding: "utf8",
+      stdio: ["ignore", "pipe", "ignore"]
+    }).trim() || "main";
     const out = execFileSync("git", ["rev-list", "--merges", "--count", "HEAD"], {
       cwd: ROOT,
       encoding: "utf8",
       stdio: ["ignore", "pipe", "ignore"]
     }).trim();
     const parsed = parseInt(out, 10);
-    if (Number.isInteger(parsed) && parsed >= 0) gitMerges = parsed;
+    if (Number.isInteger(parsed) && parsed >= 0) {
+      /* When building on a PR branch, include the upcoming merge into main. */
+      gitMerges = (branch !== "main" && branch !== "HEAD" && parsed > 0) ? parsed + 1 : parsed;
+    }
     const sha = execFileSync("git", ["rev-list", "--merges", "-n", "1", "HEAD"], {
       cwd: ROOT,
       encoding: "utf8",
