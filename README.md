@@ -6,7 +6,8 @@ Practice site for school and competitive exams, built around a generated questio
 
 - **Single target list:** Classes 1 to 12, Graduation, SSC CGL, SSC CHSL, Banking (IBPS / SBI) and Railways (RRB NTPC / Group D) — classes and exams are merged into one list because they share the same paper pattern
 - **Every paper:** you choose the questions, time and marking — the defaults are 40 questions in 40 minutes, +1 per correct answer, 0.25 negative marking
-- **Question bank:** 33,057 questions in 26 categories (see below), growing by 100 fresh real-world news & competition questions per update
+- **Question bank:** 33,257 questions in 26 categories (see below), growing by 100 fresh questions balanced across all 25 subjects (Science, Math, English, Current Affairs/News, History, Polity, Geography, Reasoning, etc.) per daily update
+- **Instant load & Old Date Papers:** initial page load reads only the lightweight manifest (`tools/categories/index.js`), loading category files and old date papers (`#/daily/archive`, `#/daily/<date>/paper`) on demand so load times stay constant as the question bank grows
 - **No build step:** plain HTML, CSS and JavaScript, hosted straight from this repository
 
 ## Quick start
@@ -25,7 +26,7 @@ Opening `index.html` directly in a browser also works.
 | --- | --- |
 | **Home** | Pick a target, search the 26 categories, see your saved paper settings, or jump straight into a paper |
 | **Practice** | A drill per category (5 to 30 questions, default 15) with the correct answer and explanation revealed at once |
-| **Daily** | The daily challenge: 10 random questions drawn from that day's 100 freshly published real-world questions, with instant explanations |
+| **Daily** | The daily challenge (`#/daily`), full date paper viewer (`#/daily/<date>/paper`), and **Old Date Papers** archive (`#/daily/archive`) to view or practise any past date's paper |
 | **Exam** | You choose the paper: question count, time limit, marks per correct answer and the wrong-answer penalty |
 | **Progress** | Every attempt stays in this browser: attempts, exams, drills, best score, the plan used and the full table |
 
@@ -112,14 +113,14 @@ another day, `--count N` for a custom count and `--dry-run` to preview.
 ```
 index.html                     the site (single page app)
 assets/css/style.css           styling, light and dark themes
-assets/js/qbank-loader.js      loads every category file at start up
-assets/js/app.js               routing, practice drills, configurable exam engine (one target list)
+assets/js/qbank-loader.js      boots instantly from index.js and loads categories & old date papers on demand
+assets/js/app.js               routing, practice drills, daily & old date papers, configurable exam engine
 qbank.js                       UMD entry point for the bank (browser + Node)
 
-tools/news.js                  updates the bank with 100 real-world news & competition questions
+tools/news.js                  updates the bank with 100 balanced multi-subject & news questions
 tools/build-qbank.js           mints the day's questions, then generates the category files
 tools/daily.js                 mints one day's fresh questions and publishes them in the bank
-tools/daily/*.js               one committed file per published day (do not edit by hand)
+tools/daily/*.js               one committed file per published day (UMD: Node + browser on-demand)
 temp/                          stores the workflow files (tracked — the Pages deploy serves them)
 temp/ci.yml                    CI workflow: regression suite, bank validation, browser file check
 temp/daily-questions.yml       daily scheduler: mint, rebuild, validate, upload temp files
@@ -132,6 +133,7 @@ tools/forms.js                 form engine: fact tables -> MCQs
 tools/numeric.js               numeric generators for the aptitude categories
 tools/tables.js                registry mapping fact tables to categories
 tools/data/news-competition.js real-world news & competitive exam question pool
+tools/data/subject-competition.js multi-subject competition question pool across all 25 categories
 tools/data/*.js                the source fact tables
 tools/authored/*.js            hand written MCQs
 tools/categories/*.js          GENERATED question bank (do not edit by hand)
@@ -170,9 +172,13 @@ without generating random numerical arithmetic or repeating any question stem al
 the bank. It stores the day's set as `tools/daily/YYYY-MM-DD.js` and rebuilds the
 categories so the bank grows by 100 real-world questions at a time.
 
-On the site, the **Daily** challenge (`#/daily`) randomly selects **10 questions** from
-that day's 100 published questions for a fast, replayable daily drill with instant
-explanations.
+On the site, the **Daily** challenge (`#/daily`) randomly selects **10 questions** across
+multiple subjects from that day's 100 published questions for a fast, replayable daily
+drill with instant explanations. Visitors can also select any past date from the **Date
+paper** dropdown, read the full question paper with subject filters and answer toggles
+(`#/daily/<date>/paper`), or open the **Old Date Papers** archive (`#/daily/archive`) to
+browse and practise any previous day's 10-question challenge (`#/daily/<date>`) or full
+paper (`#/daily/<date>/all`).
 
 Every morning at 6 AM IST the scheduler (`temp/daily-questions.yml`)
 runs the same build and uploads the result as downloadable **temp files**. Nothing
