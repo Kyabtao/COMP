@@ -72,6 +72,43 @@ test("generateNewsQuestions mints 100 real-world questions with no numeric arith
     assert.ok(!batchStems.has(stem), "unique question stem within batch: " + q.question);
     batchStems.add(stem);
   }
+
+  // Must generate across all 25 subjects (Science, Math, English, Reasoning, Social Studies, etc.), 4 per category
+  const byCat = {};
+  for (const q of payload.questions) {
+    byCat[q.category] = (byCat[q.category] || 0) + 1;
+  }
+  assert.equal(Object.keys(byCat).length, 25, "all 25 subject categories are represented");
+  for (const slug of news.SUBJECT_WHEEL) {
+    assert.equal(byCat[slug], 4, "4 questions generated for " + slug);
+  }
+
+  // Even when live feeds supply 120 current-affairs news headlines, Science, Math, English & other subjects still get their full share
+  const floodOfNews = Array.from({ length: 120 }, (_, idx) => ({
+    category: "current-affairs",
+    question: 'Which current affairs development was reported regarding: "Headline #' + (idx + 1) + '"?',
+    options: ["Report A" + idx, "Report B" + idx, "Report C" + idx, "Report D" + idx],
+    answer: 0,
+    explanation: "Headline #" + (idx + 1) + " explanation.",
+    topic: "News Feed Current Affairs",
+    level: 2
+  }));
+  const withLiveNews = news.generateNewsQuestions("2026-11-16", 100, state, floodOfNews);
+  const liveCatCounts = {};
+  for (const q of withLiveNews.questions) {
+    liveCatCounts[q.category] = (liveCatCounts[q.category] || 0) + 1;
+  }
+  assert.equal(Object.keys(liveCatCounts).length, 25, "live news flood never crowds out other subjects");
+  assert.equal(liveCatCounts["current-affairs"], 4);
+  assert.equal(liveCatCounts["mathematics"], 4);
+  assert.equal(liveCatCounts["quantitative-aptitude"], 4);
+  assert.equal(liveCatCounts["reasoning"], 4);
+  assert.equal(liveCatCounts["english"], 4);
+  assert.equal(liveCatCounts["general-english-grammar"], 4);
+  assert.equal(liveCatCounts["general-science"], 4);
+  assert.equal(liveCatCounts["physics"], 4);
+  assert.equal(liveCatCounts["chemistry"], 4);
+  assert.equal(liveCatCounts["biology"], 4);
 });
 
 test("parseFeedContent parses RSS news articles, embedded competition MCQs and OpenTDB JSON", () => {

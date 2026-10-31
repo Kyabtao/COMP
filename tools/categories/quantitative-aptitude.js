@@ -12,7 +12,7 @@
   "banking"
  ],
  "blurb": "Arithmetic, percentages, interest, ratios and mensuration.",
- "count": 1510,
+ "count": 1546,
  "questions": [
   {
    "id": "quantitative-aptitude-00001",
@@ -22673,6 +22673,582 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "quantitative-aptitude-daily-2026-10-23-04",
+   "question": "What is the sum of the interior angles of a convex polygon having n sides?",
+   "options": [
+    "Mode = 3 Median - 2 Mean",
+    "e = 1",
+    "(a + b - ab/100)%",
+    "(n - 2) x 180 degrees"
+   ],
+   "answer": 3,
+   "explanation": "Any convex n-sided polygon can be partitioned into (n - 2) triangles from one vertex, giving a total interior angle sum of (n - 2) x 180 degrees.",
+   "topic": "Quantitative & Mathematical Concepts from Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "quantitative-aptitude-daily-2026-10-23-29",
+   "question": "In quantitative aptitude, what is the standard formula or value for 'New Average When a Member of Value 'Old' is Replaced by 'New' in a Group of n Members'?",
+   "options": [
+    "Net time to fill the cistern = (x * y) / (y - x) hours (when y > x)",
+    "A number is divisible by 9 (or 3) if and only if the sum of its digits is divisible by 9 (or 3)",
+    "New Average = Old Average + (New - Old) / n",
+    "[(p^(a+1) - 1) / (p - 1)] * [(q^(b+1) - 1) / (q - 1)]"
+   ],
+   "answer": 2,
+   "explanation": "New Average When a Member of Value 'Old' is Replaced by 'New' in a Group of n Members: New Average = Old Average + (New - Old) / n. Total sum changes by (New - Old), which distributes equally across all n members.",
+   "topic": "Quantitative Aptitude — Percentages, Interest, Work, Speed & Number Rules",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "quantitative-aptitude-daily-2026-10-23-54",
+   "question": "In quantitative aptitude exams, how is 'Speed of Boat in Still Water (u) and Speed of Stream (v) from Downstream (D) and Upstream (U) Speeds' calculated or expressed?",
+   "options": [
+    "N * (1 - 1/p1) * (1 - 1/p2) ... for distinct prime factors p1, p2, ...",
+    "u = (D + U) / 2 and v = (D - U) / 2",
+    "n (since their sum is n^2)",
+    "(x + y - (x * y) / 100)%"
+   ],
+   "answer": 1,
+   "explanation": "Speed of Boat in Still Water (u) and Speed of Stream (v) from Downstream (D) and Upstream (U) Speeds: u = (D + U) / 2 and v = (D - U) / 2 (since D = u + v and U = u - v, adding and subtracting gives boat speed and current speed).",
+   "topic": "Quantitative Aptitude — Commercial Arithmetic, Work, Time & Numbers",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "quantitative-aptitude-daily-2026-10-23-79",
+   "question": "In quantitative aptitude, what is the standard formula or value for 'Fractional Equivalent of 16 2/3 % (16.67%) and 83 1/3 % (83.33%)'?",
+   "options": [
+    "New Average = Old Average + (New - Old) / n",
+    "Period of 4 (unit digits repeat every 4th power; divide exponent by 4 to find the cycle position)",
+    "16 2/3 % = 1/6  and  83 1/3 % = 5/6",
+    "(S1 + S2) when moving in opposite directions; |S1 - S2| when moving in the same direction"
+   ],
+   "answer": 2,
+   "explanation": "Fractional Equivalent of 16 2/3 % (16.67%) and 83 1/3 % (83.33%): 16 2/3 % = 1/6  and  83 1/3 % = 5/6. Standard fraction-to-percentage conversion used for rapid commercial arithmetic.",
+   "topic": "Quantitative Aptitude — Percentages, Interest, Work, Speed & Number Rules",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "quantitative-aptitude-daily-2026-10-24-04",
+   "question": "In quantitative aptitude exams, how is 'Highest Power of a Prime p Dividing n! (Legendre's Formula)' calculated or expressed?",
+   "options": [
+    "(x * y * z) / (xy + yz + zx) days",
+    "floor(n / p) + floor(n / p^2) + floor(n / p^3) + ...",
+    "n (since their sum is n^2)",
+    "(a + 1)(b + 1)(c + 1)"
+   ],
+   "answer": 1,
+   "explanation": "Highest Power of a Prime p Dividing n! (Legendre's Formula): floor(n / p) + floor(n / p^2) + floor(n / p^3) + ... (used to count trailing zeros in n! by finding the exponent of prime 5 in n!).",
+   "topic": "Quantitative Aptitude — Commercial Arithmetic, Work, Time & Numbers",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "quantitative-aptitude-daily-2026-10-24-29",
+   "question": "In a triangle, what is the point of concurrency of the three medians — which divides each median in the ratio 2 : 1 — called?",
+   "options": [
+    "[P(B | A) x P(A)] / P(B)",
+    "Circumcentre (intersection of perpendicular bisectors)",
+    "Centroid",
+    "2"
+   ],
+   "answer": 2,
+   "explanation": "The three medians of a triangle intersect at the Centroid, which is the centre of mass of the triangle and divides each median in a 2 : 1 ratio from the vertex.",
+   "topic": "Quantitative & Mathematical Concepts from Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "quantitative-aptitude-daily-2026-10-24-54",
+   "question": "In quantitative aptitude, what is the standard formula or value for 'Relative Speed of Two Bodies Moving with Speeds S1 and S2'?",
+   "options": [
+    "[(p^(a+1) - 1) / (p - 1)] * [(q^(b+1) - 1) / (q - 1)]",
+    "If a sum becomes 2 times in T years under Compound Interest, it becomes 2^m times of itself in (m * T) years",
+    "16 2/3 % = 1/6  and  83 1/3 % = 5/6",
+    "(S1 + S2) when moving in opposite directions; |S1 - S2| when moving in the same direction"
+   ],
+   "answer": 3,
+   "explanation": "Relative Speed of Two Bodies Moving with Speeds S1 and S2: (S1 + S2) when moving in opposite directions; |S1 - S2| when moving in the same direction. Used for train overtaking, crossing and circular track meeting problems.",
+   "topic": "Quantitative Aptitude — Percentages, Interest, Work, Speed & Number Rules",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "quantitative-aptitude-daily-2026-10-24-79",
+   "question": "In quantitative aptitude exams, how is 'Ratio of Speeds of Two Trains Taking t1 and t2 Seconds to Reach Destination After Meeting Each Other' calculated or expressed?",
+   "options": [
+    "[R / (100 - R)] * 100%",
+    "Speed_1 : Speed_2 = sqrt(t2) : sqrt(t1)",
+    "Mean proportional = sqrt(a * b); Third proportional = b^2 / a",
+    "P * (R / 100)^2"
+   ],
+   "answer": 1,
+   "explanation": "Ratio of Speeds of Two Trains Taking t1 and t2 Seconds to Reach Destination After Meeting Each Other: Speed_1 : Speed_2 = sqrt(t2) : sqrt(t1) (if two trains start simultaneously from A and B and take t1, t2 after crossing, S1/S2 = sqrt(t2/t1)).",
+   "topic": "Quantitative Aptitude — Commercial Arithmetic, Work, Time & Numbers",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "quantitative-aptitude-daily-2026-10-25-04",
+   "question": "In quantitative aptitude exams, how is 'Combined Time Taken by A (alone in x days) and B (alone in y days) Working Together' calculated or expressed?",
+   "options": [
+    "(x * y) / (x + y) days",
+    "floor(n / p) + floor(n / p^2) + floor(n / p^3) + ...",
+    "Quantity of Cheaper : Quantity of Dearer = (d - m) : (m - c)",
+    "u = (D + U) / 2 and v = (D - U) / 2"
+   ],
+   "answer": 0,
+   "explanation": "Combined Time Taken by A (alone in x days) and B (alone in y days) Working Together: (x * y) / (x + y) days (their combined 1-day work is 1/x + 1/y = (x + y)/(xy)).",
+   "topic": "Quantitative Aptitude — Commercial Arithmetic, Work, Time & Numbers",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "quantitative-aptitude-daily-2026-10-25-29",
+   "question": "In any triangle, which point is equidistant from all three vertices and serves as the centre of the circle passing through those vertices?",
+   "options": [
+    "Circumcentre (intersection of perpendicular bisectors)",
+    "(n - 2) x 180 degrees",
+    "PT^2 = PA x PB",
+    "GM^2 = AM x HM (with AM >= GM >= HM)"
+   ],
+   "answer": 0,
+   "explanation": "The perpendicular bisectors of the three sides of a triangle meet at the Circumcentre, which is equidistant from the three vertices.",
+   "topic": "Quantitative & Mathematical Concepts from Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "quantitative-aptitude-daily-2026-10-25-54",
+   "question": "In quantitative aptitude, what is the standard formula or value for 'Divisibility Rule for 11 in Number System'?",
+   "options": [
+    "New Average = Old Average + (New - Old) / n",
+    "11 1/9 % = 1/9  and  9 1/11 % = 1/11",
+    "Marked Price : Cost Price = (100 + p) : (100 - d)",
+    "The difference between the sum of digits at odd places and the sum of digits at even places is 0 or a multiple of 11"
+   ],
+   "answer": 3,
+   "explanation": "Divisibility Rule for 11 in Number System: The difference between the sum of digits at odd places and the sum of digits at even places is 0 or a multiple of 11. Because 10 == -1 (mod 11), alternating powers of 10 alternate in sign modulo 11.",
+   "topic": "Quantitative Aptitude — Percentages, Interest, Work, Speed & Number Rules",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "quantitative-aptitude-daily-2026-10-25-79",
+   "question": "In quantitative aptitude exams, how is 'Dishonest Dealer Profit Percentage Using False Weight F instead of True Weight T (at cost price)' calculated or expressed?",
+   "options": [
+    "[(T - F) / F] * 100%",
+    "[R / (100 - R)] * 100%",
+    "V * (1 - r / V)^n units",
+    "Mean proportional = sqrt(a * b); Third proportional = b^2 / a"
+   ],
+   "answer": 0,
+   "explanation": "Dishonest Dealer Profit Percentage Using False Weight F instead of True Weight T (at cost price): [(T - F) / F] * 100% (gain is always calculated on the actual quantity F parted with by the shopkeeper).",
+   "topic": "Quantitative Aptitude — Commercial Arithmetic, Work, Time & Numbers",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "quantitative-aptitude-daily-2026-10-26-04",
+   "question": "In quantitative aptitude, what is the standard formula or value for 'Fractional Equivalent of 11 1/9 % (11.11%) and 9 1/11 % (9.09%)'?",
+   "options": [
+    "1 km/hr = 5/18 m/s  and  1 m/s = 18/5 km/hr",
+    "A number is divisible by 9 (or 3) if and only if the sum of its digits is divisible by 9 (or 3)",
+    "New Average = Old Average + (New - Old) / n",
+    "11 1/9 % = 1/9  and  9 1/11 % = 1/11"
+   ],
+   "answer": 3,
+   "explanation": "Fractional Equivalent of 11 1/9 % (11.11%) and 9 1/11 % (9.09%): 11 1/9 % = 1/9  and  9 1/11 % = 1/11. Reciprocal percentage pair based on 9 * 11 = 99.",
+   "topic": "Quantitative Aptitude — Percentages, Interest, Work, Speed & Number Rules",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "quantitative-aptitude-daily-2026-10-26-29",
+   "question": "If two chords AB and CD of a circle intersect internally at point P, which geometric relation always holds true?",
+   "options": [
+    "Centroid",
+    "PA x PB = PC x PD",
+    "GM^2 = AM x HM (with AM >= GM >= HM)",
+    "(n - 2) x 180 degrees"
+   ],
+   "answer": 1,
+   "explanation": "By the Intersecting Chords Theorem (Power of a Point), when two chords AB and CD intersect at P, the products of their segments are equal: PA x PB = PC x PD.",
+   "topic": "Quantitative & Mathematical Concepts from Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "quantitative-aptitude-daily-2026-10-26-54",
+   "question": "In quantitative aptitude exams, how is 'Combined Time Taken by Three Workers A, B and C (alone in x, y and z days respectively)' calculated or expressed?",
+   "options": [
+    "Always a net loss of (x^2 / 100)%",
+    "(x * y * z) / (xy + yz + zx) days",
+    "[(T - F) / F] * 100%",
+    "n + 1 (since their sum is n(n + 1))"
+   ],
+   "answer": 1,
+   "explanation": "Combined Time Taken by Three Workers A, B and C (alone in x, y and z days respectively): (x * y * z) / (xy + yz + zx) days (the reciprocal of the sum of their individual daily work rates 1/x + 1/y + 1/z).",
+   "topic": "Quantitative Aptitude — Commercial Arithmetic, Work, Time & Numbers",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "quantitative-aptitude-daily-2026-10-26-79",
+   "question": "What is the relation between the Arithmetic Mean (AM), Geometric Mean (GM) and Harmonic Mean (HM) of two positive real numbers?",
+   "options": [
+    "PA x PB = PC x PD",
+    "P x (r / 100)^2",
+    "GM^2 = AM x HM (with AM >= GM >= HM)",
+    "[P(B | A) x P(A)] / P(B)"
+   ],
+   "answer": 2,
+   "explanation": "For any two positive numbers a and b, AM = (a+b)/2, GM = sqrt(ab) and HM = 2ab/(a+b), satisfying GM^2 = AM x HM and the inequality AM >= GM >= HM.",
+   "topic": "Quantitative & Mathematical Concepts from Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "quantitative-aptitude-daily-2026-10-27-04",
+   "question": "In quantitative aptitude, what is the standard formula or value for 'Compound Ratio and Duplicate / Sub-duplicate Ratios of a : b'?",
+   "options": [
+    "Net time to fill the cistern = (x * y) / (y - x) hours (when y > x)",
+    "16 2/3 % = 1/6  and  83 1/3 % = 5/6",
+    "Duplicate ratio = a^2 : b^2;  Sub-duplicate ratio = sqrt(a) : sqrt(b);  Triplicate ratio = a^3 : b^3",
+    "[(p^(a+1) - 1) / (p - 1)] * [(q^(b+1) - 1) / (q - 1)]"
+   ],
+   "answer": 2,
+   "explanation": "Compound Ratio and Duplicate / Sub-duplicate Ratios of a : b: Duplicate ratio = a^2 : b^2;  Sub-duplicate ratio = sqrt(a) : sqrt(b);  Triplicate ratio = a^3 : b^3. Standard ratio terminology tested in competitive aptitude exams.",
+   "topic": "Quantitative Aptitude — Percentages, Interest, Work, Speed & Number Rules",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "quantitative-aptitude-daily-2026-10-27-29",
+   "question": "What is the eccentricity (e) of a standard parabola in conic sections?",
+   "options": [
+    "e = 1",
+    "(a + b - ab/100)%",
+    "2",
+    "P x (r / 100)^2"
+   ],
+   "answer": 0,
+   "explanation": "A conic section is a circle when e = 0, an ellipse when 0 < e < 1, a parabola when e = 1, and a hyperbola when e > 1.",
+   "topic": "Quantitative & Mathematical Concepts from Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "quantitative-aptitude-daily-2026-10-27-54",
+   "question": "In quantitative aptitude exams, how is 'Average of the First n Consecutive Even Natural Numbers (2, 4, 6, ..., 2n)' calculated or expressed?",
+   "options": [
+    "(x + y - (x * y) / 100)%",
+    "n + 1 (since their sum is n(n + 1))",
+    "floor(n / p) + floor(n / p^2) + floor(n / p^3) + ...",
+    "Mean proportional = sqrt(a * b); Third proportional = b^2 / a"
+   ],
+   "answer": 1,
+   "explanation": "Average of the First n Consecutive Even Natural Numbers (2, 4, 6, ..., 2n): n + 1 (since their sum is n(n + 1)) (the sum of the first n even positive integers is n(n + 1), giving an average of n + 1).",
+   "topic": "Quantitative Aptitude — Commercial Arithmetic, Work, Time & Numbers",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "quantitative-aptitude-daily-2026-10-27-79",
+   "question": "In quantitative aptitude, what is the standard formula or value for 'Divisibility Rule for 9 and 3 in Number System'?",
+   "options": [
+    "14 2/7 % = 1/7  and  28 4/7 % = 2/7",
+    "A number is divisible by 9 (or 3) if and only if the sum of its digits is divisible by 9 (or 3)",
+    "If a sum becomes 2 times in T years under Compound Interest, it becomes 2^m times of itself in (m * T) years",
+    "16 2/3 % = 1/6  and  83 1/3 % = 5/6"
+   ],
+   "answer": 1,
+   "explanation": "Divisibility Rule for 9 and 3 in Number System: A number is divisible by 9 (or 3) if and only if the sum of its digits is divisible by 9 (or 3). Follows from 10^k == 1 (mod 9) for all non-negative integers k.",
+   "topic": "Quantitative Aptitude — Percentages, Interest, Work, Speed & Number Rules",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "quantitative-aptitude-daily-2026-10-28-04",
+   "question": "In quantitative aptitude exams, how is 'Net Equivalent Single Discount for Two Successive Discounts of x% and y%' calculated or expressed?",
+   "options": [
+    "[R / (100 - R)] * 100%",
+    "floor(n / p) + floor(n / p^2) + floor(n / p^3) + ...",
+    "[R / (100 + R)] * 100%",
+    "(x + y - (x * y) / 100)%"
+   ],
+   "answer": 3,
+   "explanation": "Net Equivalent Single Discount for Two Successive Discounts of x% and y%: (x + y - (x * y) / 100)% (because the second discount y% applies to the already reduced price (100 - x)).",
+   "topic": "Quantitative Aptitude — Commercial Arithmetic, Work, Time & Numbers",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "quantitative-aptitude-daily-2026-10-28-29",
+   "question": "In quantitative aptitude, what is the standard formula or value for 'Fractional Equivalent of 12.5%, 37.5%, 62.5% and 87.5%'?",
+   "options": [
+    "(S1 + S2) when moving in opposite directions; |S1 - S2| when moving in the same direction",
+    "Period of 4 (unit digits repeat every 4th power; divide exponent by 4 to find the cycle position)",
+    "12.5% = 1/8,  37.5% = 3/8,  62.5% = 5/8,  87.5% = 7/8",
+    "(r + (r^2 / 400))% per annum (since the half-yearly rate is r/2 % applied twice)"
+   ],
+   "answer": 2,
+   "explanation": "Fractional Equivalent of 12.5%, 37.5%, 62.5% and 87.5%: 12.5% = 1/8,  37.5% = 3/8,  62.5% = 5/8,  87.5% = 7/8. Multiples of one-eighth (12.5%) in percentage calculations.",
+   "topic": "Quantitative Aptitude — Percentages, Interest, Work, Speed & Number Rules",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "quantitative-aptitude-daily-2026-10-28-54",
+   "question": "In quantitative aptitude, what is the standard formula or value for 'Unit Digit Cyclicity of Powers of 2, 3, 7 and 8'?",
+   "options": [
+    "Net time to fill the cistern = (x * y) / (y - x) hours (when y > x)",
+    "The difference between the sum of digits at odd places and the sum of digits at even places is 0 or a multiple of 11",
+    "12.5% = 1/8,  37.5% = 3/8,  62.5% = 5/8,  87.5% = 7/8",
+    "Period of 4 (unit digits repeat every 4th power; divide exponent by 4 to find the cycle position)"
+   ],
+   "answer": 3,
+   "explanation": "Unit Digit Cyclicity of Powers of 2, 3, 7 and 8: Period of 4 (unit digits repeat every 4th power; divide exponent by 4 to find the cycle position). Whereas digits 0, 1, 5, 6 always retain the same unit digit, and 4 and 9 have a cyclicity of 2.",
+   "topic": "Quantitative Aptitude — Percentages, Interest, Work, Speed & Number Rules",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "quantitative-aptitude-daily-2026-10-28-79",
+   "question": "In quantitative aptitude exams, how is 'Mean Proportional and Third Proportional to Two Positive Numbers a and b' calculated or expressed?",
+   "options": [
+    "Mean proportional = sqrt(a * b); Third proportional = b^2 / a",
+    "V * (1 - r / V)^n units",
+    "Always a net loss of (x^2 / 100)%",
+    "(x * y) / (x + y) days"
+   ],
+   "answer": 0,
+   "explanation": "Mean Proportional and Third Proportional to Two Positive Numbers a and b: Mean proportional = sqrt(a * b); Third proportional = b^2 / a (from a : x :: x : b (so x^2 = ab) and a : b :: b : y (so y = b^2/a)).",
+   "topic": "Quantitative Aptitude — Commercial Arithmetic, Work, Time & Numbers",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "quantitative-aptitude-daily-2026-10-29-04",
+   "question": "In quantitative aptitude, what is the standard formula or value for 'Fractional Equivalent of 14 2/7 % (14.28%) and 28 4/7 % (28.57%)'?",
+   "options": [
+    "(S1 + S2) when moving in opposite directions; |S1 - S2| when moving in the same direction",
+    "A number is divisible by 9 (or 3) if and only if the sum of its digits is divisible by 9 (or 3)",
+    "If a sum becomes 2 times in T years under Compound Interest, it becomes 2^m times of itself in (m * T) years",
+    "14 2/7 % = 1/7  and  28 4/7 % = 2/7"
+   ],
+   "answer": 3,
+   "explanation": "Fractional Equivalent of 14 2/7 % (14.28%) and 28 4/7 % (28.57%): 14 2/7 % = 1/7  and  28 4/7 % = 2/7. Derived from 100 / 7 = 14 2/7.",
+   "topic": "Quantitative Aptitude — Percentages, Interest, Work, Speed & Number Rules",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "quantitative-aptitude-daily-2026-10-29-29",
+   "question": "In quantitative aptitude, what is the standard formula or value for 'Chain Rule of Work Equivalence (M1 Men, D1 Days, H1 Hours/Day, Work W1)'?",
+   "options": [
+    "[(x - y) / y] * 100% (profit when x > y; loss when x < y)",
+    "Net time to fill the cistern = (x * y) / (y - x) hours (when y > x)",
+    "Duplicate ratio = a^2 : b^2;  Sub-duplicate ratio = sqrt(a) : sqrt(b);  Triplicate ratio = a^3 : b^3",
+    "(M1 * D1 * H1) / W1 = (M2 * D2 * H2) / W2"
+   ],
+   "answer": 3,
+   "explanation": "Chain Rule of Work Equivalence (M1 Men, D1 Days, H1 Hours/Day, Work W1): (M1 * D1 * H1) / W1 = (M2 * D2 * H2) / W2. Total man-hours expended is directly proportional to the amount of work completed.",
+   "topic": "Quantitative Aptitude — Percentages, Interest, Work, Speed & Number Rules",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "quantitative-aptitude-daily-2026-10-29-54",
+   "question": "In quantitative aptitude exams, how is 'Euler's Totient Function phi(N) for Count of Integers <= N Coprime to N' calculated or expressed?",
+   "options": [
+    "N * (1 - 1/p1) * (1 - 1/p2) ... for distinct prime factors p1, p2, ...",
+    "u = (D + U) / 2 and v = (D - U) / 2",
+    "Speed_1 : Speed_2 = sqrt(t2) : sqrt(t1)",
+    "(x + y - (x * y) / 100)%"
+   ],
+   "answer": 0,
+   "explanation": "Euler's Totient Function phi(N) for Count of Integers <= N Coprime to N: N * (1 - 1/p1) * (1 - 1/p2) ... for distinct prime factors p1, p2, ... (used in modular arithmetic to find remainders of large powers via Euler's theorem).",
+   "topic": "Quantitative Aptitude — Commercial Arithmetic, Work, Time & Numbers",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "quantitative-aptitude-daily-2026-10-29-79",
+   "question": "In quantitative aptitude exams, how is 'Time Taken by a Train of Length L_1 at Speed S to Cross a Platform or Bridge of Length L_2' calculated or expressed?",
+   "options": [
+    "[R / (100 - R)] * 100%",
+    "(L_1 + L_2) / S",
+    "(x * y * z) / (xy + yz + zx) days",
+    "[(T - F) / F] * 100%"
+   ],
+   "answer": 1,
+   "explanation": "Time Taken by a Train of Length L_1 at Speed S to Cross a Platform or Bridge of Length L_2: (L_1 + L_2) / S (the train must cover its own length plus the full length of the platform).",
+   "topic": "Quantitative Aptitude — Commercial Arithmetic, Work, Time & Numbers",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "quantitative-aptitude-daily-2026-10-30-04",
+   "question": "What is the difference between Compound Interest (CI) and Simple Interest (SI) on a principal P at r% per annum for 2 years (compounded annually)?",
+   "options": [
+    "Circumcentre (intersection of perpendicular bisectors)",
+    "P x (r / 100)^2",
+    "[P(B | A) x P(A)] / P(B)",
+    "2"
+   ],
+   "answer": 1,
+   "explanation": "For 2 years, SI = 2Pr/100 and CI = P[(1 + r/100)^2 - 1] = 2Pr/100 + P(r/100)^2, so CI - SI = P(r/100)^2.",
+   "topic": "Quantitative & Mathematical Concepts from Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "quantitative-aptitude-daily-2026-10-30-29",
+   "question": "In quantitative aptitude exams, how is 'Percentage Reduction in Consumption Needed to Keep Expenditure Unchanged After an R% Price Rise' calculated or expressed?",
+   "options": [
+    "n (since their sum is n^2)",
+    "Quantity of Cheaper : Quantity of Dearer = (d - m) : (m - c)",
+    "[R / (100 + R)] * 100%",
+    "[(T - F) / F] * 100%"
+   ],
+   "answer": 2,
+   "explanation": "Percentage Reduction in Consumption Needed to Keep Expenditure Unchanged After an R% Price Rise: [R / (100 + R)] * 100% (since Price * Consumption = Constant, multiplying by 100/(100+R) offsets an R% increase).",
+   "topic": "Quantitative Aptitude — Commercial Arithmetic, Work, Time & Numbers",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "quantitative-aptitude-daily-2026-10-30-54",
+   "question": "In quantitative aptitude, what is the standard formula or value for 'Markup Percentage Needed to Earn p% Profit After Allowing d% Discount on Marked Price'?",
+   "options": [
+    "(r + (r^2 / 400))% per annum (since the half-yearly rate is r/2 % applied twice)",
+    "If a sum becomes 2 times in T years under Compound Interest, it becomes 2^m times of itself in (m * T) years",
+    "Marked Price : Cost Price = (100 + p) : (100 - d)",
+    "[(p^(a+1) - 1) / (p - 1)] * [(q^(b+1) - 1) / (q - 1)]"
+   ],
+   "answer": 2,
+   "explanation": "Markup Percentage Needed to Earn p% Profit After Allowing d% Discount on Marked Price: Marked Price : Cost Price = (100 + p) : (100 - d). Since SP = MP * (100 - d)/100 = CP * (100 + p)/100, the ratio MP/CP is always (100 + p)/(100 - d).",
+   "topic": "Quantitative Aptitude — Percentages, Interest, Work, Speed & Number Rules",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "quantitative-aptitude-daily-2026-10-30-79",
+   "question": "In quantitative aptitude exams, how is 'Percentage Increase in Consumption Allowed to Keep Expenditure Unchanged After an R% Price Drop' calculated or expressed?",
+   "options": [
+    "n (since their sum is n^2)",
+    "Quantity of Cheaper : Quantity of Dearer = (d - m) : (m - c)",
+    "u = (D + U) / 2 and v = (D - U) / 2",
+    "[R / (100 - R)] * 100%"
+   ],
+   "answer": 3,
+   "explanation": "Percentage Increase in Consumption Allowed to Keep Expenditure Unchanged After an R% Price Drop: [R / (100 - R)] * 100% (offsets a price factor of (100 - R)/100 so total outlay remains constant).",
+   "topic": "Quantitative Aptitude — Commercial Arithmetic, Work, Time & Numbers",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "quantitative-aptitude-daily-2026-10-31-04",
+   "question": "In quantitative aptitude exams, how is 'Remaining Pure Liquid After n Repeated Replacements of r Litres from a Vessel of Capacity V' calculated or expressed?",
+   "options": [
+    "N * (1 - 1/p1) * (1 - 1/p2) ... for distinct prime factors p1, p2, ...",
+    "(x * y) / (x + y) days",
+    "V * (1 - r / V)^n units",
+    "floor(n / p) + floor(n / p^2) + floor(n / p^3) + ..."
+   ],
+   "answer": 2,
+   "explanation": "Remaining Pure Liquid After n Repeated Replacements of r Litres from a Vessel of Capacity V: V * (1 - r / V)^n units (each draw removes a fraction r/V of the pure liquid remaining at that step).",
+   "topic": "Quantitative Aptitude — Commercial Arithmetic, Work, Time & Numbers",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "quantitative-aptitude-daily-2026-10-31-29",
+   "question": "In quantitative aptitude exams, how is 'Difference Between Compound Interest and Simple Interest for 2 Years on Principal P at R% p.a.' calculated or expressed?",
+   "options": [
+    "(x * y) / (x + y) days",
+    "Always a net loss of (x^2 / 100)%",
+    "P * (R / 100)^2",
+    "u = (D + U) / 2 and v = (D - U) / 2"
+   ],
+   "answer": 2,
+   "explanation": "Difference Between Compound Interest and Simple Interest for 2 Years on Principal P at R% p.a.: P * (R / 100)^2 (represents the interest earned in the second year on the first year's interest).",
+   "topic": "Quantitative Aptitude — Commercial Arithmetic, Work, Time & Numbers",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "quantitative-aptitude-daily-2026-10-31-54",
+   "question": "According to Euler's polyhedron formula for any convex polyhedron with V vertices, E edges and F faces, what is the value of V - E + F?",
+   "options": [
+    "[P(B | A) x P(A)] / P(B)",
+    "2",
+    "P x (r / 100)^2",
+    "e = 1"
+   ],
+   "answer": 1,
+   "explanation": "Euler's characteristic for any convex polyhedron states that Vertices (V) minus Edges (E) plus Faces (F) always equals 2 (for example, a cube has 8 - 12 + 6 = 2).",
+   "topic": "Quantitative & Mathematical Concepts from Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "quantitative-aptitude-daily-2026-10-31-79",
+   "question": "In quantitative aptitude, what is the standard formula or value for 'Divisibility Rule for 8 and 16 in Number System'?",
+   "options": [
+    "Divisible by 8 if the last 3 digits form a number divisible by 8; divisible by 16 if the last 4 digits are divisible by 16",
+    "1 km/hr = 5/18 m/s  and  1 m/s = 18/5 km/hr",
+    "A number is divisible by 9 (or 3) if and only if the sum of its digits is divisible by 9 (or 3)",
+    "(r + (r^2 / 400))% per annum (since the half-yearly rate is r/2 % applied twice)"
+   ],
+   "answer": 0,
+   "explanation": "Divisibility Rule for 8 and 16 in Number System: Divisible by 8 if the last 3 digits form a number divisible by 8; divisible by 16 if the last 4 digits are divisible by 16. Because 10^3 = 1000 is divisible by 8 and 10^4 = 10000 is divisible by 16.",
+   "topic": "Quantitative Aptitude — Percentages, Interest, Work, Speed & Number Rules",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
   }
  ]
 };

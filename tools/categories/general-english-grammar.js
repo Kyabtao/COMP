@@ -12,7 +12,7 @@
   "banking"
  ],
  "blurb": "Voice, narration, articles, prepositions and error spotting.",
- "count": 284,
+ "count": 320,
  "questions": [
   {
    "id": "general-english-grammar-00001",
@@ -4277,6 +4277,582 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "general-english-grammar-daily-2026-10-23-09",
+   "question": "In competitive English grammar, what is the standard rule regarding 'Plural-Looking Subjects that are Singular (Mathematics, Physics, Economics, Politics, Measles, Billiards, News)'?",
+   "options": [
+    "For positive or neutral statements with singular pronouns, the order is Second person -> Third person -> First person (2-3-1: 'You, he and I are partners'); for confessing a fault or plural pronouns, the order is 1-2-3 ('I, you and he are to blame')",
+    "Take a plural verb ('My spectacles are missing'), unless preceded by 'A pair of', which takes a singular verb ('A pair of spectacles was bought')",
+    "Take a singular verb when referring to the academic discipline, disease, game or 'news' (e.g., 'Physics is a fascinating subject; The news is true')",
+    "Nouns like information, advice, furniture, luggage, baggage, scenery, poetry, machinery and stationery are uncountable singulars; they never take '-s' or 'a/an' directly"
+   ],
+   "answer": 2,
+   "explanation": "Plural-Looking Subjects that are Singular (Mathematics, Physics, Economics, Politics, Measles, Billiards, News): Take a singular verb when referring to the academic discipline, disease, game or 'news' (e.g., 'Physics is a fascinating subject; The news is true') (when preceded by a possessive like 'His mathematics are weak', they refer to calculations and take a plural verb).",
+   "topic": "English Grammar — Voice, Narration, Tenses & Modifiers",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "general-english-grammar-daily-2026-10-23-34",
+   "question": "In English grammar, choose the appropriate preposition to complete the sentence: 'He is blind ____ one eye.'",
+   "options": [
+    "at",
+    "on",
+    "in",
+    "to"
+   ],
+   "answer": 2,
+   "explanation": "The grammatically correct preposition in 'He is blind ____ one eye.' is 'in'.",
+   "topic": "General English Grammar — Prepositional Usage",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "general-english-grammar-daily-2026-10-23-59",
+   "question": "In standard English grammar for competitive exams: What is the passive form of 'They have finished the work'?",
+   "options": [
+    "Or",
+    "Past perfect tense",
+    "School",
+    "The work has been finished by them"
+   ],
+   "answer": 3,
+   "explanation": "Grammar rule: What is the passive form of 'They have finished the work'? — The work has been finished by them.",
+   "topic": "General English Grammar — Rules & Sentence Correction",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "general-english-grammar-daily-2026-10-23-84",
+   "question": "In standard English grammar, what is the correct plural form of the singular noun 'Matrix'?",
+   "options": [
+    "Babies",
+    "Armies",
+    "Vertices",
+    "Matrices"
+   ],
+   "answer": 3,
+   "explanation": "The plural form of 'Matrix' is 'Matrices'.",
+   "topic": "General English Grammar — Singular & Plural Nouns",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "general-english-grammar-daily-2026-10-24-09",
+   "question": "In English grammar, what is the superlative form of the adjective 'Weak' (comparative: 'Weaker')?",
+   "options": [
+    "Thinnest",
+    "Shallowest",
+    "Weakest",
+    "Narrowest"
+   ],
+   "answer": 2,
+   "explanation": "Positive: Weak, Comparative: Weaker, Superlative: Weakest.",
+   "topic": "General English Grammar — Degrees of Comparison, Plurals & Gender",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "general-english-grammar-daily-2026-10-24-34",
+   "question": "In English grammar, choose the appropriate preposition to complete the sentence: 'The old man died ____ his illness.'",
+   "options": [
+    "to",
+    "of",
+    "in",
+    "with"
+   ],
+   "answer": 1,
+   "explanation": "The grammatically correct preposition in 'The old man died ____ his illness.' is 'of'.",
+   "topic": "General English Grammar — Prepositional Usage",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "general-english-grammar-daily-2026-10-24-59",
+   "question": "Which correlative conjunction pair must strictly follow 'Scarcely' or 'Hardly' in standard English grammar?",
+   "options": [
+    "when / before (never 'than')",
+    "Simple past tense (past subjunctive, e.g., 'It is high time we started')",
+    "The first (main) subject",
+    "If + Past Perfect (had + V3), ... would have + Past Participle (V3)"
+   ],
+   "answer": 0,
+   "explanation": "'Hardly' and 'Scarcely' are paired with 'when' or 'before' (e.g., 'Hardly had he reached the station when the train departed'), whereas 'No sooner' takes 'than'.",
+   "topic": "General English Grammar Rules in Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "general-english-grammar-daily-2026-10-24-84",
+   "question": "In standard English grammar for competitive exams: Which conjunction pairs with 'neither'?",
+   "options": [
+    "Constellation",
+    "Nor",
+    "The work has been finished by them",
+    "Colon"
+   ],
+   "answer": 1,
+   "explanation": "Grammar rule: Which conjunction pairs with 'neither'? — Nor.",
+   "topic": "General English Grammar — Rules & Sentence Correction",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "general-english-grammar-daily-2026-10-25-09",
+   "question": "In English grammar, what is the superlative form of the adjective 'Gentle' (comparative: 'Gentler')?",
+   "options": [
+    "Heaviest",
+    "Shallowest",
+    "Gentlest",
+    "Longest"
+   ],
+   "answer": 2,
+   "explanation": "Positive: Gentle, Comparative: Gentler, Superlative: Gentlest.",
+   "topic": "General English Grammar — Degrees of Comparison, Plurals & Gender",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "general-english-grammar-daily-2026-10-25-34",
+   "question": "After the phrase 'It is high time' or 'It is about time' followed by a subject, which verb tense is grammatically required?",
+   "options": [
+    "Simple past tense (past subjunctive, e.g., 'It is high time we started')",
+    "The verb agrees in number and person with the nearer subject (Rule of Proximity)",
+    "when / before (never 'than')",
+    "to (never 'than')"
+   ],
+   "answer": 0,
+   "explanation": "After 'It is time / It is high time + subject', English grammar uses the simple past form to express an action that should already have taken place.",
+   "topic": "General English Grammar Rules in Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "general-english-grammar-daily-2026-10-25-59",
+   "question": "In English grammar, choose the appropriate preposition to complete the sentence: 'I am confident ____ success.'",
+   "options": [
+    "of",
+    "with",
+    "in",
+    "to"
+   ],
+   "answer": 0,
+   "explanation": "The grammatically correct preposition in 'I am confident ____ success.' is 'of'.",
+   "topic": "General English Grammar — Prepositional Usage",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "general-english-grammar-daily-2026-10-25-84",
+   "question": "In standard English grammar, what is the correct plural form of the singular noun 'Index'?",
+   "options": [
+    "Calves",
+    "Indices",
+    "Lookers-on",
+    "Geese"
+   ],
+   "answer": 1,
+   "explanation": "The plural form of 'Index' is 'Indices'.",
+   "topic": "General English Grammar — Singular & Plural Nouns",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "general-english-grammar-daily-2026-10-26-09",
+   "question": "In competitive English grammar, what is the standard rule regarding 'Order of Personal Pronouns (231 Rule vs 123 Rule)'?",
+   "options": [
+    "For positive or neutral statements with singular pronouns, the order is Second person -> Third person -> First person (2-3-1: 'You, he and I are partners'); for confessing a fault or plural pronouns, the order is 1-2-3 ('I, you and he are to blame')",
+    "The question tag for 'I am ...' is 'aren't I?' (negative) or 'am I?' (for 'I am not'); the tag for 'Let us / Let's ...' is 'shall we?'",
+    "'Unless' (condition) and 'Until' (time) already carry a negative meaning, so the clause immediately following them must never contain 'not' or future tense 'will'",
+    "Uses 'were' for all persons to express an unreal present state ('He talks as if he were the boss; I wish I were a bird') and 'had + V3' for an unreal past state"
+   ],
+   "answer": 0,
+   "explanation": "Order of Personal Pronouns (231 Rule vs 123 Rule): For positive or neutral statements with singular pronouns, the order is Second person -> Third person -> First person (2-3-1: 'You, he and I are partners'); for confessing a fault or plural pronouns, the order is 1-2-3 ('I, you and he are to blame') (standard pronoun ordering rule in SSC and Banking English).",
+   "topic": "English Grammar — Voice, Narration, Tenses & Modifiers",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "general-english-grammar-daily-2026-10-26-34",
+   "question": "In English grammar, what is the superlative form of the adjective 'Good' (comparative: 'Better')?",
+   "options": [
+    "Best",
+    "Cleverest",
+    "Shallowest",
+    "Fastest"
+   ],
+   "answer": 0,
+   "explanation": "Positive: Good, Comparative: Better, Superlative: Best.",
+   "topic": "General English Grammar — Degrees of Comparison, Plurals & Gender",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "general-english-grammar-daily-2026-10-26-59",
+   "question": "In standard English grammar for competitive exams: What is the tense of 'He has gone'?",
+   "options": [
+    "Question mark",
+    "Strengthen",
+    "Uncountable noun",
+    "Present perfect"
+   ],
+   "answer": 3,
+   "explanation": "Grammar rule: What is the tense of 'He has gone'? — Present perfect.",
+   "topic": "General English Grammar — Rules & Sentence Correction",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "general-english-grammar-daily-2026-10-26-84",
+   "question": "In standard English grammar, what is the correct plural form of the singular noun 'Calf'?",
+   "options": [
+    "Series",
+    "Calves",
+    "Brushes",
+    "Women"
+   ],
+   "answer": 1,
+   "explanation": "The plural form of 'Calf' is 'Calves'.",
+   "topic": "General English Grammar — Singular & Plural Nouns",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "general-english-grammar-daily-2026-10-27-09",
+   "question": "In standard English grammar, what is the correct plural form of the singular noun 'Echo'?",
+   "options": [
+    "Echoes",
+    "Potatoes",
+    "Volcanoes",
+    "Shelves"
+   ],
+   "answer": 0,
+   "explanation": "The plural form of 'Echo' is 'Echoes'.",
+   "topic": "General English Grammar — Singular & Plural Nouns",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "general-english-grammar-daily-2026-10-27-34",
+   "question": "In English grammar, what is the superlative form of the adjective 'Fat' (comparative: 'Fatter')?",
+   "options": [
+    "Heaviest",
+    "Strongest",
+    "Finest",
+    "Fattest"
+   ],
+   "answer": 3,
+   "explanation": "Positive: Fat, Comparative: Fatter, Superlative: Fattest.",
+   "topic": "General English Grammar — Degrees of Comparison, Plurals & Gender",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "general-english-grammar-daily-2026-10-27-59",
+   "question": "In English grammar, choose the appropriate preposition to complete the sentence: 'The book is ____ the table.'",
+   "options": [
+    "of",
+    "from",
+    "on",
+    "with"
+   ],
+   "answer": 2,
+   "explanation": "The grammatically correct preposition in 'The book is ____ the table.' is 'on'.",
+   "topic": "General English Grammar — Prepositional Usage",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "general-english-grammar-daily-2026-10-27-84",
+   "question": "In standard English grammar for competitive exams: What is the collective noun for a group of flowers?",
+   "options": [
+    "Worst",
+    "Subject",
+    "Thought",
+    "Bouquet"
+   ],
+   "answer": 3,
+   "explanation": "Grammar rule: What is the collective noun for a group of flowers? — Bouquet.",
+   "topic": "General English Grammar — Rules & Sentence Correction",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "general-english-grammar-daily-2026-10-28-09",
+   "question": "In standard English grammar for competitive exams: What is the past participle of 'write'?",
+   "options": [
+    "She said that she would come the next day",
+    "Present perfect",
+    "Written",
+    "An"
+   ],
+   "answer": 2,
+   "explanation": "Grammar rule: What is the past participle of 'write'? — Written.",
+   "topic": "General English Grammar — Rules & Sentence Correction",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "general-english-grammar-daily-2026-10-28-34",
+   "question": "In English grammar, what is the superlative form of the adjective 'Shallow' (comparative: 'Shallower')?",
+   "options": [
+    "Farthest",
+    "Most intelligent",
+    "Shallowest",
+    "Brightest"
+   ],
+   "answer": 2,
+   "explanation": "Positive: Shallow, Comparative: Shallower, Superlative: Shallowest.",
+   "topic": "General English Grammar — Degrees of Comparison, Plurals & Gender",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "general-english-grammar-daily-2026-10-28-59",
+   "question": "In English grammar, choose the appropriate preposition to complete the sentence: 'He is well versed ____ Sanskrit.'",
+   "options": [
+    "from",
+    "in",
+    "with",
+    "on"
+   ],
+   "answer": 1,
+   "explanation": "The grammatically correct preposition in 'He is well versed ____ Sanskrit.' is 'in'.",
+   "topic": "General English Grammar — Prepositional Usage",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "general-english-grammar-daily-2026-10-28-84",
+   "question": "In standard English grammar, what is the correct plural form of the singular noun 'Analysis'?",
+   "options": [
+    "Thieves",
+    "Deer",
+    "Wolves",
+    "Analyses"
+   ],
+   "answer": 3,
+   "explanation": "The plural form of 'Analysis' is 'Analyses'.",
+   "topic": "General English Grammar — Singular & Plural Nouns",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "general-english-grammar-daily-2026-10-29-09",
+   "question": "In standard English grammar, what is the correct plural form of the singular noun 'Roof'?",
+   "options": [
+    "Stimuli",
+    "Roofs",
+    "Feet",
+    "Loaves"
+   ],
+   "answer": 1,
+   "explanation": "The plural form of 'Roof' is 'Roofs'.",
+   "topic": "General English Grammar — Singular & Plural Nouns",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "general-english-grammar-daily-2026-10-29-34",
+   "question": "In English grammar, choose the appropriate preposition to complete the sentence: 'He is accustomed ____ hard work.'",
+   "options": [
+    "for",
+    "to",
+    "into",
+    "of"
+   ],
+   "answer": 1,
+   "explanation": "The grammatically correct preposition in 'He is accustomed ____ hard work.' is 'to'.",
+   "topic": "General English Grammar — Prepositional Usage",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "general-english-grammar-daily-2026-10-29-59",
+   "question": "In competitive English grammar, what is the standard rule regarding 'Direct to Indirect Speech (Narration) — Universal Truth and Past Reporting Verb'?",
+   "options": [
+    "When the reported clause expresses a universal truth, scientific fact, proverb or habitual action, its present tense remains unchanged even if the reporting verb is 'said'",
+    "'One of the + plural noun' takes a singular verb ('One of the boys is absent'), but 'One of the + plural noun + who/that' takes a plural verb agreeing with the antecedent plural noun ('He is one of the players who have scored a century')",
+    "Nouns like information, advice, furniture, luggage, baggage, scenery, poetry, machinery and stationery are uncountable singulars; they never take '-s' or 'a/an' directly",
+    "Uses 'were' for all persons to express an unreal present state ('He talks as if he were the boss; I wish I were a bird') and 'had + V3' for an unreal past state"
+   ],
+   "answer": 0,
+   "explanation": "Direct to Indirect Speech (Narration) — Universal Truth and Past Reporting Verb: When the reported clause expresses a universal truth, scientific fact, proverb or habitual action, its present tense remains unchanged even if the reporting verb is 'said' (otherwise Present Simple shifts to Past Simple, and Past Simple shifts to Past Perfect).",
+   "topic": "English Grammar — Voice, Narration, Tenses & Modifiers",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "general-english-grammar-daily-2026-10-29-84",
+   "question": "In standard English grammar for competitive exams: What is the past tense of 'buy'?",
+   "options": [
+    "Bought",
+    "School",
+    "The base form (infinitive)",
+    "Admission"
+   ],
+   "answer": 0,
+   "explanation": "Grammar rule: What is the past tense of 'buy'? — Bought.",
+   "topic": "General English Grammar — Rules & Sentence Correction",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "general-english-grammar-daily-2026-10-30-09",
+   "question": "In standard English grammar for competitive exams: What is the third form of the verb 'begin'?",
+   "options": [
+    "Begun",
+    "Adjective",
+    "Past perfect tense",
+    "Present participle"
+   ],
+   "answer": 0,
+   "explanation": "Grammar rule: What is the third form of the verb 'begin'? — Begun.",
+   "topic": "General English Grammar — Rules & Sentence Correction",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "general-english-grammar-daily-2026-10-30-34",
+   "question": "In English grammar, choose the appropriate preposition to complete the sentence: 'She is afraid ____ dogs.'",
+   "options": [
+    "on",
+    "of",
+    "at",
+    "to"
+   ],
+   "answer": 1,
+   "explanation": "The grammatically correct preposition in 'She is afraid ____ dogs.' is 'of'.",
+   "topic": "General English Grammar — Prepositional Usage",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "general-english-grammar-daily-2026-10-30-59",
+   "question": "In English grammar, what is the superlative form of the adjective 'Happy' (comparative: 'Happier')?",
+   "options": [
+    "Happiest",
+    "Brightest",
+    "Shortest",
+    "Most"
+   ],
+   "answer": 0,
+   "explanation": "Positive: Happy, Comparative: Happier, Superlative: Happiest.",
+   "topic": "General English Grammar — Degrees of Comparison, Plurals & Gender",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "general-english-grammar-daily-2026-10-30-84",
+   "question": "After verbs and expressions such as 'look forward to', 'be accustomed to', 'with a view to' and 'be habituated to', what verb form must follow 'to'?",
+   "options": [
+    "The first (main) subject",
+    "'The Secretary and Treasurer' refers to one person holding both posts (singular verb); 'The Secretary and the Treasurer' refers to two distinct persons (plural verb)",
+    "Simple past tense (past subjunctive, e.g., 'It is high time we started')",
+    "Gerund (-ing form, e.g., 'looking forward to meeting you')"
+   ],
+   "answer": 3,
+   "explanation": "In expressions like 'look forward to', 'with a view to' and 'accustomed to', 'to' functions as a preposition rather than an infinitive marker, so it must be followed by a noun or gerund (-ing).",
+   "topic": "General English Grammar Rules in Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "general-english-grammar-daily-2026-10-31-09",
+   "question": "In standard English grammar for competitive exams: What is the collective noun for a group of fish?",
+   "options": [
+    "Proper noun",
+    "Pride",
+    "School",
+    "Colon"
+   ],
+   "answer": 2,
+   "explanation": "Grammar rule: What is the collective noun for a group of fish? — School.",
+   "topic": "General English Grammar — Rules & Sentence Correction",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "general-english-grammar-daily-2026-10-31-34",
+   "question": "In English grammar, what is the superlative form of the adjective 'Many' (comparative: 'More')?",
+   "options": [
+    "Shallowest",
+    "Narrowest",
+    "Deepest",
+    "Most"
+   ],
+   "answer": 3,
+   "explanation": "Positive: Many, Comparative: More, Superlative: Most.",
+   "topic": "General English Grammar — Degrees of Comparison, Plurals & Gender",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "general-english-grammar-daily-2026-10-31-59",
+   "question": "In competitive English grammar, what is the standard rule regarding 'Unless and Until (Negative Condition and Time Conjunctions)'?",
+   "options": [
+    "'Unless' (condition) and 'Until' (time) already carry a negative meaning, so the clause immediately following them must never contain 'not' or future tense 'will'",
+    "'Few/Little' = hardly any (negative); 'A few/A little' = some (positive); 'The few/The little' = not many/much, but all that is available ('Few' for countable plural nouns, 'Little' for uncountable nouns)",
+    "A noun or pronoun preceding a gerund (-ing verbal noun) must be in the possessive case (e.g., 'I appreciate your helping me', not 'you helping me')",
+    "Take a plural verb ('My spectacles are missing'), unless preceded by 'A pair of', which takes a singular verb ('A pair of spectacles was bought')"
+   ],
+   "answer": 0,
+   "explanation": "Unless and Until (Negative Condition and Time Conjunctions): 'Unless' (condition) and 'Until' (time) already carry a negative meaning, so the clause immediately following them must never contain 'not' or future tense 'will' (for example: 'Wait here until I return' (not 'until I do not return')).",
+   "topic": "English Grammar — Voice, Narration, Tenses & Modifiers",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "general-english-grammar-daily-2026-10-31-84",
+   "question": "In English grammar, choose the appropriate preposition to complete the sentence: 'She is busy ____ her homework.'",
+   "options": [
+    "with",
+    "from",
+    "in",
+    "into"
+   ],
+   "answer": 0,
+   "explanation": "The grammatically correct preposition in 'She is busy ____ her homework.' is 'with'.",
+   "topic": "General English Grammar — Prepositional Usage",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
   }
  ]
 };

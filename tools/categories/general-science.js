@@ -12,7 +12,7 @@
   "railways"
  ],
  "blurb": "Physics, chemistry and biology facts combined.",
- "count": 1076,
+ "count": 1041,
  "questions": [
   {
    "id": "general-science-00001",
@@ -15095,807 +15095,151 @@
    "dailyDate": "2026-10-22"
   },
   {
-   "id": "general-science-daily-2026-10-23-37",
-   "question": "Which current affairs development was reported regarding: \"Mr. Sen is internationally recognised for his pioneering work on S-duality, the precise counting of black hole entropy and string field theory, which have helped shape modern string theory\"?",
+   "id": "general-science-daily-2026-10-23-01",
+   "question": "What is the primary scientific or strategic purpose of the 'LUPEX (Lunar Polar Exploration)' mission or platform recently in the news?",
    "options": [
-    "Ashoke Sen becomes first Indian physicist to receive Oskar Klein Medal",
-    "Being a good doctor is risky in India",
-    "What are type I and type II errors?",
-    "Japan to launch spacecraft on a mission to get samples from a Martian moon"
-   ],
-   "answer": 0,
-   "explanation": "Ashoke Sen becomes first Indian physicist to receive Oskar Klein Medal — Mr. Sen is internationally recognised for his pioneering work on S-duality, the precise counting of black hole entropy and string field theory, which have helped shape modern string theory (The Hindu — Science & Technology, Sat, 24 Oct 2026 13:48:49 +0530).",
-   "topic": "The Hindu — Science & Technology Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-23"
-  },
-  {
-   "id": "general-science-daily-2026-10-23-38",
-   "question": "Which current affairs development was reported regarding: \"The discovery of Ariel and Umbriel — two of Uranus’ many moons — took place 175 years ago on October 24, 1851. It was an amateur astronomer, William Lassell, who discovered these two satellites and two more as well....\"?",
-   "options": [
-    "CERN and Mistral partner to build AI foundation models for physics",
-    "Ariel, Umbriel and the man who made them real",
-    "What are type I and type II errors?",
-    "What was the Chemistry Nobel Prize given for? | Explained"
+    "Serving as a canisterised new-generation medium-range ballistic missile with a range between 1,000 and 2,000 km",
+    "Joint lunar rover and lander mission to explore water ice in the permanently shadowed regions of the Moon's south pole",
+    "Providing high-performance computing for astronomy, physics and earth sciences deployed under the National Supercomputing Mission",
+    "Demonstrating pinpoint lunar landing accuracy within 100 metres of the target site"
    ],
    "answer": 1,
-   "explanation": "Ariel, Umbriel and the man who made them real — The discovery of Ariel and Umbriel — two of Uranus’ many moons — took place 175 years ago on October 24, 1851. It was an amateur astronomer, William Lassell, who discovered these two satellites and two more as well.... (The Hindu — Science & Technology, Sat, 24 Oct 2026 10:34:02 +0530).",
-   "topic": "The Hindu — Science & Technology Current Affairs",
+   "explanation": "LUPEX (Lunar Polar Exploration), developed or launched by ISRO and JAXA, is designed for: Joint lunar rover and lander mission to explore water ice in the permanently shadowed regions of the Moon's south pole.",
+   "topic": "Science, Space & Defence Missions",
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-23"
   },
   {
-   "id": "general-science-daily-2026-10-23-39",
-   "question": "Which current affairs development was reported regarding: \"With every one-hour decrease in sleep time from the recommended seven-eight hours, the risk of fat deposition in the liver increased by 24%\"?",
+   "id": "general-science-daily-2026-10-23-26",
+   "question": "In atmospheric and earth science: Which type of rock is formed from sediments?",
    "options": [
-    "Inadequate sleep increases the risk of fatty liver disease",
-    "India’s first solar mission Aditya-L1 generates Doppler velocity images of the solar corona",
-    "What are ‘heat storms’?",
-    "The ‘WarGames’ problem: Computer science has long understood what it takes to keep AI under control"
-   ],
-   "answer": 0,
-   "explanation": "Inadequate sleep increases the risk of fatty liver disease — With every one-hour decrease in sleep time from the recommended seven-eight hours, the risk of fat deposition in the liver increased by 24% (The Hindu — Science & Technology, Fri, 23 Oct 2026 12:50:34 +0530).",
-   "topic": "The Hindu — Science & Technology Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-23"
-  },
-  {
-   "id": "general-science-daily-2026-10-23-40",
-   "question": "Which current affairs development was reported regarding: \"When the Nobel Prize for Physiology in 1962 was announced, the names on that list were Watson and Crick, shared with Wilkins. It was decades before Franklin’s true role in this path-breaking discovery came to be...\"?",
-   "options": [
-    "Being a good doctor is risky in India",
-    "Tap space-tech start-ups’ capabilities for major projects of Indian space programme: G. Madhavan Nair",
-    "Remembering Rosalind Franklin, whose photograph was crucial to discovering DNA’s structure",
-    "Inadequate sleep increases the risk of fatty liver disease"
+    "Mars",
+    "Aluminium",
+    "Sedimentary rock",
+    "Cherry blossom showers"
    ],
    "answer": 2,
-   "explanation": "Remembering Rosalind Franklin, whose photograph was crucial to discovering DNA’s structure — When the Nobel Prize for Physiology in 1962 was announced, the names on that list were Watson and Crick, shared with Wilkins. It was decades before Franklin’s true role in this path-breaking discovery came to be... (The Hindu — Science & Technology, Fri, 23 Oct 2026 11:39:12 +0530).",
-   "topic": "The Hindu — Science & Technology Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-23"
-  },
-  {
-   "id": "general-science-daily-2026-10-23-41",
-   "question": "Which current affairs development was reported regarding: \"Since the modern era of instrumental records began, there have only been three very strong El Niño events, in 2015-16, 1997-98, and 1982-83, with the three-month averages of the temperature anomaly being 2.6°, 2.4°,...\"?",
-   "options": [
-    "A ferocious El Niño is brewing thanks to record Pacific heat",
-    "Being a good doctor is risky in India",
-    "ISRO will not be privatised, says chairperson Narayanan",
-    "Quiz: The Kalam Code"
-   ],
-   "answer": 0,
-   "explanation": "A ferocious El Niño is brewing thanks to record Pacific heat — Since the modern era of instrumental records began, there have only been three very strong El Niño events, in 2015-16, 1997-98, and 1982-83, with the three-month averages of the temperature anomaly being 2.6°, 2.4°,... (The Hindu — Science & Technology, Fri, 23 Oct 2026 09:19:29 +0530).",
-   "topic": "The Hindu — Science & Technology Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-23"
-  },
-  {
-   "id": "general-science-daily-2026-10-23-42",
-   "question": "Which current affairs development was reported regarding: \"Elon Musk’s reported restrictions on satellite services to Ukraine show the risks of India’s dependence on foreign-controlled technology; from satellite navigation to cloud computing and military equipment, gaps in...\"?",
-   "options": [
-    "Russian military satellite makes ‘close approach’ to U.S. radar satellite in orbit",
-    "Students should be encouraged to develop scientific temperament, says Deputy Director of U. R. Rao Satellite Centre",
-    "After Musk ‘punishes’ Ukraine, how exposed is India to foreign tech?",
-    "Gaganyaan: ISRO completes key test ahead of first uncrewed mission"
-   ],
-   "answer": 2,
-   "explanation": "After Musk ‘punishes’ Ukraine, how exposed is India to foreign tech? — Elon Musk’s reported restrictions on satellite services to Ukraine show the risks of India’s dependence on foreign-controlled technology; from satellite navigation to cloud computing and military equipment, gaps in... (The Hindu — Science & Technology, Thu, 22 Oct 2026 10:52:49 +0530).",
-   "topic": "The Hindu — Science & Technology Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-23"
-  },
-  {
-   "id": "general-science-daily-2026-10-23-43",
-   "question": "Which current affairs development was reported regarding: \"Every cetacean in India is protected under Schedule I of the Wildlife (Protection) Act 1972, which is the same level of protection accorded to tigers and lions. Yet most of us may not recognise a Bryde’s whale on the...\"?",
-   "options": [
-    "Why science’s contract with society needs citizens as research partners",
-    "Ariel, Umbriel and the man who made them real",
-    "India can cut steel emissions before new coal plants lock them in",
-    "The whales never stopped coming to Gujarat’s beaches, the watchers did"
-   ],
-   "answer": 3,
-   "explanation": "The whales never stopped coming to Gujarat’s beaches, the watchers did — Every cetacean in India is protected under Schedule I of the Wildlife (Protection) Act 1972, which is the same level of protection accorded to tigers and lions. Yet most of us may not recognise a Bryde’s whale on the... (The Hindu — Science & Technology, Wed, 21 Oct 2026 14:15:30 +0530).",
-   "topic": "The Hindu — Science & Technology Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-23"
-  },
-  {
-   "id": "general-science-daily-2026-10-23-44",
-   "question": "Which current affairs development was reported regarding: \"Wiikwemkoong community stores Indigenous language recordings and other information locally to safeguard its cultural legacy and control its data\"?",
-   "options": [
-    "‘Turtle Walker’: Zoya Akhtar-backed documentary pays tribute to Satish Bhaskar’s life and legacy",
-    "Food waste, a major contributor to climate change",
-    "Indian scientists identify Martian analogue sites",
-    "First Nation community in Canada uses data centre to preserve its heritage"
-   ],
-   "answer": 3,
-   "explanation": "First Nation community in Canada uses data centre to preserve its heritage — Wiikwemkoong community stores Indigenous language recordings and other information locally to safeguard its cultural legacy and control its data (The Hindu — Science & Technology, Wed, 21 Oct 2026 13:07:08 +0530).",
-   "topic": "The Hindu — Science & Technology Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-23"
-  },
-  {
-   "id": "general-science-daily-2026-10-23-45",
-   "question": "Which current affairs development was reported regarding: \"When people cannot access adequate food, clean water, or timely healthcare, can the solution to their illness really end with a prescription?\"?",
-   "options": [
-    "Gaganyaan: ISRO completes key test ahead of first uncrewed mission",
-    "Being a good doctor is risky in India",
-    "India’s first solar mission Aditya-L1 generates Doppler velocity images of the solar corona",
-    "Why are the whites of human eyes white?"
-   ],
-   "answer": 1,
-   "explanation": "Being a good doctor is risky in India — When people cannot access adequate food, clean water, or timely healthcare, can the solution to their illness really end with a prescription? (The Hindu — Science & Technology, Wed, 21 Oct 2026 12:49:56 +0530).",
-   "topic": "The Hindu — Science & Technology Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-23"
-  },
-  {
-   "id": "general-science-daily-2026-10-23-46",
-   "question": "Which current affairs development was reported regarding: \"Researchers added that identifying terrestrial analogue sites has become a pressing requirement in the era of intense planetary exploration since recent studies demonstrated that orbital data alone cannot fully...\"?",
-   "options": [
-    "Why are the whites of human eyes white?",
-    "Indian scientists identify Martian analogue sites",
-    "Remembering Rosalind Franklin, whose photograph was crucial to discovering DNA’s structure",
-    "Scientists unearth new instance of ‘contagious cancer’ in animals"
-   ],
-   "answer": 1,
-   "explanation": "Indian scientists identify Martian analogue sites — Researchers added that identifying terrestrial analogue sites has become a pressing requirement in the era of intense planetary exploration since recent studies demonstrated that orbital data alone cannot fully... (The Hindu — Science & Technology, Tue, 20 Oct 2026 19:43:18 +0530).",
-   "topic": "The Hindu — Science & Technology Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-23"
-  },
-  {
-   "id": "general-science-daily-2026-10-23-47",
-   "question": "Which current affairs development was reported regarding: \"A consultation with two dozen climate researchers and an analysis of temperatures worldwide for for every hour since 1960 has yielded a new concept\"?",
-   "options": [
-    "Gradiant bets big on India, secures five contracts, including semiconductor fab",
-    "Scientists puzzled as baby whales wash up dead in Argentina",
-    "What are ‘heat storms’?",
-    "World’s top climate body deadlocked over inclusivity concerns"
-   ],
-   "answer": 2,
-   "explanation": "What are ‘heat storms’? — A consultation with two dozen climate researchers and an analysis of temperatures worldwide for for every hour since 1960 has yielded a new concept (The Hindu — Science & Technology, Tue, 20 Oct 2026 17:51:38 +0530).",
-   "topic": "The Hindu — Science & Technology Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-23"
-  },
-  {
-   "id": "general-science-daily-2026-10-23-48",
-   "question": "Which current affairs development was reported regarding: \"Researchers studied melanoma in the brown bullhead catfish, a resident of Lake Memphremagog, between Quebec in Canada and Vermont in the U.S.; the finding is interesting because it could reveal clues to keeping a...\"?",
-   "options": [
-    "Health Quiz: On arthritis",
-    "Science Snapshots: October 11, 2026",
-    "Scientists unearth new instance of ‘contagious cancer’ in animals",
-    "Science Snapshots: October 4, 2026"
-   ],
-   "answer": 2,
-   "explanation": "Scientists unearth new instance of ‘contagious cancer’ in animals — Researchers studied melanoma in the brown bullhead catfish, a resident of Lake Memphremagog, between Quebec in Canada and Vermont in the U.S.; the finding is interesting because it could reveal clues to keeping a... (The Hindu — Science & Technology, Tue, 20 Oct 2026 17:30:56 +0530).",
-   "topic": "The Hindu — Science & Technology Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-23"
-  },
-  {
-   "id": "general-science-daily-2026-10-23-49",
-   "question": "Which current affairs development was reported regarding: \"these images are expected to provide information on the propagation of the coronal mass ejections along the Sun-Earth direction, which were unavailable till date\"?",
-   "options": [
-    "India’s first solar mission Aditya-L1 generates Doppler velocity images of the solar corona",
-    "Health Quiz: On arthritis",
-    "Two-Face molecule could help make IBD treatments more effective",
-    "Analysis reveals fraudulent 'paper mill' activity across over 4,000 cancer research articles"
-   ],
-   "answer": 0,
-   "explanation": "India’s first solar mission Aditya-L1 generates Doppler velocity images of the solar corona — these images are expected to provide information on the propagation of the coronal mass ejections along the Sun-Earth direction, which were unavailable till date (The Hindu — Science & Technology, Tue, 20 Oct 2026 10:48:33 +0530).",
-   "topic": "The Hindu — Science & Technology Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-23"
-  },
-  {
-   "id": "general-science-daily-2026-10-23-50",
-   "question": "Which current affairs development was reported regarding: \"While bleaching prevention methods have been studied, little attention has been given to reviving corals that are already bleached.\"?",
-   "options": [
-    "New form of carbon found: diamondiyne",
-    "Bleached corals brought back to luminous life, in two lab experiments",
-    "Anna Mani: a star from the hills",
-    "Inadequate sleep increases the risk of fatty liver disease"
-   ],
-   "answer": 1,
-   "explanation": "Bleached corals brought back to luminous life, in two lab experiments — While bleaching prevention methods have been studied, little attention has been given to reviving corals that are already bleached. (The Hindu — Science & Technology, Tue, 20 Oct 2026 10:46:18 +0530).",
-   "topic": "The Hindu — Science & Technology Current Affairs",
+   "explanation": "Which type of rock is formed from sediments — Sedimentary rock.",
+   "topic": "General Science — Atmospheric & Earth Science",
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-23"
   },
   {
    "id": "general-science-daily-2026-10-23-51",
-   "question": "Which current affairs development was reported regarding: \"U.S. prosecutors allege that the defendant, Abdulrahman Alfozan, 35, was in ​frequent communication ‌with an unnamed member of the Saudi Royal family and that a ‌member of the ​Saudi military paid for a one-way plane...\"?",
+   "question": "In space and science technology, what is the primary scientific objective of 'Unified Payments Interface'?",
    "options": [
-    "Indian scientists identify Martian analogue sites",
-    "New form of carbon found: diamondiyne",
-    "Tamil Nadu may encounter El Niño differently from rest of India",
-    "Ex-OpenAI employee accused of planting device appears to have Saudi backing, court filing shows"
+    "Communication satellites of India",
+    "Free online courses platform",
+    "Digital infrastructure for school education",
+    "Instant bank to bank payments system"
    ],
    "answer": 3,
-   "explanation": "Ex-OpenAI employee accused of planting device appears to have Saudi backing, court filing shows — U.S. prosecutors allege that the defendant, Abdulrahman Alfozan, 35, was in ​frequent communication ‌with an unnamed member of the Saudi Royal family and that a ‌member of the ​Saudi military paid for a one-way plane... (The Hindu — Science & Technology, Mon, 19 Oct 2026 21:21:27 +0530).",
-   "topic": "The Hindu — Science & Technology Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-23"
-  },
-  {
-   "id": "general-science-daily-2026-10-23-52",
-   "question": "Which current affairs development was reported regarding: \"The film is a stunning deep dive into the life of turtle conservationist Satish Bhaskar, who walked nearly every inch of India’s coastline to discover the nesting beaches of sea turtles so that they could be protected\"?",
-   "options": [
-    "‘Turtle Walker’: Zoya Akhtar-backed documentary pays tribute to Satish Bhaskar’s life and legacy",
-    "Being a good doctor is risky in India",
-    "Japan to launch spacecraft on a mission to get samples from a Martian moon",
-    "Scientists puzzled as baby whales wash up dead in Argentina"
-   ],
-   "answer": 0,
-   "explanation": "‘Turtle Walker’: Zoya Akhtar-backed documentary pays tribute to Satish Bhaskar’s life and legacy — The film is a stunning deep dive into the life of turtle conservationist Satish Bhaskar, who walked nearly every inch of India’s coastline to discover the nesting beaches of sea turtles so that they could be protected (The Hindu — Science & Technology, Mon, 19 Oct 2026 17:45:15 +0530).",
-   "topic": "The Hindu — Science & Technology Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-23"
-  },
-  {
-   "id": "general-science-daily-2026-10-23-53",
-   "question": "Which current affairs development was reported regarding: \"MeitY’s advisory, issued amid protests demanding CEC Gyanesh Kumar’s resignation, asks Meta to review its content-ranking systems and provide context for posts on ongoing public events\"?",
-   "options": [
-    "Tuvalu: Barely above water",
-    "‘Turtle Walker’: Zoya Akhtar-backed documentary pays tribute to Satish Bhaskar’s life and legacy",
-    "Gaganyaan: ISRO completes key test ahead of first uncrewed mission",
-    "Government asks Meta to ensure its recommendation systems do not expose users to limited set of narratives"
-   ],
-   "answer": 3,
-   "explanation": "Government asks Meta to ensure its recommendation systems do not expose users to limited set of narratives — MeitY’s advisory, issued amid protests demanding CEC Gyanesh Kumar’s resignation, asks Meta to review its content-ranking systems and provide context for posts on ongoing public events (The Hindu — Science & Technology, Mon, 19 Oct 2026 13:13:45 +0530).",
-   "topic": "The Hindu — Science & Technology Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-23"
-  },
-  {
-   "id": "general-science-daily-2026-10-23-54",
-   "question": "Which current affairs development was reported regarding: \"Russia’s Cosmos-2612 satellite has changed its orbit repeatedly to approach ICEYE-X36, a commercial radar-imaging satellite registered in the U.S. and whose operator currently supplies data to Ukraine\"?",
-   "options": [
-    "Tuvalu: Barely above water",
-    "Old doubts linger, yet new Microsoft quantum chip raises the stakes",
-    "Russian military satellite makes ‘close approach’ to U.S. radar satellite in orbit",
-    "IISER researchers make solid material that releases two fuel gases"
-   ],
-   "answer": 2,
-   "explanation": "Russian military satellite makes ‘close approach’ to U.S. radar satellite in orbit — Russia’s Cosmos-2612 satellite has changed its orbit repeatedly to approach ICEYE-X36, a commercial radar-imaging satellite registered in the U.S. and whose operator currently supplies data to Ukraine (The Hindu — Science & Technology, Mon, 19 Oct 2026 10:40:25 +0530).",
-   "topic": "The Hindu — Science & Technology Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-23"
-  },
-  {
-   "id": "general-science-daily-2026-10-23-55",
-   "question": "Which current affairs development was reported regarding: \"The findings suggest protecting the interests of astronomers requires operators to regulate licensed transmissions as well as stray radiation from onboard electronics\"?",
-   "options": [
-    "India can cut steel emissions before new coal plants lock them in",
-    "Satellite radiation: blocking the view",
-    "Chemistry Nobel 2026 honours the science of mirrored molecules",
-    "‘Turtle Walker’: Zoya Akhtar-backed documentary pays tribute to Satish Bhaskar’s life and legacy"
-   ],
-   "answer": 1,
-   "explanation": "Satellite radiation: blocking the view — The findings suggest protecting the interests of astronomers requires operators to regulate licensed transmissions as well as stray radiation from onboard electronics (The Hindu — Science & Technology, Mon, 19 Oct 2026 07:21:35 +0530).",
-   "topic": "The Hindu — Science & Technology Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-23"
-  },
-  {
-   "id": "general-science-daily-2026-10-23-56",
-   "question": "Which current affairs development was reported regarding: \"Researchers said suspect papers tended to cluster in a subset of journals including 'Journal of Experimental and Clinical Cancer Research' and 'Molecular Cancer' whereas other journals were only marginally affected\"?",
-   "options": [
-    "Analysis reveals fraudulent 'paper mill' activity across over 4,000 cancer research articles",
-    "Bengaluru scientists decode solar eruptions using Aditya-L1 and Proba-3 satellites",
-    "Remembering Rosalind Franklin, whose photograph was crucial to discovering DNA’s structure",
-    "Top AI researchers demand action to prevent models going ‘rogue’"
-   ],
-   "answer": 0,
-   "explanation": "Analysis reveals fraudulent 'paper mill' activity across over 4,000 cancer research articles — Researchers said suspect papers tended to cluster in a subset of journals including 'Journal of Experimental and Clinical Cancer Research' and 'Molecular Cancer' whereas other journals were only marginally affected (The Hindu — Science & Technology, Mon, 19 Oct 2026 06:56:18 +0530).",
-   "topic": "The Hindu — Science & Technology Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-23"
-  },
-  {
-   "id": "general-science-daily-2026-10-23-57",
-   "question": "Which current affairs development was reported regarding: \"Scientists hope the mission, which is expected to take five years, will provide clues to how Phobos and its smaller sibling Deimos formed, and hopefully even shed light on the origins of life in the solar system\"?",
-   "options": [
-    "After Musk ‘punishes’ Ukraine, how exposed is India to foreign tech?",
-    "Japan to launch spacecraft on a mission to get samples from a Martian moon",
-    "What are ‘heat storms’?",
-    "Tamil Nadu may encounter El Niño differently from rest of India"
-   ],
-   "answer": 1,
-   "explanation": "Japan to launch spacecraft on a mission to get samples from a Martian moon — Scientists hope the mission, which is expected to take five years, will provide clues to how Phobos and its smaller sibling Deimos formed, and hopefully even shed light on the origins of life in the solar system (The Hindu — Science & Technology, Mon, 19 Oct 2026 06:20:15 +0530).",
-   "topic": "The Hindu — Science & Technology Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-23"
-  },
-  {
-   "id": "general-science-daily-2026-10-23-58",
-   "question": "Which current affairs development was reported regarding: \"In strong El Niño years, pressure differences between the Bay of Bengal and the Arabian Sea can drive moist air into coastal Tamil Nadu; when an El Niño coincides with warmer waters in the Bay, evaporation increases,...\"?",
-   "options": [
-    "Gradiant bets big on India, secures five contracts, including semiconductor fab",
-    "Remembering Rosalind Franklin, whose photograph was crucial to discovering DNA’s structure",
-    "Tamil Nadu may encounter El Niño differently from rest of India",
-    "Quiz: The Kalam Code"
-   ],
-   "answer": 2,
-   "explanation": "Tamil Nadu may encounter El Niño differently from rest of India — In strong El Niño years, pressure differences between the Bay of Bengal and the Arabian Sea can drive moist air into coastal Tamil Nadu; when an El Niño coincides with warmer waters in the Bay, evaporation increases,... (The Hindu — Science & Technology, Sun, 18 Oct 2026 13:11:44 +0530).",
-   "topic": "The Hindu — Science & Technology Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-23"
-  },
-  {
-   "id": "general-science-daily-2026-10-23-59",
-   "question": "Which current affairs development was reported regarding: \"A drug that targets an overactive immune response may also weaken the gut’s ability to fight harmful bacteria. Understanding where the molecule is helping or not could be important before this pathway is considered...\"?",
-   "options": [
-    "Why do we suddenly forget why we walked into a room?",
-    "What are ‘heat storms’?",
-    "What are type I and type II errors?",
-    "Two-Face molecule could help make IBD treatments more effective"
-   ],
-   "answer": 3,
-   "explanation": "Two-Face molecule could help make IBD treatments more effective — A drug that targets an overactive immune response may also weaken the gut’s ability to fight harmful bacteria. Understanding where the molecule is helping or not could be important before this pathway is considered... (The Hindu — Science & Technology, Sun, 18 Oct 2026 12:54:31 +0530).",
-   "topic": "The Hindu — Science & Technology Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-23"
-  },
-  {
-   "id": "general-science-daily-2026-10-23-60",
-   "question": "Which current affairs development was reported regarding: \"It is meant to replace some specialised ‌algorithms now used to reconstruct ​and identify particles\"?",
-   "options": [
-    "What are ‘heat storms’?",
-    "What are type I and type II errors?",
-    "CERN and Mistral partner to build AI foundation models for physics",
-    "Quiz: The Kalam Code"
-   ],
-   "answer": 2,
-   "explanation": "CERN and Mistral partner to build AI foundation models for physics — It is meant to replace some specialised ‌algorithms now used to reconstruct ​and identify particles (The Hindu — Science & Technology, Sun, 18 Oct 2026 07:19:44 +0530).",
-   "topic": "The Hindu — Science & Technology Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-23"
-  },
-  {
-   "id": "general-science-daily-2026-10-23-61",
-   "question": "Which current affairs development was reported regarding: \"Just four individuals of the endangered Jeypore ground gecko have been documented in the past year in Odisha’s Balda hills, the site of a proposed bauxite mine that resident Adivasis have also protested for two...\"?",
-   "options": [
-    "After Musk ‘punishes’ Ukraine, how exposed is India to foreign tech?",
-    "Satellite radiation: blocking the view",
-    "Analysis: Why NASA wants to build a nuclear reactor on the moon",
-    "Mining project threatens future of rare Jeypore ground gecko"
-   ],
-   "answer": 3,
-   "explanation": "Mining project threatens future of rare Jeypore ground gecko — Just four individuals of the endangered Jeypore ground gecko have been documented in the past year in Odisha’s Balda hills, the site of a proposed bauxite mine that resident Adivasis have also protested for two... (The Hindu — Science & Technology, Sun, 18 Oct 2026 01:50:56 +0530).",
-   "topic": "The Hindu — Science & Technology Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-23"
-  },
-  {
-   "id": "general-science-daily-2026-10-23-62",
-   "question": "Which current affairs development was reported regarding: \"The Hindu’s weekly Science for All newsletter explains all things Science, without the jargon.\"?",
-   "options": [
-    "Top AI researchers demand action to prevent models going ‘rogue’",
-    "India’s first solar mission Aditya-L1 generates Doppler velocity images of the solar corona",
-    "Jonathan, the giant tortoise, is 198 years old. Here is his secret",
-    "Why science’s contract with society needs citizens as research partners"
-   ],
-   "answer": 2,
-   "explanation": "Jonathan, the giant tortoise, is 198 years old. Here is his secret — The Hindu’s weekly Science for All newsletter explains all things Science, without the jargon. (The Hindu — Science & Technology, Sun, 18 Oct 2026 01:26:02 +0530).",
-   "topic": "The Hindu — Science & Technology Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-23"
-  },
-  {
-   "id": "general-science-daily-2026-10-23-63",
-   "question": "Which current affairs development was reported regarding: \"The team developed a compound called magnesium hydridomethylzincate. When it was heated in solution to 100° C, it released hydrogen, and when its crystals were heated in the absence of a solvent at 80-110° C, it...\"?",
-   "options": [
-    "ISRO will not be privatised, says chairperson Narayanan",
-    "Japan to launch spacecraft on a mission to get samples from a Martian moon",
-    "Gradiant bets big on India, secures five contracts, including semiconductor fab",
-    "IISER researchers make solid material that releases two fuel gases"
-   ],
-   "answer": 3,
-   "explanation": "IISER researchers make solid material that releases two fuel gases — The team developed a compound called magnesium hydridomethylzincate. When it was heated in solution to 100° C, it released hydrogen, and when its crystals were heated in the absence of a solvent at 80-110° C, it... (The Hindu — Science & Technology, Sun, 18 Oct 2026 01:23:54 +0530).",
-   "topic": "The Hindu — Science & Technology Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-23"
-  },
-  {
-   "id": "general-science-daily-2026-10-23-64",
-   "question": "Which current affairs development was reported regarding: \"Every year, World Students Day is celebrated in India on October 15, marking the birth of Dr. APJ Abdul Kalam. Here is a quiz on the life and times of the Missile Man of India. Get started!\"?",
-   "options": [
-    "After Musk ‘punishes’ Ukraine, how exposed is India to foreign tech?",
-    "Quiz: The Kalam Code",
-    "Top AI researchers demand action to prevent models going ‘rogue’",
-    "Russian military satellite makes ‘close approach’ to U.S. radar satellite in orbit"
-   ],
-   "answer": 1,
-   "explanation": "Quiz: The Kalam Code — Every year, World Students Day is celebrated in India on October 15, marking the birth of Dr. APJ Abdul Kalam. Here is a quiz on the life and times of the Missile Man of India. Get started! (The Hindu — Science & Technology, Sun, 18 Oct 2026 01:10:46 +0530).",
-   "topic": "The Hindu — Science & Technology Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-23"
-  },
-  {
-   "id": "general-science-daily-2026-10-23-65",
-   "question": "Which current affairs development was reported regarding: \"Everybody has heard of arthritis: a senior citizen in the family may be suffering, or perhaps someone at work. The term is common enough, but with World Arthritis Day coming up on October 13, how much do you know...\"?",
-   "options": [
-    "CERN and Mistral partner to build AI foundation models for physics",
-    "Health Quiz: On arthritis",
-    "Gaganyaan: ISRO completes key test ahead of first uncrewed mission",
-    "Tamil Nadu may encounter El Niño differently from rest of India"
-   ],
-   "answer": 1,
-   "explanation": "Health Quiz: On arthritis — Everybody has heard of arthritis: a senior citizen in the family may be suffering, or perhaps someone at work. The term is common enough, but with World Arthritis Day coming up on October 13, how much do you know... (The Hindu — Science & Technology, Sat, 17 Oct 2026 23:10:50 +0530).",
-   "topic": "The Hindu — Science & Technology Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-23"
-  },
-  {
-   "id": "general-science-daily-2026-10-23-66",
-   "question": "Which current affairs development was reported regarding: \"Leading U.S.-based AI firms have disclosed over recent months a series of incidents where models under development have escaped containment measures to access the internet and have gone on to hack websites\"?",
-   "options": [
-    "Top AI researchers demand action to prevent models going ‘rogue’",
-    "Russian military satellite makes ‘close approach’ to U.S. radar satellite in orbit",
-    "Analysis: Why NASA wants to build a nuclear reactor on the moon",
-    "Indian research can shape the world"
-   ],
-   "answer": 0,
-   "explanation": "Top AI researchers demand action to prevent models going ‘rogue’ — Leading U.S.-based AI firms have disclosed over recent months a series of incidents where models under development have escaped containment measures to access the internet and have gone on to hack websites (The Hindu — Science & Technology, Sat, 17 Oct 2026 23:00:04 +0530).",
-   "topic": "The Hindu — Science & Technology Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-23"
-  },
-  {
-   "id": "general-science-daily-2026-10-23-67",
-   "question": "Which current affairs development was reported regarding: \"Countries including India, Kenya, Saudi Arabia, Russia, and China are pressing for more time to prepare the IPCC’s next reports to ensure scientists from less-resourced countries can make meaningful contributions\"?",
-   "options": [
-    "World’s top climate body deadlocked over inclusivity concerns",
-    "Scientists puzzled as baby whales wash up dead in Argentina",
-    "What was the Chemistry Nobel Prize given for? | Explained",
-    "Russian military satellite makes ‘close approach’ to U.S. radar satellite in orbit"
-   ],
-   "answer": 0,
-   "explanation": "World’s top climate body deadlocked over inclusivity concerns — Countries including India, Kenya, Saudi Arabia, Russia, and China are pressing for more time to prepare the IPCC’s next reports to ensure scientists from less-resourced countries can make meaningful contributions (The Hindu — Science & Technology, Sat, 17 Oct 2026 18:21:03 +0530).",
-   "topic": "The Hindu — Science & Technology Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-23"
-  },
-  {
-   "id": "general-science-daily-2026-10-23-68",
-   "question": "Which current affairs development was reported regarding: \"Three recent important research developments, all readable in one minute\"?",
-   "options": [
-    "CERN and Mistral partner to build AI foundation models for physics",
-    "Science Snapshots: October 11, 2026",
-    "India can cut steel emissions before new coal plants lock them in",
-    "Satellite radiation: blocking the view"
-   ],
-   "answer": 1,
-   "explanation": "Science Snapshots: October 11, 2026 — Three recent important research developments, all readable in one minute (The Hindu — Science & Technology, Sat, 17 Oct 2026 17:48:12 +0530).",
-   "topic": "The Hindu — Science & Technology Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-23"
-  },
-  {
-   "id": "general-science-daily-2026-10-23-69",
-   "question": "Which current affairs development was reported regarding: \"What are chirality and molecular ‘handedness’, and why does life favour one form over the other? Why does the handedness of a molecule matter when developing drugs? What did Henri Kagan and Kenso Soai discover? Can...\"?",
-   "options": [
-    "Students should be encouraged to develop scientific temperament, says Deputy Director of U. R. Rao Satellite Centre",
-    "Two-Face molecule could help make IBD treatments more effective",
-    "What was the Chemistry Nobel Prize given for? | Explained",
-    "Scientists unearth new instance of ‘contagious cancer’ in animals"
-   ],
-   "answer": 2,
-   "explanation": "What was the Chemistry Nobel Prize given for? | Explained — What are chirality and molecular ‘handedness’, and why does life favour one form over the other? Why does the handedness of a molecule matter when developing drugs? What did Henri Kagan and Kenso Soai discover? Can... (The Hindu — Science & Technology, Sat, 17 Oct 2026 16:02:41 +0530).",
-   "topic": "The Hindu — Science & Technology Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-23"
-  },
-  {
-   "id": "general-science-daily-2026-10-23-70",
-   "question": "Which current affairs development was reported regarding: \"Former ISRO Chairperson says what is required is a cooperative environment rather than unhealthy competition\"?",
-   "options": [
-    "Remembering Rosalind Franklin, whose photograph was crucial to discovering DNA’s structure",
-    "Japan to launch spacecraft on a mission to get samples from a Martian moon",
-    "Tap space-tech start-ups’ capabilities for major projects of Indian space programme: G. Madhavan Nair",
-    "What was the Chemistry Nobel Prize given for? | Explained"
-   ],
-   "answer": 2,
-   "explanation": "Tap space-tech start-ups’ capabilities for major projects of Indian space programme: G. Madhavan Nair — Former ISRO Chairperson says what is required is a cooperative environment rather than unhealthy competition (The Hindu — Science & Technology, Sat, 17 Oct 2026 06:11:51 +0530).",
-   "topic": "The Hindu — Science & Technology Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-23"
-  },
-  {
-   "id": "general-science-daily-2026-10-23-71",
-   "question": "Which current affairs development was reported regarding: \"Company appoints Hari Prasad as India MD as water-treatment firm wins five contracts across semiconductor, PCB and solar manufacturing\"?",
-   "options": [
-    "Indian scientists identify Martian analogue sites",
-    "New form of carbon found: diamondiyne",
-    "Gradiant bets big on India, secures five contracts, including semiconductor fab",
-    "Scientists puzzled as baby whales wash up dead in Argentina"
-   ],
-   "answer": 2,
-   "explanation": "Gradiant bets big on India, secures five contracts, including semiconductor fab — Company appoints Hari Prasad as India MD as water-treatment firm wins five contracts across semiconductor, PCB and solar manufacturing (The Hindu — Science & Technology, Sat, 17 Oct 2026 03:25:38 +0530).",
-   "topic": "The Hindu — Science & Technology Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-23"
-  },
-  {
-   "id": "general-science-daily-2026-10-23-72",
-   "question": "Which current affairs development was reported regarding: \"Pilikula Development Authority organises two-day World Space Week - 2026 programme at Pilikula on October 7\"?",
-   "options": [
-    "Mining project threatens future of rare Jeypore ground gecko",
-    "IISc study says strong magnetic fields could allow white dwarfs to grow beyond the Chandrasekhar limit",
-    "Why is glass transparent?",
-    "Students should be encouraged to develop scientific temperament, says Deputy Director of U. R. Rao Satellite Centre"
-   ],
-   "answer": 3,
-   "explanation": "Students should be encouraged to develop scientific temperament, says Deputy Director of U. R. Rao Satellite Centre — Pilikula Development Authority organises two-day World Space Week - 2026 programme at Pilikula on October 7 (The Hindu — Science & Technology, Sat, 17 Oct 2026 03:25:27 +0530).",
-   "topic": "The Hindu — Science & Technology Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-23"
-  },
-  {
-   "id": "general-science-daily-2026-10-23-73",
-   "question": "Which current affairs development was reported regarding: \"The duo was recognised for the discovery of ‘non-linear effects and autocatalysis in asymmetric organic synthesis’\"?",
-   "options": [
-    "Chemistry Nobel 2026 honours the science of mirrored molecules",
-    "Mining project threatens future of rare Jeypore ground gecko",
-    "Two-Face molecule could help make IBD treatments more effective",
-    "Satellite radiation: blocking the view"
-   ],
-   "answer": 0,
-   "explanation": "Chemistry Nobel 2026 honours the science of mirrored molecules — The duo was recognised for the discovery of ‘non-linear effects and autocatalysis in asymmetric organic synthesis’ (The Hindu — Science & Technology, Sat, 17 Oct 2026 02:55:50 +0530).",
-   "topic": "The Hindu — Science & Technology Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-23"
-  },
-  {
-   "id": "general-science-daily-2026-10-23-74",
-   "question": "Which current affairs development was reported regarding: \"National laboratories need to be liberated from insularity; the bulk of our national labs are currently poorly accessible to researchers, students and companies outside their walls\"?",
-   "options": [
-    "Indian scientists identify Martian analogue sites",
-    "IISc study says strong magnetic fields could allow white dwarfs to grow beyond the Chandrasekhar limit",
-    "Indian research can shape the world",
-    "Tamil Nadu may encounter El Niño differently from rest of India"
-   ],
-   "answer": 2,
-   "explanation": "Indian research can shape the world — National laboratories need to be liberated from insularity; the bulk of our national labs are currently poorly accessible to researchers, students and companies outside their walls (The Hindu — Science & Technology, Sat, 17 Oct 2026 01:19:46 +0530).",
-   "topic": "The Hindu — Science & Technology Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-23"
-  },
-  {
-   "id": "general-science-daily-2026-10-23-75",
-   "question": "Which current affairs development was reported regarding: \"The Artemis Accords, to which the U.S. and its allies vis-a-vis the moon are signatories, envisage temporary ‘safety zones’ to prevent harmful interference\"?",
-   "options": [
-    "Bengaluru scientists decode solar eruptions using Aditya-L1 and Proba-3 satellites",
-    "Analysis: Why NASA wants to build a nuclear reactor on the moon",
-    "Students should be encouraged to develop scientific temperament, says Deputy Director of U. R. Rao Satellite Centre",
-    "India can cut steel emissions before new coal plants lock them in"
-   ],
-   "answer": 1,
-   "explanation": "Analysis: Why NASA wants to build a nuclear reactor on the moon — The Artemis Accords, to which the U.S. and its allies vis-a-vis the moon are signatories, envisage temporary ‘safety zones’ to prevent harmful interference (The Hindu — Science & Technology, Sat, 17 Oct 2026 00:33:32 +0530).",
-   "topic": "The Hindu — Science & Technology Current Affairs",
+   "explanation": "Unified Payments Interface — Instant bank to bank payments system.",
+   "topic": "General Science — Space & Scientific Missions",
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-23"
   },
   {
    "id": "general-science-daily-2026-10-23-76",
-   "question": "Which current affairs development was reported regarding: \"Anna Mani, who dedicated her life to improving weather forecasting in the country, dared to venture into areas India had never stepped into before\"?",
+   "question": "In general science classification, which specialized scientific discipline studies 'Plants'?",
    "options": [
-    "Being a good doctor is risky in India",
-    "Anna Mani: a star from the hills",
-    "Bengaluru scientists decode solar eruptions using Aditya-L1 and Proba-3 satellites",
-    "Top AI researchers demand action to prevent models going ‘rogue’"
+    "Biology",
+    "Botany",
+    "Sericulture",
+    "Acoustics"
    ],
    "answer": 1,
-   "explanation": "Anna Mani: a star from the hills — Anna Mani, who dedicated her life to improving weather forecasting in the country, dared to venture into areas India had never stepped into before (The Hindu — Science & Technology, Fri, 16 Oct 2026 19:09:50 +0530).",
-   "topic": "The Hindu — Science & Technology Current Affairs",
+   "explanation": "Botany is the scientific branch dedicated to the study of Plants.",
+   "topic": "General Science — Scientific Disciplines & Branches",
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-23"
   },
   {
-   "id": "general-science-daily-2026-10-23-77",
-   "question": "Which current affairs development was reported regarding: \"The coronagraph onboard Aditya-L1 (VELC) and Proba-3 (ASPIICS) conducted joint observations of almost the same part of the solar corona in two different types of observations (spectroscopic from VELC and imaging from...\"?",
+   "id": "general-science-daily-2026-10-24-01",
+   "question": "In general science classification, which specialized scientific discipline studies 'Child health'?",
    "options": [
-    "Ex-OpenAI employee accused of planting device appears to have Saudi backing, court filing shows",
-    "Health Quiz: On arthritis",
-    "Bengaluru scientists decode solar eruptions using Aditya-L1 and Proba-3 satellites",
-    "Analysis: Why NASA wants to build a nuclear reactor on the moon"
-   ],
-   "answer": 2,
-   "explanation": "Bengaluru scientists decode solar eruptions using Aditya-L1 and Proba-3 satellites — The coronagraph onboard Aditya-L1 (VELC) and Proba-3 (ASPIICS) conducted joint observations of almost the same part of the solar corona in two different types of observations (spectroscopic from VELC and imaging from... (The Hindu — Science & Technology, Fri, 16 Oct 2026 12:36:40 +0530).",
-   "topic": "The Hindu — Science & Technology Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-23"
-  },
-  {
-   "id": "general-science-daily-2026-10-23-78",
-   "question": "Which current affairs development was reported regarding: \"This country has an animal overpass that is nearly a kilometre long and spans a highway, a rail yard, and a golf course. Our increasingly busy highways surely need such facilitators for our wildlife\"?",
-   "options": [
-    "IISc study says strong magnetic fields could allow white dwarfs to grow beyond the Chandrasekhar limit",
-    "Why do we suddenly forget why we walked into a room?",
-    "A ferocious El Niño is brewing thanks to record Pacific heat",
-    "Building bridges for India’s wildlife"
+    "Ecology",
+    "Horticulture",
+    "Physics",
+    "Paediatrics"
    ],
    "answer": 3,
-   "explanation": "Building bridges for India’s wildlife — This country has an animal overpass that is nearly a kilometre long and spans a highway, a rail yard, and a golf course. Our increasingly busy highways surely need such facilitators for our wildlife (The Hindu — Science & Technology, Fri, 16 Oct 2026 11:04:14 +0530).",
-   "topic": "The Hindu — Science & Technology Current Affairs",
+   "explanation": "Paediatrics is the scientific branch dedicated to the study of Child health.",
+   "topic": "General Science — Scientific Disciplines & Branches",
    "level": 2,
    "source": "daily",
-   "dailyDate": "2026-10-23"
+   "dailyDate": "2026-10-24"
   },
   {
-   "id": "general-science-daily-2026-10-23-79",
-   "question": "Which current affairs development was reported regarding: \"A team of biologists, veterinarians, and park rangers have been searching the area for the dead calves from shore and with boats, planes, and drones\"?",
+   "id": "general-science-daily-2026-10-24-26",
+   "question": "In space and science technology, what is the primary scientific objective of 'Fit India Movement'?",
    "options": [
-    "Ex-OpenAI employee accused of planting device appears to have Saudi backing, court filing shows",
-    "Inadequate sleep increases the risk of fatty liver disease",
-    "Scientists puzzled as baby whales wash up dead in Argentina",
-    "Tamil Nadu may encounter El Niño differently from rest of India"
-   ],
-   "answer": 2,
-   "explanation": "Scientists puzzled as baby whales wash up dead in Argentina — A team of biologists, veterinarians, and park rangers have been searching the area for the dead calves from shore and with boats, planes, and drones (The Hindu — Science & Technology, Fri, 16 Oct 2026 09:14:09 +0530).",
-   "topic": "The Hindu — Science & Technology Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-23"
-  },
-  {
-   "id": "general-science-daily-2026-10-23-80",
-   "question": "Which current affairs development was reported regarding: \"India’s green steel journey is still nascent but recent developments and policies have indicated that this hard-to-abate sunrise industry is rising up to the net-zero challenge. However, balancing growing demand with...\"?",
-   "options": [
-    "New form of carbon found: diamondiyne",
-    "India can cut steel emissions before new coal plants lock them in",
-    "Japan to launch spacecraft on a mission to get samples from a Martian moon",
-    "CERN and Mistral partner to build AI foundation models for physics"
-   ],
-   "answer": 1,
-   "explanation": "India can cut steel emissions before new coal plants lock them in — India’s green steel journey is still nascent but recent developments and policies have indicated that this hard-to-abate sunrise industry is rising up to the net-zero challenge. However, balancing growing demand with... (The Hindu — Science & Technology, Fri, 16 Oct 2026 07:13:47 +0530).",
-   "topic": "The Hindu — Science & Technology Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-23"
-  },
-  {
-   "id": "general-science-daily-2026-10-23-81",
-   "question": "Which current affairs development was reported regarding: \"Thanks to rising sea levels, scientists fear the entire archipelago could be unliveable by the end of the century\"?",
-   "options": [
-    "Satellite radiation: blocking the view",
-    "Tuvalu: Barely above water",
-    "The whales never stopped coming to Gujarat’s beaches, the watchers did",
-    "Jonathan, the giant tortoise, is 198 years old. Here is his secret"
-   ],
-   "answer": 1,
-   "explanation": "Tuvalu: Barely above water — Thanks to rising sea levels, scientists fear the entire archipelago could be unliveable by the end of the century (The Hindu — Science & Technology, Fri, 16 Oct 2026 02:52:45 +0530).",
-   "topic": "The Hindu — Science & Technology Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-23"
-  },
-  {
-   "id": "general-science-daily-2026-10-23-82",
-   "question": "Which current affairs development was reported regarding: \"The problem with headlines proclaiming that AI agents have gone rogue goes beyond anthropomorphising the technology. It creates the impression that the agents were beyond the control of the AI companies that made...\"?",
-   "options": [
-    "Tuvalu: Barely above water",
-    "The ‘WarGames’ problem: Computer science has long understood what it takes to keep AI under control",
-    "Being a good doctor is risky in India",
-    "IISc study says strong magnetic fields could allow white dwarfs to grow beyond the Chandrasekhar limit"
-   ],
-   "answer": 1,
-   "explanation": "The ‘WarGames’ problem: Computer science has long understood what it takes to keep AI under control — The problem with headlines proclaiming that AI agents have gone rogue goes beyond anthropomorphising the technology. It creates the impression that the agents were beyond the control of the AI companies that made... (The Hindu — Science & Technology, Fri, 16 Oct 2026 02:35:38 +0530).",
-   "topic": "The Hindu — Science & Technology Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-23"
-  },
-  {
-   "id": "general-science-daily-2026-10-23-83",
-   "question": "Which current affairs development was reported regarding: \"Powered by vast arrays of graphics processing units, large language models code better than experienced coders and write award-worthy novels; but as they have laboured through the weave of intricate mathematical...\"?",
-   "options": [
-    "Gaganyaan: ISRO completes key test ahead of first uncrewed mission",
-    "ISRO will not be privatised, says chairperson Narayanan",
-    "Being a good doctor is risky in India",
-    "As inscrutable AI proofs emerge, mathematicians wait in the dark"
+    "Conservation of Asiatic lions",
+    "Delivery of services through digital platforms",
+    "Lunar orbiter studying the Moon",
+    "Promotion of fitness and sports"
    ],
    "answer": 3,
-   "explanation": "As inscrutable AI proofs emerge, mathematicians wait in the dark — Powered by vast arrays of graphics processing units, large language models code better than experienced coders and write award-worthy novels; but as they have laboured through the weave of intricate mathematical... (The Hindu — Science & Technology, Thu, 15 Oct 2026 15:45:07 +0530).",
-   "topic": "The Hindu — Science & Technology Current Affairs",
+   "explanation": "Fit India Movement — Promotion of fitness and sports.",
+   "topic": "General Science — Space & Scientific Missions",
    "level": 2,
    "source": "daily",
-   "dailyDate": "2026-10-23"
+   "dailyDate": "2026-10-24"
   },
   {
-   "id": "general-science-daily-2026-10-23-84",
-   "question": "Which current affairs development was reported regarding: \"Not everyone is convinced Microsoft learnt the bigger lesson from its experience with announcing the Majorana 1 chip. As University of Pittsburgh professor Sergey Frolov has said, Microsoft’s previous record has left...\"?",
+   "id": "general-science-daily-2026-10-24-51",
+   "question": "In atmospheric and earth science: What is the greenhouse gas most responsible for global warming?",
    "options": [
-    "Science Snapshots: October 4, 2026",
-    "Food waste, a major contributor to climate change",
-    "Old doubts linger, yet new Microsoft quantum chip raises the stakes",
-    "IISc study says strong magnetic fields could allow white dwarfs to grow beyond the Chandrasekhar limit"
+    "Mawsynram",
+    "Carbon dioxide",
+    "Wind vane",
+    "Venus"
    ],
-   "answer": 2,
-   "explanation": "Old doubts linger, yet new Microsoft quantum chip raises the stakes — Not everyone is convinced Microsoft learnt the bigger lesson from its experience with announcing the Majorana 1 chip. As University of Pittsburgh professor Sergey Frolov has said, Microsoft’s previous record has left... (The Hindu — Science & Technology, Wed, 14 Oct 2026 15:17:51 +0530).",
-   "topic": "The Hindu — Science & Technology Current Affairs",
+   "answer": 1,
+   "explanation": "What is the greenhouse gas most responsible for global warming — Carbon dioxide.",
+   "topic": "General Science — Atmospheric & Earth Science",
    "level": 2,
    "source": "daily",
-   "dailyDate": "2026-10-23"
+   "dailyDate": "2026-10-24"
   },
   {
-   "id": "general-science-daily-2026-10-23-85",
-   "question": "Which current affairs development was reported regarding: \"While governments, as the patrons, are entitled to establish broad priorities and expectations, they should not use science policy as an excuse to politically micromanage research\"?",
+   "id": "general-science-daily-2026-10-24-76",
+   "question": "What is the primary scientific or strategic purpose of the 'INS Arighaat' mission or platform recently in the news?",
    "options": [
-    "Tuvalu: Barely above water",
-    "Two-Face molecule could help make IBD treatments more effective",
-    "What are ‘heat storms’?",
-    "Why science’s contract with society needs citizens as research partners"
+    "Joint lunar rover and lander mission to explore water ice in the permanently shadowed regions of the Moon's south pole",
+    "Strengthening India's sea-based nuclear triad as the second Arihant-class nuclear-powered ballistic missile submarine (SSBN)",
+    "Neutralising enemy radar and communication installations as an indigenously developed air-to-surface anti-radiation missile",
+    "Serving as a canisterised new-generation medium-range ballistic missile with a range between 1,000 and 2,000 km"
    ],
-   "answer": 3,
-   "explanation": "Why science’s contract with society needs citizens as research partners — While governments, as the patrons, are entitled to establish broad priorities and expectations, they should not use science policy as an excuse to politically micromanage research (The Hindu — Science & Technology, Wed, 14 Oct 2026 10:36:11 +0530).",
-   "topic": "The Hindu — Science & Technology Current Affairs",
+   "answer": 1,
+   "explanation": "INS Arighaat, developed or launched by Indian Navy and Ship Building Centre, Visakhapatnam, is designed for: Strengthening India's sea-based nuclear triad as the second Arihant-class nuclear-powered ballistic missile submarine (SSBN).",
+   "topic": "Science, Space & Defence Missions",
    "level": 2,
    "source": "daily",
-   "dailyDate": "2026-10-23"
+   "dailyDate": "2026-10-24"
   },
   {
-   "id": "general-science-daily-2026-10-25-42",
-   "question": "Which current affairs development was reported regarding: \"Elon Musk limited Ukraine’s access to the military-grade network of Starlink after Trum pcriticised Kyiv’s strikes on Russia’s energy infrastructure\"?",
+   "id": "general-science-daily-2026-10-25-01",
+   "question": "What is the primary scientific or strategic purpose of the 'INS Sandhayak' mission or platform recently in the news?",
    "options": [
-    "Starshield | The non-state sovereigns",
-    "Health Quiz: On arthritis",
-    "Government asks Meta to ensure its recommendation systems do not expose users to limited set of narratives",
-    "Russian military satellite makes ‘close approach’ to U.S. radar satellite in orbit"
+    "Conducting full-scale coastal and deep-water hydrographic surveys as the lead ship of the Sandhayak-class survey vessels",
+    "Exploring the metal-rich asteroid 16 Psyche in the main asteroid belt between Mars and Jupiter",
+    "Providing high-performance computing for astronomy, physics and earth sciences deployed under the National Supercomputing Mission",
+    "Returning the world's first rock and soil samples from the far side of the Moon (South Pole–Aitken Basin)"
    ],
    "answer": 0,
-   "explanation": "Starshield | The non-state sovereigns — Elon Musk limited Ukraine’s access to the military-grade network of Starlink after Trum pcriticised Kyiv’s strikes on Russia’s energy infrastructure (The Hindu — Science & Technology, Sun, 25 Oct 2026 01:42:51 +0530).",
-   "topic": "The Hindu — Science & Technology Current Affairs",
+   "explanation": "INS Sandhayak, developed or launched by Garden Reach Shipbuilders & Engineers (GRSE) for the Indian Navy, is designed for: Conducting full-scale coastal and deep-water hydrographic surveys as the lead ship of the Sandhayak-class survey vessels.",
+   "topic": "Science, Space & Defence Missions",
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-25"
   },
   {
-   "id": "general-science-daily-2026-10-25-97",
+   "id": "general-science-daily-2026-10-25-26",
    "question": "The BioE3 Policy approved by the Union Cabinet in August 2024 stands for Biotechnology for which three pillars?",
    "options": [
     "Exports, Enterprise and Ethics",
@@ -15911,324 +15255,420 @@
    "dailyDate": "2026-10-25"
   },
   {
-   "id": "general-science-daily-2026-10-26-47",
-   "question": "Which current affairs development was reported regarding: \"Claude Cohen-Tannoudji had many connections with India, including acknowledging the work of a little-known scientist who had died three decades before Cohen-Tannoudji won the Nobel Prize\"?",
+   "id": "general-science-daily-2026-10-25-51",
+   "question": "In general science classification, which specialized scientific discipline studies 'Chemical processes in living organisms'?",
    "options": [
-    "Why are the whites of human eyes white?",
-    "Top AI researchers demand action to prevent models going ‘rogue’",
-    "A physicist who took atoms near absolute zero, and physics further",
-    "‘Turtle Walker’: Zoya Akhtar-backed documentary pays tribute to Satish Bhaskar’s life and legacy"
-   ],
-   "answer": 2,
-   "explanation": "A physicist who took atoms near absolute zero, and physics further — Claude Cohen-Tannoudji had many connections with India, including acknowledging the work of a little-known scientist who had died three decades before Cohen-Tannoudji won the Nobel Prize (The Hindu — Science & Technology, Mon, 26 Oct 2026 07:19:34 +0530).",
-   "topic": "The Hindu — Science & Technology Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-26"
-  },
-  {
-   "id": "general-science-daily-2026-10-26-48",
-   "question": "Which current affairs development was reported regarding: \"A new study measured how different neighbouring languages were from one another. The authors say that linguistic hotspots may offer glimpses into how human languages became more varied before large migrations and...\"?",
-   "options": [
-    "Scientists unearth new instance of ‘contagious cancer’ in animals",
-    "How people’s genes are revealing why some languages are so unique",
-    "IISc study says strong magnetic fields could allow white dwarfs to grow beyond the Chandrasekhar limit",
-    "Indian scientists identify Martian analogue sites"
-   ],
-   "answer": 1,
-   "explanation": "How people’s genes are revealing why some languages are so unique — A new study measured how different neighbouring languages were from one another. The authors say that linguistic hotspots may offer glimpses into how human languages became more varied before large migrations and... (The Hindu — Science & Technology, Sun, 25 Oct 2026 19:39:33 +0530).",
-   "topic": "The Hindu — Science & Technology Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-26"
-  },
-  {
-   "id": "general-science-daily-2026-10-26-49",
-   "question": "Which current affairs development was reported regarding: \"Despite its proper structure, India’s only dedicated space university has just 1,356 students across all levels, a small base to feed a rapidly scaling space and defence-space programme\"?",
-   "options": [
-    "How poor education, training infra constrains India's military space plans",
-    "India’s first solar mission Aditya-L1 generates Doppler velocity images of the solar corona",
-    "Ex-OpenAI employee accused of planting device appears to have Saudi backing, court filing shows",
-    "Quiz: The Kalam Code"
+    "Biochemistry",
+    "Palaeontology",
+    "Physiology",
+    "Electromagnetism"
    ],
    "answer": 0,
-   "explanation": "How poor education, training infra constrains India's military space plans — Despite its proper structure, India’s only dedicated space university has just 1,356 students across all levels, a small base to feed a rapidly scaling space and defence-space programme (The Hindu — Science & Technology, Sun, 25 Oct 2026 18:02:35 +0530).",
-   "topic": "The Hindu — Science & Technology Current Affairs",
+   "explanation": "Biochemistry is the scientific branch dedicated to the study of Chemical processes in living organisms.",
+   "topic": "General Science — Scientific Disciplines & Branches",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "general-science-daily-2026-10-25-76",
+   "question": "In space and science technology, what is the primary scientific objective of 'Project Elephant'?",
+   "options": [
+    "Conservation of elephants and corridors",
+    "Cleanliness ranking of Indian cities",
+    "Soft landing near the lunar south pole",
+    "Conservation of tigers and their habitats"
+   ],
+   "answer": 0,
+   "explanation": "Project Elephant — Conservation of elephants and corridors.",
+   "topic": "General Science — Space & Scientific Missions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "general-science-daily-2026-10-26-01",
+   "question": "In atmospheric and earth science: How many planets are there in the Solar System?",
+   "options": [
+    "Barometer",
+    "Jaisalmer",
+    "Eye",
+    "Eight"
+   ],
+   "answer": 3,
+   "explanation": "How many planets are there in the Solar System — Eight.",
+   "topic": "General Science — Atmospheric & Earth Science",
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-26"
   },
   {
-   "id": "general-science-daily-2026-10-26-50",
-   "question": "Which current affairs development was reported regarding: \"User data is routinely commoditised today, and passing a law assuming compliance and waiting for complaints or litigation will not suffice. As the DPDP Act comes into effect, the government must finance, build, and...\"?",
+   "id": "general-science-daily-2026-10-26-26",
+   "question": "In space and science technology, what is the primary scientific objective of 'GSLV Mk III'?",
    "options": [
-    "Anna Mani: a star from the hills",
-    "ISRO will not be privatised, says chairperson Narayanan",
-    "India needs to train its clinical staff before erecting data shields",
-    "Indian research can shape the world"
+    "Multi-wavelength space observatory",
+    "Electronic delivery of government services",
+    "Online library for students",
+    "India's heavy lift launch vehicle"
    ],
-   "answer": 2,
-   "explanation": "India needs to train its clinical staff before erecting data shields — User data is routinely commoditised today, and passing a law assuming compliance and waiting for complaints or litigation will not suffice. As the DPDP Act comes into effect, the government must finance, build, and... (The Hindu — Science & Technology, Sun, 25 Oct 2026 17:08:03 +0530).",
-   "topic": "The Hindu — Science & Technology Current Affairs",
+   "answer": 3,
+   "explanation": "GSLV Mk III — India's heavy lift launch vehicle.",
+   "topic": "General Science — Space & Scientific Missions",
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-26"
   },
   {
    "id": "general-science-daily-2026-10-26-51",
-   "question": "Which current affairs development was reported regarding: \"The ISRO chief said that the upcoming Kulasekarapattinam spaceport facility will feature crucial infrastructure such as integration buildings, launch pads, rail-track systems, telemetry, tracking, and command systems\"?",
+   "question": "In general science classification, which specialized scientific discipline studies 'Solid Earth and its rocks'?",
    "options": [
-    "ISRO to have four launch pads by 2029, says Narayanan",
-    "Japan to launch spacecraft on a mission to get samples from a Martian moon",
-    "Health Quiz: On arthritis",
-    "Ex-OpenAI employee accused of planting device appears to have Saudi backing, court filing shows"
+    "Ophthalmology",
+    "Philately",
+    "Geology",
+    "Zoology"
    ],
-   "answer": 0,
-   "explanation": "ISRO to have four launch pads by 2029, says Narayanan — The ISRO chief said that the upcoming Kulasekarapattinam spaceport facility will feature crucial infrastructure such as integration buildings, launch pads, rail-track systems, telemetry, tracking, and command systems (The Hindu — Science & Technology, Sun, 25 Oct 2026 11:23:44 +0530).",
-   "topic": "The Hindu — Science & Technology Current Affairs",
+   "answer": 2,
+   "explanation": "Geology is the scientific branch dedicated to the study of Solid Earth and its rocks.",
+   "topic": "General Science — Scientific Disciplines & Branches",
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-26"
   },
   {
-   "id": "general-science-daily-2026-10-27-56",
-   "question": "Which current affairs development was reported regarding: \"Kashmir’s traditional varieties carry cold-tolerance and other locally adapted genes that modern varieties have partly lost, making them potentially valuable as climate change increases stress on crops, new research...\"?",
+   "id": "general-science-daily-2026-10-26-76",
+   "question": "In atmospheric and earth science: What is molten rock that reaches the surface called?",
    "options": [
-    "In Kashmir’s traditional rice, clues to a journey from East Asia",
-    "Ex-OpenAI employee accused of planting device appears to have Saudi backing, court filing shows",
-    "Why is glass transparent?",
-    "Tap space-tech start-ups’ capabilities for major projects of Indian space programme: G. Madhavan Nair"
+    "Epicentre",
+    "Lava",
+    "Carbon dioxide",
+    "Monsoon"
    ],
-   "answer": 0,
-   "explanation": "In Kashmir’s traditional rice, clues to a journey from East Asia — Kashmir’s traditional varieties carry cold-tolerance and other locally adapted genes that modern varieties have partly lost, making them potentially valuable as climate change increases stress on crops, new research... (The Hindu — Science & Technology, Mon, 26 Oct 2026 14:58:11 +0530).",
-   "topic": "The Hindu — Science & Technology Current Affairs",
+   "answer": 1,
+   "explanation": "What is molten rock that reaches the surface called — Lava.",
+   "topic": "General Science — Atmospheric & Earth Science",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "general-science-daily-2026-10-27-01",
+   "question": "In general science classification, which specialized scientific discipline studies 'Beekeeping'?",
+   "options": [
+    "Ophthalmology",
+    "Philately",
+    "Apiculture",
+    "Meteorology"
+   ],
+   "answer": 2,
+   "explanation": "Apiculture is the scientific branch dedicated to the study of Beekeeping.",
+   "topic": "General Science — Scientific Disciplines & Branches",
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-27"
   },
   {
-   "id": "general-science-daily-2026-10-27-57",
-   "question": "Which current affairs development was reported regarding: \"In a preprint paper uploaded to the arXiv repository in July 2025, Marathon scientists had predicted this process could produce roughly 2 tonnes of gold annually for every gigawatt (GW) of thermal fusion power\"?",
+   "id": "general-science-daily-2026-10-27-26",
+   "question": "In atmospheric and earth science: Which instrument measures wind direction?",
    "options": [
-    "After Musk ‘punishes’ Ukraine, how exposed is India to foreign tech?",
-    "India’s first solar mission Aditya-L1 generates Doppler velocity images of the solar corona",
-    "Starshield | The non-state sovereigns",
-    "Seven caveats in the claim about turning mercury into gold with nuclear fusion"
+    "Aluminium",
+    "June to September",
+    "About 21 per cent",
+    "Wind vane"
    ],
    "answer": 3,
-   "explanation": "Seven caveats in the claim about turning mercury into gold with nuclear fusion — In a preprint paper uploaded to the arXiv repository in July 2025, Marathon scientists had predicted this process could produce roughly 2 tonnes of gold annually for every gigawatt (GW) of thermal fusion power (The Hindu — Science & Technology, Mon, 26 Oct 2026 13:45:55 +0530).",
-   "topic": "The Hindu — Science & Technology Current Affairs",
+   "explanation": "Which instrument measures wind direction — Wind vane.",
+   "topic": "General Science — Atmospheric & Earth Science",
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-27"
   },
   {
-   "id": "general-science-daily-2026-10-28-54",
-   "question": "Which current affairs development was reported regarding: \"In his fourth term, the President can potentially negotiate across the divides that currently frustrate climate agreements, given his country’s status as Latin America’s largest economy, host to most of the Amazon,...\"?",
+   "id": "general-science-daily-2026-10-27-51",
+   "question": "In space and science technology, what is the primary scientific objective of 'Faster Adoption and Manufacturing of Electric Vehicles'?",
    "options": [
-    "Why are the whites of human eyes white?",
-    "How people’s genes are revealing why some languages are so unique",
-    "Indian scientists identify Martian analogue sites",
-    "Lula’s win gives Brazil an opportunity to cement its climate leadership, but challenges remain"
-   ],
-   "answer": 3,
-   "explanation": "Lula’s win gives Brazil an opportunity to cement its climate leadership, but challenges remain — In his fourth term, the President can potentially negotiate across the divides that currently frustrate climate agreements, given his country’s status as Latin America’s largest economy, host to most of the Amazon,... (The Hindu — Science & Technology, Tue, 27 Oct 2026 20:09:05 +0530).",
-   "topic": "The Hindu — Science & Technology Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-28"
-  },
-  {
-   "id": "general-science-daily-2026-10-28-55",
-   "question": "Which current affairs development was reported regarding: \"Laboratory tests show higher protein bioavailability in five plant-based products than in their chicken counterparts; researchers caution further studies needed to assess health benefits\"?",
-   "options": [
-    "Scientists unearth new instance of ‘contagious cancer’ in animals",
-    "Plant-based meat yields higher share of absorbable protein than traditional meat: study",
-    "‘Turtle Walker’: Zoya Akhtar-backed documentary pays tribute to Satish Bhaskar’s life and legacy",
-    "Science Snapshots: October 25, 2026"
-   ],
-   "answer": 1,
-   "explanation": "Plant-based meat yields higher share of absorbable protein than traditional meat: study — Laboratory tests show higher protein bioavailability in five plant-based products than in their chicken counterparts; researchers caution further studies needed to assess health benefits (The Hindu — Science & Technology, Tue, 27 Oct 2026 18:17:34 +0530).",
-   "topic": "The Hindu — Science & Technology Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-28"
-  },
-  {
-   "id": "general-science-daily-2026-10-28-56",
-   "question": "Which current affairs development was reported regarding: \"The findings of new research reinforce a long-standing idea in genetics that there is no single ‘personality gene’; the dataset the researchers used also directly challenged older theories that attempted to link...\"?",
-   "options": [
-    "Your DNA says less about your personality than a short online quiz",
-    "Scientists unearth new instance of ‘contagious cancer’ in animals",
-    "Why scratching an itch feel so good",
-    "First Nation community in Canada uses data centre to preserve its heritage"
+    "Electric vehicle promotion",
+    "Skilling and vocational training",
+    "Instant bank to bank payments system",
+    "Global cooperation on solar energy"
    ],
    "answer": 0,
-   "explanation": "Your DNA says less about your personality than a short online quiz — The findings of new research reinforce a long-standing idea in genetics that there is no single ‘personality gene’; the dataset the researchers used also directly challenged older theories that attempted to link... (The Hindu — Science & Technology, Tue, 27 Oct 2026 15:08:11 +0530).",
-   "topic": "The Hindu — Science & Technology Current Affairs",
+   "explanation": "Faster Adoption and Manufacturing of Electric Vehicles — Electric vehicle promotion.",
+   "topic": "General Science — Space & Scientific Missions",
    "level": 2,
    "source": "daily",
-   "dailyDate": "2026-10-28"
+   "dailyDate": "2026-10-27"
   },
   {
-   "id": "general-science-daily-2026-10-28-57",
-   "question": "Which current affairs development was reported regarding: \"Scratch, scratch… and then you hit the exact spot. Aah, yes! We have all had that satisfying moment when a stubborn itch finally disappears under our fingernails. But why does scratching an itch feel so good, and...\"?",
+   "id": "general-science-daily-2026-10-27-76",
+   "question": "What is the primary scientific or strategic purpose of the 'Arka and Arunika' mission or platform recently in the news?",
    "options": [
-    "In Kashmir’s traditional rice, clues to a journey from East Asia",
-    "Bleached corals brought back to luminous life, in two lab experiments",
-    "Why scratching an itch feel so good",
-    "India’s first solar mission Aditya-L1 generates Doppler velocity images of the solar corona"
+    "Engaging manoeuvring supersonic aerial targets as an indigenous Beyond Visual Range Air-to-Air Missile (BVRAAM)",
+    "Studying the dense atmosphere, surface geology and solar wind interaction of planet Venus",
+    "Running high-resolution numerical weather prediction models for cyclone, heavy rainfall and heatwave forecasting",
+    "Exploring the metal-rich asteroid 16 Psyche in the main asteroid belt between Mars and Jupiter"
    ],
    "answer": 2,
-   "explanation": "Why scratching an itch feel so good — Scratch, scratch… and then you hit the exact spot. Aah, yes! We have all had that satisfying moment when a stubborn itch finally disappears under our fingernails. But why does scratching an itch feel so good, and... (The Hindu — Science & Technology, Tue, 27 Oct 2026 14:23:58 +0530).",
-   "topic": "The Hindu — Science & Technology Current Affairs",
+   "explanation": "Arka and Arunika, developed or launched by Ministry of Earth Sciences (IITM Pune and NCMRWF Noida), is designed for: Running high-resolution numerical weather prediction models for cyclone, heavy rainfall and heatwave forecasting.",
+   "topic": "Science, Space & Defence Missions",
    "level": 2,
    "source": "daily",
-   "dailyDate": "2026-10-28"
+   "dailyDate": "2026-10-27"
   },
   {
-   "id": "general-science-daily-2026-10-28-58",
-   "question": "Which current affairs development was reported regarding: \"The idea of turning a human body into compost might sound unusual, or even unsettling. But how does it actually work? Is it a better alternative to existing methods?\"?",
+   "id": "general-science-daily-2026-10-28-01",
+   "question": "What is the primary scientific or strategic purpose of the 'Europa Clipper' mission or platform recently in the news?",
    "options": [
-    "What is ‘human composting’ — how does it work?",
-    "Japan to launch spacecraft on a mission to get samples from a Martian moon",
-    "In Kashmir’s traditional rice, clues to a journey from East Asia",
-    "First Nation community in Canada uses data centre to preserve its heritage"
-   ],
-   "answer": 0,
-   "explanation": "What is ‘human composting’ — how does it work? — The idea of turning a human body into compost might sound unusual, or even unsettling. But how does it actually work? Is it a better alternative to existing methods? (The Hindu — Science & Technology, Tue, 27 Oct 2026 12:17:14 +0530).",
-   "topic": "The Hindu — Science & Technology Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-28"
-  },
-  {
-   "id": "general-science-daily-2026-10-29-56",
-   "question": "Which current affairs development was reported regarding: \"The Hindu’s weekly Science for All newsletter explains all things Science, without the jargon\"?",
-   "options": [
-    "India’s first solar mission Aditya-L1 generates Doppler velocity images of the solar corona",
-    "How the humble salt marsh softens the ocean’s fury",
-    "Tamil Nadu may encounter El Niño differently from rest of India",
-    "A physicist who took atoms near absolute zero, and physics further"
+    "Preventing train collisions automatically as India's indigenous Automatic Train Protection (ATP) system approved by RDSO",
+    "Investigating whether Jupiter's icy moon Europa has conditions suitable for life beneath its subsurface ocean",
+    "Exploring the metal-rich asteroid 16 Psyche in the main asteroid belt between Mars and Jupiter",
+    "Neutralising enemy radar and communication installations as an indigenously developed air-to-surface anti-radiation missile"
    ],
    "answer": 1,
-   "explanation": "How the humble salt marsh softens the ocean’s fury — The Hindu’s weekly Science for All newsletter explains all things Science, without the jargon (The Hindu — Science & Technology, Thu, 29 Oct 2026 10:17:59 +0530).",
-   "topic": "The Hindu — Science & Technology Current Affairs",
+   "explanation": "Europa Clipper, developed or launched by NASA, is designed for: Investigating whether Jupiter's icy moon Europa has conditions suitable for life beneath its subsurface ocean.",
+   "topic": "Science, Space & Defence Missions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "general-science-daily-2026-10-28-26",
+   "question": "In atmospheric and earth science: Which layer of the atmosphere contains the ozone layer?",
+   "options": [
+    "Norwester (Kal Baisakhi)",
+    "Stratosphere",
+    "Rain gauge",
+    "Mawsynram"
+   ],
+   "answer": 1,
+   "explanation": "Which layer of the atmosphere contains the ozone layer — Stratosphere.",
+   "topic": "General Science — Atmospheric & Earth Science",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "general-science-daily-2026-10-28-51",
+   "question": "In space and science technology, what is the primary scientific objective of 'Ujjwala Mission'?",
+   "options": [
+    "Electronic delivery of government services",
+    "Clean cooking fuel for poor households",
+    "Workhorse polar satellite launch vehicle",
+    "Affordable housing in urban areas"
+   ],
+   "answer": 1,
+   "explanation": "Ujjwala Mission — Clean cooking fuel for poor households.",
+   "topic": "General Science — Space & Scientific Missions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "general-science-daily-2026-10-28-76",
+   "question": "In general science classification, which specialized scientific discipline studies 'Diseases'?",
+   "options": [
+    "Zoology",
+    "Biochemistry",
+    "Pathology",
+    "Pisciculture"
+   ],
+   "answer": 2,
+   "explanation": "Pathology is the scientific branch dedicated to the study of Diseases.",
+   "topic": "General Science — Scientific Disciplines & Branches",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "general-science-daily-2026-10-29-01",
+   "question": "In atmospheric and earth science: Which layer of the atmosphere reflects radio waves?",
+   "options": [
+    "June to September",
+    "Mango showers",
+    "Ionosphere",
+    "From the land to the sea"
+   ],
+   "answer": 2,
+   "explanation": "Which layer of the atmosphere reflects radio waves — Ionosphere.",
+   "topic": "General Science — Atmospheric & Earth Science",
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-29"
   },
   {
-   "id": "general-science-daily-2026-10-29-57",
-   "question": "Which current affairs development was reported regarding: \"An experimental therapy called CRMA-1001 is a remarkable development because, instead of targeting the virus directly, it silences the viral DNA; this is promising because current treatments rarely eliminate the DNA,...\"?",
+   "id": "general-science-daily-2026-10-29-26",
+   "question": "In general science classification, which specialized scientific discipline studies 'Earthquakes'?",
    "options": [
-    "Gene therapy offers to beat hepatitis B virus by muting its DNA",
-    "Scientists unearth new instance of ‘contagious cancer’ in animals",
-    "Mining project threatens future of rare Jeypore ground gecko",
-    "Science Snapshots: October 25, 2026"
-   ],
-   "answer": 0,
-   "explanation": "Gene therapy offers to beat hepatitis B virus by muting its DNA — An experimental therapy called CRMA-1001 is a remarkable development because, instead of targeting the virus directly, it silences the viral DNA; this is promising because current treatments rarely eliminate the DNA,... (The Hindu — Science & Technology, Wed, 28 Oct 2026 16:07:14 +0530).",
-   "topic": "The Hindu — Science & Technology Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-29"
-  },
-  {
-   "id": "general-science-daily-2026-10-29-58",
-   "question": "Which current affairs development was reported regarding: \"As new tools like apomixis become more widely available and private companies start investing more in Indian seeds, it is as important to think about how our system will adapt to these changes as it is to invest in...\"?",
-   "options": [
-    "New form of carbon found: diamondiyne",
-    "Being a good doctor is risky in India",
-    "New genetic tools are breathing fresh life into India’s staple crops",
-    "In Kashmir’s traditional rice, clues to a journey from East Asia"
-   ],
-   "answer": 2,
-   "explanation": "New genetic tools are breathing fresh life into India’s staple crops — As new tools like apomixis become more widely available and private companies start investing more in Indian seeds, it is as important to think about how our system will adapt to these changes as it is to invest in... (The Hindu — Science & Technology, Wed, 28 Oct 2026 14:25:03 +0530).",
-   "topic": "The Hindu — Science & Technology Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-29"
-  },
-  {
-   "id": "general-science-daily-2026-10-30-58",
-   "question": "Which current affairs development was reported regarding: \"The draft Rules specify which animals can be used in research, what experiments are permitted and what safeguards are needed to minimise their suffering. The public can submit comments on the draft until November 5\"?",
-   "options": [
-    "Animal experiments, what the new draft rules allow and what they mean for research | Explained",
-    "Seven caveats in the claim about turning mercury into gold with nuclear fusion",
-    "First Nation community in Canada uses data centre to preserve its heritage",
-    "Government asks Meta to ensure its recommendation systems do not expose users to limited set of narratives"
-   ],
-   "answer": 0,
-   "explanation": "Animal experiments, what the new draft rules allow and what they mean for research | Explained — The draft Rules specify which animals can be used in research, what experiments are permitted and what safeguards are needed to minimise their suffering. The public can submit comments on the draft until November 5 (The Hindu — Science & Technology, Thu, 29 Oct 2026 18:58:48 +0530).",
-   "topic": "The Hindu — Science & Technology Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-30"
-  },
-  {
-   "id": "general-science-daily-2026-10-30-59",
-   "question": "Which current affairs development was reported regarding: \"Insect pests cause roughly 20% of global annual crop losses, a figure projected to rise with warming, and crop protection still leans heavily on chemical insecticides. Learning how plants sense attack could point to...\"?",
-   "options": [
-    "Two-Face molecule could help make IBD treatments more effective",
-    "Feral dogs ‘a major threat’ to vultures in Thar desert, study finds",
-    "Indian scientists find new gateway in plants’ alarm system",
-    "Animal experiments, what the new draft rules allow and what they mean for research | Explained"
-   ],
-   "answer": 2,
-   "explanation": "Indian scientists find new gateway in plants’ alarm system — Insect pests cause roughly 20% of global annual crop losses, a figure projected to rise with warming, and crop protection still leans heavily on chemical insecticides. Learning how plants sense attack could point to... (The Hindu — Science & Technology, Thu, 29 Oct 2026 15:37:33 +0530).",
-   "topic": "The Hindu — Science & Technology Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-30"
-  },
-  {
-   "id": "general-science-daily-2026-10-30-60",
-   "question": "Which current affairs development was reported regarding: \"For instance, even though birds and mammals comprise less than 1 per cent of animal biodiversity, they dominate both conservation and research efforts, find two studies.\"?",
-   "options": [
-    "Remembering Rosalind Franklin, whose photograph was crucial to discovering DNA’s structure",
-    "Japan to launch spacecraft on a mission to get samples from a Martian moon",
-    "Jonathan, the giant tortoise, is 198 years old. Here is his secret",
-    "Taxonomic ‘chauvinism’ rife in ecological literature"
-   ],
-   "answer": 3,
-   "explanation": "Taxonomic ‘chauvinism’ rife in ecological literature — For instance, even though birds and mammals comprise less than 1 per cent of animal biodiversity, they dominate both conservation and research efforts, find two studies. (The Hindu — Science & Technology, Thu, 29 Oct 2026 13:20:09 +0530).",
-   "topic": "The Hindu — Science & Technology Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-30"
-  },
-  {
-   "id": "general-science-daily-2026-10-30-61",
-   "question": "Which current affairs development was reported regarding: \"A newly developed AI model aids art attribution, which traditionally takes a trained human eye and several tools, reports a new research paper.\"?",
-   "options": [
-    "Inadequate sleep increases the risk of fatty liver disease",
-    "Gaganyaan: ISRO completes key test ahead of first uncrewed mission",
-    "To make India a richer nation, ensure more green and blue spaces",
-    "AI can help experts tell a real Rembrandt from a fake"
-   ],
-   "answer": 3,
-   "explanation": "AI can help experts tell a real Rembrandt from a fake — A newly developed AI model aids art attribution, which traditionally takes a trained human eye and several tools, reports a new research paper. (The Hindu — Science & Technology, Thu, 29 Oct 2026 12:00:50 +0530).",
-   "topic": "The Hindu — Science & Technology Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-30"
-  },
-  {
-   "id": "general-science-daily-2026-10-30-62",
-   "question": "Which current affairs development was reported regarding: \"More green and blue spaces means more biodiversity and civic sense through parks, sports fields, higher physical activities, and camaraderie among locals\"?",
-   "options": [
-    "Tamil Nadu may encounter El Niño differently from rest of India",
-    "To make India a richer nation, ensure more green and blue spaces",
-    "India’s first solar mission Aditya-L1 generates Doppler velocity images of the solar corona",
-    "What are ‘heat storms’?"
+    "Physiology",
+    "Seismology",
+    "Physics",
+    "Mechanics"
    ],
    "answer": 1,
-   "explanation": "To make India a richer nation, ensure more green and blue spaces — More green and blue spaces means more biodiversity and civic sense through parks, sports fields, higher physical activities, and camaraderie among locals (The Hindu — Science & Technology, Tue, 27 Oct 2026 16:04:08 +0530).",
-   "topic": "The Hindu — Science & Technology Current Affairs",
+   "explanation": "Seismology is the scientific branch dedicated to the study of Earthquakes.",
+   "topic": "General Science — Scientific Disciplines & Branches",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "general-science-daily-2026-10-29-51",
+   "question": "In space and science technology, what is the primary scientific objective of 'International Solar Alliance'?",
+   "options": [
+    "Global cooperation on solar energy",
+    "Human spaceflight programme of India",
+    "Radar imaging satellites for all-weather observation",
+    "Multi-wavelength space observatory"
+   ],
+   "answer": 0,
+   "explanation": "International Solar Alliance — Global cooperation on solar energy.",
+   "topic": "General Science — Space & Scientific Missions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "general-science-daily-2026-10-29-76",
+   "question": "What is the primary scientific or strategic purpose of the 'Agni-Prime (Agni-P)' mission or platform recently in the news?",
+   "options": [
+    "Engaging manoeuvring supersonic aerial targets as an indigenous Beyond Visual Range Air-to-Air Missile (BVRAAM)",
+    "Serving as a canisterised new-generation medium-range ballistic missile with a range between 1,000 and 2,000 km",
+    "Exploring the metal-rich asteroid 16 Psyche in the main asteroid belt between Mars and Jupiter",
+    "Returning the world's first rock and soil samples from the far side of the Moon (South Pole–Aitken Basin)"
+   ],
+   "answer": 1,
+   "explanation": "Agni-Prime (Agni-P), developed or launched by DRDO (Defence Research and Development Organisation), is designed for: Serving as a canisterised new-generation medium-range ballistic missile with a range between 1,000 and 2,000 km.",
+   "topic": "Science, Space & Defence Missions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "general-science-daily-2026-10-30-01",
+   "question": "In space and science technology, what is the primary scientific objective of 'National Broadband Mission'?",
+   "options": [
+    "Adoption of electric vehicles",
+    "Promotion of fitness and sports",
+    "Optical fibre connectivity to gram panchayats",
+    "Broadband for all by 2024"
+   ],
+   "answer": 3,
+   "explanation": "National Broadband Mission — Broadband for all by 2024.",
+   "topic": "General Science — Space & Scientific Missions",
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "general-science-daily-2026-10-30-26",
+   "question": "What is the primary scientific or strategic purpose of the 'Kavach 4.0' mission or platform recently in the news?",
+   "options": [
+    "Preventing train collisions automatically as India's indigenous Automatic Train Protection (ATP) system approved by RDSO",
+    "Providing high-performance computing for astronomy, physics and earth sciences deployed under the National Supercomputing Mission",
+    "Strengthening India's sea-based nuclear triad as the second Arihant-class nuclear-powered ballistic missile submarine (SSBN)",
+    "Returning the world's first rock and soil samples from the far side of the Moon (South Pole–Aitken Basin)"
+   ],
+   "answer": 0,
+   "explanation": "Kavach 4.0, developed or launched by Research Designs and Standards Organisation (RDSO) and Indian Railways, is designed for: Preventing train collisions automatically as India's indigenous Automatic Train Protection (ATP) system approved by RDSO.",
+   "topic": "Science, Space & Defence Missions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "general-science-daily-2026-10-30-51",
+   "question": "In general science classification, which specialized scientific discipline studies 'Weather and atmosphere'?",
+   "options": [
+    "Zoology",
+    "Meteorology",
+    "Cardiology",
+    "Anatomy"
+   ],
+   "answer": 1,
+   "explanation": "Meteorology is the scientific branch dedicated to the study of Weather and atmosphere.",
+   "topic": "General Science — Scientific Disciplines & Branches",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "general-science-daily-2026-10-30-76",
+   "question": "In general science classification, which specialized scientific discipline studies 'Nervous system'?",
+   "options": [
+    "Neurology",
+    "Numismatics",
+    "Geology",
+    "Oceanography"
+   ],
+   "answer": 0,
+   "explanation": "Neurology is the scientific branch dedicated to the study of Nervous system.",
+   "topic": "General Science — Scientific Disciplines & Branches",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "general-science-daily-2026-10-31-01",
+   "question": "In space and science technology, what is the primary scientific objective of 'INSAT'?",
+   "options": [
+    "Heritage city development and rejuvenation",
+    "Workhorse polar satellite launch vehicle",
+    "Grassroots sports development",
+    "Communication and weather satellites"
+   ],
+   "answer": 3,
+   "explanation": "INSAT — Communication and weather satellites.",
+   "topic": "General Science — Space & Scientific Missions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "general-science-daily-2026-10-31-26",
+   "question": "In atmospheric and earth science: Which place receives the highest rainfall in the world?",
+   "options": [
+    "Jupiter",
+    "Mawsynram",
+    "Ionosphere",
+    "Geology"
+   ],
+   "answer": 1,
+   "explanation": "Which place receives the highest rainfall in the world — Mawsynram.",
+   "topic": "General Science — Atmospheric & Earth Science",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "general-science-daily-2026-10-31-51",
+   "question": "In general science classification, which specialized scientific discipline studies 'Heredity and variation'?",
+   "options": [
+    "Histology",
+    "Sericulture",
+    "Ecology",
+    "Genetics"
+   ],
+   "answer": 3,
+   "explanation": "Genetics is the scientific branch dedicated to the study of Heredity and variation.",
+   "topic": "General Science — Scientific Disciplines & Branches",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "general-science-daily-2026-10-31-76",
+   "question": "In space and science technology, what is the primary scientific objective of 'Ek Bharat Shreshtha Bharat'?",
+   "options": [
+    "Cultural integration across states",
+    "Adoption of electric vehicles",
+    "Eight national missions on climate",
+    "Broadband for all by 2024"
+   ],
+   "answer": 0,
+   "explanation": "Ek Bharat Shreshtha Bharat — Cultural integration across states.",
+   "topic": "General Science — Space & Scientific Missions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
   }
  ]
 };

@@ -12,7 +12,7 @@
   "railways"
  ],
  "blurb": "Physical, world and Indian geography with climate and minerals.",
- "count": 1005,
+ "count": 1040,
  "questions": [
   {
    "id": "geography-00001",
@@ -15079,7 +15079,151 @@
    "dailyDate": "2026-10-22"
   },
   {
-   "id": "geography-daily-2026-10-25-99",
+   "id": "geography-daily-2026-10-23-13",
+   "question": "In physical and regional geography, which bodies of water or landmasses are connected or separated by 'Bosphorus (Istanbul) Strait'?",
+   "options": [
+    "Mountain pass in the Spin Ghar range connecting Peshawar (Pakistan) with Jalalabad and Kabul (Afghanistan)",
+    "Connects the Arctic Ocean (Chukchi Sea) with the Bering Sea (Pacific Ocean) between Russia's Chukotka Peninsula and Alaska",
+    "Separates the island of Minicoy from the main Lakshadweep archipelago in the Arabian Sea",
+    "Connects the Black Sea with the Sea of Marmara and separates European Turkey from Asian Turkey (Anatolia)"
+   ],
+   "answer": 3,
+   "explanation": "Bosphorus (Istanbul) Strait connects or separates: Connects the Black Sea with the Sea of Marmara and separates European Turkey from Asian Turkey (Anatolia) (forms part of the continental boundary between Europe and Asia alongside the Dardanelles).",
+   "topic": "World & Indian Geography in Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "geography-daily-2026-10-23-38",
+   "question": "In the geography of India, 'Manganese' is associated with which origin, river, state or region?",
+   "options": [
+    "Amarkantak",
+    "Bhagirathi",
+    "Odisha",
+    "Maharashtra"
+   ],
+   "answer": 2,
+   "explanation": "In Indian geography, Manganese is associated with Odisha.",
+   "topic": "Geography of India — Rivers, Dams, Mountain Passes & Minerals",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "geography-daily-2026-10-23-63",
+   "question": "In physical and regional geography: Which country is known as the Land of the Rising Sun?",
+   "options": [
+    "Pacific Ocean",
+    "Japan",
+    "Kanyakumari",
+    "Prime Meridian"
+   ],
+   "answer": 1,
+   "explanation": "Which country is known as the Land of the Rising Sun? — Japan.",
+   "topic": "Indian & World Geography — Physical & Regional Facts",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "geography-daily-2026-10-23-88",
+   "question": "In the geography of India, 'Sardar Sarovar Dam' is associated with which origin, river, state or region?",
+   "options": [
+    "Rajasthan",
+    "Narmada",
+    "Maharashtra",
+    "Barakar"
+   ],
+   "answer": 1,
+   "explanation": "In Indian geography, Sardar Sarovar Dam is associated with Narmada.",
+   "topic": "Geography of India — Rivers, Dams, Mountain Passes & Minerals",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "geography-daily-2026-10-24-13",
+   "question": "In physical and regional geography: Which Indian city is called the Diamond City?",
+   "options": [
+    "Ural Mountains",
+    "Surat",
+    "Lake Baikal",
+    "Indira Point"
+   ],
+   "answer": 1,
+   "explanation": "Which Indian city is called the Diamond City? — Surat.",
+   "topic": "Indian & World Geography — Physical & Regional Facts",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "geography-daily-2026-10-24-38",
+   "question": "In the geography of India, 'Bhor Ghat' is associated with which origin, river, state or region?",
+   "options": [
+    "Maharashtra",
+    "Andhra Pradesh",
+    "Himachal Pradesh",
+    "Uttarakhand"
+   ],
+   "answer": 0,
+   "explanation": "In Indian geography, Bhor Ghat is associated with Maharashtra.",
+   "topic": "Geography of India — Rivers, Dams, Mountain Passes & Minerals",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "geography-daily-2026-10-24-63",
+   "question": "In physical and regional geography: Which state of India touches the Bay of Bengal and the Arabian Sea?",
+   "options": [
+    "West Bengal",
+    "Sahara Desert",
+    "Tamil Nadu",
+    "Chhattisgarh"
+   ],
+   "answer": 2,
+   "explanation": "Which state of India touches the Bay of Bengal and the Arabian Sea? — Tamil Nadu.",
+   "topic": "Indian & World Geography — Physical & Regional Facts",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "geography-daily-2026-10-24-88",
+   "question": "In physical and regional geography, which bodies of water or landmasses are connected or separated by 'Duncan Passage'?",
+   "options": [
+    "Connects the Arctic Ocean (Chukchi Sea) with the Bering Sea (Pacific Ocean) between Russia's Chukotka Peninsula and Alaska",
+    "Arm of the Indian Ocean located between the island nation of Madagascar and mainland Southeast Africa (Mozambique)",
+    "Separates Rutland Island (part of South Andaman) from Little Andaman",
+    "Connects the Java Sea to the Indian Ocean between the Indonesian islands of Java and Sumatra"
+   ],
+   "answer": 2,
+   "explanation": "Duncan Passage connects or separates: Separates Rutland Island (part of South Andaman) from Little Andaman (a 48 km wide strait located within the Andaman archipelago in the Bay of Bengal).",
+   "topic": "World & Indian Geography in Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "geography-daily-2026-10-25-13",
+   "question": "In the geography of India, 'Pir Panjal Pass' is associated with which origin, river, state or region?",
+   "options": [
+    "Rihand",
+    "Jammu and Kashmir",
+    "Odisha",
+    "Maharashtra"
+   ],
+   "answer": 1,
+   "explanation": "In Indian geography, Pir Panjal Pass is associated with Jammu and Kashmir.",
+   "topic": "Geography of India — Rivers, Dams, Mountain Passes & Minerals",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "geography-daily-2026-10-25-38",
    "question": "In physical and regional geography, which bodies of water or landmasses are connected or separated by 'Mozambique Channel'?",
    "options": [
     "Arm of the Indian Ocean located between the island nation of Madagascar and mainland Southeast Africa (Mozambique)",
@@ -15093,6 +15237,422 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "geography-daily-2026-10-25-63",
+   "question": "In physical and regional geography: Which Indian state shares borders with the maximum number of states?",
+   "options": [
+    "France",
+    "Punjab",
+    "Surat",
+    "Uttar Pradesh"
+   ],
+   "answer": 3,
+   "explanation": "Which Indian state shares borders with the maximum number of states? — Uttar Pradesh.",
+   "topic": "Indian & World Geography — Physical & Regional Facts",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "geography-daily-2026-10-25-88",
+   "question": "In the geography of India, 'Bauxite' is associated with which origin, river, state or region?",
+   "options": [
+    "Amarkantak",
+    "Mahabaleshwar",
+    "Odisha",
+    "Ladakh"
+   ],
+   "answer": 2,
+   "explanation": "In Indian geography, Bauxite is associated with Odisha.",
+   "topic": "Geography of India — Rivers, Dams, Mountain Passes & Minerals",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "geography-daily-2026-10-26-13",
+   "question": "In physical and regional geography, which bodies of water or landmasses are connected or separated by 'Bab-el-Mandeb Strait'?",
+   "options": [
+    "Connects the Atlantic Ocean to the Mediterranean Sea and separates Spain (Europe) from Morocco (Africa)",
+    "Separates Little Andaman (Andaman Islands) from Car Nicobar (Nicobar Islands) in the Bay of Bengal",
+    "Separates Rutland Island (part of South Andaman) from Little Andaman",
+    "Connects the Red Sea to the Gulf of Aden (Indian Ocean) between Yemen on the Arabian Peninsula and Djibouti/Eritrea in the Horn of Africa"
+   ],
+   "answer": 3,
+   "explanation": "Bab-el-Mandeb Strait connects or separates: Connects the Red Sea to the Gulf of Aden (Indian Ocean) between Yemen on the Arabian Peninsula and Djibouti/Eritrea in the Horn of Africa (vital maritime gateway linking the Suez Canal shipping route with the Indian Ocean).",
+   "topic": "World & Indian Geography in Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "geography-daily-2026-10-26-38",
+   "question": "In physical and regional geography: Which country lies to the south of India?",
+   "options": [
+    "Kerala",
+    "Lake Superior",
+    "Sri Lanka",
+    "Yangtze"
+   ],
+   "answer": 2,
+   "explanation": "Which country lies to the south of India? — Sri Lanka.",
+   "topic": "Indian & World Geography — Physical & Regional Facts",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "geography-daily-2026-10-26-63",
+   "question": "In the geography of India, 'Copper' is associated with which origin, river, state or region?",
+   "options": [
+    "Maharashtra",
+    "Rajasthan",
+    "Koyna",
+    "Mapchachungo"
+   ],
+   "answer": 1,
+   "explanation": "In Indian geography, Copper is associated with Rajasthan.",
+   "topic": "Geography of India — Rivers, Dams, Mountain Passes & Minerals",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "geography-daily-2026-10-26-88",
+   "question": "In physical and regional geography: Which Indian city is called the Manchester of India?",
+   "options": [
+    "Uttar Pradesh",
+    "Strait of Malacca",
+    "Sri Lanka",
+    "Ahmedabad"
+   ],
+   "answer": 3,
+   "explanation": "Which Indian city is called the Manchester of India? — Ahmedabad.",
+   "topic": "Indian & World Geography — Physical & Regional Facts",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "geography-daily-2026-10-27-13",
+   "question": "In the geography of India, 'Hirakud Dam' is associated with which origin, river, state or region?",
+   "options": [
+    "Rajasthan",
+    "Madhya Pradesh",
+    "Sihawa",
+    "Mahanadi"
+   ],
+   "answer": 3,
+   "explanation": "In Indian geography, Hirakud Dam is associated with Mahanadi.",
+   "topic": "Geography of India — Rivers, Dams, Mountain Passes & Minerals",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "geography-daily-2026-10-27-38",
+   "question": "In the geography of India, 'Damodar' is associated with which origin, river, state or region?",
+   "options": [
+    "Rajasthan",
+    "Uttarakhand",
+    "Chota Nagpur Plateau",
+    "Ambutirtha"
+   ],
+   "answer": 2,
+   "explanation": "In Indian geography, Damodar is associated with Chota Nagpur Plateau.",
+   "topic": "Geography of India — Rivers, Dams, Mountain Passes & Minerals",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "geography-daily-2026-10-27-63",
+   "question": "In physical and regional geography: Which strait separates Australia from Papua New Guinea?",
+   "options": [
+    "Nepal",
+    "Torres Strait",
+    "Kalahari Desert",
+    "Suez Canal"
+   ],
+   "answer": 1,
+   "explanation": "Which strait separates Australia from Papua New Guinea? — Torres Strait.",
+   "topic": "Indian & World Geography — Physical & Regional Facts",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "geography-daily-2026-10-27-88",
+   "question": "In physical and regional geography, which bodies of water or landmasses are connected or separated by 'Palk Strait and Palk Bay'?",
+   "options": [
+    "Connects the Black Sea with the Sea of Marmara and separates European Turkey from Asian Turkey (Anatolia)",
+    "Connects the Red Sea to the Gulf of Aden (Indian Ocean) between Yemen on the Arabian Peninsula and Djibouti/Eritrea in the Horn of Africa",
+    "Connects the Bay of Bengal in the northeast with the Gulf of Mannar in the southwest between Tamil Nadu and Sri Lanka",
+    "Separates the island of Minicoy from the main Lakshadweep archipelago in the Arabian Sea"
+   ],
+   "answer": 2,
+   "explanation": "Palk Strait and Palk Bay connects or separates: Connects the Bay of Bengal in the northeast with the Gulf of Mannar in the southwest between Tamil Nadu and Sri Lanka (bordered on the south by Adam's Bridge (Rama Setu) chain of limestone shoals and Pamban Island).",
+   "topic": "World & Indian Geography in Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "geography-daily-2026-10-28-13",
+   "question": "In physical and regional geography, which bodies of water or landmasses are connected or separated by 'Khyber Pass'?",
+   "options": [
+    "Connects the Black Sea with the Sea of Marmara and separates European Turkey from Asian Turkey (Anatolia)",
+    "Separates Minicoy Island of India from the northern atolls of the Maldives",
+    "Connects the Arctic Ocean (Chukchi Sea) with the Bering Sea (Pacific Ocean) between Russia's Chukotka Peninsula and Alaska",
+    "Mountain pass in the Spin Ghar range connecting Peshawar (Pakistan) with Jalalabad and Kabul (Afghanistan)"
+   ],
+   "answer": 3,
+   "explanation": "Khyber Pass connects or separates: Mountain pass in the Spin Ghar range connecting Peshawar (Pakistan) with Jalalabad and Kabul (Afghanistan) (historic trade and military corridor linking the Indian subcontinent with Central Asia).",
+   "topic": "World & Indian Geography in Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "geography-daily-2026-10-28-38",
+   "question": "In physical and regional geography: Which is the lowest point on the Earth's land surface?",
+   "options": [
+    "China",
+    "Mizoram",
+    "Dead Sea",
+    "Indonesia"
+   ],
+   "answer": 2,
+   "explanation": "Which is the lowest point on the Earth's land surface? — Dead Sea.",
+   "topic": "Indian & World Geography — Physical & Regional Facts",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "geography-daily-2026-10-28-63",
+   "question": "In the geography of India, 'Ravi' is associated with which origin, river, state or region?",
+   "options": [
+    "Narmada",
+    "Chamba",
+    "Ladakh",
+    "Arunachal Pradesh"
+   ],
+   "answer": 1,
+   "explanation": "In Indian geography, Ravi is associated with Chamba.",
+   "topic": "Geography of India — Rivers, Dams, Mountain Passes & Minerals",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "geography-daily-2026-10-28-88",
+   "question": "In physical and regional geography, which bodies of water or landmasses are connected or separated by 'Sunda Strait'?",
+   "options": [
+    "Connects the Java Sea to the Indian Ocean between the Indonesian islands of Java and Sumatra",
+    "Connects the Atlantic Ocean to the Mediterranean Sea and separates Spain (Europe) from Morocco (Africa)",
+    "Separates the island of Minicoy from the main Lakshadweep archipelago in the Arabian Sea",
+    "Separates Minicoy Island of India from the northern atolls of the Maldives"
+   ],
+   "answer": 0,
+   "explanation": "Sunda Strait connects or separates: Connects the Java Sea to the Indian Ocean between the Indonesian islands of Java and Sumatra (site of the famous volcanic island of Krakatoa).",
+   "topic": "World & Indian Geography in Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "geography-daily-2026-10-29-13",
+   "question": "In physical and regional geography: Which country shares the longest border with India?",
+   "options": [
+    "Uttar Pradesh",
+    "Tibetan Plateau",
+    "Mount Everest",
+    "Bangladesh"
+   ],
+   "answer": 3,
+   "explanation": "Which country shares the longest border with India? — Bangladesh.",
+   "topic": "Indian & World Geography — Physical & Regional Facts",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "geography-daily-2026-10-29-38",
+   "question": "In the geography of India, 'Khardung La' is associated with which origin, river, state or region?",
+   "options": [
+    "Arunachal Pradesh",
+    "Kerala",
+    "Ladakh",
+    "Andhra Pradesh"
+   ],
+   "answer": 2,
+   "explanation": "In Indian geography, Khardung La is associated with Ladakh.",
+   "topic": "Geography of India — Rivers, Dams, Mountain Passes & Minerals",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "geography-daily-2026-10-29-63",
+   "question": "In physical and regional geography: Which is the largest country in Africa by area?",
+   "options": [
+    "Mississippi",
+    "Andes",
+    "Algeria",
+    "Surat"
+   ],
+   "answer": 2,
+   "explanation": "Which is the largest country in Africa by area? — Algeria.",
+   "topic": "Indian & World Geography — Physical & Regional Facts",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "geography-daily-2026-10-29-88",
+   "question": "In the geography of India, 'Niti Pass' is associated with which origin, river, state or region?",
+   "options": [
+    "Maharashtra",
+    "Sutlej",
+    "Uttarakhand",
+    "Chamba"
+   ],
+   "answer": 2,
+   "explanation": "In Indian geography, Niti Pass is associated with Uttarakhand.",
+   "topic": "Geography of India — Rivers, Dams, Mountain Passes & Minerals",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "geography-daily-2026-10-30-13",
+   "question": "In the geography of India, 'Godavari' is associated with which origin, river, state or region?",
+   "options": [
+    "Sihawa",
+    "Trimbakeshwar",
+    "Gangotri Glacier",
+    "Madhya Pradesh"
+   ],
+   "answer": 1,
+   "explanation": "In Indian geography, Godavari is associated with Trimbakeshwar.",
+   "topic": "Geography of India — Rivers, Dams, Mountain Passes & Minerals",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "geography-daily-2026-10-30-38",
+   "question": "In physical and regional geography: Which Indian state is called the Elephant State of India?",
+   "options": [
+    "Gujarat",
+    "France",
+    "Sahara Desert",
+    "Kerala"
+   ],
+   "answer": 3,
+   "explanation": "Which Indian state is called the Elephant State of India? — Kerala.",
+   "topic": "Indian & World Geography — Physical & Regional Facts",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "geography-daily-2026-10-30-63",
+   "question": "In the geography of India, 'Kaveri' is associated with which origin, river, state or region?",
+   "options": [
+    "Talakaveri",
+    "Sutlej",
+    "Janapav Hill",
+    "Arunachal Pradesh"
+   ],
+   "answer": 0,
+   "explanation": "In Indian geography, Kaveri is associated with Talakaveri.",
+   "topic": "Geography of India — Rivers, Dams, Mountain Passes & Minerals",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "geography-daily-2026-10-30-88",
+   "question": "In physical and regional geography: Which is the easternmost point of India?",
+   "options": [
+    "Kibithu",
+    "Tibetan Plateau",
+    "Australia",
+    "Sikkim"
+   ],
+   "answer": 0,
+   "explanation": "Which is the easternmost point of India? — Kibithu.",
+   "topic": "Indian & World Geography — Physical & Regional Facts",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "geography-daily-2026-10-31-13",
+   "question": "In physical and regional geography: Which Indian state has the lowest literacy rate?",
+   "options": [
+    "Goa",
+    "Norway",
+    "Arctic Ocean",
+    "Bihar"
+   ],
+   "answer": 3,
+   "explanation": "Which Indian state has the lowest literacy rate? — Bihar.",
+   "topic": "Indian & World Geography — Physical & Regional Facts",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "geography-daily-2026-10-31-38",
+   "question": "In physical and regional geography, which bodies of water or landmasses are connected or separated by 'Strait of Gibraltar'?",
+   "options": [
+    "Connects the Atlantic Ocean to the Mediterranean Sea and separates Spain (Europe) from Morocco (Africa)",
+    "Connects the Persian Gulf with the Gulf of Oman and the Arabian Sea between Iran and Oman",
+    "Connects the Java Sea to the Indian Ocean between the Indonesian islands of Java and Sumatra",
+    "Separates the island of Minicoy from the main Lakshadweep archipelago in the Arabian Sea"
+   ],
+   "answer": 0,
+   "explanation": "Strait of Gibraltar connects or separates: Connects the Atlantic Ocean to the Mediterranean Sea and separates Spain (Europe) from Morocco (Africa) (guarded on its northern shore by the Rock of Gibraltar).",
+   "topic": "World & Indian Geography in Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "geography-daily-2026-10-31-63",
+   "question": "Vizhinjam International Seaport, commissioned as India's first deep-water container transshipment port in 2024, is located in which state?",
+   "options": [
+    "Karnataka",
+    "Andhra Pradesh",
+    "Kerala",
+    "Tamil Nadu"
+   ],
+   "answer": 2,
+   "explanation": "Vizhinjam International Seaport near Thiruvananthapuram in Kerala is India's first automated deep-water container transshipment port, located just 10 nautical miles from the international East–West shipping route.",
+   "topic": "Ports & Transport",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "geography-daily-2026-10-31-88",
+   "question": "In physical and regional geography: Which country is known as the Land of White Elephants?",
+   "options": [
+    "Indonesia",
+    "Victoria Falls",
+    "Uttar Pradesh",
+    "Thailand"
+   ],
+   "answer": 3,
+   "explanation": "Which country is known as the Land of White Elephants? — Thailand.",
+   "topic": "Indian & World Geography — Physical & Regional Facts",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
   }
  ]
 };

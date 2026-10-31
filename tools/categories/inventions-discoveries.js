@@ -11,7 +11,7 @@
   "railways"
  ],
  "blurb": "Inventions, inventors and discoveries.",
- "count": 263,
+ "count": 299,
  "questions": [
   {
    "id": "inventions-discoveries-00001",
@@ -3960,6 +3960,582 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "inventions-discoveries-daily-2026-10-23-17",
+   "question": "In the history of science, which pioneering discovery or theory was formulated by Galileo Galilei?",
+   "options": [
+    "First powered aeroplane flight",
+    "Genetic code",
+    "Laws of falling bodies and telescope studies",
+    "Absolute temperature scale"
+   ],
+   "answer": 2,
+   "explanation": "Galileo Galilei is renowned for Laws of falling bodies and telescope studies.",
+   "topic": "Eminent Scientists & Breakthrough Contributions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "inventions-discoveries-daily-2026-10-23-42",
+   "question": "In the history of science and technology, who is credited with 'Electron'?",
+   "options": [
+    "Jacob Perkins",
+    "Charles Darwin",
+    "Galileo Galilei",
+    "J. J. Thomson"
+   ],
+   "answer": 3,
+   "explanation": "Electron is credited to J. J. Thomson.",
+   "topic": "Inventions, Discoveries & Scientific Pioneers",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "inventions-discoveries-daily-2026-10-23-67",
+   "question": "In the history of science, which pioneering discovery or theory was formulated by Srinivasa Ramanujan?",
+   "options": [
+    "Germ theory and pasteurisation",
+    "Quantum theory",
+    "Number theory",
+    "Triple helical structure of collagen"
+   ],
+   "answer": 2,
+   "explanation": "Srinivasa Ramanujan is renowned for Number theory.",
+   "topic": "Eminent Scientists & Breakthrough Contributions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "inventions-discoveries-daily-2026-10-23-92",
+   "question": "Which scientist or innovator is credited with the discovery or invention of 'Crescograph and Millimetre-Wave Radio Optics'?",
+   "options": [
+    "Jagadish Chandra Bose",
+    "Har Gobind Khorana",
+    "Manindra Agrawal, Neeraj Kayal and Nitin Saxena",
+    "G. N. Ramachandran"
+   ],
+   "answer": 0,
+   "explanation": "Crescograph and Millimetre-Wave Radio Optics was discovered or invented by Jagadish Chandra Bose (pioneered 60 GHz millimetre-wave semiconductor junctions and invented the crescograph to measure plant growth down to a millionth of an inch).",
+   "topic": "Inventions, Pioneers & Scientific Milestones",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "inventions-discoveries-daily-2026-10-24-17",
+   "question": "In the history of science and technology, who is credited with 'Thermometer (mercury)'?",
+   "options": [
+    "Daniel Gabriel Fahrenheit",
+    "Rene Laennec",
+    "Galileo Galilei",
+    "Joseph Lister"
+   ],
+   "answer": 0,
+   "explanation": "Thermometer (mercury) is credited to Daniel Gabriel Fahrenheit.",
+   "topic": "Inventions, Discoveries & Scientific Pioneers",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "inventions-discoveries-daily-2026-10-24-42",
+   "question": "In the history of science, which pioneering discovery or theory was formulated by Niels Bohr?",
+   "options": [
+    "Double helix structure of DNA",
+    "Atomic theory",
+    "Atomic model",
+    "Electrodynamics"
+   ],
+   "answer": 2,
+   "explanation": "Niels Bohr is renowned for Atomic model.",
+   "topic": "Eminent Scientists & Breakthrough Contributions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "inventions-discoveries-daily-2026-10-24-67",
+   "question": "Which scientist or innovator is credited with the discovery or invention of 'Bose-Einstein Statistics and Bosons'?",
+   "options": [
+    "K. S. Krishnan (with C. V. Raman)",
+    "Satyendra Nath Bose (with Albert Einstein)",
+    "Meghnad Saha",
+    "Narinder Singh Kapany"
+   ],
+   "answer": 1,
+   "explanation": "Bose-Einstein Statistics and Bosons was discovered or invented by Satyendra Nath Bose (with Albert Einstein) (formulated quantum statistics for integer-spin particles (bosons) and predicted the fifth state of matter, the Bose-Einstein Condensate).",
+   "topic": "Inventions, Pioneers & Scientific Milestones",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "inventions-discoveries-daily-2026-10-24-92",
+   "question": "In the history of science and technology, who is credited with 'Printing press'?",
+   "options": [
+    "Johannes Gutenberg",
+    "Karl Landsteiner",
+    "Gregor Mendel",
+    "Daniel Gabriel Fahrenheit"
+   ],
+   "answer": 0,
+   "explanation": "Printing press is credited to Johannes Gutenberg.",
+   "topic": "Inventions, Discoveries & Scientific Pioneers",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "inventions-discoveries-daily-2026-10-25-17",
+   "question": "Which scientist or innovator is credited with the discovery or invention of 'AKS Primality Test'?",
+   "options": [
+    "Manindra Agrawal, Neeraj Kayal and Nitin Saxena",
+    "Har Gobind Khorana",
+    "Meghnad Saha",
+    "K. S. Krishnan (with C. V. Raman)"
+   ],
+   "answer": 0,
+   "explanation": "AKS Primality Test was discovered or invented by Manindra Agrawal, Neeraj Kayal and Nitin Saxena (proved at IIT Kanpur in 2002 that determining whether any given number is prime can be done deterministically in polynomial time).",
+   "topic": "Inventions, Pioneers & Scientific Milestones",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "inventions-discoveries-daily-2026-10-25-42",
+   "question": "In the history of science, which pioneering discovery or theory was formulated by Louis Pasteur?",
+   "options": [
+    "Germ theory and pasteurisation",
+    "Number theory",
+    "Improvements to the steam engine",
+    "Ionisation theory of stars"
+   ],
+   "answer": 0,
+   "explanation": "Louis Pasteur is renowned for Germ theory and pasteurisation.",
+   "topic": "Eminent Scientists & Breakthrough Contributions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "inventions-discoveries-daily-2026-10-25-67",
+   "question": "In the history of science and technology, who is credited with 'Laser'?",
+   "options": [
+    "Alfred Nobel",
+    "Dmitri Mendeleev",
+    "Thomas Alva Edison",
+    "Theodore Maiman"
+   ],
+   "answer": 3,
+   "explanation": "Laser is credited to Theodore Maiman.",
+   "topic": "Inventions, Discoveries & Scientific Pioneers",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "inventions-discoveries-daily-2026-10-25-92",
+   "question": "In the history of science, which pioneering discovery or theory was formulated by Guglielmo Marconi?",
+   "options": [
+    "Wireless telegraphy",
+    "Electromagnetic induction",
+    "Theory of relativity",
+    "Charles's law of gases"
+   ],
+   "answer": 0,
+   "explanation": "Guglielmo Marconi is renowned for Wireless telegraphy.",
+   "topic": "Eminent Scientists & Breakthrough Contributions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "inventions-discoveries-daily-2026-10-26-17",
+   "question": "In the history of science and technology, who is credited with 'Aerodynamics and flight principles'?",
+   "options": [
+    "Wright Brothers",
+    "George Cayley",
+    "Joseph Priestley",
+    "Gregor Mendel"
+   ],
+   "answer": 1,
+   "explanation": "Aerodynamics and flight principles is credited to George Cayley.",
+   "topic": "Inventions, Discoveries & Scientific Pioneers",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "inventions-discoveries-daily-2026-10-26-42",
+   "question": "In the history of science, which pioneering discovery or theory was formulated by S. N. Bose?",
+   "options": [
+    "Raman effect",
+    "Bose-Einstein statistics",
+    "Ohm's law",
+    "Laws of planetary motion"
+   ],
+   "answer": 1,
+   "explanation": "S. N. Bose is renowned for Bose-Einstein statistics.",
+   "topic": "Eminent Scientists & Breakthrough Contributions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "inventions-discoveries-daily-2026-10-26-67",
+   "question": "In the history of science and technology, who is credited with 'Electric generator'?",
+   "options": [
+    "Michael Faraday",
+    "Joseph Priestley",
+    "Albert Einstein",
+    "James Watt"
+   ],
+   "answer": 0,
+   "explanation": "Electric generator is credited to Michael Faraday.",
+   "topic": "Inventions, Discoveries & Scientific Pioneers",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "inventions-discoveries-daily-2026-10-26-92",
+   "question": "Which scientist or innovator is credited with the discovery or invention of 'Kariamanickam Srinivasa Krishnan's Co-discovery of Raman Scattering'?",
+   "options": [
+    "Prasanta Chandra Mahalanobis",
+    "Jagadish Chandra Bose",
+    "K. S. Krishnan (with C. V. Raman)",
+    "Narinder Singh Kapany"
+   ],
+   "answer": 2,
+   "explanation": "Kariamanickam Srinivasa Krishnan's Co-discovery of Raman Scattering was discovered or invented by K. S. Krishnan (with C. V. Raman) (conducted key experimental observations of the inelastic scattering of light in liquids and studied magnetic anisotropy of crystals).",
+   "topic": "Inventions, Pioneers & Scientific Milestones",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "inventions-discoveries-daily-2026-10-27-17",
+   "question": "In the history of science, which pioneering discovery or theory was formulated by Gregor Mendel?",
+   "options": [
+    "Centigrade temperature scale",
+    "Laws of inheritance",
+    "Ornithology in India",
+    "Boyle's law of gases"
+   ],
+   "answer": 1,
+   "explanation": "Gregor Mendel is renowned for Laws of inheritance.",
+   "topic": "Eminent Scientists & Breakthrough Contributions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "inventions-discoveries-daily-2026-10-27-42",
+   "question": "In the history of science and technology, who is credited with 'Oxygen'?",
+   "options": [
+    "Watson and Crick",
+    "Charles Darwin",
+    "Joseph Priestley",
+    "Isaac Newton"
+   ],
+   "answer": 2,
+   "explanation": "Oxygen is credited to Joseph Priestley.",
+   "topic": "Inventions, Discoveries & Scientific Pioneers",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "inventions-discoveries-daily-2026-10-27-67",
+   "question": "In the history of science, which pioneering discovery or theory was formulated by Wright Brothers?",
+   "options": [
+    "Kinetic theory of gases",
+    "Ornithology in India",
+    "First powered aeroplane flight",
+    "Synthesis of nucleic acids"
+   ],
+   "answer": 2,
+   "explanation": "Wright Brothers is renowned for First powered aeroplane flight.",
+   "topic": "Eminent Scientists & Breakthrough Contributions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "inventions-discoveries-daily-2026-10-27-92",
+   "question": "In the history of science and technology, who is credited with 'Microscope'?",
+   "options": [
+    "Watson and Crick",
+    "Wilhelm Roentgen",
+    "Alfred Nobel",
+    "Antonie van Leeuwenhoek"
+   ],
+   "answer": 3,
+   "explanation": "Microscope is credited to Antonie van Leeuwenhoek.",
+   "topic": "Inventions, Discoveries & Scientific Pioneers",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "inventions-discoveries-daily-2026-10-28-17",
+   "question": "Which scientist or innovator is credited with the discovery or invention of 'Ramachandran Plot in Structural Biology'?",
+   "options": [
+    "Subrahmanyan Chandrasekhar",
+    "Manindra Agrawal, Neeraj Kayal and Nitin Saxena",
+    "K. S. Krishnan (with C. V. Raman)",
+    "G. N. Ramachandran"
+   ],
+   "answer": 3,
+   "explanation": "Ramachandran Plot in Structural Biology was discovered or invented by G. N. Ramachandran (visualised sterically allowed phi and psi torsion angles of amino acid residues in protein polypeptide backbones, alongside the triple-helix structure of collagen).",
+   "topic": "Inventions, Pioneers & Scientific Milestones",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "inventions-discoveries-daily-2026-10-28-42",
+   "question": "In the history of science and technology, who is credited with 'Theory of relativity'?",
+   "options": [
+    "Joseph Lister",
+    "Albert Einstein",
+    "Daniel Gabriel Fahrenheit",
+    "Frank Whittle"
+   ],
+   "answer": 1,
+   "explanation": "Theory of relativity is credited to Albert Einstein.",
+   "topic": "Inventions, Discoveries & Scientific Pioneers",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "inventions-discoveries-daily-2026-10-28-67",
+   "question": "In the history of science, which pioneering discovery or theory was formulated by Lord Kelvin?",
+   "options": [
+    "Quantum theory",
+    "Absolute temperature scale",
+    "Genetic code",
+    "Electric battery"
+   ],
+   "answer": 1,
+   "explanation": "Lord Kelvin is renowned for Absolute temperature scale.",
+   "topic": "Eminent Scientists & Breakthrough Contributions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "inventions-discoveries-daily-2026-10-28-92",
+   "question": "In the history of science, which pioneering discovery or theory was formulated by Dmitri Mendeleev?",
+   "options": [
+    "Periodic table of elements",
+    "Atomic model",
+    "Genetic code",
+    "Laws of planetary motion"
+   ],
+   "answer": 0,
+   "explanation": "Dmitri Mendeleev is renowned for Periodic table of elements.",
+   "topic": "Eminent Scientists & Breakthrough Contributions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "inventions-discoveries-daily-2026-10-29-17",
+   "question": "In the history of science and technology, who is credited with 'World Wide Web'?",
+   "options": [
+    "Edward Jenner",
+    "Gregor Mendel",
+    "Tim Berners-Lee",
+    "Willis Carrier"
+   ],
+   "answer": 2,
+   "explanation": "World Wide Web is credited to Tim Berners-Lee.",
+   "topic": "Inventions, Discoveries & Scientific Pioneers",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "inventions-discoveries-daily-2026-10-29-42",
+   "question": "Which scientist or innovator is credited with the discovery or invention of 'Fibre Optics ('Father of Fibre Optics')'?",
+   "options": [
+    "Satyendra Nath Bose (with Albert Einstein)",
+    "Narinder Singh Kapany",
+    "Birbal Sahni",
+    "G. N. Ramachandran"
+   ],
+   "answer": 1,
+   "explanation": "Fibre Optics ('Father of Fibre Optics') was discovered or invented by Narinder Singh Kapany (demonstrated in 1954 that light could be transmitted along curved glass bundles via total internal reflection, coining the term 'fibre optics').",
+   "topic": "Inventions, Pioneers & Scientific Milestones",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "inventions-discoveries-daily-2026-10-29-67",
+   "question": "In the history of science, which pioneering discovery or theory was formulated by Amedeo Avogadro?",
+   "options": [
+    "ABO blood group system",
+    "Molecular theory and Avogadro's law",
+    "Missile and space launch technology",
+    "Atomic model"
+   ],
+   "answer": 1,
+   "explanation": "Amedeo Avogadro is renowned for Molecular theory and Avogadro's law.",
+   "topic": "Eminent Scientists & Breakthrough Contributions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "inventions-discoveries-daily-2026-10-29-92",
+   "question": "In the history of science and technology, who is credited with 'Transistor'?",
+   "options": [
+    "George Cayley",
+    "Johannes Gutenberg",
+    "John Bardeen and colleagues",
+    "Wilhelm Roentgen"
+   ],
+   "answer": 2,
+   "explanation": "Transistor is credited to John Bardeen and colleagues.",
+   "topic": "Inventions, Discoveries & Scientific Pioneers",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "inventions-discoveries-daily-2026-10-30-17",
+   "question": "In the history of science and technology, who is credited with 'Electromagnetic induction'?",
+   "options": [
+    "Charles Babbage",
+    "Michael Faraday",
+    "Wright Brothers",
+    "Karl Benz"
+   ],
+   "answer": 1,
+   "explanation": "Electromagnetic induction is credited to Michael Faraday.",
+   "topic": "Inventions, Discoveries & Scientific Pioneers",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "inventions-discoveries-daily-2026-10-30-42",
+   "question": "In the history of science, which pioneering discovery or theory was formulated by Hargobind Khorana?",
+   "options": [
+    "Synthesis of nucleic acids",
+    "Genetic code",
+    "Kinetic theory of gases",
+    "Bose-Einstein statistics"
+   ],
+   "answer": 0,
+   "explanation": "Hargobind Khorana is renowned for Synthesis of nucleic acids.",
+   "topic": "Eminent Scientists & Breakthrough Contributions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "inventions-discoveries-daily-2026-10-30-67",
+   "question": "In the history of science and technology, who is credited with 'Dynamite'?",
+   "options": [
+    "Alfred Nobel",
+    "Daniel Gabriel Fahrenheit",
+    "Alexander Fleming",
+    "James Young Simpson"
+   ],
+   "answer": 0,
+   "explanation": "Dynamite is credited to Alfred Nobel.",
+   "topic": "Inventions, Discoveries & Scientific Pioneers",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "inventions-discoveries-daily-2026-10-30-92",
+   "question": "Which scientist or innovator is credited with the discovery or invention of 'Saha Ionization Equation'?",
+   "options": [
+    "Meghnad Saha",
+    "G. N. Ramachandran",
+    "Har Gobind Khorana",
+    "Narinder Singh Kapany"
+   ],
+   "answer": 0,
+   "explanation": "Saha Ionization Equation was discovered or invented by Meghnad Saha (linked the ionization state of elements in stellar atmospheres to temperature and pressure, laying the foundation of modern stellar astrophysics).",
+   "topic": "Inventions, Pioneers & Scientific Milestones",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "inventions-discoveries-daily-2026-10-31-17",
+   "question": "In the history of science and technology, who is credited with 'Vaccination against smallpox'?",
+   "options": [
+    "Thomas Alva Edison",
+    "Edward Jenner",
+    "Michael Faraday",
+    "William Harvey"
+   ],
+   "answer": 1,
+   "explanation": "Vaccination against smallpox is credited to Edward Jenner.",
+   "topic": "Inventions, Discoveries & Scientific Pioneers",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "inventions-discoveries-daily-2026-10-31-42",
+   "question": "In the history of science, which pioneering discovery or theory was formulated by Alessandro Volta?",
+   "options": [
+    "Triple helical structure of collagen",
+    "Wireless telegraphy",
+    "Palaeobotany in India",
+    "Electric battery"
+   ],
+   "answer": 3,
+   "explanation": "Alessandro Volta is renowned for Electric battery.",
+   "topic": "Eminent Scientists & Breakthrough Contributions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "inventions-discoveries-daily-2026-10-31-67",
+   "question": "In the history of science and technology, who is credited with 'Television'?",
+   "options": [
+    "Daniel Gabriel Fahrenheit",
+    "Watson and Crick",
+    "John Logie Baird",
+    "Edward Jenner"
+   ],
+   "answer": 2,
+   "explanation": "Television is credited to John Logie Baird.",
+   "topic": "Inventions, Discoveries & Scientific Pioneers",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "inventions-discoveries-daily-2026-10-31-92",
+   "question": "In the history of science, which pioneering discovery or theory was formulated by Daniel Fahrenheit?",
+   "options": [
+    "Improvements to the steam engine",
+    "Molecular theory and Avogadro's law",
+    "Indian nuclear programme",
+    "Fahrenheit temperature scale"
+   ],
+   "answer": 3,
+   "explanation": "Daniel Fahrenheit is renowned for Fahrenheit temperature scale.",
+   "topic": "Eminent Scientists & Breakthrough Contributions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
   }
  ]
 };

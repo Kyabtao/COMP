@@ -11,7 +11,7 @@
   "ssc-cgl"
  ],
  "blurb": "Hardware, software, internet and cyber security.",
- "count": 285,
+ "count": 321,
  "questions": [
   {
    "id": "computer-awareness-00001",
@@ -4292,6 +4292,582 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "computer-awareness-daily-2026-10-23-15",
+   "question": "In computer science and information technology, what does 'CPU' refer to?",
+   "options": [
+    "Address of a resource on the internet",
+    "Process of converting data into unreadable form",
+    "The processing unit that executes instructions",
+    "Standard code for representing characters"
+   ],
+   "answer": 2,
+   "explanation": "CPU — The processing unit that executes instructions.",
+   "topic": "Computer Awareness — Architecture, Networking & Software",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "computer-awareness-daily-2026-10-23-40",
+   "question": "In computing and office software, what is '.bat' used for?",
+   "options": [
+    "Show or hide the desktop",
+    "Delete the previous word",
+    "Batch file",
+    "Data interchange file"
+   ],
+   "answer": 2,
+   "explanation": "In computing, .bat corresponds to Batch file.",
+   "topic": "Computer Awareness — Keyboard Shortcuts & File Extensions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "computer-awareness-daily-2026-10-23-65",
+   "question": "In computer science and information technology, what does 'Spyware' refer to?",
+   "options": [
+    "Interface that uses icons and windows",
+    "Main circuit board of a computer",
+    "Eight bits of digital data",
+    "Software that secretly collects information"
+   ],
+   "answer": 3,
+   "explanation": "Spyware — Software that secretly collects information.",
+   "topic": "Computer Awareness — Architecture, Networking & Software",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "computer-awareness-daily-2026-10-23-90",
+   "question": "In computer science and cyber security exams, what is the role of 'DNSSEC (Domain Name System Security Extensions)'?",
+   "options": [
+    "National nodal agency for responding to computer security incidents, vulnerability advisories and cyber threat mitigation in India",
+    "Cryptographic authentication of DNS responses to prevent DNS cache poisoning and man-in-the-middle redirection attacks",
+    "Passwordless authentication mechanism using device-bound public-key cryptography and biometrics instead of shared text passwords",
+    "Next-generation network layer protocol using 128-bit hexadecimal addresses to overcome IPv4 address exhaustion"
+   ],
+   "answer": 1,
+   "explanation": "DNSSEC (Domain Name System Security Extensions) is defined as: Cryptographic authentication of DNS responses to prevent DNS cache poisoning and man-in-the-middle redirection attacks (uses digital signatures based on public-key cryptography in DNS zone records).",
+   "topic": "Cyber Security, Cloud & Computer Awareness",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "computer-awareness-daily-2026-10-24-15",
+   "question": "In computing and office software, what is '.svg' used for?",
+   "options": [
+    "Scalable vector graphics file",
+    "Delete an item permanently",
+    "Delete the previous word",
+    "Print the current document"
+   ],
+   "answer": 0,
+   "explanation": "In computing, .svg corresponds to Scalable vector graphics file.",
+   "topic": "Computer Awareness — Keyboard Shortcuts & File Extensions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "computer-awareness-daily-2026-10-24-40",
+   "question": "In computer science and information technology, what does 'DBMS' refer to?",
+   "options": [
+    "Device that connects devices inside a network",
+    "When data requested is found in cache memory",
+    "Software that manages databases",
+    "Disk space used as an extension of RAM"
+   ],
+   "answer": 2,
+   "explanation": "DBMS — Software that manages databases.",
+   "topic": "Computer Awareness — Architecture, Networking & Software",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "computer-awareness-daily-2026-10-24-65",
+   "question": "In computing and office software, what is 'Ctrl + O' used for?",
+   "options": [
+    "Show or hide the desktop",
+    "Open an existing file",
+    "Portable Document Format file",
+    "Lock the computer"
+   ],
+   "answer": 1,
+   "explanation": "In computing, Ctrl + O corresponds to Open an existing file.",
+   "topic": "Computer Awareness — Keyboard Shortcuts & File Extensions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "computer-awareness-daily-2026-10-24-90",
+   "question": "In computer science and information technology, what does 'CSS' refer to?",
+   "options": [
+    "Network covering a small area",
+    "Standard code for representing characters",
+    "Language used to style web pages",
+    "Interface that uses icons and windows"
+   ],
+   "answer": 2,
+   "explanation": "CSS — Language used to style web pages.",
+   "topic": "Computer Awareness — Architecture, Networking & Software",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "computer-awareness-daily-2026-10-25-15",
+   "question": "In computer science and information technology, what does 'Hard disk' refer to?",
+   "options": [
+    "L1, L2 and L3 are cache levels",
+    "Magnetic secondary storage device",
+    "Input device that converts paper documents to digital form",
+    "Malicious program that attaches to files"
+   ],
+   "answer": 1,
+   "explanation": "Hard disk — Magnetic secondary storage device.",
+   "topic": "Computer Awareness — Architecture, Networking & Software",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "computer-awareness-daily-2026-10-25-40",
+   "question": "In computing and office software, what is 'Windows + E' used for?",
+   "options": [
+    "Python source file",
+    "Open File Explorer",
+    "Scalable vector graphics file",
+    "Find text in a document"
+   ],
+   "answer": 1,
+   "explanation": "In computing, Windows + E corresponds to Open File Explorer.",
+   "topic": "Computer Awareness — Keyboard Shortcuts & File Extensions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "computer-awareness-daily-2026-10-25-65",
+   "question": "In computer science and cyber security exams, what is the role of 'Passkeys (FIDO2 / WebAuthn Standard)'?",
+   "options": [
+    "Passwordless authentication mechanism using device-bound public-key cryptography and biometrics instead of shared text passwords",
+    "Cryptographic algorithms based on mathematical lattice problems designed to remain secure against attacks by both classical and quantum computers",
+    "National nodal agency for responding to computer security incidents, vulnerability advisories and cyber threat mitigation in India",
+    "A security model requiring strict identity verification for every user and device attempting to access resources, regardless of whether they are inside or outside the network perimeter"
+   ],
+   "answer": 0,
+   "explanation": "Passkeys (FIDO2 / WebAuthn Standard) is defined as: Passwordless authentication mechanism using device-bound public-key cryptography and biometrics instead of shared text passwords (standardized by the FIDO Alliance and World Wide Web Consortium (W3C)).",
+   "topic": "Cyber Security, Cloud & Computer Awareness",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "computer-awareness-daily-2026-10-25-90",
+   "question": "In computer science and information technology, what does 'Cloud computing' refer to?",
+   "options": [
+    "Delivery of computing services over the internet",
+    "Core part of an operating system",
+    "Protocol used to transfer web pages",
+    "Program that converts assembly language to machine code"
+   ],
+   "answer": 0,
+   "explanation": "Cloud computing — Delivery of computing services over the internet.",
+   "topic": "Computer Awareness — Architecture, Networking & Software",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "computer-awareness-daily-2026-10-26-15",
+   "question": "In computer science and information technology, what does 'C' refer to?",
+   "options": [
+    "Output device that prints large technical drawings",
+    "Power supply unit of a computer",
+    "Procedural programming language",
+    "Amount of data a connection can carry"
+   ],
+   "answer": 2,
+   "explanation": "C — Procedural programming language.",
+   "topic": "Computer Awareness — Architecture, Networking & Software",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "computer-awareness-daily-2026-10-26-40",
+   "question": "In computer science and cyber security exams, what is the role of 'CERT-In (Indian Computer Emergency Response Team)'?",
+   "options": [
+    "Cryptographic authentication of DNS responses to prevent DNS cache poisoning and man-in-the-middle redirection attacks",
+    "National nodal agency for responding to computer security incidents, vulnerability advisories and cyber threat mitigation in India",
+    "Operating-system-level virtualization that packages an application and its dependencies into isolated user-space instances sharing the host OS kernel",
+    "Next-generation network layer protocol using 128-bit hexadecimal addresses to overcome IPv4 address exhaustion"
+   ],
+   "answer": 1,
+   "explanation": "CERT-In (Indian Computer Emergency Response Team) is defined as: National nodal agency for responding to computer security incidents, vulnerability advisories and cyber threat mitigation in India (operates under Section 70B of the Information Technology Act, 2000 within MeitY).",
+   "topic": "Cyber Security, Cloud & Computer Awareness",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "computer-awareness-daily-2026-10-26-65",
+   "question": "In computer science and information technology, what does 'Cache' refer to?",
+   "options": [
+    "Running several tasks at the same time",
+    "Network covering a wide area",
+    "Using more than one processor at a time",
+    "Temporary storage for frequently used data"
+   ],
+   "answer": 3,
+   "explanation": "Cache — Temporary storage for frequently used data.",
+   "topic": "Computer Awareness — Architecture, Networking & Software",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "computer-awareness-daily-2026-10-26-90",
+   "question": "In computing and office software, what is 'Ctrl + N' used for?",
+   "options": [
+    "Open a new window or document",
+    "JavaScript file",
+    "Microsoft PowerPoint presentation",
+    "Compressed archive file"
+   ],
+   "answer": 0,
+   "explanation": "In computing, Ctrl + N corresponds to Open a new window or document.",
+   "topic": "Computer Awareness — Keyboard Shortcuts & File Extensions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "computer-awareness-daily-2026-10-27-15",
+   "question": "In computer science and information technology, what does 'Motherboard' refer to?",
+   "options": [
+    "Main circuit board of a computer",
+    "Software that secretly collects information",
+    "Standard code for representing characters",
+    "Informal description of a program"
+   ],
+   "answer": 0,
+   "explanation": "Motherboard — Main circuit board of a computer.",
+   "topic": "Computer Awareness — Architecture, Networking & Software",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "computer-awareness-daily-2026-10-27-40",
+   "question": "In computing and office software, what is 'Ctrl + P' used for?",
+   "options": [
+    "Video file",
+    "Show or hide the desktop",
+    "Delete an item permanently",
+    "Print the current document"
+   ],
+   "answer": 3,
+   "explanation": "In computing, Ctrl + P corresponds to Print the current document.",
+   "topic": "Computer Awareness — Keyboard Shortcuts & File Extensions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "computer-awareness-daily-2026-10-27-65",
+   "question": "In computer science and information technology, what does 'Operating system' refer to?",
+   "options": [
+    "Software that manages hardware and applications",
+    "Output device that displays visuals",
+    "Power supply unit of a computer",
+    "Network covering a small area"
+   ],
+   "answer": 0,
+   "explanation": "Operating system — Software that manages hardware and applications.",
+   "topic": "Computer Awareness — Architecture, Networking & Software",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "computer-awareness-daily-2026-10-27-90",
+   "question": "What is the total financial outlay approved by the Union Cabinet for the IndiaAI Mission to build sovereign AI compute infrastructure and indigenous foundation models?",
+   "options": [
+    "Rs 25,000 crore",
+    "Rs 1,500 crore",
+    "Rs 10,371.92 crore",
+    "Rs 5,000 crore"
+   ],
+   "answer": 2,
+   "explanation": "Approved in March 2024 with an outlay of Rs 10,371.92 crore over five years, the IndiaAI Mission deploys more than 10,000 GPUs and supports indigenous large multimodal models and AI datasets.",
+   "topic": "AI & Digital India",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "computer-awareness-daily-2026-10-28-15",
+   "question": "In computer science and information technology, what does 'Assembler' refer to?",
+   "options": [
+    "Running several tasks at the same time",
+    "Processor that handles graphics and images",
+    "Program that converts assembly language to machine code",
+    "Device that modulates signals for data transmission"
+   ],
+   "answer": 2,
+   "explanation": "Assembler — Program that converts assembly language to machine code.",
+   "topic": "Computer Awareness — Architecture, Networking & Software",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "computer-awareness-daily-2026-10-28-40",
+   "question": "In computer science and cyber security exams, what is the role of 'ACID Properties in Relational Databases'?",
+   "options": [
+    "Guarantee of Atomicity, Consistency, Isolation and Durability ensuring reliable processing of database transactions",
+    "Wireless network security certification replacing WPA2 PSK with Simultaneous Authentication of Equals (SAE) to resist offline dictionary attacks",
+    "Operating-system-level virtualization that packages an application and its dependencies into isolated user-space instances sharing the host OS kernel",
+    "National nodal agency for responding to computer security incidents, vulnerability advisories and cyber threat mitigation in India"
+   ],
+   "answer": 0,
+   "explanation": "ACID Properties in Relational Databases is defined as: Guarantee of Atomicity, Consistency, Isolation and Durability ensuring reliable processing of database transactions (formulated by Andreas Reuter and Theo Harder for fault-tolerant DBMS engines).",
+   "topic": "Cyber Security, Cloud & Computer Awareness",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "computer-awareness-daily-2026-10-28-65",
+   "question": "In computing and office software, what is 'Ctrl + F' used for?",
+   "options": [
+    "Compressed image file",
+    "Find text in a document",
+    "Undo the last action",
+    "Close the active program"
+   ],
+   "answer": 1,
+   "explanation": "In computing, Ctrl + F corresponds to Find text in a document.",
+   "topic": "Computer Awareness — Keyboard Shortcuts & File Extensions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "computer-awareness-daily-2026-10-28-90",
+   "question": "In computer science and cyber security exams, what is the role of 'IPv6 (Internet Protocol version 6)'?",
+   "options": [
+    "Next-generation network layer protocol using 128-bit hexadecimal addresses to overcome IPv4 address exhaustion",
+    "Wireless network security certification replacing WPA2 PSK with Simultaneous Authentication of Equals (SAE) to resist offline dictionary attacks",
+    "Operating-system-level virtualization that packages an application and its dependencies into isolated user-space instances sharing the host OS kernel",
+    "National nodal agency for responding to computer security incidents, vulnerability advisories and cyber threat mitigation in India"
+   ],
+   "answer": 0,
+   "explanation": "IPv6 (Internet Protocol version 6) is defined as: Next-generation network layer protocol using 128-bit hexadecimal addresses to overcome IPv4 address exhaustion (developed by the Internet Engineering Task Force (IETF) in RFC 8200).",
+   "topic": "Cyber Security, Cloud & Computer Awareness",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "computer-awareness-daily-2026-10-29-15",
+   "question": "In computer science and information technology, what does 'Webcam' refer to?",
+   "options": [
+    "Protocol used to transfer web pages",
+    "Secure version of the web transfer protocol",
+    "Standard code for representing characters",
+    "Input device that captures video"
+   ],
+   "answer": 3,
+   "explanation": "Webcam — Input device that captures video.",
+   "topic": "Computer Awareness — Architecture, Networking & Software",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "computer-awareness-daily-2026-10-29-40",
+   "question": "In computing and office software, what is 'Ctrl + Alt + Del' used for?",
+   "options": [
+    "Select all items",
+    "Open the security options screen",
+    "Compressed archive file",
+    "Open a new window or document"
+   ],
+   "answer": 1,
+   "explanation": "In computing, Ctrl + Alt + Del corresponds to Open the security options screen.",
+   "topic": "Computer Awareness — Keyboard Shortcuts & File Extensions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "computer-awareness-daily-2026-10-29-65",
+   "question": "In computer science and information technology, what does 'Firewall' refer to?",
+   "options": [
+    "Program that executes code line by line",
+    "Input device that captures video",
+    "Interface that accepts typed commands",
+    "Security system that filters network traffic"
+   ],
+   "answer": 3,
+   "explanation": "Firewall — Security system that filters network traffic.",
+   "topic": "Computer Awareness — Architecture, Networking & Software",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "computer-awareness-daily-2026-10-29-90",
+   "question": "In computing and office software, what is 'Ctrl + A' used for?",
+   "options": [
+    "Python source file",
+    "Batch file",
+    "Copy the selected item",
+    "Select all items"
+   ],
+   "answer": 3,
+   "explanation": "In computing, Ctrl + A corresponds to Select all items.",
+   "topic": "Computer Awareness — Keyboard Shortcuts & File Extensions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "computer-awareness-daily-2026-10-30-15",
+   "question": "In computer science and information technology, what does 'Interpreter' refer to?",
+   "options": [
+    "Volatile main memory used for running programs",
+    "Program that executes code line by line",
+    "The processing unit that executes instructions",
+    "Small file stored by a website in the browser"
+   ],
+   "answer": 1,
+   "explanation": "Interpreter — Program that executes code line by line.",
+   "topic": "Computer Awareness — Architecture, Networking & Software",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "computer-awareness-daily-2026-10-30-40",
+   "question": "In computing and office software, what is '.csv' used for?",
+   "options": [
+    "Data interchange file",
+    "Open the security options screen",
+    "Show or hide the desktop",
+    "Comma separated values file"
+   ],
+   "answer": 3,
+   "explanation": "In computing, .csv corresponds to Comma separated values file.",
+   "topic": "Computer Awareness — Keyboard Shortcuts & File Extensions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "computer-awareness-daily-2026-10-30-65",
+   "question": "In computer science and information technology, what does 'MAN' refer to?",
+   "options": [
+    "Process of converting data into unreadable form",
+    "Network covering a city",
+    "Step by step method to solve a problem",
+    "Software that manages databases"
+   ],
+   "answer": 1,
+   "explanation": "MAN — Network covering a city.",
+   "topic": "Computer Awareness — Architecture, Networking & Software",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "computer-awareness-daily-2026-10-30-90",
+   "question": "In computing and office software, what is '.pptx' used for?",
+   "options": [
+    "Microsoft PowerPoint presentation",
+    "Save the current file",
+    "JavaScript file",
+    "Plain text file"
+   ],
+   "answer": 0,
+   "explanation": "In computing, .pptx corresponds to Microsoft PowerPoint presentation.",
+   "topic": "Computer Awareness — Keyboard Shortcuts & File Extensions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "computer-awareness-daily-2026-10-31-15",
+   "question": "In computer science and information technology, what does 'Trojan horse' refer to?",
+   "options": [
+    "Malicious program disguised as useful software",
+    "Running a processor above its rated speed",
+    "Number system with base sixteen",
+    "Amount of data a connection can carry"
+   ],
+   "answer": 0,
+   "explanation": "Trojan horse — Malicious program disguised as useful software.",
+   "topic": "Computer Awareness — Architecture, Networking & Software",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "computer-awareness-daily-2026-10-31-40",
+   "question": "In computing and office software, what is '.js' used for?",
+   "options": [
+    "Animated image file",
+    "Open Task Manager",
+    "JavaScript file",
+    "Open a new window or document"
+   ],
+   "answer": 2,
+   "explanation": "In computing, .js corresponds to JavaScript file.",
+   "topic": "Computer Awareness — Keyboard Shortcuts & File Extensions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "computer-awareness-daily-2026-10-31-65",
+   "question": "In computer science and information technology, what does 'Cache memory' refer to?",
+   "options": [
+    "Unique address of a device on a network",
+    "Main circuit board of a computer",
+    "Very fast memory close to the CPU",
+    "Number system with base sixteen"
+   ],
+   "answer": 2,
+   "explanation": "Cache memory — Very fast memory close to the CPU.",
+   "topic": "Computer Awareness — Architecture, Networking & Software",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "computer-awareness-daily-2026-10-31-90",
+   "question": "In computing and office software, what is 'F2' used for?",
+   "options": [
+    "Rename the selected item",
+    "Comma separated values file",
+    "Microsoft Excel workbook",
+    "Executable program file"
+   ],
+   "answer": 0,
+   "explanation": "In computing, F2 corresponds to Rename the selected item.",
+   "topic": "Computer Awareness — Keyboard Shortcuts & File Extensions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
   }
  ]
 };

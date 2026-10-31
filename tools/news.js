@@ -27,6 +27,7 @@ const { spec } = require("./tables");
 const { CATEGORIES } = require("./spec");
 const { assertQuestion, questionErrors } = require("./question-schema");
 const { CURATED_NEWS_MCQS, NEWS_GROUPS } = require("./data/news-competition");
+const { SUBJECT_GROUPS, SUBJECT_TABLE_SPECS } = require("./data/subject-competition");
 
 const DAILY_DIR = process.env.DAILY_DIR || path.join(__dirname, "daily");
 const DEFAULT_COUNT = 100;
@@ -34,7 +35,41 @@ const MAX_COUNT = 500;
 const VALID_SLUGS = new Set(CATEGORIES.map((c) => c.slug).filter((s) => s !== "gk-misc"));
 
 /**
- * Configured real-world news feeds and competitive exam portals.
+ * Balanced 25-category wheel covering Science, Mathematics, Quantitative
+ * Aptitude, Logical Reasoning, English & Grammar, Social Studies, Computer
+ * Awareness, Static GK, Current Affairs and Competitive Exam subjects.
+ * A 100-question daily run completes 4 full turns (4 questions per category).
+ */
+const SUBJECT_WHEEL = [
+  "general-science",
+  "mathematics",
+  "english",
+  "quantitative-aptitude",
+  "reasoning",
+  "physics",
+  "chemistry",
+  "biology",
+  "general-english-grammar",
+  "current-affairs",
+  "indian-polity",
+  "indian-history",
+  "geography",
+  "economics",
+  "computer-awareness",
+  "environmental-studies",
+  "inventions-discoveries",
+  "general-knowledge",
+  "general-awareness",
+  "static-gk",
+  "sports",
+  "awards-honours",
+  "books-authors",
+  "days-events",
+  "abbreviations"
+];
+
+/**
+ * Configured real-world news feeds and multi-subject competitive exam portals.
  */
 const NEWS_SOURCES = [
   {
@@ -111,10 +146,74 @@ const NEWS_SOURCES = [
   },
   {
     id: "opentdb",
-    name: "Open Trivia Database — Competitive General Knowledge & Science",
+    name: "Open Trivia Database — Competitive General Knowledge",
     kind: "competition",
     category: "general-knowledge",
-    url: "https://opentdb.com/api.php?amount=50&type=multiple",
+    url: "https://opentdb.com/api.php?amount=25&category=9&type=multiple",
+    format: "opentdb"
+  },
+  {
+    id: "opentdb-science",
+    name: "Open Trivia Database — Science & Nature (Physics, Chemistry, Biology)",
+    kind: "competition",
+    category: "general-science",
+    url: "https://opentdb.com/api.php?amount=25&category=17&type=multiple",
+    format: "opentdb"
+  },
+  {
+    id: "opentdb-math",
+    name: "Open Trivia Database — Competitive Mathematics",
+    kind: "competition",
+    category: "mathematics",
+    url: "https://opentdb.com/api.php?amount=20&category=19&type=multiple",
+    format: "opentdb"
+  },
+  {
+    id: "opentdb-computers",
+    name: "Open Trivia Database — Computer Science & IT",
+    kind: "competition",
+    category: "computer-awareness",
+    url: "https://opentdb.com/api.php?amount=15&category=18&type=multiple",
+    format: "opentdb"
+  },
+  {
+    id: "opentdb-gadgets",
+    name: "Open Trivia Database — Science Gadgets & Inventions",
+    kind: "competition",
+    category: "inventions-discoveries",
+    url: "https://opentdb.com/api.php?amount=15&category=30&type=multiple",
+    format: "opentdb"
+  },
+  {
+    id: "opentdb-geography",
+    name: "Open Trivia Database — World & Physical Geography",
+    kind: "competition",
+    category: "geography",
+    url: "https://opentdb.com/api.php?amount=15&category=22&type=multiple",
+    format: "opentdb"
+  },
+  {
+    id: "opentdb-history",
+    name: "Open Trivia Database — World & Indian History",
+    kind: "competition",
+    category: "indian-history",
+    url: "https://opentdb.com/api.php?amount=15&category=23&type=multiple",
+    format: "opentdb"
+  },
+  {
+    id: "opentdb-books",
+    name: "Open Trivia Database — Books, Literature & Authors",
+    kind: "competition",
+    category: "books-authors",
+    url: "https://opentdb.com/api.php?amount=15&category=10&type=multiple",
+    format: "opentdb"
+  },
+  {
+    id: "opentdb-sports",
+    name: "Open Trivia Database — Competitive Sports",
+    kind: "competition",
+    category: "sports",
+    url: "https://opentdb.com/api.php?amount=15&category=21&type=multiple",
     format: "opentdb"
   }
 ];
@@ -156,8 +255,31 @@ function cleanHtml(input) {
 
 /** Infer the best ExamSathi category slug from source metadata and text keywords. */
 function inferCategory(text, hintCategory) {
-  if (hintCategory && VALID_SLUGS.has(hintCategory)) return hintCategory;
   const lower = norm(text) + " " + norm(hintCategory);
+  if (/\b(ohm|snell|lenz|faraday|joule|archimedes|pascal|doppler|refraction|diffraction|lens|mirror|focal length|electric current|magnetic flux|voltage|resistor|capacitor|transformer|thermodynamics|si unit|velocity|acceleration|gravitation|escape velocity|newton|wavelength|frequency|hertz|dioptre)\b/.test(lower)) {
+    return "physics";
+  }
+  if (/\b(periodic table|atomic number|valency|isotope|isobar|acid|alkali|ph scale|catalyst|polymer|alloy|metallurgy|oxidation|reduction|electrolysis|covalent|ionic bond|molar|alkane|alkene|benzene|chemical name|chemical formula|sodium|potassium|calcium|sulphuric|hydrochloric)\b/.test(lower)) {
+    return "chemistry";
+  }
+  if (/\b(mitochondria|ribosome|lysosome|chloroplast|photosynthesis|mitosis|meiosis|chromosome|dna|rna|enzyme|hormone|vitamin|vaccine|virus|bacteria|pathogen|nephron|neuron|haemoglobin|blood group|xylem|phloem|botany|zoology|anatomy|physiology|genetics|crispr)\b/.test(lower)) {
+    return "biology";
+  }
+  if (/\b(trigonometry|hypotenuse|sine|cosine|tangent|quadratic|polynomial|logarithm|matrix|determinant|calculus|derivative|integral|equilateral|isosceles|polygon|hexagon|octagon|circumradius|inradius|mensuration|cone|sphere|cylinder|coordinate geometry|centroid|probability|median|variance)\b/.test(lower)) {
+    return "mathematics";
+  }
+  if (/\b(compound interest|simple interest|profit and loss|marked price|selling price|cost price|successive discount|alligation|cistern|upstream|downstream|train crosses|divisibility|hcf|lcm|mean proportional|work together in)\b/.test(lower)) {
+    return "quantitative-aptitude";
+  }
+  if (/\b(syllogism|blood relation|coding-decoding|mirror image|odd days|leap year|clock hand|painted cube|standard die|direction sense|verbal analogy|logical reasoning|seating arrangement|contrapositive)\b/.test(lower)) {
+    return "reasoning";
+  }
+  if (/\b(preposition|conjunction|subjunctive|gerund|participle|passive voice|active voice|indirect speech|question tag|superlative|comparative degree|plural of|feminine of|subject-verb agreement|grammar)\b/.test(lower)) {
+    return "general-english-grammar";
+  }
+  if (/\b(synonym|antonym|idiom|one-word substitute|one word substitute|figure of speech|vocabulary|metaphor|oxymoron|hyperbole|spelt correctly)\b/.test(lower)) {
+    return "english";
+  }
   if (/\b(rbi|repo rate|gdp|inflation|fiscal|budget|gst|sebi|bank|nabard|msme|export|import|rupee|monetary|tax)\b/.test(lower)) {
     return "economics";
   }
@@ -167,7 +289,10 @@ function inferCategory(text, hintCategory) {
   if (/\b(nobel|bharat ratna|padma|booker|oscar|award|prize|honour|khel ratna|dadasaheb|laureate|sahitya akademi)\b/.test(lower)) {
     return "awards-honours";
   }
-  if (/\b(isro|nasa|satellite|rocket|pslv|gslv|lvm3|space|lunar|moon|mars|solar|quantum|vaccine|virus|gene|crispr)\b/.test(lower)) {
+  if (/\b(invented by|inventor of|discovered by|who is credited with|pioneering discovery)\b/.test(lower)) {
+    return "inventions-discoveries";
+  }
+  if (/\b(isro|nasa|satellite|rocket|pslv|gslv|lvm3|space|lunar|moon|mars|solar|quantum|astronomy|planet)\b/.test(lower)) {
     return "general-science";
   }
   if (/\b(ramsar|wetland|tiger reserve|national park|climate|cop28|cop29|cop30|biodiversity|emission|forest|wildlife|pollution|biosphere)\b/.test(lower)) {
@@ -182,18 +307,22 @@ function inferCategory(text, hintCategory) {
   if (/\b(day is observed|anniversary|divas|world .* day|national .* day|international .* day)\b/.test(lower)) {
     return "days-events";
   }
-  if (/\b(cyber|software|ai\b|artificial intelligence|supercomputer|protocol|encryption|database|network|operating system)\b/.test(lower)) {
+  if (/\b(full form of|acronym|abbreviation|stands for)\b/.test(lower)) {
+    return "abbreviations";
+  }
+  if (/\b(cyber|software|ai\b|artificial intelligence|supercomputer|protocol|encryption|database|network|operating system|cpu|ram|rom|compiler|binary)\b/.test(lower)) {
     return "computer-awareness";
   }
-  if (/\b(tunnel|bridge|port|river|mountain|pass|glacier|state|island|strait|highway|corridor)\b/.test(lower)) {
+  if (/\b(tunnel|bridge|port|river|mountain|pass|glacier|state|island|strait|highway|corridor|latitude|longitude|continent)\b/.test(lower)) {
     return "geography";
   }
-  if (/\b(dynasty|inscription|empire|satyagraha|archaeological|harappan|chola|mughal|freedom fighter)\b/.test(lower)) {
+  if (/\b(dynasty|inscription|empire|satyagraha|archaeological|harappan|chola|mughal|freedom fighter|viceroy|revolt of)\b/.test(lower)) {
     return "indian-history";
   }
   if (/\b(exercise|missile|submarine|frigate|aircraft|drdo|navy|air force|army|defence)\b/.test(lower)) {
     return "general-awareness";
   }
+  if (hintCategory && VALID_SLUGS.has(hintCategory)) return hintCategory;
   return "current-affairs";
 }
 
@@ -293,11 +422,10 @@ function parseXmlFeed(xmlText, options) {
     }
     const built = buildOptions(rand, art.title, headlinePool, 4);
     if (!built) continue;
-    const category = inferCategory(art.title + " " + art.summary + " " + art.catHint, defaultCategory);
     const stem = 'Which current affairs development was reported regarding: "' + shortSummary + '"?';
     const explanation = art.title + " — " + shortSummary + (art.pubDate ? " (" + sourceName + ", " + art.pubDate + ")." : " (" + sourceName + ").");
     const candidate = {
-      category,
+      category: "current-affairs",
       question: stem,
       options: built.opts,
       answer: built.ans,
@@ -406,8 +534,9 @@ function parseFeedContent(content, options) {
 }
 
 /**
- * Build the complete deterministic stream of real-world news & competition
- * questions from tools/data/news-competition.js for a given date seed.
+ * Build the complete deterministic stream of real-world news & multi-subject
+ * competitive exam questions from tools/data/news-competition.js and
+ * tools/data/subject-competition.js for a given date seed.
  */
 function buildPoolFromNewsData(dateStr, includeTableFallback) {
   const rand = new Rand(seedFor("examsathi:news-pool:" + dateStr));
@@ -432,9 +561,10 @@ function buildPoolFromNewsData(dateStr, includeTableFallback) {
     }, "Curated news question"));
   }
 
-  // 2. Structured real-world news & competition groups (interleaved across groups and forms)
+  // 2. Structured real-world news & multi-subject competition groups (interleaved across groups and forms)
   const groupStreams = [curatedStream];
-  NEWS_GROUPS.forEach((group, gi) => {
+  const allGroups = NEWS_GROUPS.concat(SUBJECT_GROUPS);
+  allGroups.forEach((group, gi) => {
     const gRand = new Rand(seedFor("examsathi:news-group:" + dateStr + ":" + gi));
     const rows = group.rows;
     const groupItems = [];
@@ -474,6 +604,41 @@ function buildPoolFromNewsData(dateStr, includeTableFallback) {
     groupStreams.push(groupItems);
   });
 
+  // 3. Verified subject-table competitive exam transforms across Science, Math, English & General Studies
+  if (includeTableFallback !== false) {
+    SUBJECT_TABLE_SPECS.forEach((subSpec, si) => {
+      if (!VALID_SLUGS.has(subSpec.category)) return;
+      const sRand = new Rand(seedFor("examsathi:subject-spec:" + dateStr + ":" + si));
+      const rows = (subSpec.rows || []).filter((r) => Array.isArray(r) && r.length >= 2 && txt(r[0]) && txt(r[1]));
+      if (rows.length < 4) return;
+      const specItems = [];
+      (subSpec.forms || []).forEach((form) => {
+        const candidates = rows.map((r) => txt(r[form.a])).filter(Boolean);
+        const rowOrder = sRand.shuffle(rows.map((_, idx) => idx));
+        rowOrder.forEach((ri) => {
+          const row = rows[ri];
+          const qText = form.q.replace(/\{(\d+)\}/g, (_, col) => txt(row[Number(col)]));
+          const answerText = txt(row[form.a]);
+          if (!qText || !answerText) return;
+          const built = buildOptions(sRand, answerText, candidates, 4);
+          if (!built) return;
+          const expText = (form.exp || "{0} — {1}.").replace(/\{(\d+)\}/g, (_, col) => txt(row[Number(col)]));
+          const item = {
+            category: subSpec.category,
+            question: qText,
+            options: built.opts,
+            answer: built.ans,
+            explanation: expText,
+            topic: subSpec.topic,
+            level: subSpec.level || 2
+          };
+          if (questionErrors(item).length === 0) specItems.push(item);
+        });
+      });
+      if (specItems.length) groupStreams.push(specItems);
+    });
+  }
+
   // Shuffle group order by dateStr and round-robin so every date and batch has a distinct, balanced category mix
   const shuffledStreams = rand.shuffle(groupStreams);
   const maxLen = shuffledStreams.reduce((m, s) => Math.max(m, s.length), 0);
@@ -485,7 +650,7 @@ function buildPoolFromNewsData(dateStr, includeTableFallback) {
 
   if (includeTableFallback === false) return pool;
 
-  // 3. Also pull any un-published real-world fact-table questions (never numeric, never matched-pair stems)
+  // 4. Also pull any un-published real-world fact-table questions (never numeric, never matched-pair stems)
   const nonNumericSpecs = rand.shuffle(spec.slice());
   for (let si = 0; si < nonNumericSpecs.length; si++) {
     const entry = nonNumericSpecs[si];
@@ -561,8 +726,10 @@ function publishedBankState(dir) {
 }
 
 /**
- * Generate `count` (default 100) fresh real-world news & competition questions
- * for `dateStr`. Never uses random numerical streams and never repeats any
+ * Generate `count` (default 100) fresh real-world questions across all 25
+ * subjects (Science, Math, English, Reasoning, Polity, History, Geography,
+ * Economics, Computer Awareness, Static GK, Current Affairs, etc.) for
+ * `dateStr`. Never uses random numerical streams and never repeats any
  * question stem or question+options already in `bankKeys` / `bankStems`.
  */
 function generateNewsQuestions(dateStr, count, existingKeysOrState, extraCandidates) {
@@ -598,28 +765,87 @@ function generateNewsQuestions(dateStr, count, existingKeysOrState, extraCandida
     return true;
   };
 
-  const candidates = [].concat(extraCandidates || [], buildPoolFromNewsData(dateStr, false));
-  const fresh = [];
-  const collectFrom = (list) => {
-    for (const q of list) {
-      if (fresh.length >= n) break;
-      if (!q || !VALID_SLUGS.has(q.category)) continue;
-      if (questionErrors(q).length !== 0) continue;
-      if (!isFresh(q.question, q.options)) continue;
-      fresh.push({
-        category: q.category,
-        question: q.question,
-        options: q.options,
-        answer: q.answer,
-        explanation: q.explanation,
-        topic: q.topic || "Current Affairs",
-        level: q.level || 2
-      });
+  // Build per-category queues so every daily run is balanced across Science, Math, English and all other subjects
+  const byCategory = new Map();
+  const cursorByCategory = new Map();
+  for (const slug of SUBJECT_WHEEL) {
+    byCategory.set(slug, []);
+    cursorByCategory.set(slug, 0);
+  }
+
+  const enqueue = (q) => {
+    if (!q || !VALID_SLUGS.has(q.category)) return;
+    if (questionErrors(q).length !== 0) return;
+    if (!byCategory.has(q.category)) {
+      byCategory.set(q.category, []);
+      cursorByCategory.set(q.category, 0);
     }
+    byCategory.get(q.category).push({
+      category: q.category,
+      question: q.question,
+      options: q.options,
+      answer: q.answer,
+      explanation: q.explanation,
+      topic: q.topic || "Competitive Exam Update",
+      level: q.level || 2
+    });
   };
-  collectFrom(candidates);
-  if (fresh.length < n) {
-    collectFrom(buildPoolFromNewsData(dateStr, true));
+
+  for (const q of extraCandidates || []) enqueue(q);
+  for (const q of buildPoolFromNewsData(dateStr, true)) enqueue(q);
+
+  const pullNextFromSlug = (slug) => {
+    const list = byCategory.get(slug) || [];
+    let idx = cursorByCategory.get(slug) || 0;
+    while (idx < list.length) {
+      const candidate = list[idx++];
+      if (isFresh(candidate.question, candidate.options)) {
+        cursorByCategory.set(slug, idx);
+        return candidate;
+      }
+    }
+    cursorByCategory.set(slug, idx);
+    return null;
+  };
+
+  // Ensure categories with explicit imported candidates are visited even when count < 25
+  const wheel = SUBJECT_WHEEL.slice();
+  if (extraCandidates && extraCandidates.length && n < wheel.length) {
+    const importedSlugs = [];
+    for (const q of extraCandidates) {
+      if (q && VALID_SLUGS.has(q.category) && !importedSlugs.includes(q.category)) {
+        importedSlugs.push(q.category);
+      }
+    }
+    for (const impSlug of importedSlugs) {
+      const pos = wheel.indexOf(impSlug);
+      if (pos >= n) {
+        wheel.splice(pos, 1);
+        wheel.unshift(impSlug);
+      }
+    }
+  }
+
+  const fresh = [];
+  let wheelCursor = 0;
+  let guard = 0;
+  while (fresh.length < n && guard++ < n * wheel.length * 2) {
+    const targetSlug = wheel[wheelCursor % wheel.length];
+    wheelCursor++;
+    const picked = pullNextFromSlug(targetSlug);
+    if (picked) {
+      fresh.push(picked);
+      continue;
+    }
+    // If the target category queue is exhausted, pull from the next category on the wheel that has fresh items
+    for (let offset = 0; offset < wheel.length; offset++) {
+      const fallbackSlug = wheel[(wheelCursor + offset) % wheel.length];
+      const fallbackPicked = pullNextFromSlug(fallbackSlug);
+      if (fallbackPicked) {
+        fresh.push(fallbackPicked);
+        break;
+      }
+    }
   }
 
   if (fresh.length < n) {
@@ -699,7 +925,14 @@ function saveNewsDaily(payload, dir) {
   const body = [
     '"use strict";',
     "/** Daily questions for " + payload.date + " — generated by tools/news.js. Do not edit by hand. */",
-    "module.exports = " + JSON.stringify(payload, null, 2) + ";",
+    "(function () {",
+    "  var data = " + JSON.stringify(payload, null, 2) + ";",
+    "  if (typeof module !== \"undefined\" && module.exports) module.exports = data;",
+    "  if (typeof window !== \"undefined\") {",
+    "    window.QBANK_DAILY_SETS = window.QBANK_DAILY_SETS || {};",
+    "    window.QBANK_DAILY_SETS[data.date] = data;",
+    "  }",
+    "})();",
     ""
   ].join("\n");
   fs.writeFileSync(file, body);
@@ -890,6 +1123,7 @@ async function main(argv) {
 
 module.exports = {
   NEWS_SOURCES,
+  SUBJECT_WHEEL,
   DEFAULT_COUNT,
   MAX_COUNT,
   norm,

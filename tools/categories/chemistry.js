@@ -11,7 +11,7 @@
   "railways"
  ],
  "blurb": "Elements, acids, bases, salts and chemical names.",
- "count": 226,
+ "count": 262,
  "questions": [
   {
    "id": "chemistry-00001",
@@ -3406,6 +3406,582 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "chemistry-daily-2026-10-23-07",
+   "question": "Which chemical compound or substance is specifically used for 'Preservation of biological specimens in pathology and anatomy laboratories'?",
+   "options": [
+    "Formalin (aqueous Formaldehyde solution)",
+    "Calcium Chloride (CaCl2)",
+    "Ethyl Mercaptan (Ethanethiol)",
+    "Polytetrafluoroethylene (PTFE / Teflon)"
+   ],
+   "answer": 0,
+   "explanation": "Formalin (aqueous Formaldehyde solution) (a 37 to 40 per cent aqueous solution of methanal that cross-links proteins to prevent decay) is used for Preservation of biological specimens in pathology and anatomy laboratories.",
+   "topic": "Chemistry in Everyday Life & Industry",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "chemistry-daily-2026-10-23-32",
+   "question": "In chemical nomenclature, what is the chemical name and formula corresponding to 'Marble'?",
+   "options": [
+    "Sodium carbonate (Na2CO3)",
+    "Nitric acid (HNO3)",
+    "Calcium oxychloride (CaOCl2)",
+    "Calcium carbonate (CaCO3)"
+   ],
+   "answer": 3,
+   "explanation": "In chemistry, Marble is Calcium carbonate (CaCO3).",
+   "topic": "Chemistry — Systematic & Common Chemical Names",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "chemistry-daily-2026-10-23-57",
+   "question": "In chemistry, what is the key composition, catalyst or property of 'Isotopes, Isobars and Isotones in Nuclear Chemistry'?",
+   "options": [
+    "Finely divided Iron (Fe) catalyst with Molybdenum (Mo) promoter at 450-500 C and 200 atm",
+    "Isotopes have same atomic number Z (protons); Isobars have same mass number A (nucleons); Isotones have same number of neutrons (A - Z)",
+    "Freshly prepared 3 : 1 molar mixture of concentrated Hydrochloric Acid (HCl) and concentrated Nitric Acid (HNO3)",
+    "Alloy of Lead (Pb) and Tin (Sn)"
+   ],
+   "answer": 1,
+   "explanation": "Isotopes, Isobars and Isotones in Nuclear Chemistry — Isotopes have same atomic number Z (protons); Isobars have same mass number A (nucleons); Isotones have same number of neutrons (A - Z) (e.g., 14C and 14N are isobars, whereas 14C and 16O (both with 8 neutrons) are isotones).",
+   "topic": "Core Chemistry — Reactions, Metallurgy, Polymers & Solutions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "chemistry-daily-2026-10-23-82",
+   "question": "In the Modern Periodic Table, what is the atomic number (Z) of the chemical element Carbon (symbol: C)?",
+   "options": [
+    "6",
+    "75",
+    "78",
+    "30"
+   ],
+   "answer": 0,
+   "explanation": "Carbon (C) has atomic number 6 and is classified as a Non-metal.",
+   "topic": "Chemistry — Modern Periodic Table & Elements",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "chemistry-daily-2026-10-24-07",
+   "question": "In chemical nomenclature, what is the chemical name and formula corresponding to 'Slaked lime'?",
+   "options": [
+    "Ethanol (C2H5OH)",
+    "Nitrous oxide (N2O)",
+    "Aqueous formaldehyde (HCHO)",
+    "Calcium hydroxide (Ca(OH)2)"
+   ],
+   "answer": 3,
+   "explanation": "In chemistry, Slaked lime is Calcium hydroxide (Ca(OH)2).",
+   "topic": "Chemistry — Systematic & Common Chemical Names",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "chemistry-daily-2026-10-24-32",
+   "question": "In chemistry, what is the key composition, catalyst or property of 'Anodising of Aluminium'?",
+   "options": [
+    "Iron (Fe) alloyed with Chromium (Cr, ~18%), Nickel (Ni, ~8%) and Carbon (C)",
+    "Caused by dissolved chlorides and sulphates of Calcium (Ca2+) and Magnesium (Mg2+); removed using Washing Soda (Na2CO3) or Ion-Exchange resins",
+    "Boyle's: P prop 1/V (at constant T); Charles's: V prop T (at constant P); Avogadro's: V prop n (at constant T and P)",
+    "Electrolytic process forming a thick protective layer of Aluminium Oxide (Al2O3) on aluminium where the article acts as the anode"
+   ],
+   "answer": 3,
+   "explanation": "Anodising of Aluminium — Electrolytic process forming a thick protective layer of Aluminium Oxide (Al2O3) on aluminium where the article acts as the anode (increases corrosion resistance and allows dyeing of aluminium surfaces).",
+   "topic": "Core Chemistry — Reactions, Metallurgy, Polymers & Solutions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "chemistry-daily-2026-10-24-57",
+   "question": "In the Modern Periodic Table, what is the atomic number (Z) of the chemical element Ytterbium (symbol: Yb)?",
+   "options": [
+    "31",
+    "113",
+    "70",
+    "69"
+   ],
+   "answer": 2,
+   "explanation": "Ytterbium (Yb) has atomic number 70 and is classified as a Lanthanide.",
+   "topic": "Chemistry — Modern Periodic Table & Elements",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "chemistry-daily-2026-10-24-82",
+   "question": "In chemical nomenclature, what is the chemical name and formula corresponding to 'Nitre / saltpetre'?",
+   "options": [
+    "Potassium nitrate (KNO3)",
+    "Hydrated magnesium silicate",
+    "Deuterium oxide (D2O)",
+    "Aqueous formaldehyde (HCHO)"
+   ],
+   "answer": 0,
+   "explanation": "In chemistry, Nitre / saltpetre is Potassium nitrate (KNO3).",
+   "topic": "Chemistry — Systematic & Common Chemical Names",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "chemistry-daily-2026-10-25-07",
+   "question": "In the Modern Periodic Table, what is the atomic number (Z) of the chemical element Dubnium (symbol: Db)?",
+   "options": [
+    "115",
+    "105",
+    "100",
+    "91"
+   ],
+   "answer": 1,
+   "explanation": "Dubnium (Db) has atomic number 105 and is classified as a Transition metal.",
+   "topic": "Chemistry — Modern Periodic Table & Elements",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "chemistry-daily-2026-10-25-32",
+   "question": "In chemical nomenclature, what is the chemical name and formula corresponding to 'Baking powder'?",
+   "options": [
+    "Nitrous oxide (N2O)",
+    "Sodium tetraborate (Na2B4O7.10H2O)",
+    "Sodium hydroxide (NaOH)",
+    "Sodium bicarbonate and tartaric acid"
+   ],
+   "answer": 3,
+   "explanation": "In chemistry, Baking powder is Sodium bicarbonate and tartaric acid.",
+   "topic": "Chemistry — Systematic & Common Chemical Names",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "chemistry-daily-2026-10-25-57",
+   "question": "In chemistry, what is the key composition, catalyst or property of 'Contact Process for Sulphuric Acid (H2SO4) Manufacture'?",
+   "options": [
+    "Teflon is a polymer of tetrafluoroethylene (CF2=CF2) used for non-stick cookware; Bakelite is a thermosetting phenol-formaldehyde resin used for electrical switches",
+    "Freshly prepared 3 : 1 molar mixture of concentrated Hydrochloric Acid (HCl) and concentrated Nitric Acid (HNO3)",
+    "Caused by dissolved chlorides and sulphates of Calcium (Ca2+) and Magnesium (Mg2+); removed using Washing Soda (Na2CO3) or Ion-Exchange resins",
+    "Vanadium pentoxide (V2O5) catalyst"
+   ],
+   "answer": 3,
+   "explanation": "Contact Process for Sulphuric Acid (H2SO4) Manufacture — Vanadium pentoxide (V2O5) catalyst (oxidizes sulphur dioxide (SO2) to sulphur trioxide (SO3) to produce King of Chemicals H2SO4).",
+   "topic": "Core Chemistry — Reactions, Metallurgy, Polymers & Solutions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "chemistry-daily-2026-10-25-82",
+   "question": "Which chemical compound or substance is specifically used for 'Artificial cloud seeding to induce rainfall in drought-prone regions'?",
+   "options": [
+    "Ethyl Mercaptan (Ethanethiol)",
+    "Silver Iodide (AgI)",
+    "Sodium Azide (NaN3)",
+    "Magnesium Hydroxide (Mg(OH)2)"
+   ],
+   "answer": 1,
+   "explanation": "Silver Iodide (AgI) (a crystalline inorganic compound whose hexagonal lattice mimics natural ice crystals) is used for Artificial cloud seeding to induce rainfall in drought-prone regions.",
+   "topic": "Chemistry in Everyday Life & Industry",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "chemistry-daily-2026-10-26-07",
+   "question": "In the Modern Periodic Table, what is the atomic number (Z) of the chemical element Dysprosium (symbol: Dy)?",
+   "options": [
+    "62",
+    "66",
+    "42",
+    "76"
+   ],
+   "answer": 1,
+   "explanation": "Dysprosium (Dy) has atomic number 66 and is classified as a Lanthanide.",
+   "topic": "Chemistry — Modern Periodic Table & Elements",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "chemistry-daily-2026-10-26-32",
+   "question": "In chemistry, what is the key composition, catalyst or property of 'Teflon (Polytetrafluoroethylene, PTFE) and Bakelite'?",
+   "options": [
+    "Bauxite = Aluminium (Al2O3.2H2O); Haematite = Iron (Fe2O3); Galena = Lead (PbS); Cinnabar = Mercury (HgS); Pitchblende = Uranium (UO2)",
+    "Boyle's: P prop 1/V (at constant T); Charles's: V prop T (at constant P); Avogadro's: V prop n (at constant T and P)",
+    "Alloy of Lead (Pb) and Tin (Sn)",
+    "Teflon is a polymer of tetrafluoroethylene (CF2=CF2) used for non-stick cookware; Bakelite is a thermosetting phenol-formaldehyde resin used for electrical switches"
+   ],
+   "answer": 3,
+   "explanation": "Teflon (Polytetrafluoroethylene, PTFE) and Bakelite — Teflon is a polymer of tetrafluoroethylene (CF2=CF2) used for non-stick cookware; Bakelite is a thermosetting phenol-formaldehyde resin used for electrical switches (classic addition vs condensation polymers in everyday chemistry).",
+   "topic": "Core Chemistry — Reactions, Metallurgy, Polymers & Solutions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "chemistry-daily-2026-10-26-57",
+   "question": "In chemical nomenclature, what is the chemical name and formula corresponding to 'Aspirin'?",
+   "options": [
+    "Magnesium sulphate (MgSO4.7H2O)",
+    "Magnesium oxide (MgO)",
+    "Acetylsalicylic acid",
+    "Hydrochloric acid (HCl)"
+   ],
+   "answer": 2,
+   "explanation": "In chemistry, Aspirin is Acetylsalicylic acid.",
+   "topic": "Chemistry — Systematic & Common Chemical Names",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "chemistry-daily-2026-10-26-82",
+   "question": "Which chemical compound or substance is specifically used for 'Indelible voter ink applied on the finger during Indian elections'?",
+   "options": [
+    "Silver Nitrate (AgNO3)",
+    "Magnesium Hydroxide (Mg(OH)2)",
+    "Potash Alum (K2SO4.Al2(SO4)3.24H2O)",
+    "Formalin (aqueous Formaldehyde solution)"
+   ],
+   "answer": 0,
+   "explanation": "Silver Nitrate (AgNO3) (a photosensitive salt that reacts with skin chloride and darkens upon exposure to ultraviolet light) is used for Indelible voter ink applied on the finger during Indian elections.",
+   "topic": "Chemistry in Everyday Life & Industry",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "chemistry-daily-2026-10-27-07",
+   "question": "In chemical nomenclature, what is the chemical name and formula corresponding to 'Formalin'?",
+   "options": [
+    "Sodium tetraborate (Na2B4O7.10H2O)",
+    "Potassium aluminium sulphate",
+    "Phenol (C6H5OH)",
+    "Aqueous formaldehyde (HCHO)"
+   ],
+   "answer": 3,
+   "explanation": "In chemistry, Formalin is Aqueous formaldehyde (HCHO).",
+   "topic": "Chemistry — Systematic & Common Chemical Names",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "chemistry-daily-2026-10-27-32",
+   "question": "In chemistry, what is the key composition, catalyst or property of 'Haber-Bosch Process for Ammonia Synthesis'?",
+   "options": [
+    "Finely divided Nickel (Ni) catalyst",
+    "Freshly prepared 3 : 1 molar mixture of concentrated Hydrochloric Acid (HCl) and concentrated Nitric Acid (HNO3)",
+    "Bauxite = Aluminium (Al2O3.2H2O); Haematite = Iron (Fe2O3); Galena = Lead (PbS); Cinnabar = Mercury (HgS); Pitchblende = Uranium (UO2)",
+    "Finely divided Iron (Fe) catalyst with Molybdenum (Mo) promoter at 450-500 C and 200 atm"
+   ],
+   "answer": 3,
+   "explanation": "Haber-Bosch Process for Ammonia Synthesis — Finely divided Iron (Fe) catalyst with Molybdenum (Mo) promoter at 450-500 C and 200 atm (synthesizes ammonia (NH3) directly from nitrogen (N2) and hydrogen (H2) gas).",
+   "topic": "Core Chemistry — Reactions, Metallurgy, Polymers & Solutions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "chemistry-daily-2026-10-27-57",
+   "question": "In the Modern Periodic Table, what is the atomic number (Z) of the chemical element Sodium (symbol: Na)?",
+   "options": [
+    "40",
+    "58",
+    "11",
+    "18"
+   ],
+   "answer": 2,
+   "explanation": "Sodium (Na) has atomic number 11 and is classified as a Alkali metal.",
+   "topic": "Chemistry — Modern Periodic Table & Elements",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "chemistry-daily-2026-10-27-82",
+   "question": "In chemical nomenclature, what is the chemical name and formula corresponding to 'Magnesia'?",
+   "options": [
+    "Calcium oxychloride (CaOCl2)",
+    "Magnesium oxide (MgO)",
+    "Sodium chloride (NaCl)",
+    "Acetic acid (CH3COOH)"
+   ],
+   "answer": 1,
+   "explanation": "In chemistry, Magnesia is Magnesium oxide (MgO).",
+   "topic": "Chemistry — Systematic & Common Chemical Names",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "chemistry-daily-2026-10-28-07",
+   "question": "In chemistry, what is the key composition, catalyst or property of 'Bauxite, Haematite, Galena, Cinnabar and Pitchblende Ores'?",
+   "options": [
+    "Finely divided Iron (Fe) catalyst with Molybdenum (Mo) promoter at 450-500 C and 200 atm",
+    "Heating natural rubber with 3-5% Sulphur (discovered by Charles Goodyear)",
+    "Bauxite = Aluminium (Al2O3.2H2O); Haematite = Iron (Fe2O3); Galena = Lead (PbS); Cinnabar = Mercury (HgS); Pitchblende = Uranium (UO2)",
+    "Boyle's: P prop 1/V (at constant T); Charles's: V prop T (at constant P); Avogadro's: V prop n (at constant T and P)"
+   ],
+   "answer": 2,
+   "explanation": "Bauxite, Haematite, Galena, Cinnabar and Pitchblende Ores — Bauxite = Aluminium (Al2O3.2H2O); Haematite = Iron (Fe2O3); Galena = Lead (PbS); Cinnabar = Mercury (HgS); Pitchblende = Uranium (UO2) (principal metallic ores asked in competitive chemistry exams).",
+   "topic": "Core Chemistry — Reactions, Metallurgy, Polymers & Solutions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "chemistry-daily-2026-10-28-32",
+   "question": "In the Modern Periodic Table, what is the atomic number (Z) of the chemical element Neodymium (symbol: Nd)?",
+   "options": [
+    "60",
+    "105",
+    "43",
+    "2"
+   ],
+   "answer": 0,
+   "explanation": "Neodymium (Nd) has atomic number 60 and is classified as a Lanthanide.",
+   "topic": "Chemistry — Modern Periodic Table & Elements",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "chemistry-daily-2026-10-28-57",
+   "question": "In chemistry, what is the key composition, catalyst or property of 'Boyle's Law, Charles's Law and Avogadro's Law (Ideal Gas PV = nRT)'?",
+   "options": [
+    "Boyle's: P prop 1/V (at constant T); Charles's: V prop T (at constant P); Avogadro's: V prop n (at constant T and P)",
+    "Bauxite = Aluminium (Al2O3.2H2O); Haematite = Iron (Fe2O3); Galena = Lead (PbS); Cinnabar = Mercury (HgS); Pitchblende = Uranium (UO2)",
+    "Alloy of Lead (Pb) and Tin (Sn)",
+    "Finely divided Iron (Fe) catalyst with Molybdenum (Mo) promoter at 450-500 C and 200 atm"
+   ],
+   "answer": 0,
+   "explanation": "Boyle's Law, Charles's Law and Avogadro's Law (Ideal Gas PV = nRT) — Boyle's: P prop 1/V (at constant T); Charles's: V prop T (at constant P); Avogadro's: V prop n (at constant T and P) (One mole of any ideal gas occupies 22.4 litres at STP (273.15 K and 1 atm)).",
+   "topic": "Core Chemistry — Reactions, Metallurgy, Polymers & Solutions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "chemistry-daily-2026-10-28-82",
+   "question": "In the Modern Periodic Table, what is the atomic number (Z) of the chemical element Chlorine (symbol: Cl)?",
+   "options": [
+    "64",
+    "17",
+    "39",
+    "34"
+   ],
+   "answer": 1,
+   "explanation": "Chlorine (Cl) has atomic number 17 and is classified as a Halogen.",
+   "topic": "Chemistry — Modern Periodic Table & Elements",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "chemistry-daily-2026-10-29-07",
+   "question": "In chemical nomenclature, what is the chemical name and formula corresponding to 'Heavy water'?",
+   "options": [
+    "Deuterium oxide (D2O)",
+    "Sodium hydroxide (NaOH)",
+    "Silicon dioxide (SiO2)",
+    "Ferrous sulphate (FeSO4.7H2O)"
+   ],
+   "answer": 0,
+   "explanation": "In chemistry, Heavy water is Deuterium oxide (D2O).",
+   "topic": "Chemistry — Systematic & Common Chemical Names",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "chemistry-daily-2026-10-29-32",
+   "question": "In chemistry, what is the key composition, catalyst or property of 'Stainless Steel Alloy Composition'?",
+   "options": [
+    "Isotopes have same atomic number Z (protons); Isobars have same mass number A (nucleons); Isotones have same number of neutrons (A - Z)",
+    "Iron (Fe) alloyed with Chromium (Cr, ~18%), Nickel (Ni, ~8%) and Carbon (C)",
+    "Heating natural rubber with 3-5% Sulphur (discovered by Charles Goodyear)",
+    "Teflon is a polymer of tetrafluoroethylene (CF2=CF2) used for non-stick cookware; Bakelite is a thermosetting phenol-formaldehyde resin used for electrical switches"
+   ],
+   "answer": 1,
+   "explanation": "Stainless Steel Alloy Composition — Iron (Fe) alloyed with Chromium (Cr, ~18%), Nickel (Ni, ~8%) and Carbon (C) (chromium forms a passive oxide layer that prevents rusting and corrosion).",
+   "topic": "Core Chemistry — Reactions, Metallurgy, Polymers & Solutions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "chemistry-daily-2026-10-29-57",
+   "question": "In the Modern Periodic Table, what is the atomic number (Z) of the chemical element Caesium (symbol: Cs)?",
+   "options": [
+    "20",
+    "55",
+    "99",
+    "1"
+   ],
+   "answer": 1,
+   "explanation": "Caesium (Cs) has atomic number 55 and is classified as a Alkali metal.",
+   "topic": "Chemistry — Modern Periodic Table & Elements",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "chemistry-daily-2026-10-29-82",
+   "question": "Which chemical compound or substance is specifically used for 'Bulletproof vests and high-tensile aerospace armour fibres'?",
+   "options": [
+    "Silver Nitrate (AgNO3)",
+    "Sodium Azide (NaN3)",
+    "Kevlar (Poly-paraphenylene terephthalamide)",
+    "Polytetrafluoroethylene (PTFE / Teflon)"
+   ],
+   "answer": 2,
+   "explanation": "Kevlar (Poly-paraphenylene terephthalamide) (a heat-resistant para-aramid synthetic polymer with five times the tensile strength of steel by weight) is used for Bulletproof vests and high-tensile aerospace armour fibres.",
+   "topic": "Chemistry in Everyday Life & Industry",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "chemistry-daily-2026-10-30-07",
+   "question": "In chemical nomenclature, what is the chemical name and formula corresponding to 'Milk of magnesia'?",
+   "options": [
+    "Ethanol (C2H5OH)",
+    "Magnesium hydroxide (Mg(OH)2)",
+    "Calcium hydroxide (Ca(OH)2)",
+    "Ferrous sulphate (FeSO4.7H2O)"
+   ],
+   "answer": 1,
+   "explanation": "In chemistry, Milk of magnesia is Magnesium hydroxide (Mg(OH)2).",
+   "topic": "Chemistry — Systematic & Common Chemical Names",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "chemistry-daily-2026-10-30-32",
+   "question": "In the Modern Periodic Table, what is the atomic number (Z) of the chemical element Argon (symbol: Ar)?",
+   "options": [
+    "92",
+    "18",
+    "45",
+    "95"
+   ],
+   "answer": 1,
+   "explanation": "Argon (Ar) has atomic number 18 and is classified as a Noble gas.",
+   "topic": "Chemistry — Modern Periodic Table & Elements",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "chemistry-daily-2026-10-30-57",
+   "question": "In chemical nomenclature, what is the chemical name and formula corresponding to 'Green vitriol'?",
+   "options": [
+    "Acetylsalicylic acid",
+    "Trichloromethane (CHCl3)",
+    "Ferrous sulphate (FeSO4.7H2O)",
+    "Trinitrotoluene"
+   ],
+   "answer": 2,
+   "explanation": "In chemistry, Green vitriol is Ferrous sulphate (FeSO4.7H2O).",
+   "topic": "Chemistry — Systematic & Common Chemical Names",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "chemistry-daily-2026-10-30-82",
+   "question": "In the Modern Periodic Table, what is the atomic number (Z) of the chemical element Fermium (symbol: Fm)?",
+   "options": [
+    "100",
+    "70",
+    "93",
+    "37"
+   ],
+   "answer": 0,
+   "explanation": "Fermium (Fm) has atomic number 100 and is classified as a Actinide.",
+   "topic": "Chemistry — Modern Periodic Table & Elements",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "chemistry-daily-2026-10-31-07",
+   "question": "In chemistry, what is the key composition, catalyst or property of 'Permanent Hardness of Water and Clark's / Washing Soda Method'?",
+   "options": [
+    "Teflon is a polymer of tetrafluoroethylene (CF2=CF2) used for non-stick cookware; Bakelite is a thermosetting phenol-formaldehyde resin used for electrical switches",
+    "Caused by dissolved chlorides and sulphates of Calcium (Ca2+) and Magnesium (Mg2+); removed using Washing Soda (Na2CO3) or Ion-Exchange resins",
+    "Platinum-Rhodium (Pt/Rh) gauze catalyst",
+    "Electrolytic process forming a thick protective layer of Aluminium Oxide (Al2O3) on aluminium where the article acts as the anode"
+   ],
+   "answer": 1,
+   "explanation": "Permanent Hardness of Water and Clark's / Washing Soda Method — Caused by dissolved chlorides and sulphates of Calcium (Ca2+) and Magnesium (Mg2+); removed using Washing Soda (Na2CO3) or Ion-Exchange resins (temporary hardness is caused by bicarbonates of Ca and Mg and can be removed simply by boiling).",
+   "topic": "Core Chemistry — Reactions, Metallurgy, Polymers & Solutions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "chemistry-daily-2026-10-31-32",
+   "question": "In chemical nomenclature, what is the chemical name and formula corresponding to 'Borax'?",
+   "options": [
+    "Sodium chloride (NaCl)",
+    "Sodium tetraborate (Na2B4O7.10H2O)",
+    "Magnesium hydroxide (Mg(OH)2)",
+    "Acetylsalicylic acid"
+   ],
+   "answer": 1,
+   "explanation": "In chemistry, Borax is Sodium tetraborate (Na2B4O7.10H2O).",
+   "topic": "Chemistry — Systematic & Common Chemical Names",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "chemistry-daily-2026-10-31-57",
+   "question": "In the Modern Periodic Table, what is the atomic number (Z) of the chemical element Promethium (symbol: Pm)?",
+   "options": [
+    "16",
+    "78",
+    "99",
+    "61"
+   ],
+   "answer": 3,
+   "explanation": "Promethium (Pm) has atomic number 61 and is classified as a Lanthanide.",
+   "topic": "Chemistry — Modern Periodic Table & Elements",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "chemistry-daily-2026-10-31-82",
+   "question": "In chemistry, what is the key composition, catalyst or property of 'Ostwald Process for Nitric Acid (HNO3) Manufacture'?",
+   "options": [
+    "Heating natural rubber with 3-5% Sulphur (discovered by Charles Goodyear)",
+    "Platinum-Rhodium (Pt/Rh) gauze catalyst",
+    "Finely divided Nickel (Ni) catalyst",
+    "Iron (Fe) alloyed with Chromium (Cr, ~18%), Nickel (Ni, ~8%) and Carbon (C)"
+   ],
+   "answer": 1,
+   "explanation": "Ostwald Process for Nitric Acid (HNO3) Manufacture — Platinum-Rhodium (Pt/Rh) gauze catalyst (catalytically oxidizes ammonia (NH3) to nitric oxide (NO) en route to nitric acid).",
+   "topic": "Core Chemistry — Reactions, Metallurgy, Polymers & Solutions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
   }
  ]
 };

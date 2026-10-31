@@ -13,7 +13,7 @@
   "railways"
  ],
  "blurb": "National symbols, dances, festivals, dams, parks, instruments and branches of science.",
- "count": 1006,
+ "count": 1042,
  "questions": [
   {
    "id": "static-gk-00001",
@@ -15110,6 +15110,582 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "static-gk-daily-2026-10-23-20",
+   "question": "In Indian Static GK, what is the capital city of Uttarakhand (in North India)?",
+   "options": [
+    "Hyderabad",
+    "Panaji",
+    "Patna",
+    "Dehradun"
+   ],
+   "answer": 3,
+   "explanation": "The capital of Uttarakhand (North India) is Dehradun.",
+   "topic": "Static GK — Indian States, Capitals & Regions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "static-gk-daily-2026-10-23-45",
+   "question": "In Indian cultural Static GK, 'Karam' is a traditional dance form or festival of which state or UT?",
+   "options": [
+    "Rajasthan",
+    "Jharkhand",
+    "Meghalaya",
+    "Kerala"
+   ],
+   "answer": 1,
+   "explanation": "In Indian culture, Karam belongs to Jharkhand.",
+   "topic": "Static GK — Classical & Folk Dances and Festivals of India",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "static-gk-daily-2026-10-23-70",
+   "question": "The Geographical Indication (GI) tagged product 'Sea Buckthorn of Ladakh' belongs to which Indian state or union territory?",
+   "options": [
+    "Maharashtra",
+    "Ladakh",
+    "Arunachal Pradesh",
+    "Andhra Pradesh"
+   ],
+   "answer": 1,
+   "explanation": "'Sea Buckthorn of Ladakh' (cold-desert berry rich in vitamins and antioxidants known locally as Leh Berry or Tsestarlulu) holds a Geographical Indication (GI) tag from Ladakh.",
+   "topic": "GI Tags & Regional Heritage in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "static-gk-daily-2026-10-23-95",
+   "question": "In Indian Static GK, what is the capital city of Telangana (in South India)?",
+   "options": [
+    "Thiruvananthapuram",
+    "Amaravati",
+    "Hyderabad",
+    "Jaipur"
+   ],
+   "answer": 2,
+   "explanation": "The capital of Telangana (South India) is Hyderabad.",
+   "topic": "Static GK — Indian States, Capitals & Regions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "static-gk-daily-2026-10-24-20",
+   "question": "The Geographical Indication (GI) tagged product 'Banaras Thandai' belongs to which Indian state or union territory?",
+   "options": [
+    "Andhra Pradesh",
+    "Arunachal Pradesh",
+    "Uttar Pradesh",
+    "Ladakh"
+   ],
+   "answer": 2,
+   "explanation": "'Banaras Thandai' (traditional spiced almond, fennel, rose petal and saffron beverage of Varanasi) holds a Geographical Indication (GI) tag from Uttar Pradesh.",
+   "topic": "GI Tags & Regional Heritage in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "static-gk-daily-2026-10-24-45",
+   "question": "In Indian Static GK, what is the capital city of Nagaland (in North-East India)?",
+   "options": [
+    "Kohima",
+    "Agartala",
+    "Shimla",
+    "Dehradun"
+   ],
+   "answer": 0,
+   "explanation": "The capital of Nagaland (North-East India) is Kohima.",
+   "topic": "Static GK — Indian States, Capitals & Regions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "static-gk-daily-2026-10-24-70",
+   "question": "In Indian cultural Static GK, 'Rouf' is a traditional dance form or festival of which state or UT?",
+   "options": [
+    "Kerala",
+    "Jammu and Kashmir",
+    "Arunachal Pradesh",
+    "Odisha"
+   ],
+   "answer": 1,
+   "explanation": "In Indian culture, Rouf belongs to Jammu and Kashmir.",
+   "topic": "Static GK — Classical & Folk Dances and Festivals of India",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "static-gk-daily-2026-10-24-95",
+   "question": "The Geographical Indication (GI) tagged product 'Lakadong Turmeric' belongs to which Indian state or union territory?",
+   "options": [
+    "Uttar Pradesh",
+    "Arunachal Pradesh",
+    "Meghalaya",
+    "Maharashtra"
+   ],
+   "answer": 2,
+   "explanation": "'Lakadong Turmeric' (high-curcumin turmeric variety grown in the Jaintia Hills with over 7 per cent curcumin content) holds a Geographical Indication (GI) tag from Meghalaya.",
+   "topic": "GI Tags & Regional Heritage in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "static-gk-daily-2026-10-25-20",
+   "question": "In Indian Static GK, what is the capital city of Sikkim (in North-East India)?",
+   "options": [
+    "Gangtok",
+    "Kohima",
+    "Chennai",
+    "Chandigarh"
+   ],
+   "answer": 0,
+   "explanation": "The capital of Sikkim (North-East India) is Gangtok.",
+   "topic": "Static GK — Indian States, Capitals & Regions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "static-gk-daily-2026-10-25-45",
+   "question": "In Indian cultural Static GK, 'Nongkrem' is a traditional dance form or festival of which state or UT?",
+   "options": [
+    "Meghalaya",
+    "Tamil Nadu",
+    "Punjab",
+    "Kerala"
+   ],
+   "answer": 0,
+   "explanation": "In Indian culture, Nongkrem belongs to Meghalaya.",
+   "topic": "Static GK — Classical & Folk Dances and Festivals of India",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "static-gk-daily-2026-10-25-70",
+   "question": "The Geographical Indication (GI) tagged product 'Kachchhi Kharek' belongs to which Indian state or union territory?",
+   "options": [
+    "Ladakh",
+    "Odisha",
+    "Arunachal Pradesh",
+    "Gujarat"
+   ],
+   "answer": 3,
+   "explanation": "'Kachchhi Kharek' (indigenous variety of sweet dates harvested at the crisp Khalal stage in Kutch) holds a Geographical Indication (GI) tag from Gujarat.",
+   "topic": "GI Tags & Regional Heritage in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "static-gk-daily-2026-10-25-95",
+   "question": "In Indian Static GK, what is the capital city of Arunachal Pradesh (in North-East India)?",
+   "options": [
+    "Ranchi",
+    "Shimla",
+    "Kohima",
+    "Itanagar"
+   ],
+   "answer": 3,
+   "explanation": "The capital of Arunachal Pradesh (North-East India) is Itanagar.",
+   "topic": "Static GK — Indian States, Capitals & Regions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "static-gk-daily-2026-10-26-20",
+   "question": "In Indian cultural Static GK, 'Cheiraoba' is a traditional dance form or festival of which state or UT?",
+   "options": [
+    "Bihar",
+    "Manipur",
+    "Odisha",
+    "Gujarat"
+   ],
+   "answer": 1,
+   "explanation": "In Indian culture, Cheiraoba belongs to Manipur.",
+   "topic": "Static GK — Classical & Folk Dances and Festivals of India",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "static-gk-daily-2026-10-26-45",
+   "question": "In Indian Static GK, what is the capital city of Uttar Pradesh (in North India)?",
+   "options": [
+    "Bhubaneswar",
+    "Lucknow",
+    "Agartala",
+    "Patna"
+   ],
+   "answer": 1,
+   "explanation": "The capital of Uttar Pradesh (North India) is Lucknow.",
+   "topic": "Static GK — Indian States, Capitals & Regions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "static-gk-daily-2026-10-26-70",
+   "question": "In Indian cultural Static GK, 'Ganesh Chaturthi' is a traditional dance form or festival of which state or UT?",
+   "options": [
+    "Assam",
+    "Madhya Pradesh",
+    "Maharashtra",
+    "Punjab"
+   ],
+   "answer": 2,
+   "explanation": "In Indian culture, Ganesh Chaturthi belongs to Maharashtra.",
+   "topic": "Static GK — Classical & Folk Dances and Festivals of India",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "static-gk-daily-2026-10-26-95",
+   "question": "The Geographical Indication (GI) tagged product 'Miraj Tanpura and Sitar' belongs to which Indian state or union territory?",
+   "options": [
+    "Gujarat",
+    "Assam",
+    "Odisha",
+    "Maharashtra"
+   ],
+   "answer": 3,
+   "explanation": "'Miraj Tanpura and Sitar' (handcrafted classical stringed musical instruments made from seasoned gourd and tun wood) holds a Geographical Indication (GI) tag from Maharashtra.",
+   "topic": "GI Tags & Regional Heritage in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "static-gk-daily-2026-10-27-20",
+   "question": "In Indian cultural Static GK, 'Sekrenyi' is a traditional dance form or festival of which state or UT?",
+   "options": [
+    "Mizoram",
+    "Tamil Nadu",
+    "Jharkhand",
+    "Nagaland"
+   ],
+   "answer": 3,
+   "explanation": "In Indian culture, Sekrenyi belongs to Nagaland.",
+   "topic": "Static GK — Classical & Folk Dances and Festivals of India",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "static-gk-daily-2026-10-27-45",
+   "question": "In Indian Static GK, what is the capital city of Tripura (in North-East India)?",
+   "options": [
+    "Agartala",
+    "Kolkata",
+    "Patna",
+    "Jaipur"
+   ],
+   "answer": 0,
+   "explanation": "The capital of Tripura (North-East India) is Agartala.",
+   "topic": "Static GK — Indian States, Capitals & Regions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "static-gk-daily-2026-10-27-70",
+   "question": "In Indian cultural Static GK, 'Tamasha' is a traditional dance form or festival of which state or UT?",
+   "options": [
+    "Madhya Pradesh",
+    "Rajasthan",
+    "Maharashtra",
+    "Tamil Nadu"
+   ],
+   "answer": 2,
+   "explanation": "In Indian culture, Tamasha belongs to Maharashtra.",
+   "topic": "Static GK — Classical & Folk Dances and Festivals of India",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "static-gk-daily-2026-10-27-95",
+   "question": "In Indian Static GK, what is the capital city of Maharashtra (in West India)?",
+   "options": [
+    "Bhubaneswar",
+    "Hyderabad",
+    "Mumbai",
+    "Thiruvananthapuram"
+   ],
+   "answer": 2,
+   "explanation": "The capital of Maharashtra (West India) is Mumbai.",
+   "topic": "Static GK — Indian States, Capitals & Regions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "static-gk-daily-2026-10-28-20",
+   "question": "The Geographical Indication (GI) tagged product 'Wancho Wooden Craft' belongs to which Indian state or union territory?",
+   "options": [
+    "Arunachal Pradesh",
+    "Meghalaya",
+    "Maharashtra",
+    "Andhra Pradesh"
+   ],
+   "answer": 0,
+   "explanation": "'Wancho Wooden Craft' (ethnic wood carving tradition depicting human and zoomorphic motifs) holds a Geographical Indication (GI) tag from Arunachal Pradesh.",
+   "topic": "GI Tags & Regional Heritage in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "static-gk-daily-2026-10-28-45",
+   "question": "In Indian Static GK, what is the capital city of Odisha (in East India)?",
+   "options": [
+    "Bhubaneswar",
+    "Amaravati",
+    "Ranchi",
+    "Gangtok"
+   ],
+   "answer": 0,
+   "explanation": "The capital of Odisha (East India) is Bhubaneswar.",
+   "topic": "Static GK — Indian States, Capitals & Regions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "static-gk-daily-2026-10-28-70",
+   "question": "In Indian Static GK, what is the capital city of Haryana (in North India)?",
+   "options": [
+    "Chandigarh",
+    "Ranchi",
+    "Gangtok",
+    "Kohima"
+   ],
+   "answer": 0,
+   "explanation": "The capital of Haryana (North India) is Chandigarh.",
+   "topic": "Static GK — Indian States, Capitals & Regions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "static-gk-daily-2026-10-28-95",
+   "question": "In Indian cultural Static GK, 'Bharatanatyam' is a traditional dance form or festival of which state or UT?",
+   "options": [
+    "Haryana",
+    "Tamil Nadu",
+    "Rajasthan",
+    "Gujarat"
+   ],
+   "answer": 1,
+   "explanation": "In Indian culture, Bharatanatyam belongs to Tamil Nadu.",
+   "topic": "Static GK — Classical & Folk Dances and Festivals of India",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "static-gk-daily-2026-10-29-20",
+   "question": "In Indian Static GK, what is the capital city of Andhra Pradesh (in South India)?",
+   "options": [
+    "Amaravati",
+    "Hyderabad",
+    "Mumbai",
+    "Gangtok"
+   ],
+   "answer": 0,
+   "explanation": "The capital of Andhra Pradesh (South India) is Amaravati.",
+   "topic": "Static GK — Indian States, Capitals & Regions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "static-gk-daily-2026-10-29-45",
+   "question": "The Geographical Indication (GI) tagged product 'Adi Kekir' belongs to which Indian state or union territory?",
+   "options": [
+    "Gujarat",
+    "Assam",
+    "Maharashtra",
+    "Arunachal Pradesh"
+   ],
+   "answer": 3,
+   "explanation": "'Adi Kekir' (aromatic indigenous ginger variety cultivated in East Siang and Upper Siang districts) holds a Geographical Indication (GI) tag from Arunachal Pradesh.",
+   "topic": "GI Tags & Regional Heritage in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "static-gk-daily-2026-10-29-70",
+   "question": "In Indian Static GK, what is the capital city of Jharkhand (in East India)?",
+   "options": [
+    "Mumbai",
+    "Ranchi",
+    "Agartala",
+    "Gandhinagar"
+   ],
+   "answer": 1,
+   "explanation": "The capital of Jharkhand (East India) is Ranchi.",
+   "topic": "Static GK — Indian States, Capitals & Regions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "static-gk-daily-2026-10-29-95",
+   "question": "In Indian cultural Static GK, 'Phag Dance' is a traditional dance form or festival of which state or UT?",
+   "options": [
+    "Gujarat",
+    "Haryana",
+    "Karnataka",
+    "West Bengal"
+   ],
+   "answer": 1,
+   "explanation": "In Indian culture, Phag Dance belongs to Haryana.",
+   "topic": "Static GK — Classical & Folk Dances and Festivals of India",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "static-gk-daily-2026-10-30-20",
+   "question": "In Indian Static GK, what is the capital city of Manipur (in North-East India)?",
+   "options": [
+    "Imphal",
+    "Chennai",
+    "Kolkata",
+    "Chandigarh"
+   ],
+   "answer": 0,
+   "explanation": "The capital of Manipur (North-East India) is Imphal.",
+   "topic": "Static GK — Indian States, Capitals & Regions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "static-gk-daily-2026-10-30-45",
+   "question": "In Indian cultural Static GK, 'Yakshagana' is a traditional dance form or festival of which state or UT?",
+   "options": [
+    "Odisha",
+    "Tamil Nadu",
+    "Karnataka",
+    "Arunachal Pradesh"
+   ],
+   "answer": 2,
+   "explanation": "In Indian culture, Yakshagana belongs to Karnataka.",
+   "topic": "Static GK — Classical & Folk Dances and Festivals of India",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "static-gk-daily-2026-10-30-70",
+   "question": "In Indian cultural Static GK, 'Bhavai' is a traditional dance form or festival of which state or UT?",
+   "options": [
+    "Uttar Pradesh",
+    "Ladakh",
+    "Gujarat",
+    "Jammu and Kashmir"
+   ],
+   "answer": 2,
+   "explanation": "In Indian culture, Bhavai belongs to Gujarat.",
+   "topic": "Static GK — Classical & Folk Dances and Festivals of India",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "static-gk-daily-2026-10-30-95",
+   "question": "In Indian Static GK, what is the capital city of West Bengal (in East India)?",
+   "options": [
+    "Raipur",
+    "Gandhinagar",
+    "Kolkata",
+    "Chandigarh"
+   ],
+   "answer": 2,
+   "explanation": "The capital of West Bengal (East India) is Kolkata.",
+   "topic": "Static GK — Indian States, Capitals & Regions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "static-gk-daily-2026-10-31-20",
+   "question": "In Indian cultural Static GK, 'Padayani' is a traditional dance form or festival of which state or UT?",
+   "options": [
+    "Rajasthan",
+    "Jammu and Kashmir",
+    "Kerala",
+    "Haryana"
+   ],
+   "answer": 2,
+   "explanation": "In Indian culture, Padayani belongs to Kerala.",
+   "topic": "Static GK — Classical & Folk Dances and Festivals of India",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "static-gk-daily-2026-10-31-45",
+   "question": "In Indian cultural Static GK, 'Nuakhai' is a traditional dance form or festival of which state or UT?",
+   "options": [
+    "Odisha",
+    "Uttar Pradesh",
+    "Kerala",
+    "Tripura"
+   ],
+   "answer": 0,
+   "explanation": "In Indian culture, Nuakhai belongs to Odisha.",
+   "topic": "Static GK — Classical & Folk Dances and Festivals of India",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "static-gk-daily-2026-10-31-70",
+   "question": "The Geographical Indication (GI) tagged product 'Tiranga Barfi' belongs to which Indian state or union territory?",
+   "options": [
+    "Maharashtra",
+    "Uttar Pradesh",
+    "Odisha",
+    "Jammu and Jammu & Kashmir"
+   ],
+   "answer": 1,
+   "explanation": "'Tiranga Barfi' (tricolour milk sweet prepared in Varanasi during the freedom movement using saffron, khoya and pistachio) holds a Geographical Indication (GI) tag from Uttar Pradesh.",
+   "topic": "GI Tags & Regional Heritage in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "static-gk-daily-2026-10-31-95",
+   "question": "In Indian Static GK, what is the capital city of Goa (in West India)?",
+   "options": [
+    "Dispur",
+    "Panaji",
+    "Bhubaneswar",
+    "Dehradun"
+   ],
+   "answer": 1,
+   "explanation": "The capital of Goa (West India) is Panaji.",
+   "topic": "Static GK — Indian States, Capitals & Regions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
   }
  ]
 };

@@ -11,7 +11,7 @@
   "railways"
  ],
  "blurb": "Motion, energy, light, electricity and units.",
- "count": 263,
+ "count": 299,
  "questions": [
   {
    "id": "physics-00001",
@@ -3960,6 +3960,582 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "physics-daily-2026-10-23-06",
+   "question": "In physics and metrology, which SI unit is used to express the physical quantity 'Luminous flux'?",
+   "options": [
+    "Lumen",
+    "Weber",
+    "Farad",
+    "Volt"
+   ],
+   "answer": 0,
+   "explanation": "In the International System of Units (SI), Luminous flux is measured in Lumen.",
+   "topic": "Physics — SI Units & Physical Quantities",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "physics-daily-2026-10-23-31",
+   "question": "In experimental physics and instrumentation, what is the device 'Hygroscope' designed to measure or detect?",
+   "options": [
+    "Humidity",
+    "Heat change in reactions",
+    "Temperature",
+    "Viscosity of liquids"
+   ],
+   "answer": 0,
+   "explanation": "Hygroscope is used for measuring Humidity.",
+   "topic": "Physics — Scientific Instruments & Measurements",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "physics-daily-2026-10-23-56",
+   "question": "In planetary science and astrophysics, which solar system body is characterised by the fact: 'Comet'?",
+   "options": [
+    "Saturn",
+    "Halley's Comet",
+    "Mercury",
+    "Comet"
+   ],
+   "answer": 3,
+   "explanation": "Comet (Icy body with a glowing tail) — Comet.",
+   "topic": "Astrophysics & Planetary Science",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "physics-daily-2026-10-23-81",
+   "question": "In physics, what does 'Rayleigh Scattering of Sunlight' state or explain?",
+   "options": [
+    "Myopia (image forms in front of retina) is corrected using a concave (diverging) lens; Hypermetropia (image forms behind retina) is corrected using a convex (converging) lens",
+    "Intensity of scattered light is inversely proportional to the fourth power of wavelength (I prop 1 / lambda^4)",
+    "lambda_max * T = b (the wavelength of peak emission is inversely proportional to absolute temperature T)",
+    "Change in internal energy Delta_U = Q - W (heat supplied minus work done by the system)"
+   ],
+   "answer": 1,
+   "explanation": "Rayleigh Scattering of Sunlight — Intensity of scattered light is inversely proportional to the fourth power of wavelength (I prop 1 / lambda^4) (explains why the clear daytime sky appears blue and the Sun appears red at sunrise and sunset).",
+   "topic": "Core Physics Laws, Optics, Electricity & Mechanics in Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "physics-daily-2026-10-24-06",
+   "question": "In physics and metrology, which SI unit is used to express the physical quantity 'Power'?",
+   "options": [
+    "Watt",
+    "Mole",
+    "Pascal",
+    "Coulomb"
+   ],
+   "answer": 0,
+   "explanation": "In the International System of Units (SI), Power is measured in Watt.",
+   "topic": "Physics — SI Units & Physical Quantities",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "physics-daily-2026-10-24-31",
+   "question": "In physics, what does 'Myopia (Short-Sightedness) and Hypermetropia (Long-Sightedness) Correction' state or explain?",
+   "options": [
+    "Heat produced H = I^2 * R * t (proportional to square of current, resistance and time)",
+    "Myopia (image forms in front of retina) is corrected using a concave (diverging) lens; Hypermetropia (image forms behind retina) is corrected using a convex (converging) lens",
+    "Cohesive forces minimize liquid surface area, making raindrops spherical and allowing oil to rise in a lamp wick",
+    "Change in internal energy Delta_U = Q - W (heat supplied minus work done by the system)"
+   ],
+   "answer": 1,
+   "explanation": "Myopia (Short-Sightedness) and Hypermetropia (Long-Sightedness) Correction — Myopia (image forms in front of retina) is corrected using a concave (diverging) lens; Hypermetropia (image forms behind retina) is corrected using a convex (converging) lens (Presbyopia in ageing eyes is corrected using a bifocal lens).",
+   "topic": "Core Physics Laws, Optics, Electricity & Mechanics in Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "physics-daily-2026-10-24-56",
+   "question": "In experimental physics and instrumentation, what is the device 'Transducer' designed to measure or detect?",
+   "options": [
+    "Properties of light",
+    "One form of energy into another",
+    "Purity of milk",
+    "Humidity"
+   ],
+   "answer": 1,
+   "explanation": "Transducer is used for measuring One form of energy into another.",
+   "topic": "Physics — Scientific Instruments & Measurements",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "physics-daily-2026-10-24-81",
+   "question": "In planetary science and astrophysics, which solar system body is characterised by the fact: 'Jupiter'?",
+   "options": [
+    "Uranus",
+    "Jupiter",
+    "Saturn",
+    "Mars"
+   ],
+   "answer": 1,
+   "explanation": "Jupiter (Great Red Spot) — Jupiter.",
+   "topic": "Astrophysics & Planetary Science",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "physics-daily-2026-10-25-06",
+   "question": "In physics, what does 'First Law of Thermodynamics' state or explain?",
+   "options": [
+    "Operate on mutual electromagnetic induction (AC only) to change voltage while keeping frequency and ideal power (V_p * I_p = V_s * I_s) constant",
+    "The ratio of the sine of the angle of incidence to the sine of the angle of refraction is constant (n1 * sin(i) = n2 * sin(r))",
+    "Change in internal energy Delta_U = Q - W (heat supplied minus work done by the system)",
+    "A body wholly or partially immersed in a fluid experiences an upward buoyant force equal to the weight of the fluid displaced"
+   ],
+   "answer": 2,
+   "explanation": "First Law of Thermodynamics — Change in internal energy Delta_U = Q - W (heat supplied minus work done by the system) (statement of the law of conservation of energy applied to thermal systems).",
+   "topic": "Core Physics Laws, Optics, Electricity & Mechanics in Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "physics-daily-2026-10-25-31",
+   "question": "In experimental physics and instrumentation, what is the device 'Odometer and Speedometer' designed to measure or detect?",
+   "options": [
+    "Temperature",
+    "Speed and distance",
+    "Water absorption by plants",
+    "Plant growth"
+   ],
+   "answer": 1,
+   "explanation": "Odometer and Speedometer is used for measuring Speed and distance.",
+   "topic": "Physics — Scientific Instruments & Measurements",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "physics-daily-2026-10-25-56",
+   "question": "In planetary science and astrophysics, which solar system body is characterised by the fact: 'Sun'?",
+   "options": [
+    "Sun",
+    "Sirius",
+    "Mercury",
+    "Light year"
+   ],
+   "answer": 0,
+   "explanation": "Sun (Nearest star to Earth) — Sun.",
+   "topic": "Astrophysics & Planetary Science",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "physics-daily-2026-10-25-81",
+   "question": "In physics and metrology, which SI unit is used to express the physical quantity 'Force'?",
+   "options": [
+    "Newton",
+    "Pascal",
+    "Reciprocal metre",
+    "Kilogram"
+   ],
+   "answer": 0,
+   "explanation": "In the International System of Units (SI), Force is measured in Newton.",
+   "topic": "Physics — SI Units & Physical Quantities",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "physics-daily-2026-10-26-06",
+   "question": "In physics and metrology, which SI unit is used to express the physical quantity 'Illuminance'?",
+   "options": [
+    "Joule",
+    "Metre",
+    "Becquerel",
+    "Lux"
+   ],
+   "answer": 3,
+   "explanation": "In the International System of Units (SI), Illuminance is measured in Lux.",
+   "topic": "Physics — SI Units & Physical Quantities",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "physics-daily-2026-10-26-31",
+   "question": "In planetary science and astrophysics, which solar system body is characterised by the fact: 'Milky Way'?",
+   "options": [
+    "Milky Way",
+    "Astronomical unit",
+    "Venus",
+    "Comet"
+   ],
+   "answer": 0,
+   "explanation": "Milky Way (Galaxy containing the Solar System) — Milky Way.",
+   "topic": "Astrophysics & Planetary Science",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "physics-daily-2026-10-26-56",
+   "question": "In physics, what does 'Step-Up and Step-Down Transformers' state or explain?",
+   "options": [
+    "The ratio of the sine of the angle of incidence to the sine of the angle of refraction is constant (n1 * sin(i) = n2 * sin(r))",
+    "Operate on mutual electromagnetic induction (AC only) to change voltage while keeping frequency and ideal power (V_p * I_p = V_s * I_s) constant",
+    "A body wholly or partially immersed in a fluid experiences an upward buoyant force equal to the weight of the fluid displaced",
+    "The direction of an induced electromotive force always opposes the change in magnetic flux that produces it"
+   ],
+   "answer": 1,
+   "explanation": "Step-Up and Step-Down Transformers — Operate on mutual electromagnetic induction (AC only) to change voltage while keeping frequency and ideal power (V_p * I_p = V_s * I_s) constant (laminated silicon-steel cores are used to minimize eddy current and hysteresis losses).",
+   "topic": "Core Physics Laws, Optics, Electricity & Mechanics in Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "physics-daily-2026-10-26-81",
+   "question": "In experimental physics and instrumentation, what is the device 'Galvanometer' designed to measure or detect?",
+   "options": [
+    "Wind speed",
+    "Purity of milk",
+    "Small electric currents",
+    "Atmospheric pressure"
+   ],
+   "answer": 2,
+   "explanation": "Galvanometer is used for measuring Small electric currents.",
+   "topic": "Physics — Scientific Instruments & Measurements",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "physics-daily-2026-10-27-06",
+   "question": "In planetary science and astrophysics, which solar system body is characterised by the fact: 'Nebula'?",
+   "options": [
+    "Valles Marineris",
+    "Nebula",
+    "Jupiter",
+    "Moon"
+   ],
+   "answer": 1,
+   "explanation": "Nebula (Cloud of gas and dust in space) — Nebula.",
+   "topic": "Astrophysics & Planetary Science",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "physics-daily-2026-10-27-31",
+   "question": "In experimental physics and instrumentation, what is the device 'Radiometer' designed to measure or detect?",
+   "options": [
+    "Radiant energy",
+    "Electric current",
+    "Heart electrical activity",
+    "Properties of light"
+   ],
+   "answer": 0,
+   "explanation": "Radiometer is used for measuring Radiant energy.",
+   "topic": "Physics — Scientific Instruments & Measurements",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "physics-daily-2026-10-27-56",
+   "question": "In physics, what does 'Surface Tension and Capillary Action' state or explain?",
+   "options": [
+    "Cohesive forces minimize liquid surface area, making raindrops spherical and allowing oil to rise in a lamp wick",
+    "An EMF is induced whenever magnetic flux changes, with magnitude E = -N * (dPhi / dt)",
+    "Apparent shift in observed frequency of a wave due to relative motion between the source and the observer",
+    "Always forms a virtual, erect and diminished image, providing a wider field of view of traffic behind"
+   ],
+   "answer": 0,
+   "explanation": "Surface Tension and Capillary Action — Cohesive forces minimize liquid surface area, making raindrops spherical and allowing oil to rise in a lamp wick (surface tension decreases when temperature increases or when detergent is added to water).",
+   "topic": "Core Physics Laws, Optics, Electricity & Mechanics in Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "physics-daily-2026-10-27-81",
+   "question": "In competitive science exams, which principle or phenomenon explains 'Rise of sap in plant xylem capillaries and oil in a lamp wick'?",
+   "options": [
+    "Rayleigh Scattering of shorter-wavelength light by atmospheric molecules",
+    "Lenz's Law of Electromagnetic Induction",
+    "Capillary Action driven by surface tension and adhesive forces",
+    "Hall Effect"
+   ],
+   "answer": 2,
+   "explanation": "Rise of sap in plant xylem capillaries and oil in a lamp wick is explained by Capillary Action driven by surface tension and adhesive forces (absorption of water by blotting paper and soil moisture movement).",
+   "topic": "Competitive Exam Science — Physics, Chemistry & Biology",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "physics-daily-2026-10-28-06",
+   "question": "In experimental physics and instrumentation, what is the device 'Spectrometer' designed to measure or detect?",
+   "options": [
+    "Heart activity",
+    "Blood pressure",
+    "Viscosity of liquids",
+    "Properties of light"
+   ],
+   "answer": 3,
+   "explanation": "Spectrometer is used for measuring Properties of light.",
+   "topic": "Physics — Scientific Instruments & Measurements",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "physics-daily-2026-10-28-31",
+   "question": "In competitive science exams, which principle or phenomenon explains 'Production of a potential difference across an electrical conductor when a magnetic field is applied perpendicular to current flow'?",
+   "options": [
+    "Hall Effect",
+    "Zeeman Effect",
+    "Bernoulli's Principle of pressure-velocity trade-off",
+    "Capillary Action driven by surface tension and adhesive forces"
+   ],
+   "answer": 0,
+   "explanation": "Production of a potential difference across an electrical conductor when a magnetic field is applied perpendicular to current flow is explained by Hall Effect (brushless DC motor sensors, automotive wheel-speed sensors and magnetometers).",
+   "topic": "Competitive Exam Science — Physics, Chemistry & Biology",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "physics-daily-2026-10-28-56",
+   "question": "In physics and metrology, which SI unit is used to express the physical quantity 'Solid angle'?",
+   "options": [
+    "Steradian",
+    "Radian",
+    "Hertz",
+    "Reciprocal metre"
+   ],
+   "answer": 0,
+   "explanation": "In the International System of Units (SI), Solid angle is measured in Steradian.",
+   "topic": "Physics — SI Units & Physical Quantities",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "physics-daily-2026-10-28-81",
+   "question": "In planetary science and astrophysics, which solar system body is characterised by the fact: 'Supernova'?",
+   "options": [
+    "Ceres",
+    "Supernova",
+    "Solar eclipse",
+    "Jupiter"
+   ],
+   "answer": 1,
+   "explanation": "Supernova (Explosive death of a massive star) — Supernova.",
+   "topic": "Astrophysics & Planetary Science",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "physics-daily-2026-10-29-06",
+   "question": "In physics and metrology, which SI unit is used to express the physical quantity 'Pressure'?",
+   "options": [
+    "Hertz",
+    "Pascal",
+    "Watt",
+    "Kilogram"
+   ],
+   "answer": 1,
+   "explanation": "In the International System of Units (SI), Pressure is measured in Pascal.",
+   "topic": "Physics — SI Units & Physical Quantities",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "physics-daily-2026-10-29-31",
+   "question": "In physics, what does 'Kirchhoff's Current Law (Junction Rule) and Voltage Law (Loop Rule)' state or explain?",
+   "options": [
+    "KCL (sum of currents at a node = 0) is based on conservation of electric charge; KVL (sum of EMFs and potential drops in a closed loop = 0) is based on conservation of energy",
+    "Myopia (image forms in front of retina) is corrected using a concave (diverging) lens; Hypermetropia (image forms behind retina) is corrected using a convex (converging) lens",
+    "The ratio of the sine of the angle of incidence to the sine of the angle of refraction is constant (n1 * sin(i) = n2 * sin(r))",
+    "A body wholly or partially immersed in a fluid experiences an upward buoyant force equal to the weight of the fluid displaced"
+   ],
+   "answer": 0,
+   "explanation": "Kirchhoff's Current Law (Junction Rule) and Voltage Law (Loop Rule) — KCL (sum of currents at a node = 0) is based on conservation of electric charge; KVL (sum of EMFs and potential drops in a closed loop = 0) is based on conservation of energy (fundamental laws for analysing complex electrical circuits).",
+   "topic": "Core Physics Laws, Optics, Electricity & Mechanics in Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "physics-daily-2026-10-29-56",
+   "question": "In competitive science exams, which principle or phenomenon explains 'Induced electromotive force opposing the change in magnetic flux that produces it'?",
+   "options": [
+    "Rayleigh Scattering of shorter-wavelength light by atmospheric molecules",
+    "Lenz's Law of Electromagnetic Induction",
+    "Zeeman Effect",
+    "Snell's Law of Refraction"
+   ],
+   "answer": 1,
+   "explanation": "Induced electromotive force opposing the change in magnetic flux that produces it is explained by Lenz's Law of Electromagnetic Induction (eddy-current braking in high-speed trains and induction cooktops).",
+   "topic": "Competitive Exam Science — Physics, Chemistry & Biology",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "physics-daily-2026-10-29-81",
+   "question": "In experimental physics and instrumentation, what is the device 'Audiometer' designed to measure or detect?",
+   "options": [
+    "Speed of a vehicle",
+    "Speed and distance",
+    "Humidity",
+    "Hearing sensitivity"
+   ],
+   "answer": 3,
+   "explanation": "Audiometer is used for measuring Hearing sensitivity.",
+   "topic": "Physics — Scientific Instruments & Measurements",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "physics-daily-2026-10-30-06",
+   "question": "In physics and metrology, which SI unit is used to express the physical quantity 'Wave number'?",
+   "options": [
+    "Lumen",
+    "Hertz",
+    "Steradian",
+    "Reciprocal metre"
+   ],
+   "answer": 3,
+   "explanation": "In the International System of Units (SI), Wave number is measured in Reciprocal metre.",
+   "topic": "Physics — SI Units & Physical Quantities",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "physics-daily-2026-10-30-31",
+   "question": "In competitive science exams, which principle or phenomenon explains 'Apparent shift in frequency of sound or light waves due to relative motion between source and observer'?",
+   "options": [
+    "Snell's Law of Refraction",
+    "Doppler Effect",
+    "Bernoulli's Principle of pressure-velocity trade-off",
+    "Photoelectric Effect explained by Einstein's photon theory"
+   ],
+   "answer": 1,
+   "explanation": "Apparent shift in frequency of sound or light waves due to relative motion between source and observer is explained by Doppler Effect (police speed radar guns, echocardiography and measuring redshift of distant galaxies).",
+   "topic": "Competitive Exam Science — Physics, Chemistry & Biology",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "physics-daily-2026-10-30-56",
+   "question": "In planetary science and astrophysics, which solar system body is characterised by the fact: 'Mars'?",
+   "options": [
+    "Ganymede",
+    "Valles Marineris",
+    "Mars",
+    "Olympus Mons"
+   ],
+   "answer": 2,
+   "explanation": "Mars (Planet with two moons Phobos and Deimos) — Mars.",
+   "topic": "Astrophysics & Planetary Science",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "physics-daily-2026-10-30-81",
+   "question": "In experimental physics and instrumentation, what is the device 'Endoscope' designed to measure or detect?",
+   "options": [
+    "Internal body organs",
+    "Rotational speed",
+    "Blood pressure",
+    "Atmospheric pressure"
+   ],
+   "answer": 0,
+   "explanation": "Endoscope is used for measuring Internal body organs.",
+   "topic": "Physics — Scientific Instruments & Measurements",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "physics-daily-2026-10-31-06",
+   "question": "In experimental physics and instrumentation, what is the device 'Barometer' designed to measure or detect?",
+   "options": [
+    "Gas pressure",
+    "Atmospheric pressure",
+    "Purity of milk",
+    "Objects above obstacles"
+   ],
+   "answer": 1,
+   "explanation": "Barometer is used for measuring Atmospheric pressure.",
+   "topic": "Physics — Scientific Instruments & Measurements",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "physics-daily-2026-10-31-31",
+   "question": "In physics, what does 'Archimedes' Principle of Buoyancy' state or explain?",
+   "options": [
+    "An EMF is induced whenever magnetic flux changes, with magnitude E = -N * (dPhi / dt)",
+    "Intensity of scattered light is inversely proportional to the fourth power of wavelength (I prop 1 / lambda^4)",
+    "A body wholly or partially immersed in a fluid experiences an upward buoyant force equal to the weight of the fluid displaced",
+    "Pressure applied to an enclosed incompressible fluid is transmitted undiminished to every portion of the fluid and the walls of the container"
+   ],
+   "answer": 2,
+   "explanation": "Archimedes' Principle of Buoyancy — A body wholly or partially immersed in a fluid experiences an upward buoyant force equal to the weight of the fluid displaced (used in designing ships, submarines, hydrometers and lactometers).",
+   "topic": "Core Physics Laws, Optics, Electricity & Mechanics in Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "physics-daily-2026-10-31-56",
+   "question": "In planetary science and astrophysics, which solar system body is characterised by the fact: 'Saturn'?",
+   "options": [
+    "Sun",
+    "Neptune",
+    "Pluto",
+    "Titan"
+   ],
+   "answer": 3,
+   "explanation": "Titan (Largest moon of Saturn) — Saturn.",
+   "topic": "Astrophysics & Planetary Science",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "physics-daily-2026-10-31-81",
+   "question": "In physics and metrology, which SI unit is used to express the physical quantity 'Radioactivity'?",
+   "options": [
+    "Farad",
+    "Lux",
+    "Reciprocal metre",
+    "Becquerel"
+   ],
+   "answer": 3,
+   "explanation": "In the International System of Units (SI), Radioactivity is measured in Becquerel.",
+   "topic": "Physics — SI Units & Physical Quantities",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
   }
  ]
 };

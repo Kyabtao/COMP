@@ -11,7 +11,7 @@
   "railways"
  ],
  "blurb": "Ecology, pollution, climate agreements and wildlife.",
- "count": 286,
+ "count": 321,
  "questions": [
   {
    "id": "environmental-studies-00001",
@@ -4294,7 +4294,167 @@
    "dailyDate": "2026-10-22"
   },
   {
-   "id": "environmental-studies-daily-2026-10-25-96",
+   "id": "environmental-studies-daily-2026-10-23-16",
+   "question": "In which Indian state is the Ramsar wetland or conservation site 'Nanjarayan Bird Sanctuary' located?",
+   "options": [
+    "Karnataka",
+    "Odisha",
+    "Jammu & Kashmir",
+    "Tamil Nadu"
+   ],
+   "answer": 3,
+   "explanation": "'Nanjarayan Bird Sanctuary' (ancient restored ecosystem tank in Tiruppur district supporting migratory Eurasian waterbirds) is a notified Ramsar wetland site located in Tamil Nadu.",
+   "topic": "Ecology, Ramsar Wetlands & Biosphere Reserves",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "environmental-studies-daily-2026-10-23-41",
+   "question": "In biodiversity conservation, the biosphere reserve or wetland site 'Seshachalam Biosphere Reserve' is located in which Indian state?",
+   "options": [
+    "Andhra Pradesh",
+    "Madhya Pradesh",
+    "Tamil Nadu, Kerala and Karnataka",
+    "Himachal Pradesh"
+   ],
+   "answer": 0,
+   "explanation": "Seshachalam Biosphere Reserve is located in Andhra Pradesh.",
+   "topic": "Environmental Studies — Biosphere Reserves & Ramsar Wetlands",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "environmental-studies-daily-2026-10-23-66",
+   "question": "In Indian ecology and wildlife conservation, in which state or UT is 'Valmiki Tiger Reserve' situated?",
+   "options": [
+    "Bihar",
+    "Kerala",
+    "Gujarat",
+    "Uttar Pradesh"
+   ],
+   "answer": 0,
+   "explanation": "Valmiki Tiger Reserve is located in Bihar.",
+   "topic": "Environmental Studies — National Parks & Wildlife Sanctuaries",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "environmental-studies-daily-2026-10-23-91",
+   "question": "In environmental studies and ecology, what is 'Ramsar Convention' associated with?",
+   "options": [
+    "Conservation and wise use of wetlands",
+    "Cleaning the Ganga",
+    "Conservation of tigers",
+    "Damage marine life and coastlines"
+   ],
+   "answer": 0,
+   "explanation": "Ramsar Convention — Conservation and wise use of wetlands.",
+   "topic": "Environmental Studies — Global Conventions, Biosphere & Pollution",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "environmental-studies-daily-2026-10-24-16",
+   "question": "In environmental studies and ecology, what is 'Stockholm Convention' associated with?",
+   "options": [
+    "Damage marine life and coastlines",
+    "Control of diversion of forest land",
+    "Biosafety of living modified organisms",
+    "Elimination of persistent organic pollutants"
+   ],
+   "answer": 3,
+   "explanation": "Stockholm Convention — Elimination of persistent organic pollutants.",
+   "topic": "Environmental Studies — Global Conventions, Biosphere & Pollution",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "environmental-studies-daily-2026-10-24-41",
+   "question": "In biodiversity conservation, the biosphere reserve or wetland site 'Kanchenjunga Biosphere Reserve' is located in which Indian state?",
+   "options": [
+    "Odisha",
+    "Rajasthan",
+    "Sikkim",
+    "Manipur"
+   ],
+   "answer": 2,
+   "explanation": "Kanchenjunga Biosphere Reserve is located in Sikkim.",
+   "topic": "Environmental Studies — Biosphere Reserves & Ramsar Wetlands",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "environmental-studies-daily-2026-10-24-66",
+   "question": "In Indian ecology and wildlife conservation, in which state or UT is 'Desert National Park' situated?",
+   "options": [
+    "Sikkim",
+    "Rajasthan",
+    "Maharashtra",
+    "Ladakh"
+   ],
+   "answer": 1,
+   "explanation": "Desert National Park is located in Rajasthan.",
+   "topic": "Environmental Studies — National Parks & Wildlife Sanctuaries",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "environmental-studies-daily-2026-10-24-91",
+   "question": "In environmental studies and ecology, what is 'Plastic waste' associated with?",
+   "options": [
+    "Reintroduction of cheetahs",
+    "Adjudication of environmental disputes",
+    "Restoring degraded ecosystems",
+    "Persists in the environment for centuries"
+   ],
+   "answer": 3,
+   "explanation": "Plastic waste — Persists in the environment for centuries.",
+   "topic": "Environmental Studies — Global Conventions, Biosphere & Pollution",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "environmental-studies-daily-2026-10-25-16",
+   "question": "In environmental studies and ecology, what is 'Sendai Framework' associated with?",
+   "options": [
+    "Disaster risk reduction",
+    "Phasing out ozone depleting substances",
+    "Wetlands facing ecological change",
+    "Reintroduction of cheetahs"
+   ],
+   "answer": 0,
+   "explanation": "Sendai Framework — Disaster risk reduction.",
+   "topic": "Environmental Studies — Global Conventions, Biosphere & Pollution",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "environmental-studies-daily-2026-10-25-41",
+   "question": "In Indian ecology and wildlife conservation, in which state or UT is 'Periyar National Park' situated?",
+   "options": [
+    "Kerala",
+    "Mizoram",
+    "Bihar",
+    "Uttarakhand"
+   ],
+   "answer": 0,
+   "explanation": "Periyar National Park is located in Kerala.",
+   "topic": "Environmental Studies — National Parks & Wildlife Sanctuaries",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "environmental-studies-daily-2026-10-25-66",
    "question": "In which Indian state is the Ramsar wetland or conservation site 'Tampara Lake' located?",
    "options": [
     "Karnataka",
@@ -4308,6 +4468,406 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "environmental-studies-daily-2026-10-25-91",
+   "question": "In biodiversity conservation, the biosphere reserve or wetland site 'Cold Desert Biosphere Reserve' is located in which Indian state?",
+   "options": [
+    "Uttarakhand",
+    "Madhya Pradesh",
+    "Odisha",
+    "Himachal Pradesh"
+   ],
+   "answer": 3,
+   "explanation": "Cold Desert Biosphere Reserve is located in Himachal Pradesh.",
+   "topic": "Environmental Studies — Biosphere Reserves & Ramsar Wetlands",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "environmental-studies-daily-2026-10-26-16",
+   "question": "In which Indian state is the Ramsar wetland or conservation site 'Nakti Bird Sanctuary' located?",
+   "options": [
+    "Bihar",
+    "Jammu & Kashmir",
+    "Madhya Pradesh",
+    "Odisha"
+   ],
+   "answer": 0,
+   "explanation": "'Nakti Bird Sanctuary' (freshwater habitat in Jamui district supporting over 150 bird species and Indian smooth-coated otters) is a notified Ramsar wetland site located in Bihar.",
+   "topic": "Ecology, Ramsar Wetlands & Biosphere Reserves",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "environmental-studies-daily-2026-10-26-41",
+   "question": "In biodiversity conservation, the biosphere reserve or wetland site 'Great Nicobar Biosphere Reserve' is located in which Indian state?",
+   "options": [
+    "Jammu and Kashmir",
+    "Madhya Pradesh and Chhattisgarh",
+    "Manipur",
+    "Andaman and Nicobar Islands"
+   ],
+   "answer": 3,
+   "explanation": "Great Nicobar Biosphere Reserve is located in Andaman and Nicobar Islands.",
+   "topic": "Environmental Studies — Biosphere Reserves & Ramsar Wetlands",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "environmental-studies-daily-2026-10-26-66",
+   "question": "In Indian ecology and wildlife conservation, in which state or UT is 'Great Himalayan National Park' situated?",
+   "options": [
+    "Maharashtra",
+    "Kerala",
+    "Mizoram",
+    "Himachal Pradesh"
+   ],
+   "answer": 3,
+   "explanation": "Great Himalayan National Park is located in Himachal Pradesh.",
+   "topic": "Environmental Studies — National Parks & Wildlife Sanctuaries",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "environmental-studies-daily-2026-10-26-91",
+   "question": "In environmental studies and ecology, what is 'Phosphate detergents' associated with?",
+   "options": [
+    "Wetlands facing ecological change",
+    "Adjudication of environmental disputes",
+    "Cause algal blooms in water",
+    "Conservation of elephants"
+   ],
+   "answer": 2,
+   "explanation": "Phosphate detergents — Cause algal blooms in water.",
+   "topic": "Environmental Studies — Global Conventions, Biosphere & Pollution",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "environmental-studies-daily-2026-10-27-16",
+   "question": "In which Indian state is the Ramsar wetland or conservation site 'Ankasamudra Bird Conservation Reserve' located?",
+   "options": [
+    "Tamil Nadu",
+    "Odisha",
+    "Jammu & Kashmir",
+    "Karnataka"
+   ],
+   "answer": 3,
+   "explanation": "'Ankasamudra Bird Conservation Reserve' (human-made village irrigation tank supporting over 240 species of resident and migratory waterbirds) is a notified Ramsar wetland site located in Karnataka.",
+   "topic": "Ecology, Ramsar Wetlands & Biosphere Reserves",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "environmental-studies-daily-2026-10-27-41",
+   "question": "In environmental studies and ecology, what is 'UN Framework Convention on Climate Change' associated with?",
+   "options": [
+    "Causes acid rain",
+    "Framework for climate action",
+    "Potent greenhouse gas from livestock and paddy fields",
+    "Damage marine life and coastlines"
+   ],
+   "answer": 1,
+   "explanation": "UN Framework Convention on Climate Change — Framework for climate action.",
+   "topic": "Environmental Studies — Global Conventions, Biosphere & Pollution",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "environmental-studies-daily-2026-10-27-66",
+   "question": "In Indian ecology and wildlife conservation, in which state or UT is 'Kanha Tiger Reserve' situated?",
+   "options": [
+    "Gujarat",
+    "Uttarakhand",
+    "Madhya Pradesh",
+    "Arunachal Pradesh"
+   ],
+   "answer": 2,
+   "explanation": "Kanha Tiger Reserve is located in Madhya Pradesh.",
+   "topic": "Environmental Studies — National Parks & Wildlife Sanctuaries",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "environmental-studies-daily-2026-10-27-91",
+   "question": "In biodiversity conservation, the biosphere reserve or wetland site 'Pachmarhi Biosphere Reserve' is located in which Indian state?",
+   "options": [
+    "Madhya Pradesh",
+    "Rajasthan",
+    "Tamil Nadu",
+    "Andaman and Nicobar Islands"
+   ],
+   "answer": 0,
+   "explanation": "Pachmarhi Biosphere Reserve is located in Madhya Pradesh.",
+   "topic": "Environmental Studies — Biosphere Reserves & Ramsar Wetlands",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "environmental-studies-daily-2026-10-28-16",
+   "question": "In which Indian state is the Ramsar wetland or conservation site 'Tawa Reservoir' located?",
+   "options": [
+    "Tamil Nadu",
+    "Karnataka",
+    "Madhya Pradesh",
+    "Odisha"
+   ],
+   "answer": 2,
+   "explanation": "'Tawa Reservoir' (reservoir formed at the confluence of the Tawa and Denwa rivers inside the Satpura landscape) is a notified Ramsar wetland site located in Madhya Pradesh.",
+   "topic": "Ecology, Ramsar Wetlands & Biosphere Reserves",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "environmental-studies-daily-2026-10-28-41",
+   "question": "In environmental studies and ecology, what is 'Minamata Convention' associated with?",
+   "options": [
+    "Eight missions on climate change",
+    "Bioaccumulates and damages the brain",
+    "Protection of wild animals and plants",
+    "Control of mercury emissions"
+   ],
+   "answer": 3,
+   "explanation": "Minamata Convention — Control of mercury emissions.",
+   "topic": "Environmental Studies — Global Conventions, Biosphere & Pollution",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "environmental-studies-daily-2026-10-28-66",
+   "question": "In biodiversity conservation, the biosphere reserve or wetland site 'Panna Biosphere Reserve' is located in which Indian state?",
+   "options": [
+    "Odisha",
+    "Tamil Nadu",
+    "Madhya Pradesh",
+    "Madhya Pradesh and Chhattisgarh"
+   ],
+   "answer": 2,
+   "explanation": "Panna Biosphere Reserve is located in Madhya Pradesh.",
+   "topic": "Environmental Studies — Biosphere Reserves & Ramsar Wetlands",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "environmental-studies-daily-2026-10-28-91",
+   "question": "In Indian ecology and wildlife conservation, in which state or UT is 'Murlen National Park' situated?",
+   "options": [
+    "Madhya Pradesh",
+    "West Bengal",
+    "Mizoram",
+    "Kerala"
+   ],
+   "answer": 2,
+   "explanation": "Murlen National Park is located in Mizoram.",
+   "topic": "Environmental Studies — National Parks & Wildlife Sanctuaries",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "environmental-studies-daily-2026-10-29-16",
+   "question": "In biodiversity conservation, the biosphere reserve or wetland site 'Sambhar Lake' is located in which Indian state?",
+   "options": [
+    "Rajasthan",
+    "Uttarakhand",
+    "Tamil Nadu",
+    "Jammu and Kashmir"
+   ],
+   "answer": 0,
+   "explanation": "Sambhar Lake is located in Rajasthan.",
+   "topic": "Environmental Studies — Biosphere Reserves & Ramsar Wetlands",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "environmental-studies-daily-2026-10-29-41",
+   "question": "In which Indian state is the Ramsar wetland or conservation site 'Kazhuveli Bird Sanctuary' located?",
+   "options": [
+    "Jammu & Kashmir",
+    "Bihar",
+    "Tamil Nadu",
+    "Madhya Pradesh"
+   ],
+   "answer": 2,
+   "explanation": "'Kazhuveli Bird Sanctuary' (brackish shallow coastal lake connected to the Bay of Bengal north of Pondicherry) is a notified Ramsar wetland site located in Tamil Nadu.",
+   "topic": "Ecology, Ramsar Wetlands & Biosphere Reserves",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "environmental-studies-daily-2026-10-29-66",
+   "question": "In Indian ecology and wildlife conservation, in which state or UT is 'Bhadra Tiger Reserve' situated?",
+   "options": [
+    "Karnataka",
+    "Jharkhand",
+    "Gujarat",
+    "Himachal Pradesh"
+   ],
+   "answer": 0,
+   "explanation": "Bhadra Tiger Reserve is located in Karnataka.",
+   "topic": "Environmental Studies — National Parks & Wildlife Sanctuaries",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "environmental-studies-daily-2026-10-29-91",
+   "question": "In environmental studies and ecology, what is 'Methane' associated with?",
+   "options": [
+    "Conservation and wise use of wetlands",
+    "Damage marine life and coastlines",
+    "Potent greenhouse gas from livestock and paddy fields",
+    "Phase down of hydrofluorocarbons"
+   ],
+   "answer": 2,
+   "explanation": "Methane — Potent greenhouse gas from livestock and paddy fields.",
+   "topic": "Environmental Studies — Global Conventions, Biosphere & Pollution",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "environmental-studies-daily-2026-10-30-16",
+   "question": "In Indian ecology and wildlife conservation, in which state or UT is 'Khangchendzonga National Park' situated?",
+   "options": [
+    "Sikkim",
+    "Himachal Pradesh",
+    "Madhya Pradesh",
+    "Bihar"
+   ],
+   "answer": 0,
+   "explanation": "Khangchendzonga National Park is located in Sikkim.",
+   "topic": "Environmental Studies — National Parks & Wildlife Sanctuaries",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "environmental-studies-daily-2026-10-30-41",
+   "question": "In which Indian state is the Ramsar wetland or conservation site 'Yashwant Sagar' located?",
+   "options": [
+    "Tamil Nadu",
+    "Odisha",
+    "Karnataka",
+    "Madhya Pradesh"
+   ],
+   "answer": 3,
+   "explanation": "'Yashwant Sagar' (dam reservoir on the Gambhir river near Indore serving as a stronghold of the vulnerable Sarus Crane) is a notified Ramsar wetland site located in Madhya Pradesh.",
+   "topic": "Ecology, Ramsar Wetlands & Biosphere Reserves",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "environmental-studies-daily-2026-10-30-66",
+   "question": "In Indian ecology and wildlife conservation, in which state or UT is 'Silent Valley National Park' situated?",
+   "options": [
+    "Arunachal Pradesh",
+    "Madhya Pradesh",
+    "Kerala",
+    "Rajasthan"
+   ],
+   "answer": 2,
+   "explanation": "Silent Valley National Park is located in Kerala.",
+   "topic": "Environmental Studies — National Parks & Wildlife Sanctuaries",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "environmental-studies-daily-2026-10-30-91",
+   "question": "In environmental studies and ecology, what is 'Project Tiger' associated with?",
+   "options": [
+    "Persists in the environment for centuries",
+    "Conservation of tigers",
+    "Protection of ecologically fragile areas",
+    "Traps heat and causes global warming"
+   ],
+   "answer": 1,
+   "explanation": "Project Tiger — Conservation of tigers.",
+   "topic": "Environmental Studies — Global Conventions, Biosphere & Pollution",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "environmental-studies-daily-2026-10-31-16",
+   "question": "In Indian ecology and wildlife conservation, in which state or UT is 'Rajaji National Park' situated?",
+   "options": [
+    "Odisha",
+    "Uttarakhand",
+    "Madhya Pradesh",
+    "Bihar"
+   ],
+   "answer": 1,
+   "explanation": "Rajaji National Park is located in Uttarakhand.",
+   "topic": "Environmental Studies — National Parks & Wildlife Sanctuaries",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "environmental-studies-daily-2026-10-31-41",
+   "question": "In biodiversity conservation, the biosphere reserve or wetland site 'Agasthyamalai Biosphere Reserve' is located in which Indian state?",
+   "options": [
+    "Himachal Pradesh",
+    "Tamil Nadu",
+    "West Bengal",
+    "Kerala and Tamil Nadu"
+   ],
+   "answer": 3,
+   "explanation": "Agasthyamalai Biosphere Reserve is located in Kerala and Tamil Nadu.",
+   "topic": "Environmental Studies — Biosphere Reserves & Ramsar Wetlands",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "environmental-studies-daily-2026-10-31-66",
+   "question": "In which Indian state is the Ramsar wetland or conservation site 'Hygam Wetland Conservation Reserve' located?",
+   "options": [
+    "Madhya Pradesh",
+    "Jammu & Kashmir",
+    "Odisha",
+    "Tamil Nadu"
+   ],
+   "answer": 1,
+   "explanation": "'Hygam Wetland Conservation Reserve' (freshwater marsh in Baramulla district downstream of Wular Lake along the Central Asian Flyway) is a notified Ramsar wetland site located in Jammu & Kashmir.",
+   "topic": "Ecology, Ramsar Wetlands & Biosphere Reserves",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "environmental-studies-daily-2026-10-31-91",
+   "question": "In Indian ecology and wildlife conservation, in which state or UT is 'Nagi / Nakti Bird Sanctuary' situated?",
+   "options": [
+    "Madhya Pradesh",
+    "Bihar",
+    "Karnataka",
+    "Chhattisgarh"
+   ],
+   "answer": 1,
+   "explanation": "Nagi / Nakti Bird Sanctuary is located in Bihar.",
+   "topic": "Environmental Studies — National Parks & Wildlife Sanctuaries",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
   }
  ]
 };

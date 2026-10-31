@@ -11,7 +11,7 @@
   "railways"
  ],
  "blurb": "Human body, plants, diseases and nutrition.",
- "count": 284,
+ "count": 320,
  "questions": [
   {
    "id": "biology-00001",
@@ -4276,6 +4276,582 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "biology-daily-2026-10-23-08",
+   "question": "In human nutrition and medical biology, a clinical deficiency of 'Vitamin C' leads to which disorder?",
+   "options": [
+    "Night blindness",
+    "Delayed blood clotting",
+    "Scurvy",
+    "Muscle weakness"
+   ],
+   "answer": 2,
+   "explanation": "A deficiency of Vitamin C causes Scurvy.",
+   "topic": "Biology — Vitamins, Minerals & Deficiency Disorders",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "biology-daily-2026-10-23-33",
+   "question": "In human physiology, what is the primary biological function performed by the 'Aorta'?",
+   "options": [
+    "Controls blood sugar",
+    "Transmission of nerve impulses",
+    "Secretion of insulin",
+    "Largest artery"
+   ],
+   "answer": 3,
+   "explanation": "In the human body, the Aorta is responsible for Largest artery.",
+   "topic": "Biology — Human Anatomy & Organ Physiology",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "biology-daily-2026-10-23-58",
+   "question": "In biology, what is the primary function or characteristic of 'Human Brain Divisions: Cerebrum, Cerebellum and Medulla Oblongata'?",
+   "options": [
+    "Cerebrum (forebrain) governs intelligence, memory and voluntary actions; Cerebellum (hindbrain) maintains posture, balance and muscular coordination; Medulla Oblongata controls involuntary reflexes like heartbeat, breathing and vomiting",
+    "Comprises Bowman's capsule, glomerulus, PCT, Loop of Henle and DCT; performs ultrafiltration, selective reabsorption and tubular secretion",
+    "Non-membrane-bound ribonucleoprotein complexes (70S in prokaryotes, 80S in eukaryotes) that serve as the site of protein synthesis (translation)",
+    "Blood group O-negative (O-) is the universal red-cell donor (lacks A, B and Rh antigens); AB-positive (AB+) is the universal recipient (lacks anti-A, anti-B and anti-Rh antibodies)"
+   ],
+   "answer": 0,
+   "explanation": "Human Brain Divisions: Cerebrum, Cerebellum and Medulla Oblongata — Cerebrum (forebrain) governs intelligence, memory and voluntary actions; Cerebellum (hindbrain) maintains posture, balance and muscular coordination; Medulla Oblongata controls involuntary reflexes like heartbeat, breathing and vomiting (the hypothalamus regulates body temperature (thermoregulation), hunger and thirst).",
+   "topic": "Core Biology — Cell Biology, Genetics, Human & Plant Physiology",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "biology-daily-2026-10-23-83",
+   "question": "In medical microbiology and pathology, what is the causative agent or cause of 'Filariasis'?",
+   "options": [
+    "Clostridium tetani bacteria",
+    "Leishmania donovani",
+    "Wuchereria bancrofti",
+    "Trypanosoma brucei"
+   ],
+   "answer": 2,
+   "explanation": "In medical biology, Filariasis is caused by Wuchereria bancrofti.",
+   "topic": "Biology — Human Diseases & Pathogens",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "biology-daily-2026-10-24-08",
+   "question": "In human physiology, what is the primary biological function performed by the 'Hemoglobin'?",
+   "options": [
+    "Protection and temperature regulation",
+    "Oxygen carrying pigment",
+    "Refraction of light in the eye",
+    "Transport of nutrients"
+   ],
+   "answer": 1,
+   "explanation": "In the human body, the Hemoglobin is responsible for Oxygen carrying pigment.",
+   "topic": "Biology — Human Anatomy & Organ Physiology",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "biology-daily-2026-10-24-33",
+   "question": "In biology, what is the primary function or characteristic of 'ABO Blood Grouping and Rh Factor (Karl Landsteiner)'?",
+   "options": [
+    "Adult dental formula is 2-1-2-3 / 2-1-2-3 (= 32 teeth); tooth enamel (composed of calcium hydroxyapatite) is the hardest substance in the human body",
+    "Both possess their own circular DNA and 70S ribosomes and can synthesize some of their own proteins",
+    "Non-membrane-bound ribonucleoprotein complexes (70S in prokaryotes, 80S in eukaryotes) that serve as the site of protein synthesis (translation)",
+    "Blood group O-negative (O-) is the universal red-cell donor (lacks A, B and Rh antigens); AB-positive (AB+) is the universal recipient (lacks anti-A, anti-B and anti-Rh antibodies)"
+   ],
+   "answer": 3,
+   "explanation": "ABO Blood Grouping and Rh Factor (Karl Landsteiner) — Blood group O-negative (O-) is the universal red-cell donor (lacks A, B and Rh antigens); AB-positive (AB+) is the universal recipient (lacks anti-A, anti-B and anti-Rh antibodies) (erythroblastosis fetalis can occur when an Rh-negative mother carries an Rh-positive fetus).",
+   "topic": "Core Biology — Cell Biology, Genetics, Human & Plant Physiology",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "biology-daily-2026-10-24-58",
+   "question": "In human biology and public health news, what is 'Cervavac' known for?",
+   "options": [
+    "India's first indigenously developed quadrivalent Human Papillomavirus (qHPV) vaccine against cervical cancer",
+    "World's first regulator-approved CRISPR-Cas9 gene-editing therapy for Sickle Cell Disease and Beta-Thalassemia",
+    "Eliminating sickle cell genetic transmission as a public health problem in India by 2047 through screening 7 crore people in tribal districts",
+    "World's first intranasal COVID-19 vaccine approved for primary and heterologous booster immunisation"
+   ],
+   "answer": 0,
+   "explanation": "Cervavac is associated with: India's first indigenously developed quadrivalent Human Papillomavirus (qHPV) vaccine against cervical cancer (developed by Serum Institute of India in partnership with the Department of Biotechnology).",
+   "topic": "Biology, Health & Medical Science in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "biology-daily-2026-10-24-83",
+   "question": "In medical microbiology and pathology, what is the causative agent or cause of 'Pneumonia'?",
+   "options": [
+    "Streptococcus pneumoniae bacteria",
+    "Bacillus anthracis bacteria",
+    "Wuchereria bancrofti",
+    "Measles virus"
+   ],
+   "answer": 0,
+   "explanation": "In medical biology, Pneumonia is caused by Streptococcus pneumoniae bacteria.",
+   "topic": "Biology — Human Diseases & Pathogens",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "biology-daily-2026-10-25-08",
+   "question": "In human biology and public health news, what is 'Casgevy' known for?",
+   "options": [
+    "World's first regulator-approved CRISPR-Cas9 gene-editing therapy for Sickle Cell Disease and Beta-Thalassemia",
+    "India's first indigenously developed quadrivalent Human Papillomavirus (qHPV) vaccine against cervical cancer",
+    "High-efficacy malaria vaccine recommended by the WHO for prevention of Plasmodium falciparum malaria in children",
+    "World's first intranasal COVID-19 vaccine approved for primary and heterologous booster immunisation"
+   ],
+   "answer": 0,
+   "explanation": "Casgevy is associated with: World's first regulator-approved CRISPR-Cas9 gene-editing therapy for Sickle Cell Disease and Beta-Thalassemia (edits the BCL11A gene in patient bone-marrow stem cells to restore fetal haemoglobin production).",
+   "topic": "Biology, Health & Medical Science in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "biology-daily-2026-10-25-33",
+   "question": "In medical microbiology and pathology, what is the causative agent or cause of 'Dengue'?",
+   "options": [
+    "Wuchereria bancrofti",
+    "Dengue virus",
+    "Neisseria gonorrhoeae bacteria",
+    "Bordetella pertussis bacteria"
+   ],
+   "answer": 1,
+   "explanation": "In medical biology, Dengue is caused by Dengue virus.",
+   "topic": "Biology — Human Diseases & Pathogens",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "biology-daily-2026-10-25-58",
+   "question": "In human nutrition and medical biology, a clinical deficiency of 'Vitamin B2' leads to which disorder?",
+   "options": [
+    "Dermatitis",
+    "Ariboflavinosis",
+    "Night blindness",
+    "Rickets"
+   ],
+   "answer": 1,
+   "explanation": "A deficiency of Vitamin B2 causes Ariboflavinosis.",
+   "topic": "Biology — Vitamins, Minerals & Deficiency Disorders",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "biology-daily-2026-10-25-83",
+   "question": "In human physiology, what is the primary biological function performed by the 'Retina'?",
+   "options": [
+    "Controls body metabolism",
+    "Production of eggs",
+    "Sensitive layer of the eye",
+    "Basic filtering units of the kidney"
+   ],
+   "answer": 2,
+   "explanation": "In the human body, the Retina is responsible for Sensitive layer of the eye.",
+   "topic": "Biology — Human Anatomy & Organ Physiology",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "biology-daily-2026-10-26-08",
+   "question": "In medical microbiology and pathology, what is the causative agent or cause of 'AIDS'?",
+   "options": [
+    "Human Immunodeficiency Virus",
+    "Poliovirus",
+    "Trypanosoma brucei",
+    "Sarcoptes scabiei mite"
+   ],
+   "answer": 0,
+   "explanation": "In medical biology, AIDS is caused by Human Immunodeficiency Virus.",
+   "topic": "Biology — Human Diseases & Pathogens",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "biology-daily-2026-10-26-33",
+   "question": "In human physiology, what is the primary biological function performed by the 'Red blood cells'?",
+   "options": [
+    "Formation of blood cells",
+    "Exchange of oxygen and carbon dioxide",
+    "Transport of oxygen",
+    "Hearing in the ear"
+   ],
+   "answer": 2,
+   "explanation": "In the human body, the Red blood cells is responsible for Transport of oxygen.",
+   "topic": "Biology — Human Anatomy & Organ Physiology",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "biology-daily-2026-10-26-58",
+   "question": "In human nutrition and medical biology, a clinical deficiency of 'Vitamin B7' leads to which disorder?",
+   "options": [
+    "Dermatitis",
+    "Haemolysis of red blood cells",
+    "Delayed blood clotting",
+    "Goitre"
+   ],
+   "answer": 0,
+   "explanation": "A deficiency of Vitamin B7 causes Dermatitis.",
+   "topic": "Biology — Vitamins, Minerals & Deficiency Disorders",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "biology-daily-2026-10-26-83",
+   "question": "In medical microbiology and pathology, what is the causative agent or cause of 'Tetanus'?",
+   "options": [
+    "Clostridium tetani bacteria",
+    "Variola virus",
+    "Mycobacterium leprae bacteria",
+    "Entamoeba histolytica"
+   ],
+   "answer": 0,
+   "explanation": "In medical biology, Tetanus is caused by Clostridium tetani bacteria.",
+   "topic": "Biology — Human Diseases & Pathogens",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "biology-daily-2026-10-27-08",
+   "question": "In human nutrition and medical biology, a clinical deficiency of 'Iodine' leads to which disorder?",
+   "options": [
+    "Ariboflavinosis",
+    "Anaemia and bone disorders",
+    "Xerophthalmia",
+    "Goitre"
+   ],
+   "answer": 3,
+   "explanation": "A deficiency of Iodine causes Goitre.",
+   "topic": "Biology — Vitamins, Minerals & Deficiency Disorders",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "biology-daily-2026-10-27-33",
+   "question": "In human physiology, what is the primary biological function performed by the 'Cornea'?",
+   "options": [
+    "Control centre of the body",
+    "Refraction of light in the eye",
+    "Transmission of nerve impulses",
+    "Largest artery"
+   ],
+   "answer": 1,
+   "explanation": "In the human body, the Cornea is responsible for Refraction of light in the eye.",
+   "topic": "Biology — Human Anatomy & Organ Physiology",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "biology-daily-2026-10-27-58",
+   "question": "In human biology and public health news, what is 'R21/Matrix-M' known for?",
+   "options": [
+    "Live-attenuated tetravalent vaccine prequalified by the WHO against all four serotypes of Dengue virus",
+    "Direct benefit transfer nutrition support scheme for all notified Tuberculosis (TB) patients under the National TB Elimination Programme",
+    "Assisted reproductive procedure replacing defective maternal mitochondria with healthy donor ooplasm mitochondria",
+    "High-efficacy malaria vaccine recommended by the WHO for prevention of Plasmodium falciparum malaria in children"
+   ],
+   "answer": 3,
+   "explanation": "R21/Matrix-M is associated with: High-efficacy malaria vaccine recommended by the WHO for prevention of Plasmodium falciparum malaria in children (developed by the University of Oxford and manufactured by Serum Institute of India).",
+   "topic": "Biology, Health & Medical Science in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "biology-daily-2026-10-27-83",
+   "question": "In biology, what is the primary function or characteristic of 'Nephron — Structural and Functional Unit of the Human Kidney'?",
+   "options": [
+    "Auxin promotes apical dominance and phototropism; Gibberellin promotes stem elongation and breaks seed dormancy; Cytokinin promotes cell division; Abscisic Acid (ABA) induces stomatal closure ('stress hormone'); Ethylene is a gaseous hormone that ripens fruit",
+    "Produced by the liver and stored in the gallbladder, bile contains no digestive enzymes but emulsifies dietary fats using bile salts into micelles for pancreatic lipase action",
+    "Cerebrum (forebrain) governs intelligence, memory and voluntary actions; Cerebellum (hindbrain) maintains posture, balance and muscular coordination; Medulla Oblongata controls involuntary reflexes like heartbeat, breathing and vomiting",
+    "Comprises Bowman's capsule, glomerulus, PCT, Loop of Henle and DCT; performs ultrafiltration, selective reabsorption and tubular secretion"
+   ],
+   "answer": 3,
+   "explanation": "Nephron — Structural and Functional Unit of the Human Kidney — Comprises Bowman's capsule, glomerulus, PCT, Loop of Henle and DCT; performs ultrafiltration, selective reabsorption and tubular secretion (each human kidney contains approximately 1 million nephrons).",
+   "topic": "Core Biology — Cell Biology, Genetics, Human & Plant Physiology",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "biology-daily-2026-10-28-08",
+   "question": "In human nutrition and medical biology, a clinical deficiency of 'Vitamin E' leads to which disorder?",
+   "options": [
+    "Tetany",
+    "Growth retardation",
+    "Osteoporosis",
+    "Haemolysis of red blood cells"
+   ],
+   "answer": 3,
+   "explanation": "A deficiency of Vitamin E causes Haemolysis of red blood cells.",
+   "topic": "Biology — Vitamins, Minerals & Deficiency Disorders",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "biology-daily-2026-10-28-33",
+   "question": "In human biology and public health news, what is 'iNCOVACC (BBV154)' known for?",
+   "options": [
+    "India's first indigenous CAR-T cell therapy approved for treating B-cell lymphomas and leukaemia",
+    "High-efficacy malaria vaccine recommended by the WHO for prevention of Plasmodium falciparum malaria in children",
+    "World's first intranasal COVID-19 vaccine approved for primary and heterologous booster immunisation",
+    "Biological control technique introducing symbiotic Wolbachia bacteria into Aedes aegypti mosquitoes to block dengue and Zika transmission"
+   ],
+   "answer": 2,
+   "explanation": "iNCOVACC (BBV154) is associated with: World's first intranasal COVID-19 vaccine approved for primary and heterologous booster immunisation (adenoviral vector vaccine developed by Bharat Biotech eliciting mucosal IgA immunity in the upper respiratory tract).",
+   "topic": "Biology, Health & Medical Science in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "biology-daily-2026-10-28-58",
+   "question": "In biology, what is the primary function or characteristic of 'Mitosis (Equational Division) vs Meiosis (Reductional Division)'?",
+   "options": [
+    "Xylem transports water and dissolved minerals unidirectionally upward from roots; Phloem translocates photosynthetic sugars bidirectionally from leaves",
+    "Mitosis produces 2 genetically identical diploid (2n) somatic daughter cells; Meiosis produces 4 genetically diverse haploid (n) gametes with crossing-over in Prophase I (Pachytene)",
+    "Adult dental formula is 2-1-2-3 / 2-1-2-3 (= 32 teeth); tooth enamel (composed of calcium hydroxyapatite) is the hardest substance in the human body",
+    "Produced by the liver and stored in the gallbladder, bile contains no digestive enzymes but emulsifies dietary fats using bile salts into micelles for pancreatic lipase action"
+   ],
+   "answer": 1,
+   "explanation": "Mitosis (Equational Division) vs Meiosis (Reductional Division) — Mitosis produces 2 genetically identical diploid (2n) somatic daughter cells; Meiosis produces 4 genetically diverse haploid (n) gametes with crossing-over in Prophase I (Pachytene) (crossing-over at chiasmata introduces genetic recombination during meiosis).",
+   "topic": "Core Biology — Cell Biology, Genetics, Human & Plant Physiology",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "biology-daily-2026-10-28-83",
+   "question": "In medical microbiology and pathology, what is the causative agent or cause of 'Influenza'?",
+   "options": [
+    "Neisseria meningitidis bacteria",
+    "Varicella zoster virus",
+    "Influenza virus",
+    "Corynebacterium diphtheriae bacteria"
+   ],
+   "answer": 2,
+   "explanation": "In medical biology, Influenza is caused by Influenza virus.",
+   "topic": "Biology — Human Diseases & Pathogens",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "biology-daily-2026-10-29-08",
+   "question": "In medical microbiology and pathology, what is the causative agent or cause of 'Whooping cough'?",
+   "options": [
+    "Wuchereria bancrofti",
+    "Bordetella pertussis bacteria",
+    "Neisseria gonorrhoeae bacteria",
+    "Neisseria meningitidis bacteria"
+   ],
+   "answer": 1,
+   "explanation": "In medical biology, Whooping cough is caused by Bordetella pertussis bacteria.",
+   "topic": "Biology — Human Diseases & Pathogens",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "biology-daily-2026-10-29-33",
+   "question": "In biology, what is the primary function or characteristic of 'Endocrine Glands: Pituitary, Thyroid, Adrenal and Islets of Langerhans'?",
+   "options": [
+    "Adult dental formula is 2-1-2-3 / 2-1-2-3 (= 32 teeth); tooth enamel (composed of calcium hydroxyapatite) is the hardest substance in the human body",
+    "Cerebrum (forebrain) governs intelligence, memory and voluntary actions; Cerebellum (hindbrain) maintains posture, balance and muscular coordination; Medulla Oblongata controls involuntary reflexes like heartbeat, breathing and vomiting",
+    "Pituitary is the 'Master Gland' (controlled by hypothalamus); Thyroid secretes thyroxine (requires iodine); Adrenal medulla secretes adrenaline ('fight-or-flight'); Pancreatic beta cells secrete insulin and alpha cells secrete glucagon",
+    "Auxin promotes apical dominance and phototropism; Gibberellin promotes stem elongation and breaks seed dormancy; Cytokinin promotes cell division; Abscisic Acid (ABA) induces stomatal closure ('stress hormone'); Ethylene is a gaseous hormone that ripens fruit"
+   ],
+   "answer": 2,
+   "explanation": "Endocrine Glands: Pituitary, Thyroid, Adrenal and Islets of Langerhans — Pituitary is the 'Master Gland' (controlled by hypothalamus); Thyroid secretes thyroxine (requires iodine); Adrenal medulla secretes adrenaline ('fight-or-flight'); Pancreatic beta cells secrete insulin and alpha cells secrete glucagon (pancreas is a heterocrine (mixed exocrine and endocrine) gland).",
+   "topic": "Core Biology — Cell Biology, Genetics, Human & Plant Physiology",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "biology-daily-2026-10-29-58",
+   "question": "In human physiology, what is the primary biological function performed by the 'White blood cells'?",
+   "options": [
+    "Digestion of food",
+    "Basic filtering units of the kidney",
+    "Refraction of light in the eye",
+    "Body immunity"
+   ],
+   "answer": 3,
+   "explanation": "In the human body, the White blood cells is responsible for Body immunity.",
+   "topic": "Biology — Human Anatomy & Organ Physiology",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "biology-daily-2026-10-29-83",
+   "question": "In medical microbiology and pathology, what is the causative agent or cause of 'Anthrax'?",
+   "options": [
+    "Mycobacterium leprae bacteria",
+    "Trypanosoma brucei",
+    "Entamoeba histolytica",
+    "Bacillus anthracis bacteria"
+   ],
+   "answer": 3,
+   "explanation": "In medical biology, Anthrax is caused by Bacillus anthracis bacteria.",
+   "topic": "Biology — Human Diseases & Pathogens",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "biology-daily-2026-10-30-08",
+   "question": "In human nutrition and medical biology, a clinical deficiency of 'Vitamin B12' leads to which disorder?",
+   "options": [
+    "Haemolysis of red blood cells",
+    "Pernicious anaemia",
+    "Anaemia",
+    "Growth retardation"
+   ],
+   "answer": 1,
+   "explanation": "A deficiency of Vitamin B12 causes Pernicious anaemia.",
+   "topic": "Biology — Vitamins, Minerals & Deficiency Disorders",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "biology-daily-2026-10-30-33",
+   "question": "In biology, what is the primary function or characteristic of 'Xylem and Phloem Vascular Tissues in Plants'?",
+   "options": [
+    "Both possess their own circular DNA and 70S ribosomes and can synthesize some of their own proteins",
+    "Auxin promotes apical dominance and phototropism; Gibberellin promotes stem elongation and breaks seed dormancy; Cytokinin promotes cell division; Abscisic Acid (ABA) induces stomatal closure ('stress hormone'); Ethylene is a gaseous hormone that ripens fruit",
+    "Xylem transports water and dissolved minerals unidirectionally upward from roots; Phloem translocates photosynthetic sugars bidirectionally from leaves",
+    "Pituitary is the 'Master Gland' (controlled by hypothalamus); Thyroid secretes thyroxine (requires iodine); Adrenal medulla secretes adrenaline ('fight-or-flight'); Pancreatic beta cells secrete insulin and alpha cells secrete glucagon"
+   ],
+   "answer": 2,
+   "explanation": "Xylem and Phloem Vascular Tissues in Plants — Xylem transports water and dissolved minerals unidirectionally upward from roots; Phloem translocates photosynthetic sugars bidirectionally from leaves (discovered and named by Carl Nageli; ringing/girdling experiments demonstrate phloem transport).",
+   "topic": "Core Biology — Cell Biology, Genetics, Human & Plant Physiology",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "biology-daily-2026-10-30-58",
+   "question": "In human physiology, what is the primary biological function performed by the 'Large intestine'?",
+   "options": [
+    "Absorption of water",
+    "Clotting of blood",
+    "Sensitive layer of the eye",
+    "Secretion of insulin"
+   ],
+   "answer": 0,
+   "explanation": "In the human body, the Large intestine is responsible for Absorption of water.",
+   "topic": "Biology — Human Anatomy & Organ Physiology",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "biology-daily-2026-10-30-83",
+   "question": "In medical microbiology and pathology, what is the causative agent or cause of 'Gonorrhoea'?",
+   "options": [
+    "Sarcoptes scabiei mite",
+    "Yersinia pestis bacteria",
+    "Entamoeba histolytica",
+    "Neisseria gonorrhoeae bacteria"
+   ],
+   "answer": 3,
+   "explanation": "In medical biology, Gonorrhoea is caused by Neisseria gonorrhoeae bacteria.",
+   "topic": "Biology — Human Diseases & Pathogens",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "biology-daily-2026-10-31-08",
+   "question": "In medical microbiology and pathology, what is the causative agent or cause of 'Hepatitis A'?",
+   "options": [
+    "Wuchereria bancrofti",
+    "Measles virus",
+    "Mycobacterium leprae bacteria",
+    "Hepatitis A virus"
+   ],
+   "answer": 3,
+   "explanation": "In medical biology, Hepatitis A is caused by Hepatitis A virus.",
+   "topic": "Biology — Human Diseases & Pathogens",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "biology-daily-2026-10-31-33",
+   "question": "In human physiology, what is the primary biological function performed by the 'Heart'?",
+   "options": [
+    "Absorption of digested food",
+    "Absorption of water",
+    "Pumping blood",
+    "Controls body metabolism"
+   ],
+   "answer": 2,
+   "explanation": "In the human body, the Heart is responsible for Pumping blood.",
+   "topic": "Biology — Human Anatomy & Organ Physiology",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "biology-daily-2026-10-31-58",
+   "question": "In human nutrition and medical biology, a clinical deficiency of 'Iron' leads to which disorder?",
+   "options": [
+    "Muscle weakness",
+    "Anaemia",
+    "Pernicious anaemia",
+    "Delayed blood clotting"
+   ],
+   "answer": 1,
+   "explanation": "A deficiency of Iron causes Anaemia.",
+   "topic": "Biology — Vitamins, Minerals & Deficiency Disorders",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "biology-daily-2026-10-31-83",
+   "question": "In biology, what is the primary function or characteristic of 'Ribosomes (Palade Particles)'?",
+   "options": [
+    "Auxin promotes apical dominance and phototropism; Gibberellin promotes stem elongation and breaks seed dormancy; Cytokinin promotes cell division; Abscisic Acid (ABA) induces stomatal closure ('stress hormone'); Ethylene is a gaseous hormone that ripens fruit",
+    "Non-membrane-bound ribonucleoprotein complexes (70S in prokaryotes, 80S in eukaryotes) that serve as the site of protein synthesis (translation)",
+    "Membrane-bound organelles discovered by Christian de Duve containing hydrolytic enzymes (acid hydrolases)",
+    "Rhizobium forms symbiotic root nodules in leguminous plants using the enzyme nitrogenase (protected from oxygen by leghaemoglobin)"
+   ],
+   "answer": 1,
+   "explanation": "Ribosomes (Palade Particles) — Non-membrane-bound ribonucleoprotein complexes (70S in prokaryotes, 80S in eukaryotes) that serve as the site of protein synthesis (translation) (assemble amino acids into polypeptide chains according to mRNA codons).",
+   "topic": "Core Biology — Cell Biology, Genetics, Human & Plant Physiology",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
   }
  ]
 };

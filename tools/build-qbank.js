@@ -21,6 +21,7 @@
  */
 const fs = require("fs");
 const path = require("path");
+const { execFileSync } = require("child_process");
 const { Rand } = require("./qcore");
 const { tableQuestions, capacity } = require("./forms");
 const { spec } = require("./tables");
@@ -196,6 +197,68 @@ function meta(cat, count) {
   };
 }
 
+/** Count questions per difficulty level (1, 2, 3) so the UI can show exact counts before loading category files. */
+function computeLevelCounts(questions) {
+  const counts = { 1: 0, 2: 0, 3: 0 };
+  for (const q of questions || []) {
+    const lv = q && q.level;
+    if (lv === 1 || lv === 2 || lv === 3) counts[lv]++;
+  }
+  return counts;
+}
+
+/** Categories exceeding this size automatically emit 1,000-question part files so browser loads stay bounded. */
+const PART_SPLIT_THRESHOLD = 2000;
+const PART_CHUNK_SIZE = 1000;
+
+/**
+ * Detect how many git merges have been completed in the repository so the
+ * site footer can display the version based on the merge count.
+ */
+function detectMergeInfo() {
+  let prevCount = 10;
+  let prevMergeSha = null;
+  try {
+    if (fs.existsSync(SUMMARY)) {
+      const prev = JSON.parse(fs.readFileSync(SUMMARY, "utf8"));
+      if (prev && Number.isInteger(prev.mergeCount) && prev.mergeCount > prevCount) {
+        prevCount = prev.mergeCount;
+      }
+      if (prev && prev.lastMergeCommit) prevMergeSha = prev.lastMergeCommit;
+    }
+  } catch (e) {}
+
+  let gitMerges = 0;
+  let latestMergeSha = null;
+  try {
+    const out = execFileSync("git", ["rev-list", "--merges", "--count", "HEAD"], {
+      cwd: ROOT,
+      encoding: "utf8",
+      stdio: ["ignore", "pipe", "ignore"]
+    }).trim();
+    const parsed = parseInt(out, 10);
+    if (Number.isInteger(parsed) && parsed >= 0) gitMerges = parsed;
+    const sha = execFileSync("git", ["rev-list", "--merges", "-n", "1", "HEAD"], {
+      cwd: ROOT,
+      encoding: "utf8",
+      stdio: ["ignore", "pipe", "ignore"]
+    }).trim();
+    if (sha) latestMergeSha = sha;
+  } catch (e) {}
+
+  let mergeCount = prevCount;
+  if (gitMerges >= prevCount) {
+    mergeCount = gitMerges;
+  } else if (latestMergeSha && prevMergeSha && latestMergeSha !== prevMergeSha) {
+    mergeCount = prevCount + 1;
+  }
+  return {
+    version: "v" + mergeCount + ".0",
+    mergeCount,
+    lastMergeCommit: latestMergeSha || prevMergeSha
+  };
+}
+
 /**
  * Command line for the build.
  *
@@ -352,8 +415,27 @@ function main(argv) {
 
     questions = questions.map((q, i) => ({ id: slug + "-" + String(i + 1).padStart(5, "0"), ...q }));
     built[slug] = questions;
-    const bytes = writeCategoryFile(cat.file + ".js", Object.assign(meta(cat, questions.length), { questions }));
-    report.push({ slug, count: questions.length, target: cat.target, bytes });
+    let catParts = null;
+    if (questions.length > PART_SPLIT_THRESHOLD) {
+      const numParts = Math.ceil(questions.length / PART_CHUNK_SIZE);
+      fs.mkdirSync(path.join(OUT, cat.file), { recursive: true });
+      catParts = [];
+      for (let p = 0; p < numParts; p++) {
+        const chunk = questions.slice(p * PART_CHUNK_SIZE, (p + 1) * PART_CHUNK_SIZE)
+          .map((q, i) => ({ ...q, id: slug + "-p" + String(p + 1).padStart(2, "0") + "-" + String(i + 1).padStart(4, "0") }));
+        const partMeta = Object.assign(meta(cat, chunk.length), {
+          slug: slug + ":part-" + String(p + 1).padStart(2, "0"),
+          name: cat.name + " — Part " + String(p + 1).padStart(2, "0"),
+          part: p + 1, totalParts: numParts, parent: slug
+        });
+        const pBytes = writeCategoryFile(path.join(cat.file, "part-" + String(p + 1).padStart(2, "0") + ".js"),
+          Object.assign(partMeta, { questions: chunk }));
+        catParts.push({ part: p + 1, count: chunk.length, bytes: pBytes });
+      }
+    }
+    const bytes = writeCategoryFile(cat.file + ".js", Object.assign(meta(cat, questions.length),
+      catParts ? { parts: catParts.length } : {}, { questions }));
+    report.push({ slug, count: questions.length, target: cat.target, bytes, ...(catParts ? { parts: catParts } : {}) });
   }
 
   /* ---------------- GK Misc: everything left, in 17 parts ---------------- */
@@ -385,23 +467,75 @@ function main(argv) {
   /* ---------------- manifest + root qbank ---------------- */
   const files = CATEGORIES.filter((c) => c.slug !== "gk-misc").map((c) => "tools/categories/" + c.file + ".js");
   files.push("tools/categories/gk-misc/" + "part-01.js");
-  const manifest = CATEGORIES.map((c) => ({
-    slug: c.slug, name: c.name, file: c.file, icon: c.icon, group: c.group,
-    exams: c.exams, blurb: c.blurb, count: (built[c.slug] || gkQuestions).length,
-    ...(c.slug === "gk-misc" ? { parts: 17, partDir: "tools/categories/gk-misc", aggregate: "tools/categories/gk-misc.js" } : {})
-  }));
+  const reportBySlug = Object.fromEntries(report.map((r) => [r.slug, r]));
+  const manifest = CATEGORIES.map((c) => {
+    const catQuestions = built[c.slug] || gkQuestions;
+    const rep = reportBySlug[c.slug];
+    const partCount = c.slug === "gk-misc" ? 17 : (rep && rep.parts ? rep.parts.length : 0);
+    return {
+      slug: c.slug, name: c.name, file: c.file, icon: c.icon, group: c.group,
+      exams: c.exams, blurb: c.blurb, count: catQuestions.length,
+      levelCounts: computeLevelCounts(catQuestions),
+      ...(partCount ? {
+        parts: partCount,
+        partDir: "tools/categories/" + c.file,
+        aggregate: "tools/categories/" + c.file + ".js"
+      } : {})
+    };
+  });
+
+  const latestDailyQuestions = [];
+  if (dailyStats.latest) {
+    for (const c of CATEGORIES) {
+      if (c.slug === "gk-misc") continue;
+      for (const q of built[c.slug] || []) {
+        if (q.source === "daily" && q.dailyDate === dailyStats.latest) {
+          latestDailyQuestions.push(Object.assign({ category: c.slug }, q));
+        }
+      }
+    }
+  }
+  const dailyDatesList = daily.dailyFiles(DAILY).map((f) => {
+    const d = require(f);
+    return { date: d.date, count: (d.questions || []).length };
+  }).sort((a, b) => (a.date < b.date ? 1 : a.date > b.date ? -1 : 0));
+
+  const dailyIndex = {
+    date: dailyStats.latest || null,
+    dates: dailyDatesList,
+    questions: latestDailyQuestions
+  };
+
+  const total = Object.values(built).reduce((a, q) => a + q.length, 0) + gkQuestions.length;
+  const mergeInfo = detectMergeInfo();
+  const qbankMeta = {
+    version: mergeInfo.version,
+    mergeCount: mergeInfo.mergeCount,
+    totalQuestions: total,
+    totalCategories: manifest.length,
+    dailyPapersCount: dailyDatesList.length
+  };
+
   fs.writeFileSync(path.join(OUT, "index.js"), [
     '"use strict";',
     "/* Generated manifest of every category file. */",
     "var manifest = " + JSON.stringify(manifest, null, 1) + ";",
+    "var dailyIndex = " + JSON.stringify(dailyIndex) + ";",
+    "var qbankMeta = " + JSON.stringify(qbankMeta) + ";",
     "if (typeof module !== \"undefined\" && module.exports) module.exports = manifest;",
-    "if (typeof window !== \"undefined\") window.QBANK_MANIFEST = manifest;",
-    "if (typeof window !== \"undefined\") (window.QBANK_CATEGORIES = window.QBANK_CATEGORIES || {});",
+    "if (typeof window !== \"undefined\") {",
+    "  window.QBANK_MANIFEST = manifest;",
+    "  window.QBANK_DAILY_INDEX = dailyIndex;",
+    "  window.QBANK_META = qbankMeta;",
+    "  window.QBANK_CATEGORIES = window.QBANK_CATEGORIES || {};",
+    "}",
     ""
   ].join("\n"));
 
-  const total = Object.values(built).reduce((a, q) => a + q.length, 0) + gkQuestions.length;
   const summary = {
+    version: mergeInfo.version,
+    mergeCount: mergeInfo.mergeCount,
+    lastMergeCommit: mergeInfo.lastMergeCommit,
     generatedAt: new Date().toISOString(),
     totalQuestions: total,
     categories: report.map((r) => ({ slug: r.slug, count: r.count, target: r.target })),
