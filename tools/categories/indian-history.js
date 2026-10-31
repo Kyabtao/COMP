@@ -12,7 +12,7 @@
   "railways"
  ],
  "blurb": "Events, dynasties, rulers, movements and freedom fighters.",
- "count": 1004,
+ "count": 1040,
  "questions": [
   {
    "id": "indian-history-00001",
@@ -15077,6 +15077,582 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "indian-history-daily-2026-10-23-12",
+   "question": "In Indian history, what is 'Shah Jahan' historically known for or associated with?",
+   "options": [
+    "Known as the Napoleon of India",
+    "Founder of Buddhism",
+    "Built the Taj Mahal",
+    "Queen who fought at Jhansi in 1857"
+   ],
+   "answer": 2,
+   "explanation": "Shah Jahan — Built the Taj Mahal.",
+   "topic": "Indian History — Dynasties, Rulers & Freedom Struggle",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "indian-history-daily-2026-10-23-37",
+   "question": "In historical chronology, in which year did 'Oil crisis' take place?",
+   "options": [
+    "1919",
+    "1973",
+    "1945",
+    "1950"
+   ],
+   "answer": 1,
+   "explanation": "Oil crisis occurred in the year 1973.",
+   "topic": "Indian History — Landmark Historical Events & Chronology",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "indian-history-daily-2026-10-23-62",
+   "question": "In Indian history, what is the historical significance of 'Kakatiya Rudreshwara (Ramappa) Temple'?",
+   "options": [
+    "Peasant uprising in Bengal demanding that sharecroppers (bargadars) retain two-thirds of the harvest instead of half",
+    "Agreement replacing separate electorates for the Depressed Classes with reserved seats within the general electorate",
+    "13th-century sandbox-foundation temple whose vimana is built with porous 'floating bricks' that reduce structural weight",
+    "Detailed stone temple inscriptions recording the 'Kudavolai' ballot system of village sabha local self-government"
+   ],
+   "answer": 2,
+   "explanation": "Kakatiya Rudreshwara (Ramappa) Temple is significant for: 13th-century sandbox-foundation temple whose vimana is built with porous 'floating bricks' that reduce structural weight (built in 1213 CE by general Recharla Rudra during the reign of Kakatiya king Ganapati Deva in Telangana).",
+   "topic": "Indian History & Culture in Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "indian-history-daily-2026-10-23-87",
+   "question": "In Indian history, what is 'Humayun' historically known for or associated with?",
+   "options": [
+    "Founder of the Sikh Empire",
+    "Lost and regained the Mughal throne",
+    "Iron Man of India",
+    "Alauddin Bahman Shah"
+   ],
+   "answer": 1,
+   "explanation": "Humayun — Lost and regained the Mughal throne.",
+   "topic": "Indian History — Dynasties, Rulers & Freedom Struggle",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "indian-history-daily-2026-10-24-12",
+   "question": "In historical chronology, in which year did 'Founding of NATO' take place?",
+   "options": [
+    "1942",
+    "1929",
+    "1949",
+    "1966"
+   ],
+   "answer": 2,
+   "explanation": "Founding of NATO occurred in the year 1949.",
+   "topic": "Indian History — Landmark Historical Events & Chronology",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "indian-history-daily-2026-10-24-37",
+   "question": "In Indian history, what is 'Baji Rao I' historically known for or associated with?",
+   "options": [
+    "Greatest of the Peshwas",
+    "Shifted the capital from Delhi to Daulatabad",
+    "Ruled from Kannauj and was praised by Hiuen Tsang",
+    "Revolutionary executed with Bhagat Singh"
+   ],
+   "answer": 0,
+   "explanation": "Baji Rao I — Greatest of the Peshwas.",
+   "topic": "Indian History — Dynasties, Rulers & Freedom Struggle",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "indian-history-daily-2026-10-24-62",
+   "question": "In Indian history, what is the historical significance of 'Tebhaga Movement (1946–47)'?",
+   "options": [
+    "Detailed stone temple inscriptions recording the 'Kudavolai' ballot system of village sabha local self-government",
+    "Peasant uprising in Bengal demanding that sharecroppers (bargadars) retain two-thirds of the harvest instead of half",
+    "Three-tier constitutional proposal that set up the Constituent Assembly of India while rejecting the demand for a separate sovereign Pakistan",
+    "Temple-entry and anti-untouchability movement demanding the right of oppressed castes to walk on roads around Vaikom Mahadeva Temple"
+   ],
+   "answer": 1,
+   "explanation": "Tebhaga Movement (1946–47) is significant for: Peasant uprising in Bengal demanding that sharecroppers (bargadars) retain two-thirds of the harvest instead of half (organised by the Bangiya Pradeshik Kisan Sabha).",
+   "topic": "Indian History & Culture in Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "indian-history-daily-2026-10-24-87",
+   "question": "In historical chronology, in which year did 'Launch of the Non-Cooperation Movement' take place?",
+   "options": [
+    "1453",
+    "1953",
+    "1961",
+    "1920"
+   ],
+   "answer": 3,
+   "explanation": "Launch of the Non-Cooperation Movement occurred in the year 1920.",
+   "topic": "Indian History — Landmark Historical Events & Chronology",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "indian-history-daily-2026-10-25-12",
+   "question": "In historical chronology, in which year did 'Assassination of John F. Kennedy' take place?",
+   "options": [
+    "1971",
+    "1492",
+    "1919",
+    "1963"
+   ],
+   "answer": 3,
+   "explanation": "Assassination of John F. Kennedy occurred in the year 1963.",
+   "topic": "Indian History — Landmark Historical Events & Chronology",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "indian-history-daily-2026-10-25-37",
+   "question": "In Indian history, what is 'Sukhdev' historically known for or associated with?",
+   "options": [
+    "Rani of Jhansi in the Revolt of 1857",
+    "Iron Man of India",
+    "Founder of the Sikh Empire",
+    "Revolutionary executed with Bhagat Singh"
+   ],
+   "answer": 3,
+   "explanation": "Sukhdev — Revolutionary executed with Bhagat Singh.",
+   "topic": "Indian History — Dynasties, Rulers & Freedom Struggle",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "indian-history-daily-2026-10-25-62",
+   "question": "In historical chronology, in which year did 'D-Day landings in Normandy' take place?",
+   "options": [
+    "1945",
+    "1959",
+    "1955",
+    "1944"
+   ],
+   "answer": 3,
+   "explanation": "D-Day landings in Normandy occurred in the year 1944.",
+   "topic": "Indian History — Landmark Historical Events & Chronology",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "indian-history-daily-2026-10-25-87",
+   "question": "In Indian history, what is the historical significance of 'Uttaramerur Inscriptions of Chingleput'?",
+   "options": [
+    "Network of twelve hill, coastal and island forts showcasing strategic Maratha fortification architecture",
+    "Detailed stone temple inscriptions recording the 'Kudavolai' ballot system of village sabha local self-government",
+    "13th-century sandbox-foundation temple whose vimana is built with porous 'floating bricks' that reduce structural weight",
+    "Star-shaped soapstone temple complexes famed for hyper-realistic sculptural friezes and lathe-turned pillars"
+   ],
+   "answer": 1,
+   "explanation": "Uttaramerur Inscriptions of Chingleput is significant for: Detailed stone temple inscriptions recording the 'Kudavolai' ballot system of village sabha local self-government (reign of Chola Emperor Parantaka I in the 10th century CE).",
+   "topic": "Indian History & Culture in Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "indian-history-daily-2026-10-26-12",
+   "question": "In historical chronology, in which year did 'First Nobel Prizes awarded' take place?",
+   "options": [
+    "2008",
+    "1776",
+    "1947",
+    "1901"
+   ],
+   "answer": 3,
+   "explanation": "First Nobel Prizes awarded occurred in the year 1901.",
+   "topic": "Indian History — Landmark Historical Events & Chronology",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "indian-history-daily-2026-10-26-37",
+   "question": "In Indian history, what is the historical significance of 'Cabinet Mission Plan (1946)'?",
+   "options": [
+    "Three-tier constitutional proposal that set up the Constituent Assembly of India while rejecting the demand for a separate sovereign Pakistan",
+    "Detailed stone temple inscriptions recording the 'Kudavolai' ballot system of village sabha local self-government",
+    "Revolutionary anti-colonial organisation founded by Indian expatriates on the Pacific Coast of North America with its newspaper 'The Ghadar'",
+    "Star-shaped soapstone temple complexes famed for hyper-realistic sculptural friezes and lathe-turned pillars"
+   ],
+   "answer": 0,
+   "explanation": "Cabinet Mission Plan (1946) is significant for: Three-tier constitutional proposal that set up the Constituent Assembly of India while rejecting the demand for a separate sovereign Pakistan (composed of Lord Pethick-Lawrence, Sir Stafford Cripps and A. V. Alexander).",
+   "topic": "Indian History & Culture in Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "indian-history-daily-2026-10-26-62",
+   "question": "In Indian history, what is 'Gupta Empire' historically known for or associated with?",
+   "options": [
+    "First Education Minister of India",
+    "Sri Gupta",
+    "Built canals and founded Firozabad",
+    "Nominal leader of the Revolt of 1857"
+   ],
+   "answer": 1,
+   "explanation": "Gupta Empire — Sri Gupta.",
+   "topic": "Indian History — Dynasties, Rulers & Freedom Struggle",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "indian-history-daily-2026-10-26-87",
+   "question": "In historical chronology, in which year did 'First powered flight by the Wright brothers' take place?",
+   "options": [
+    "1857",
+    "1903",
+    "1986",
+    "1935"
+   ],
+   "answer": 1,
+   "explanation": "First powered flight by the Wright brothers occurred in the year 1903.",
+   "topic": "Indian History — Landmark Historical Events & Chronology",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "indian-history-daily-2026-10-27-12",
+   "question": "In Indian history, what is 'Madan Mohan Malaviya' historically known for or associated with?",
+   "options": [
+    "Founder of the Sikh Empire",
+    "Pulakeshin I",
+    "Spread Buddhism after the Kalinga war",
+    "Founder of Banaras Hindu University"
+   ],
+   "answer": 3,
+   "explanation": "Madan Mohan Malaviya — Founder of Banaras Hindu University.",
+   "topic": "Indian History — Dynasties, Rulers & Freedom Struggle",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "indian-history-daily-2026-10-27-37",
+   "question": "In historical chronology, in which year did 'First ascent of Mount Everest' take place?",
+   "options": [
+    "1953",
+    "1941",
+    "1933",
+    "1945"
+   ],
+   "answer": 0,
+   "explanation": "First ascent of Mount Everest occurred in the year 1953.",
+   "topic": "Indian History — Landmark Historical Events & Chronology",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "indian-history-daily-2026-10-27-62",
+   "question": "In Indian history, what is 'Bahadur Shah Zafar' historically known for or associated with?",
+   "options": [
+    "Last Mughal emperor",
+    "Won the First Battle of Panipat in 1526",
+    "General of the Revolt of 1857",
+    "Built canals and founded Firozabad"
+   ],
+   "answer": 0,
+   "explanation": "Bahadur Shah Zafar — Last Mughal emperor.",
+   "topic": "Indian History — Dynasties, Rulers & Freedom Struggle",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "indian-history-daily-2026-10-27-87",
+   "question": "In Indian history, what is the historical significance of 'Vaikom Satyagraha (1924–25)'?",
+   "options": [
+    "Decisive naval battle on the Brahmaputra river where the Ahom forces defeated the Mughal imperial fleet",
+    "Star-shaped soapstone temple complexes famed for hyper-realistic sculptural friezes and lathe-turned pillars",
+    "Network of twelve hill, coastal and island forts showcasing strategic Maratha fortification architecture",
+    "Temple-entry and anti-untouchability movement demanding the right of oppressed castes to walk on roads around Vaikom Mahadeva Temple"
+   ],
+   "answer": 3,
+   "explanation": "Vaikom Satyagraha (1924–25) is significant for: Temple-entry and anti-untouchability movement demanding the right of oppressed castes to walk on roads around Vaikom Mahadeva Temple (led by K. Kelappan, T. K. Madhavan and E. V. Ramasamy 'Periyar' in Travancore).",
+   "topic": "Indian History & Culture in Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "indian-history-daily-2026-10-28-12",
+   "question": "In Indian history, what is 'Bhagat Singh' historically known for or associated with?",
+   "options": [
+    "Leader of the Revolt in Bihar",
+    "Founded the Maurya Empire with the help of Chanakya",
+    "Revolutionary executed in 1931",
+    "Founder of Buddhism"
+   ],
+   "answer": 2,
+   "explanation": "Bhagat Singh — Revolutionary executed in 1931.",
+   "topic": "Indian History — Dynasties, Rulers & Freedom Struggle",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "indian-history-daily-2026-10-28-37",
+   "question": "In historical chronology, in which year did 'Royal Indian Navy Mutiny' take place?",
+   "options": [
+    "1922",
+    "1929",
+    "1945",
+    "1946"
+   ],
+   "answer": 3,
+   "explanation": "Royal Indian Navy Mutiny occurred in the year 1946.",
+   "topic": "Indian History — Landmark Historical Events & Chronology",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "indian-history-daily-2026-10-28-62",
+   "question": "In Indian history, what is 'Alauddin Khilji' historically known for or associated with?",
+   "options": [
+    "Market control policies and Siri fort",
+    "First Prime Minister of India",
+    "Rani of Jhansi in the Revolt of 1857",
+    "Spread Buddhism after the Kalinga war"
+   ],
+   "answer": 0,
+   "explanation": "Alauddin Khilji — Market control policies and Siri fort.",
+   "topic": "Indian History — Dynasties, Rulers & Freedom Struggle",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "indian-history-daily-2026-10-28-87",
+   "question": "In historical chronology, in which year did 'Formation of the USSR' take place?",
+   "options": [
+    "2008",
+    "1929",
+    "1922",
+    "1966"
+   ],
+   "answer": 2,
+   "explanation": "Formation of the USSR occurred in the year 1922.",
+   "topic": "Indian History — Landmark Historical Events & Chronology",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "indian-history-daily-2026-10-29-12",
+   "question": "In Indian history, what is 'Bankim Chandra Chatterjee' historically known for or associated with?",
+   "options": [
+    "Babur",
+    "Author of Vande Mataram",
+    "Leader of the Bhoodan movement",
+    "Alauddin Bahman Shah"
+   ],
+   "answer": 1,
+   "explanation": "Bankim Chandra Chatterjee — Author of Vande Mataram.",
+   "topic": "Indian History — Dynasties, Rulers & Freedom Struggle",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "indian-history-daily-2026-10-29-37",
+   "question": "In historical chronology, in which year did 'Establishment of the East India Company' take place?",
+   "options": [
+    "1953",
+    "1600",
+    "1944",
+    "1935"
+   ],
+   "answer": 1,
+   "explanation": "Establishment of the East India Company occurred in the year 1600.",
+   "topic": "Indian History — Landmark Historical Events & Chronology",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "indian-history-daily-2026-10-29-62",
+   "question": "In Indian history, what is 'Guru Nanak' historically known for or associated with?",
+   "options": [
+    "Netaji, leader of the INA",
+    "Founder of the Sikh Empire",
+    "Founder of Sikhism",
+    "Ranjit Singh"
+   ],
+   "answer": 2,
+   "explanation": "Guru Nanak — Founder of Sikhism.",
+   "topic": "Indian History — Dynasties, Rulers & Freedom Struggle",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "indian-history-daily-2026-10-29-87",
+   "question": "In historical chronology, in which year did 'Attack on the Indian Parliament' take place?",
+   "options": [
+    "1920",
+    "2001",
+    "1977",
+    "1946"
+   ],
+   "answer": 1,
+   "explanation": "Attack on the Indian Parliament occurred in the year 2001.",
+   "topic": "Indian History — Landmark Historical Events & Chronology",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "indian-history-daily-2026-10-30-12",
+   "question": "In historical chronology, in which year did 'Pokhran-II nuclear tests' take place?",
+   "options": [
+    "1984",
+    "1950",
+    "1998",
+    "1957"
+   ],
+   "answer": 2,
+   "explanation": "Pokhran-II nuclear tests occurred in the year 1998.",
+   "topic": "Indian History — Landmark Historical Events & Chronology",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "indian-history-daily-2026-10-30-37",
+   "question": "In Indian history, what is 'Mahatma Gandhi' historically known for or associated with?",
+   "options": [
+    "Father of the Nation",
+    "Tiger of Mysore",
+    "Bahlul Lodi",
+    "Chief architect of the Indian Constitution"
+   ],
+   "answer": 0,
+   "explanation": "Mahatma Gandhi — Father of the Nation.",
+   "topic": "Indian History — Dynasties, Rulers & Freedom Struggle",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "indian-history-daily-2026-10-30-62",
+   "question": "In historical chronology, in which year did 'Defeat of the Spanish Armada' take place?",
+   "options": [
+    "1948",
+    "1945",
+    "1947",
+    "1588"
+   ],
+   "answer": 3,
+   "explanation": "Defeat of the Spanish Armada occurred in the year 1588.",
+   "topic": "Indian History — Landmark Historical Events & Chronology",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "indian-history-daily-2026-10-30-87",
+   "question": "In Indian history, what is 'Rabindranath Tagore' historically known for or associated with?",
+   "options": [
+    "Leader of the Bhoodan movement",
+    "Author of the national anthem of India",
+    "Founder-member of the HSRA",
+    "Built the Taj Mahal"
+   ],
+   "answer": 1,
+   "explanation": "Rabindranath Tagore — Author of the national anthem of India.",
+   "topic": "Indian History — Dynasties, Rulers & Freedom Struggle",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "indian-history-daily-2026-10-31-12",
+   "question": "In historical chronology, in which year did 'Bandung Conference' take place?",
+   "options": [
+    "1955",
+    "1950",
+    "1848",
+    "1492"
+   ],
+   "answer": 0,
+   "explanation": "Bandung Conference occurred in the year 1955.",
+   "topic": "Indian History — Landmark Historical Events & Chronology",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "indian-history-daily-2026-10-31-37",
+   "question": "In Indian history, what is 'Nana Saheb' historically known for or associated with?",
+   "options": [
+    "Leader of the Revolt at Kanpur",
+    "Founded the Maurya Empire with the help of Chanakya",
+    "First Education Minister of India",
+    "Shifted the capital from Delhi to Daulatabad"
+   ],
+   "answer": 0,
+   "explanation": "Nana Saheb — Leader of the Revolt at Kanpur.",
+   "topic": "Indian History — Dynasties, Rulers & Freedom Struggle",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "indian-history-daily-2026-10-31-62",
+   "question": "In historical chronology, in which year did 'G20 Summit hosted in New Delhi' take place?",
+   "options": [
+    "2023",
+    "1863",
+    "1979",
+    "1498"
+   ],
+   "answer": 0,
+   "explanation": "G20 Summit hosted in New Delhi occurred in the year 2023.",
+   "topic": "Indian History — Landmark Historical Events & Chronology",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "indian-history-daily-2026-10-31-87",
+   "question": "In Indian history, what is 'Slave Dynasty of Delhi' historically known for or associated with?",
+   "options": [
+    "Known as the Napoleon of India",
+    "First Education Minister of India",
+    "Qutb-ud-din Aibak",
+    "Babur"
+   ],
+   "answer": 2,
+   "explanation": "Slave Dynasty of Delhi — Qutb-ud-din Aibak.",
+   "topic": "Indian History — Dynasties, Rulers & Freedom Struggle",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
   }
  ]
 };

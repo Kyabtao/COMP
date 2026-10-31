@@ -13,7 +13,7 @@
   "railways"
  ],
  "blurb": "Series, coding, blood relations, directions and syllogisms.",
- "count": 1509,
+ "count": 1545,
  "questions": [
   {
    "id": "reasoning-00001",
@@ -22658,6 +22658,582 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "reasoning-daily-2026-10-23-05",
+   "question": "In verbal analogy reasoning, if 'Birds' is related to 'Ornithology', then 'Functions of living organisms' is analogously related to which discipline?",
+   "options": [
+    "Microbiology",
+    "Electromagnetism",
+    "Physiology",
+    "Entomology"
+   ],
+   "answer": 2,
+   "explanation": "Just as Ornithology is the study of birds, Physiology is the study of Functions of living organisms.",
+   "topic": "Verbal Reasoning — Scientific Branch & Subject Analogies",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "reasoning-daily-2026-10-23-30",
+   "question": "In competitive logical reasoning, what is the exact rule or answer for 'Number of Handshakes (or Round-Robin Matches) Among n Persons When Everyone Shakes Hands Once'?",
+   "options": [
+    "Total = L + R - 1",
+    "Always 8 (the 8 corner cubes, for any n >= 2)",
+    "n(n - 1) / 2 (i.e., nC2)",
+    "3 * (n - 1) cuts (n - 1 cuts along each of the 3 mutually perpendicular axes)"
+   ],
+   "answer": 2,
+   "explanation": "Number of Handshakes (or Round-Robin Matches) Among n Persons When Everyone Shakes Hands Once: n(n - 1) / 2 (i.e., nC2) (each of the n participants shakes hands with (n - 1) others, divided by 2 to avoid double counting).",
+   "topic": "Logical, Verbal & Analytical Reasoning in Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "reasoning-daily-2026-10-23-55",
+   "question": "In verbal analogy reasoning, if 'Japan : Yen', then 'Uzbekistan : ?'",
+   "options": [
+    "Som",
+    "Euro",
+    "Singapore Dollar",
+    "Pakistani Rupee"
+   ],
+   "answer": 0,
+   "explanation": "Just as the Yen is the national currency of Japan, the Som is the currency of Uzbekistan (capital: Tashkent).",
+   "topic": "Verbal Reasoning — Country & Currency Analogies",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "reasoning-daily-2026-10-23-80",
+   "question": "Complete the analogy from international headquarters: International Court of Justice : The Hague :: International Maritime Organization : ?",
+   "options": [
+    "London",
+    "Six-wheeled Lunar Rover",
+    "Intracellular digestion and waste clearance",
+    "Odisha"
+   ],
+   "answer": 0,
+   "explanation": "The International Court of Justice is seated at the Peace Palace in The Hague, while the UN International Maritime Organization (IMO) is headquartered in London.",
+   "topic": "Logical & Verbal Reasoning from Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "reasoning-daily-2026-10-24-05",
+   "question": "In logical analogy reasoning, if 'Thermometer : Temperature', then 'Manometer : ?'",
+   "options": [
+    "Electric potential difference",
+    "Humidity",
+    "Gas pressure",
+    "Depth of the sea"
+   ],
+   "answer": 2,
+   "explanation": "Just as a Thermometer measures Temperature, a Manometer measures Gas pressure.",
+   "topic": "Verbal Reasoning — Instrument & Measurement Analogies",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "reasoning-daily-2026-10-24-30",
+   "question": "In verbal analogy reasoning, if 'Birds' is related to 'Ornithology', then 'Viruses' is analogously related to which discipline?",
+   "options": [
+    "Virology",
+    "Taxonomy",
+    "Anatomy",
+    "Apiculture"
+   ],
+   "answer": 0,
+   "explanation": "Just as Ornithology is the study of birds, Virology is the study of Viruses.",
+   "topic": "Verbal Reasoning — Scientific Branch & Subject Analogies",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "reasoning-daily-2026-10-24-55",
+   "question": "In competitive logical reasoning, what is the exact rule or answer for 'Complementary Pair ('Either-Or') Condition in Syllogism Conclusions'?",
+   "options": [
+    "Two conclusions sharing the same subject and predicate, both individually uncertain, forming 'Some A are B + No A is B' or 'All A are B + Some A are not B'",
+    "n(n - 1) / 2 (i.e., nC2)",
+    "'If not Q, then not P' (~Q -> ~P)",
+    "4 colours"
+   ],
+   "answer": 0,
+   "explanation": "Complementary Pair ('Either-Or') Condition in Syllogism Conclusions: Two conclusions sharing the same subject and predicate, both individually uncertain, forming 'Some A are B + No A is B' or 'All A are B + Some A are not B' (at least one of the two complementary propositions must be true in every possible Venn diagram).",
+   "topic": "Logical, Verbal & Analytical Reasoning in Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "reasoning-daily-2026-10-24-80",
+   "question": "In verbal analogy reasoning, if 'Japan : Yen', then 'Jordan : ?'",
+   "options": [
+    "Won",
+    "Jordanian Dinar",
+    "Somoni",
+    "Kip"
+   ],
+   "answer": 1,
+   "explanation": "Just as the Yen is the national currency of Japan, the Jordanian Dinar is the currency of Jordan (capital: Amman).",
+   "topic": "Verbal Reasoning — Country & Currency Analogies",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "reasoning-daily-2026-10-25-05",
+   "question": "In verbal analogy reasoning, if 'Birds' is related to 'Ornithology', then 'Cells' is analogously related to which discipline?",
+   "options": [
+    "Cytology",
+    "Palaeontology",
+    "Pharmacology",
+    "Astrophysics"
+   ],
+   "answer": 0,
+   "explanation": "Just as Ornithology is the study of birds, Cytology is the study of Cells.",
+   "topic": "Verbal Reasoning — Scientific Branch & Subject Analogies",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "reasoning-daily-2026-10-25-30",
+   "question": "In logical analogy reasoning, if 'Thermometer : Temperature', then 'Geiger counter : ?'",
+   "options": [
+    "Radiant energy",
+    "Speed of a vehicle",
+    "Ionising radiation",
+    "Gas pressure"
+   ],
+   "answer": 2,
+   "explanation": "Just as a Thermometer measures Temperature, a Geiger counter measures Ionising radiation.",
+   "topic": "Verbal Reasoning — Instrument & Measurement Analogies",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "reasoning-daily-2026-10-25-55",
+   "question": "In competitive logical reasoning, what is the exact rule or answer for 'Standard Die Rule in Dice Reasoning Problems'?",
+   "options": [
+    "4 colours",
+    "The sum of the forward alphabetical positions of any opposite letter pair is always 27",
+    "Always 8 (the 8 corner cubes, for any n >= 2)",
+    "The sum of numbers on any two opposite faces of a standard die is always 7 (1-6, 2-5, 3-4)"
+   ],
+   "answer": 3,
+   "explanation": "Standard Die Rule in Dice Reasoning Problems: The sum of numbers on any two opposite faces of a standard die is always 7 (1-6, 2-5, 3-4) (therefore no two numbers summing to 7 can ever appear on adjacent visible faces of a standard die).",
+   "topic": "Logical, Verbal & Analytical Reasoning in Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "reasoning-daily-2026-10-25-80",
+   "question": "In verbal analogy reasoning, if 'Japan : Yen', then 'Saudi Arabia : ?'",
+   "options": [
+    "Jordanian Dinar",
+    "Syrian Pound",
+    "Iraqi Dinar",
+    "Saudi Riyal"
+   ],
+   "answer": 3,
+   "explanation": "Just as the Yen is the national currency of Japan, the Saudi Riyal is the currency of Saudi Arabia (capital: Riyadh).",
+   "topic": "Verbal Reasoning — Country & Currency Analogies",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "reasoning-daily-2026-10-26-05",
+   "question": "In verbal analogy reasoning, if 'Japan : Yen', then 'Spain : ?'",
+   "options": [
+    "Euro",
+    "Riel",
+    "Dirham",
+    "Afghani"
+   ],
+   "answer": 0,
+   "explanation": "Just as the Yen is the national currency of Japan, the Euro is the currency of Spain (capital: Madrid).",
+   "topic": "Verbal Reasoning — Country & Currency Analogies",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "reasoning-daily-2026-10-26-30",
+   "question": "In verbal analogy reasoning, if 'Birds' is related to 'Ornithology', then 'Physics of celestial objects' is analogously related to which discipline?",
+   "options": [
+    "Geology",
+    "Cytology",
+    "Meteorology",
+    "Astrophysics"
+   ],
+   "answer": 3,
+   "explanation": "Just as Ornithology is the study of birds, Astrophysics is the study of Physics of celestial objects.",
+   "topic": "Verbal Reasoning — Scientific Branch & Subject Analogies",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "reasoning-daily-2026-10-26-55",
+   "question": "In logical analogy reasoning, if 'Thermometer : Temperature', then 'Fathometer : ?'",
+   "options": [
+    "Electric potential difference",
+    "Depth of the sea",
+    "Electric current",
+    "Plant growth"
+   ],
+   "answer": 1,
+   "explanation": "Just as a Thermometer measures Temperature, a Fathometer measures Depth of the sea.",
+   "topic": "Verbal Reasoning — Instrument & Measurement Analogies",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "reasoning-daily-2026-10-26-80",
+   "question": "In verbal analogy reasoning, if 'Japan : Yen', then 'Thailand : ?'",
+   "options": [
+    "Euro",
+    "Syrian Pound",
+    "Kyat",
+    "Baht"
+   ],
+   "answer": 3,
+   "explanation": "Just as the Yen is the national currency of Japan, the Baht is the currency of Thailand (capital: Bangkok).",
+   "topic": "Verbal Reasoning — Country & Currency Analogies",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "reasoning-daily-2026-10-27-05",
+   "question": "In verbal analogy reasoning, if 'Japan : Yen', then 'Portugal : ?'",
+   "options": [
+    "Euro",
+    "Turkish Lira",
+    "Somoni",
+    "Rufiyaa"
+   ],
+   "answer": 0,
+   "explanation": "Just as the Yen is the national currency of Japan, the Euro is the currency of Portugal (capital: Lisbon).",
+   "topic": "Verbal Reasoning — Country & Currency Analogies",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "reasoning-daily-2026-10-27-30",
+   "question": "In verbal analogy reasoning, if 'Birds' is related to 'Ornithology', then 'Chemical processes in living organisms' is analogously related to which discipline?",
+   "options": [
+    "Pharmacology",
+    "Biochemistry",
+    "Chemistry",
+    "Oceanography"
+   ],
+   "answer": 1,
+   "explanation": "Just as Ornithology is the study of birds, Biochemistry is the study of Chemical processes in living organisms.",
+   "topic": "Verbal Reasoning — Scientific Branch & Subject Analogies",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "reasoning-daily-2026-10-27-55",
+   "question": "In competitive logical reasoning, what is the exact rule or answer for 'Logical Equivalence (Contrapositive) of the Conditional Statement 'If P then Q''?",
+   "options": [
+    "5 odd days in 100 years, 3 in 200 years, 1 in 300 years, and 0 in 400 years",
+    "6 * (n - 2)^2",
+    "12 * (n - 2)",
+    "'If not Q, then not P' (~Q -> ~P)"
+   ],
+   "answer": 3,
+   "explanation": "Logical Equivalence (Contrapositive) of the Conditional Statement 'If P then Q': 'If not Q, then not P' (~Q -> ~P) (a conditional statement is logically equivalent to its contrapositive, not its converse or inverse).",
+   "topic": "Logical, Verbal & Analytical Reasoning in Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "reasoning-daily-2026-10-27-80",
+   "question": "In logical analogy reasoning, if 'Thermometer : Temperature', then 'Spectrometer : ?'",
+   "options": [
+    "Atmospheric pressure",
+    "Purity of milk",
+    "Multiple physiological responses",
+    "Properties of light"
+   ],
+   "answer": 3,
+   "explanation": "Just as a Thermometer measures Temperature, a Spectrometer measures Properties of light.",
+   "topic": "Verbal Reasoning — Instrument & Measurement Analogies",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "reasoning-daily-2026-10-28-05",
+   "question": "In verbal analogy reasoning, if 'Birds' is related to 'Ornithology', then 'Radiant energy in medicine' is analogously related to which discipline?",
+   "options": [
+    "Radiology",
+    "Apiculture",
+    "Mechanics",
+    "Numismatics"
+   ],
+   "answer": 0,
+   "explanation": "Just as Ornithology is the study of birds, Radiology is the study of Radiant energy in medicine.",
+   "topic": "Verbal Reasoning — Scientific Branch & Subject Analogies",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "reasoning-daily-2026-10-28-30",
+   "question": "In competitive logical reasoning, what is the exact rule or answer for 'Number of Smaller Cubes with Exactly 3 Faces Painted When a Painted Cube is Cut into n^3 Cubes'?",
+   "options": [
+    "(n - 2)^3",
+    "n(n - 1) / 2 (i.e., nC2)",
+    "22 times in 24 hours (11 times every 12 hours)",
+    "Always 8 (the 8 corner cubes, for any n >= 2)"
+   ],
+   "answer": 3,
+   "explanation": "Number of Smaller Cubes with Exactly 3 Faces Painted When a Painted Cube is Cut into n^3 Cubes: Always 8 (the 8 corner cubes, for any n >= 2) (only the 8 vertices of a cube have three exposed outer faces).",
+   "topic": "Logical, Verbal & Analytical Reasoning in Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "reasoning-daily-2026-10-28-55",
+   "question": "Complete the analogy from cellular biology: Ribosome : Protein synthesis :: Lysosome : ?",
+   "options": [
+    "Ancient inscriptions",
+    "Intracellular digestion and waste clearance",
+    "Article 165",
+    "30 members exclusively from the Lok Sabha"
+   ],
+   "answer": 1,
+   "explanation": "Ribosomes are the sites of protein synthesis (translation), while lysosomes contain hydrolytic enzymes for intracellular digestion and autophagy.",
+   "topic": "Logical & Verbal Reasoning from Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "reasoning-daily-2026-10-28-80",
+   "question": "In verbal analogy reasoning, if 'Japan : Yen', then 'Kyrgyzstan : ?'",
+   "options": [
+    "Som",
+    "Yen",
+    "Brunei Dollar",
+    "Pound Sterling"
+   ],
+   "answer": 0,
+   "explanation": "Just as the Yen is the national currency of Japan, the Som is the currency of Kyrgyzstan (capital: Bishkek).",
+   "topic": "Verbal Reasoning — Country & Currency Analogies",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "reasoning-daily-2026-10-29-05",
+   "question": "In logical analogy reasoning, if 'Thermometer : Temperature', then 'Seismograph : ?'",
+   "options": [
+    "Temperature",
+    "Earthquakes",
+    "Objects above obstacles",
+    "Heat change in reactions"
+   ],
+   "answer": 1,
+   "explanation": "Just as a Thermometer measures Temperature, a Seismograph measures Earthquakes.",
+   "topic": "Verbal Reasoning — Instrument & Measurement Analogies",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "reasoning-daily-2026-10-29-30",
+   "question": "In verbal analogy reasoning, if 'Japan : Yen', then 'Switzerland : ?'",
+   "options": [
+    "Euro",
+    "Iranian Rial",
+    "Swiss Franc",
+    "Riel"
+   ],
+   "answer": 2,
+   "explanation": "Just as the Yen is the national currency of Japan, the Swiss Franc is the currency of Switzerland (capital: Bern).",
+   "topic": "Verbal Reasoning — Country & Currency Analogies",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "reasoning-daily-2026-10-29-55",
+   "question": "In logical analogy reasoning, if 'Thermometer : Temperature', then 'Crescograph : ?'",
+   "options": [
+    "Heart activity",
+    "Time accurately",
+    "Internal body organs",
+    "Plant growth"
+   ],
+   "answer": 3,
+   "explanation": "Just as a Thermometer measures Temperature, a Crescograph measures Plant growth.",
+   "topic": "Verbal Reasoning — Instrument & Measurement Analogies",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "reasoning-daily-2026-10-29-80",
+   "question": "In verbal analogy reasoning, if 'Birds' is related to 'Ornithology', then 'Heat and energy transfer' is analogously related to which discipline?",
+   "options": [
+    "Palaeontology",
+    "Ichthyology",
+    "Thermodynamics",
+    "Genetics"
+   ],
+   "answer": 2,
+   "explanation": "Just as Ornithology is the study of birds, Thermodynamics is the study of Heat and energy transfer.",
+   "topic": "Verbal Reasoning — Scientific Branch & Subject Analogies",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "reasoning-daily-2026-10-30-05",
+   "question": "In logical analogy reasoning, if 'Thermometer : Temperature', then 'Kymograph : ?'",
+   "options": [
+    "Speed of a vehicle",
+    "Blood pressure variations",
+    "Objects above obstacles",
+    "Time accurately"
+   ],
+   "answer": 1,
+   "explanation": "Just as a Thermometer measures Temperature, a Kymograph measures Blood pressure variations.",
+   "topic": "Verbal Reasoning — Instrument & Measurement Analogies",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "reasoning-daily-2026-10-30-30",
+   "question": "In verbal analogy reasoning, if 'Japan : Yen', then 'Sweden : ?'",
+   "options": [
+    "Euro",
+    "Swedish Krona",
+    "Yen",
+    "Turkish Lira"
+   ],
+   "answer": 1,
+   "explanation": "Just as the Yen is the national currency of Japan, the Swedish Krona is the currency of Sweden (capital: Stockholm).",
+   "topic": "Verbal Reasoning — Country & Currency Analogies",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "reasoning-daily-2026-10-30-55",
+   "question": "In verbal analogy reasoning, if 'Birds' is related to 'Ornithology', then 'Animals' is analogously related to which discipline?",
+   "options": [
+    "Zoology",
+    "Philately",
+    "Thermodynamics",
+    "Cytology"
+   ],
+   "answer": 0,
+   "explanation": "Just as Ornithology is the study of birds, Zoology is the study of Animals.",
+   "topic": "Verbal Reasoning — Scientific Branch & Subject Analogies",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "reasoning-daily-2026-10-30-80",
+   "question": "Complete the analogy from economic curves: Lorenz Curve : Income inequality :: Phillips Curve : ?",
+   "options": [
+    "Inverse relationship between inflation and unemployment",
+    "London",
+    "Ancient inscriptions",
+    "Odisha"
+   ],
+   "answer": 0,
+   "explanation": "The Lorenz Curve graphically represents income or wealth inequality, whereas the Phillips Curve depicts the short-run inverse relationship between inflation and unemployment.",
+   "topic": "Logical & Verbal Reasoning from Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "reasoning-daily-2026-10-31-05",
+   "question": "In competitive logical reasoning, what is the exact rule or answer for 'Minimum Number of Straight Cuts Required to Divide a Cube into n^3 Identical Smaller Cubes'?",
+   "options": [
+    "11 times in 12 hours and 22 times in 24 hours",
+    "|30*H - (11/2)*M| degrees (or 360 minus that value for the reflex angle)",
+    "3 * (n - 1) cuts (n - 1 cuts along each of the 3 mutually perpendicular axes)",
+    "The sum of numbers on any two opposite faces of a standard die is always 7 (1-6, 2-5, 3-4)"
+   ],
+   "answer": 2,
+   "explanation": "Minimum Number of Straight Cuts Required to Divide a Cube into n^3 Identical Smaller Cubes: 3 * (n - 1) cuts (n - 1 cuts along each of the 3 mutually perpendicular axes) (each axis requires (n - 1) parallel planar cuts to produce n layers).",
+   "topic": "Logical, Verbal & Analytical Reasoning in Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "reasoning-daily-2026-10-31-30",
+   "question": "In logical analogy reasoning, if 'Thermometer : Temperature', then 'Tachometer : ?'",
+   "options": [
+    "Water absorption by plants",
+    "Electric potential difference",
+    "Rotational speed",
+    "Time accurately"
+   ],
+   "answer": 2,
+   "explanation": "Just as a Thermometer measures Temperature, a Tachometer measures Rotational speed.",
+   "topic": "Verbal Reasoning — Instrument & Measurement Analogies",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "reasoning-daily-2026-10-31-55",
+   "question": "In verbal analogy reasoning, if 'Japan : Yen', then 'Turkey : ?'",
+   "options": [
+    "Norwegian Krone",
+    "Dirham",
+    "Manat",
+    "Turkish Lira"
+   ],
+   "answer": 3,
+   "explanation": "Just as the Yen is the national currency of Japan, the Turkish Lira is the currency of Turkey (capital: Ankara).",
+   "topic": "Verbal Reasoning — Country & Currency Analogies",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "reasoning-daily-2026-10-31-80",
+   "question": "In verbal analogy reasoning, if 'Birds' is related to 'Ornithology', then 'Organisms and their environment' is analogously related to which discipline?",
+   "options": [
+    "Biology",
+    "Taxonomy",
+    "Electromagnetism",
+    "Ecology"
+   ],
+   "answer": 3,
+   "explanation": "Just as Ornithology is the study of birds, Ecology is the study of Organisms and their environment.",
+   "topic": "Verbal Reasoning — Scientific Branch & Subject Analogies",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
   }
  ]
 };

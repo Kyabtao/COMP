@@ -12,7 +12,7 @@
   "railways"
  ],
  "blurb": "Defence, awards, institutions and national facts.",
- "count": 284,
+ "count": 319,
  "questions": [
   {
    "id": "general-awareness-00001",
@@ -4263,7 +4263,135 @@
    "dailyDate": "2026-10-22"
   },
   {
-   "id": "general-awareness-daily-2026-10-25-98",
+   "id": "general-awareness-daily-2026-10-23-19",
+   "question": "In competitive general awareness, who or what is recognised as 'National Anthem'?",
+   "options": [
+    "Jana Gana Mana",
+    "Roger Bannister",
+    "Wally Herbert",
+    "Joshua Slocum"
+   ],
+   "answer": 0,
+   "explanation": "National Anthem — Jana Gana Mana.",
+   "topic": "General Awareness — Firsts in India, National Symbols & Institutions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "general-awareness-daily-2026-10-23-44",
+   "question": "In international general awareness, where is the permanent headquarters of 'European Union' located?",
+   "options": [
+    "Brussels",
+    "Vienna",
+    "Zurich",
+    "Paris"
+   ],
+   "answer": 0,
+   "explanation": "The headquarters of European Union is located at Brussels.",
+   "topic": "General Awareness — International Organisations & Headquarters",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "general-awareness-daily-2026-10-23-69",
+   "question": "With which country does India conduct the joint military or defence exercise 'Vajra Prahar'?",
+   "options": [
+    "Australia",
+    "United States of America",
+    "Seychelles",
+    "Egypt"
+   ],
+   "answer": 1,
+   "explanation": "'Vajra Prahar' is a joint joint special forces exercise between India and the USA conducted between India and United States of America.",
+   "topic": "Joint Military Exercises in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "general-awareness-daily-2026-10-23-94",
+   "question": "In competitive general awareness, who or what is recognised as 'First Cricket World Cup was held in'?",
+   "options": [
+    "Roger Bannister",
+    "Sucheta Kripalani",
+    "England",
+    "Valentina Tereshkova"
+   ],
+   "answer": 2,
+   "explanation": "First Cricket World Cup was held in — England.",
+   "topic": "General Awareness — Firsts in India, National Symbols & Institutions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "general-awareness-daily-2026-10-24-19",
+   "question": "In international general awareness, where is the permanent headquarters of 'South Asian University' located?",
+   "options": [
+    "Geneva",
+    "New Delhi",
+    "Kathmandu",
+    "Lyon"
+   ],
+   "answer": 1,
+   "explanation": "The headquarters of South Asian University is located at New Delhi.",
+   "topic": "General Awareness — International Organisations & Headquarters",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "general-awareness-daily-2026-10-24-44",
+   "question": "In competitive general awareness, who or what is recognised as 'National River'?",
+   "options": [
+    "Tenzing Norgay",
+    "Pratibha Patil",
+    "Ganges River Dolphin",
+    "Ganga"
+   ],
+   "answer": 3,
+   "explanation": "National River — Ganga.",
+   "topic": "General Awareness — Firsts in India, National Symbols & Institutions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "general-awareness-daily-2026-10-24-69",
+   "question": "Which indigenous light tank, developed jointly by DRDO and Larsen & Toubro for high-altitude operations in Ladakh, underwent trials in 2024?",
+   "options": [
+    "Arjun Mk-1A",
+    "Zorawar",
+    "Bhishma",
+    "Karna"
+   ],
+   "answer": 1,
+   "explanation": "Named after legendary Dogra general Zorawar Singh Kahluria, the 25-tonne Zorawar light tank was developed by DRDO's CVRDE and L&T for rapid deployment in high-altitude mountain warfare.",
+   "topic": "Defence & Indigenous Systems",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "general-awareness-daily-2026-10-24-94",
+   "question": "With which country does India conduct the joint military or defence exercise 'Tarkash'?",
+   "options": [
+    "Nepal",
+    "Japan",
+    "United States of America",
+    "Malaysia"
+   ],
+   "answer": 2,
+   "explanation": "'Tarkash' is a joint joint counter-terrorism exercise by NSG and US Special Operations Forces conducted between India and United States of America.",
+   "topic": "Joint Military Exercises in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "general-awareness-daily-2026-10-25-19",
    "question": "With which country does India conduct the joint military or defence exercise 'Shakti'?",
    "options": [
     "France",
@@ -4277,6 +4405,438 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "general-awareness-daily-2026-10-25-44",
+   "question": "In international general awareness, where is the permanent headquarters of 'Asian Development Bank' located?",
+   "options": [
+    "Geneva",
+    "Bern",
+    "Manila",
+    "Kathmandu"
+   ],
+   "answer": 2,
+   "explanation": "The headquarters of Asian Development Bank is located at Manila.",
+   "topic": "General Awareness — International Organisations & Headquarters",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "general-awareness-daily-2026-10-25-69",
+   "question": "In competitive general awareness, who or what is recognised as 'First Indian Governor-General of India'?",
+   "options": [
+    "C. Rajagopalachari",
+    "Marie Curie",
+    "Karnam Malleswari",
+    "Joshua Slocum"
+   ],
+   "answer": 0,
+   "explanation": "First Indian Governor-General of India — C. Rajagopalachari.",
+   "topic": "General Awareness — Firsts in India, National Symbols & Institutions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "general-awareness-daily-2026-10-25-94",
+   "question": "With which country does India conduct the joint military or defence exercise 'Harimau Shakti'?",
+   "options": [
+    "Mongolia",
+    "Sri Lanka",
+    "United States of America",
+    "Malaysia"
+   ],
+   "answer": 3,
+   "explanation": "'Harimau Shakti' is a joint joint bilateral army jungle warfare exercise conducted between India and Malaysia.",
+   "topic": "Joint Military Exercises in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "general-awareness-daily-2026-10-26-19",
+   "question": "With which country does India conduct the joint military or defence exercise 'Mitra Shakti'?",
+   "options": [
+    "Seychelles",
+    "Uzbekistan",
+    "Sri Lanka",
+    "Indonesia"
+   ],
+   "answer": 2,
+   "explanation": "'Mitra Shakti' is a joint joint army exercise for sub-conventional operations conducted between India and Sri Lanka.",
+   "topic": "Joint Military Exercises in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "general-awareness-daily-2026-10-26-44",
+   "question": "In competitive general awareness, who or what is recognised as 'First Indian woman to become a judge of the Supreme Court'?",
+   "options": [
+    "Lotus",
+    "England",
+    "Yuri Gagarin",
+    "Justice Fathima Beevi"
+   ],
+   "answer": 3,
+   "explanation": "First Indian woman to become a judge of the Supreme Court — Justice Fathima Beevi.",
+   "topic": "General Awareness — Firsts in India, National Symbols & Institutions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "general-awareness-daily-2026-10-26-69",
+   "question": "In international general awareness, where is the permanent headquarters of 'International Hockey Federation' located?",
+   "options": [
+    "Paris",
+    "Bern",
+    "Lausanne",
+    "Geneva"
+   ],
+   "answer": 2,
+   "explanation": "The headquarters of International Hockey Federation is located at Lausanne.",
+   "topic": "General Awareness — International Organisations & Headquarters",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "general-awareness-daily-2026-10-26-94",
+   "question": "In competitive general awareness, who or what is recognised as 'First Indian to win a Nobel Prize'?",
+   "options": [
+    "Yuri Gagarin",
+    "Rabindranath Tagore",
+    "Amelia Earhart",
+    "Bachendri Pal"
+   ],
+   "answer": 1,
+   "explanation": "First Indian to win a Nobel Prize — Rabindranath Tagore.",
+   "topic": "General Awareness — Firsts in India, National Symbols & Institutions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "general-awareness-daily-2026-10-27-19",
+   "question": "With which country does India conduct the joint military or defence exercise 'Bongosagar'?",
+   "options": [
+    "Japan",
+    "United States of America",
+    "Malaysia",
+    "Bangladesh"
+   ],
+   "answer": 3,
+   "explanation": "'Bongosagar' is a joint bilateral naval maritime patrol and exercise conducted between India and Bangladesh.",
+   "topic": "Joint Military Exercises in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "general-awareness-daily-2026-10-27-44",
+   "question": "In competitive general awareness, who or what is recognised as 'National Animal'?",
+   "options": [
+    "Wally Herbert",
+    "Aryabhata",
+    "Jana Gana Mana",
+    "Bengal Tiger"
+   ],
+   "answer": 3,
+   "explanation": "National Animal — Bengal Tiger.",
+   "topic": "General Awareness — Firsts in India, National Symbols & Institutions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "general-awareness-daily-2026-10-27-69",
+   "question": "In international general awareness, where is the permanent headquarters of 'Food and Agriculture Organization' located?",
+   "options": [
+    "New York",
+    "Rome",
+    "Geneva",
+    "Kathmandu"
+   ],
+   "answer": 1,
+   "explanation": "The headquarters of Food and Agriculture Organization is located at Rome.",
+   "topic": "General Awareness — International Organisations & Headquarters",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "general-awareness-daily-2026-10-27-94",
+   "question": "With which country does India conduct the joint military or defence exercise 'Nomadic Elephant'?",
+   "options": [
+    "Kazakhstan",
+    "Mongolia",
+    "United Kingdom",
+    "Australia"
+   ],
+   "answer": 1,
+   "explanation": "'Nomadic Elephant' is a joint joint military exercise for high-altitude and peacekeeping operations conducted between India and Mongolia.",
+   "topic": "Joint Military Exercises in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "general-awareness-daily-2026-10-28-19",
+   "question": "In international general awareness, where is the permanent headquarters of 'World Food Programme' located?",
+   "options": [
+    "Lausanne",
+    "Rome",
+    "Jakarta",
+    "Beijing"
+   ],
+   "answer": 1,
+   "explanation": "The headquarters of World Food Programme is located at Rome.",
+   "topic": "General Awareness — International Organisations & Headquarters",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "general-awareness-daily-2026-10-28-44",
+   "question": "In competitive general awareness, who or what is recognised as 'First Indian to win a Grand Slam in tennis'?",
+   "options": [
+    "Saka Calendar",
+    "Mahesh Bhupathi",
+    "George Washington",
+    "Rakesh Sharma"
+   ],
+   "answer": 1,
+   "explanation": "First Indian to win a Grand Slam in tennis — Mahesh Bhupathi.",
+   "topic": "General Awareness — Firsts in India, National Symbols & Institutions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "general-awareness-daily-2026-10-28-69",
+   "question": "With which country does India conduct the joint military or defence exercise 'Dharma Guardian'?",
+   "options": [
+    "Japan",
+    "Sri Lanka",
+    "Kyrgyzstan",
+    "Australia"
+   ],
+   "answer": 0,
+   "explanation": "'Dharma Guardian' is a joint joint army exercise for tactical counter-terrorism operations conducted between India and Japan.",
+   "topic": "Joint Military Exercises in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "general-awareness-daily-2026-10-28-94",
+   "question": "In international general awareness, where is the permanent headquarters of 'United Nations Environment Programme' located?",
+   "options": [
+    "London",
+    "New York",
+    "Nairobi",
+    "Cologny"
+   ],
+   "answer": 2,
+   "explanation": "The headquarters of United Nations Environment Programme is located at Nairobi.",
+   "topic": "General Awareness — International Organisations & Headquarters",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "general-awareness-daily-2026-10-29-19",
+   "question": "In competitive general awareness, who or what is recognised as 'First woman to travel to space from India'?",
+   "options": [
+    "Kalpana Chawla",
+    "Joshua Slocum",
+    "Kiran Bedi",
+    "Indian Rupee"
+   ],
+   "answer": 0,
+   "explanation": "First woman to travel to space from India — Kalpana Chawla.",
+   "topic": "General Awareness — Firsts in India, National Symbols & Institutions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "general-awareness-daily-2026-10-29-44",
+   "question": "With which country does India conduct the joint military or defence exercise 'Garuda Shakti'?",
+   "options": [
+    "Bangladesh",
+    "Kazakhstan",
+    "Saudi Arabia",
+    "Indonesia"
+   ],
+   "answer": 3,
+   "explanation": "'Garuda Shakti' is a joint joint special forces military exercise conducted between India and Indonesia.",
+   "topic": "Joint Military Exercises in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "general-awareness-daily-2026-10-29-69",
+   "question": "In competitive general awareness, who or what is recognised as 'First Indian Institute of Technology was set up at'?",
+   "options": [
+    "Lion Capital of Ashoka",
+    "Trygve Lie",
+    "Kharagpur",
+    "Wally Herbert"
+   ],
+   "answer": 2,
+   "explanation": "First Indian Institute of Technology was set up at — Kharagpur.",
+   "topic": "General Awareness — Firsts in India, National Symbols & Institutions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "general-awareness-daily-2026-10-29-94",
+   "question": "In international general awareness, where is the permanent headquarters of 'UN High Commissioner for Refugees' located?",
+   "options": [
+    "Manila",
+    "Brussels",
+    "Geneva",
+    "The Hague"
+   ],
+   "answer": 2,
+   "explanation": "The headquarters of UN High Commissioner for Refugees is located at Geneva.",
+   "topic": "General Awareness — International Organisations & Headquarters",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "general-awareness-daily-2026-10-30-19",
+   "question": "In competitive general awareness, who or what is recognised as 'First Indian nuclear test was conducted at'?",
+   "options": [
+    "Banyan",
+    "Pokhran",
+    "Indian Elephant",
+    "G. V. Mavalankar"
+   ],
+   "answer": 1,
+   "explanation": "First Indian nuclear test was conducted at — Pokhran.",
+   "topic": "General Awareness — Firsts in India, National Symbols & Institutions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "general-awareness-daily-2026-10-30-44",
+   "question": "In international general awareness, where is the permanent headquarters of 'International Labour Organization' located?",
+   "options": [
+    "Nairobi",
+    "Geneva",
+    "Rome",
+    "Vienna"
+   ],
+   "answer": 1,
+   "explanation": "The headquarters of International Labour Organization is located at Geneva.",
+   "topic": "General Awareness — International Organisations & Headquarters",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "general-awareness-daily-2026-10-30-69",
+   "question": "With which country does India conduct the joint military or defence exercise 'Veer Guardian'?",
+   "options": [
+    "Kyrgyzstan",
+    "Mongolia",
+    "Seychelles",
+    "Japan"
+   ],
+   "answer": 3,
+   "explanation": "'Veer Guardian' is a joint bilateral air defence exercise between the Indian Air Force and JASDF conducted between India and Japan.",
+   "topic": "Joint Military Exercises in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "general-awareness-daily-2026-10-30-94",
+   "question": "In international general awareness, where is the permanent headquarters of 'OPEC' located?",
+   "options": [
+    "Vienna",
+    "Rome",
+    "Paris",
+    "Kathmandu"
+   ],
+   "answer": 0,
+   "explanation": "The headquarters of OPEC is located at Vienna.",
+   "topic": "General Awareness — International Organisations & Headquarters",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "general-awareness-daily-2026-10-31-19",
+   "question": "In competitive general awareness, who or what is recognised as 'First Winter Olympic Games were held in'?",
+   "options": [
+    "Abhinav Bindra",
+    "Pratibha Patil",
+    "King Cobra",
+    "Chamonix"
+   ],
+   "answer": 3,
+   "explanation": "First Winter Olympic Games were held in — Chamonix.",
+   "topic": "General Awareness — Firsts in India, National Symbols & Institutions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "general-awareness-daily-2026-10-31-44",
+   "question": "In international general awareness, where is the permanent headquarters of 'FIFA' located?",
+   "options": [
+    "Rome",
+    "Zurich",
+    "Dubai",
+    "Manila"
+   ],
+   "answer": 1,
+   "explanation": "The headquarters of FIFA is located at Zurich.",
+   "topic": "General Awareness — International Organisations & Headquarters",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "general-awareness-daily-2026-10-31-69",
+   "question": "With which country does India conduct the joint military or defence exercise 'Cyclone'?",
+   "options": [
+    "Kazakhstan",
+    "Kyrgyzstan",
+    "Seychelles",
+    "Egypt"
+   ],
+   "answer": 3,
+   "explanation": "'Cyclone' is a joint joint special forces exercise in desert warfare conducted between India and Egypt.",
+   "topic": "Joint Military Exercises in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "general-awareness-daily-2026-10-31-94",
+   "question": "In competitive general awareness, who or what is recognised as 'First Indian to climb Mount Everest'?",
+   "options": [
+    "Mahesh Bhupathi",
+    "Mango",
+    "Tenzing Norgay",
+    "Abhinav Bindra"
+   ],
+   "answer": 2,
+   "explanation": "First Indian to climb Mount Everest — Tenzing Norgay.",
+   "topic": "General Awareness — Firsts in India, National Symbols & Institutions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
   }
  ]
 };

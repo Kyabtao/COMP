@@ -12,7 +12,7 @@
   "railways"
  ],
  "blurb": "Civilian, gallantry, literary and international awards.",
- "count": 207,
+ "count": 243,
  "questions": [
   {
    "id": "awards-honours-00001",
@@ -3124,6 +3124,582 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "awards-honours-daily-2026-10-23-22",
+   "question": "For what distinction is '33rd Vyasa Samman (K. K. Birla Foundation)' recognised in recent awards and honours news?",
+   "options": [
+    "Johan Rockstrom",
+    "Pushpa Bharati for her Hindi memoir 'Yaadein, Yaadein aur Yaadein'",
+    "Daniel Barenboim and Ali Abu Awwad",
+    "Cary Fowler and Geoffrey Hawtin"
+   ],
+   "answer": 1,
+   "explanation": "33rd Vyasa Samman (K. K. Birla Foundation) — Pushpa Bharati for her Hindi memoir 'Yaadein, Yaadein aur Yaadein' (prestigious annual literary award for an outstanding Hindi literary work published in the preceding 10 years).",
+   "topic": "Awards, Laureates & Cultural Honours in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "awards-honours-daily-2026-10-23-47",
+   "question": "In awards and honours awareness, for excellence in which field is the 'Gandhi Peace Prize' conferred?",
+   "options": [
+    "Indian literary award",
+    "Indian award in science and technology",
+    "Highest literary award of India",
+    "Indian award for social work and peace"
+   ],
+   "answer": 3,
+   "explanation": "Gandhi Peace Prize is conferred for Indian award for social work and peace.",
+   "topic": "Awards & Honours — National & International Distinctions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "awards-honours-daily-2026-10-23-72",
+   "question": "In awards and honours awareness, for excellence in which field is the 'Dada Saheb Phalke Award' conferred?",
+   "options": [
+    "American award for journalism and letters",
+    "Asian award for public service",
+    "Awards for Indian cinema",
+    "Highest award in Indian cinema"
+   ],
+   "answer": 3,
+   "explanation": "Dada Saheb Phalke Award is conferred for Highest award in Indian cinema.",
+   "topic": "Awards & Honours — National & International Distinctions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "awards-honours-daily-2026-10-23-97",
+   "question": "In awards and honours awareness, for excellence in which field is the 'Infosys Prize' conferred?",
+   "options": [
+    "Indian award in agricultural science",
+    "Indian award for research",
+    "Second highest civilian award of India",
+    "Highest award in Indian cinema"
+   ],
+   "answer": 1,
+   "explanation": "Infosys Prize is conferred for Indian award for research.",
+   "topic": "Awards & Honours — National & International Distinctions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "awards-honours-daily-2026-10-24-22",
+   "question": "For what distinction is '2024 Stockholm Water Prize' recognised in recent awards and honours news?",
+   "options": [
+    "Pushpa Bharati for her Hindi memoir 'Yaadein, Yaadein aur Yaadein'",
+    "Johan Rockstrom",
+    "Taikan Oki (Japanese hydrologist, University of Tokyo)",
+    "Riken Yamamoto (Japanese architect)"
+   ],
+   "answer": 2,
+   "explanation": "2024 Stockholm Water Prize — Taikan Oki (Japanese hydrologist, University of Tokyo) (recognised for pioneering research connecting global hydrology, virtual water trade and climate change).",
+   "topic": "Awards, Laureates & Cultural Honours in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "awards-honours-daily-2026-10-24-47",
+   "question": "In awards and honours awareness, for excellence in which field is the 'Kalinga Prize' conferred?",
+   "options": [
+    "American award for films",
+    "Award for progress in spiritual matters",
+    "UNESCO award for popularisation of science",
+    "Alternative Nobel Prize"
+   ],
+   "answer": 2,
+   "explanation": "Kalinga Prize is conferred for UNESCO award for popularisation of science.",
+   "topic": "Awards & Honours — National & International Distinctions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "awards-honours-daily-2026-10-24-72",
+   "question": "In awards and honours awareness, for excellence in which field is the 'Nobel Prize' conferred?",
+   "options": [
+    "Highest peacetime gallantry award of India",
+    "International award for Physics, Chemistry, Medicine, Literature, Peace and Economics",
+    "Indian award for research",
+    "Outstanding performance in Indian sports"
+   ],
+   "answer": 1,
+   "explanation": "Nobel Prize is conferred for International award for Physics, Chemistry, Medicine, Literature, Peace and Economics.",
+   "topic": "Awards & Honours — National & International Distinctions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "awards-honours-daily-2026-10-24-97",
+   "question": "For what distinction is '59th Jnanpith Award Laureate' recognised in recent awards and honours news?",
+   "options": [
+    "Michel Talagrand (French mathematician, CNRS Paris)",
+    "Vinod Kumar Shukla (Hindi poet and novelist)",
+    "Hayao Miyazaki (co-founder of Studio Ghibli, Japan)",
+    "Johan Rockstrom"
+   ],
+   "answer": 1,
+   "explanation": "59th Jnanpith Award Laureate — Vinod Kumar Shukla (Hindi poet and novelist) (first author from Chhattisgarh to receive the Jnanpith Award, celebrated for novels like 'Naukar Ki Kameez' and 'Deewar Mein Ek Khirki Rahati Thi').",
+   "topic": "Awards, Laureates & Cultural Honours in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "awards-honours-daily-2026-10-25-22",
+   "question": "In awards and honours awareness, for excellence in which field is the 'Jnanpith Award' conferred?",
+   "options": [
+    "American award for music",
+    "Second highest peacetime gallantry award of India",
+    "Second highest civilian award of India",
+    "Highest literary award of India"
+   ],
+   "answer": 3,
+   "explanation": "Jnanpith Award is conferred for Highest literary award of India.",
+   "topic": "Awards & Honours — National & International Distinctions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "awards-honours-daily-2026-10-25-47",
+   "question": "For what distinction is '2024 Tyler Prize for Environmental Achievement' recognised in recent awards and honours news?",
+   "options": [
+    "Avi Wigderson",
+    "Johan Rockstrom",
+    "Taikan Oki (Japanese hydrologist, University of Tokyo)",
+    "Cary Fowler and Geoffrey Hawtin"
+   ],
+   "answer": 1,
+   "explanation": "2024 Tyler Prize for Environmental Achievement — Johan Rockstrom (awarded for leading the development of the 'Planetary Boundaries' scientific framework defining a safe operating space for humanity).",
+   "topic": "Awards, Laureates & Cultural Honours in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "awards-honours-daily-2026-10-25-72",
+   "question": "In awards and honours awareness, for excellence in which field is the 'Sangeet Natak Akademi Award' conferred?",
+   "options": [
+    "Award for progress in spiritual matters",
+    "Performing arts award of India",
+    "Literary award for Indian languages",
+    "American award for journalism and letters"
+   ],
+   "answer": 1,
+   "explanation": "Sangeet Natak Akademi Award is conferred for Performing arts award of India.",
+   "topic": "Awards & Honours — National & International Distinctions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "awards-honours-daily-2026-10-25-97",
+   "question": "In awards and honours awareness, for excellence in which field is the 'Vir Chakra' conferred?",
+   "options": [
+    "Third highest military decoration of India",
+    "Highest civilian award of India",
+    "Indian award for research",
+    "Second highest military decoration of India"
+   ],
+   "answer": 0,
+   "explanation": "Vir Chakra is conferred for Third highest military decoration of India.",
+   "topic": "Awards & Honours — National & International Distinctions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "awards-honours-daily-2026-10-26-22",
+   "question": "For what distinction is '33rd Saraswati Samman (K. K. Birla Foundation)' recognised in recent awards and honours news?",
+   "options": [
+    "Taikan Oki (Japanese hydrologist, University of Tokyo)",
+    "Cary Fowler and Geoffrey Hawtin",
+    "Prabha Varma for his Malayalam verse novel 'Roudra Sathwikam'",
+    "Johan Rockstrom"
+   ],
+   "answer": 2,
+   "explanation": "33rd Saraswati Samman (K. K. Birla Foundation) — Prabha Varma for his Malayalam verse novel 'Roudra Sathwikam' (annual award for outstanding prose or poetry in any of the 22 languages listed in the Eighth Schedule).",
+   "topic": "Awards, Laureates & Cultural Honours in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "awards-honours-daily-2026-10-26-47",
+   "question": "Which Japanese grassroots organisation of atomic bomb survivors (Hibakusha) was awarded the 2024 Nobel Peace Prize?",
+   "options": [
+    "ICAN",
+    "Pugwash Conferences",
+    "Nihon Hidankyo",
+    "Mayors for Peace"
+   ],
+   "answer": 2,
+   "explanation": "Nihon Hidankyo, the Japanese confederation of A- and H-bomb sufferers' organisations founded in 1956, received the 2024 Nobel Peace Prize for its efforts to achieve a world free of nuclear weapons.",
+   "topic": "Nobel Prizes",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "awards-honours-daily-2026-10-26-72",
+   "question": "In awards and honours awareness, for excellence in which field is the 'Indira Gandhi Prize' conferred?",
+   "options": [
+    "Highest peacetime gallantry award of India",
+    "Third highest civilian award of India",
+    "Lifetime achievement in Indian sports",
+    "Indian award for peace, disarmament and development"
+   ],
+   "answer": 3,
+   "explanation": "Indira Gandhi Prize is conferred for Indian award for peace, disarmament and development.",
+   "topic": "Awards & Honours — National & International Distinctions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "awards-honours-daily-2026-10-26-97",
+   "question": "In awards and honours awareness, for excellence in which field is the 'Padma Vibhushan' conferred?",
+   "options": [
+    "Alternative Nobel Prize",
+    "Second highest peacetime gallantry award of India",
+    "Third highest military decoration of India",
+    "Second highest civilian award of India"
+   ],
+   "answer": 3,
+   "explanation": "Padma Vibhushan is conferred for Second highest civilian award of India.",
+   "topic": "Awards & Honours — National & International Distinctions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "awards-honours-daily-2026-10-27-22",
+   "question": "Which four sportspersons were conferred the Major Dhyan Chand Khel Ratna Award announced in January 2025 for the 2024 sporting cycle?",
+   "options": [
+    "Neeraj Chopra, Satwiksairaj Rankireddy, Chirag Shetty and Mohammed Shami",
+    "Rohan Bopanna, Avani Lekhara, Sumit Antil and Nikhat Zareen",
+    "D. Gukesh, Manu Bhaker, Harmanpreet Singh and Praveen Kumar",
+    "Lakshya Sen, Aman Sehrawat, Swapnil Kusale and Sreejesh P. R."
+   ],
+   "answer": 2,
+   "explanation": "World Chess Champion D. Gukesh, Olympic medallist shooter Manu Bhaker, Indian men's hockey captain Harmanpreet Singh and Paralympic high-jump gold medallist Praveen Kumar received the Major Dhyan Chand Khel Ratna Award.",
+   "topic": "National Sports Awards",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "awards-honours-daily-2026-10-27-47",
+   "question": "In awards and honours awareness, for excellence in which field is the 'Shanti Swarup Bhatnagar Prize' conferred?",
+   "options": [
+    "Indian award in science and technology",
+    "Third highest military decoration of India",
+    "Coaching excellence in Indian sports",
+    "Awards for Indian cinema"
+   ],
+   "answer": 0,
+   "explanation": "Shanti Swarup Bhatnagar Prize is conferred for Indian award in science and technology.",
+   "topic": "Awards & Honours — National & International Distinctions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "awards-honours-daily-2026-10-27-72",
+   "question": "In awards and honours awareness, for excellence in which field is the 'Kirti Chakra' conferred?",
+   "options": [
+    "Indian literary award",
+    "Third highest peacetime gallantry award of India",
+    "Performing arts award of India",
+    "Second highest peacetime gallantry award of India"
+   ],
+   "answer": 3,
+   "explanation": "Kirti Chakra is conferred for Second highest peacetime gallantry award of India.",
+   "topic": "Awards & Honours — National & International Distinctions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "awards-honours-daily-2026-10-27-97",
+   "question": "For what distinction is '2024 Turing Award (ACM A.M. Turing Award)' recognised in recent awards and honours news?",
+   "options": [
+    "Prabha Varma for his Malayalam verse novel 'Roudra Sathwikam'",
+    "Avi Wigderson",
+    "Taikan Oki (Japanese hydrologist, University of Tokyo)",
+    "Gulzar (Urdu) and Jagadguru Rambhadracharya (Sanskrit)"
+   ],
+   "answer": 1,
+   "explanation": "2024 Turing Award (ACM A.M. Turing Award) — Avi Wigderson (honoured for reshaping the theoretical understanding of randomness and pseudorandomness in computational complexity).",
+   "topic": "Awards, Laureates & Cultural Honours in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "awards-honours-daily-2026-10-28-22",
+   "question": "In awards and honours awareness, for excellence in which field is the 'Saraswati Samman' conferred?",
+   "options": [
+    "Highest sporting honour of India",
+    "Award for progress in spiritual matters",
+    "Second highest peacetime gallantry award of India",
+    "Indian literary award"
+   ],
+   "answer": 3,
+   "explanation": "Saraswati Samman is conferred for Indian literary award.",
+   "topic": "Awards & Honours — National & International Distinctions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "awards-honours-daily-2026-10-28-47",
+   "question": "For what distinction is 'Indira Gandhi Prize for Peace, Disarmament and Development (2023)' recognised in recent awards and honours news?",
+   "options": [
+    "Avi Wigderson",
+    "Daniel Barenboim and Ali Abu Awwad",
+    "Taikan Oki (Japanese hydrologist, University of Tokyo)",
+    "Gulzar (Urdu) and Jagadguru Rambhadracharya (Sanskrit)"
+   ],
+   "answer": 1,
+   "explanation": "Indira Gandhi Prize for Peace, Disarmament and Development (2023) — Daniel Barenboim and Ali Abu Awwad (awarded jointly to the classical maestro and the Palestinian peace activist for bringing youth together through music and non-violent dialogue).",
+   "topic": "Awards, Laureates & Cultural Honours in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "awards-honours-daily-2026-10-28-72",
+   "question": "In awards and honours awareness, for excellence in which field is the 'Padma Bhushan' conferred?",
+   "options": [
+    "British award for fiction",
+    "Highest peacetime gallantry award of India",
+    "Third highest civilian award of India",
+    "American award for journalism and letters"
+   ],
+   "answer": 2,
+   "explanation": "Padma Bhushan is conferred for Third highest civilian award of India.",
+   "topic": "Awards & Honours — National & International Distinctions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "awards-honours-daily-2026-10-28-97",
+   "question": "In awards and honours awareness, for excellence in which field is the 'Major Dhyan Chand Khel Ratna Award' conferred?",
+   "options": [
+    "Highest sporting honour of India",
+    "American award for music",
+    "Third highest peacetime gallantry award of India",
+    "International award for Physics, Chemistry, Medicine, Literature, Peace and Economics"
+   ],
+   "answer": 0,
+   "explanation": "Major Dhyan Chand Khel Ratna Award is conferred for Highest sporting honour of India.",
+   "topic": "Awards & Honours — National & International Distinctions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "awards-honours-daily-2026-10-29-22",
+   "question": "In awards and honours awareness, for excellence in which field is the 'National Bravery Award' conferred?",
+   "options": [
+    "Highest sporting honour of India",
+    "Award for brave children in India",
+    "American award for music",
+    "Highest civilian award of India"
+   ],
+   "answer": 1,
+   "explanation": "National Bravery Award is conferred for Award for brave children in India.",
+   "topic": "Awards & Honours — National & International Distinctions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "awards-honours-daily-2026-10-29-47",
+   "question": "In awards and honours awareness, for excellence in which field is the 'Pulitzer Prize' conferred?",
+   "options": [
+    "Literary award for Indian languages",
+    "American award for journalism and letters",
+    "Second highest peacetime gallantry award of India",
+    "Indian award in science and technology"
+   ],
+   "answer": 1,
+   "explanation": "Pulitzer Prize is conferred for American award for journalism and letters.",
+   "topic": "Awards & Honours — National & International Distinctions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "awards-honours-daily-2026-10-29-72",
+   "question": "In awards and honours awareness, for excellence in which field is the 'Maha Vir Chakra' conferred?",
+   "options": [
+    "Award for brave children in India",
+    "Highest sporting honour of India",
+    "Outstanding performance in Indian sports",
+    "Second highest military decoration of India"
+   ],
+   "answer": 3,
+   "explanation": "Maha Vir Chakra is conferred for Second highest military decoration of India.",
+   "topic": "Awards & Honours — National & International Distinctions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "awards-honours-daily-2026-10-29-97",
+   "question": "In awards and honours awareness, for excellence in which field is the 'Dhyan Chand Award' conferred?",
+   "options": [
+    "British award for fiction",
+    "Indian literary award",
+    "Lifetime achievement in Indian sports",
+    "Indian award for social work and peace"
+   ],
+   "answer": 2,
+   "explanation": "Dhyan Chand Award is conferred for Lifetime achievement in Indian sports.",
+   "topic": "Awards & Honours — National & International Distinctions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "awards-honours-daily-2026-10-30-22",
+   "question": "In awards and honours awareness, for excellence in which field is the 'Arjuna Award' conferred?",
+   "options": [
+    "Performing arts award of India",
+    "Second highest peacetime gallantry award of India",
+    "Outstanding performance in Indian sports",
+    "Third highest military decoration of India"
+   ],
+   "answer": 2,
+   "explanation": "Arjuna Award is conferred for Outstanding performance in Indian sports.",
+   "topic": "Awards & Honours — National & International Distinctions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "awards-honours-daily-2026-10-30-47",
+   "question": "For what distinction is '2024 World Food Prize Laureates' recognised in recent awards and honours news?",
+   "options": [
+    "Cary Fowler and Geoffrey Hawtin",
+    "Michel Talagrand (French mathematician, CNRS Paris)",
+    "Vinod Kumar Shukla (Hindi poet and novelist)",
+    "Riken Yamamoto (Japanese architect)"
+   ],
+   "answer": 0,
+   "explanation": "2024 World Food Prize Laureates — Cary Fowler and Geoffrey Hawtin (honoured for their leadership in conserving crop biodiversity and establishing the Svalbard Global Seed Vault in Norway).",
+   "topic": "Awards, Laureates & Cultural Honours in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "awards-honours-daily-2026-10-30-72",
+   "question": "In awards and honours awareness, for excellence in which field is the 'Grammy Award' conferred?",
+   "options": [
+    "American award for music",
+    "Coaching excellence in Indian sports",
+    "Indian award for peace, disarmament and development",
+    "Indian literary award"
+   ],
+   "answer": 0,
+   "explanation": "Grammy Award is conferred for American award for music.",
+   "topic": "Awards & Honours — National & International Distinctions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "awards-honours-daily-2026-10-30-97",
+   "question": "In awards and honours awareness, for excellence in which field is the 'Shaurya Chakra' conferred?",
+   "options": [
+    "Third highest peacetime gallantry award of India",
+    "Indian literary award",
+    "Highest military decoration of India",
+    "Second highest military decoration of India"
+   ],
+   "answer": 0,
+   "explanation": "Shaurya Chakra is conferred for Third highest peacetime gallantry award of India.",
+   "topic": "Awards & Honours — National & International Distinctions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "awards-honours-daily-2026-10-31-22",
+   "question": "In awards and honours awareness, for excellence in which field is the 'Ashoka Chakra' conferred?",
+   "options": [
+    "Indian award for peace, disarmament and development",
+    "International award for Physics, Chemistry, Medicine, Literature, Peace and Economics",
+    "Performing arts award of India",
+    "Highest peacetime gallantry award of India"
+   ],
+   "answer": 3,
+   "explanation": "Ashoka Chakra is conferred for Highest peacetime gallantry award of India.",
+   "topic": "Awards & Honours — National & International Distinctions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "awards-honours-daily-2026-10-31-47",
+   "question": "In awards and honours awareness, for excellence in which field is the 'Padma Shri' conferred?",
+   "options": [
+    "Highest civilian award of India",
+    "Fourth highest civilian award of India",
+    "American award for journalism and letters",
+    "Indian award in agricultural science"
+   ],
+   "answer": 1,
+   "explanation": "Padma Shri is conferred for Fourth highest civilian award of India.",
+   "topic": "Awards & Honours — National & International Distinctions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "awards-honours-daily-2026-10-31-72",
+   "question": "In awards and honours awareness, for excellence in which field is the 'Booker Prize' conferred?",
+   "options": [
+    "Indian award for social work and peace",
+    "Alternative Nobel Prize",
+    "British award for fiction",
+    "American award for films"
+   ],
+   "answer": 2,
+   "explanation": "Booker Prize is conferred for British award for fiction.",
+   "topic": "Awards & Honours — National & International Distinctions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "awards-honours-daily-2026-10-31-97",
+   "question": "In awards and honours awareness, for excellence in which field is the 'Right Livelihood Award' conferred?",
+   "options": [
+    "Indian literary award",
+    "Alternative Nobel Prize",
+    "American award for journalism and letters",
+    "Highest civilian award of India"
+   ],
+   "answer": 1,
+   "explanation": "Right Livelihood Award is conferred for Alternative Nobel Prize.",
+   "topic": "Awards & Honours — National & International Distinctions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
   }
  ]
 };

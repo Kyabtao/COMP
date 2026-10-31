@@ -184,6 +184,15 @@
   function store() { return window.QBANK_CATEGORIES || {}; }
   function manifest() { return window.QBANK_MANIFEST || []; }
 
+  function isCategoryLoaded(slug) {
+    var s = store();
+    if (s[slug] && Array.isArray(s[slug].questions)) return true;
+    var prefix = slug + ":part-";
+    return Object.keys(s).some(function (key) {
+      return key.indexOf(prefix) === 0 && s[key] && Array.isArray(s[key].questions);
+    });
+  }
+
   function questionsFor(slug) {
     var s = store(), out = [];
     if (s[slug]) out = out.concat(s[slug].questions || []);
@@ -194,9 +203,36 @@
   }
 
   function totalQuestions() {
-    var s = store(), n = 0;
-    Object.keys(s).forEach(function (k) { if (s[k] && s[k].questions) n += s[k].questions.length; });
-    return n;
+    var s = store(), cats = manifest();
+    if (!cats.length) {
+      var n = 0;
+      Object.keys(s).forEach(function (k) { if (s[k] && s[k].questions) n += s[k].questions.length; });
+      return n;
+    }
+    var total = 0;
+    cats.forEach(function (c) {
+      if (isCategoryLoaded(c.slug) && !c.parts) {
+        total += questionsFor(c.slug).length;
+      } else {
+        total += Number(c.count) || 0;
+      }
+    });
+    return total;
+  }
+
+  /** Exact available count for a category at `levels` without requiring the category file to be downloaded first. */
+  function availableCountFor(slug, levels) {
+    var meta = manifest().filter(function (c) { return c.slug === slug; })[0];
+    if (isCategoryLoaded(slug) && (!meta || !meta.parts)) {
+      return questionsFor(slug).filter(function (q) { return levels.indexOf(q.level) !== -1; }).length;
+    }
+    if (!meta) return 0;
+    if (meta.levelCounts) {
+      return levels.reduce(function (sum, lv) {
+        return sum + (Number(meta.levelCounts[lv]) || 0);
+      }, 0);
+    }
+    return Number(meta.count) || 0;
   }
 
   /** Merged target maps to question difficulty. */
@@ -398,22 +434,71 @@
   }
 
   /* ------------------------------------------------------------------ */
-  /* daily dose (fresh questions published every morning)               */
+  /* daily dose & old date papers                                       */
   /* ------------------------------------------------------------------ */
   function dailySets() {
     var sets = {};
+    var seenByDate = {};
+    function addDailyItem(q, fallbackSlug, fallbackDate) {
+      if (!q) return;
+      var d = q.dailyDate || fallbackDate;
+      if (!d) return;
+      seenByDate[d] = seenByDate[d] || {};
+      var dedupKey = (q.id || "") + "|" + (q.question || "");
+      if (seenByDate[d][dedupKey]) return;
+      seenByDate[d][dedupKey] = true;
+      var item = Object.assign({ category: q.category || fallbackSlug || "daily", source: "daily", dailyDate: d }, q);
+      (sets[d] = sets[d] || []).push(item);
+    }
+    /* Fast path: index.js embeds the latest day's set so #/ and #/daily work in 0ms before categories load. */
+    var dailyIdx = window.QBANK_DAILY_INDEX;
+    if (dailyIdx && Array.isArray(dailyIdx.questions)) {
+      dailyIdx.questions.forEach(function (q) {
+        addDailyItem(q, q.category || "daily", dailyIdx.date);
+      });
+    }
+    /* On-demand loaded date papers from tools/daily/YYYY-MM-DD.js */
+    var loadedDateSets = window.QBANK_DAILY_SETS || {};
+    Object.keys(loadedDateSets).forEach(function (dKey) {
+      var payload = loadedDateSets[dKey];
+      if (payload && Array.isArray(payload.questions)) {
+        payload.questions.forEach(function (q, idx) {
+          var withId = q.id ? q : Object.assign({ id: (q.category || "daily") + "-daily-" + dKey + "-" + String(idx + 1).padStart(2, "0") }, q);
+          addDailyItem(withId, q.category || "daily", payload.date || dKey);
+        });
+      }
+    });
     Object.keys(store()).forEach(function (key) {
+      var catSlug = (store()[key] && store()[key].slug) || key.split(":")[0];
       ((store()[key] || {}).questions || []).forEach(function (q) {
-        if (q.source === "daily" && q.dailyDate) {
-          (sets[q.dailyDate] = sets[q.dailyDate] || []).push(q);
-        }
+        if (q && q.source === "daily" && q.dailyDate) addDailyItem(q, catSlug, q.dailyDate);
       });
     });
     return sets;
   }
+
+  /** All published daily dates (newest first) with question counts, combining manifest metadata and loaded sets. */
+  function availableDailyDates(sets) {
+    var byDate = {};
+    var dailyIdx = window.QBANK_DAILY_INDEX;
+    if (dailyIdx && Array.isArray(dailyIdx.dates)) {
+      dailyIdx.dates.forEach(function (entry) {
+        if (entry && entry.date) byDate[entry.date] = Number(entry.count) || 0;
+      });
+    }
+    var currentSets = sets || dailySets();
+    Object.keys(currentSets).forEach(function (d) {
+      var len = (currentSets[d] || []).length;
+      if (!byDate[d] || len > byDate[d]) byDate[d] = len;
+    });
+    return Object.keys(byDate).sort().reverse().map(function (d) {
+      return { date: d, count: byDate[d] };
+    });
+  }
+
   function latestDailyDate(sets) {
-    var dates = Object.keys(sets).sort();
-    return dates.length ? dates[dates.length - 1] : null;
+    var list = availableDailyDates(sets);
+    return list.length ? list[0].date : null;
   }
   function todayLocal() {
     var d = new Date();
@@ -428,7 +513,48 @@
   /** Today\u2019s set when it has published, otherwise the latest available day. */
   function dailyDateToShow(sets) {
     var today = todayLocal();
-    return sets[today] ? today : latestDailyDate(sets);
+    if (sets && sets[today] && sets[today].length) return today;
+    var list = availableDailyDates(sets);
+    for (var i = 0; i < list.length; i++) {
+      if (list[i].date === today) return today;
+    }
+    return latestDailyDate(sets);
+  }
+
+  /** Build `<option>` tags for selecting any published date paper (newest to oldest). */
+  function dailyDateOptionsHtml(selectedDate, sets) {
+    var list = availableDailyDates(sets);
+    var latest = list.length ? list[0].date : null;
+    return list.map(function (entry) {
+      var tag = entry.date === todayLocal() ? " (Today)" : (entry.date === latest ? " (Latest)" : "");
+      var label = prettyDate(entry.date) + tag + " \u2014 " + entry.count + " Q";
+      return '<option value="' + esc(entry.date) + '"' + (entry.date === selectedDate ? " selected" : "") + '>' + esc(label) + '</option>';
+    }).join("");
+  }
+
+  /** Ensure a specific date's questions are loaded in memory before invoking `cb(sets)`. */
+  function ensureDailyDateLoaded(dateStr, cb) {
+    var sets = dailySets();
+    var expected = 0;
+    availableDailyDates(sets).forEach(function (e) { if (e.date === dateStr) expected = e.count; });
+    var have = (sets[dateStr] || []).length;
+    if (have > 0 && (!expected || have >= expected)) {
+      cb(sets);
+      return;
+    }
+    if (window.QBANK_LOADER && typeof window.QBANK_LOADER.ensureDailyDate === "function") {
+      app.innerHTML = "";
+      app.appendChild(el('<section class="card center loading-card">' +
+        '<span class="loading-emoji" aria-hidden="true">\uD83D\uDCC5</span>' +
+        '<h2>Loading ' + esc(prettyDate(dateStr)) + ' paper\u2026</h2>' +
+        '<p class="muted">Fetching date paper questions on demand.</p>' +
+      '</section>'));
+      window.QBANK_LOADER.ensureDailyDate(dateStr, function () {
+        cb(dailySets());
+      });
+      return;
+    }
+    cb(sets);
   }
 
   /* ------------------------------------------------------------------ */
@@ -462,22 +588,45 @@
           '</div>' +
           '<button class="primary" id="start-exam" type="button">\u25B6 Set up a paper</button>' +
           '<button class="secondary" id="browse-practice" type="button">Practise by category</button>' +
+          '<button class="ghost" id="hero-open-archive" type="button">\uD83D\uDDC2 Old date archive</button>' +
           '<p class="hint" id="home-plan">' + plan.questions + ' questions \u00B7 ' + plan.minutes + ' minutes \u00B7 ' + esc(markingText(plan)) + ' \u00B7 ' + length + ' question drills</p>' +
         '</div>' +
       '</section>'
     ));
+    document.getElementById("hero-open-archive").addEventListener("click", function () { location.hash = "#/daily/archive"; });
 
     var sets = dailySets();
     var dailyDate = dailyDateToShow(sets);
+    var dateList = availableDailyDates(sets);
     if (dailyDate) {
-      var fresh = sets[dailyDate].length;
+      var fresh = (sets[dailyDate] && sets[dailyDate].length) || (dateList[0] && dateList[0].count) || 0;
       var challengeCount = Math.min(DAILY_CHALLENGE_COUNT, fresh);
       app.appendChild(el('<section class="card daily-strip"><div>' +
         '<span class="badge good">\uD83D\uDCC5 New ' + (dailyDate === todayLocal() ? "today" : prettyDate(dailyDate)) + '</span>' +
         '<h2>Daily dose \u2014 ' + fresh + ' fresh question' + (fresh === 1 ? "" : "s") + '</h2>' +
         '<p class="muted small">Published ' + prettyDate(dailyDate) + ' \u00B7 ' + challengeCount + ' random question' + (challengeCount === 1 ? "" : "s") + ' per daily challenge, with instant explanations.</p>' +
-        '</div><button class="primary" id="start-daily" type="button">\u25B6 Start the drill</button></section>'));
-      document.getElementById("start-daily").addEventListener("click", function () { location.hash = "#/daily"; });
+        '</div>' +
+        '<div class="toolbar">' +
+          '<label class="sr-only" for="daily-home-date">Select date paper</label>' +
+          '<select id="daily-home-date" class="compact-select" aria-label="Select date paper">' +
+            dailyDateOptionsHtml(dailyDate, sets) +
+          '</select>' +
+          '<button class="primary" id="start-daily" type="button">\u25B6 Start the drill</button>' +
+          '<button class="secondary" id="view-daily-paper" type="button">\uD83D\uDCC4 View date paper</button>' +
+          '<button class="ghost" id="browse-daily-archive" type="button">\uD83D\uDDC2 Old date papers (' + dateList.length + ')</button>' +
+        '</div></section>'));
+      document.getElementById("start-daily").addEventListener("click", function () {
+        var pickedDate = document.getElementById("daily-home-date").value;
+        location.hash = (!pickedDate || pickedDate === dailyDate) ? "#/daily" : "#/daily/" + pickedDate;
+      });
+      document.getElementById("view-daily-paper").addEventListener("click", function () {
+        var pickedDate = document.getElementById("daily-home-date").value || dailyDate;
+        location.hash = "#/daily/" + pickedDate + "/paper";
+      });
+      var archiveBtn = document.getElementById("browse-daily-archive");
+      if (archiveBtn) {
+        archiveBtn.addEventListener("click", function () { location.hash = "#/daily/archive"; });
+      }
     }
 
     app.appendChild(el('<section class="card"><div class="card-head"><div>' +
@@ -533,6 +682,19 @@
   function viewPractice(slug) {
     var meta = manifest().filter(function (c) { return c.slug === slug; })[0];
     if (!meta) { location.hash = "#/practice"; return; }
+    if (!isCategoryLoaded(slug) && window.QBANK_LOADER && typeof window.QBANK_LOADER.ensure === "function") {
+      app.innerHTML = "";
+      app.appendChild(el('<section class="card center loading-card">' +
+        '<span class="loading-emoji" aria-hidden="true">\uD83D\uDCDA</span>' +
+        '<h2>Loading ' + esc(meta.name) + '\u2026</h2>' +
+        '<p class="muted">Fetching this category on demand.</p>' +
+      '</section>'));
+      window.QBANK_LOADER.ensure([slug], function () {
+        updateStats();
+        viewPractice(slug);
+      });
+      return;
+    }
     var levels = levelsForTarget(currentTarget());
     var pool = questionsFor(slug).filter(function (q) { return levels.indexOf(q.level) !== -1; });
     var length = drillLength();
@@ -542,9 +704,9 @@
     renderQuestion();
   }
 
-  function viewDaily() {
-    var sets = dailySets();
-    var date = dailyDateToShow(sets);
+  function viewDaily(requestedDate, fullPaper) {
+    var initialSets = dailySets();
+    var date = requestedDate || dailyDateToShow(initialSets);
     if (!date) {
       state.mode = null;
       state.session = null;
@@ -556,14 +718,222 @@
       document.getElementById("daily-home").addEventListener("click", function () { location.hash = "#/"; });
       return;
     }
-    var pool = sets[date].slice();
-    var set = shuffle(pool).slice(0, DAILY_CHALLENGE_COUNT);
-    state.mode = "practice";
-    state.session = {
-      kind: "daily", slug: "daily", name: "Daily Dose \u2014 " + prettyDate(date), date: date,
-      questions: set, poolSize: pool.length, index: 0, answers: [], revealed: [], length: set.length
-    };
-    renderQuestion();
+    ensureDailyDateLoaded(date, function (sets) {
+      var pool = (sets[date] || []).slice();
+      if (!pool.length) {
+        location.hash = "#/daily/archive";
+        return;
+      }
+      var set;
+      if (fullPaper) {
+        set = pool.slice();
+      } else {
+        /* Sample round-robin across shuffled subject buckets so the 10-question daily challenge spans Science, Math, English & other subjects. */
+        var byCat = {};
+        pool.forEach(function (q) {
+          var cat = q.category || "daily";
+          (byCat[cat] = byCat[cat] || []).push(q);
+        });
+        var catKeys = shuffle(Object.keys(byCat));
+        var buckets = catKeys.map(function (k) { return shuffle(byCat[k]); });
+        var picked = [], cursors = buckets.map(function () { return 0; }), step = 0, empty = 0;
+        var limit = Math.min(DAILY_CHALLENGE_COUNT, pool.length);
+        while (picked.length < limit && empty < buckets.length) {
+          var b = step % buckets.length;
+          if (cursors[b] < buckets[b].length) {
+            picked.push(buckets[b][cursors[b]++]);
+            empty = 0;
+          } else {
+            empty++;
+          }
+          step++;
+        }
+        set = shuffle(picked);
+      }
+      state.mode = "practice";
+      state.session = {
+        kind: "daily", slug: "daily", name: "Daily Dose \u2014 " + prettyDate(date), date: date,
+        fullPaper: Boolean(fullPaper),
+        questions: set, poolSize: pool.length, index: 0, answers: [], revealed: [], length: set.length
+      };
+      renderQuestion();
+    });
+  }
+
+  /** Browse all questions of a specific date paper (current or any old date) with subject filter, search & answer reveal. */
+  function viewDailyPaper(requestedDate) {
+    var initialSets = dailySets();
+    var date = requestedDate || dailyDateToShow(initialSets);
+    if (!date) { location.hash = "#/daily"; return; }
+    ensureDailyDateLoaded(date, function (sets) {
+      var pool = (sets[date] || []).slice();
+      var dateList = availableDailyDates(sets);
+      var categoriesInPaper = [];
+      pool.forEach(function (q) {
+        var c = q.category || "general-knowledge";
+        if (categoriesInPaper.indexOf(c) === -1) categoriesInPaper.push(c);
+      });
+      categoriesInPaper.sort();
+
+      app.innerHTML = "";
+      var wrap = el('<section class="card">' +
+        '<div class="card-head"><div>' +
+          '<span class="badge good">\uD83D\uDCC5 Date Paper \u00B7 ' + esc(prettyDate(date)) + '</span>' +
+          '<h1>' + esc(prettyDate(date)) + ' \u2014 Question Paper (' + pool.length + ' questions)</h1>' +
+          '<p class="muted">Complete daily question paper covering ' + categoriesInPaper.length + ' subject' + (categoriesInPaper.length === 1 ? "" : "s") + '. Switch to any old date, filter by subject, or practise this set.</p>' +
+        '</div></div>' +
+        '<div class="filter-bar">' +
+          '<label class="field inline" for="paper-date-select">Date paper</label>' +
+          '<select id="paper-date-select" class="compact-select" aria-label="Date paper">' +
+            dailyDateOptionsHtml(date, sets) +
+          '</select>' +
+          '<label class="field inline" for="paper-cat-filter">Subject</label>' +
+          '<select id="paper-cat-filter" class="compact-select" aria-label="Filter by subject">' +
+            '<option value="all">All subjects (' + pool.length + ')</option>' +
+            categoriesInPaper.map(function (slug) {
+              var count = pool.filter(function (q) { return q.category === slug; }).length;
+              return '<option value="' + esc(slug) + '">' + esc(sectionLabel(slug)) + ' (' + count + ')</option>';
+            }).join("") +
+          '</select>' +
+          '<label class="search"><span aria-hidden="true">\uD83D\uDD0D</span>' +
+            '<input type="search" id="paper-search" placeholder="Search questions in this paper\u2026" aria-label="Search questions in this paper" />' +
+          '</label>' +
+          '<span class="filter-note" id="paper-note"></span>' +
+        '</div>' +
+        '<div class="toolbar">' +
+          '<button class="primary" id="paper-start-10" type="button">\u25B6 10-Q Random Challenge</button>' +
+          (pool.length > DAILY_CHALLENGE_COUNT
+            ? '<button class="secondary" id="paper-start-all" type="button">\u25B6 Practise All ' + pool.length + ' Questions</button>'
+            : "") +
+          '<button class="secondary" id="toggle-paper-answers" type="button">Show all answers</button>' +
+          (dateList.length > 1 ? '<button class="ghost" id="paper-open-archive" type="button">\uD83D\uDDC2 All old date papers (' + dateList.length + ')</button>' : "") +
+        '</div>' +
+        '<div id="paper-questions-list" class="review-list"></div>' +
+      '</section>');
+      app.appendChild(wrap);
+
+      var showAllAnswers = false;
+      var listHost = wrap.querySelector("#paper-questions-list");
+      var catFilter = wrap.querySelector("#paper-cat-filter");
+      var searchInput = wrap.querySelector("#paper-search");
+      var noteEl = wrap.querySelector("#paper-note");
+      var toggleBtn = wrap.querySelector("#toggle-paper-answers");
+
+      function renderPaperList() {
+        var chosenCat = catFilter.value;
+        var qSearch = (searchInput.value || "").trim().toLowerCase();
+        listHost.innerHTML = "";
+        var shown = 0;
+        pool.forEach(function (q, idx) {
+          if (chosenCat !== "all" && q.category !== chosenCat) return;
+          if (qSearch) {
+            var hay = (q.question + " " + (q.topic || "") + " " + (q.options || []).join(" ") + " " + (q.explanation || "")).toLowerCase();
+            if (hay.indexOf(qSearch) === -1) return;
+          }
+          shown++;
+          var item = el('<div class="review-item" data-q-idx="' + idx + '">' +
+            '<div class="qhead">' +
+              '<div class="left">' +
+                '<span class="badge plain">Q' + (idx + 1) + '</span> ' +
+                '<span class="badge">' + esc(sectionLabel(q.category || "daily")) + '</span>' +
+                (q.topic ? ' <span class="chip">' + esc(q.topic) + '</span>' : "") +
+                ' <span class="chip">Level ' + (q.level || 2) + '</span>' +
+              '</div>' +
+              '<button class="ghost toggle-single-ans" type="button">' + (showAllAnswers ? "Hide answer" : "Show answer") + '</button>' +
+            '</div>' +
+            '<p class="qtext">' + esc(q.question) + '</p>' +
+            '<div class="review-opts">' + (q.options || []).map(function (o, oi) {
+              var cls = showAllAnswers && oi === q.answer ? " is-answer" : "";
+              return '<span class="review-opt' + cls + '" data-oi="' + oi + '"><span class="letter">' + letter(oi) + '</span><span>' + esc(o) + '</span></span>';
+            }).join("") + '</div>' +
+            '<div class="explain small is-correct"' + (showAllAnswers ? "" : ' style="display:none"') + '>' +
+              answerExplanation(q) +
+            '</div>' +
+          '</div>');
+          var singleBtn = item.querySelector(".toggle-single-ans");
+          var explainBox = item.querySelector(".explain");
+          var optSpans = item.querySelectorAll(".review-opt");
+          singleBtn.addEventListener("click", function () {
+            var hidden = explainBox.style.display === "none";
+            explainBox.style.display = hidden ? "" : "none";
+            singleBtn.textContent = hidden ? "Hide answer" : "Show answer";
+            if (optSpans[q.answer]) optSpans[q.answer].classList.toggle("is-answer", hidden);
+          });
+          listHost.appendChild(item);
+        });
+        if (noteEl) noteEl.textContent = "Showing " + shown + " of " + pool.length + " questions";
+        if (!shown) listHost.appendChild(el('<p class="empty">No questions match this filter.</p>'));
+      }
+
+      renderPaperList();
+
+      wrap.querySelector("#paper-date-select").addEventListener("change", function (e) {
+        location.hash = "#/daily/" + e.target.value + "/paper";
+      });
+      catFilter.addEventListener("change", renderPaperList);
+      searchInput.addEventListener("input", renderPaperList);
+      toggleBtn.addEventListener("click", function () {
+        showAllAnswers = !showAllAnswers;
+        toggleBtn.textContent = showAllAnswers ? "Hide all answers" : "Show all answers";
+        renderPaperList();
+      });
+      wrap.querySelector("#paper-start-10").addEventListener("click", function () {
+        location.hash = "#/daily/" + date;
+      });
+      var startAllBtn = wrap.querySelector("#paper-start-all");
+      if (startAllBtn) {
+        startAllBtn.addEventListener("click", function () {
+          location.hash = "#/daily/" + date + "/all";
+        });
+      }
+      var archiveBtn = wrap.querySelector("#paper-open-archive");
+      if (archiveBtn) {
+        archiveBtn.addEventListener("click", function () {
+          location.hash = "#/daily/archive";
+        });
+      }
+    });
+  }
+
+  /** Archive view listing all published daily papers (current and old dates). */
+  function viewDailyArchive() {
+    var sets = dailySets();
+    var dateList = availableDailyDates(sets);
+    app.innerHTML = "";
+    if (!dateList.length) {
+      viewDaily();
+      return;
+    }
+    var latest = dateList[0].date;
+    var card = el('<section class="card">' +
+      '<div class="card-head"><div>' +
+        '<span class="badge good">\uD83D\uDDC2 Past & Current Date Papers</span>' +
+        '<h1>Daily & Old Date Question Papers</h1>' +
+        '<p class="muted">Browse every published daily paper by date. You can view the full question paper with solutions, take a 10-question random challenge, or practise all questions from any date.</p>' +
+      '</div><span class="badge plain">' + dateList.length + ' date paper' + (dateList.length === 1 ? "" : "s") + '</span></div>' +
+      '<div class="table-scroll"><table><thead><tr><th>Date</th><th>Status</th><th>Questions in Paper</th><th>Actions</th></tr></thead><tbody>' +
+      dateList.map(function (entry) {
+        var d = entry.date;
+        var badge = d === todayLocal()
+          ? '<span class="badge good">Today</span>'
+          : (d === latest ? '<span class="badge">Latest</span>' : '<span class="badge plain">Past paper</span>');
+        var chCount = Math.min(DAILY_CHALLENGE_COUNT, entry.count);
+        return '<tr data-archive-date="' + esc(d) + '">' +
+          '<td><strong>' + esc(prettyDate(d)) + '</strong> <span class="muted small">(' + esc(d) + ')</span></td>' +
+          '<td>' + badge + '</td>' +
+          '<td>' + entry.count + ' question' + (entry.count === 1 ? "" : "s") + '</td>' +
+          '<td><div class="toolbar">' +
+            '<a class="secondary" href="#/daily/' + esc(d) + '/paper">\uD83D\uDCC4 View full paper</a> ' +
+            '<a class="primary" href="#/daily/' + esc(d) + '">\u25B6 ' + chCount + '-Q Challenge</a> ' +
+            (entry.count > DAILY_CHALLENGE_COUNT ? '<a class="ghost" href="#/daily/' + esc(d) + '/all">\u25B6 All ' + entry.count + ' Qs</a>' : "") +
+          '</div></td>' +
+        '</tr>';
+      }).join("") +
+      '</tbody></table></div>' +
+      '<div class="toolbar"><button class="secondary" id="archive-home" type="button">Back to home</button></div>' +
+    '</section>');
+    app.appendChild(card);
+    document.getElementById("archive-home").addEventListener("click", function () { location.hash = "#/"; });
   }
 
   function viewPracticeIndex() {
@@ -572,7 +942,7 @@
     var levels = levelsForTarget(target);
     var length = drillLength();
     var countFn = function (c) {
-      var available = questionsFor(c.slug).filter(function (q) { return levels.indexOf(q.level) !== -1; }).length;
+      var available = availableCountFor(c.slug, levels);
       return available.toLocaleString("en-IN") + " of " + Number(c.count).toLocaleString("en-IN") + " ready";
     };
     app.innerHTML = "";
@@ -589,6 +959,7 @@
         '<label class="search"><span aria-hidden="true">\uD83D\uDD0D</span>' +
           '<input type="search" id="cat-search" placeholder="Search categories\u2026" aria-label="Search categories" />' +
         '</label>' +
+        '<a class="ghost" href="#/daily/archive" data-archive-nav="true">\uD83D\uDDC2 Old date archive</a>' +
         '<span class="filter-note" id="cat-note"></span>' +
       '</div>' +
       '<div id="cat-sections"></div></section>'));
@@ -613,13 +984,28 @@
 
     app.innerHTML = "";
     var pct = Math.round(((s.index + 1) / s.questions.length) * 100);
+    var dailyBarHtml = "";
+    if (s.kind === "daily") {
+      var setsForBar = dailySets();
+      var datesForBar = availableDailyDates(setsForBar);
+      dailyBarHtml = '<div class="filter-bar">' +
+        '<label class="field inline" for="daily-date-select">Date paper</label>' +
+        '<select id="daily-date-select" class="compact-select" aria-label="Switch date paper">' +
+          dailyDateOptionsHtml(s.date, setsForBar) +
+        '</select>' +
+        '<button class="ghost" id="open-date-paper" type="button">\uD83D\uDCC4 View full paper (' + (s.poolSize || s.questions.length) + ' Q)</button>' +
+        (datesForBar.length > 1 ? '<button class="ghost" id="open-date-archive" type="button">\uD83D\uDDC2 Old date papers (' + datesForBar.length + ')</button>' : "") +
+      '</div>';
+    }
     var card = el('<section class="card">' +
+      dailyBarHtml +
       '<div class="qhead">' +
         '<div class="left">' +
           '<span class="badge">' + esc(s.name) + '</span>' +
           '<span class="badge plain">Question ' + (s.index + 1) + ' of ' + s.questions.length + '</span>' +
         '</div>' +
         '<div class="qmeta">' +
+          (q.category ? '<span class="chip">' + esc(sectionLabel(q.category)) + '</span>' : "") +
           (q.topic ? '<span class="chip">' + esc(q.topic) + '</span>' : "") +
           '<span class="chip">Level ' + q.level + '</span>' +
         '</div>' +
@@ -637,6 +1023,27 @@
       '</div>' +
     '</section>');
     app.appendChild(card);
+
+    if (s.kind === "daily") {
+      var dateSel = card.querySelector("#daily-date-select");
+      if (dateSel) {
+        dateSel.addEventListener("change", function (e) {
+          location.hash = "#/daily/" + e.target.value + (s.fullPaper ? "/all" : "");
+        });
+      }
+      var paperBtn = card.querySelector("#open-date-paper");
+      if (paperBtn) {
+        paperBtn.addEventListener("click", function () {
+          location.hash = "#/daily/" + s.date + "/paper";
+        });
+      }
+      var archBtn = card.querySelector("#open-date-archive");
+      if (archBtn) {
+        archBtn.addEventListener("click", function () {
+          location.hash = "#/daily/archive";
+        });
+      }
+    }
 
     var opts = card.querySelector("#opts");
     q.options.forEach(function (text, i) {
@@ -690,10 +1097,11 @@
       '<div class="toolbar center-x">' +
         '<button class="primary" id="again" type="button">Practise another set</button>' +
         '<button class="secondary" id="all-cats" type="button">All categories</button>' +
+        '<a class="ghost" href="#/daily/archive" data-archive-nav="true">\uD83D\uDDC2 Old date archive</a>' +
         '<button class="secondary" id="home" type="button">Back to home</button>' +
       '</div></section>'));
     document.getElementById("again").addEventListener("click", function () {
-      if (s.kind === "daily") viewDaily(); else viewPractice(s.slug);
+      if (s.kind === "daily") viewDaily(s.date, s.fullPaper); else viewPractice(s.slug);
     });
     document.getElementById("all-cats").addEventListener("click", function () { location.hash = "#/practice"; });
     document.getElementById("home").addEventListener("click", function () { location.hash = "#/"; });
@@ -750,6 +1158,7 @@
       '</div>' +
       '<h3>Sections in this paper</h3><p class="muted small" id="sec-preview"></p>' +
       '<div class="toolbar"><button class="primary" id="begin" type="button">\u25B6 Begin exam</button>' +
+      '<a class="ghost" href="#/daily/archive" data-archive-nav="true">\uD83D\uDDC2 Old date archive</a>' +
       '<span class="kbd-hint spacer">Keys <kbd>A</kbd>\u2013<kbd>D</kbd> answer \u00B7 <kbd>\u2190</kbd> <kbd>\u2192</kbd> move \u00B7 the paper submits itself when time runs out</span></div>' +
     '</section>'));
 
@@ -774,7 +1183,7 @@
     function poolSize(target) {
       var levels = levelsForTarget(target);
       return targetSections(target).reduce(function (n, slug) {
-        return n + questionsFor(slug).filter(function (q) { return levels.indexOf(q.level) !== -1; }).length;
+        return n + availableCountFor(slug, levels);
       }, 0);
     }
 
@@ -853,6 +1262,19 @@
   function beginExam() {
     var target = currentTarget();
     var sections = targetSections(target);
+    var missing = sections.filter(function (slug) { return !isCategoryLoaded(slug); });
+    if (missing.length && window.QBANK_LOADER && typeof window.QBANK_LOADER.ensure === "function") {
+      var beginBtn = document.getElementById("begin");
+      if (beginBtn) {
+        beginBtn.disabled = true;
+        beginBtn.textContent = "Loading paper questions\u2026";
+      }
+      window.QBANK_LOADER.ensure(missing, function () {
+        updateStats();
+        beginExam();
+      });
+      return;
+    }
     var levels = levelsForTarget(target);
     var settings = state.draft || examSettings();
     var wanted = settings.questions;
@@ -1119,8 +1541,10 @@
             '</td><td>' + percentOf(a) + '%</td></tr>';
         }).join("") + '</tbody></table></div>' +
         '<div class="toolbar"><button class="secondary" id="clear-progress" type="button">Clear history</button>' +
+        '<a class="ghost" href="#/daily/archive" data-archive-nav="true">\uD83D\uDDC2 Old date archive</a>' +
         '<span class="filter-note spacer">Clearing only affects this browser.</span></div>'
-        : '<p class="empty">No attempts yet. Set up a paper \u2014 the default is 40 questions in 40 minutes.</p>') +
+        : '<p class="empty">No attempts yet. Set up a paper \u2014 the default is 40 questions in 40 minutes.</p>' +
+        '<div class="toolbar"><a class="ghost" href="#/daily/archive" data-archive-nav="true">\uD83D\uDDC2 Old date archive</a></div>') +
     '</section>'));
     var clear = document.getElementById("clear-progress");
     if (clear) clear.addEventListener("click", function () {
@@ -1141,25 +1565,92 @@
     var parts = hash.split("/").filter(Boolean);
     document.querySelectorAll("[data-nav]").forEach(function (a) {
       a.classList.remove("active");
+      a.removeAttribute("aria-current");
     });
     if (!parts.length) { setNav("home"); viewHome(); return; }
     if (parts[0] === "practice") { setNav("practice"); parts[1] ? viewPractice(parts[1]) : viewPracticeIndex(); return; }
-    if (parts[0] === "daily") { setNav("daily"); viewDaily(); return; }
+    if (parts[0] === "archive") { setNav("archive"); viewDailyArchive(); return; }
+    if (parts[0] === "daily") {
+      if (parts[1] === "archive") { setNav("archive"); viewDailyArchive(); return; }
+      setNav("daily");
+      if (parts[1] && parts[2] === "paper") { viewDailyPaper(parts[1]); return; }
+      if (parts[1] && parts[2] === "all") { viewDaily(parts[1], true); return; }
+      if (parts[1] === "paper") { viewDailyPaper(); return; }
+      viewDaily(parts[1] || null, false);
+      return;
+    }
     if (parts[0] === "exam") { setNav("exam"); viewExamSetup(); return; }
     if (parts[0] === "progress") { setNav("progress"); viewProgress(); return; }
     setNav("home"); viewHome();
   }
   function setNav(name) {
     var link = document.querySelector('[data-nav="' + name + '"]');
-    if (link) link.classList.add("active");
+    if (link) {
+      link.classList.add("active");
+      link.setAttribute("aria-current", "page");
+    }
+  }
+
+  function mergeCount() {
+    var meta = window.QBANK_META || {};
+    var n = Number(meta.mergeCount);
+    return Number.isInteger(n) && n > 0 ? n : 10;
   }
 
   function updateStats() {
+    var merges = mergeCount();
+    var verLabel = "Version v" + merges + ".0 (" + merges + " merge" + (merges === 1 ? "" : "s") + " done)";
     var el2 = document.getElementById("bank-stats");
-    if (!el2) return;
-    var n = totalQuestions();
-    el2.textContent = "Loaded " + n.toLocaleString("en-IN") + " questions from " +
-      (window.QBANK_MANIFEST || []).length + " categories.";
+    if (el2) {
+      var n = totalQuestions();
+      el2.textContent = "Loaded " + n.toLocaleString("en-IN") + " questions from " +
+        (window.QBANK_MANIFEST || []).length + " categories \u00B7 " + verLabel + ".";
+    }
+    var verEl = document.getElementById("app-version");
+    if (!verEl && el2 && el2.parentNode) {
+      verEl = el('<p class="muted small" id="app-version"></p>');
+      el2.parentNode.appendChild(verEl);
+    }
+    if (verEl) {
+      verEl.textContent = verLabel;
+    }
+  }
+
+  /** Ensure `.topnav` always contains the Old Archive link so users can navigate from anywhere. */
+  function ensureArchiveNav() {
+    var nav = document.querySelector(".topnav");
+    if (nav && !nav.querySelector('[data-nav="archive"]')) {
+      var link = el('<a href="#/daily/archive" data-nav="archive">Old Archive</a>');
+      var dailyLink = nav.querySelector('[data-nav="daily"]');
+      if (dailyLink && dailyLink.nextSibling) {
+        nav.insertBefore(link, dailyLink.nextSibling);
+      } else {
+        nav.appendChild(link);
+      }
+    }
+  }
+
+  /** Live progressive enhancement on GitHub Pages to reflect new merges immediately. */
+  function syncLiveMergeCount() {
+    if (typeof window.fetch !== "function") return;
+    if (!location.hostname || location.hostname === "examsathi.test") return;
+    try {
+      window.fetch("https://api.github.com/repos/Kyabtao/COMP/pulls?state=closed&per_page=100")
+        .then(function (r) { return r && r.ok ? r.json() : null; })
+        .then(function (list) {
+          if (!Array.isArray(list)) return;
+          var mergedPrs = list.filter(function (pr) { return pr && pr.merged_at; }).length;
+          /* +1 for the initial branch merge (bbcadff) before PR #2 */
+          var totalMerges = mergedPrs + 1;
+          if (totalMerges > mergeCount()) {
+            window.QBANK_META = window.QBANK_META || {};
+            window.QBANK_META.mergeCount = totalMerges;
+            window.QBANK_META.version = "v" + totalMerges + ".0";
+            updateStats();
+          }
+        })
+        .catch(function () {});
+    } catch (e) {}
   }
 
   /**
@@ -1193,9 +1684,12 @@
   }
 
   function boot() {
+    ensureArchiveNav();
     updateStats();
+    syncLiveMergeCount();
     route();
     window.addEventListener("hashchange", route);
+    window.addEventListener("qbank-progress", updateStats);
     document.addEventListener("keydown", handleKeys);
 
     /* Theme: saved choice wins, otherwise follow the operating system. */

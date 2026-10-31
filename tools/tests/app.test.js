@@ -314,3 +314,157 @@ test("drill length is remembered and used by the next drill", (t) => {
   w.dispatchEvent(new w.Event("hashchange"));
   assert.match(d.querySelector(".badge.plain").textContent, /Question 1 of 1/);
 });
+
+test("the app boots instantly from the manifest and loads categories on demand", (t) => {
+  const dom = new JSDOM('<main id="app"></main><button id="theme-toggle"></button><p id="bank-stats"></p>', {
+    url: "https://examsathi.test/#/", runScripts: "outside-only"
+  });
+  t.after(() => dom.window.close());
+  const w = dom.window;
+  const d = w.document;
+  w.localStorage.setItem("examsathi.target", "class-8");
+  w.QBANK_MANIFEST = [
+    { slug: "physics", name: "Physics", count: 271, levelCounts: { 1: 80, 2: 120, 3: 71 } },
+    { slug: "mathematics", name: "Mathematics", count: 1518, levelCounts: { 1: 500, 2: 518, 3: 500 } }
+  ];
+  w.QBANK_DAILY_INDEX = {
+    date: "2026-10-24",
+    questions: [
+      { ...example, id: "physics-daily-2026-10-24-01", category: "physics", source: "daily", dailyDate: "2026-10-24" }
+    ]
+  };
+  /* Start with zero category files loaded in memory */
+  w.QBANK_CATEGORIES = {};
+  const ensured = [];
+  w.QBANK_LOADER = {
+    ensure(slugs, cb) {
+      ensured.push(...slugs);
+      for (const s of slugs) {
+        w.QBANK_CATEGORIES[s] = { slug: s, name: s, questions: [example] };
+      }
+      cb(null);
+    }
+  };
+  w.eval(appScript);
+  w.dispatchEvent(new w.Event("qbank-ready"));
+
+  /* Home screen and stats render immediately from manifest + dailyIndex without category files */
+  assert.match(d.querySelector("#bank-stats").textContent, /1,789 questions from 2 categories/);
+  assert.match(d.querySelector(".daily-strip").textContent, /1 fresh question/);
+
+  /* Practice index shows exact levelCounts before any category file is loaded */
+  w.location.hash = "#/practice";
+  w.dispatchEvent(new w.Event("hashchange"));
+  assert.match(d.querySelector("#cat-sections").textContent, /200 of 271 ready/);
+
+  /* Navigating to a category triggers on-demand loading via QBANK_LOADER.ensure */
+  w.location.hash = "#/practice/physics";
+  w.dispatchEvent(new w.Event("hashchange"));
+  assert.deepEqual(ensured, ["physics"]);
+  assert.equal(d.querySelector(".qtext").textContent, example.question);
+});
+
+test("users can browse, read, and practise old date papers on demand", (t) => {
+  const dom = new JSDOM('<main id="app"></main><button id="theme-toggle"></button><p id="bank-stats"></p>', {
+    url: "https://examsathi.test/#/", runScripts: "outside-only"
+  });
+  t.after(() => dom.window.close());
+  const w = dom.window;
+  const d = w.document;
+  w.localStorage.setItem("examsathi.target", "class-8");
+  w.QBANK_MANIFEST = [
+    { slug: "physics", name: "Physics", count: 271, levelCounts: { 1: 80, 2: 120, 3: 71 } }
+  ];
+  w.QBANK_DAILY_INDEX = {
+    date: "2026-10-24",
+    dates: [
+      { date: "2026-10-24", count: 1 },
+      { date: "2026-10-15", count: 2 }
+    ],
+    questions: [
+      { ...example, id: "physics-daily-2026-10-24-01", category: "physics", source: "daily", dailyDate: "2026-10-24" }
+    ]
+  };
+  w.QBANK_CATEGORIES = {};
+  w.QBANK_DAILY_SETS = {};
+  const loadedDates = [];
+  w.QBANK_LOADER = {
+    ensure(slugs, cb) { cb(null); },
+    ensureDailyDate(dateStr, cb) {
+      loadedDates.push(dateStr);
+      w.QBANK_DAILY_SETS[dateStr] = {
+        date: dateStr,
+        questions: [
+          { ...example, id: undefined, question: "Old paper question 1 (" + dateStr + ")?", category: "physics", topic: "Optics", level: 2 },
+          { ...example, id: undefined, question: "Old paper question 2 (" + dateStr + ")?", category: "english", topic: "Grammar", level: 1 }
+        ]
+      };
+      cb(w.QBANK_DAILY_SETS[dateStr]);
+    }
+  };
+  w.eval(appScript);
+  w.dispatchEvent(new w.Event("qbank-ready"));
+
+  /* Home strip offers date selector, View date paper, and Old date papers button */
+  assert.ok(d.querySelector("#daily-home-date"), "Home daily strip includes date selector");
+  assert.ok(d.querySelector("#view-daily-paper"), "Home daily strip includes View date paper button");
+  assert.ok(d.querySelector("#browse-daily-archive"), "Home daily strip includes Old date papers button");
+
+  /* Navigating to #/daily/archive lists both current and old date papers */
+  d.querySelector("#browse-daily-archive").click();
+  w.dispatchEvent(new w.Event("hashchange"));
+  assert.match(d.querySelector("#app").textContent, /Daily & Old Date Question Papers/);
+  assert.equal(d.querySelectorAll("tr[data-archive-date]").length, 2);
+
+  /* Viewing an old date paper (#/daily/2026-10-15/paper) loads it on demand and renders all questions */
+  w.location.hash = "#/daily/2026-10-15/paper";
+  w.dispatchEvent(new w.Event("hashchange"));
+  assert.deepEqual(loadedDates, ["2026-10-15"]);
+  assert.equal(d.querySelectorAll("#paper-questions-list .review-item").length, 2);
+  assert.match(d.querySelector("#app").textContent, /Old paper question 1 \(2026-10-15\)\?/);
+
+  /* Show all answers button reveals explanations across the date paper */
+  d.querySelector("#toggle-paper-answers").click();
+  assert.equal(d.querySelectorAll("#paper-questions-list .review-opt.is-answer").length, 2);
+
+  /* Starting a drill on the old date paper (#/daily/2026-10-15) drills that date's questions */
+  d.querySelector("#paper-start-10").click();
+  w.dispatchEvent(new w.Event("hashchange"));
+  assert.match(d.querySelector(".badge.plain").textContent, /Question 1 of 2/);
+  assert.match(d.querySelector(".qtext").textContent, /2026-10-15/);
+});
+
+test("top nav includes Old Archive link everywhere and footer shows version based on merge count", (t) => {
+  const dom = new JSDOM(
+    '<nav class="topnav"><a href="#/" data-nav="home">Home</a><a href="#/daily" data-nav="daily">Daily</a></nav>' +
+    '<main id="app"></main><button id="theme-toggle"></button>' +
+    '<footer><p id="bank-stats"></p><p id="app-version"></p></footer>',
+    { url: "https://examsathi.test/#/", runScripts: "outside-only" }
+  );
+  t.after(() => dom.window.close());
+  const w = dom.window;
+  const d = w.document;
+  w.QBANK_MANIFEST = [{ slug: "physics", name: "Physics", count: 271, levelCounts: { 1: 80, 2: 120, 3: 71 } }];
+  w.QBANK_META = { version: "v10.0", mergeCount: 10 };
+  w.QBANK_DAILY_INDEX = {
+    date: "2026-10-31",
+    dates: [{ date: "2026-10-31", count: 1 }],
+    questions: [{ ...example, id: "physics-daily-2026-10-31-01", category: "physics", source: "daily", dailyDate: "2026-10-31" }]
+  };
+  w.QBANK_CATEGORIES = {};
+  w.eval(appScript);
+  w.dispatchEvent(new w.Event("qbank-ready"));
+
+  /* Top nav contains Old Archive link and highlights it on #/archive or #/daily/archive */
+  const archiveNav = d.querySelector('.topnav [data-nav="archive"]');
+  assert.ok(archiveNav, "top nav includes Old Archive link");
+  w.location.hash = "#/archive";
+  w.dispatchEvent(new w.Event("hashchange"));
+  assert.equal(archiveNav.classList.contains("active"), true);
+  assert.match(d.querySelector("#app").textContent, /Daily & Old Date Question Papers/);
+
+  /* Footer displays version based on merge count */
+  assert.match(d.querySelector("#bank-stats").textContent, /Version v10\.0 \(10 merges done\)/);
+  assert.equal(d.querySelector("#app-version").textContent, "Version v10.0 (10 merges done)");
+});
+

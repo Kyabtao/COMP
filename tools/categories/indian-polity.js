@@ -12,7 +12,7 @@
   "railways"
  ],
  "blurb": "Constitution, articles, amendments and institutions.",
- "count": 728,
+ "count": 764,
  "questions": [
   {
    "id": "indian-polity-00001",
@@ -10937,6 +10937,582 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "indian-polity-daily-2026-10-23-11",
+   "question": "Under the Constitution of India, what does 'Article 279A' specifically provide for?",
+   "options": [
+    "Definition of a Money Bill and the final authority of the Speaker of the Lok Sabha to certify whether a bill is a Money Bill",
+    "Constitution of the Goods and Services Tax (GST) Council chaired by the Union Finance Minister",
+    "Disqualification of legislators on the ground of defection from one political party to another",
+    "National Commission for Backward Classes (NCBC) with constitutional status to investigate safeguards for socially and educationally backward classes"
+   ],
+   "answer": 1,
+   "explanation": "Article 279A of the Indian Constitution deals with Constitution of the Goods and Services Tax (GST) Council chaired by the Union Finance Minister (Part XII — Finance, Property, Contracts and Suits inserted by the 101st Amendment).",
+   "topic": "Indian Polity & Constitutional Governance",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "indian-polity-daily-2026-10-23-36",
+   "question": "In Indian governance and polity, how is 'Chief Justice of India' constitutionally or statutorily described?",
+   "options": [
+    "Supervises elections to Parliament and State legislatures",
+    "Head of the Indian judiciary",
+    "Regulator of the securities market",
+    "Union legislature consisting of the President and two Houses"
+   ],
+   "answer": 1,
+   "explanation": "Chief Justice of India — Head of the Indian judiciary.",
+   "topic": "Indian Polity — Constitutional & Statutory Bodies",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "indian-polity-daily-2026-10-23-61",
+   "question": "In Indian Constitutional Polity: Source of the Concurrent List?",
+   "options": [
+    "30 years",
+    "Australia",
+    "United States of America",
+    "Special status of Jammu and Kashmir"
+   ],
+   "answer": 1,
+   "explanation": "Source of the Concurrent List — Australia.",
+   "topic": "Indian Polity — Constitutional Governance & Facts",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "indian-polity-daily-2026-10-23-86",
+   "question": "Under the Constitution of India, which article or part deals with 'Right to Constitutional Remedies'?",
+   "options": [
+    "Article 352",
+    "Article 32",
+    "Part IX, Articles 243-243O",
+    "Article 54"
+   ],
+   "answer": 1,
+   "explanation": "In the Indian Constitution, Right to Constitutional Remedies is governed by Article 32.",
+   "topic": "Indian Polity — Constitutional Articles & Provisions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "indian-polity-daily-2026-10-24-11",
+   "question": "In Indian Constitutional Polity: Minimum age to become a member of the Lok Sabha?",
+   "options": [
+    "9 December 1946",
+    "The Prime Minister",
+    "25 years",
+    "2019"
+   ],
+   "answer": 2,
+   "explanation": "Minimum age to become a member of the Lok Sabha — 25 years.",
+   "topic": "Indian Polity — Constitutional Governance & Facts",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "indian-polity-daily-2026-10-24-36",
+   "question": "Under the Constitution of India, what does 'Article 280' specifically provide for?",
+   "options": [
+    "Power of High Courts to issue writs for the enforcement of Fundamental Rights as well as for any other legal right",
+    "Definition of a Money Bill and the final authority of the Speaker of the Lok Sabha to certify whether a bill is a Money Bill",
+    "Constitution of a Finance Commission every five years to recommend distribution of net tax proceeds between the Union and States",
+    "National Commission for Backward Classes (NCBC) with constitutional status to investigate safeguards for socially and educationally backward classes"
+   ],
+   "answer": 2,
+   "explanation": "Article 280 of the Indian Constitution deals with Constitution of a Finance Commission every five years to recommend distribution of net tax proceeds between the Union and States (Part XII — Constitutional Financial Bodies).",
+   "topic": "Indian Polity & Constitutional Governance",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "indian-polity-daily-2026-10-24-61",
+   "question": "In Indian governance and polity, how is 'Lok Sabha' constitutionally or statutorily described?",
+   "options": [
+    "Ex-officio Chairman of the Rajya Sabha",
+    "Regulator of the securities market",
+    "Protects human rights in India",
+    "House of the People"
+   ],
+   "answer": 3,
+   "explanation": "Lok Sabha — House of the People.",
+   "topic": "Indian Polity — Constitutional & Statutory Bodies",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "indian-polity-daily-2026-10-24-86",
+   "question": "Under the Constitution of India, which article or part deals with 'Abolition of untouchability'?",
+   "options": [
+    "Article 24",
+    "Article 17",
+    "Article 315",
+    "Article 93"
+   ],
+   "answer": 1,
+   "explanation": "In the Indian Constitution, Abolition of untouchability is governed by Article 17.",
+   "topic": "Indian Polity — Constitutional Articles & Provisions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "indian-polity-daily-2026-10-25-11",
+   "question": "In Indian Constitutional Polity: Number of Fundamental Rights?",
+   "options": [
+    "The Chief Justice of the concerned High Court",
+    "United States of America",
+    "6",
+    "A Sovereign Socialist Secular Democratic Republic"
+   ],
+   "answer": 2,
+   "explanation": "Number of Fundamental Rights — 6.",
+   "topic": "Indian Polity — Constitutional Governance & Facts",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "indian-polity-daily-2026-10-25-36",
+   "question": "In Indian governance and polity, how is 'Comptroller and Auditor General' constitutionally or statutorily described?",
+   "options": [
+    "Recruits civil servants for the Union",
+    "Audits government accounts",
+    "Regulator of the securities market",
+    "Local self-government in urban areas"
+   ],
+   "answer": 1,
+   "explanation": "Comptroller and Auditor General — Audits government accounts.",
+   "topic": "Indian Polity — Constitutional & Statutory Bodies",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "indian-polity-daily-2026-10-25-61",
+   "question": "Under the Constitution of India, which article or part deals with 'Composition of the Lok Sabha'?",
+   "options": [
+    "Article 21",
+    "Articles 29-30",
+    "Article 81",
+    "Article 280"
+   ],
+   "answer": 2,
+   "explanation": "In the Indian Constitution, Composition of the Lok Sabha is governed by Article 81.",
+   "topic": "Indian Polity — Constitutional Articles & Provisions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "indian-polity-daily-2026-10-25-86",
+   "question": "Under the Constitution of India, what does 'Article 243D' specifically provide for?",
+   "options": [
+    "Advisory jurisdiction empowering the President to consult the Supreme Court on questions of law or fact of public importance",
+    "Constitution of the Goods and Services Tax (GST) Council chaired by the Union Finance Minister",
+    "Reservation of seats for Scheduled Castes, Scheduled Tribes and not less than one-third seats for women in Panchayats",
+    "Establishment of an Inter-State Council by the President to inquire into and advise upon disputes between states"
+   ],
+   "answer": 2,
+   "explanation": "Article 243D of the Indian Constitution deals with Reservation of seats for Scheduled Castes, Scheduled Tribes and not less than one-third seats for women in Panchayats (Part IX — The Panchayats (73rd Constitutional Amendment)).",
+   "topic": "Indian Polity & Constitutional Governance",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "indian-polity-daily-2026-10-26-11",
+   "question": "Under the Constitution of India, which article or part deals with 'The Union Government'?",
+   "options": [
+    "Part V, Articles 52-151",
+    "Articles 19-22",
+    "Article 76",
+    "Part XVIII, Articles 352-360"
+   ],
+   "answer": 0,
+   "explanation": "In the Indian Constitution, The Union Government is governed by Part V, Articles 52-151.",
+   "topic": "Indian Polity — Constitutional Articles & Provisions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "indian-polity-daily-2026-10-26-36",
+   "question": "In Indian Constitutional Polity: Who is the head of the Union Council of Ministers?",
+   "options": [
+    "The Governor",
+    "Parliament",
+    "Prohibition",
+    "The Prime Minister"
+   ],
+   "answer": 3,
+   "explanation": "Who is the head of the Union Council of Ministers — The Prime Minister.",
+   "topic": "Indian Polity — Constitutional Governance & Facts",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "indian-polity-daily-2026-10-26-61",
+   "question": "Under the Constitution of India, what does 'Article 123' specifically provide for?",
+   "options": [
+    "Joint sitting of both Houses of Parliament summoned by the President and presided over by the Speaker of the Lok Sabha to resolve a deadlock on an ordinary bill",
+    "Autonomous District and Regional Councils for the administration of tribal areas in Assam, Meghalaya, Tripura and Mizoram",
+    "Annual Financial Statement (Union Budget) showing estimated receipts and expenditure of the Government of India for a financial year",
+    "Power of the President of India to promulgate Ordinances during the recess of Parliament"
+   ],
+   "answer": 3,
+   "explanation": "Article 123 of the Indian Constitution deals with Power of the President of India to promulgate Ordinances during the recess of Parliament (Part V — Legislative Powers of the President).",
+   "topic": "Indian Polity & Constitutional Governance",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "indian-polity-daily-2026-10-26-86",
+   "question": "In Indian governance and polity, how is 'IRDAI' constitutionally or statutorily described?",
+   "options": [
+    "Apex judicial body of India",
+    "Regulator of the insurance sector",
+    "Aids and advises the President",
+    "Head of the Indian judiciary"
+   ],
+   "answer": 1,
+   "explanation": "IRDAI — Regulator of the insurance sector.",
+   "topic": "Indian Polity — Constitutional & Statutory Bodies",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "indian-polity-daily-2026-10-27-11",
+   "question": "In Indian Constitutional Polity: The budget is laid before Parliament under?",
+   "options": [
+    "Article 112 (Annual Financial Statement)",
+    "Prohibition",
+    "Mandamus",
+    "11"
+   ],
+   "answer": 0,
+   "explanation": "The budget is laid before Parliament under — Article 112 (Annual Financial Statement).",
+   "topic": "Indian Polity — Constitutional Governance & Facts",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "indian-polity-daily-2026-10-27-36",
+   "question": "In Indian governance and polity, how is 'Vice President of India' constitutionally or statutorily described?",
+   "options": [
+    "Regulator of the insurance sector",
+    "House of the People",
+    "Head of the Union Government",
+    "Ex-officio Chairman of the Rajya Sabha"
+   ],
+   "answer": 3,
+   "explanation": "Vice President of India — Ex-officio Chairman of the Rajya Sabha.",
+   "topic": "Indian Polity — Constitutional & Statutory Bodies",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "indian-polity-daily-2026-10-27-61",
+   "question": "Under the Constitution of India, which article or part deals with 'Financial emergency'?",
+   "options": [
+    "Article 21",
+    "Article 356",
+    "Article 360",
+    "Articles 14-18"
+   ],
+   "answer": 2,
+   "explanation": "In the Indian Constitution, Financial emergency is governed by Article 360.",
+   "topic": "Indian Polity — Constitutional Articles & Provisions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "indian-polity-daily-2026-10-27-86",
+   "question": "In Indian Constitutional Polity: Article 370 was abrogated in?",
+   "options": [
+    "Canada",
+    "2019",
+    "12",
+    "Quo Warranto"
+   ],
+   "answer": 1,
+   "explanation": "Article 370 was abrogated in — 2019.",
+   "topic": "Indian Polity — Constitutional Governance & Facts",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "indian-polity-daily-2026-10-28-11",
+   "question": "In Indian Constitutional Polity: Source of the idea of the Preamble?",
+   "options": [
+    "United States of America",
+    "Canada",
+    "The Governor",
+    "Article 112 (Annual Financial Statement)"
+   ],
+   "answer": 0,
+   "explanation": "Source of the idea of the Preamble — United States of America.",
+   "topic": "Indian Polity — Constitutional Governance & Facts",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "indian-polity-daily-2026-10-28-36",
+   "question": "Which Act replaced the Indian Evidence Act, 1872 with effect from 1 July 2024?",
+   "options": [
+    "Bharatiya Pramana Sanhita",
+    "Bharatiya Nagarik Suraksha Sanhita",
+    "Bharatiya Nyaya Sanhita",
+    "Bharatiya Sakshya Adhiniyam"
+   ],
+   "answer": 3,
+   "explanation": "The Bharatiya Sakshya Adhiniyam (BSA), 2023 replaced the colonial-era Indian Evidence Act, 1872 and recognises electronic and digital records as primary evidence.",
+   "topic": "Criminal Law Reforms",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "indian-polity-daily-2026-10-28-61",
+   "question": "Under the Constitution of India, what does 'Article 243ZD' specifically provide for?",
+   "options": [
+    "Autonomous District and Regional Councils for the administration of tribal areas in Assam, Meghalaya, Tripura and Mizoram",
+    "Constitution of the Goods and Services Tax (GST) Council chaired by the Union Finance Minister",
+    "Constitution of a District Planning Committee in every state to consolidate plans prepared by Panchayats and Municipalities",
+    "Establishment of Public Service Commissions for the Union (UPSC) and for the States (SPSC)"
+   ],
+   "answer": 2,
+   "explanation": "Article 243ZD of the Indian Constitution deals with Constitution of a District Planning Committee in every state to consolidate plans prepared by Panchayats and Municipalities (Part IXA — The Municipalities (74th Constitutional Amendment)).",
+   "topic": "Indian Polity & Constitutional Governance",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "indian-polity-daily-2026-10-28-86",
+   "question": "In Indian Constitutional Polity: The Preamble declares India to be?",
+   "options": [
+    "Prohibition",
+    "Canada",
+    "The Chief Justice of the concerned High Court",
+    "A Sovereign Socialist Secular Democratic Republic"
+   ],
+   "answer": 3,
+   "explanation": "The Preamble declares India to be — A Sovereign Socialist Secular Democratic Republic.",
+   "topic": "Indian Polity — Constitutional Governance & Facts",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "indian-polity-daily-2026-10-29-11",
+   "question": "In Indian Constitutional Polity: Source of Fundamental Rights?",
+   "options": [
+    "United States of America",
+    "Article 112 (Annual Financial Statement)",
+    "Canada",
+    "Official languages"
+   ],
+   "answer": 0,
+   "explanation": "Source of Fundamental Rights — United States of America.",
+   "topic": "Indian Polity — Constitutional Governance & Facts",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "indian-polity-daily-2026-10-29-36",
+   "question": "Under the Constitution of India, which article or part deals with 'Finance Commission'?",
+   "options": [
+    "Article 280",
+    "Part IVA, Article 51A",
+    "Article 76",
+    "Article 80"
+   ],
+   "answer": 0,
+   "explanation": "In the Indian Constitution, Finance Commission is governed by Article 280.",
+   "topic": "Indian Polity — Constitutional Articles & Provisions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "indian-polity-daily-2026-10-29-61",
+   "question": "In Indian governance and polity, how is 'State Legislature' constitutionally or statutorily described?",
+   "options": [
+    "Ex-officio Chairman of the Rajya Sabha",
+    "Local self-government at the village level",
+    "Law-making body of a State",
+    "Recommends distribution of taxes between the Centre and States"
+   ],
+   "answer": 2,
+   "explanation": "State Legislature — Law-making body of a State.",
+   "topic": "Indian Polity — Constitutional & Statutory Bodies",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "indian-polity-daily-2026-10-29-86",
+   "question": "Under the Constitution of India, what does 'Eleventh Schedule' specifically provide for?",
+   "options": [
+    "Annual Financial Statement (Union Budget) showing estimated receipts and expenditure of the Government of India for a financial year",
+    "Constitution of a District Planning Committee in every state to consolidate plans prepared by Panchayats and Municipalities",
+    "Twenty-nine functional items placed within the purview of Panchayati Raj Institutions",
+    "National Commission for Backward Classes (NCBC) with constitutional status to investigate safeguards for socially and educationally backward classes"
+   ],
+   "answer": 2,
+   "explanation": "Eleventh Schedule of the Indian Constitution deals with Twenty-nine functional items placed within the purview of Panchayati Raj Institutions (Article 243G — 73rd Constitutional Amendment Act, 1992).",
+   "topic": "Indian Polity & Constitutional Governance",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "indian-polity-daily-2026-10-30-11",
+   "question": "In Indian Constitutional Polity: Constituent Assembly was constituted under the?",
+   "options": [
+    "26 January 1950",
+    "2019",
+    "Cabinet Mission Plan",
+    "Australia"
+   ],
+   "answer": 2,
+   "explanation": "Constituent Assembly was constituted under the — Cabinet Mission Plan.",
+   "topic": "Indian Polity — Constitutional Governance & Facts",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "indian-polity-daily-2026-10-30-36",
+   "question": "In Indian governance and polity, how is 'Municipality' constitutionally or statutorily described?",
+   "options": [
+    "Aids and advises the President",
+    "House of the People",
+    "Local self-government at the village level",
+    "Local self-government in urban areas"
+   ],
+   "answer": 3,
+   "explanation": "Municipality — Local self-government in urban areas.",
+   "topic": "Indian Polity — Constitutional & Statutory Bodies",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "indian-polity-daily-2026-10-30-61",
+   "question": "In Indian Constitutional Polity: Idea of a Constituent Assembly was first proposed by?",
+   "options": [
+    "12",
+    "Prohibition",
+    "The Supreme Court collegium",
+    "M. N. Roy"
+   ],
+   "answer": 3,
+   "explanation": "Idea of a Constituent Assembly was first proposed by — M. N. Roy.",
+   "topic": "Indian Polity — Constitutional Governance & Facts",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "indian-polity-daily-2026-10-30-86",
+   "question": "In Indian governance and polity, how is 'Council of Ministers' constitutionally or statutorily described?",
+   "options": [
+    "Supervises elections to Parliament and State legislatures",
+    "Local self-government in urban areas",
+    "Aids and advises the President",
+    "Ex-officio Chairman of the Rajya Sabha"
+   ],
+   "answer": 2,
+   "explanation": "Council of Ministers — Aids and advises the President.",
+   "topic": "Indian Polity — Constitutional & Statutory Bodies",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "indian-polity-daily-2026-10-31-11",
+   "question": "Under the Constitution of India, which article or part deals with 'Fundamental Rights'?",
+   "options": [
+    "Part III, Articles 12-35",
+    "Article 18",
+    "Article 356",
+    "Article 24"
+   ],
+   "answer": 0,
+   "explanation": "In the Indian Constitution, Fundamental Rights is governed by Part III, Articles 12-35.",
+   "topic": "Indian Polity — Constitutional Articles & Provisions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "indian-polity-daily-2026-10-31-36",
+   "question": "In Indian Constitutional Polity: Date of adoption of the Constitution?",
+   "options": [
+    "26 November 1949",
+    "South Africa",
+    "The President of India",
+    "The Lok Sabha"
+   ],
+   "answer": 0,
+   "explanation": "Date of adoption of the Constitution — 26 November 1949.",
+   "topic": "Indian Polity — Constitutional Governance & Facts",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "indian-polity-daily-2026-10-31-61",
+   "question": "In Indian governance and polity, how is 'Governor' constitutionally or statutorily described?",
+   "options": [
+    "Law-making body of a State",
+    "Constitutional head of a State",
+    "Head of the Union Government",
+    "Head of the Indian judiciary"
+   ],
+   "answer": 1,
+   "explanation": "Governor — Constitutional head of a State.",
+   "topic": "Indian Polity — Constitutional & Statutory Bodies",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "indian-polity-daily-2026-10-31-86",
+   "question": "Under the Constitution of India, which article or part deals with 'Right to Freedom of Religion'?",
+   "options": [
+    "Article 17",
+    "Part XV, Articles 324-329",
+    "Articles 25-28",
+    "Article 80"
+   ],
+   "answer": 2,
+   "explanation": "In the Indian Constitution, Right to Freedom of Religion is governed by Articles 25-28.",
+   "topic": "Indian Polity — Constitutional Articles & Provisions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
   }
  ]
 };

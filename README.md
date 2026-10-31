@@ -6,8 +6,9 @@ Practice site for school and competitive exams, built around a generated questio
 
 - **Single target list:** Classes 1 to 12, Graduation, SSC CGL, SSC CHSL, Banking (IBPS / SBI) and Railways (RRB NTPC / Group D) — classes and exams are merged into one list because they share the same paper pattern
 - **Every paper:** you choose the questions, time and marking — the defaults are 40 questions in 40 minutes, +1 per correct answer, 0.25 negative marking
-- **Question bank:** 33,257 questions in 26 categories (see below), growing by 100 fresh questions balanced across all 25 subjects (Science, Math, English, Current Affairs/News, History, Polity, Geography, Reasoning, etc.) per daily update
+- **Question bank:** 33,957 questions in 26 categories (see below), growing by 100 fresh questions balanced across all 25 subjects (Science, Math, English, Current Affairs/News, History, Polity, Geography, Reasoning, etc.) per daily update
 - **Instant load & Old Date Papers:** initial page load reads only the lightweight manifest (`tools/categories/index.js`), loading category files and old date papers (`#/daily/archive`, `#/daily/<date>/paper`) on demand so load times stay constant as the question bank grows
+- **Merge-based version in footer:** the footer displays the application version based on how many git merges have been completed (`Version v<N>.0 (<N> merges done)`), synced at build time (`window.QBANK_META`) and live on GitHub Pages
 - **No build step:** plain HTML, CSS and JavaScript, hosted straight from this repository
 
 ## Quick start
@@ -24,9 +25,10 @@ Opening `index.html` directly in a browser also works.
 
 | Where | What it does |
 | --- | --- |
-| **Home** | Pick a target, search the 26 categories, see your saved paper settings, or jump straight into a paper |
+| **Home** | Pick a target, search the 26 categories, see your saved paper settings, or jump straight into a paper or the Old Date Archive |
 | **Practice** | A drill per category (5 to 30 questions, default 15) with the correct answer and explanation revealed at once |
-| **Daily** | The daily challenge (`#/daily`), full date paper viewer (`#/daily/<date>/paper`), and **Old Date Papers** archive (`#/daily/archive`) to view or practise any past date's paper |
+| **Daily** | The daily challenge (`#/daily`) — 10 random questions across multiple subjects from the selected date paper, plus full date paper viewer (`#/daily/<date>/paper`) |
+| **Old Archive** | Dedicated navigation (`#/daily/archive` or `#/archive`) accessible from anywhere on the site to view or practise any past or current date paper |
 | **Exam** | You choose the paper: question count, time limit, marks per correct answer and the wrong-answer penalty |
 | **Progress** | Every attempt stays in this browser: attempts, exams, drills, best score, the plan used and the full table |
 
@@ -108,36 +110,64 @@ node tools/validate.js          # checks counts, shapes and the spec checklist
 `--no-build` to mint the day without touching the bank, `--date YYYY-MM-DD` to mint
 another day, `--count N` for a custom count and `--dry-run` to preview.
 
-## Layout
+## Layout (Files & Folder Structure)
 
 ```
-index.html                     the site (single page app)
-assets/css/style.css           styling, light and dark themes
-assets/js/qbank-loader.js      boots instantly from index.js and loads categories & old date papers on demand
-assets/js/app.js               routing, practice drills, daily & old date papers, configurable exam engine
-qbank.js                       UMD entry point for the bank (browser + Node)
-
-tools/news.js                  updates the bank with 100 balanced multi-subject & news questions
-tools/build-qbank.js           mints the day's questions, then generates the category files
-tools/daily.js                 mints one day's fresh questions and publishes them in the bank
-tools/daily/*.js               one committed file per published day (UMD: Node + browser on-demand)
-temp/                          stores the workflow files (tracked — the Pages deploy serves them)
-temp/ci.yml                    CI workflow: regression suite, bank validation, browser file check
-temp/daily-questions.yml       daily scheduler: mint, rebuild, validate, upload temp files
-temp/news-questions.yml        news & competition scheduler: add 100 real-world questions + rebuild
-tools/install-workflows.js     installs temp/*.yml into .github/workflows/ (npm run workflows)
-tools/validate.js              validates the bank and prints the checklist
-tools/spec.js                  category, class, exam and merged target definitions
-tools/qcore.js                 deterministic PRNG, option builder, helpers
-tools/forms.js                 form engine: fact tables -> MCQs
-tools/numeric.js               numeric generators for the aptitude categories
-tools/tables.js                registry mapping fact tables to categories
-tools/data/news-competition.js real-world news & competitive exam question pool
-tools/data/subject-competition.js multi-subject competition question pool across all 25 categories
-tools/data/*.js                the source fact tables
-tools/authored/*.js            hand written MCQs
-tools/categories/*.js          GENERATED question bank (do not edit by hand)
-tools/categories/gk-misc/      GENERATED GK Misc parts 01 to 17
+COMP/
+├── index.html                        # Single-page app entry point (Home, Practice, Daily, Old Archive, Exam, Progress)
+├── package.json                      # Scripts (build, news, daily, validate, workflows, test)
+├── qbank.js                          # UMD entry point for the question bank (browser + Node)
+├── qbank-report.json                 # Generated validation & category count report
+├── site.webmanifest                  # Web app manifest
+├── .github/
+│   └── workflows/
+│       ├── ci.yml                    # CI workflow (tests, validation, browser asset check)
+│       ├── daily-question.yml        # 06:00 IST daily question scheduler
+│       └── news-questions.yml        # 06:00 IST / manual news & competition question updater
+├── assets/
+│   ├── css/
+│   │   └── style.css                 # Light and dark theme styles & responsive layout
+│   ├── img/                          # Logos and favicons (svg, png, ico)
+│   └── js/
+│       ├── qbank-loader.js           # Instant O(1) manifest boot + on-demand category & old date paper loader
+│       └── app.js                    # SPA router, practice drills, daily & old date archive, exam engine, footer version
+├── temp/
+│   ├── ci.yml                        # Tracked source of truth for .github/workflows/ci.yml
+│   ├── daily-questions.yml           # Tracked source of truth for .github/workflows/daily-question.yml
+│   └── news-questions.yml            # Tracked source of truth for .github/workflows/news-questions.yml
+└── tools/
+    ├── build-qbank.js                # Builds tools/categories/*.js, index.js (manifest + dailyIndex + version meta)
+    ├── build-summary.json            # Generated build summary with version & mergeCount metadata
+    ├── daily.js                      # Daily question generator CLI & UMD daily file writer
+    ├── news.js                       # 100-question multi-subject & news updater CLI
+    ├── validate.js                   # Bank validator and spec checklist runner
+    ├── install-workflows.js          # Installs temp/*.yml into .github/workflows/
+    ├── spec.js                       # Category, class, exam and merged target definitions
+    ├── question-schema.js            # Question schema validator
+    ├── qcore.js                      # Deterministic PRNG, option builder & helpers
+    ├── forms.js                      # Fact-table -> MCQ generator engine
+    ├── numeric.js                    # Numeric aptitude & reasoning stream generators
+    ├── tables.js                     # Registry mapping fact tables to categories
+    ├── authored/
+    │   └── *.js                      # 26 hand-authored curated question files
+    ├── data/
+    │   ├── news-competition.js       # Real-world current affairs & competitive exam question pool
+    │   ├── subject-competition.js    # 6,809 multi-subject competitive exam questions across all 25 categories
+    │   └── *.js                      # Structured fact tables (science, history, polity, geography, english, etc.)
+    ├── daily/
+    │   └── YYYY-MM-DD.js             # Stored daily date papers (UMD: Node require + browser on-demand)
+    ├── categories/
+    │   ├── index.js                  # Startup manifest, daily dates index, latest daily set & version/merge metadata
+    │   ├── *.js                      # 26 generated category files (loaded on demand)
+    │   └── gk-misc/
+    │       └── part-01.js..part-17.js # Sharded 1,000-question part files
+    └── tests/
+        ├── app.test.js               # DOM, routing, on-demand loader, old date archive & footer version tests
+        ├── daily.test.js             # Daily generator unit tests
+        ├── daily-build.test.js       # Build + daily integration tests
+        ├── news.test.js              # Multi-subject 100-question news CLI tests
+        ├── question-schema.test.js   # Schema validation tests
+        └── workflows.test.js         # Workflow installer tests
 ```
 
 ## Question bank

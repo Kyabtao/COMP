@@ -12,7 +12,7 @@
   "banking"
  ],
  "blurb": "Synonyms, antonyms, idioms, one-word substitutes, spellings and grammar.",
- "count": 1009,
+ "count": 1045,
  "questions": [
   {
    "id": "english-00001",
@@ -15157,6 +15157,582 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "english-daily-2026-10-23-03",
+   "question": "In competitive English usage, which word is most nearly opposite in meaning (antonym) to 'Ample'?",
+   "options": [
+    "Extrinsic",
+    "Insufficient",
+    "Diminish",
+    "Frugal"
+   ],
+   "answer": 1,
+   "explanation": "The antonym (opposite) of 'Ample' is 'Insufficient'.",
+   "topic": "Competitive English — Antonyms & Opposites",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "english-daily-2026-10-23-28",
+   "question": "In English vocabulary, which single word substitutes for the phrase 'One who cannot be avoided'?",
+   "options": [
+    "Teetotaller",
+    "Pharmacy",
+    "Inevitable",
+    "Centenarian"
+   ],
+   "answer": 2,
+   "explanation": "The one-word substitute for 'One who cannot be avoided' is 'Inevitable'.",
+   "topic": "Competitive English — One-Word Substitutions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "english-daily-2026-10-23-53",
+   "question": "In competitive English vocabulary, which word is closest in meaning (synonym) to 'Fickle'?",
+   "options": [
+    "Changeable",
+    "Hide",
+    "Pleasant",
+    "Exhaust"
+   ],
+   "answer": 0,
+   "explanation": "The word 'Fickle' is synonymous with 'Changeable'.",
+   "topic": "Competitive English — Synonyms & Vocabulary",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "english-daily-2026-10-23-78",
+   "question": "In English comprehension and competitive exams, what does the idiom 'Cut a sorry figure' mean?",
+   "options": [
+    "A hidden enemy",
+    "Make a poor impression",
+    "Die",
+    "In close partnership"
+   ],
+   "answer": 1,
+   "explanation": "The idiom 'Cut a sorry figure' means Make a poor impression.",
+   "topic": "Competitive English — Idioms & Phrases",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "english-daily-2026-10-24-03",
+   "question": "In competitive English usage, what does the expression or literary term 'Inversion after negative adverbs ('Seldom', 'Hardly', 'No sooner')' mean?",
+   "options": [
+    "A victory won at such a devastating cost that it is tantamount to defeat",
+    "An apparently free choice where there is in reality only one option offered: take it or leave it",
+    "Places the auxiliary verb before the subject when a negative adverbial opens a sentence",
+    "A costly possession that is burdensome to maintain and yields little practical value"
+   ],
+   "answer": 2,
+   "explanation": "'Inversion after negative adverbs ('Seldom', 'Hardly', 'No sooner')' means: Places the auxiliary verb before the subject when a negative adverbial opens a sentence. (Example: 'No sooner had the train arrived than the passengers boarded' ('No sooner... than', 'Hardly... when'))",
+   "topic": "Competitive English & Grammar Usage",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "english-daily-2026-10-24-28",
+   "question": "In competitive English vocabulary, which word is closest in meaning (synonym) to 'Foment'?",
+   "options": [
+    "Frivolous",
+    "Sociable",
+    "Incite",
+    "Worsen"
+   ],
+   "answer": 2,
+   "explanation": "The word 'Foment' is synonymous with 'Incite'.",
+   "topic": "Competitive English — Synonyms & Vocabulary",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "english-daily-2026-10-24-53",
+   "question": "In English vocabulary, which single word substitutes for the phrase 'A long speech by one person in a group'?",
+   "options": [
+    "Sexagenarian",
+    "Apiary",
+    "Somniloquist",
+    "Monologue"
+   ],
+   "answer": 3,
+   "explanation": "The one-word substitute for 'A long speech by one person in a group' is 'Monologue'.",
+   "topic": "Competitive English — One-Word Substitutions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "english-daily-2026-10-24-78",
+   "question": "In competitive English usage, which word is most nearly opposite in meaning (antonym) to 'Condone'?",
+   "options": [
+    "Conventional",
+    "Condemn",
+    "Blameworthy",
+    "Safe"
+   ],
+   "answer": 1,
+   "explanation": "The antonym (opposite) of 'Condone' is 'Condemn'.",
+   "topic": "Competitive English — Antonyms & Opposites",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "english-daily-2026-10-25-03",
+   "question": "In competitive English usage, which word is most nearly opposite in meaning (antonym) to 'Austere'?",
+   "options": [
+    "Luxurious",
+    "Liking",
+    "Assist",
+    "Agreement"
+   ],
+   "answer": 0,
+   "explanation": "The antonym (opposite) of 'Austere' is 'Luxurious'.",
+   "topic": "Competitive English — Antonyms & Opposites",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "english-daily-2026-10-25-28",
+   "question": "In competitive English vocabulary, which word is closest in meaning (synonym) to 'Belittle'?",
+   "options": [
+    "Skill",
+    "Thin",
+    "Disparage",
+    "Obvious"
+   ],
+   "answer": 2,
+   "explanation": "The word 'Belittle' is synonymous with 'Disparage'.",
+   "topic": "Competitive English — Synonyms & Vocabulary",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "english-daily-2026-10-25-53",
+   "question": "In English vocabulary, which single word substitutes for the phrase 'One who lives alone and avoids company'?",
+   "options": [
+    "Bureaucracy",
+    "Hermit",
+    "Baker",
+    "Polyglot"
+   ],
+   "answer": 1,
+   "explanation": "The one-word substitute for 'One who lives alone and avoids company' is 'Hermit'.",
+   "topic": "Competitive English — One-Word Substitutions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "english-daily-2026-10-25-78",
+   "question": "In English comprehension and competitive exams, what does the idiom 'Carry coals to Newcastle' mean?",
+   "options": [
+    "An achievement to be proud of",
+    "A hidden enemy",
+    "Do a pointless thing",
+    "Lose one's temper suddenly"
+   ],
+   "answer": 2,
+   "explanation": "The idiom 'Carry coals to Newcastle' means Do a pointless thing.",
+   "topic": "Competitive English — Idioms & Phrases",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "english-daily-2026-10-26-03",
+   "question": "In competitive English vocabulary, which word is closest in meaning (synonym) to 'Augment'?",
+   "options": [
+    "Increase",
+    "Disparage",
+    "Deceitful",
+    "Fluent"
+   ],
+   "answer": 0,
+   "explanation": "The word 'Augment' is synonymous with 'Increase'.",
+   "topic": "Competitive English — Synonyms & Vocabulary",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "english-daily-2026-10-26-28",
+   "question": "In English vocabulary, which single word substitutes for the phrase 'One who studies languages'?",
+   "options": [
+    "Autobiography",
+    "Linguist",
+    "Obsolete",
+    "Zoo"
+   ],
+   "answer": 1,
+   "explanation": "The one-word substitute for 'One who studies languages' is 'Linguist'.",
+   "topic": "Competitive English — One-Word Substitutions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "english-daily-2026-10-26-53",
+   "question": "In English comprehension and competitive exams, what does the idiom 'A fish out of water' mean?",
+   "options": [
+    "One's nature cannot be changed",
+    "A person in an uncomfortable situation",
+    "An unexpected event",
+    "Praise oneself"
+   ],
+   "answer": 1,
+   "explanation": "The idiom 'A fish out of water' means A person in an uncomfortable situation.",
+   "topic": "Competitive English — Idioms & Phrases",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "english-daily-2026-10-26-78",
+   "question": "In competitive English usage, which word is most nearly opposite in meaning (antonym) to 'Deficient'?",
+   "options": [
+    "Order",
+    "Fine",
+    "Convict",
+    "Sufficient"
+   ],
+   "answer": 3,
+   "explanation": "The antonym (opposite) of 'Deficient' is 'Sufficient'.",
+   "topic": "Competitive English — Antonyms & Opposites",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "english-daily-2026-10-27-03",
+   "question": "In English vocabulary, which single word substitutes for the phrase 'Rule by a mob'?",
+   "options": [
+    "Omniscient",
+    "Fragile",
+    "Mobocracy",
+    "Numismatist"
+   ],
+   "answer": 2,
+   "explanation": "The one-word substitute for 'Rule by a mob' is 'Mobocracy'.",
+   "topic": "Competitive English — One-Word Substitutions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "english-daily-2026-10-27-28",
+   "question": "In competitive English usage, which word is most nearly opposite in meaning (antonym) to 'Ascend'?",
+   "options": [
+    "Clear",
+    "Descend",
+    "Verbose",
+    "Impossible"
+   ],
+   "answer": 1,
+   "explanation": "The antonym (opposite) of 'Ascend' is 'Descend'.",
+   "topic": "Competitive English — Antonyms & Opposites",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "english-daily-2026-10-27-53",
+   "question": "In English comprehension and competitive exams, what does the idiom 'At sixes and sevens' mean?",
+   "options": [
+    "At the last moment",
+    "In disorder",
+    "A very difficult task",
+    "A hidden enemy"
+   ],
+   "answer": 1,
+   "explanation": "The idiom 'At sixes and sevens' means In disorder.",
+   "topic": "Competitive English — Idioms & Phrases",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "english-daily-2026-10-27-78",
+   "question": "In competitive English vocabulary, which word is closest in meaning (synonym) to 'Hostile'?",
+   "options": [
+    "Unfriendly",
+    "Skill",
+    "Perceive",
+    "Relieve"
+   ],
+   "answer": 0,
+   "explanation": "The word 'Hostile' is synonymous with 'Unfriendly'.",
+   "topic": "Competitive English — Synonyms & Vocabulary",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "english-daily-2026-10-28-03",
+   "question": "In competitive English usage, which word is most nearly opposite in meaning (antonym) to 'Brevity'?",
+   "options": [
+    "Length",
+    "Reasonable",
+    "Biased",
+    "Neglect"
+   ],
+   "answer": 0,
+   "explanation": "The antonym (opposite) of 'Brevity' is 'Length'.",
+   "topic": "Competitive English — Antonyms & Opposites",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "english-daily-2026-10-28-28",
+   "question": "In English vocabulary, which single word substitutes for the phrase 'A place where coins and stamps are made'?",
+   "options": [
+    "Xenophobic",
+    "Drunkard",
+    "Demographer",
+    "Mint"
+   ],
+   "answer": 3,
+   "explanation": "The one-word substitute for 'A place where coins and stamps are made' is 'Mint'.",
+   "topic": "Competitive English — One-Word Substitutions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "english-daily-2026-10-28-53",
+   "question": "In competitive English vocabulary, which word is closest in meaning (synonym) to 'Expedite'?",
+   "options": [
+    "Shy",
+    "Diligent",
+    "Praise",
+    "Hasten"
+   ],
+   "answer": 3,
+   "explanation": "The word 'Expedite' is synonymous with 'Hasten'.",
+   "topic": "Competitive English — Synonyms & Vocabulary",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "english-daily-2026-10-28-78",
+   "question": "In English comprehension and competitive exams, what does the idiom 'As the crow flies' mean?",
+   "options": [
+    "In a straight line",
+    "A constant source of trouble",
+    "Generally",
+    "By fair or unfair means"
+   ],
+   "answer": 0,
+   "explanation": "The idiom 'As the crow flies' means In a straight line.",
+   "topic": "Competitive English — Idioms & Phrases",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "english-daily-2026-10-29-03",
+   "question": "In English vocabulary, which single word substitutes for the phrase 'One who cannot be corrected'?",
+   "options": [
+    "Incorrigible",
+    "Bibliophile",
+    "Mortuary",
+    "Teetotaller"
+   ],
+   "answer": 0,
+   "explanation": "The one-word substitute for 'One who cannot be corrected' is 'Incorrigible'.",
+   "topic": "Competitive English — One-Word Substitutions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "english-daily-2026-10-29-28",
+   "question": "In English comprehension and competitive exams, what does the idiom 'Close shave' mean?",
+   "options": [
+    "In disorder",
+    "A narrow escape",
+    "Take advantage of disturbance",
+    "Ill feeling"
+   ],
+   "answer": 1,
+   "explanation": "The idiom 'Close shave' means A narrow escape.",
+   "topic": "Competitive English — Idioms & Phrases",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "english-daily-2026-10-29-53",
+   "question": "In competitive English vocabulary, which word is closest in meaning (synonym) to 'Eloquent'?",
+   "options": [
+    "Describe",
+    "Trivial",
+    "Fluent",
+    "Reveal"
+   ],
+   "answer": 2,
+   "explanation": "The word 'Eloquent' is synonymous with 'Fluent'.",
+   "topic": "Competitive English — Synonyms & Vocabulary",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "english-daily-2026-10-29-78",
+   "question": "In English vocabulary, which single word substitutes for the phrase 'Something that can be easily broken'?",
+   "options": [
+    "Pessimist",
+    "Utopia",
+    "Dockyard",
+    "Fragile"
+   ],
+   "answer": 3,
+   "explanation": "The one-word substitute for 'Something that can be easily broken' is 'Fragile'.",
+   "topic": "Competitive English — One-Word Substitutions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "english-daily-2026-10-30-03",
+   "question": "In competitive English vocabulary, which word is closest in meaning (synonym) to 'Destitute'?",
+   "options": [
+    "Perceive",
+    "Deceitful",
+    "Penniless",
+    "Lawlessness"
+   ],
+   "answer": 2,
+   "explanation": "The word 'Destitute' is synonymous with 'Penniless'.",
+   "topic": "Competitive English — Synonyms & Vocabulary",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "english-daily-2026-10-30-28",
+   "question": "In English comprehension and competitive exams, what does the idiom 'Bring to book' mean?",
+   "options": [
+    "Completely",
+    "At the last moment",
+    "Come to the essential point",
+    "Punish"
+   ],
+   "answer": 3,
+   "explanation": "The idiom 'Bring to book' means Punish.",
+   "topic": "Competitive English — Idioms & Phrases",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "english-daily-2026-10-30-53",
+   "question": "In competitive English usage, which word is most nearly opposite in meaning (antonym) to 'Innate'?",
+   "options": [
+    "Facilitate",
+    "Stabilise",
+    "Acquired",
+    "Replenish"
+   ],
+   "answer": 2,
+   "explanation": "The antonym (opposite) of 'Innate' is 'Acquired'.",
+   "topic": "Competitive English — Antonyms & Opposites",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "english-daily-2026-10-30-78",
+   "question": "In English vocabulary, which single word substitutes for the phrase 'One who does not know how to read and write'?",
+   "options": [
+    "Sexagenarian",
+    "Bureaucracy",
+    "Illiterate",
+    "Omnipresent"
+   ],
+   "answer": 2,
+   "explanation": "The one-word substitute for 'One who does not know how to read and write' is 'Illiterate'.",
+   "topic": "Competitive English — One-Word Substitutions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "english-daily-2026-10-31-03",
+   "question": "In competitive English usage, what does the expression or literary term 'Singular agreement with 'Many a'' mean?",
+   "options": [
+    "Places the auxiliary verb before the subject when a negative adverbial opens a sentence",
+    "A victory won at such a devastating cost that it is tantamount to defeat",
+    "Solve an intractably complex problem through bold, decisive and direct action",
+    "Takes a singular countable noun and a singular verb despite conveying a plural meaning"
+   ],
+   "answer": 3,
+   "explanation": "'Singular agreement with 'Many a'' means: Takes a singular countable noun and a singular verb despite conveying a plural meaning. (Example: 'Many a candidate has cleared the examination with disciplined practice')",
+   "topic": "Competitive English & Grammar Usage",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "english-daily-2026-10-31-28",
+   "question": "In competitive English usage, which word is most nearly opposite in meaning (antonym) to 'Laconic'?",
+   "options": [
+    "Verbose",
+    "Suppress",
+    "Seriousness",
+    "Reasonable"
+   ],
+   "answer": 0,
+   "explanation": "The antonym (opposite) of 'Laconic' is 'Verbose'.",
+   "topic": "Competitive English — Antonyms & Opposites",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "english-daily-2026-10-31-53",
+   "question": "In English vocabulary, which single word substitutes for the phrase 'One who eats human flesh'?",
+   "options": [
+    "Manifest",
+    "Sexagenarian",
+    "Vegan",
+    "Cannibal"
+   ],
+   "answer": 3,
+   "explanation": "The one-word substitute for 'One who eats human flesh' is 'Cannibal'.",
+   "topic": "Competitive English — One-Word Substitutions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "english-daily-2026-10-31-78",
+   "question": "In English comprehension and competitive exams, what does the idiom 'Hold water' mean?",
+   "options": [
+    "Be logically sound",
+    "Most important",
+    "Become known",
+    "Cowardly"
+   ],
+   "answer": 0,
+   "explanation": "The idiom 'Hold water' means Be logically sound.",
+   "topic": "Competitive English — Idioms & Phrases",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
   }
  ]
 };

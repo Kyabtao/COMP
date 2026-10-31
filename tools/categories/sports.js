@@ -12,7 +12,7 @@
   "railways"
  ],
  "blurb": "Trophies, terms, players and tournaments.",
- "count": 388,
+ "count": 300,
  "questions": [
   {
    "id": "sports-00001",
@@ -3979,1988 +3979,580 @@
    "dailyDate": "2026-10-22"
   },
   {
+   "id": "sports-daily-2026-10-23-21",
+   "question": "In competitive sports awareness, with which sport is the 'Champions Trophy (Cricket)' associated?",
+   "options": [
+    "Tennis",
+    "Football",
+    "Badminton",
+    "Cricket"
+   ],
+   "answer": 3,
+   "explanation": "The Champions Trophy (Cricket) is a major tournament or trophy in Cricket.",
+   "topic": "Sports — Major Trophies, Cups & Team Formats",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "sports-daily-2026-10-23-46",
+   "question": "Which team, athlete or host city is associated with '2024 ICC Women's T20 World Cup (hosted in UAE)' in recent sports news?",
+   "options": [
+    "Indian Men's Hockey Team (captained by Harmanpreet Singh)",
+    "NorthEast United FC (final at Salt Lake Stadium, Kolkata)",
+    "Services Football Team (hosted in Yupia, Arunachal Pradesh)",
+    "New Zealand White Ferns"
+   ],
+   "answer": 3,
+   "explanation": "2024 ICC Women's T20 World Cup (hosted in UAE) — New Zealand White Ferns (New Zealand defeated South Africa by 32 runs in the Dubai final to lift their maiden ICC Women's T20 World Cup).",
+   "topic": "Sports Championships, Trophies & Venues in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "sports-daily-2026-10-23-71",
+   "question": "Under official sporting regulations, how many players take the field on one side in 'Kho Kho'?",
+   "options": [
+    "5",
+    "2",
+    "9",
+    "15"
+   ],
+   "answer": 2,
+   "explanation": "In official rules, a Kho Kho team fields 9 players per side.",
+   "topic": "Sports — Players per Team in Official Disciplines",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "sports-daily-2026-10-23-96",
+   "question": "In competitive sports awareness, with which sport is the 'Copa America' associated?",
+   "options": [
+    "Football",
+    "Hockey",
+    "Tennis",
+    "Badminton"
+   ],
+   "answer": 0,
+   "explanation": "The Copa America is a major tournament or trophy in Football.",
+   "topic": "Sports — Major Trophies, Cups & Team Formats",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "sports-daily-2026-10-24-21",
+   "question": "Under official sporting regulations, how many players take the field on one side in 'Polo'?",
+   "options": [
+    "9",
+    "4",
+    "6",
+    "7"
+   ],
+   "answer": 1,
+   "explanation": "In official rules, a Polo team fields 4 players per side.",
+   "topic": "Sports — Players per Team in Official Disciplines",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
    "id": "sports-daily-2026-10-24-46",
-   "question": "Which current affairs development was reported regarding: \"Rieko trumps the favourite Stud Poker for a stunning win in the Sprinters’ Cup; Dyf lives up to the billing in the Stayers’ Cup\"?",
+   "question": "In competitive sports awareness, with which sport is the 'Beighton Cup' associated?",
    "options": [
-    "Invitation Cup weekend: Royal Legacy runs to glory in the Mysore Derby",
-    "Australia face selection headaches after 'shambolic' South Africa defeat",
-    "S. Meghana retires from all forms of cricket",
-    "England's Bodhana Sivanandan becomes International Master at age of 11, breaks 38-year-old record"
-   ],
-   "answer": 0,
-   "explanation": "Invitation Cup weekend: Royal Legacy runs to glory in the Mysore Derby — Rieko trumps the favourite Stud Poker for a stunning win in the Sprinters’ Cup; Dyf lives up to the billing in the Stayers’ Cup (The Hindu — Sports, Sat, 24 Oct 2026 22:40:28 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-24"
-  },
-  {
-   "id": "sports-daily-2026-10-24-47",
-   "question": "Which current affairs development was reported regarding: \"Unai Emery’s team climbed to sixth on 11 points with their first league victory ​at Villa Park this ‌season and third successive league win over City\"?",
-   "options": [
-    "The injury layoff helped me focus on the controllables: Ajith Ram",
-    "Premier League: Jackson double ends Man City’s perfect run as Villa win 2-1",
-    "Naman Dhir — teeing off in style",
-    "Asian Para Games: Thulasimathi Murugesan wins gold, ends day with three medals"
-   ],
-   "answer": 1,
-   "explanation": "Premier League: Jackson double ends Man City’s perfect run as Villa win 2-1 — Unai Emery’s team climbed to sixth on 11 points with their first league victory ​at Villa Park this ‌season and third successive league win over City (The Hindu — Sports, Sat, 24 Oct 2026 19:20:57 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-24"
-  },
-  {
-   "id": "sports-daily-2026-10-24-48",
-   "question": "Which current affairs development was reported regarding: \"‘Well you know I was elected by 211 member associations from all over the world, I think what is important is that in an organization like FIFA, there can be different views, different points of view,’ said Gianni...\"?",
-   "options": [
-    "Miami Vice, Noraiah and Your Unforgettable catch the eye",
-    "IND vs NZ second T20I: Tilak Varma’s unbeaten 51 fuels India’s four-wicket win in 2nd T20I",
-    "Infantino says he’s supported by ‘vast, vast majority’ of football ahead of FIFA elections",
-    "Asian Para Games 2026: Nitesh, Naveen triumph gold in badminton; Thulasimathi, Nitya claim silver"
-   ],
-   "answer": 2,
-   "explanation": "Infantino says he’s supported by ‘vast, vast majority’ of football ahead of FIFA elections — ‘Well you know I was elected by 211 member associations from all over the world, I think what is important is that in an organization like FIFA, there can be different views, different points of view,’ said Gianni... (The Hindu — Sports, Sat, 24 Oct 2026 19:11:30 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-24"
-  },
-  {
-   "id": "sports-daily-2026-10-24-49",
-   "question": "Which current affairs development was reported regarding: \"The iconic fixture that pits Barcelona versus Real Madrid continues to stop the world. Why does it evoke such interest? Why is there such ‘needle’ between the sides? And how will the managers of the two Spanish...\"?",
-   "options": [
-    "El Clasico: Flick, Mourinho and the morbo of all morbos",
-    "Asian Para Games 2026: Sandeep, Haney win gold with world records",
-    "Invitation Cup weekend: Royal Legacy runs to glory in the Mysore Derby",
-    "Asian Para Games 2026: India wins gold in para recurve men’s doubles archery"
-   ],
-   "answer": 0,
-   "explanation": "El Clasico: Flick, Mourinho and the morbo of all morbos — The iconic fixture that pits Barcelona versus Real Madrid continues to stop the world. Why does it evoke such interest? Why is there such ‘needle’ between the sides? And how will the managers of the two Spanish... (The Hindu — Sports, Sat, 24 Oct 2026 18:41:47 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-24"
-  },
-  {
-   "id": "sports-daily-2026-10-24-50",
-   "question": "Which current affairs development was reported regarding: \"The 32-year-old veteran, in unfamiliar territory on home ground, takes a one stroke lead over defending champion Shannon and three-time winner Pornanong\"?",
-   "options": [
-    "Indian Super League: Blasters and Mumbai will look to put their indifferent starts to the season behind them",
-    "Hero Women’s Indian Open: Vani in the van for the first time ever in a LET event",
-    "Bihar to host India-New Zealand Under-20 Rugby Series",
-    "Asian Para Games 2026: Nitesh, Naveen triumph gold in badminton; Thulasimathi, Nitya claim silver"
-   ],
-   "answer": 1,
-   "explanation": "Hero Women’s Indian Open: Vani in the van for the first time ever in a LET event — The 32-year-old veteran, in unfamiliar territory on home ground, takes a one stroke lead over defending champion Shannon and three-time winner Pornanong (The Hindu — Sports, Sat, 24 Oct 2026 18:13:56 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-24"
-  },
-  {
-   "id": "sports-daily-2026-10-24-51",
-   "question": "Which current affairs development was reported regarding: \"Bayern Munich said on October 24 that coach Vincent Kompany will undergo more testing to determine why he collapsed during a training session the previous day\"?",
-   "options": [
-    "Women in Blue start firm favourites as focus shifts to ODIs",
-    "Bayern Munich says coach Vincent Kompany is ’stable’ after collapsing at Friday training session",
-    "Quality of Indian content has improved drastically, appeals to other cultures as well: JioStar international business chief",
-    "USA to host women's football Club World Cup in 2028 - FIFA"
-   ],
-   "answer": 1,
-   "explanation": "Bayern Munich says coach Vincent Kompany is ’stable’ after collapsing at Friday training session — Bayern Munich said on October 24 that coach Vincent Kompany will undergo more testing to determine why he collapsed during a training session the previous day (The Hindu — Sports, Sat, 24 Oct 2026 18:04:49 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-24"
-  },
-  {
-   "id": "sports-daily-2026-10-24-52",
-   "question": "Which current affairs development was reported regarding: \"Sindhu registered a 21-10, 20-22, 21-16 win over Japan’s Hina Akechi in an hour and 13 minutes\"?",
-   "options": [
-    "Parvinder Awana to head BCCI junior selection committee",
-    "El Clasico: Flick, Mourinho and the morbo of all morbos",
-    "Sindhu reaches French Open badminton final",
-    "Women in Blue start firm favourites as focus shifts to ODIs"
-   ],
-   "answer": 2,
-   "explanation": "Sindhu reaches French Open badminton final — Sindhu registered a 21-10, 20-22, 21-16 win over Japan’s Hina Akechi in an hour and 13 minutes (The Hindu — Sports, Sat, 24 Oct 2026 16:44:10 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-24"
-  },
-  {
-   "id": "sports-daily-2026-10-24-53",
-   "question": "Which current affairs development was reported regarding: \"Chasing 180, India slipped to 112 for six in the 15th over but Tilak turned the tables on New Zealand, scoring 51 not out off 26 balls with six fours and a six\"?",
-   "options": [
-    "Dominant India aims to seal ODI series against Zimbabwe",
-    "IND vs NZ second T20I: Tilak Varma’s unbeaten 51 fuels India’s four-wicket win in 2nd T20I",
-    "Promising Indian sprinter Dondapati Jayaram dies in road accident",
-    "Hero Women’s Indian Open: Vani in the van for the first time ever in a LET event"
-   ],
-   "answer": 1,
-   "explanation": "IND vs NZ second T20I: Tilak Varma’s unbeaten 51 fuels India’s four-wicket win in 2nd T20I — Chasing 180, India slipped to 112 for six in the 15th over but Tilak turned the tables on New Zealand, scoring 51 not out off 26 balls with six fours and a six (The Hindu — Sports, Sat, 24 Oct 2026 16:26:49 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-24"
-  },
-  {
-   "id": "sports-daily-2026-10-24-54",
-   "question": "Which current affairs development was reported regarding: \"What makes El Clásico one of football’s greatest rivalries? Srinivasan Ramani, The Hindu’s Deputy National Editor, joins In Focus to explore the history, politics, identity and footballing philosophies behind the...\"?",
-   "options": [
-    "Asian Para Games 2026: Sandeep, Haney win gold with world records",
-    "Dominant India aims to seal ODI series against Zimbabwe",
-    "The injury layoff helped me focus on the controllables: Ajith Ram",
-    "What makes Real Madrid vs Barcelona football’s greatest rivalry? | In Focus Podcast"
+    "Multi-sport",
+    "Cricket",
+    "Football",
+    "Hockey"
    ],
    "answer": 3,
-   "explanation": "What makes Real Madrid vs Barcelona football’s greatest rivalry? | In Focus Podcast — What makes El Clásico one of football’s greatest rivalries? Srinivasan Ramani, The Hindu’s Deputy National Editor, joins In Focus to explore the history, politics, identity and footballing philosophies behind the... (The Hindu — Sports, Sat, 24 Oct 2026 16:01:29 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-24"
-  },
-  {
-   "id": "sports-daily-2026-10-24-55",
-   "question": "Which current affairs development was reported regarding: \"Meet 10-year-old Guru Tarun SK from the city, who has been selected by the Federation of Motor Sports Clubs of India (FMSCI) to represent India in the Under-12 category\"?",
-   "options": [
-    "Asian Para Games 2026: Sandeep, Haney win gold with world records",
-    "World Billiards Championship: Cue sports icon Pankaj Advani wins 29th world title",
-    "Coimbatore boy to represent India at Asia Pacific Motorsport Championship 2026",
-    "Premier League: Jackson double ends Man City’s perfect run as Villa win 2-1"
-   ],
-   "answer": 2,
-   "explanation": "Coimbatore boy to represent India at Asia Pacific Motorsport Championship 2026 — Meet 10-year-old Guru Tarun SK from the city, who has been selected by the Federation of Motor Sports Clubs of India (FMSCI) to represent India in the Under-12 category (The Hindu — Sports, Sat, 24 Oct 2026 13:45:31 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-24"
-  },
-  {
-   "id": "sports-daily-2026-10-24-56",
-   "question": "Which current affairs development was reported regarding: \"At this week's European Women's Chess Club Cup, Sivanandan came close to drawing her opening-round match against Russian Grandmaster Aleksandra Goryachkina before defeating Belarusian International Master Olga...\"?",
-   "options": [
-    "Asian Para Games 2026: India wins gold in para recurve men’s doubles archery",
-    "Sindhu reaches French Open badminton final",
-    "Asian football endorses Infantino re-election in apparent U-turn",
-    "England's Bodhana Sivanandan becomes International Master at age of 11, breaks 38-year-old record"
-   ],
-   "answer": 3,
-   "explanation": "England's Bodhana Sivanandan becomes International Master at age of 11, breaks 38-year-old record — At this week's European Women's Chess Club Cup, Sivanandan came close to drawing her opening-round match against Russian Grandmaster Aleksandra Goryachkina before defeating Belarusian International Master Olga... (The Hindu — Sports, Sat, 24 Oct 2026 11:12:02 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-24"
-  },
-  {
-   "id": "sports-daily-2026-10-24-57",
-   "question": "Which current affairs development was reported regarding: \"Pollard replaces Mahela Jayawardene, whose two-season second stint ended with a disappointing IPL 2026 campaign for the team\"?",
-   "options": [
-    "Ayush Mhatre undergoes surgery for hamstring injury, sidelined for about three months",
-    "Premier League: Jackson double ends Man City’s perfect run as Villa win 2-1",
-    "Chiara manages to hold on to the top spot; Pranavi stays within striking distance",
-    "Kieron Pollard appointed as head coach for Mumbai Indians"
-   ],
-   "answer": 3,
-   "explanation": "Kieron Pollard appointed as head coach for Mumbai Indians — Pollard replaces Mahela Jayawardene, whose two-season second stint ended with a disappointing IPL 2026 campaign for the team (The Hindu — Sports, Sat, 24 Oct 2026 10:51:59 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-24"
-  },
-  {
-   "id": "sports-daily-2026-10-24-58",
-   "question": "Which current affairs development was reported regarding: \"JioStar recently tied up with international streaming platform Starz Play to expand into the Middle East and North Africa regions. Last month it expanded into Singapore, the UK, and Canada\"?",
-   "options": [
-    "Promising Indian sprinter Dondapati Jayaram dies in road accident",
-    "Quality of Indian content has improved drastically, appeals to other cultures as well: JioStar international business chief",
-    "S. Meghana retires from all forms of cricket",
-    "The Golden Dream and Femme Fatale impress"
-   ],
-   "answer": 1,
-   "explanation": "Quality of Indian content has improved drastically, appeals to other cultures as well: JioStar international business chief — JioStar recently tied up with international streaming platform Starz Play to expand into the Middle East and North Africa regions. Last month it expanded into Singapore, the UK, and Canada (The Hindu — Sports, Sat, 24 Oct 2026 10:42:10 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-24"
-  },
-  {
-   "id": "sports-daily-2026-10-24-59",
-   "question": "Which current affairs development was reported regarding: \"Australia collapsed to 99 all out in their first innings and were then dismissed for 295, with a superb 121 from Travis Head and defiant 40 off 166 balls by nightwatchman Scott Boland the only highlights\"?",
-   "options": [
-    "Women in Blue start firm favourites as focus shifts to ODIs",
-    "Asian Para Games 2026: India wins gold in para recurve men’s doubles archery",
-    "The Golden Dream and Femme Fatale impress",
-    "Australia face selection headaches after 'shambolic' South Africa defeat"
-   ],
-   "answer": 3,
-   "explanation": "Australia face selection headaches after 'shambolic' South Africa defeat — Australia collapsed to 99 all out in their first innings and were then dismissed for 295, with a superb 121 from Travis Head and defiant 40 off 166 balls by nightwatchman Scott Boland the only highlights (The Hindu — Sports, Sat, 24 Oct 2026 03:31:32 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-24"
-  },
-  {
-   "id": "sports-daily-2026-10-24-60",
-   "question": "Which current affairs development was reported regarding: \"The 56-year-old Swiss was present at a Tokyo meeting of the Asian Football Confederation (AFC) when president Sheikh Salman bin Ebrahim al-Khalifa gave his unequivocal backing, in a significant boost to Infantino’s...\"?",
-   "options": [
-    "Asian football endorses Infantino re-election in apparent U-turn",
-    "Bihar to host India-New Zealand Under-20 Rugby Series",
-    "IND vs NZ second T20I: Tilak Varma’s unbeaten 51 fuels India’s four-wicket win in 2nd T20I",
-    "Sindhu, Ashmita enter quarterfinals of French Open badminton"
-   ],
-   "answer": 0,
-   "explanation": "Asian football endorses Infantino re-election in apparent U-turn — The 56-year-old Swiss was present at a Tokyo meeting of the Asian Football Confederation (AFC) when president Sheikh Salman bin Ebrahim al-Khalifa gave his unequivocal backing, in a significant boost to Infantino’s... (The Hindu — Sports, Sat, 24 Oct 2026 03:25:32 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-24"
-  },
-  {
-   "id": "sports-daily-2026-10-24-61",
-   "question": "Which current affairs development was reported regarding: \"After taking the opening game 11-6, the Indians lost the next two, leaving themselves under enormous pressure. However, the duo responded impressively, winning the fourth game 11-9 before holding their nerve to...\"?",
-   "options": [
-    "Ishan Kishan ruled out of 2nd T20I against New Zealand",
-    "Ayush Mhatre undergoes surgery for hamstring injury, sidelined for about three months",
-    "Asian Para Games: Thulasimathi Murugesan wins gold, ends day with three medals",
-    "India wins historic first mixed doubles medal at Asian TT in 72 years"
-   ],
-   "answer": 3,
-   "explanation": "India wins historic first mixed doubles medal at Asian TT in 72 years — After taking the opening game 11-6, the Indians lost the next two, leaving themselves under enormous pressure. However, the duo responded impressively, winning the fourth game 11-9 before holding their nerve to... (The Hindu — Sports, Sat, 24 Oct 2026 03:19:28 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-24"
-  },
-  {
-   "id": "sports-daily-2026-10-24-62",
-   "question": "Which current affairs development was reported regarding: \"Both Agarwal and Kumar won two gold medals each at the Games.\"?",
-   "options": [
-    "Chiara manages to hold on to the top spot; Pranavi stays within striking distance",
-    "Naman Dhir — teeing off in style",
-    "Sri Lanka trumps Brook's fastest double century to beat England by two wickets in cricket tri-series",
-    "Mona and Nishad to be India's flag-bearers at closing ceremony of Asian Para Games"
-   ],
-   "answer": 3,
-   "explanation": "Mona and Nishad to be India's flag-bearers at closing ceremony of Asian Para Games — Both Agarwal and Kumar won two gold medals each at the Games. (The Hindu — Sports, Sat, 24 Oct 2026 03:12:26 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-24"
-  },
-  {
-   "id": "sports-daily-2026-10-24-63",
-   "question": "Which current affairs development was reported regarding: \"The defending champions made a dominant start, with in-form Ramírez scoring in the eighth minute. After receiving the ball on the right side of the penalty area, Ramírez lifted it over Albino Gomes to put East Bengal...\"?",
-   "options": [
-    "Sichuan to meet Denso Iris in the final of FIBA-Women’s Basketball League Asia tournament",
-    "Ranji Trophy: Ticket collector Ravi Singh on the right track",
-    "Ake Loba's brace hand East Bengal easy 5-1 win over Inter Kashi in ISL",
-    "Sambudla dominates proceedings, climbs to the top of the F4 Indian championship"
-   ],
-   "answer": 2,
-   "explanation": "Ake Loba's brace hand East Bengal easy 5-1 win over Inter Kashi in ISL — The defending champions made a dominant start, with in-form Ramírez scoring in the eighth minute. After receiving the ball on the right side of the penalty area, Ramírez lifted it over Albino Gomes to put East Bengal... (The Hindu — Sports, Sat, 24 Oct 2026 03:04:49 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-24"
-  },
-  {
-   "id": "sports-daily-2026-10-24-64",
-   "question": "Which current affairs development was reported regarding: \"\"Ayush Mhatre underwent right hamstring surgery yesterday (on Thursday) at the Kokilaben Hospital in Mumbai, performed by Dr Dinshaw Pardiwala,\" says BCCI source\"?",
-   "options": [
-    "The injury layoff helped me focus on the controllables: Ajith Ram",
-    "World Billiards Championship: Cue sports icon Pankaj Advani wins 29th world title",
-    "Ayush Mhatre undergoes surgery for hamstring injury, sidelined for about three months",
-    "Asian Para Games: Thulasimathi Murugesan wins gold, ends day with three medals"
-   ],
-   "answer": 2,
-   "explanation": "Ayush Mhatre undergoes surgery for hamstring injury, sidelined for about three months — \"Ayush Mhatre underwent right hamstring surgery yesterday (on Thursday) at the Kokilaben Hospital in Mumbai, performed by Dr Dinshaw Pardiwala,\" says BCCI source (The Hindu — Sports, Sat, 24 Oct 2026 02:57:35 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-24"
-  },
-  {
-   "id": "sports-daily-2026-10-24-65",
-   "question": "Which current affairs development was reported regarding: \"\"As I announce my retirement from all formats of cricket as a player, my heart is overflowing with gratitude,\" Meghana wrote in an Instagram post\"?",
-   "options": [
-    "India-Zimbabwe: Good to be back in the room and score runs: Pratika",
-    "World Billiards Championship: Cue sports icon Pankaj Advani wins 29th world title",
-    "Infantino says he’s supported by ‘vast, vast majority’ of football ahead of FIFA elections",
-    "S. Meghana retires from all forms of cricket"
-   ],
-   "answer": 3,
-   "explanation": "S. Meghana retires from all forms of cricket — \"As I announce my retirement from all formats of cricket as a player, my heart is overflowing with gratitude,\" Meghana wrote in an Instagram post (The Hindu — Sports, Sat, 24 Oct 2026 02:52:33 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-24"
-  },
-  {
-   "id": "sports-daily-2026-10-24-66",
-   "question": "Which current affairs development was reported regarding: \"The 36-year-old made the journey from under-19 champion to cricket administrator in less than two decades. He speaks in this interview about the benefits of ex-cricketers running the game, the evolution of the IPL...\"?",
-   "options": [
-    "Hitting hard came naturally; but today, I wouldn’t be in the top 100: Saurabh Tiwary",
-    "Sichuan to meet Denso Iris in the final of FIBA-Women’s Basketball League Asia tournament",
-    "Ayush Mhatre undergoes surgery for hamstring injury, sidelined for about three months",
-    "Invitation Cup weekend: Stud Poker can repeat in Mysore Derby; Time And Tide for Sprinters’ Cup; Red Bishop appeals most in Stayers’ Cup"
-   ],
-   "answer": 0,
-   "explanation": "Hitting hard came naturally; but today, I wouldn’t be in the top 100: Saurabh Tiwary — The 36-year-old made the journey from under-19 champion to cricket administrator in less than two decades. He speaks in this interview about the benefits of ex-cricketers running the game, the evolution of the IPL... (The Hindu — Sports, Fri, 23 Oct 2026 22:51:48 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-24"
-  },
-  {
-   "id": "sports-daily-2026-10-24-67",
-   "question": "Which current affairs development was reported regarding: \"Bharat Petroleum Corporation Ltd. beats Hockey Unit of Tamil Nadu 5-1\"?",
-   "options": [
-    "MCC-Murugappa Gold Cup hockey: Wasteful Railways pips Indian Army",
-    "Ranji Trophy: Ticket collector Ravi Singh on the right track",
-    "World Billiards Championship: Cue sports icon Pankaj Advani wins 29th world title",
-    "Mona and Nishad to be India's flag-bearers at closing ceremony of Asian Para Games"
-   ],
-   "answer": 0,
-   "explanation": "MCC-Murugappa Gold Cup hockey: Wasteful Railways pips Indian Army — Bharat Petroleum Corporation Ltd. beats Hockey Unit of Tamil Nadu 5-1 (The Hindu — Sports, Fri, 23 Oct 2026 19:37:53 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-24"
-  },
-  {
-   "id": "sports-daily-2026-10-24-68",
-   "question": "Which current affairs development was reported regarding: \"Speed Demons Delhi’s Shahan converts pole position into victory in a closely contested opening race of the Indian Racing League (IRL)\"?",
-   "options": [
-    "Dominant India aims to seal ODI series against Zimbabwe",
-    "Chiara manages to hold on to the top spot; Pranavi stays within striking distance",
-    "Sambudla dominates proceedings, climbs to the top of the F4 Indian championship",
-    "Asian Para Games: Thulasimathi Murugesan wins gold, ends day with three medals"
-   ],
-   "answer": 2,
-   "explanation": "Sambudla dominates proceedings, climbs to the top of the F4 Indian championship — Speed Demons Delhi’s Shahan converts pole position into victory in a closely contested opening race of the Indian Racing League (IRL) (The Hindu — Sports, Fri, 23 Oct 2026 18:33:36 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-24"
-  },
-  {
-   "id": "sports-daily-2026-10-24-69",
-   "question": "Which current affairs development was reported regarding: \"After retirement, he moved into coaching, working with Delhi’s U16, U19 and U23 teams, as well as India U19 and various BCCI/COE high-performance programmes\"?",
-   "options": [
-    "Parvinder Awana to head BCCI junior selection committee",
-    "Hitting hard came naturally; but today, I wouldn’t be in the top 100: Saurabh Tiwary",
-    "Ayush Mhatre undergoes surgery for hamstring injury, sidelined for about three months",
-    "Ishan Kishan ruled out of 2nd T20I against New Zealand"
-   ],
-   "answer": 0,
-   "explanation": "Parvinder Awana to head BCCI junior selection committee — After retirement, he moved into coaching, working with Delhi’s U16, U19 and U23 teams, as well as India U19 and various BCCI/COE high-performance programmes (The Hindu — Sports, Fri, 23 Oct 2026 16:00:44 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-24"
-  },
-  {
-   "id": "sports-daily-2026-10-24-70",
-   "question": "Which current affairs development was reported regarding: \"In the first T20 international, the batters saved the day for India after the bowlers endured another ordinary outing\"?",
-   "options": [
-    "IND vs NZ second T20I: Pressure mounts on visiting bowlers at batting-friendly Christchurch",
-    "Infantino says he’s supported by ‘vast, vast majority’ of football ahead of FIFA elections",
-    "Invitation Cup: Zuccaro is in a class of his own; Alfonsine appeals most in Super Mile",
-    "Miami Vice, Noraiah and Your Unforgettable catch the eye"
-   ],
-   "answer": 0,
-   "explanation": "IND vs NZ second T20I: Pressure mounts on visiting bowlers at batting-friendly Christchurch — In the first T20 international, the batters saved the day for India after the bowlers endured another ordinary outing (The Hindu — Sports, Fri, 23 Oct 2026 16:00:10 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
+   "explanation": "The Beighton Cup is a major tournament or trophy in Hockey.",
+   "topic": "Sports — Major Trophies, Cups & Team Formats",
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-24"
   },
   {
    "id": "sports-daily-2026-10-24-71",
-   "question": "Which current affairs development was reported regarding: \"India finished fifth in the 2023 Asian Para Games with a medal tally of 111 (29 gold, 31 silver, 51 bronze)\"?",
+   "question": "Under official sporting regulations, how many players take the field on one side in 'Table tennis (singles)'?",
    "options": [
-    "Parvinder Awana to head BCCI junior selection committee",
-    "Asian Para Games 2026: Indian para-athletes’ medal tally crosses 100",
-    "Sichuan to meet Denso Iris in the final of FIBA-Women’s Basketball League Asia tournament",
-    "Asian football endorses Infantino re-election in apparent U-turn"
+    "5",
+    "1",
+    "15",
+    "6"
    ],
    "answer": 1,
-   "explanation": "Asian Para Games 2026: Indian para-athletes’ medal tally crosses 100 — India finished fifth in the 2023 Asian Para Games with a medal tally of 111 (29 gold, 31 silver, 51 bronze) (The Hindu — Sports, Fri, 23 Oct 2026 15:17:15 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
+   "explanation": "In official rules, a Table tennis (singles) team fields 1 players per side.",
+   "topic": "Sports — Players per Team in Official Disciplines",
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-24"
   },
   {
-   "id": "sports-daily-2026-10-24-72",
-   "question": "Which current affairs development was reported regarding: \"The 41-year-old was the only Indian in the last-four stage and eventually came out on top\"?",
+   "id": "sports-daily-2026-10-24-96",
+   "question": "In competitive sports awareness, with which sport is the 'Thomas Cup' associated?",
    "options": [
-    "World Billiards Championship: Cue sports icon Pankaj Advani wins 29th world title",
-    "IND vs NZ second T20I: Pressure mounts on visiting bowlers at batting-friendly Christchurch",
-    "Asian Para Games 2026: Mona Agarwal wins second gold with world record",
-    "TN coach Murray wants the players to develop a cohesive style of play"
-   ],
-   "answer": 0,
-   "explanation": "World Billiards Championship: Cue sports icon Pankaj Advani wins 29th world title — The 41-year-old was the only Indian in the last-four stage and eventually came out on top (The Hindu — Sports, Fri, 23 Oct 2026 15:11:19 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-24"
-  },
-  {
-   "id": "sports-daily-2026-10-24-73",
-   "question": "Which current affairs development was reported regarding: \"Along with the two silver medals Thulasimathi won earlier in the day, she combined with Manasi Joshi to clinch gold at the women’s doubles SL3-SU5 badminton\"?",
-   "options": [
-    "Asian Para Games: Thulasimathi Murugesan wins gold, ends day with three medals",
-    "Chiara manages to hold on to the top spot; Pranavi stays within striking distance",
-    "What makes Real Madrid vs Barcelona football’s greatest rivalry? | In Focus Podcast",
-    "Infantino says he’s supported by ‘vast, vast majority’ of football ahead of FIFA elections"
-   ],
-   "answer": 0,
-   "explanation": "Asian Para Games: Thulasimathi Murugesan wins gold, ends day with three medals — Along with the two silver medals Thulasimathi won earlier in the day, she combined with Manasi Joshi to clinch gold at the women’s doubles SL3-SU5 badminton (The Hindu — Sports, Fri, 23 Oct 2026 15:02:34 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-24"
-  },
-  {
-   "id": "sports-daily-2026-10-24-74",
-   "question": "Which current affairs development was reported regarding: \"Kotak said the team management should be appreciated for sticking to Samson and Abhishek despite the social media-fuelled clamour for the inclusion of 15-year-old batting sensation Vaibhav Sooryavanshi\"?",
-   "options": [
-    "IND vs NZ T20I series: Sitanshu Kotak lauds Samson, Abhishek’s ‘fearless attitude’ and mind-control",
-    "MCC-Murugappa Gold Cup hockey: Wasteful Railways pips Indian Army",
-    "IND vs NZ second T20I: Pressure mounts on visiting bowlers at batting-friendly Christchurch",
-    "Women in Blue start firm favourites as focus shifts to ODIs"
-   ],
-   "answer": 0,
-   "explanation": "IND vs NZ T20I series: Sitanshu Kotak lauds Samson, Abhishek’s ‘fearless attitude’ and mind-control — Kotak said the team management should be appreciated for sticking to Samson and Abhishek despite the social media-fuelled clamour for the inclusion of 15-year-old batting sensation Vaibhav Sooryavanshi (The Hindu — Sports, Fri, 23 Oct 2026 14:26:40 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-24"
-  },
-  {
-   "id": "sports-daily-2026-10-24-75",
-   "question": "Which current affairs development was reported regarding: \"Earlier, Mona Agarwal had won gold in the women's 10m air rifle standing SH1 event with a Games-record score of 250.0, while Lekhara bagged silver with 249.6 points\"?",
-   "options": [
-    "Anahat Singh enters maiden PSA Gold-level semis at Silicon Valley squash",
-    "Sindhu, Ashmita enter quarterfinals of French Open badminton",
-    "Bayern Munich says coach Vincent Kompany is ’stable’ after collapsing at Friday training session",
-    "Asian Para Games 2026: Mona Agarwal wins second gold with world record"
-   ],
-   "answer": 3,
-   "explanation": "Asian Para Games 2026: Mona Agarwal wins second gold with world record — Earlier, Mona Agarwal had won gold in the women's 10m air rifle standing SH1 event with a Games-record score of 250.0, while Lekhara bagged silver with 249.6 points (The Hindu — Sports, Fri, 23 Oct 2026 10:56:49 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-24"
-  },
-  {
-   "id": "sports-daily-2026-10-24-76",
-   "question": "Which current affairs development was reported regarding: \"Ishan Kishan is ruled out of the second T20I against New Zealand due to a low grade right adductor strain, which he sustained during the first T20I of the series, a BCCI statement added.\"?",
-   "options": [
-    "Asian Para Games 2026: Nitesh, Naveen triumph gold in badminton; Thulasimathi, Nitya claim silver",
-    "Ishan Kishan ruled out of 2nd T20I against New Zealand",
-    "Women in Blue start firm favourites as focus shifts to ODIs",
-    "Anahat Singh enters maiden PSA Gold-level semis at Silicon Valley squash"
-   ],
-   "answer": 1,
-   "explanation": "Ishan Kishan ruled out of 2nd T20I against New Zealand — Ishan Kishan is ruled out of the second T20I against New Zealand due to a low grade right adductor strain, which he sustained during the first T20I of the series, a BCCI statement added. (The Hindu — Sports, Fri, 23 Oct 2026 10:44:18 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-24"
-  },
-  {
-   "id": "sports-daily-2026-10-24-77",
-   "question": "Which current affairs development was reported regarding: \"A day after taking out Egyptian world No.3 and eight-time world champion Nour ElSherbini in straight games, the 18-year-old world No.15 Anahat beat world No.14 Hany 4-11, 11-8, 4-11, 11-2, 11-5 in 42 minutes in the...\"?",
-   "options": [
-    "IND vs NZ second T20I: Pressure mounts on visiting bowlers at batting-friendly Christchurch",
-    "Bayern Munich says coach Vincent Kompany is ’stable’ after collapsing at Friday training session",
-    "Anahat Singh enters maiden PSA Gold-level semis at Silicon Valley squash",
-    "Hitting hard came naturally; but today, I wouldn’t be in the top 100: Saurabh Tiwary"
+    "Cricket",
+    "Tennis",
+    "Badminton",
+    "Football"
    ],
    "answer": 2,
-   "explanation": "Anahat Singh enters maiden PSA Gold-level semis at Silicon Valley squash — A day after taking out Egyptian world No.3 and eight-time world champion Nour ElSherbini in straight games, the 18-year-old world No.15 Anahat beat world No.14 Hany 4-11, 11-8, 4-11, 11-2, 11-5 in 42 minutes in the... (The Hindu — Sports, Fri, 23 Oct 2026 09:53:01 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
+   "explanation": "The Thomas Cup is a major tournament or trophy in Badminton.",
+   "topic": "Sports — Major Trophies, Cups & Team Formats",
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-24"
   },
   {
-   "id": "sports-daily-2026-10-24-78",
-   "question": "Which current affairs development was reported regarding: \"India's Nimisha Chakkungalparambil and Parmod Bijarnia claimed the silver medals in their respective women's long jump T47 and men's 1500m T46 competitions\"?",
+   "id": "sports-daily-2026-10-25-21",
+   "question": "Which team, athlete or host city is associated with '2034 FIFA Men's World Cup Host Nation' in recent sports news?",
    "options": [
-    "TN coach Murray wants the players to develop a cohesive style of play",
-    "Asian Para Games 2026: Sandeep, Haney win gold with world records",
-    "USA to host women's football Club World Cup in 2028 - FIFA",
-    "MCC-Murugappa Gold Cup: Hockey Karnataka rallies to hold PNB"
-   ],
-   "answer": 1,
-   "explanation": "Asian Para Games 2026: Sandeep, Haney win gold with world records — India's Nimisha Chakkungalparambil and Parmod Bijarnia claimed the silver medals in their respective women's long jump T47 and men's 1500m T46 competitions (The Hindu — Sports, Fri, 23 Oct 2026 09:33:15 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-24"
-  },
-  {
-   "id": "sports-daily-2026-10-24-79",
-   "question": "Which current affairs development was reported regarding: \"The Indian duo shared the opening set with China after both sides shot 35. They then took control, winning the second set 37-36 and the third 38-36 to seal the title and take the match 5-1 on set points\"?",
-   "options": [
-    "Kieron Pollard appointed as head coach for Mumbai Indians",
-    "Pratika’s unbeaten century makes it a walk in the park for India",
-    "Asian Para Games 2026: India wins gold in para recurve men’s doubles archery",
-    "Miami Vice, Noraiah and Your Unforgettable catch the eye"
-   ],
-   "answer": 2,
-   "explanation": "Asian Para Games 2026: India wins gold in para recurve men’s doubles archery — The Indian duo shared the opening set with China after both sides shot 35. They then took control, winning the second set 37-36 and the third 38-36 to seal the title and take the match 5-1 on set points (The Hindu — Sports, Fri, 23 Oct 2026 08:46:07 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-24"
-  },
-  {
-   "id": "sports-daily-2026-10-24-80",
-   "question": "Which current affairs development was reported regarding: \"While Nitesh Kumar produced a clinical performance to beat Pramod Bhagat, Naveen Sivakumar showcased his prowess to beat Indonesia’s Fredy Setiawan\"?",
-   "options": [
-    "Asian Para Games 2026: Nitesh, Naveen triumph gold in badminton; Thulasimathi, Nitya claim silver",
-    "Senthamizh Arasu keeps his dream of turning out for the senior Indian hockey team alive",
-    "Anahat Singh enters maiden PSA Gold-level semis at Silicon Valley squash",
-    "The Golden Dream and Femme Fatale impress"
+    "Saudi Arabia",
+    "Aichi-Nagoya, Japan",
+    "Mumbai (captained by Ajinkya Rahane)",
+    "New Zealand White Ferns"
    ],
    "answer": 0,
-   "explanation": "Asian Para Games 2026: Nitesh, Naveen triumph gold in badminton; Thulasimathi, Nitya claim silver — While Nitesh Kumar produced a clinical performance to beat Pramod Bhagat, Naveen Sivakumar showcased his prowess to beat Indonesia’s Fredy Setiawan (The Hindu — Sports, Fri, 23 Oct 2026 08:39:22 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-24"
-  },
-  {
-   "id": "sports-daily-2026-10-24-81",
-   "question": "Which current affairs development was reported regarding: \"What has stood out in the 26-year-old’s brief foray at the highest level is his composure and calmness under pressure, and his ability to back his strengths and clear boundaries with consummate ease\"?",
-   "options": [
-    "World Billiards Championship: Cue sports icon Pankaj Advani wins 29th world title",
-    "Ake Loba's brace hand East Bengal easy 5-1 win over Inter Kashi in ISL",
-    "Naman Dhir — teeing off in style",
-    "Hitting hard came naturally; but today, I wouldn’t be in the top 100: Saurabh Tiwary"
-   ],
-   "answer": 2,
-   "explanation": "Naman Dhir — teeing off in style — What has stood out in the 26-year-old’s brief foray at the highest level is his composure and calmness under pressure, and his ability to back his strengths and clear boundaries with consummate ease (The Hindu — Sports, Fri, 23 Oct 2026 07:46:33 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-24"
-  },
-  {
-   "id": "sports-daily-2026-10-24-82",
-   "question": "Which current affairs development was reported regarding: \"The U.S. has a proven track record of staging large sporting events, notably co-hosting the men's World Cup earlier this year\"?",
-   "options": [
-    "TN coach Murray wants the players to develop a cohesive style of play",
-    "IND vs NZ T20I series: Sitanshu Kotak lauds Samson, Abhishek’s ‘fearless attitude’ and mind-control",
-    "Asian Para Games 2026: India wins gold in para recurve men’s doubles archery",
-    "USA to host women's football Club World Cup in 2028 - FIFA"
-   ],
-   "answer": 3,
-   "explanation": "USA to host women's football Club World Cup in 2028 - FIFA — The U.S. has a proven track record of staging large sporting events, notably co-hosting the men's World Cup earlier this year (The Hindu — Sports, Fri, 23 Oct 2026 07:25:40 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-24"
-  },
-  {
-   "id": "sports-daily-2026-10-24-83",
-   "question": "Which current affairs development was reported regarding: \"Men’s and women’s teams from both countries arrive in Patna. Seven players from Bihar were selected for the Indian teams. Matches to be held at Rajgir Sports Complex in Nalanda\"?",
-   "options": [
-    "Anahat Singh enters maiden PSA Gold-level semis at Silicon Valley squash",
-    "Asian Para Games 2026: Nitesh, Naveen triumph gold in badminton; Thulasimathi, Nitya claim silver",
-    "Women in Blue start firm favourites as focus shifts to ODIs",
-    "Bihar to host India-New Zealand Under-20 Rugby Series"
-   ],
-   "answer": 3,
-   "explanation": "Bihar to host India-New Zealand Under-20 Rugby Series — Men’s and women’s teams from both countries arrive in Patna. Seven players from Bihar were selected for the Indian teams. Matches to be held at Rajgir Sports Complex in Nalanda (The Hindu — Sports, Fri, 23 Oct 2026 03:53:21 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-24"
-  },
-  {
-   "id": "sports-daily-2026-10-24-84",
-   "question": "Which current affairs development was reported regarding: \"Brook's 116-ball 202 propelled England to its fourth highest ODI score of 429-4 before it ran into Sri Lanka's super counterpunch to lose by two wickets\"?",
-   "options": [
-    "Chiara manages to hold on to the top spot; Pranavi stays within striking distance",
-    "El Clasico: Flick, Mourinho and the morbo of all morbos",
-    "Sri Lanka trumps Brook's fastest double century to beat England by two wickets in cricket tri-series",
-    "Kieron Pollard appointed as head coach for Mumbai Indians"
-   ],
-   "answer": 2,
-   "explanation": "Sri Lanka trumps Brook's fastest double century to beat England by two wickets in cricket tri-series — Brook's 116-ball 202 propelled England to its fourth highest ODI score of 429-4 before it ran into Sri Lanka's super counterpunch to lose by two wickets (The Hindu — Sports, Fri, 23 Oct 2026 03:52:06 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-24"
-  },
-  {
-   "id": "sports-daily-2026-10-24-85",
-   "question": "Which current affairs development was reported regarding: \"Unseeded Ashmita was the star of the day, upsetting world No. 2 and third seed Yamaguchi 21-19 21-18 in a second-round match that lasted 37 minutes\"?",
-   "options": [
-    "Asian Para Games 2026: India wins gold in para recurve men’s doubles archery",
-    "Sindhu, Ashmita enter quarterfinals of French Open badminton",
-    "Hitting hard came naturally; but today, I wouldn’t be in the top 100: Saurabh Tiwary",
-    "Hero Women’s Indian Open: Vani in the van for the first time ever in a LET event"
-   ],
-   "answer": 1,
-   "explanation": "Sindhu, Ashmita enter quarterfinals of French Open badminton — Unseeded Ashmita was the star of the day, upsetting world No. 2 and third seed Yamaguchi 21-19 21-18 in a second-round match that lasted 37 minutes (The Hindu — Sports, Fri, 23 Oct 2026 03:47:15 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-24"
-  },
-  {
-   "id": "sports-daily-2026-10-24-86",
-   "question": "Which current affairs development was reported regarding: \"Jayaram along with Malay Barik, another athlete, was going to Kataka for Dussehra celebration by bike on Wednesday evening when the accident occurred\"?",
-   "options": [
-    "El Clasico: Flick, Mourinho and the morbo of all morbos",
-    "MCC-Murugappa Gold Cup hockey: Wasteful Railways pips Indian Army",
-    "Invitation Cup weekend: Stud Poker can repeat in Mysore Derby; Time And Tide for Sprinters’ Cup; Red Bishop appeals most in Stayers’ Cup",
-    "Promising Indian sprinter Dondapati Jayaram dies in road accident"
-   ],
-   "answer": 3,
-   "explanation": "Promising Indian sprinter Dondapati Jayaram dies in road accident — Jayaram along with Malay Barik, another athlete, was going to Kataka for Dussehra celebration by bike on Wednesday evening when the accident occurred (The Hindu — Sports, Fri, 23 Oct 2026 00:49:55 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-24"
-  },
-  {
-   "id": "sports-daily-2026-10-24-87",
-   "question": "Which current affairs development was reported regarding: \"Jintimani replaces injured pacer Renuka; Zimbabwe will hope to pose a tough question or two to the World champion\"?",
-   "options": [
-    "IND vs NZ T20I series: Sitanshu Kotak lauds Samson, Abhishek’s ‘fearless attitude’ and mind-control",
-    "Women in Blue start firm favourites as focus shifts to ODIs",
-    "Asian Para Games 2026: India wins gold in para recurve men’s doubles archery",
-    "Parvinder Awana to head BCCI junior selection committee"
-   ],
-   "answer": 1,
-   "explanation": "Women in Blue start firm favourites as focus shifts to ODIs — Jintimani replaces injured pacer Renuka; Zimbabwe will hope to pose a tough question or two to the World champion (The Hindu — Sports, Thu, 22 Oct 2026 23:48:57 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-24"
-  },
-  {
-   "id": "sports-daily-2026-10-25-43",
-   "question": "Which current affairs development was reported regarding: \"Rieko pips Encino for a stunning win in the Sprinters’ Cup; Dyf lives up to the billing in the Stayers’ Cup\"?",
-   "options": [
-    "Sambudla dominates proceedings, climbs to the top of the F4 Indian championship",
-    "Invitation Cup weekend: Royal Legacy runs to glory in the Mysore Derby",
-    "Ayush Mhatre undergoes surgery for hamstring injury, sidelined for about three months",
-    "Asian Para Games 2026: Sandeep, Haney win gold with world records"
-   ],
-   "answer": 1,
-   "explanation": "Invitation Cup weekend: Royal Legacy runs to glory in the Mysore Derby — Rieko pips Encino for a stunning win in the Sprinters’ Cup; Dyf lives up to the billing in the Stayers’ Cup (The Hindu — Sports, Sat, 24 Oct 2026 23:41:33 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
+   "explanation": "2034 FIFA Men's World Cup Host Nation — Saudi Arabia (confirmed by the FIFA Congress as the sole host nation for the 25th edition of the tournament).",
+   "topic": "Sports Championships, Trophies & Venues in News",
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-25"
   },
   {
-   "id": "sports-daily-2026-10-25-44",
-   "question": "Which current affairs development was reported regarding: \"Ezri Konsa bundled the ball into the net in the opening minutes for his first goal for the club since joining from Aston Villa in August\"?",
+   "id": "sports-daily-2026-10-25-46",
+   "question": "In competitive sports awareness, with which sport is the 'Bordoloi Trophy' associated?",
    "options": [
-    "The injury layoff helped me focus on the controllables: Ajith Ram",
-    "MCC-Murugappa Gold Cup hockey: Wasteful Railways pips Indian Army",
-    "Arsenal sink Everton to join Manchester City at Premier League summit",
-    "Indian Super League: Blasters and Mumbai will look to put their indifferent starts to the season behind them"
+    "Cricket",
+    "Badminton",
+    "Tennis",
+    "Football"
    ],
-   "answer": 2,
-   "explanation": "Arsenal sink Everton to join Manchester City at Premier League summit — Ezri Konsa bundled the ball into the net in the opening minutes for his first goal for the club since joining from Aston Villa in August (The Hindu — Sports, Sat, 24 Oct 2026 22:52:54 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
+   "answer": 3,
+   "explanation": "The Bordoloi Trophy is a major tournament or trophy in Football.",
+   "topic": "Sports — Major Trophies, Cups & Team Formats",
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-25"
   },
   {
-   "id": "sports-daily-2026-10-26-55",
-   "question": "Which current affairs development was reported regarding: \"The 28-year-old had suffered a right adductor strain during the series-opener last week.\"?",
+   "id": "sports-daily-2026-10-25-71",
+   "question": "In competitive sports awareness, with which sport is the 'Uber Cup' associated?",
    "options": [
-    "For record-breaking Chuki, this is just the start of big things",
-    "Ishan Kishan ruled out of third T20I against New Zealand as precautionary measure",
-    "Sichuan to meet Denso Iris in the final of FIBA-Women’s Basketball League Asia tournament",
-    "Ranji Trophy: Ticket collector Ravi Singh on the right track"
-   ],
-   "answer": 1,
-   "explanation": "Ishan Kishan ruled out of third T20I against New Zealand as precautionary measure — The 28-year-old had suffered a right adductor strain during the series-opener last week. (The Hindu — Sports, Mon, 26 Oct 2026 09:54:31 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-26"
-  },
-  {
-   "id": "sports-daily-2026-10-26-56",
-   "question": "Which current affairs development was reported regarding: \"French superstar Mbappe opened the scoring before the interval and then slotted home late on to inflict Barca’s first domestic defeat of the campaign after Raphinha had equalised for the champions\"?",
-   "options": [
-    "Kieron Pollard appointed as head coach for Mumbai Indians",
-    "Ishan Kishan ruled out of third T20I against New Zealand as precautionary measure",
-    "Arsenal sink Everton to join Manchester City at Premier League summit",
-    "Kylian Mbappe double helps Real Madrid stuns Barcelona in La Liga Clasico"
+    "Cricket",
+    "Table Tennis",
+    "Football",
+    "Badminton"
    ],
    "answer": 3,
-   "explanation": "Kylian Mbappe double helps Real Madrid stuns Barcelona in La Liga Clasico — French superstar Mbappe opened the scoring before the interval and then slotted home late on to inflict Barca’s first domestic defeat of the campaign after Raphinha had equalised for the champions (The Hindu — Sports, Mon, 26 Oct 2026 08:56:42 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
+   "explanation": "The Uber Cup is a major tournament or trophy in Badminton.",
+   "topic": "Sports — Major Trophies, Cups & Team Formats",
    "level": 2,
    "source": "daily",
-   "dailyDate": "2026-10-26"
+   "dailyDate": "2026-10-25"
   },
   {
-   "id": "sports-daily-2026-10-26-57",
-   "question": "Which current affairs development was reported regarding: \"Like Kohli during a chase, he somehow swaps his brain for a computer; he works out angles and areas to target and bowlers to attack, mentally recalibrating with every passing over and somehow insulating himself from...\"?",
+   "id": "sports-daily-2026-10-25-96",
+   "question": "Under official sporting regulations, how many players take the field on one side in 'Handball'?",
    "options": [
-    "Tilak —the yo-yo man of India’s T20 set-up",
-    "Ishan Kishan ruled out of third T20I against New Zealand as precautionary measure",
-    "Sichuan to meet Denso Iris in the final of FIBA-Women’s Basketball League Asia tournament",
-    "Infantino says he’s supported by ‘vast, vast majority’ of football ahead of FIFA elections"
-   ],
-   "answer": 0,
-   "explanation": "Tilak —the yo-yo man of India’s T20 set-up — Like Kohli during a chase, he somehow swaps his brain for a computer; he works out angles and areas to target and bowlers to attack, mentally recalibrating with every passing over and somehow insulating himself from... (The Hindu — Sports, Mon, 26 Oct 2026 08:10:02 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-26"
-  },
-  {
-   "id": "sports-daily-2026-10-26-58",
-   "question": "Which current affairs development was reported regarding: \"The absence of Siraj and Gill should not take the sheen away from the top-of-the-table clash; a tracks that aids the slow bowlers awaits\"?",
-   "options": [
-    "Ranji Trophy: Ticket collector Ravi Singh on the right track",
-    "Ranji Trophy: Spin, summit and Gymkhana showdown as Hyderabad hosts Punjab",
-    "Infantino says he’s supported by ‘vast, vast majority’ of football ahead of FIFA elections",
-    "India keen to host World junior 3x3 championships: Govindaraj"
-   ],
-   "answer": 1,
-   "explanation": "Ranji Trophy: Spin, summit and Gymkhana showdown as Hyderabad hosts Punjab — The absence of Siraj and Gill should not take the sheen away from the top-of-the-table clash; a tracks that aids the slow bowlers awaits (The Hindu — Sports, Sun, 25 Oct 2026 20:44:37 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-26"
-  },
-  {
-   "id": "sports-daily-2026-10-26-59",
-   "question": "Which current affairs development was reported regarding: \"Under-pressure Manchester United manager Michael Carrick has dropped captain Bruno Fernandes in a statement selection with the team in a crisis\"?",
-   "options": [
-    "El Clasico: Flick, Mourinho and the morbo of all morbos",
-    "Fasalul and his love for overcoming hurdles",
-    "Bruno Fernandes dropped by Man United in big call by manager Michael Carrick",
-    "My father pushes me to become a better player, says Tagenarine"
-   ],
-   "answer": 2,
-   "explanation": "Bruno Fernandes dropped by Man United in big call by manager Michael Carrick — Under-pressure Manchester United manager Michael Carrick has dropped captain Bruno Fernandes in a statement selection with the team in a crisis (The Hindu — Sports, Sun, 25 Oct 2026 19:26:06 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-26"
-  },
-  {
-   "id": "sports-daily-2026-10-26-60",
-   "question": "Which current affairs development was reported regarding: \"Echoes Of Time turns in a courageous performance to take the honours in the Major P.K. Mehra Memorial Super Mile\"?",
-   "options": [
-    "Bruno Fernandes dropped by Man United in big call by manager Michael Carrick",
-    "Sindhu reaches French Open badminton final",
-    "Zuccaro primed to deliver in Indian Turf Invitation Cup",
-    "Zuccaro brooks no challenge in the Invitation Cup"
+    "11",
+    "6",
+    "9",
+    "7"
    ],
    "answer": 3,
-   "explanation": "Zuccaro brooks no challenge in the Invitation Cup — Echoes Of Time turns in a courageous performance to take the honours in the Major P.K. Mehra Memorial Super Mile (The Hindu — Sports, Sun, 25 Oct 2026 19:18:58 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
+   "explanation": "In official rules, a Handball team fields 7 players per side.",
+   "topic": "Sports — Players per Team in Official Disciplines",
    "level": 2,
    "source": "daily",
-   "dailyDate": "2026-10-26"
+   "dailyDate": "2026-10-25"
   },
   {
-   "id": "sports-daily-2026-10-26-61",
-   "question": "Which current affairs development was reported regarding: \"Sai Kishore’s men approach the game with confidence after having posted an innings victory over Uttarakhand in the previous round; the visiting side eyes its first win of the season\"?",
+   "id": "sports-daily-2026-10-26-21",
+   "question": "In competitive sports awareness, with which sport is the 'UEFA Champions League' associated?",
    "options": [
-    "Ranji Trophy: Tamil Nadu, Railways keen to travel full steam",
-    "Premier League: Jackson double ends Man City’s perfect run as Villa win 2-1",
-    "India keen to host World junior 3x3 championships: Govindaraj",
-    "Vaisakh Chandran corrects bowling action, regains his rhythm"
-   ],
-   "answer": 0,
-   "explanation": "Ranji Trophy: Tamil Nadu, Railways keen to travel full steam — Sai Kishore’s men approach the game with confidence after having posted an innings victory over Uttarakhand in the previous round; the visiting side eyes its first win of the season (The Hindu — Sports, Sun, 25 Oct 2026 18:38:03 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-26"
-  },
-  {
-   "id": "sports-daily-2026-10-26-62",
-   "question": "Which current affairs development was reported regarding: \"The host carries the momentum of securing an innings win against Odisha in its previous encounter; the form of batters Baby, Azharuddeen and spin trio of Jalaj, Sarvate and Vaisakh is a plus; the visitor’s deep...\"?",
-   "options": [
-    "Australia face selection headaches after 'shambolic' South Africa defeat",
-    "Kylian Mbappe double helps Real Madrid stuns Barcelona in La Liga Clasico",
-    "Ranji Trophy: Buoyant Kerala faces a formidable Bengal challenge",
-    "England's Bodhana Sivanandan becomes International Master at age of 11, breaks 38-year-old record"
-   ],
-   "answer": 2,
-   "explanation": "Ranji Trophy: Buoyant Kerala faces a formidable Bengal challenge — The host carries the momentum of securing an innings win against Odisha in its previous encounter; the form of batters Baby, Azharuddeen and spin trio of Jalaj, Sarvate and Vaisakh is a plus; the visitor’s deep... (The Hindu — Sports, Sun, 25 Oct 2026 18:26:10 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-26"
-  },
-  {
-   "id": "sports-daily-2026-10-26-63",
-   "question": "Which current affairs development was reported regarding: \"The host will fancy its chances against Tripura, one of the weaker Elite sides, which comes into the fixture on the back of two defeats; rain could disrupt the plans though\"?",
-   "options": [
-    "Pornanong Phatlum wins Indian Open golf",
-    "Ranji Trophy: Tamil Nadu, Railways keen to travel full steam",
-    "Ranji Trophy: Karnataka will aim to shrug off its disappointing start to the season",
-    "India wins historic first mixed doubles medal at Asian TT in 72 years"
-   ],
-   "answer": 2,
-   "explanation": "Ranji Trophy: Karnataka will aim to shrug off its disappointing start to the season — The host will fancy its chances against Tripura, one of the weaker Elite sides, which comes into the fixture on the back of two defeats; rain could disrupt the plans though (The Hindu — Sports, Sun, 25 Oct 2026 18:20:34 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-26"
-  },
-  {
-   "id": "sports-daily-2026-10-26-64",
-   "question": "Which current affairs development was reported regarding: \"It will be the maiden senior Weightlifting World Championships to be held in India\"?",
-   "options": [
-    "Australia face selection headaches after 'shambolic' South Africa defeat",
-    "Ranji Trophy: Buoyant Kerala faces a formidable Bengal challenge",
-    "Ahmedabad to host senior Weightlifting World Championships in 2029: IWF",
-    "Miami Vice, Noraiah and Your Unforgettable catch the eye"
-   ],
-   "answer": 2,
-   "explanation": "Ahmedabad to host senior Weightlifting World Championships in 2029: IWF — It will be the maiden senior Weightlifting World Championships to be held in India (The Hindu — Sports, Sun, 25 Oct 2026 18:14:24 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-26"
-  },
-  {
-   "id": "sports-daily-2026-10-26-65",
-   "question": "Which current affairs development was reported regarding: \"The 31-year-old Indian lost 21-16, 11-21, 12-21 to the Olympic champion, who clinched her fourth French Open title and 11th crown of the season\"?",
-   "options": [
-    "Pornanong Phatlum wins Indian Open golf",
-    "Fighting Sindhu loses to nemesis An Se Young to sign off with runner-up finish",
-    "TAI Awards: Zavaray Poonawalla honoured with Legend of Indian Horse Racing award",
-    "Invitation Cup weekend: Royal Legacy runs to glory in the Mysore Derby"
-   ],
-   "answer": 1,
-   "explanation": "Fighting Sindhu loses to nemesis An Se Young to sign off with runner-up finish — The 31-year-old Indian lost 21-16, 11-21, 12-21 to the Olympic champion, who clinched her fourth French Open title and 11th crown of the season (The Hindu — Sports, Sun, 25 Oct 2026 18:04:55 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-26"
-  },
-  {
-   "id": "sports-daily-2026-10-26-66",
-   "question": "Which current affairs development was reported regarding: \"Both teams come into this contest on the back of two resounding wins each; this encounter presents itself as the first significant test of the season for visitor and much will depend on whether its pace attack,...\"?",
-   "options": [
-    "Arsenal sink Everton to join Manchester City at Premier League summit",
-    "Ranji Trophy: Will Haryana find a way to blunt Mumbai’s pace attack?",
-    "Ranji Trophy: Buoyant Kerala faces a formidable Bengal challenge",
-    "Ranji Trophy: Tamil Nadu, Railways keen to travel full steam"
-   ],
-   "answer": 1,
-   "explanation": "Ranji Trophy: Will Haryana find a way to blunt Mumbai’s pace attack? — Both teams come into this contest on the back of two resounding wins each; this encounter presents itself as the first significant test of the season for visitor and much will depend on whether its pace attack,... (The Hindu — Sports, Sun, 25 Oct 2026 17:56:05 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-26"
-  },
-  {
-   "id": "sports-daily-2026-10-27-59",
-   "question": "Which current affairs development was reported regarding: \"On a balmy Monday in Jharkhand’s capital, Badoni brought up his sixth First Class hundred and remained unbeaten on 106 to steer the visitor to 309 for five at stumps\"?",
-   "options": [
-    "Ranji Trophy: Will Haryana find a way to blunt Mumbai’s pace attack?",
-    "Badoni notches up his sixth First Class hundred as Delhi dominates day one",
-    "For record-breaking Chuki, this is just the start of big things",
-    "Indian Super League: Blasters and Mumbai will look to put their indifferent starts to the season behind them"
-   ],
-   "answer": 1,
-   "explanation": "Badoni notches up his sixth First Class hundred as Delhi dominates day one — On a balmy Monday in Jharkhand’s capital, Badoni brought up his sixth First Class hundred and remained unbeaten on 106 to steer the visitor to 309 for five at stumps (The Hindu — Sports, Tue, 27 Oct 2026 07:12:48 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-27"
-  },
-  {
-   "id": "sports-daily-2026-10-27-60",
-   "question": "Which current affairs development was reported regarding: \"Harry Kane is the first ‌Englishman to win the prestigious award in 25 years, after Michael Owen won ​it in 2001\"?",
-   "options": [
-    "De la Fuente wins men's Ballon d'Or coach of the year; Pere Romeu bags women’s award",
-    "Batting with Badoni makes my job easier: Mathur",
-    "Harry Kane crowned Ballon d'Or winner, Putellas wins women's award",
-    "Zuccaro brooks no challenge in the Invitation Cup"
-   ],
-   "answer": 2,
-   "explanation": "Harry Kane crowned Ballon d'Or winner, Putellas wins women's award — Harry Kane is the first ‌Englishman to win the prestigious award in 25 years, after Michael Owen won ​it in 2001 (The Hindu — Sports, Tue, 27 Oct 2026 07:06:05 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-27"
-  },
-  {
-   "id": "sports-daily-2026-10-27-61",
-   "question": "Which current affairs development was reported regarding: \"The 36-year-old hasn’t played for India since the ICC Champions Trophy in March 2025. While he continues to turn up for Bengal in the domestic circuit, the persistent absence from the national set-up has raised...\"?",
-   "options": [
-    "De la Fuente wins men's Ballon d'Or coach of the year; Pere Romeu bags women’s award",
-    "Nobody on the outside can judge the length of my spells: Shami",
-    "Katame, Priority Road and Break Point impress",
-    "TAI Awards: Zavaray Poonawalla honoured with Legend of Indian Horse Racing award"
-   ],
-   "answer": 1,
-   "explanation": "Nobody on the outside can judge the length of my spells: Shami — The 36-year-old hasn’t played for India since the ICC Champions Trophy in March 2025. While he continues to turn up for Bengal in the domestic circuit, the persistent absence from the national set-up has raised... (The Hindu — Sports, Tue, 27 Oct 2026 00:35:41 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-27"
-  },
-  {
-   "id": "sports-daily-2026-10-27-62",
-   "question": "Which current affairs development was reported regarding: \"For the final round in Portugal, MRF Tyres fielded six crews across its official Team MRF Tyres and MRF Tyres Dealers Team programmes\"?",
-   "options": [
-    "Railways has got a fighting total: Zubair",
-    "Ranji Trophy: Karnataka will aim to shrug off its disappointing start to the season",
-    "Zuccaro primed to deliver in Indian Turf Invitation Cup",
-    "Team MRF Tyres wins four European Rally Championship title"
+    "Tennis",
+    "Hockey",
+    "Cricket",
+    "Football"
    ],
    "answer": 3,
-   "explanation": "Team MRF Tyres wins four European Rally Championship title — For the final round in Portugal, MRF Tyres fielded six crews across its official Team MRF Tyres and MRF Tyres Dealers Team programmes (The Hindu — Sports, Mon, 26 Oct 2026 23:26:24 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
+   "explanation": "The UEFA Champions League is a major tournament or trophy in Football.",
+   "topic": "Sports — Major Trophies, Cups & Team Formats",
    "level": 2,
    "source": "daily",
-   "dailyDate": "2026-10-27"
+   "dailyDate": "2026-10-26"
   },
   {
-   "id": "sports-daily-2026-10-27-63",
-   "question": "Which current affairs development was reported regarding: \"The No. 8 batter turned things around with a swashbuckling 75 against Tamil Nadu\"?",
+   "id": "sports-daily-2026-10-26-46",
+   "question": "In competitive sports awareness, with which sport is the 'Sultan Azlan Shah Cup' associated?",
    "options": [
-    "Bruno Fernandes dropped by Man United in big call by manager Michael Carrick",
-    "Railways has got a fighting total: Zubair",
-    "De la Fuente wins men's Ballon d'Or coach of the year; Pere Romeu bags women’s award",
-    "Ranji Trophy: Raghuvanshi, Musheer help Mumbai take opening day’s honours"
-   ],
-   "answer": 1,
-   "explanation": "Railways has got a fighting total: Zubair — The No. 8 batter turned things around with a swashbuckling 75 against Tamil Nadu (The Hindu — Sports, Mon, 26 Oct 2026 20:48:39 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-27"
-  },
-  {
-   "id": "sports-daily-2026-10-27-64",
-   "question": "Which current affairs development was reported regarding: \"Veteran off-spinner makes an immediate impact upon returning to the XI as he bags a four-wicket haul in the first innings against Andhra\"?",
-   "options": [
-    "Ranji Trophy: Jayant shows his mettle as Chhattisgarh takes opening-day honours",
-    "Murugappa Gold Cup: BPCL strengthens semifinal prospects with third straight win",
-    "Vaisakh Chandran corrects bowling action, regains his rhythm",
-    "Ishan Kishan ruled out of third T20I against New Zealand as precautionary measure"
-   ],
-   "answer": 0,
-   "explanation": "Ranji Trophy: Jayant shows his mettle as Chhattisgarh takes opening-day honours — Veteran off-spinner makes an immediate impact upon returning to the XI as he bags a four-wicket haul in the first innings against Andhra (The Hindu — Sports, Mon, 26 Oct 2026 20:30:46 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-27"
-  },
-  {
-   "id": "sports-daily-2026-10-27-65",
-   "question": "Which current affairs development was reported regarding: \"The mini-auction will be held in Goa on December 16\"?",
-   "options": [
-    "Ishan Kishan ruled out of third T20I against New Zealand as precautionary measure",
-    "Dhruv Goswami, Balaprasath share FLGB4 honours",
-    "IPL retention deadline set for November 15",
-    "Irish Twist and Absolute Serenity catch the eye"
-   ],
-   "answer": 2,
-   "explanation": "IPL retention deadline set for November 15 — The mini-auction will be held in Goa on December 16 (The Hindu — Sports, Mon, 26 Oct 2026 20:30:00 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-27"
-  },
-  {
-   "id": "sports-daily-2026-10-27-66",
-   "question": "Which current affairs development was reported regarding: \"The left-arm spinner scalps three and the pacer two as the visitors lose wickets rapidly after a steady start on a truncated first day; Ankur’s good knock undone by a poor choice of stroke\"?",
-   "options": [
-    "Fans hail ‘Telugu brothers’ Tilak Varma, Nitish Kumar Reddy after India’s Christchurch T20I win",
-    "Zuccaro primed to deliver in Indian Turf Invitation Cup",
-    "My father pushes me to become a better player, says Tagenarine",
-    "Ranji Trophy: Sarvate and Basil strike to help Kerala take control against Bengal"
+    "Tennis",
+    "Badminton",
+    "Football",
+    "Hockey"
    ],
    "answer": 3,
-   "explanation": "Ranji Trophy: Sarvate and Basil strike to help Kerala take control against Bengal — The left-arm spinner scalps three and the pacer two as the visitors lose wickets rapidly after a steady start on a truncated first day; Ankur’s good knock undone by a poor choice of stroke (The Hindu — Sports, Mon, 26 Oct 2026 19:33:09 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
+   "explanation": "The Sultan Azlan Shah Cup is a major tournament or trophy in Hockey.",
+   "topic": "Sports — Major Trophies, Cups & Team Formats",
    "level": 2,
    "source": "daily",
-   "dailyDate": "2026-10-27"
+   "dailyDate": "2026-10-26"
   },
   {
-   "id": "sports-daily-2026-10-27-67",
-   "question": "Which current affairs development was reported regarding: \"The Railways player, walking out at No. 8, dominates the 61-run last-wicket stand with Himanshu to take the visitor to 184; Sonu gets three in his opening burst\"?",
+   "id": "sports-daily-2026-10-26-71",
+   "question": "Under official sporting regulations, how many players take the field on one side in 'Volleyball'?",
    "options": [
-    "For record-breaking Chuki, this is just the start of big things",
-    "Ranji Trophy: Zubair frustrates TN after host’s bowlers come to the party",
-    "Badoni notches up his sixth First Class hundred as Delhi dominates day one",
-    "De la Fuente wins men's Ballon d'Or coach of the year; Pere Romeu bags women’s award"
+    "11",
+    "7",
+    "15",
+    "6"
+   ],
+   "answer": 3,
+   "explanation": "In official rules, a Volleyball team fields 6 players per side.",
+   "topic": "Sports — Players per Team in Official Disciplines",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "sports-daily-2026-10-26-96",
+   "question": "Which team, athlete or host city is associated with '2024 Thomas Cup and Uber Cup Finals (Chengdu)' in recent sports news?",
+   "options": [
+    "Grand Slam title with Matthew Ebden at age 43",
+    "Saudi Arabia",
+    "New Zealand White Ferns",
+    "China"
+   ],
+   "answer": 3,
+   "explanation": "2024 Thomas Cup and Uber Cup Finals (Chengdu) — China (China swept both the men's Thomas Cup and women's Uber Cup badminton team titles on home soil in Chengdu).",
+   "topic": "Sports Championships, Trophies & Venues in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "sports-daily-2026-10-27-21",
+   "question": "Which team, athlete or host city is associated with '2026 FIFA Men's World Cup Host Nations' in recent sports news?",
+   "options": [
+    "NorthEast United FC (final at Salt Lake Stadium, Kolkata)",
+    "United States, Canada and Mexico",
+    "Aichi-Nagoya, Japan",
+    "Grand Slam title with Matthew Ebden at age 43"
    ],
    "answer": 1,
-   "explanation": "Ranji Trophy: Zubair frustrates TN after host’s bowlers come to the party — The Railways player, walking out at No. 8, dominates the 61-run last-wicket stand with Himanshu to take the visitor to 184; Sonu gets three in his opening burst (The Hindu — Sports, Mon, 26 Oct 2026 19:16:31 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
+   "explanation": "2026 FIFA Men's World Cup Host Nations — United States, Canada and Mexico (first FIFA World Cup to feature an expanded 48-team format across 16 host cities in three North American countries).",
+   "topic": "Sports Championships, Trophies & Venues in News",
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-27"
   },
   {
-   "id": "sports-daily-2026-10-27-68",
-   "question": "Which current affairs development was reported regarding: \"The two hit hundreds and put on 208 for the second wicket as the home side reaches 290 for three; Haryana bowlers find the going tough after captain Ankit elects to field\"?",
+   "id": "sports-daily-2026-10-27-46",
+   "question": "In competitive sports awareness, with which sport is the 'World Test Championship' associated?",
    "options": [
-    "Ranji Trophy: Raghuvanshi, Musheer help Mumbai take opening day’s honours",
-    "Chennai teen takes chess to underprivileged children",
-    "‘Murugappa Cup offers valuable exposure for Malaysian juniors’",
-    "Sichuan to meet Denso Iris in the final of FIBA-Women’s Basketball League Asia tournament"
+    "Football",
+    "Hockey",
+    "Cricket",
+    "Tennis"
    ],
-   "answer": 0,
-   "explanation": "Ranji Trophy: Raghuvanshi, Musheer help Mumbai take opening day’s honours — The two hit hundreds and put on 208 for the second wicket as the home side reaches 290 for three; Haryana bowlers find the going tough after captain Ankit elects to field (The Hindu — Sports, Mon, 26 Oct 2026 18:23:11 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-27"
-  },
-  {
-   "id": "sports-daily-2026-10-27-69",
-   "question": "Which current affairs development was reported regarding: \"India takes on Bangladesh in its tournament opener\"?",
-   "options": [
-    "Ranji Trophy: Spin, summit and Gymkhana showdown as Hyderabad hosts Punjab",
-    "Asian Champions Trophy: Jalandhar in focus as city hosts maiden international hockey tournament",
-    "More than the 100, I was thinking of building partnership with Harmanpreet: Deepti",
-    "Fans hail ‘Telugu brothers’ Tilak Varma, Nitish Kumar Reddy after India’s Christchurch T20I win"
-   ],
-   "answer": 1,
-   "explanation": "Asian Champions Trophy: Jalandhar in focus as city hosts maiden international hockey tournament — India takes on Bangladesh in its tournament opener (The Hindu — Sports, Mon, 26 Oct 2026 17:38:36 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-27"
-  },
-  {
-   "id": "sports-daily-2026-10-27-70",
-   "question": "Which current affairs development was reported regarding: \"Sai Swaroop V. who uses his free time to take chess classes for those who cannot afford it\"?",
-   "options": [
-    "Chennai teen takes chess to underprivileged children",
-    "Katame, Priority Road and Break Point impress",
-    "Kylian Mbappe double helps Real Madrid stuns Barcelona in La Liga Clasico",
-    "Ishan Kishan ruled out of third T20I against New Zealand as precautionary measure"
-   ],
-   "answer": 0,
-   "explanation": "Chennai teen takes chess to underprivileged children — Sai Swaroop V. who uses his free time to take chess classes for those who cannot afford it (The Hindu — Sports, Mon, 26 Oct 2026 14:59:26 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
+   "answer": 2,
+   "explanation": "The World Test Championship is a major tournament or trophy in Cricket.",
+   "topic": "Sports — Major Trophies, Cups & Team Formats",
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-27"
   },
   {
    "id": "sports-daily-2026-10-27-71",
-   "question": "Which current affairs development was reported regarding: \"Deepti celebrated her second century in the ODI format with an unbeaten 106 off 86 balls in the series-clinching 121-run win over Zimbabwe.\"?",
+   "question": "Under official sporting regulations, how many players take the field on one side in 'Netball'?",
    "options": [
-    "Denso Iris reigns supreme",
-    "Ranji Trophy: Will Haryana find a way to blunt Mumbai’s pace attack?",
-    "More than the 100, I was thinking of building partnership with Harmanpreet: Deepti",
-    "Zuccaro primed to deliver in Indian Turf Invitation Cup"
+    "7",
+    "6",
+    "5",
+    "15"
+   ],
+   "answer": 0,
+   "explanation": "In official rules, a Netball team fields 7 players per side.",
+   "topic": "Sports — Players per Team in Official Disciplines",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "sports-daily-2026-10-27-96",
+   "question": "Which team, athlete or host city is associated with '133rd Durand Cup Football Tournament (2024)' in recent sports news?",
+   "options": [
+    "New Zealand White Ferns",
+    "Glasgow, Scotland",
+    "NorthEast United FC (final at Salt Lake Stadium, Kolkata)",
+    "Mumbai (captained by Ajinkya Rahane)"
    ],
    "answer": 2,
-   "explanation": "More than the 100, I was thinking of building partnership with Harmanpreet: Deepti — Deepti celebrated her second century in the ODI format with an unbeaten 106 off 86 balls in the series-clinching 121-run win over Zimbabwe. (The Hindu — Sports, Mon, 26 Oct 2026 12:01:20 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
+   "explanation": "133rd Durand Cup Football Tournament (2024) — NorthEast United FC (final at Salt Lake Stadium, Kolkata) (NorthEast United FC defeated defending champions Mohun Bagan Super Giant on penalties to win their maiden Durand Cup trophy).",
+   "topic": "Sports Championships, Trophies & Venues in News",
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-27"
   },
   {
-   "id": "sports-daily-2026-10-27-72",
-   "question": "Which current affairs development was reported regarding: \"The decision to retain fast bowlers as cover is part of a long-term workload management strategy devised months before the tour\"?",
+   "id": "sports-daily-2026-10-28-21",
+   "question": "In competitive sports awareness, with which sport is the 'Davis Cup' associated?",
    "options": [
-    "India has got a bulletproof plan for bowlers’ workload management: Morkel",
-    "Irish Twist and Absolute Serenity catch the eye",
-    "India keen to host World junior 3x3 championships: Govindaraj",
-    "Vaisakh Chandran corrects bowling action, regains his rhythm"
+    "Hockey",
+    "Football",
+    "Tennis",
+    "Table Tennis"
+   ],
+   "answer": 2,
+   "explanation": "The Davis Cup is a major tournament or trophy in Tennis.",
+   "topic": "Sports — Major Trophies, Cups & Team Formats",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "sports-daily-2026-10-28-46",
+   "question": "Under official sporting regulations, how many players take the field on one side in 'Hockey'?",
+   "options": [
+    "11",
+    "5",
+    "15",
+    "2"
    ],
    "answer": 0,
-   "explanation": "India has got a bulletproof plan for bowlers’ workload management: Morkel — The decision to retain fast bowlers as cover is part of a long-term workload management strategy devised months before the tour (The Hindu — Sports, Mon, 26 Oct 2026 10:49:13 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-27"
-  },
-  {
-   "id": "sports-daily-2026-10-28-63",
-   "question": "Which current affairs development was reported regarding: \"There are only 27 available slots — including 20 reserved for the Indians\"?",
-   "options": [
-    "WPL auction: Sneh among biggest names in the fray",
-    "Tilak —the yo-yo man of India’s T20 set-up",
-    "Snapping ties abruptly with a match made in heaven",
-    "Punjab and Haryana HC directs BFI to keep no-confidence meeting in abeyance"
-   ],
-   "answer": 0,
-   "explanation": "WPL auction: Sneh among biggest names in the fray — There are only 27 available slots — including 20 reserved for the Indians (The Hindu — Sports, Wed, 28 Oct 2026 00:28:54 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-28"
-  },
-  {
-   "id": "sports-daily-2026-10-28-64",
-   "question": "Which current affairs development was reported regarding: \"When he dismissed Kent’s Zimbabwean batter Tawanda Muyeye for his third scalp of the innings and his 50th of the season on September 15, James Anderson would hardly have imagined that it would be his final wicket for...\"?",
-   "options": [
-    "Snapping ties abruptly with a match made in heaven",
-    "Tilak —the yo-yo man of India’s T20 set-up",
-    "Ishan Kishan ruled out of third T20I against New Zealand as precautionary measure",
-    "Prabhsimran, Salil and Ramandeep shine as Punjab makes 289 for 6 on opening day"
-   ],
-   "answer": 0,
-   "explanation": "Snapping ties abruptly with a match made in heaven — When he dismissed Kent’s Zimbabwean batter Tawanda Muyeye for his third scalp of the innings and his 50th of the season on September 15, James Anderson would hardly have imagined that it would be his final wicket for... (The Hindu — Sports, Wed, 28 Oct 2026 00:24:48 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-28"
-  },
-  {
-   "id": "sports-daily-2026-10-28-65",
-   "question": "Which current affairs development was reported regarding: \"Mandeep Singh struck three goals and created as many for the host\"?",
-   "options": [
-    "Ranji Trophy: Steady Karnataka builds up a first-innings lead",
-    "Prabhsimran, Salil and Ramandeep shine as Punjab makes 289 for 6 on opening day",
-    "De la Fuente wins men's Ballon d'Or coach of the year; Pere Romeu bags women’s award",
-    "Asian Champions Trophy: India slams 13 past hapless Bangladesh"
-   ],
-   "answer": 3,
-   "explanation": "Asian Champions Trophy: India slams 13 past hapless Bangladesh — Mandeep Singh struck three goals and created as many for the host (The Hindu — Sports, Wed, 28 Oct 2026 00:17:11 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-28"
-  },
-  {
-   "id": "sports-daily-2026-10-28-66",
-   "question": "Which current affairs development was reported regarding: \"The home team wraaps up the Goan first innings for 220\"?",
-   "options": [
-    "Ranji Trophy: Centurion Shahbaz and Shami put Bengal in command",
-    "After his 38-ball 113, Abhishek Sharma plays down Yuvraj’s 12-ball fifty challenge",
-    "Kylian Mbappe double helps Real Madrid stuns Barcelona in La Liga Clasico",
-    "Ranji Trophy: Shorey, Samarth, Malewar fifties put Vidarbha in pole position"
-   ],
-   "answer": 3,
-   "explanation": "Ranji Trophy: Shorey, Samarth, Malewar fifties put Vidarbha in pole position — The home team wraaps up the Goan first innings for 220 (The Hindu — Sports, Tue, 27 Oct 2026 23:24:50 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-28"
-  },
-  {
-   "id": "sports-daily-2026-10-28-67",
-   "question": "Which current affairs development was reported regarding: \"Dharanidharan began his journey with the pole vault in Class IX before financial difficulties forced him to switch to javelin the following year\"?",
-   "options": [
-    "Ranji Trophy: Salil takes Punjab to 431; Hyderabad solid in reply",
-    "Young javelin star Dharanidharan eyes breaching the 80m mark",
-    "Kotian and Musheer stand out for Mumbai on a frustrating day",
-    "Ranji Trophy: Raghuvanshi, Musheer help Mumbai take opening day’s honours"
-   ],
-   "answer": 1,
-   "explanation": "Young javelin star Dharanidharan eyes breaching the 80m mark — Dharanidharan began his journey with the pole vault in Class IX before financial difficulties forced him to switch to javelin the following year (The Hindu — Sports, Tue, 27 Oct 2026 23:11:36 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-28"
-  },
-  {
-   "id": "sports-daily-2026-10-28-68",
-   "question": "Which current affairs development was reported regarding: \"The middle-order batter smashes his third successive ton and puts on 116 for the last wicket with Umesh after Milind reduces the visitor to 315 for nine; Abhirath and Rahul lead the host’s response\"?",
-   "options": [
-    "Kasvankar, Misal rescue Goa after Vidarbha bowlers make early inroads",
-    "Ranji Trophy: Salil takes Punjab to 431; Hyderabad solid in reply",
-    "Murugappa Gold Cup: Last-gasp goal keeps IOCL in semifinal race",
-    "Snapping ties abruptly with a match made in heaven"
-   ],
-   "answer": 1,
-   "explanation": "Ranji Trophy: Salil takes Punjab to 431; Hyderabad solid in reply — The middle-order batter smashes his third successive ton and puts on 116 for the last wicket with Umesh after Milind reduces the visitor to 315 for nine; Abhirath and Rahul lead the host’s response (The Hindu — Sports, Tue, 27 Oct 2026 23:11:10 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-28"
-  },
-  {
-   "id": "sports-daily-2026-10-28-69",
-   "question": "Which current affairs development was reported regarding: \"The Women in Blue are aiming for a clean sweep against the Zimbabweans\"?",
-   "options": [
-    "India likely to experiment in final ODI",
-    "Flight Of Fancy, Perfect Attitude, Battle Crown, Shining Dawn and Pledge shine",
-    "Chennai teen takes chess to underprivileged children",
-    "Denso Iris reigns supreme"
-   ],
-   "answer": 0,
-   "explanation": "India likely to experiment in final ODI — The Women in Blue are aiming for a clean sweep against the Zimbabweans (The Hindu — Sports, Tue, 27 Oct 2026 22:07:40 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-28"
-  },
-  {
-   "id": "sports-daily-2026-10-28-70",
-   "question": "Which current affairs development was reported regarding: \"Salil’s crucial 93-run stand with Ramandeep on day one and his 116-run 10th-wicket partnership with Umesh on Tuesday take the wind out of Hyderabad’s sails\"?",
-   "options": [
-    "Railways has got a fighting total: Zubair",
-    "Denso Iris reigns supreme",
-    "De la Fuente wins men's Ballon d'Or coach of the year; Pere Romeu bags women’s award",
-    "Salil credits coaches Rajan and Yuvraj for his purple patch"
-   ],
-   "answer": 3,
-   "explanation": "Salil credits coaches Rajan and Yuvraj for his purple patch — Salil’s crucial 93-run stand with Ramandeep on day one and his 116-run 10th-wicket partnership with Umesh on Tuesday take the wind out of Hyderabad’s sails (The Hindu — Sports, Tue, 27 Oct 2026 22:03:11 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
+   "explanation": "In official rules, a Hockey team fields 11 players per side.",
+   "topic": "Sports — Players per Team in Official Disciplines",
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-28"
   },
   {
    "id": "sports-daily-2026-10-28-71",
-   "question": "Which current affairs development was reported regarding: \"The skipper extends his purple patch with an unbeaten 210; the No. 7 batter hits an unconquered 150 during their unbroken 334-run sixth-wicket alliance as the visitor posts a mammoth total\"?",
+   "question": "Under official sporting regulations, how many players take the field on one side in 'Korfball'?",
    "options": [
-    "Sharath recalls five-year ‘fruitful journey’ as a national selector",
-    "Ranji Trophy: Sarvate and Basil strike to help Kerala take control against Bengal",
-    "Ranji Trophy: Steady Karnataka builds up a first-innings lead",
-    "Ranji Trophy: Badoni, Mathur mastermind a perfect day for Delhi"
-   ],
-   "answer": 3,
-   "explanation": "Ranji Trophy: Badoni, Mathur mastermind a perfect day for Delhi — The skipper extends his purple patch with an unbeaten 210; the No. 7 batter hits an unconquered 150 during their unbroken 334-run sixth-wicket alliance as the visitor posts a mammoth total (The Hindu — Sports, Tue, 27 Oct 2026 21:57:39 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-28"
-  },
-  {
-   "id": "sports-daily-2026-10-28-72",
-   "question": "Which current affairs development was reported regarding: \"The all-rounder follows up his third FC ton with couple of Kerala scalps while the veteran pacer home team’s top order with three wickets\"?",
-   "options": [
-    "Asian Champions Trophy: India slams 13 past hapless Bangladesh",
-    "Ranji Trophy: Centurion Shahbaz and Shami put Bengal in command",
-    "Happy but not satisfied, says Musheer",
-    "Irish Twist and Absolute Serenity catch the eye"
-   ],
-   "answer": 1,
-   "explanation": "Ranji Trophy: Centurion Shahbaz and Shami put Bengal in command — The all-rounder follows up his third FC ton with couple of Kerala scalps while the veteran pacer home team’s top order with three wickets (The Hindu — Sports, Tue, 27 Oct 2026 21:50:06 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-28"
-  },
-  {
-   "id": "sports-daily-2026-10-28-73",
-   "question": "Which current affairs development was reported regarding: \"The former scores a patient unbeaten 52 as the host makes 430 against Haryana, while the latter strikes twice in the last hour\"?",
-   "options": [
-    "Sharath recalls five-year ‘fruitful journey’ as a national selector",
-    "Kotian and Musheer stand out for Mumbai on a frustrating day",
-    "Murugappa Gold Cup: Last-gasp goal keeps IOCL in semifinal race",
-    "Ranji Trophy: Zubair frustrates TN after host’s bowlers come to the party"
-   ],
-   "answer": 1,
-   "explanation": "Kotian and Musheer stand out for Mumbai on a frustrating day — The former scores a patient unbeaten 52 as the host makes 430 against Haryana, while the latter strikes twice in the last hour (The Hindu — Sports, Tue, 27 Oct 2026 21:17:30 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-28"
-  },
-  {
-   "id": "sports-daily-2026-10-28-74",
-   "question": "Which current affairs development was reported regarding: \"Rohan, Aneesh and Karun notch up half-centuries as the host gains an advantage of 103 runs over visiting Tripura on the second day of their Group B encounter\"?",
-   "options": [
-    "Ranji Trophy: Steady Karnataka builds up a first-innings lead",
-    "Ranji Trophy: Bowlers have a field day as 16 wickets fall",
-    "Flight Of Fancy, Perfect Attitude, Battle Crown, Shining Dawn and Pledge shine",
-    "IPL retention deadline set for November 15"
-   ],
-   "answer": 0,
-   "explanation": "Ranji Trophy: Steady Karnataka builds up a first-innings lead — Rohan, Aneesh and Karun notch up half-centuries as the host gains an advantage of 103 runs over visiting Tripura on the second day of their Group B encounter (The Hindu — Sports, Tue, 27 Oct 2026 21:03:58 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-28"
-  },
-  {
-   "id": "sports-daily-2026-10-28-75",
-   "question": "Which current affairs development was reported regarding: \"The No. 4 batter’s unbeaten 74 puts the visitor just 15 runs behind Andhra’s first-innings total with two wickets in hand; Vijay is the pick of the home team’s bowlers with three scalps\"?",
-   "options": [
-    "Ranji Trophy: Salil takes Punjab to 431; Hyderabad solid in reply",
-    "Ranji Trophy: Shorey, Samarth, Malewar fifties put Vidarbha in pole position",
-    "Ranji Trophy: Raghuvanshi, Musheer help Mumbai take opening day’s honours",
-    "Ranji Trophy: Khare’s patient knock keeps Chhattisgarh in the hunt"
-   ],
-   "answer": 3,
-   "explanation": "Ranji Trophy: Khare’s patient knock keeps Chhattisgarh in the hunt — The No. 4 batter’s unbeaten 74 puts the visitor just 15 runs behind Andhra’s first-innings total with two wickets in hand; Vijay is the pick of the home team’s bowlers with three scalps (The Hindu — Sports, Tue, 27 Oct 2026 20:57:14 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-28"
-  },
-  {
-   "id": "sports-daily-2026-10-28-76",
-   "question": "Which current affairs development was reported regarding: \"Left-arm tweaker Raj and offie Toufik run riot to earn Railways a 19-run first-innings lead; Sai Kishore and Hemchudeshan, however, bring Tamil Nadu back into the contest\"?",
-   "options": [
-    "India likely to experiment in final ODI",
-    "Mbappe dropped by Chinese brands for ‘offending national sentiments’",
-    "Ranji Trophy: Bowlers have a field day as 16 wickets fall",
-    "Salil credits coaches Rajan and Yuvraj for his purple patch"
+    "11",
+    "7",
+    "8",
+    "15"
    ],
    "answer": 2,
-   "explanation": "Ranji Trophy: Bowlers have a field day as 16 wickets fall — Left-arm tweaker Raj and offie Toufik run riot to earn Railways a 19-run first-innings lead; Sai Kishore and Hemchudeshan, however, bring Tamil Nadu back into the contest (The Hindu — Sports, Tue, 27 Oct 2026 19:13:55 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
+   "explanation": "In official rules, a Korfball team fields 8 players per side.",
+   "topic": "Sports — Players per Team in Official Disciplines",
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-28"
   },
   {
-   "id": "sports-daily-2026-10-28-77",
-   "question": "Which current affairs development was reported regarding: \"His comments came after India registered a six-wicket, with the left-hander earning the Player of the Match award\"?",
+   "id": "sports-daily-2026-10-28-96",
+   "question": "Which team, athlete or host city is associated with '20th Asian Games (2026 Scheduled Host)' in recent sports news?",
    "options": [
-    "‘Murugappa Cup offers valuable exposure for Malaysian juniors’",
-    "Ranji Trophy: Raghuvanshi, Musheer help Mumbai take opening day’s honours",
-    "Ranji Trophy: Jayant shows his mettle as Chhattisgarh takes opening-day honours",
-    "After his 38-ball 113, Abhishek Sharma plays down Yuvraj’s 12-ball fifty challenge"
-   ],
-   "answer": 3,
-   "explanation": "After his 38-ball 113, Abhishek Sharma plays down Yuvraj’s 12-ball fifty challenge — His comments came after India registered a six-wicket, with the left-hander earning the Player of the Match award (The Hindu — Sports, Tue, 27 Oct 2026 17:02:28 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-28"
-  },
-  {
-   "id": "sports-daily-2026-10-28-78",
-   "question": "Which current affairs development was reported regarding: \"The Indian bowlers didn’t have too many wickets to show for their effort but they were once again impressive in the last five overs giving away only 52 runs\"?",
-   "options": [
-    "Murugappa Gold Cup: Last-gasp goal keeps IOCL in semifinal race",
-    "IND vs NZ third T20I: Incredible Abhishek mauls New Zealand as India clinch series with six-wicket win",
-    "Salil credits coaches Rajan and Yuvraj for his purple patch",
-    "Batting with Badoni makes my job easier: Mathur"
+    "United States, Canada and Mexico",
+    "Aichi-Nagoya, Japan",
+    "Royal Challengers Bengaluru (captained by Smriti Mandhana)",
+    "China"
    ],
    "answer": 1,
-   "explanation": "IND vs NZ third T20I: Incredible Abhishek mauls New Zealand as India clinch series with six-wicket win — The Indian bowlers didn’t have too many wickets to show for their effort but they were once again impressive in the last five overs giving away only 52 runs (The Hindu — Sports, Tue, 27 Oct 2026 16:52:05 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
+   "explanation": "20th Asian Games (2026 Scheduled Host) — Aichi-Nagoya, Japan (co-hosted by Aichi Prefecture and the city of Nagoya as the third Asian Games held in Japan after Tokyo 1958 and Hiroshima 1994).",
+   "topic": "Sports Championships, Trophies & Venues in News",
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-28"
   },
   {
-   "id": "sports-daily-2026-10-28-79",
-   "question": "Which current affairs development was reported regarding: \"Harmanpreet Kaur had stepped down from captaincy after leading the team to a second successive Asian Games gold in Japan\"?",
+   "id": "sports-daily-2026-10-29-21",
+   "question": "In which city did India win both the Open and Women's team gold medals at the 45th FIDE Chess Olympiad in September 2024?",
    "options": [
-    "Ranji Trophy: Khare’s patient knock keeps Chhattisgarh in the hunt",
-    "Jharkhand and Delhi eye a spruce-up after middling start to the season",
-    "Harmanpreet Kaur moves up to eighth in ICC ODI rankings",
-    "Ranji Trophy: Raj praises Yuvraj and Indrajith for showing the way"
-   ],
-   "answer": 2,
-   "explanation": "Harmanpreet Kaur moves up to eighth in ICC ODI rankings — Harmanpreet Kaur had stepped down from captaincy after leading the team to a second successive Asian Games gold in Japan (The Hindu — Sports, Tue, 27 Oct 2026 16:41:52 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-28"
-  },
-  {
-   "id": "sports-daily-2026-10-28-80",
-   "question": "Which current affairs development was reported regarding: \"The announcements came after a video emerged online with Mbappe saying that the funniest internet meme he had seen was of his face photo-shopped onto that of “some guy — I think he’s a Chinese dictator”\"?",
-   "options": [
-    "Mbappe dropped by Chinese brands for ‘offending national sentiments’",
-    "Asian Champions Trophy: India slams 13 past hapless Bangladesh",
-    "Kasvankar, Misal rescue Goa after Vidarbha bowlers make early inroads",
-    "Railways has got a fighting total: Zubair"
-   ],
-   "answer": 0,
-   "explanation": "Mbappe dropped by Chinese brands for ‘offending national sentiments’ — The announcements came after a video emerged online with Mbappe saying that the funniest internet meme he had seen was of his face photo-shopped onto that of “some guy — I think he’s a Chinese dictator” (The Hindu — Sports, Tue, 27 Oct 2026 14:10:19 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-28"
-  },
-  {
-   "id": "sports-daily-2026-10-28-81",
-   "question": "Which current affairs development was reported regarding: \"While the host is fifth in Group C with four points from two matches, Ayush Badoni & Co., languishing at sixth, have three points in their kitty\"?",
-   "options": [
-    "Jharkhand and Delhi eye a spruce-up after middling start to the season",
-    "Ranji Trophy: Raghuvanshi, Musheer help Mumbai take opening day’s honours",
-    "ISL: Manvir strikes late as Mohun Bagan edges Chennaiyin",
-    "De la Fuente wins men's Ballon d'Or coach of the year; Pere Romeu bags women’s award"
-   ],
-   "answer": 0,
-   "explanation": "Jharkhand and Delhi eye a spruce-up after middling start to the season — While the host is fifth in Group C with four points from two matches, Ayush Badoni & Co., languishing at sixth, have three points in their kitty (The Hindu — Sports, Tue, 27 Oct 2026 10:29:07 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-28"
-  },
-  {
-   "id": "sports-daily-2026-10-28-82",
-   "question": "Which current affairs development was reported regarding: \"While he is chuffed for Kushagra and Shikhar, having worked with them since their u-16 days, he is left with a depleted outfit now\"?",
-   "options": [
-    "IND vs NZ third T20I: Incredible Abhishek mauls New Zealand as India clinch series with six-wicket win",
-    "Good for Jharkhand that the bench is being tested: coach Ratan",
-    "Murugappa Gold Cup: Last-gasp goal keeps IOCL in semifinal race",
-    "Railways has got a fighting total: Zubair"
+    "Baku",
+    "Budapest",
+    "Tashkent",
+    "Chennai"
    ],
    "answer": 1,
-   "explanation": "Good for Jharkhand that the bench is being tested: coach Ratan — While he is chuffed for Kushagra and Shikhar, having worked with them since their u-16 days, he is left with a depleted outfit now (The Hindu — Sports, Tue, 27 Oct 2026 10:27:15 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-28"
-  },
-  {
-   "id": "sports-daily-2026-10-29-66",
-   "question": "Which current affairs development was reported regarding: \"Liverpool to face Bournemouth in quarterfinals; Man City plays Bradford City\"?",
-   "options": [
-    "Carabao Cup: Liverpool beats Chelsea on penalties, Man City survives Brighton scare",
-    "Ranji Trophy: Badoni, Mathur mastermind a perfect day for Delhi",
-    "Ranji Trophy: Bowlers have a field day as 16 wickets fall",
-    "After his 38-ball 113, Abhishek Sharma plays down Yuvraj’s 12-ball fifty challenge"
-   ],
-   "answer": 0,
-   "explanation": "Carabao Cup: Liverpool beats Chelsea on penalties, Man City survives Brighton scare — Liverpool to face Bournemouth in quarterfinals; Man City plays Bradford City (The Hindu — Sports, Thu, 29 Oct 2026 11:01:14 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
+   "explanation": "India made history at the 45th FIDE Chess Olympiad in Budapest, Hungary in September 2024 by winning gold medals in both the Open section and the Women's section.",
+   "topic": "Chess in News",
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-29"
   },
   {
-   "id": "sports-daily-2026-10-29-67",
-   "question": "Which current affairs development was reported regarding: \"The vice-captain makes the most of an early reprieve as the host overhauls the 128-run target by five wickets to register its second successive win; spinners Toufik and Raj bowl their heart out for Railways\"?",
+   "id": "sports-daily-2026-10-29-46",
+   "question": "Which team, athlete or host city is associated with '2024 Ranji Trophy Cricket Championship' in recent sports news?",
    "options": [
-    "Ranji Trophy: Centurion Shahbaz and Shami put Bengal in command",
-    "Ranji Trophy: Steady Karnataka builds up a first-innings lead",
-    "Ranji Trophy: Andre guides Tamil Nadu home in a tense chase",
-    "Vaishnavi’s five-for sets up India’s series sweep"
-   ],
-   "answer": 2,
-   "explanation": "Ranji Trophy: Andre guides Tamil Nadu home in a tense chase — The vice-captain makes the most of an early reprieve as the host overhauls the 128-run target by five wickets to register its second successive win; spinners Toufik and Raj bowl their heart out for Railways (The Hindu — Sports, Thu, 29 Oct 2026 00:17:28 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-29"
-  },
-  {
-   "id": "sports-daily-2026-10-29-68",
-   "question": "Which current affairs development was reported regarding: \"India are blessed to have four equally aggressive and proven options to pick from to open the batting should it come to that. Abhishek, Samson, Sooryavanshi and Kishan are each more than a handful on his own; throw...\"?",
-   "options": [
-    "I wanted to stay till the end, says Andre",
-    "Ranji Trophy: Shorey’s century takes Vidarbha to a position of strength",
-    "Terrific Threesome — redefining the slam-bang manual",
-    "Carabao Cup: Liverpool beats Chelsea on penalties, Man City survives Brighton scare"
-   ],
-   "answer": 2,
-   "explanation": "Terrific Threesome — redefining the slam-bang manual — India are blessed to have four equally aggressive and proven options to pick from to open the batting should it come to that. Abhishek, Samson, Sooryavanshi and Kishan are each more than a handful on his own; throw... (The Hindu — Sports, Thu, 29 Oct 2026 00:15:04 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-29"
-  },
-  {
-   "id": "sports-daily-2026-10-29-69",
-   "question": "Which current affairs development was reported regarding: \"UP Warriorz drafts in the T20 WC-winning captain for ₹1.10 crore; the Indian big-hitter to turn out for Capitals after being bought for ₹75 lakh; the 15-year-old is the youngest to make a WPL squad\"?",
-   "options": [
-    "WPL auction: Molineux, Kiran top earners; Kashvi scripts history",
-    "Ranji Trophy: Steady Karnataka builds up a first-innings lead",
-    "Vijay hopes to show that off-spinners can excel in both Tests and T20s",
-    "Jharkhand and Delhi eye a spruce-up after middling start to the season"
+    "Mumbai (captained by Ajinkya Rahane)",
+    "Royal Challengers Bengaluru (captained by Smriti Mandhana)",
+    "NorthEast United FC (final at Salt Lake Stadium, Kolkata)",
+    "Services Football Team (hosted in Yupia, Arunachal Pradesh)"
    ],
    "answer": 0,
-   "explanation": "WPL auction: Molineux, Kiran top earners; Kashvi scripts history — UP Warriorz drafts in the T20 WC-winning captain for ₹1.10 crore; the Indian big-hitter to turn out for Capitals after being bought for ₹75 lakh; the 15-year-old is the youngest to make a WPL squad (The Hindu — Sports, Wed, 28 Oct 2026 23:18:28 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-29"
-  },
-  {
-   "id": "sports-daily-2026-10-29-70",
-   "question": "Which current affairs development was reported regarding: \"The Andhra tweaker sheds light on his transition from playing on cement tracks to turf wickets; the 25-year-old has been making rapid strides\"?",
-   "options": [
-    "Carabao Cup: Arsenal knocked out by fourth-tier Fleetwood in shootout",
-    "Ranji Trophy: Salil takes Punjab to 431; Hyderabad solid in reply",
-    "Vijay hopes to show that off-spinners can excel in both Tests and T20s",
-    "Asian Para Games gold medallist Neeraj Yadav found dead"
-   ],
-   "answer": 2,
-   "explanation": "Vijay hopes to show that off-spinners can excel in both Tests and T20s — The Andhra tweaker sheds light on his transition from playing on cement tracks to turf wickets; the 25-year-old has been making rapid strides (The Hindu — Sports, Wed, 28 Oct 2026 22:01:13 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
+   "explanation": "2024 Ranji Trophy Cricket Championship — Mumbai (captained by Ajinkya Rahane) (Mumbai defeated Vidarbha at Wankhede Stadium to win a record-extending 42nd Ranji Trophy title).",
+   "topic": "Sports Championships, Trophies & Venues in News",
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-29"
   },
   {
    "id": "sports-daily-2026-10-29-71",
-   "question": "Which current affairs development was reported regarding: \"The former spinner praises Suthar and believes he is a good investment for Indian cricket\"?",
+   "question": "In competitive sports awareness, with which sport is the 'Indian Premier League' associated?",
    "options": [
-    "IOCL holds Indian Army, leaves its semifinal hopes hanging",
-    "Mix of former players and administrators ideal for smooth conduct of the game: Nadeem",
-    "Mbappe dropped by Chinese brands for ‘offending national sentiments’",
-    "Asian Para Games gold medallist Neeraj Yadav found dead"
-   ],
-   "answer": 1,
-   "explanation": "Mix of former players and administrators ideal for smooth conduct of the game: Nadeem — The former spinner praises Suthar and believes he is a good investment for Indian cricket (The Hindu — Sports, Wed, 28 Oct 2026 21:23:31 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-29"
-  },
-  {
-   "id": "sports-daily-2026-10-29-72",
-   "question": "Which current affairs development was reported regarding: \"The left-arm spinner follows up his four-for in the first essay with the same number of scalps as the home side ends day three at 53 for four in pursuit of 408\"?",
-   "options": [
-    "Ranji Trophy: Raj praises Yuvraj and Indrajith for showing the way",
-    "Ranji Trophy: Pramanik puts Bengal in command as host Kerala stares down the barrel",
-    "Mix of former players and administrators ideal for smooth conduct of the game: Nadeem",
-    "Salil credits coaches Rajan and Yuvraj for his purple patch"
-   ],
-   "answer": 1,
-   "explanation": "Ranji Trophy: Pramanik puts Bengal in command as host Kerala stares down the barrel — The left-arm spinner follows up his four-for in the first essay with the same number of scalps as the home side ends day three at 53 for four in pursuit of 408 (The Hindu — Sports, Wed, 28 Oct 2026 21:18:58 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-29"
-  },
-  {
-   "id": "sports-daily-2026-10-29-73",
-   "question": "Which current affairs development was reported regarding: \"The Haryana all-rounder has spent a staggering 420 minutes at the crease so far and his unbeaten first-innings ton is a lesson in application on a surface that offered increasing assistance to the spinners\"?",
-   "options": [
-    "Ranji Trophy: Shorey, Samarth, Malewar fifties put Vidarbha in pole position",
-    "After his 38-ball 113, Abhishek Sharma plays down Yuvraj’s 12-ball fifty challenge",
-    "Efficacy, Galahad, Valiant Stream and Preview excel",
-    "Ranji Trophy 2026: Nishant’s knock an endorsement for patience and attrition"
-   ],
-   "answer": 3,
-   "explanation": "Ranji Trophy 2026: Nishant’s knock an endorsement for patience and attrition — The Haryana all-rounder has spent a staggering 420 minutes at the crease so far and his unbeaten first-innings ton is a lesson in application on a surface that offered increasing assistance to the spinners (The Hindu — Sports, Wed, 28 Oct 2026 19:04:47 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-29"
-  },
-  {
-   "id": "sports-daily-2026-10-29-74",
-   "question": "Which current affairs development was reported regarding: \"The Mumbai all-rounder completes a rare double of a century and five-wicket haul by scalping six in the first essay; the southpaw’s unbeaten century keeps alive Haryana’s hopes of earning a draw\"?",
-   "options": [
-    "Ranji Trophy: Musheer has a memorable day; Nishant puts in a shift",
-    "Ranji Trophy: Raj praises Yuvraj and Indrajith for showing the way",
-    "Emotional, proud homecoming for hockey heroes",
-    "Salil credits coaches Rajan and Yuvraj for his purple patch"
-   ],
-   "answer": 0,
-   "explanation": "Ranji Trophy: Musheer has a memorable day; Nishant puts in a shift — The Mumbai all-rounder completes a rare double of a century and five-wicket haul by scalping six in the first essay; the southpaw’s unbeaten century keeps alive Haryana’s hopes of earning a draw (The Hindu — Sports, Wed, 28 Oct 2026 18:56:10 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-29"
-  },
-  {
-   "id": "sports-daily-2026-10-29-75",
-   "question": "Which current affairs development was reported regarding: \"A placid pitch, however, puts paid to its plans of running through Tripura’s line-up in its search for a maiden win as the visitors bat with assurance in their second essay\"?",
-   "options": [
-    "Terrific Threesome — redefining the slam-bang manual",
-    "Carabao Cup: Liverpool beats Chelsea on penalties, Man City survives Brighton scare",
-    "Ranji Trophy: Shorey’s century takes Vidarbha to a position of strength",
-    "Karnataka takes a massive lead thanks to Aneeshwar’s patient century"
-   ],
-   "answer": 3,
-   "explanation": "Karnataka takes a massive lead thanks to Aneeshwar’s patient century — A placid pitch, however, puts paid to its plans of running through Tripura’s line-up in its search for a maiden win as the visitors bat with assurance in their second essay (The Hindu — Sports, Wed, 28 Oct 2026 18:40:40 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-29"
-  },
-  {
-   "id": "sports-daily-2026-10-29-76",
-   "question": "Which current affairs development was reported regarding: \"The 20-year-old grinds out an unbeaten 56 to take Tamil Nadu to victory against Railways\"?",
-   "options": [
-    "Terrific Threesome — redefining the slam-bang manual",
-    "I wanted to stay till the end, says Andre",
-    "Mirabai to compete in 53kg in Worlds",
-    "Murugappa Gold Cup: Last-gasp goal keeps IOCL in semifinal race"
-   ],
-   "answer": 1,
-   "explanation": "I wanted to stay till the end, says Andre — The 20-year-old grinds out an unbeaten 56 to take Tamil Nadu to victory against Railways (The Hindu — Sports, Wed, 28 Oct 2026 18:22:32 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-29"
-  },
-  {
-   "id": "sports-daily-2026-10-29-77",
-   "question": "Which current affairs development was reported regarding: \"Chinese Foreign Ministry spokesperson Guo Jiakun said: \"We take seriously the apology ‌that the person has made\"\"?",
-   "options": [
-    "WPL auction: Molineux, Kiran top earners; Kashvi scripts history",
-    "Ranji Trophy: Centurion Shahbaz and Shami put Bengal in command",
-    "WPL auction: Sneh among biggest names in the fray",
-    "Real Madrid apologise to Chinese people over Mbappe's Mao 'dictator' comment"
-   ],
-   "answer": 3,
-   "explanation": "Real Madrid apologise to Chinese people over Mbappe's Mao 'dictator' comment — Chinese Foreign Ministry spokesperson Guo Jiakun said: \"We take seriously the apology ‌that the person has made\" (The Hindu — Sports, Wed, 28 Oct 2026 17:19:50 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-29"
-  },
-  {
-   "id": "sports-daily-2026-10-29-78",
-   "question": "Which current affairs development was reported regarding: \"Abhishek hammered his fourth T20I century on October 27, smashing 113 off just 38 balls in the third T20I to power India to a six-wicket win\"?",
-   "options": [
-    "Usman Khawaja gives us another reason to admire him",
-    "Abhishek Sharma topples Ishan Kishan to become world No. 1 batter in T20I rankings",
-    "Real Madrid apologise to Chinese people over Mbappe's Mao 'dictator' comment",
-    "Ranji Trophy: Shorey, Samarth, Malewar fifties put Vidarbha in pole position"
-   ],
-   "answer": 1,
-   "explanation": "Abhishek Sharma topples Ishan Kishan to become world No. 1 batter in T20I rankings — Abhishek hammered his fourth T20I century on October 27, smashing 113 off just 38 balls in the third T20I to power India to a six-wicket win (The Hindu — Sports, Wed, 28 Oct 2026 16:34:00 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-29"
-  },
-  {
-   "id": "sports-daily-2026-10-29-79",
-   "question": "Which current affairs development was reported regarding: \"The victory was a remarkable result for Fleetwood, ​who sit in the bottom half of League Two and had won only one of their ⁠previous eight league matches\"?",
-   "options": [
-    "Mix of former players and administrators ideal for smooth conduct of the game: Nadeem",
-    "Carabao Cup: Arsenal knocked out by fourth-tier Fleetwood in shootout",
-    "Chennai teen takes chess to underprivileged children",
-    "I wanted to stay till the end, says Andre"
-   ],
-   "answer": 1,
-   "explanation": "Carabao Cup: Arsenal knocked out by fourth-tier Fleetwood in shootout — The victory was a remarkable result for Fleetwood, ​who sit in the bottom half of League Two and had won only one of their ⁠previous eight league matches (The Hindu — Sports, Wed, 28 Oct 2026 13:41:57 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-29"
-  },
-  {
-   "id": "sports-daily-2026-10-29-80",
-   "question": "Which current affairs development was reported regarding: \"The 42-year-old Yadav, who won three gold medals in the 2018 Jakarta Games, had missed the recent Para Games in Aichi-Nagoya due to a doping suspension\"?",
-   "options": [
-    "Batting with Badoni makes my job easier: Mathur",
-    "Jharkhand and Delhi eye a spruce-up after middling start to the season",
-    "Karnataka takes a massive lead thanks to Aneeshwar’s patient century",
-    "Asian Para Games gold medallist Neeraj Yadav found dead"
-   ],
-   "answer": 3,
-   "explanation": "Asian Para Games gold medallist Neeraj Yadav found dead — The 42-year-old Yadav, who won three gold medals in the 2018 Jakarta Games, had missed the recent Para Games in Aichi-Nagoya due to a doping suspension (The Hindu — Sports, Wed, 28 Oct 2026 13:26:15 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-29"
-  },
-  {
-   "id": "sports-daily-2026-10-29-81",
-   "question": "Which current affairs development was reported regarding: \"Wawrinka announced ‌last year that he would retire at the end of ‌the 2026 season, 24 years after ‌he ⁠turned professional\"?",
-   "options": [
-    "Carabao Cup: Liverpool beats Chelsea on penalties, Man City survives Brighton scare",
-    "Ranji Trophy: Badoni, Mathur mastermind a perfect day for Delhi",
-    "World under-19 champ Aditya targets LA Olympics",
-    "Wawrinka brings career to a close with defeat in Basel"
-   ],
-   "answer": 3,
-   "explanation": "Wawrinka brings career to a close with defeat in Basel — Wawrinka announced ‌last year that he would retire at the end of ‌the 2026 season, 24 years after ‌he ⁠turned professional (The Hindu — Sports, Wed, 28 Oct 2026 12:56:29 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-29"
-  },
-  {
-   "id": "sports-daily-2026-10-29-82",
-   "question": "Which current affairs development was reported regarding: \"Aleksander Vucic conceded defeat to a student-led opposition movement on October 25; Novak Djokovic says, the youth movement managed to create a sense of pride in all the people, not just in Serbia but abroad as well\"?",
-   "options": [
-    "IND vs NZ third T20I: Incredible Abhishek mauls New Zealand as India clinch series with six-wicket win",
-    "I wanted to stay till the end, says Andre",
-    "Tennis great Novak Djokovic praises Serbia's student movement after stunning election win",
-    "After his 38-ball 113, Abhishek Sharma plays down Yuvraj’s 12-ball fifty challenge"
+    "Badminton",
+    "Table Tennis",
+    "Cricket",
+    "Golf"
    ],
    "answer": 2,
-   "explanation": "Tennis great Novak Djokovic praises Serbia's student movement after stunning election win — Aleksander Vucic conceded defeat to a student-led opposition movement on October 25; Novak Djokovic says, the youth movement managed to create a sense of pride in all the people, not just in Serbia but abroad as well (The Hindu — Sports, Wed, 28 Oct 2026 12:46:17 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
+   "explanation": "The Indian Premier League is a major tournament or trophy in Cricket.",
+   "topic": "Sports — Major Trophies, Cups & Team Formats",
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-29"
   },
   {
-   "id": "sports-daily-2026-10-29-83",
-   "question": "Which current affairs development was reported regarding: \"The defender, whose full name is Romano Benito Floriani Mussolini, is related to Benito Mussolini through the maternal side of his family\"?",
+   "id": "sports-daily-2026-10-29-96",
+   "question": "Who won India's first-ever Paralympic gold medal in archery at the Paris 2024 Paralympic Games?",
    "options": [
-    "Wawrinka brings career to a close with defeat in Basel",
-    "Ranji Trophy: Andre guides Tamil Nadu home in a tense chase",
-    "Mussolini’s great-grandson scores his first goal for Lazio",
-    "Bright Button and Snow Girl impress"
+    "Sheetal Devi",
+    "Rakesh Kumar",
+    "Harvinder Singh",
+    "Shyam Sundar Swami"
    ],
    "answer": 2,
-   "explanation": "Mussolini’s great-grandson scores his first goal for Lazio — The defender, whose full name is Romano Benito Floriani Mussolini, is related to Benito Mussolini through the maternal side of his family (The Hindu — Sports, Wed, 28 Oct 2026 12:19:56 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
+   "explanation": "Harvinder Singh won gold in the men's individual recurve open archery event at Paris 2024, after previously winning bronze at the Tokyo 2020 Paralympics.",
+   "topic": "Paris 2024 Paralympics",
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-29"
   },
   {
-   "id": "sports-daily-2026-10-30-66",
-   "question": "Which current affairs development was reported regarding: \"The five-time IPL champion also brought in Mitchell McClenaghan as bowling coach, T.K. Dilip as fielding coach and Dhawal Kulkarni as development bowling coach\"?",
+   "id": "sports-daily-2026-10-30-21",
+   "question": "Which Indian shooter won the bronze medal in the men's 50m rifle 3 positions event at the Paris 2024 Olympics?",
    "options": [
-    "Ranji Trophy: Bengal completes a resounding win as Kerala capitulates",
-    "Get Set Go, Iconic and Jade Mountain please",
-    "Ranji Trophy: Punjab emerges with better returns from drawn encounter",
-    "Mumbai Indians appoint Robin Uthappa as batting coach"
+    "Aishwary Pratap Singh Tomar",
+    "Rudrankksh Patil",
+    "Divyansh Singh Panwar",
+    "Swapnil Kusale"
    ],
    "answer": 3,
-   "explanation": "Mumbai Indians appoint Robin Uthappa as batting coach — The five-time IPL champion also brought in Mitchell McClenaghan as bowling coach, T.K. Dilip as fielding coach and Dhawal Kulkarni as development bowling coach (The Hindu — Sports, Fri, 30 Oct 2026 11:00:27 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
+   "explanation": "Swapnil Kusale won India's first-ever Olympic medal in the men's 50m rifle 3 positions event by claiming bronze at Paris 2024.",
+   "topic": "Paris 2024 Olympics",
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-30"
   },
   {
-   "id": "sports-daily-2026-10-30-67",
-   "question": "Which current affairs development was reported regarding: \"Rashid achieved the feat in ​his 120th ‌T20 international, with the 28-year-old boasting an average of 13.96 and an ‌economy rate of 6.13 ​in the format\"?",
+   "id": "sports-daily-2026-10-30-46",
+   "question": "Under official sporting regulations, how many players take the field on one side in 'Kabaddi'?",
    "options": [
-    "Kotian caps a career-best haul to set up Mumbai’s win",
-    "Ranji Trophy: Pramanik puts Bengal in command as host Kerala stares down the barrel",
-    "Afghanistan’s Rashid Khan becomes first men’s player to claim 200 T20I wickets",
-    "Andhra’s bold move fails as Chhattisgarh triumphs"
+    "11",
+    "6",
+    "9",
+    "7"
    ],
-   "answer": 2,
-   "explanation": "Afghanistan’s Rashid Khan becomes first men’s player to claim 200 T20I wickets — Rashid achieved the feat in ​his 120th ‌T20 international, with the 28-year-old boasting an average of 13.96 and an ‌economy rate of 6.13 ​in the format (The Hindu — Sports, Fri, 30 Oct 2026 11:00:23 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-30"
-  },
-  {
-   "id": "sports-daily-2026-10-30-68",
-   "question": "Which current affairs development was reported regarding: \"Opposing Sourav Ganguly’s plea, the makers of ‘Doosra’ maintained that the cricketer was merely a source of inspiration for the film\"?",
-   "options": [
-    "Delhi HC asks Sourav Ganguly to specify infringing content in film ‘Doosra’",
-    "Former Dortmund star Schmelzer cherishes the battles with Bayern Munich",
-    "WPL auction: Sneh among biggest names in the fray",
-    "MCC-Murugappa Gold Cup: Indian Navy and Army seal semifinal spots"
-   ],
-   "answer": 0,
-   "explanation": "Delhi HC asks Sourav Ganguly to specify infringing content in film ‘Doosra’ — Opposing Sourav Ganguly’s plea, the makers of ‘Doosra’ maintained that the cricketer was merely a source of inspiration for the film (The Hindu — Sports, Fri, 30 Oct 2026 10:44:44 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-30"
-  },
-  {
-   "id": "sports-daily-2026-10-30-69",
-   "question": "Which current affairs development was reported regarding: \"Prasidh remains in contention for the Tests as the Board said he will be added to the India A squad for the third and final game against New Zealand A beginning November 7 if he clears the fitness assessment\"?",
-   "options": [
-    "Asian Champions Trophy: India slams 13 past hapless Bangladesh",
-    "Manisha Bhanwala becomes third Indian woman to reach World Wrestling Championships Final",
-    "Prasidh Krishna ruled out of New Zealand ODI series; Siraj added to India A squad for 2nd game",
-    "MCC-Murugappa Gold Cup: Indian Navy and Army seal semifinal spots"
-   ],
-   "answer": 2,
-   "explanation": "Prasidh Krishna ruled out of New Zealand ODI series; Siraj added to India A squad for 2nd game — Prasidh remains in contention for the Tests as the Board said he will be added to the India A squad for the third and final game against New Zealand A beginning November 7 if he clears the fitness assessment (The Hindu — Sports, Fri, 30 Oct 2026 10:16:13 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-30"
-  },
-  {
-   "id": "sports-daily-2026-10-30-70",
-   "question": "Which current affairs development was reported regarding: \"Manisha shocked World championships bronze medallist Laurence Beauregard by pinning the Canadian in the second period\"?",
-   "options": [
-    "Mumbai Indians appoint Robin Uthappa as batting coach",
-    "Home sweet Keralam: Leader Adrian Luna on his uncertain loan spell and the return of Blasters’ beloved Manjappada",
-    "Manisha Bhanwala becomes third Indian woman to reach World Wrestling Championships Final",
-    "MCC-Murugappa Gold Cup: Indian Navy and Army seal semifinal spots"
-   ],
-   "answer": 2,
-   "explanation": "Manisha Bhanwala becomes third Indian woman to reach World Wrestling Championships Final — Manisha shocked World championships bronze medallist Laurence Beauregard by pinning the Canadian in the second period (The Hindu — Sports, Fri, 30 Oct 2026 06:19:08 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
+   "answer": 3,
+   "explanation": "In official rules, a Kabaddi team fields 7 players per side.",
+   "topic": "Sports — Players per Team in Official Disciplines",
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-30"
   },
   {
    "id": "sports-daily-2026-10-30-71",
-   "question": "Which current affairs development was reported regarding: \"Kotian claimed eight for 84 to finish with a match haul of 11 wickets as Haryana was bowled out for 256 at the stroke of tea\"?",
+   "question": "In competitive sports awareness, with which sport is the 'Corbillon Cup' associated?",
    "options": [
-    "Kotian caps a career-best haul to set up Mumbai’s win",
-    "Carabao Cup: Arsenal knocked out by fourth-tier Fleetwood in shootout",
-    "Klinger happy with Giants’ purchases at WPL mini auction",
-    "Bright Button and Snow Girl impress"
+    "Cricket",
+    "Badminton",
+    "Tennis",
+    "Table Tennis"
+   ],
+   "answer": 3,
+   "explanation": "The Corbillon Cup is a major tournament or trophy in Table Tennis.",
+   "topic": "Sports — Major Trophies, Cups & Team Formats",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "sports-daily-2026-10-30-96",
+   "question": "Under official sporting regulations, how many players take the field on one side in 'Rugby union'?",
+   "options": [
+    "7",
+    "8",
+    "11",
+    "15"
+   ],
+   "answer": 3,
+   "explanation": "In official rules, a Rugby union team fields 15 players per side.",
+   "topic": "Sports — Players per Team in Official Disciplines",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "sports-daily-2026-10-31-21",
+   "question": "In competitive sports awareness, with which sport is the 'Santosh Trophy' associated?",
+   "options": [
+    "Football",
+    "Table Tennis",
+    "Cricket",
+    "Golf"
    ],
    "answer": 0,
-   "explanation": "Kotian caps a career-best haul to set up Mumbai’s win — Kotian claimed eight for 84 to finish with a match haul of 11 wickets as Haryana was bowled out for 256 at the stroke of tea (The Hindu — Sports, Fri, 30 Oct 2026 02:43:15 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
+   "explanation": "The Santosh Trophy is a major tournament or trophy in Football.",
+   "topic": "Sports — Major Trophies, Cups & Team Formats",
    "level": 2,
    "source": "daily",
-   "dailyDate": "2026-10-30"
+   "dailyDate": "2026-10-31"
   },
   {
-   "id": "sports-daily-2026-10-30-72",
-   "question": "Which current affairs development was reported regarding: \"Kotian served national selectors yet another reminder to be considered for the Border-Gavaskar Trophy squad early next year\"?",
+   "id": "sports-daily-2026-10-31-46",
+   "question": "In competitive sports awareness, with which sport is the 'Ranji Trophy' associated?",
    "options": [
-    "Kotian makes a case for Test call-up",
-    "Andhra’s bold move fails as Chhattisgarh triumphs",
-    "Vaishnavi — India’s new orchestrator",
-    "Mirabai to compete in 53kg in Worlds"
-   ],
-   "answer": 0,
-   "explanation": "Kotian makes a case for Test call-up — Kotian served national selectors yet another reminder to be considered for the Border-Gavaskar Trophy squad early next year (The Hindu — Sports, Fri, 30 Oct 2026 02:25:55 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-30"
-  },
-  {
-   "id": "sports-daily-2026-10-30-73",
-   "question": "Which current affairs development was reported regarding: \"The left-arm spinner may not have burst onto the scene but is making a case for herself with stellar performances for the National team. Those who have followed her from close quarters believe that the 20-year-old is...\"?",
-   "options": [
-    "I wanted to stay till the end, says Andre",
-    "Get Set Go, Iconic and Jade Mountain please",
-    "Vaishnavi — India’s new orchestrator",
-    "Ranji Trophy: Pramanik puts Bengal in command as host Kerala stares down the barrel"
-   ],
-   "answer": 2,
-   "explanation": "Vaishnavi — India’s new orchestrator — The left-arm spinner may not have burst onto the scene but is making a case for herself with stellar performances for the National team. Those who have followed her from close quarters believe that the 20-year-old is... (The Hindu — Sports, Fri, 30 Oct 2026 00:03:51 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-30"
-  },
-  {
-   "id": "sports-daily-2026-10-30-74",
-   "question": "Which current affairs development was reported regarding: \"Sukhjeet and skipper Harmanpreet score a brace each for the home team\"?",
-   "options": [
-    "Snapping ties abruptly with a match made in heaven",
-    "ACT: India registers hard-fought victory over a spirited China",
-    "Terrific Threesome — redefining the slam-bang manual",
-    "Ranji Trophy: Vihaan’s four-wicket haul helps Punjab secure the lead against Hyderabad"
+    "Football",
+    "Cricket",
+    "Hockey",
+    "Tennis"
    ],
    "answer": 1,
-   "explanation": "ACT: India registers hard-fought victory over a spirited China — Sukhjeet and skipper Harmanpreet score a brace each for the home team (The Hindu — Sports, Thu, 29 Oct 2026 23:48:24 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
+   "explanation": "The Ranji Trophy is a major tournament or trophy in Cricket.",
+   "topic": "Sports — Major Trophies, Cups & Team Formats",
    "level": 2,
    "source": "daily",
-   "dailyDate": "2026-10-30"
+   "dailyDate": "2026-10-31"
   },
   {
-   "id": "sports-daily-2026-10-30-75",
-   "question": "Which current affairs development was reported regarding: \"Top seed Manav Thakkar (WR 49), G. Sathiyan (85) and Harmeet Desai (101) will be his main challengers.\"?",
+   "id": "sports-daily-2026-10-31-71",
+   "question": "In competitive sports awareness, with which sport is the 'Merdeka Cup' associated?",
    "options": [
-    "Manisha Bhanwala becomes third Indian woman to reach World Wrestling Championships Final",
-    "Wawrinka brings career to a close with defeat in Basel",
-    "WTT Feeder Chennai: Ankur star attraction as Indians hope to excel",
-    "Delhi HC asks Sourav Ganguly to specify infringing content in film ‘Doosra’"
+    "Multi-sport",
+    "Football",
+    "Table Tennis",
+    "Cricket"
    ],
-   "answer": 2,
-   "explanation": "WTT Feeder Chennai: Ankur star attraction as Indians hope to excel — Top seed Manav Thakkar (WR 49), G. Sathiyan (85) and Harmeet Desai (101) will be his main challengers. (The Hindu — Sports, Thu, 29 Oct 2026 23:47:47 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
+   "answer": 1,
+   "explanation": "The Merdeka Cup is a major tournament or trophy in Football.",
+   "topic": "Sports — Major Trophies, Cups & Team Formats",
    "level": 2,
    "source": "daily",
-   "dailyDate": "2026-10-30"
+   "dailyDate": "2026-10-31"
   },
   {
-   "id": "sports-daily-2026-10-30-76",
-   "question": "Which current affairs development was reported regarding: \"The off-spinner comes up with his career-best career-best figures in Mumbai’s emphatic 10-wicket win over Haryana\"?",
+   "id": "sports-daily-2026-10-31-96",
+   "question": "Under official sporting regulations, how many players take the field on one side in 'Cricket'?",
    "options": [
-    "Kotian serves another reminder to the national selectors",
-    "Asian Champions Trophy: India slams 13 past hapless Bangladesh",
-    "WTT Feeder Chennai: Ankur star attraction as Indians hope to excel",
-    "Pretty satisfied to contribute to the win: Shahbaz"
+    "5",
+    "11",
+    "6",
+    "7"
    ],
-   "answer": 0,
-   "explanation": "Kotian serves another reminder to the national selectors — The off-spinner comes up with his career-best career-best figures in Mumbai’s emphatic 10-wicket win over Haryana (The Hindu — Sports, Thu, 29 Oct 2026 20:15:10 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
+   "answer": 1,
+   "explanation": "In official rules, a Cricket team fields 11 players per side.",
+   "topic": "Sports — Players per Team in Official Disciplines",
    "level": 2,
    "source": "daily",
-   "dailyDate": "2026-10-30"
-  },
-  {
-   "id": "sports-daily-2026-10-30-77",
-   "question": "Which current affairs development was reported regarding: \"The Delhi captain notches up a second double hundred on the trot in the drawn encounter against Jharkhand; he says the dream is to play for India\"?",
-   "options": [
-    "Rigorous training routine works wonders for Badoni",
-    "WPL auction: Molineux, Kiran top earners; Kashvi scripts history",
-    "Terrific Threesome — redefining the slam-bang manual",
-    "Abhishek Sharma topples Ishan Kishan to become world No. 1 batter in T20I rankings"
-   ],
-   "answer": 0,
-   "explanation": "Rigorous training routine works wonders for Badoni — The Delhi captain notches up a second double hundred on the trot in the drawn encounter against Jharkhand; he says the dream is to play for India (The Hindu — Sports, Thu, 29 Oct 2026 19:17:31 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-30"
-  },
-  {
-   "id": "sports-daily-2026-10-30-78",
-   "question": "Which current affairs development was reported regarding: \"In the time he’s been away from his KBFC, the State has added an ‘m’ to its name, the club has welcomed new owners from the UAE, and the Indian Super League — after a truncated and delayed season that led to Luna’s...\"?",
-   "options": [
-    "Home sweet Keralam: Leader Adrian Luna on his uncertain loan spell and the return of Blasters’ beloved Manjappada",
-    "Ranji Trophy: Pramanik puts Bengal in command as host Kerala stares down the barrel",
-    "Prasidh Krishna ruled out of New Zealand ODI series; Siraj added to India A squad for 2nd game",
-    "Carabao Cup: Arsenal knocked out by fourth-tier Fleetwood in shootout"
-   ],
-   "answer": 0,
-   "explanation": "Home sweet Keralam: Leader Adrian Luna on his uncertain loan spell and the return of Blasters’ beloved Manjappada — In the time he’s been away from his KBFC, the State has added an ‘m’ to its name, the club has welcomed new owners from the UAE, and the Indian Super League — after a truncated and delayed season that led to Luna’s... (The Hindu — Sports, Thu, 29 Oct 2026 18:49:00 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-30"
-  },
-  {
-   "id": "sports-daily-2026-10-30-79",
-   "question": "Which current affairs development was reported regarding: \"The offie claims eight for 81 to bowl out Haryana for 256; openers Saxena and Raghuvanshi overhaul the target of 97 inside 11 overs as the home team registers a bonus point victory for the third straight game\"?",
-   "options": [
-    "Emotional, proud homecoming for hockey heroes",
-    "Ranji Trophy: Bengal completes a resounding win as Kerala capitulates",
-    "Ranji Trophy: Kotian’s career-best show fashions Mumbai’s thumping win",
-    "Terrific Threesome — redefining the slam-bang manual"
-   ],
-   "answer": 2,
-   "explanation": "Ranji Trophy: Kotian’s career-best show fashions Mumbai’s thumping win — The offie claims eight for 81 to bowl out Haryana for 256; openers Saxena and Raghuvanshi overhaul the target of 97 inside 11 overs as the home team registers a bonus point victory for the third straight game (The Hindu — Sports, Thu, 29 Oct 2026 18:18:44 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-30"
-  },
-  {
-   "id": "sports-daily-2026-10-30-80",
-   "question": "Which current affairs development was reported regarding: \"Prahbhsimran and Saharan notch up half-centuries in the second essay; visitors pick up three points for taking the first innings honours while host Hyderabad has to rest content with one\"?",
-   "options": [
-    "Asian Para Games gold medallist Neeraj Yadav found dead",
-    "Rigorous training routine works wonders for Badoni",
-    "Ranji Trophy: Punjab emerges with better returns from drawn encounter",
-    "Emotional, proud homecoming for hockey heroes"
-   ],
-   "answer": 2,
-   "explanation": "Ranji Trophy: Punjab emerges with better returns from drawn encounter — Prahbhsimran and Saharan notch up half-centuries in the second essay; visitors pick up three points for taking the first innings honours while host Hyderabad has to rest content with one (The Hindu — Sports, Thu, 29 Oct 2026 17:58:30 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-30"
-  },
-  {
-   "id": "sports-daily-2026-10-30-81",
-   "question": "Which current affairs development was reported regarding: \"Leggie Shreyas returns a five-wicket haul after seamers Vyshak and Manvanth strike early on the final day; Tripura gets bundled out for 180 shortly after lunch\"?",
-   "options": [
-    "Ranji Trophy: Karnataka gets campaign back on track with an innings victory",
-    "Efficacy, Galahad, Valiant Stream and Preview excel",
-    "IOCL holds Indian Army, leaves its semifinal hopes hanging",
-    "Young javelin star Dharanidharan eyes breaching the 80m mark"
-   ],
-   "answer": 0,
-   "explanation": "Ranji Trophy: Karnataka gets campaign back on track with an innings victory — Leggie Shreyas returns a five-wicket haul after seamers Vyshak and Manvanth strike early on the final day; Tripura gets bundled out for 180 shortly after lunch (The Hindu — Sports, Thu, 29 Oct 2026 17:39:59 +0530).",
-   "topic": "The Hindu — Sports Current Affairs",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-30"
+   "dailyDate": "2026-10-31"
   }
  ]
 };

@@ -12,7 +12,7 @@
   "railways"
  ],
  "blurb": "Countries, capitals, currencies, days, organisations and world firsts.",
- "count": 1182,
+ "count": 1040,
  "questions": [
   {
    "id": "general-knowledge-00001",
@@ -15079,2852 +15079,580 @@
    "dailyDate": "2026-10-22"
   },
   {
-   "id": "general-knowledge-daily-2026-10-24-88",
-   "question": "Which of the following rings from the DC Comics' \"Lantern Corps\" are classified as Parasitic?",
+   "id": "general-knowledge-daily-2026-10-23-18",
+   "question": "Where was the 'UN Biodiversity Conference (COP16 to the CBD)' held or headquartered according to recent international affairs?",
    "options": [
-    "Yellow (Fear)",
-    "Indigo (Compassion)",
-    "Green (Willpower)",
-    "White (Life)"
-   ],
-   "answer": 1,
-   "explanation": "Indigo (Compassion) is the correct answer for: Which of the following rings from the DC Comics' \"Lantern Corps\" are classified as Parasitic? (Entertainment: Comics).",
-   "topic": "Entertainment: Comics",
-   "level": 3,
-   "source": "daily",
-   "dailyDate": "2026-10-24"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-24-89",
-   "question": "Xanthophobia is the fear of what color?",
-   "options": [
-    "Red",
-    "Green",
-    "Yellow",
-    "Blue"
+    "Geneva, Switzerland (UNEP Secretariat)",
+    "Borgo Egnazia (Apulia), Italy",
+    "Cali, Colombia",
+    "Apia, Samoa"
    ],
    "answer": 2,
-   "explanation": "Yellow is the correct answer for: Xanthophobia is the fear of what color? (General Knowledge).",
-   "topic": "General Knowledge",
-   "level": 3,
+   "explanation": "UN Biodiversity Conference (COP16 to the CBD) is associated with Cali, Colombia (operationalisation of the Cali Fund for fair sharing of benefits from digital sequence information on genetic resources).",
+   "topic": "International Summits, Treaties & Global Affairs",
+   "level": 2,
    "source": "daily",
-   "dailyDate": "2026-10-24"
+   "dailyDate": "2026-10-23"
   },
   {
-   "id": "general-knowledge-daily-2026-10-24-90",
-   "question": "Who is the origin of the quote \"What doesn't kill you makes you stronger\"?",
+   "id": "general-knowledge-daily-2026-10-23-43",
+   "question": "In world and Indian general knowledge: Which is the deepest lake in the world?",
    "options": [
-    "Christopher Hitchens",
-    "G. Gordon Liddy",
-    "Friedrich Nietzsche",
-    "Kelly Clarkson"
+    "Tibetan Plateau",
+    "Sundarbans",
+    "Netherlands",
+    "Lake Baikal"
+   ],
+   "answer": 3,
+   "explanation": "Which is the deepest lake in the world? — Lake Baikal.",
+   "topic": "General Knowledge — Global Superlatives & World Firsts",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-23-68",
+   "question": "In world general knowledge, what is the national capital of Ivory Coast (currency: CFA Franc)?",
+   "options": [
+    "Beijing",
+    "Khartoum",
+    "Astana",
+    "Yamoussoukro"
+   ],
+   "answer": 3,
+   "explanation": "The capital of Ivory Coast is Yamoussoukro and its official currency is the CFA Franc.",
+   "topic": "World General Knowledge — Countries, Capitals & Currencies",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-23-93",
+   "question": "In world and Indian general knowledge: Which is the largest river island in India?",
+   "options": [
+    "Amazon",
+    "Asia",
+    "Kolkata",
+    "Majuli"
+   ],
+   "answer": 3,
+   "explanation": "Which is the largest river island in India? — Majuli.",
+   "topic": "General Knowledge — Global Superlatives & World Firsts",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-24-18",
+   "question": "In world and Indian general knowledge: Which is the largest sea in the world?",
+   "options": [
+    "Kunchikal Falls",
+    "Uttar Pradesh",
+    "South China Sea",
+    "Caspian Sea"
    ],
    "answer": 2,
-   "explanation": "Friedrich Nietzsche is the correct answer for: Who is the origin of the quote \"What doesn't kill you makes you stronger\"? (General Knowledge).",
-   "topic": "General Knowledge",
-   "level": 1,
-   "source": "daily",
-   "dailyDate": "2026-10-24"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-24-91",
-   "question": "What was the name of the first Robin in the Batman comics?",
-   "options": [
-    "Bruce Wayne",
-    "Dick Grayson",
-    "Tim Drake",
-    "Jason Todd"
-   ],
-   "answer": 1,
-   "explanation": "Dick Grayson is the correct answer for: What was the name of the first Robin in the Batman comics? (Entertainment: Comics).",
-   "topic": "Entertainment: Comics",
+   "explanation": "Which is the largest sea in the world? — South China Sea.",
+   "topic": "General Knowledge — Global Superlatives & World Firsts",
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-24"
   },
   {
-   "id": "general-knowledge-daily-2026-10-24-92",
-   "question": "In what year was Garry's Mod released as a standalone title on Valve's Steam distribution service?",
+   "id": "general-knowledge-daily-2026-10-24-43",
+   "question": "In world general knowledge, what is the national capital of Luxembourg (currency: Euro)?",
    "options": [
-    "2007",
-    "2004",
-    "2006",
-    "2003"
+    "Luxembourg City",
+    "Jakarta",
+    "Manama",
+    "Vilnius"
    ],
-   "answer": 2,
-   "explanation": "2006 is the correct answer for: In what year was Garry's Mod released as a standalone title on Valve's Steam distribution service? (Entertainment: Video Games).",
-   "topic": "Entertainment: Video Games",
-   "level": 1,
+   "answer": 0,
+   "explanation": "The capital of Luxembourg is Luxembourg City and its official currency is the Euro.",
+   "topic": "World General Knowledge — Countries, Capitals & Currencies",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-24-68",
+   "question": "In world and Indian general knowledge: Which is the driest place on Earth?",
+   "options": [
+    "Lake Baikal",
+    "Canada",
+    "Bangladesh",
+    "Atacama Desert"
+   ],
+   "answer": 3,
+   "explanation": "Which is the driest place on Earth? — Atacama Desert.",
+   "topic": "General Knowledge — Global Superlatives & World Firsts",
+   "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-24"
   },
   {
    "id": "general-knowledge-daily-2026-10-24-93",
-   "question": "In the game \"Subnautica\", which feature was removed due to performance issues in 2016?",
+   "question": "Where was the 'India-Middle East-Europe Economic Corridor (IMEC)' held or headquartered according to recent international affairs?",
    "options": [
-    "Terraforming",
-    "Crafting",
-    "Multiplayer",
-    "Building"
+    "New Delhi G20 MoU Corridor linking India, UAE, Saudi Arabia, Jordan, Israel and Europe",
+    "Vientiane, Laos",
+    "Kampala, Uganda",
+    "United Nations Convention on the Law of the Sea (UNCLOS) framework"
    ],
    "answer": 0,
-   "explanation": "Terraforming is the correct answer for: In the game \"Subnautica\", which feature was removed due to performance issues in 2016? (Entertainment: Video Games).",
-   "topic": "Entertainment: Video Games",
+   "explanation": "India-Middle East-Europe Economic Corridor (IMEC) is associated with New Delhi G20 MoU Corridor linking India, UAE, Saudi Arabia, Jordan, Israel and Europe (multimodal ship-to-rail transit network accompanied by clean hydrogen pipelines and undersea high-speed data cables).",
+   "topic": "International Summits, Treaties & Global Affairs",
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-24"
   },
   {
-   "id": "general-knowledge-daily-2026-10-24-94",
-   "question": "Who is believed to have been the first European to 'discover' the land of New Zealand?",
+   "id": "general-knowledge-daily-2026-10-25-18",
+   "question": "In world general knowledge, what is the national capital of Burkina Faso (currency: CFA Franc)?",
    "options": [
-    "Abel Tasman",
-    "Jeanne Bar&eacute;",
-    "John Cabot",
-    "Christopher Columbus"
+    "Ouagadougou",
+    "Bandar Seri Begawan",
+    "Nicosia",
+    "Luxembourg City"
    ],
    "answer": 0,
-   "explanation": "Abel Tasman is the correct answer for: Who is believed to have been the first European to 'discover' the land of New Zealand? (History).",
-   "topic": "History",
+   "explanation": "The capital of Burkina Faso is Ouagadougou and its official currency is the CFA Franc.",
+   "topic": "World General Knowledge — Countries, Capitals & Currencies",
    "level": 2,
    "source": "daily",
-   "dailyDate": "2026-10-24"
+   "dailyDate": "2026-10-25"
   },
   {
-   "id": "general-knowledge-daily-2026-10-24-95",
-   "question": "What were the first two Pok&eacute;mon games released?",
+   "id": "general-knowledge-daily-2026-10-25-43",
+   "question": "In world and Indian general knowledge: Which is the westernmost state of India?",
    "options": [
-    "Red and Green",
-    "Red and Blue",
-    "Red and Yellow",
-    "Green and Blue"
-   ],
-   "answer": 0,
-   "explanation": "Red and Green is the correct answer for: What were the first two Pok&eacute;mon games released? (Entertainment: Video Games).",
-   "topic": "Entertainment: Video Games",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-24"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-24-96",
-   "question": "Which of these books was NOT written by the Czech author Karel Čapek?",
-   "options": [
-    "Journey to the Center of the Earth",
-    "R.U.R. (Rossum's Universal Robots)",
-    "Dashenka, or the Life of a Puppy",
-    "The War with the Newts"
-   ],
-   "answer": 0,
-   "explanation": "Journey to the Center of the Earth is the correct answer for: Which of these books was NOT written by the Czech author Karel Čapek? (Entertainment: Books).",
-   "topic": "Entertainment: Books",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-24"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-24-97",
-   "question": "In what year did the Wall Street Crash take place?",
-   "options": [
-    "1929",
-    "1925",
-    "1932",
-    "1930"
-   ],
-   "answer": 0,
-   "explanation": "1929 is the correct answer for: In what year did the Wall Street Crash take place? (History).",
-   "topic": "History",
-   "level": 1,
-   "source": "daily",
-   "dailyDate": "2026-10-24"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-24-98",
-   "question": "Which painting was not made by Vincent Van Gogh?",
-   "options": [
-    "Bedroom In Arles",
-    "Starry Night",
-    "The Ninth Wave",
-    "Caf&eacute; Terrace at Night"
-   ],
-   "answer": 2,
-   "explanation": "The Ninth Wave is the correct answer for: Which painting was not made by Vincent Van Gogh? (Art).",
-   "topic": "Art",
-   "level": 1,
-   "source": "daily",
-   "dailyDate": "2026-10-24"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-24-99",
-   "question": "In quantum physics, which of these theorised sub-atomic particles has yet to be observed?",
-   "options": [
-    "Graviton",
-    "Z boson",
-    "Tau neutrino",
-    "Gluon"
-   ],
-   "answer": 0,
-   "explanation": "Graviton is the correct answer for: In quantum physics, which of these theorised sub-atomic particles has yet to be observed? (Science & Nature).",
-   "topic": "Science & Nature",
-   "level": 3,
-   "source": "daily",
-   "dailyDate": "2026-10-24"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-24-100",
-   "question": "In \"Clash Royale\" what is Arena 4 called?",
-   "options": [
-    "P.E.K.K.A's Playhouse",
-    "Spell Valley",
-    "Royal Arena",
-    "Barbarian Bowl"
+    "Netherlands",
+    "Gujarat",
+    "Arunachal Pradesh",
+    "Tibetan Plateau"
    ],
    "answer": 1,
-   "explanation": "Spell Valley is the correct answer for: In \"Clash Royale\" what is Arena 4 called? (Entertainment: Video Games).",
-   "topic": "Entertainment: Video Games",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-24"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-25-45",
-   "question": "What is the name of Ruby Rose's weapon from RWBY?",
-   "options": [
-    "Crescent Rose",
-    "Magnhild",
-    "Thorned Rosebud",
-    "Crooked Scythe"
-   ],
-   "answer": 0,
-   "explanation": "Crescent Rose is the correct answer for: What is the name of Ruby Rose's weapon from RWBY? (Entertainment: Cartoon & Animations).",
-   "topic": "Entertainment: Cartoon & Animations",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-25"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-25-46",
-   "question": "During the events of Half-Life: Opposing Force, what is the age of Adrian Shephard, the protagonist?",
-   "options": [
-    "22",
-    "23",
-    "24",
-    "21"
-   ],
-   "answer": 0,
-   "explanation": "22 is the correct answer for: During the events of Half-Life: Opposing Force, what is the age of Adrian Shephard, the protagonist? (Entertainment: Video Games).",
-   "topic": "Entertainment: Video Games",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-25"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-25-47",
-   "question": "Which of these is not a layer in the OSI model for data communications?",
-   "options": [
-    "Transport Layer",
-    "Application Layer",
-    "Connection Layer",
-    "Physical Layer"
-   ],
-   "answer": 2,
-   "explanation": "Connection Layer is the correct answer for: Which of these is not a layer in the OSI model for data communications? (Science: Computers).",
-   "topic": "Science: Computers",
-   "level": 3,
-   "source": "daily",
-   "dailyDate": "2026-10-25"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-25-48",
-   "question": "Who is the second person to take up the mantle of Night Owl in the Watchmen graphic novel?",
-   "options": [
-    "Adrian Veidt",
-    "Nelson Gardner",
-    "Daniel Dreiberg",
-    "Hollis Mason"
-   ],
-   "answer": 2,
-   "explanation": "Daniel Dreiberg is the correct answer for: Who is the second person to take up the mantle of Night Owl in the Watchmen graphic novel? (Entertainment: Comics).",
-   "topic": "Entertainment: Comics",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-25"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-25-49",
-   "question": "Approximately how many Apple I personal computers were created?",
-   "options": [
-    "1000",
-    "100",
-    "500",
-    "200"
-   ],
-   "answer": 3,
-   "explanation": "200 is the correct answer for: Approximately how many Apple I personal computers were created? (Science: Computers).",
-   "topic": "Science: Computers",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-25"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-25-50",
-   "question": "What does AD stand for in relation to Windows Operating Systems?",
-   "options": [
-    "Automated Database",
-    "Active Directory",
-    "Alternative Drive",
-    "Active Department"
-   ],
-   "answer": 1,
-   "explanation": "Active Directory is the correct answer for: What does AD stand for in relation to Windows Operating Systems? (Science: Computers).",
-   "topic": "Science: Computers",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-25"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-25-51",
-   "question": "In the co-op shooter Payday 2, which contact helps you break out Hoxton?",
-   "options": [
-    "The Elephant",
-    "Vlad",
-    "The Dentist",
-    "The Butcher"
-   ],
-   "answer": 2,
-   "explanation": "The Dentist is the correct answer for: In the co-op shooter Payday 2, which contact helps you break out Hoxton? (Entertainment: Video Games).",
-   "topic": "Entertainment: Video Games",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-25"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-25-52",
-   "question": "Who assassinated President James A. Garfield?",
-   "options": [
-    "Sirhan Sirhan",
-    "Charles Guiteau",
-    "Leon Czolgosz",
-    "John Wilkes Booth"
-   ],
-   "answer": 1,
-   "explanation": "Charles Guiteau is the correct answer for: Who assassinated President James A. Garfield? (History).",
-   "topic": "History",
-   "level": 3,
-   "source": "daily",
-   "dailyDate": "2026-10-25"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-25-53",
-   "question": "What was the name of the planet in \"Aliens\"?",
-   "options": [
-    "Weyland Yutani Corporation Base",
-    "FR-838",
-    "LV-426",
-    "DI-621"
-   ],
-   "answer": 2,
-   "explanation": "LV-426 is the correct answer for: What was the name of the planet in \"Aliens\"? (Entertainment: Film).",
-   "topic": "Entertainment: Film",
-   "level": 3,
-   "source": "daily",
-   "dailyDate": "2026-10-25"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-25-54",
-   "question": "What is the Linnean name of the domestic apple tree?",
-   "options": [
-    "Appelus delectica",
-    "Malus americana",
-    "Malus pumila",
-    "Pomus domestica"
-   ],
-   "answer": 2,
-   "explanation": "Malus pumila is the correct answer for: What is the Linnean name of the domestic apple tree? (Science & Nature).",
-   "topic": "Science & Nature",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-25"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-25-55",
-   "question": "Which of these teams isn't a member of the NHL's \"Original Six\" era?",
-   "options": [
-    "Boston Bruins",
-    "New York Rangers",
-    "Philadelphia Flyers",
-    "Toronto Maple Leafs"
-   ],
-   "answer": 2,
-   "explanation": "Philadelphia Flyers is the correct answer for: Which of these teams isn't a member of the NHL's \"Original Six\" era? (Sports).",
-   "topic": "Sports",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-25"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-25-56",
-   "question": "Which of the following films was directed by Ivan Reitman, written by Gary Ross, featured Kevin Kline, and was released in 1993?",
-   "options": [
-    "Carl",
-    "John",
-    "Dave",
-    "Will"
-   ],
-   "answer": 2,
-   "explanation": "Dave is the correct answer for: Which of the following films was directed by Ivan Reitman, written by Gary Ross, featured Kevin Kline, and was released in 1993? (Entertainment: Film).",
-   "topic": "Entertainment: Film",
-   "level": 3,
-   "source": "daily",
-   "dailyDate": "2026-10-25"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-25-57",
-   "question": "Which of these European cities was the first to host the modern Summer Olympic Games three times?",
-   "options": [
-    "London",
-    "Paris",
-    "Rome",
-    "Athens"
-   ],
-   "answer": 0,
-   "explanation": "London is the correct answer for: Which of these European cities was the first to host the modern Summer Olympic Games three times? (Sports).",
-   "topic": "Sports",
-   "level": 3,
-   "source": "daily",
-   "dailyDate": "2026-10-25"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-25-58",
-   "question": "Who is the father of Icarus, who flew too close to the sun?",
-   "options": [
-    "Daedalus",
-    "Perseus",
-    "Minos",
-    "Zeus"
-   ],
-   "answer": 0,
-   "explanation": "Daedalus is the correct answer for: Who is the father of Icarus, who flew too close to the sun? (Mythology).",
-   "topic": "Mythology",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-25"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-25-59",
-   "question": "What was the original name of New York City?",
-   "options": [
-    "New Paris",
-    "New Amsterdam",
-    "New Rome",
-    "New London"
-   ],
-   "answer": 1,
-   "explanation": "New Amsterdam is the correct answer for: What was the original name of New York City? (History).",
-   "topic": "History",
-   "level": 3,
-   "source": "daily",
-   "dailyDate": "2026-10-25"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-25-60",
-   "question": "Who voiced Finn in Adventure Time?",
-   "options": [
-    "Nolan North",
-    "John DiMaggio",
-    "Jeremy Shada",
-    "Tom Kenny"
-   ],
-   "answer": 2,
-   "explanation": "Jeremy Shada is the correct answer for: Who voiced Finn in Adventure Time? (Entertainment: Cartoon & Animations).",
-   "topic": "Entertainment: Cartoon & Animations",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-25"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-25-61",
-   "question": "In the game Call of Duty, what is the last level where you play as an American soldier?",
-   "options": [
-    "Brecourt",
-    "Chateau",
-    "Festung Recogne",
-    "Ste. Mere-Eglise (Day)"
-   ],
-   "answer": 2,
-   "explanation": "Festung Recogne is the correct answer for: In the game Call of Duty, what is the last level where you play as an American soldier? (Entertainment: Video Games).",
-   "topic": "Entertainment: Video Games",
-   "level": 3,
-   "source": "daily",
-   "dailyDate": "2026-10-25"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-25-62",
-   "question": "In the Magic: The Gathering universe, the Antiquities, Ice Age, and Alliances expansions take place on which continent?",
-   "options": [
-    "Shiv",
-    "Jamuraa",
-    "Terisiare",
-    "Aerona"
-   ],
-   "answer": 2,
-   "explanation": "Terisiare is the correct answer for: In the Magic: The Gathering universe, the Antiquities, Ice Age, and Alliances expansions take place on which continent? (Entertainment: Books).",
-   "topic": "Entertainment: Books",
-   "level": 3,
-   "source": "daily",
-   "dailyDate": "2026-10-25"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-25-63",
-   "question": "As poverty and racial tensions pushed African-Americans out of the southern US, many of them moved north in an event known as what?",
-   "options": [
-    "The Resettlement",
-    "The Great Awakening",
-    "The Great Migration",
-    "The Harlem Renaissance"
-   ],
-   "answer": 2,
-   "explanation": "The Great Migration is the correct answer for: As poverty and racial tensions pushed African-Americans out of the southern US, many of them moved north in an event known as what? (History).",
-   "topic": "History",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-25"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-25-64",
-   "question": "Which one of these rulers did not belong to the Habsburg dynasty?",
-   "options": [
-    "Philip V",
-    "Charles V",
-    "Francis Joseph",
-    "Philip II"
-   ],
-   "answer": 0,
-   "explanation": "Philip V is the correct answer for: Which one of these rulers did not belong to the Habsburg dynasty? (History).",
-   "topic": "History",
-   "level": 3,
-   "source": "daily",
-   "dailyDate": "2026-10-25"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-25-65",
-   "question": "What does RAID stand for?",
-   "options": [
-    "Range of Applications with Identical Designs",
-    "Redundant Array of Independent Disks",
-    "Rapid Access for Indexed Devices",
-    "Randomized Abstract Identification Description"
-   ],
-   "answer": 1,
-   "explanation": "Redundant Array of Independent Disks is the correct answer for: What does RAID stand for? (Science: Computers).",
-   "topic": "Science: Computers",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-25"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-25-66",
-   "question": "Who is the main protagonist in the game Life is Strange: Before The Storm?",
-   "options": [
-    "Chloe Price",
-    "Max Caulfield",
-    "Rachel Amber",
-    "Frank Bowers"
-   ],
-   "answer": 0,
-   "explanation": "Chloe Price is the correct answer for: Who is the main protagonist in the game Life is Strange: Before The Storm? (Entertainment: Video Games).",
-   "topic": "Entertainment: Video Games",
-   "level": 1,
-   "source": "daily",
-   "dailyDate": "2026-10-25"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-25-67",
-   "question": "The following Spanish provinces are located in the northern area of Spain except:",
-   "options": [
-    "Navarre",
-    "Asturias",
-    "Le&oacute;n",
-    "Murcia"
-   ],
-   "answer": 3,
-   "explanation": "Murcia is the correct answer for: The following Spanish provinces are located in the northern area of Spain except: (Geography).",
-   "topic": "Geography",
+   "explanation": "Which is the westernmost state of India? — Gujarat.",
+   "topic": "General Knowledge — Global Superlatives & World Firsts",
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-25"
   },
   {
    "id": "general-knowledge-daily-2026-10-25-68",
-   "question": "The Proclaimers - I'm Gonna Be (500 Miles) reached what position on the US Hot 100 Charts in 1993?",
+   "question": "In world general knowledge, what is the national capital of Azerbaijan (currency: Manat)?",
    "options": [
-    "1st",
-    "8th",
-    "5th",
-    "3rd"
+    "Dublin",
+    "Damascus",
+    "Oslo",
+    "Baku"
    ],
    "answer": 3,
-   "explanation": "3rd is the correct answer for: The Proclaimers - I'm Gonna Be (500 Miles) reached what position on the US Hot 100 Charts in 1993? (Entertainment: Music).",
-   "topic": "Entertainment: Music",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-25"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-25-69",
-   "question": "Which of the following is the longest river in Europe?",
-   "options": [
-    "Ural",
-    "Dnieper",
-    "Danube",
-    "Volga"
-   ],
-   "answer": 3,
-   "explanation": "Volga is the correct answer for: Which of the following is the longest river in Europe? (Geography).",
-   "topic": "Geography",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-25"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-25-70",
-   "question": "What colour is the circle on the Japanese flag?",
-   "options": [
-    "White",
-    "Black",
-    "Yellow",
-    "Red"
-   ],
-   "answer": 3,
-   "explanation": "Red is the correct answer for: What colour is the circle on the Japanese flag? (Geography).",
-   "topic": "Geography",
-   "level": 1,
-   "source": "daily",
-   "dailyDate": "2026-10-25"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-25-71",
-   "question": "Which member of the Velvet Room is not a playable character in Persona 4 Arena Ultimax?",
-   "options": [
-    "Elizabeth",
-    "Margaret",
-    "Marie",
-    "Theodore"
-   ],
-   "answer": 3,
-   "explanation": "Theodore is the correct answer for: Which member of the Velvet Room is not a playable character in Persona 4 Arena Ultimax? (Entertainment: Video Games).",
-   "topic": "Entertainment: Video Games",
-   "level": 1,
-   "source": "daily",
-   "dailyDate": "2026-10-25"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-25-72",
-   "question": "Volkswagen's legendary VR6 engine has cylinders positioned at what degree angle?",
-   "options": [
-    "45 Degree",
-    "90 Degree",
-    "30 Degree",
-    "15 Degree"
-   ],
-   "answer": 3,
-   "explanation": "15 Degree is the correct answer for: Volkswagen's legendary VR6 engine has cylinders positioned at what degree angle? (Vehicles).",
-   "topic": "Vehicles",
-   "level": 3,
-   "source": "daily",
-   "dailyDate": "2026-10-25"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-25-73",
-   "question": "Which Super Mario video game when they introduce Bowser Jr. for the first time?",
-   "options": [
-    "Mario & Luigi: Bowser's Inside Story + Bowser Jr.'s Journey",
-    "Super Mario Galaxy",
-    "Mario Party series",
-    "Super Mario Sunshine"
-   ],
-   "answer": 3,
-   "explanation": "Super Mario Sunshine is the correct answer for: Which Super Mario video game when they introduce Bowser Jr. for the first time? (Entertainment: Video Games).",
-   "topic": "Entertainment: Video Games",
-   "level": 1,
-   "source": "daily",
-   "dailyDate": "2026-10-25"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-25-74",
-   "question": "What is the fastest road legal car in the world?",
-   "options": [
-    "Pagani Huayra BC",
-    "Koenigsegg Agera RS",
-    "Hennessy Venom GT",
-    "Bugatti Veyron Super Sport"
-   ],
-   "answer": 1,
-   "explanation": "Koenigsegg Agera RS is the correct answer for: What is the fastest road legal car in the world? (Vehicles).",
-   "topic": "Vehicles",
-   "level": 1,
-   "source": "daily",
-   "dailyDate": "2026-10-25"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-25-75",
-   "question": "Which of these country's capitals starts with the letter B?",
-   "options": [
-    "Jordan",
-    "Qatar",
-    "Kuwait",
-    "Lebanon"
-   ],
-   "answer": 3,
-   "explanation": "Lebanon is the correct answer for: Which of these country's capitals starts with the letter B? (Geography).",
-   "topic": "Geography",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-25"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-25-76",
-   "question": "In what city in the dystopia alternate future of Half-Life 2 do you first start in?",
-   "options": [
-    "City 18",
-    "City 17",
-    "City 45",
-    "City 6"
-   ],
-   "answer": 1,
-   "explanation": "City 17 is the correct answer for: In what city in the dystopia alternate future of Half-Life 2 do you first start in? (Entertainment: Video Games).",
-   "topic": "Entertainment: Video Games",
-   "level": 1,
-   "source": "daily",
-   "dailyDate": "2026-10-25"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-25-77",
-   "question": "What is the medical term for low blood sugar?",
-   "options": [
-    "Hypoxia",
-    "Hypothyroidism",
-    "Hypothermia",
-    "Hypoglycemia"
-   ],
-   "answer": 3,
-   "explanation": "Hypoglycemia is the correct answer for: What is the medical term for low blood sugar? (Science & Nature).",
-   "topic": "Science & Nature",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-25"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-25-78",
-   "question": "What is the romanized Russian word for \"winter\"?",
-   "options": [
-    "Zima",
-    "Leto",
-    "Vesna",
-    "Osen'"
-   ],
-   "answer": 0,
-   "explanation": "Zima is the correct answer for: What is the romanized Russian word for \"winter\"? (General Knowledge).",
-   "topic": "General Knowledge",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-25"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-25-79",
-   "question": "Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library?",
-   "options": [
-    "Shellshock",
-    "Heartbleed",
-    "Shellscript",
-    "Corrupted Blood"
-   ],
-   "answer": 1,
-   "explanation": "Heartbleed is the correct answer for: Which of these was the name of a bug found in April 2014 in the publicly available OpenSSL cryptography library? (Science: Computers).",
-   "topic": "Science: Computers",
-   "level": 3,
-   "source": "daily",
-   "dailyDate": "2026-10-25"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-25-80",
-   "question": "In the game Sonic Forces, which of the following was not from a previous game?",
-   "options": [
-    "Infinite",
-    "Zavoc",
-    "Chaos",
-    "Metal Sonic"
-   ],
-   "answer": 0,
-   "explanation": "Infinite is the correct answer for: In the game Sonic Forces, which of the following was not from a previous game? (Entertainment: Video Games).",
-   "topic": "Entertainment: Video Games",
-   "level": 1,
-   "source": "daily",
-   "dailyDate": "2026-10-25"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-25-81",
-   "question": "Which of the following is NOT a venomous snake?",
-   "options": [
-    "Yellow bellied sea snake",
-    "Black mamba",
-    "Reticulated python",
-    "Malayan Krait"
-   ],
-   "answer": 2,
-   "explanation": "Reticulated python is the correct answer for: Which of the following is NOT a venomous snake? (Animals).",
-   "topic": "Animals",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-25"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-25-82",
-   "question": "What's Harry Potter's dad's name?",
-   "options": [
-    "Frank Potter",
-    "James Potter",
-    "Joey Potter",
-    "Hairy Potter Sr."
-   ],
-   "answer": 1,
-   "explanation": "James Potter is the correct answer for: What's Harry Potter's dad's name? (Entertainment: Books).",
-   "topic": "Entertainment: Books",
-   "level": 1,
-   "source": "daily",
-   "dailyDate": "2026-10-25"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-25-83",
-   "question": "Which of the following collision avoidance systems helps airplanes avoid colliding with each other?",
-   "options": [
-    "TAWS",
-    "OCAS",
-    "TCAS",
-    "GPWS"
-   ],
-   "answer": 2,
-   "explanation": "TCAS is the correct answer for: Which of the following collision avoidance systems helps airplanes avoid colliding with each other? (Vehicles).",
-   "topic": "Vehicles",
-   "level": 1,
-   "source": "daily",
-   "dailyDate": "2026-10-25"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-25-84",
-   "question": "How many years did the Hundred Years' War last?",
-   "options": [
-    "90",
-    "116",
-    "100",
-    "101"
-   ],
-   "answer": 1,
-   "explanation": "116 is the correct answer for: How many years did the Hundred Years' War last? (History).",
-   "topic": "History",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-25"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-25-85",
-   "question": "Which continent is considered the largest and most populous continent in the world?",
-   "options": [
-    "Europe",
-    "North America",
-    "Asia",
-    "Africa"
-   ],
-   "answer": 2,
-   "explanation": "Asia is the correct answer for: Which continent is considered the largest and most populous continent in the world? (Geography).",
-   "topic": "Geography",
-   "level": 1,
-   "source": "daily",
-   "dailyDate": "2026-10-25"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-25-86",
-   "question": "In Grand Theft Auto V, what was Michael De Santa's former surname?",
-   "options": [
-    "Townley",
-    "De Santos",
-    "Watson",
-    "Simpson"
-   ],
-   "answer": 0,
-   "explanation": "Townley is the correct answer for: In Grand Theft Auto V, what was Michael De Santa's former surname? (Entertainment: Video Games).",
-   "topic": "Entertainment: Video Games",
-   "level": 1,
-   "source": "daily",
-   "dailyDate": "2026-10-25"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-25-87",
-   "question": "Which movie served as the KTMA pilot episode for the show \"Mystery Science Theater 3000\"?",
-   "options": [
-    "Plan 9 From Outer Space",
-    "The Robot Vs. The Aztec Mummy",
-    "The Crawling Eye",
-    "The Green Slime"
-   ],
-   "answer": 3,
-   "explanation": "The Green Slime is the correct answer for: Which movie served as the KTMA pilot episode for the show \"Mystery Science Theater 3000\"? (Entertainment: Television).",
-   "topic": "Entertainment: Television",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-25"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-25-88",
-   "question": "Which of these is a stop codon in DNA?",
-   "options": [
-    "TAA",
-    "ACT",
-    "GTA",
-    "ACA"
-   ],
-   "answer": 0,
-   "explanation": "TAA is the correct answer for: Which of these is a stop codon in DNA? (Science & Nature).",
-   "topic": "Science & Nature",
-   "level": 3,
-   "source": "daily",
-   "dailyDate": "2026-10-25"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-25-89",
-   "question": "What position does Harry Potter play in Quidditch?",
-   "options": [
-    "Beater",
-    "Seeker",
-    "Chaser",
-    "Keeper"
-   ],
-   "answer": 1,
-   "explanation": "Seeker is the correct answer for: What position does Harry Potter play in Quidditch? (Entertainment: Books).",
-   "topic": "Entertainment: Books",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-25"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-25-90",
-   "question": "La Fenice opera house is in which Italian city?",
-   "options": [
-    "Milan",
-    "Rome",
-    "Venice",
-    "Pompeii"
-   ],
-   "answer": 2,
-   "explanation": "Venice is the correct answer for: La Fenice opera house is in which Italian city? (Entertainment: Music).",
-   "topic": "Entertainment: Music",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-25"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-25-91",
-   "question": "Who founded the Khan Academy?",
-   "options": [
-    "Ben Khan",
-    "Sal Khan",
-    "Kitt Khan",
-    "Adel Khan"
-   ],
-   "answer": 1,
-   "explanation": "Sal Khan is the correct answer for: Who founded the Khan Academy? (General Knowledge).",
-   "topic": "General Knowledge",
-   "level": 3,
-   "source": "daily",
-   "dailyDate": "2026-10-25"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-25-92",
-   "question": "How many Star Spirits do you rescue in the Nintendo 64 video game \"Paper Mario\"?",
-   "options": [
-    "5",
-    "12",
-    "10",
-    "7"
-   ],
-   "answer": 3,
-   "explanation": "7 is the correct answer for: How many Star Spirits do you rescue in the Nintendo 64 video game \"Paper Mario\"? (Entertainment: Video Games).",
-   "topic": "Entertainment: Video Games",
+   "explanation": "The capital of Azerbaijan is Baku and its official currency is the Manat.",
+   "topic": "World General Knowledge — Countries, Capitals & Currencies",
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-25"
   },
   {
    "id": "general-knowledge-daily-2026-10-25-93",
-   "question": "Who was the first man to travel into outer space?",
+   "question": "Where was the '27th Commonwealth Heads of Government Meeting (CHOGM 2024)' held or headquartered according to recent international affairs?",
    "options": [
-    "Virgil Ivan \"Gus\" Grissom",
-    "Neil Armstrong",
-    "Yuri Gagarin",
-    "Buzz Aldrin"
+    "Apia, Samoa",
+    "Vientiane, Laos",
+    "Borgo Egnazia (Apulia), Italy",
+    "Bangkok, Thailand"
    ],
-   "answer": 2,
-   "explanation": "Yuri Gagarin is the correct answer for: Who was the first man to travel into outer space? (History).",
-   "topic": "History",
-   "level": 3,
+   "answer": 0,
+   "explanation": "27th Commonwealth Heads of Government Meeting (CHOGM 2024) is associated with Apia, Samoa (first CHOGM hosted by a Pacific Small Island Developing State, adopting the Apia Commonwealth Ocean Declaration).",
+   "topic": "International Summits, Treaties & Global Affairs",
+   "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-25"
   },
   {
-   "id": "general-knowledge-daily-2026-10-26-67",
-   "question": "Which student in Yandere Simulator is known for asking irritating and stupid questions?",
+   "id": "general-knowledge-daily-2026-10-26-18",
+   "question": "In world general knowledge, what is the national capital of Turkey (currency: Turkish Lira)?",
    "options": [
-    "Oka Ruto",
-    "Kokona Hruka",
-    "Pipi Osu",
-    "Midori Gurin"
+    "Stockholm",
+    "Ankara",
+    "Damascus",
+    "Beijing"
    ],
-   "answer": 3,
-   "explanation": "Midori Gurin is the correct answer for: Which student in Yandere Simulator is known for asking irritating and stupid questions? (Entertainment: Video Games).",
-   "topic": "Entertainment: Video Games",
-   "level": 1,
+   "answer": 1,
+   "explanation": "The capital of Turkey is Ankara and its official currency is the Turkish Lira.",
+   "topic": "World General Knowledge — Countries, Capitals & Currencies",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-26-43",
+   "question": "In world and Indian general knowledge: Which Indian state shares the longest border with China?",
+   "options": [
+    "Arunachal Pradesh",
+    "Ethiopia",
+    "Dead Sea",
+    "Suez Canal"
+   ],
+   "answer": 0,
+   "explanation": "Which Indian state shares the longest border with China? — Arunachal Pradesh.",
+   "topic": "General Knowledge — Global Superlatives & World Firsts",
+   "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-26"
   },
   {
    "id": "general-knowledge-daily-2026-10-26-68",
-   "question": "Prior to 2018, which car company is the only Japanese company which won the 24 Hours of Le Mans?",
+   "question": "Where was the '44th and 45th ASEAN Summits (2024)' held or headquartered according to recent international affairs?",
    "options": [
-    "Mazda",
-    "Subaru",
-    "Toyota",
-    "Nissan"
+    "Vientiane, Laos",
+    "Apia, Samoa",
+    "Geneva, Switzerland (UNEP Secretariat)",
+    "Borgo Egnazia (Apulia), Italy"
    ],
    "answer": 0,
-   "explanation": "Mazda is the correct answer for: Prior to 2018, which car company is the only Japanese company which won the 24 Hours of Le Mans? (Sports).",
-   "topic": "Sports",
-   "level": 3,
-   "source": "daily",
-   "dailyDate": "2026-10-26"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-26-69",
-   "question": "What is rapper Drake's real name?",
-   "options": [
-    "Dwayne Carter",
-    "Aubrey Graham",
-    "Andre Young",
-    "Shaun Carter"
-   ],
-   "answer": 1,
-   "explanation": "Aubrey Graham is the correct answer for: What is rapper Drake's real name? (Entertainment: Music).",
-   "topic": "Entertainment: Music",
+   "explanation": "44th and 45th ASEAN Summits (2024) is associated with Vientiane, Laos (theme 'ASEAN: Enhancing Connectivity and Resilience' strengthening Indo-Pacific supply chains and digital economy ties).",
+   "topic": "International Summits, Treaties & Global Affairs",
    "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-26"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-26-70",
-   "question": "Which ability from the \"Magic: The Gathering\" Scars of Mirrodin expansion involves having at least three artifacts in play?",
-   "options": [
-    "Imprint",
-    "Living Weapon",
-    "Affinity",
-    "Metalcraft"
-   ],
-   "answer": 3,
-   "explanation": "Metalcraft is the correct answer for: Which ability from the \"Magic: The Gathering\" Scars of Mirrodin expansion involves having at least three artifacts in play? (Entertainment: Board Games).",
-   "topic": "Entertainment: Board Games",
-   "level": 3,
-   "source": "daily",
-   "dailyDate": "2026-10-26"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-26-71",
-   "question": "In Terraria, which debuff does the ankh charm not provide immunity to?",
-   "options": [
-    "Bleeding",
-    "Venom",
-    "Cursed",
-    "Slow"
-   ],
-   "answer": 1,
-   "explanation": "Venom is the correct answer for: In Terraria, which debuff does the ankh charm not provide immunity to? (Entertainment: Video Games).",
-   "topic": "Entertainment: Video Games",
-   "level": 3,
-   "source": "daily",
-   "dailyDate": "2026-10-26"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-26-72",
-   "question": "Ozzy Osbourne was the lead singer for what metal band?",
-   "options": [
-    "Judas Priest",
-    "AC/DC",
-    "Iron Maiden",
-    "Black Sabbath"
-   ],
-   "answer": 3,
-   "explanation": "Black Sabbath is the correct answer for: Ozzy Osbourne was the lead singer for what metal band? (Entertainment: Music).",
-   "topic": "Entertainment: Music",
-   "level": 1,
-   "source": "daily",
-   "dailyDate": "2026-10-26"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-26-73",
-   "question": "In the movie \"Spaceballs\", what are the Spaceballs attempting to steal from Planet Druidia?",
-   "options": [
-    "Meatballs",
-    "Princess Lonestar",
-    "The Schwartz",
-    "Air"
-   ],
-   "answer": 3,
-   "explanation": "Air is the correct answer for: In the movie \"Spaceballs\", what are the Spaceballs attempting to steal from Planet Druidia? (Entertainment: Film).",
-   "topic": "Entertainment: Film",
-   "level": 1,
-   "source": "daily",
-   "dailyDate": "2026-10-26"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-26-74",
-   "question": "What is the age of Ash Ketchum in Pokemon when he starts his journey?",
-   "options": [
-    "12",
-    "10",
-    "11",
-    "9"
-   ],
-   "answer": 1,
-   "explanation": "10 is the correct answer for: What is the age of Ash Ketchum in Pokemon when he starts his journey? (Entertainment: Japanese Anime & Manga).",
-   "topic": "Entertainment: Japanese Anime & Manga",
-   "level": 1,
-   "source": "daily",
-   "dailyDate": "2026-10-26"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-26-75",
-   "question": "What stage of development do the majority of eukaryotic cells remain in for most of their life?",
-   "options": [
-    "Stasis",
-    "Interphase",
-    "Prophase",
-    "Telophase"
-   ],
-   "answer": 1,
-   "explanation": "Interphase is the correct answer for: What stage of development do the majority of eukaryotic cells remain in for most of their life? (Science & Nature).",
-   "topic": "Science & Nature",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-26"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-26-76",
-   "question": "The Maori hold that which island nation was founded by Kupe, who discovered it under a long white cloud?",
-   "options": [
-    "New Zealand",
-    "Hawaii",
-    "Fiji",
-    "Vanuatu"
-   ],
-   "answer": 0,
-   "explanation": "New Zealand is the correct answer for: The Maori hold that which island nation was founded by Kupe, who discovered it under a long white cloud? (Mythology).",
-   "topic": "Mythology",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-26"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-26-77",
-   "question": "Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?",
-   "options": [
-    "Commodore",
-    "Microsoft",
-    "Atari",
-    "Apple"
-   ],
-   "answer": 3,
-   "explanation": "Apple is the correct answer for: Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne? (Science: Computers).",
-   "topic": "Science: Computers",
-   "level": 1,
-   "source": "daily",
-   "dailyDate": "2026-10-26"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-26-78",
-   "question": "Which president erased the national debt of the United States?",
-   "options": [
-    "Ronald Reagan",
-    "Andrew Jackson",
-    "John F. Kennedy",
-    "Franklin Roosevelt"
-   ],
-   "answer": 1,
-   "explanation": "Andrew Jackson is the correct answer for: Which president erased the national debt of the United States? (Politics).",
-   "topic": "Politics",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-26"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-26-79",
-   "question": "Which of the following anime of the mecha genre began airing in 1982?",
-   "options": [
-    "Mobile Suit Gundam",
-    "Armored Trooper VOTOMS",
-    "Neon Genesis Evangelion",
-    "The Super Dimension Fortress Macross"
-   ],
-   "answer": 3,
-   "explanation": "The Super Dimension Fortress Macross is the correct answer for: Which of the following anime of the mecha genre began airing in 1982? (Entertainment: Japanese Anime & Manga).",
-   "topic": "Entertainment: Japanese Anime & Manga",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-26"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-26-80",
-   "question": "When was the first mammal successfully cloned?",
-   "options": [
-    "1985",
-    "1999",
-    "1996",
-    "2009"
-   ],
-   "answer": 2,
-   "explanation": "1996 is the correct answer for: When was the first mammal successfully cloned? (Science & Nature).",
-   "topic": "Science & Nature",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-26"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-26-81",
-   "question": "Burning which of these metals will produce a bright white flame?",
-   "options": [
-    "Copper",
-    "Magnesium",
-    "Lithium",
-    "Lead"
-   ],
-   "answer": 1,
-   "explanation": "Magnesium is the correct answer for: Burning which of these metals will produce a bright white flame? (Science & Nature).",
-   "topic": "Science & Nature",
-   "level": 3,
-   "source": "daily",
-   "dailyDate": "2026-10-26"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-26-82",
-   "question": "Who is the vocalist and frontman of rock band \"Guns N' Roses\"?",
-   "options": [
-    "Kurt Cobain",
-    "Bono",
-    "Axl Rose",
-    "Slash"
-   ],
-   "answer": 2,
-   "explanation": "Axl Rose is the correct answer for: Who is the vocalist and frontman of rock band \"Guns N' Roses\"? (Entertainment: Music).",
-   "topic": "Entertainment: Music",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-26"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-26-83",
-   "question": "Who was the Author of the manga Monster Hunter Orage?",
-   "options": [
-    "Keiichi Hikami",
-    "Hirohiko Araki",
-    "Hiro Mashima",
-    "Shin Yamamoto"
-   ],
-   "answer": 2,
-   "explanation": "Hiro Mashima is the correct answer for: Who was the Author of the manga Monster Hunter Orage? (Entertainment: Japanese Anime & Manga).",
-   "topic": "Entertainment: Japanese Anime & Manga",
-   "level": 3,
-   "source": "daily",
-   "dailyDate": "2026-10-26"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-26-84",
-   "question": "Which item of clothing is usually worn by a Scotsman at a wedding?",
-   "options": [
-    "Skirt",
-    "Kilt",
-    "Rhobes",
-    "Dress"
-   ],
-   "answer": 1,
-   "explanation": "Kilt is the correct answer for: Which item of clothing is usually worn by a Scotsman at a wedding? (General Knowledge).",
-   "topic": "General Knowledge",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-26"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-26-85",
-   "question": "Which of the following Assyrian kings did NOT rule during the Neo-Assyrian Empire?",
-   "options": [
-    "Shamshi-Adad III",
-    "Shalmaneser V",
-    "Esharhaddon",
-    "Ashur-nasir-pal II"
-   ],
-   "answer": 0,
-   "explanation": "Shamshi-Adad III is the correct answer for: Which of the following Assyrian kings did NOT rule during the Neo-Assyrian Empire? (History).",
-   "topic": "History",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-26"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-26-86",
-   "question": "What year was the United States Declaration of Independence signed?",
-   "options": [
-    "1774",
-    "1776",
-    "1775",
-    "1777"
-   ],
-   "answer": 1,
-   "explanation": "1776 is the correct answer for: What year was the United States Declaration of Independence signed? (History).",
-   "topic": "History",
-   "level": 3,
-   "source": "daily",
-   "dailyDate": "2026-10-26"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-26-87",
-   "question": "In the video game \"League of Legends\" which character is known as \"The Sinister Blade\"?",
-   "options": [
-    "Akali",
-    "Katarina",
-    "Shaco",
-    "Zed"
-   ],
-   "answer": 1,
-   "explanation": "Katarina is the correct answer for: In the video game \"League of Legends\" which character is known as \"The Sinister Blade\"? (Entertainment: Video Games).",
-   "topic": "Entertainment: Video Games",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-26"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-26-88",
-   "question": "Which of these is NOT a playable character race in the video game \"Starbound\"?",
-   "options": [
-    "Floran",
-    "Fenerox",
-    "Hylotl",
-    "Novakid"
-   ],
-   "answer": 1,
-   "explanation": "Fenerox is the correct answer for: Which of these is NOT a playable character race in the video game \"Starbound\"? (Entertainment: Video Games).",
-   "topic": "Entertainment: Video Games",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-26"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-26-89",
-   "question": "Which of the following Presidents of the United States was assassinated?",
-   "options": [
-    "Lyndon Johnson",
-    "Franklin Roosevelt",
-    "William McKinley",
-    "Chester Arthur"
-   ],
-   "answer": 2,
-   "explanation": "William McKinley is the correct answer for: Which of the following Presidents of the United States was assassinated? (History).",
-   "topic": "History",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-26"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-26-90",
-   "question": "What is the name of the Greek god of peaceful deaths?",
-   "options": [
-    "Hades",
-    "Thanatos",
-    "Moros",
-    "Tartarus"
-   ],
-   "answer": 1,
-   "explanation": "Thanatos is the correct answer for: What is the name of the Greek god of peaceful deaths? (Mythology).",
-   "topic": "Mythology",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-26"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-26-91",
-   "question": "Only 9% of US Households owned a television in",
-   "options": [
-    "1913",
-    "1950",
-    "1965",
-    "1969"
-   ],
-   "answer": 1,
-   "explanation": "1950 is the correct answer for: Only 9% of US Households owned a television in (General Knowledge).",
-   "topic": "General Knowledge",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-26"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-26-92",
-   "question": "How long did World War II last?",
-   "options": [
-    "7 years",
-    "5 years",
-    "4 years",
-    "6 years"
-   ],
-   "answer": 3,
-   "explanation": "6 years is the correct answer for: How long did World War II last? (History).",
-   "topic": "History",
-   "level": 1,
    "source": "daily",
    "dailyDate": "2026-10-26"
   },
   {
    "id": "general-knowledge-daily-2026-10-26-93",
-   "question": "From what show is the character \"James Doakes\"?",
+   "question": "In world general knowledge, what is the national capital of Slovenia (currency: Euro)?",
    "options": [
-    "Dexter",
-    "Marvel's Daredevil",
-    "Boardwalk Empire",
-    "The Walking Dead"
-   ],
-   "answer": 0,
-   "explanation": "Dexter is the correct answer for: From what show is the character \"James Doakes\"? (Entertainment: Television).",
-   "topic": "Entertainment: Television",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-26"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-26-94",
-   "question": "In the game Overwatch, which hero out of the following 4 is from Brazil?",
-   "options": [
-    "McCree",
-    "Symmetra",
-    "Sombra",
-    "L&uacute;cio"
-   ],
-   "answer": 3,
-   "explanation": "L&uacute;cio is the correct answer for: In the game Overwatch, which hero out of the following 4 is from Brazil? (Entertainment: Video Games).",
-   "topic": "Entertainment: Video Games",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-26"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-26-95",
-   "question": "In \"Hexadecimal\", what color would be displayed from the color code? \"#00FF00\"?",
-   "options": [
-    "Green",
-    "Red",
-    "Blue",
-    "Yellow"
-   ],
-   "answer": 0,
-   "explanation": "Green is the correct answer for: In \"Hexadecimal\", what color would be displayed from the color code? \"#00FF00\"? (Science: Computers).",
-   "topic": "Science: Computers",
-   "level": 1,
-   "source": "daily",
-   "dailyDate": "2026-10-26"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-26-96",
-   "question": "The US state of New York has about as many inhabitants as?",
-   "options": [
-    "Hungary",
-    "Poland",
-    "Romania",
-    "Germany"
+    "Addis Ababa",
+    "Doha",
+    "Ljubljana",
+    "Tashkent"
    ],
    "answer": 2,
-   "explanation": "Romania is the correct answer for: The US state of New York has about as many inhabitants as? (Geography).",
-   "topic": "Geography",
+   "explanation": "The capital of Slovenia is Ljubljana and its official currency is the Euro.",
+   "topic": "World General Knowledge — Countries, Capitals & Currencies",
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-26"
   },
   {
-   "id": "general-knowledge-daily-2026-10-26-97",
-   "question": "What episode of \"Mr. Bean\" saw him trying to prevent people from seeing him naked?",
+   "id": "general-knowledge-daily-2026-10-27-18",
+   "question": "In world general knowledge, what is the national capital of Ghana (currency: Cedi)?",
    "options": [
-    "Mr. Bean in Room 426",
-    "Back to School Mr. Bean",
-    "The Trouble with Mr. Bean",
-    "Mr. Bean Goes to Town"
-   ],
-   "answer": 0,
-   "explanation": "Mr. Bean in Room 426 is the correct answer for: What episode of \"Mr. Bean\" saw him trying to prevent people from seeing him naked? (Entertainment: Television).",
-   "topic": "Entertainment: Television",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-26"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-26-98",
-   "question": "Which of these online games was originally named LindenWorld in it's early development?",
-   "options": [
-    "HabboHotel",
-    "IMVU",
-    "ActiveWorlds",
-    "SecondLife"
-   ],
-   "answer": 3,
-   "explanation": "SecondLife is the correct answer for: Which of these online games was originally named LindenWorld in it's early development? (Entertainment: Video Games).",
-   "topic": "Entertainment: Video Games",
-   "level": 3,
-   "source": "daily",
-   "dailyDate": "2026-10-26"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-26-99",
-   "question": "Who won the UEFA Champions League in 2016?",
-   "options": [
-    "Manchester City F.C.",
-    "Real Madrid C.F.",
-    "FC Bayern Munich",
-    "Atletico Madrid"
-   ],
-   "answer": 1,
-   "explanation": "Real Madrid C.F. is the correct answer for: Who won the UEFA Champions League in 2016? (Sports).",
-   "topic": "Sports",
-   "level": 1,
-   "source": "daily",
-   "dailyDate": "2026-10-26"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-26-100",
-   "question": "In \"Undertale\", how many main endings are there?",
-   "options": [
-    "5",
-    "3",
-    "13",
-    "2"
-   ],
-   "answer": 1,
-   "explanation": "3 is the correct answer for: In \"Undertale\", how many main endings are there? (Entertainment: Video Games).",
-   "topic": "Entertainment: Video Games",
-   "level": 1,
-   "source": "daily",
-   "dailyDate": "2026-10-26"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-27-73",
-   "question": "What are the first 6 digits of the number \"Pi\"?",
-   "options": [
-    "3.12423",
-    "3.14169",
-    "3.25812",
-    "3.14159"
-   ],
-   "answer": 3,
-   "explanation": "3.14159 is the correct answer for: What are the first 6 digits of the number \"Pi\"? (Science: Mathematics).",
-   "topic": "Science: Mathematics",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-27"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-27-74",
-   "question": "In World of Warcraft, What was the original level cap?",
-   "options": [
-    "50",
-    "70",
-    "100",
-    "60"
-   ],
-   "answer": 3,
-   "explanation": "60 is the correct answer for: In World of Warcraft, What was the original level cap? (Entertainment: Video Games).",
-   "topic": "Entertainment: Video Games",
-   "level": 1,
-   "source": "daily",
-   "dailyDate": "2026-10-27"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-27-75",
-   "question": "In \"Starbound\", according to the asset files, the description of the \"Erchius Ghost\" is the same as which other assets?",
-   "options": [
-    "Petricub",
-    "Pyromantle",
-    "Trictus",
-    "Spookit"
-   ],
-   "answer": 3,
-   "explanation": "Spookit is the correct answer for: In \"Starbound\", according to the asset files, the description of the \"Erchius Ghost\" is the same as which other assets? (Entertainment: Video Games).",
-   "topic": "Entertainment: Video Games",
-   "level": 3,
-   "source": "daily",
-   "dailyDate": "2026-10-27"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-27-76",
-   "question": "In Geometry Dash, what is level 13?",
-   "options": [
-    "Electroman Adventures",
-    "Clutterfunk",
-    "Theory of Everything",
-    "Clubstep"
-   ],
-   "answer": 0,
-   "explanation": "Electroman Adventures is the correct answer for: In Geometry Dash, what is level 13? (Entertainment: Video Games).",
-   "topic": "Entertainment: Video Games",
-   "level": 3,
-   "source": "daily",
-   "dailyDate": "2026-10-27"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-27-77",
-   "question": "Which character is from \"Splatoon\"?",
-   "options": [
-    "Cyrus",
-    "Palutena",
-    "Shulk",
-    "Marie"
-   ],
-   "answer": 3,
-   "explanation": "Marie is the correct answer for: Which character is from \"Splatoon\"? (Entertainment: Video Games).",
-   "topic": "Entertainment: Video Games",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-27"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-27-78",
-   "question": "Which of the following is NOT a word used to describe an earthquake?",
-   "options": [
-    "Strike-slip",
-    "Foreshock",
-    "Temblor",
-    "Drop-slide"
-   ],
-   "answer": 3,
-   "explanation": "Drop-slide is the correct answer for: Which of the following is NOT a word used to describe an earthquake? (Science & Nature).",
-   "topic": "Science & Nature",
-   "level": 3,
-   "source": "daily",
-   "dailyDate": "2026-10-27"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-27-79",
-   "question": "In the game Dark Souls, what is the name of the region you're in for the majority of the game?",
-   "options": [
-    "Catarina",
-    "Drangleic",
-    "Oolacile",
-    "Lordran"
-   ],
-   "answer": 3,
-   "explanation": "Lordran is the correct answer for: In the game Dark Souls, what is the name of the region you're in for the majority of the game? (Entertainment: Video Games).",
-   "topic": "Entertainment: Video Games",
-   "level": 1,
-   "source": "daily",
-   "dailyDate": "2026-10-27"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-27-80",
-   "question": "What do the video games No Man's Sky and Mighty No. 9 have in common?",
-   "options": [
-    "Both were announced in 2013.",
-    "Both were crowdfunded.",
-    "Both were released for the PlayStation 3.",
-    "Both were developed by indie studios."
-   ],
-   "answer": 0,
-   "explanation": "Both were announced in 2013. is the correct answer for: What do the video games No Man's Sky and Mighty No. 9 have in common? (Entertainment: Video Games).",
-   "topic": "Entertainment: Video Games",
-   "level": 3,
-   "source": "daily",
-   "dailyDate": "2026-10-27"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-27-81",
-   "question": "Which of these is NOT considered a woodwind instrument?",
-   "options": [
-    "Oboe",
-    "Clarinet",
-    "Trombone",
-    "Bassoon"
+    "Kabul",
+    "Yaounde",
+    "Accra",
+    "Moscow"
    ],
    "answer": 2,
-   "explanation": "Trombone is the correct answer for: Which of these is NOT considered a woodwind instrument? (Entertainment: Music).",
-   "topic": "Entertainment: Music",
-   "level": 1,
+   "explanation": "The capital of Ghana is Accra and its official currency is the Cedi.",
+   "topic": "World General Knowledge — Countries, Capitals & Currencies",
+   "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-27"
   },
   {
-   "id": "general-knowledge-daily-2026-10-27-82",
-   "question": "Which show is known for the songs \"You are a Pirate\", \"Cooking by the Book\" and \"We Are Number One\"?",
+   "id": "general-knowledge-daily-2026-10-27-43",
+   "question": "In world and Indian general knowledge: Which Indian city is called the Garden City?",
    "options": [
-    "Sofia the First",
-    "Tom and Jerry",
-    "DuckTales",
-    "LazyTown"
+    "Kunchikal Falls",
+    "Strait of Malacca",
+    "Jammu and Kashmir",
+    "Bengaluru"
    ],
    "answer": 3,
-   "explanation": "LazyTown is the correct answer for: Which show is known for the songs \"You are a Pirate\", \"Cooking by the Book\" and \"We Are Number One\"? (Entertainment: Television).",
-   "topic": "Entertainment: Television",
-   "level": 1,
+   "explanation": "Which Indian city is called the Garden City? — Bengaluru.",
+   "topic": "General Knowledge — Global Superlatives & World Firsts",
+   "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-27"
   },
   {
-   "id": "general-knowledge-daily-2026-10-27-83",
-   "question": "In Norse mythology, what is the name of the serpent which eats the roots of the ash tree Yggdrasil?",
+   "id": "general-knowledge-daily-2026-10-27-68",
+   "question": "In world general knowledge, what is the national capital of Bahrain (currency: Bahraini Dinar)?",
    "options": [
-    "Odin",
-    "Bragi",
-    "Nidhogg",
-    "Ymir"
+    "Skopje",
+    "New Delhi",
+    "Manama",
+    "Sri Jayawardenepura Kotte"
    ],
    "answer": 2,
-   "explanation": "Nidhogg is the correct answer for: In Norse mythology, what is the name of the serpent which eats the roots of the ash tree Yggdrasil? (Mythology).",
-   "topic": "Mythology",
-   "level": 3,
-   "source": "daily",
-   "dailyDate": "2026-10-27"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-27-84",
-   "question": "In Marvel Comics, Taurus is the founder and leader of which criminal organization?",
-   "options": [
-    "The Union",
-    "Zodiac",
-    "Scorpio",
-    "Tiger Mafia"
-   ],
-   "answer": 1,
-   "explanation": "Zodiac is the correct answer for: In Marvel Comics, Taurus is the founder and leader of which criminal organization? (Entertainment: Comics).",
-   "topic": "Entertainment: Comics",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-27"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-27-85",
-   "question": "Which animation studio animated the 2016 anime \"Mob Psycho 100\"?",
-   "options": [
-    "Shaft",
-    "Madhouse",
-    "A-1 Pictures",
-    "Bones"
-   ],
-   "answer": 3,
-   "explanation": "Bones is the correct answer for: Which animation studio animated the 2016 anime \"Mob Psycho 100\"? (Entertainment: Japanese Anime & Manga).",
-   "topic": "Entertainment: Japanese Anime & Manga",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-27"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-27-86",
-   "question": "What is Pikachu's National Pok&eacute;Dex Number?",
-   "options": [
-    "#109",
-    "#001",
-    "#031",
-    "#025"
-   ],
-   "answer": 3,
-   "explanation": "#025 is the correct answer for: What is Pikachu's National Pok&eacute;Dex Number? (Entertainment: Video Games).",
-   "topic": "Entertainment: Video Games",
-   "level": 1,
-   "source": "daily",
-   "dailyDate": "2026-10-27"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-27-87",
-   "question": "The Thirty Years War ended with which treaty?",
-   "options": [
-    "Treaty of Paris",
-    "Peace of Westphalia",
-    "Treaty of Versailles",
-    "Peace of Prague"
-   ],
-   "answer": 1,
-   "explanation": "Peace of Westphalia is the correct answer for: The Thirty Years War ended with which treaty? (History).",
-   "topic": "History",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-27"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-27-88",
-   "question": "Who is attributed credit for recording the epic poem The Odyssey?",
-   "options": [
-    "Aristotle",
-    "Odysseus",
-    "Homer",
-    "Socrates"
-   ],
-   "answer": 2,
-   "explanation": "Homer is the correct answer for: Who is attributed credit for recording the epic poem The Odyssey? (History).",
-   "topic": "History",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-27"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-27-89",
-   "question": "What is the official language in Liechtenstein?",
-   "options": [
-    "Italian",
-    "German",
-    "French",
-    "English"
-   ],
-   "answer": 1,
-   "explanation": "German is the correct answer for: What is the official language in Liechtenstein? (Geography).",
-   "topic": "Geography",
-   "level": 1,
-   "source": "daily",
-   "dailyDate": "2026-10-27"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-27-90",
-   "question": "What is the name of New Zealand's indigenous people?",
-   "options": [
-    "Maori",
-    "Polynesians",
-    "Vikings",
-    "Samoans"
-   ],
-   "answer": 0,
-   "explanation": "Maori is the correct answer for: What is the name of New Zealand's indigenous people? (Geography).",
-   "topic": "Geography",
-   "level": 1,
-   "source": "daily",
-   "dailyDate": "2026-10-27"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-27-91",
-   "question": "In CoD: Black Ops III, what is the name of the rogue A.I. antagonist?",
-   "options": [
-    "Cabal",
-    "Corvus",
-    "Icarus",
-    "Legion"
-   ],
-   "answer": 1,
-   "explanation": "Corvus is the correct answer for: In CoD: Black Ops III, what is the name of the rogue A.I. antagonist? (Entertainment: Video Games).",
-   "topic": "Entertainment: Video Games",
-   "level": 1,
-   "source": "daily",
-   "dailyDate": "2026-10-27"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-27-92",
-   "question": "Which one of these cartoon characters is NOT voiced by Rob Paulsen?",
-   "options": [
-    "Max Tennyson (Ben 10)",
-    "Yakko Warner (Animaniacs)",
-    "Carl Wheezer (Jimmy Neutron)",
-    "The Mask (The Mask, TV Series)"
-   ],
-   "answer": 0,
-   "explanation": "Max Tennyson (Ben 10) is the correct answer for: Which one of these cartoon characters is NOT voiced by Rob Paulsen? (Entertainment: Cartoon & Animations).",
-   "topic": "Entertainment: Cartoon & Animations",
+   "explanation": "The capital of Bahrain is Manama and its official currency is the Bahraini Dinar.",
+   "topic": "World General Knowledge — Countries, Capitals & Currencies",
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-27"
   },
   {
    "id": "general-knowledge-daily-2026-10-27-93",
-   "question": "Which of the following presidents is not on Mount Rushmore?",
+   "question": "Where was the '24th Meeting of the SCO Council of Heads of State (2024)' held or headquartered according to recent international affairs?",
    "options": [
-    "Thomas Jefferson",
-    "John F. Kennedy",
-    "Abraham Lincoln",
-    "Theodore Roosevelt"
-   ],
-   "answer": 1,
-   "explanation": "John F. Kennedy is the correct answer for: Which of the following presidents is not on Mount Rushmore? (General Knowledge).",
-   "topic": "General Knowledge",
-   "level": 1,
-   "source": "daily",
-   "dailyDate": "2026-10-27"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-27-94",
-   "question": "What was Rage Against the Machine's debut album?",
-   "options": [
-    "Rage Against the Machine",
-    "The Battle Of Los Angeles",
-    "Evil Empire",
-    "Bombtrack"
+    "Astana, Kazakhstan",
+    "New Delhi G20 MoU Corridor linking India, UAE, Saudi Arabia, Jordan, Israel and Europe",
+    "Apia, Samoa",
+    "Seoul and Paris"
    ],
    "answer": 0,
-   "explanation": "Rage Against the Machine is the correct answer for: What was Rage Against the Machine's debut album? (Entertainment: Music).",
-   "topic": "Entertainment: Music",
-   "level": 1,
-   "source": "daily",
-   "dailyDate": "2026-10-27"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-27-95",
-   "question": "In \"One Piece\", who confirms the existence of the legendary treasure, One Piece?",
-   "options": [
-    "Edward \"Whitebeard\" Newgate",
-    "Pirate King Gol D Roger",
-    "Silvers Rayleigh",
-    "Former Marine Fleet Admiral Sengoku"
-   ],
-   "answer": 0,
-   "explanation": "Edward \"Whitebeard\" Newgate is the correct answer for: In \"One Piece\", who confirms the existence of the legendary treasure, One Piece? (Entertainment: Japanese Anime & Manga).",
-   "topic": "Entertainment: Japanese Anime & Manga",
-   "level": 3,
-   "source": "daily",
-   "dailyDate": "2026-10-27"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-27-96",
-   "question": "During which American Civil War campaign did Union troops dig a tunnel beneath Confederate troops to detonate explosives underneath them?",
-   "options": [
-    "Gettysburg Campagin",
-    "Antietam Campaign",
-    "Siege of Petersburg",
-    "Siege of Vicksburg"
-   ],
-   "answer": 2,
-   "explanation": "Siege of Petersburg is the correct answer for: During which American Civil War campaign did Union troops dig a tunnel beneath Confederate troops to detonate explosives underneath them? (History).",
-   "topic": "History",
+   "explanation": "24th Meeting of the SCO Council of Heads of State (2024) is associated with Astana, Kazakhstan (admission of Belarus as the 10th full member state of the Shanghai Cooperation Organisation).",
+   "topic": "International Summits, Treaties & Global Affairs",
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-27"
   },
   {
-   "id": "general-knowledge-daily-2026-10-27-97",
-   "question": "The ontological argument for the proof of God's existence is first attributed to whom?",
+   "id": "general-knowledge-daily-2026-10-28-18",
+   "question": "In world general knowledge, what is the national capital of Russia (currency: Ruble)?",
    "options": [
-    "Immanuel Kant",
-    "Aristotle",
-    "Anselm of Canterbury",
-    "Ren&eacute; Descartes"
-   ],
-   "answer": 2,
-   "explanation": "Anselm of Canterbury is the correct answer for: The ontological argument for the proof of God's existence is first attributed to whom? (History).",
-   "topic": "History",
-   "level": 3,
-   "source": "daily",
-   "dailyDate": "2026-10-27"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-27-98",
-   "question": "Jaguar Cars was previously owned by which car manfacturer?",
-   "options": [
-    "Chrysler",
-    "Fiat",
-    "General Motors",
-    "Ford"
-   ],
-   "answer": 3,
-   "explanation": "Ford is the correct answer for: Jaguar Cars was previously owned by which car manfacturer? (Vehicles).",
-   "topic": "Vehicles",
-   "level": 1,
-   "source": "daily",
-   "dailyDate": "2026-10-27"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-27-99",
-   "question": "What Russian automatic gas-operated assault rifle was developed in the Soviet Union in 1947, and is still popularly used today?",
-   "options": [
-    "AK-47",
-    "MG 42",
-    "M16",
-    "RPK"
-   ],
-   "answer": 0,
-   "explanation": "AK-47 is the correct answer for: What Russian automatic gas-operated assault rifle was developed in the Soviet Union in 1947, and is still popularly used today? (History).",
-   "topic": "History",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-27"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-27-100",
-   "question": "Out of these four buildings, which one is the tallest, with a height of 2,717 ft (828 m)?",
-   "options": [
-    "Ping An Finance Centre, China",
-    "Burj Khalifa, United Arab Emirates",
-    "Shanghai Tower, China",
-    "Lotte World Tower, South Korea"
+    "Lome",
+    "Moscow",
+    "Gitega",
+    "Bangkok"
    ],
    "answer": 1,
-   "explanation": "Burj Khalifa, United Arab Emirates is the correct answer for: Out of these four buildings, which one is the tallest, with a height of 2,717 ft (828 m)? (General Knowledge).",
-   "topic": "General Knowledge",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-27"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-28-83",
-   "question": "Which of the following is NOT one of the main characters in Grand Theft Auto V's story mode?",
-   "options": [
-    "Michael de Santa",
-    "Tommy Vercetti",
-    "Trevor Phillips",
-    "Franklin Clinton"
-   ],
-   "answer": 1,
-   "explanation": "Tommy Vercetti is the correct answer for: Which of the following is NOT one of the main characters in Grand Theft Auto V's story mode? (Entertainment: Video Games).",
-   "topic": "Entertainment: Video Games",
-   "level": 1,
-   "source": "daily",
-   "dailyDate": "2026-10-28"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-28-84",
-   "question": "Who was the only god from Greece who did not get a name change in Rome?",
-   "options": [
-    "Demeter",
-    "Apollo",
-    "Zeus",
-    "Athena"
-   ],
-   "answer": 1,
-   "explanation": "Apollo is the correct answer for: Who was the only god from Greece who did not get a name change in Rome? (Mythology).",
-   "topic": "Mythology",
-   "level": 1,
-   "source": "daily",
-   "dailyDate": "2026-10-28"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-28-85",
-   "question": "Who painted the Mona Lisa?",
-   "options": [
-    "Vincent van Gogh",
-    "Leonardo da Vinci",
-    "Michelangelo",
-    "Pablo Picasso"
-   ],
-   "answer": 1,
-   "explanation": "Leonardo da Vinci is the correct answer for: Who painted the Mona Lisa? (Art).",
-   "topic": "Art",
-   "level": 1,
-   "source": "daily",
-   "dailyDate": "2026-10-28"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-28-86",
-   "question": "In the Hellboy universe, what was Abe Sapien's birth name?",
-   "options": [
-    "Langdon Everett Caul",
-    "Sir Edward Grey",
-    "Landis Pope",
-    "Lord Baltimore"
-   ],
-   "answer": 0,
-   "explanation": "Langdon Everett Caul is the correct answer for: In the Hellboy universe, what was Abe Sapien's birth name? (Entertainment: Comics).",
-   "topic": "Entertainment: Comics",
-   "level": 3,
-   "source": "daily",
-   "dailyDate": "2026-10-28"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-28-87",
-   "question": "Which player has scored the most goals in the England Premier League (EPL)?",
-   "options": [
-    "Didier Drogba",
-    "Alan Shearer",
-    "Lionel Messi",
-    "Wayne Rooney"
-   ],
-   "answer": 1,
-   "explanation": "Alan Shearer is the correct answer for: Which player has scored the most goals in the England Premier League (EPL)? (Sports).",
-   "topic": "Sports",
+   "explanation": "The capital of Russia is Moscow and its official currency is the Ruble.",
+   "topic": "World General Knowledge — Countries, Capitals & Currencies",
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-28"
   },
   {
-   "id": "general-knowledge-daily-2026-10-28-88",
-   "question": "What company developed the vocaloid Hatsune Miku?",
+   "id": "general-knowledge-daily-2026-10-28-43",
+   "question": "In world and Indian general knowledge: Which is the coldest place on Earth?",
    "options": [
-    "Yamaha Corporation",
-    "Sony",
-    "Crypton Future Media",
-    "Sega"
+    "Equator",
+    "Amazon",
+    "Antarctica",
+    "Japan"
    ],
    "answer": 2,
-   "explanation": "Crypton Future Media is the correct answer for: What company developed the vocaloid Hatsune Miku? (General Knowledge).",
-   "topic": "General Knowledge",
-   "level": 1,
-   "source": "daily",
-   "dailyDate": "2026-10-28"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-28-89",
-   "question": "Which of these is NOT a song on The Beatles' 1968 self titled album, also known as the White album?",
-   "options": [
-    "Why Don't We Do It in the Road?",
-    "Everybody's Got Something to Hide Except Me and My Monkey",
-    "Being For The Benefit Of Mr. Kite!",
-    "The Continuing Story of Bungalow Bill"
-   ],
-   "answer": 2,
-   "explanation": "Being For The Benefit Of Mr. Kite! is the correct answer for: Which of these is NOT a song on The Beatles' 1968 self titled album, also known as the White album? (Entertainment: Music).",
-   "topic": "Entertainment: Music",
+   "explanation": "Which is the coldest place on Earth? — Antarctica.",
+   "topic": "General Knowledge — Global Superlatives & World Firsts",
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-28"
   },
   {
-   "id": "general-knowledge-daily-2026-10-28-90",
-   "question": "Which Aerosmith album featured \"Walk This Way\"?",
+   "id": "general-knowledge-daily-2026-10-28-68",
+   "question": "In world general knowledge, what is the national capital of Finland (currency: Euro)?",
    "options": [
-    "Rocks",
-    "Draw the Line",
-    "Toys in the Attic",
-    "Get Your Wings"
+    "Addis Ababa",
+    "Helsinki",
+    "Niamey",
+    "London"
    ],
-   "answer": 2,
-   "explanation": "Toys in the Attic is the correct answer for: Which Aerosmith album featured \"Walk This Way\"? (Entertainment: Music).",
-   "topic": "Entertainment: Music",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-28"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-28-91",
-   "question": "Which of these is NOT a possible drink to be made in the game \"VA-11 HALL-A: Cyberpunk Bartender Action\"?",
-   "options": [
-    "Fringe Weaver",
-    "Bad Touch",
-    "Piano Man",
-    "Sour Appletini"
-   ],
-   "answer": 3,
-   "explanation": "Sour Appletini is the correct answer for: Which of these is NOT a possible drink to be made in the game \"VA-11 HALL-A: Cyberpunk Bartender Action\"? (Entertainment: Video Games).",
-   "topic": "Entertainment: Video Games",
-   "level": 3,
-   "source": "daily",
-   "dailyDate": "2026-10-28"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-28-92",
-   "question": "What was the first Super Mario game ever released in North America for the 3DS?",
-   "options": [
-    "New Super Mario Bros. 2",
-    "Mario Kart 7",
-    "Super Mario 3D Land",
-    "Super Mario Maker"
-   ],
-   "answer": 2,
-   "explanation": "Super Mario 3D Land is the correct answer for: What was the first Super Mario game ever released in North America for the 3DS? (Entertainment: Video Games).",
-   "topic": "Entertainment: Video Games",
+   "answer": 1,
+   "explanation": "The capital of Finland is Helsinki and its official currency is the Euro.",
+   "topic": "World General Knowledge — Countries, Capitals & Currencies",
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-28"
   },
   {
    "id": "general-knowledge-daily-2026-10-28-93",
-   "question": "Who was the leader of the Communist Party of Yugoslavia ?",
+   "question": "In world and Indian general knowledge: Which Indian state has the longest coastline?",
    "options": [
-    "Aleskandar Petrovic",
-    "Karadjordje Petrovic",
-    "Josip Broz Tito",
-    "Milos Obilic"
-   ],
-   "answer": 2,
-   "explanation": "Josip Broz Tito is the correct answer for: Who was the leader of the Communist Party of Yugoslavia ? (History).",
-   "topic": "History",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-28"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-28-94",
-   "question": "Which of these Pok&eacute;mon cannot learn Surf?",
-   "options": [
-    "Tauros",
-    "Nidoking",
-    "Linoone",
-    "Arbok"
-   ],
-   "answer": 3,
-   "explanation": "Arbok is the correct answer for: Which of these Pok&eacute;mon cannot learn Surf? (Entertainment: Video Games).",
-   "topic": "Entertainment: Video Games",
-   "level": 3,
-   "source": "daily",
-   "dailyDate": "2026-10-28"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-28-95",
-   "question": "What is the equation for the area of a sphere?",
-   "options": [
-    "(1/3)&pi;hr^2",
-    "&pi;r^4",
-    "(4/3)&pi;r^3",
-    "4&pi;r^2"
-   ],
-   "answer": 2,
-   "explanation": "(4/3)&pi;r^3 is the correct answer for: What is the equation for the area of a sphere? (Science: Mathematics).",
-   "topic": "Science: Mathematics",
-   "level": 1,
-   "source": "daily",
-   "dailyDate": "2026-10-28"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-28-96",
-   "question": "When was the \"Siege of Leningrad\" lifted during World War II?",
-   "options": [
-    "March 1944",
-    "September 1943",
-    "November 1943",
-    "January 1944"
-   ],
-   "answer": 3,
-   "explanation": "January 1944 is the correct answer for: When was the \"Siege of Leningrad\" lifted during World War II? (History).",
-   "topic": "History",
-   "level": 3,
-   "source": "daily",
-   "dailyDate": "2026-10-28"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-28-97",
-   "question": "In \"A Hat In Time\" who is the final boss?",
-   "options": [
-    "Mafia Boss",
-    "Conductor",
-    "Mustache Girl",
-    "Snatcher"
-   ],
-   "answer": 2,
-   "explanation": "Mustache Girl is the correct answer for: In \"A Hat In Time\" who is the final boss? (Entertainment: Video Games).",
-   "topic": "Entertainment: Video Games",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-28"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-28-98",
-   "question": "Who are the original creators of Rachet & Clank?",
-   "options": [
-    "PixelTail Games",
-    "Rare",
-    "Bethesda",
-    "Insomniac Games"
-   ],
-   "answer": 3,
-   "explanation": "Insomniac Games is the correct answer for: Who are the original creators of Rachet & Clank? (Entertainment: Video Games).",
-   "topic": "Entertainment: Video Games",
-   "level": 1,
-   "source": "daily",
-   "dailyDate": "2026-10-28"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-28-99",
-   "question": "In vanilla Minecraft, you can make armor out of all BUT which of the following?",
-   "options": [
-    "Emeralds",
-    "Diamonds",
-    "Leather",
-    "Iron"
-   ],
-   "answer": 0,
-   "explanation": "Emeralds is the correct answer for: In vanilla Minecraft, you can make armor out of all BUT which of the following? (Entertainment: Video Games).",
-   "topic": "Entertainment: Video Games",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-28"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-28-100",
-   "question": "In \"A Certain Magical Index,\" what is Accelerator able to control?",
-   "options": [
-    "Vectors",
-    "Quantums",
-    "Wormholes",
-    "Velocity"
-   ],
-   "answer": 0,
-   "explanation": "Vectors is the correct answer for: In \"A Certain Magical Index,\" what is Accelerator able to control? (Entertainment: Japanese Anime & Manga).",
-   "topic": "Entertainment: Japanese Anime & Manga",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-28"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-29-84",
-   "question": "The moons, Miranda, Ariel, Umbriel, Titania and Oberon orbit which planet?",
-   "options": [
-    "Jupiter",
-    "Venus",
-    "Neptune",
-    "Uranus"
-   ],
-   "answer": 3,
-   "explanation": "Uranus is the correct answer for: The moons, Miranda, Ariel, Umbriel, Titania and Oberon orbit which planet? (Science & Nature).",
-   "topic": "Science & Nature",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-29"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-29-85",
-   "question": "Which is the largest freshwater lake in the world?",
-   "options": [
-    "Lake Superior",
-    "Lake Michigan",
-    "Lake Huron",
-    "Caspian Sea"
-   ],
-   "answer": 0,
-   "explanation": "Lake Superior is the correct answer for: Which is the largest freshwater lake in the world? (Geography).",
-   "topic": "Geography",
-   "level": 3,
-   "source": "daily",
-   "dailyDate": "2026-10-29"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-29-86",
-   "question": "In addition to his career as an astrologer and \"prophet\", Nostradamus published a 1555 treatise that included a section on what?",
-   "options": [
-    "Teaching parrots to talk",
-    "Digging graves",
-    "Cheating at card games",
-    "Making jams and jellies"
-   ],
-   "answer": 3,
-   "explanation": "Making jams and jellies is the correct answer for: In addition to his career as an astrologer and \"prophet\", Nostradamus published a 1555 treatise that included a section on what? (History).",
-   "topic": "History",
-   "level": 3,
-   "source": "daily",
-   "dailyDate": "2026-10-29"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-29-87",
-   "question": "What medication was once commonly used as rat poison?",
-   "options": [
-    "Aspirin",
-    "Tylenol",
-    "Eliquis",
-    "Coumadin"
-   ],
-   "answer": 3,
-   "explanation": "Coumadin is the correct answer for: What medication was once commonly used as rat poison? (Science & Nature).",
-   "topic": "Science & Nature",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-29"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-29-88",
-   "question": "The medical condition osteoporosis affects which part of the body?",
-   "options": [
-    "Brain",
-    "Skin",
-    "Bones",
-    "Heart"
-   ],
-   "answer": 2,
-   "explanation": "Bones is the correct answer for: The medical condition osteoporosis affects which part of the body? (Science & Nature).",
-   "topic": "Science & Nature",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-29"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-29-89",
-   "question": "What war is Call Of Duty: Black Ops based on?",
-   "options": [
-    "Vietnam",
-    "Cold War",
-    "WW1",
-    "WW3"
+    "Chilika Lake",
+    "Gujarat",
+    "Surat",
+    "Belgium"
    ],
    "answer": 1,
-   "explanation": "Cold War is the correct answer for: What war is Call Of Duty: Black Ops based on? (Entertainment: Video Games).",
-   "topic": "Entertainment: Video Games",
-   "level": 1,
+   "explanation": "Which Indian state has the longest coastline? — Gujarat.",
+   "topic": "General Knowledge — Global Superlatives & World Firsts",
+   "level": 2,
    "source": "daily",
-   "dailyDate": "2026-10-29"
+   "dailyDate": "2026-10-28"
   },
   {
-   "id": "general-knowledge-daily-2026-10-29-90",
-   "question": "Who is able to grab the survivors with his tongue in Left 4 Dead?",
+   "id": "general-knowledge-daily-2026-10-29-18",
+   "question": "In world and Indian general knowledge: Which Indian city is called the Leather City?",
    "options": [
-    "Smoker",
-    "Boomer",
-    "Hunter",
-    "Jockey"
+    "Kunchikal Falls",
+    "Majuli",
+    "Mariana Trench",
+    "Kanpur"
    ],
-   "answer": 0,
-   "explanation": "Smoker is the correct answer for: Who is able to grab the survivors with his tongue in Left 4 Dead? (Entertainment: Video Games).",
-   "topic": "Entertainment: Video Games",
-   "level": 1,
-   "source": "daily",
-   "dailyDate": "2026-10-29"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-29-91",
-   "question": "What is the name of the first boss the player encounters in the 2017 game, \"Little Nightmares\"?",
-   "options": [
-    "The Janitor",
-    "The Caretaker",
-    "The Overseer",
-    "The Warden"
-   ],
-   "answer": 0,
-   "explanation": "The Janitor is the correct answer for: What is the name of the first boss the player encounters in the 2017 game, \"Little Nightmares\"? (Entertainment: Video Games).",
-   "topic": "Entertainment: Video Games",
+   "answer": 3,
+   "explanation": "Which Indian city is called the Leather City? — Kanpur.",
+   "topic": "General Knowledge — Global Superlatives & World Firsts",
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-29"
   },
   {
-   "id": "general-knowledge-daily-2026-10-29-92",
-   "question": "Which of the following geographic features is a ring-shaped coral reef, island, or series of islets?",
+   "id": "general-knowledge-daily-2026-10-29-43",
+   "question": "In world general knowledge, what is the national capital of Spain (currency: Euro)?",
    "options": [
-    "Atoll",
-    "Peninsula",
-    "Isthmus",
-    "Delta"
+    "Madrid",
+    "Mogadishu",
+    "Bratislava",
+    "Budapest"
    ],
    "answer": 0,
-   "explanation": "Atoll is the correct answer for: Which of the following geographic features is a ring-shaped coral reef, island, or series of islets? (Geography).",
-   "topic": "Geography",
-   "level": 1,
+   "explanation": "The capital of Spain is Madrid and its official currency is the Euro.",
+   "topic": "World General Knowledge — Countries, Capitals & Currencies",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-29-68",
+   "question": "In world and Indian general knowledge: Which is the largest island in the world?",
+   "options": [
+    "South China Sea",
+    "Greenland",
+    "Bangladesh",
+    "Majuli"
+   ],
+   "answer": 1,
+   "explanation": "Which is the largest island in the world? — Greenland.",
+   "topic": "General Knowledge — Global Superlatives & World Firsts",
+   "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-29"
   },
   {
    "id": "general-knowledge-daily-2026-10-29-93",
-   "question": "What is the name of a nine sided polygon?",
+   "question": "In world general knowledge, what is the national capital of Hungary (currency: Forint)?",
    "options": [
-    "Octagon",
-    "Nonagon",
-    "Hexagon",
-    "Heptagon"
-   ],
-   "answer": 1,
-   "explanation": "Nonagon is the correct answer for: What is the name of a nine sided polygon? (Science: Mathematics).",
-   "topic": "Science: Mathematics",
-   "level": 1,
-   "source": "daily",
-   "dailyDate": "2026-10-29"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-29-94",
-   "question": "Who wrote \"Harry Potter\"?",
-   "options": [
-    "Terry Pratchett",
-    "J.K. Rowling",
-    "J.R.R. Tolkien",
-    "Daniel Radcliffe"
-   ],
-   "answer": 1,
-   "explanation": "J.K. Rowling is the correct answer for: Who wrote \"Harry Potter\"? (Entertainment: Books).",
-   "topic": "Entertainment: Books",
-   "level": 1,
-   "source": "daily",
-   "dailyDate": "2026-10-29"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-29-95",
-   "question": "America Online (AOL) started out as which of these online service providers?",
-   "options": [
-    "GEnie",
-    "Prodigy",
-    "CompuServe",
-    "Quantum Link"
-   ],
-   "answer": 3,
-   "explanation": "Quantum Link is the correct answer for: America Online (AOL) started out as which of these online service providers? (Science: Computers).",
-   "topic": "Science: Computers",
-   "level": 3,
-   "source": "daily",
-   "dailyDate": "2026-10-29"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-29-96",
-   "question": "How many Chaos Emeralds are there in the \"Sonic the Hedgehog\" universe?",
-   "options": [
-    "8",
-    "14",
-    "6",
-    "7"
-   ],
-   "answer": 3,
-   "explanation": "7 is the correct answer for: How many Chaos Emeralds are there in the \"Sonic the Hedgehog\" universe? (Entertainment: Video Games).",
-   "topic": "Entertainment: Video Games",
-   "level": 1,
-   "source": "daily",
-   "dailyDate": "2026-10-29"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-29-97",
-   "question": "Without enchantments, which pickaxe in minecraft mines blocks the quickest.",
-   "options": [
-    "Iron",
-    "Diamond",
-    "Obsidian",
-    "Golden"
-   ],
-   "answer": 3,
-   "explanation": "Golden is the correct answer for: Without enchantments, which pickaxe in minecraft mines blocks the quickest. (Entertainment: Video Games).",
-   "topic": "Entertainment: Video Games",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-29"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-29-98",
-   "question": "Which of these Fortnite emotes does NOT involve a sport in some way?",
-   "options": [
-    "Freestylin'",
-    "Red Card",
-    "Kick Ups",
-    "Baller"
-   ],
-   "answer": 0,
-   "explanation": "Freestylin' is the correct answer for: Which of these Fortnite emotes does NOT involve a sport in some way? (Entertainment: Video Games).",
-   "topic": "Entertainment: Video Games",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-29"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-29-99",
-   "question": "What is the subtitle for Gran Turismo 3?",
-   "options": [
-    "Nitro",
-    "A-Spec",
-    "Drive",
-    "Championship"
-   ],
-   "answer": 1,
-   "explanation": "A-Spec is the correct answer for: What is the subtitle for Gran Turismo 3? (Entertainment: Video Games).",
-   "topic": "Entertainment: Video Games",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-29"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-29-100",
-   "question": "Which of these artists has NOT been a member of dancehall group Major Lazer?",
-   "options": [
-    "Diplo",
-    "Skrillex",
-    "Walshy Fire",
-    "Jillionaire"
-   ],
-   "answer": 1,
-   "explanation": "Skrillex is the correct answer for: Which of these artists has NOT been a member of dancehall group Major Lazer? (Entertainment: Music).",
-   "topic": "Entertainment: Music",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-29"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-30-82",
-   "question": "Which part of the body does glaucoma affect?",
-   "options": [
-    "Throat",
-    "Stomach",
-    "Blood",
-    "Eyes"
-   ],
-   "answer": 3,
-   "explanation": "Eyes is the correct answer for: Which part of the body does glaucoma affect? (Science & Nature).",
-   "topic": "Science & Nature",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-30"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-30-83",
-   "question": "Which of these voices wasn't a choice for the House AI in \"The Simpsons Treehouse of Horror\" short, House of Whacks?",
-   "options": [
-    "George Clooney",
-    "Pierce Brosnan",
-    "Matthew Perry",
-    "Dennis Miller"
-   ],
-   "answer": 0,
-   "explanation": "George Clooney is the correct answer for: Which of these voices wasn't a choice for the House AI in \"The Simpsons Treehouse of Horror\" short, House of Whacks? (Entertainment: Television).",
-   "topic": "Entertainment: Television",
-   "level": 3,
-   "source": "daily",
-   "dailyDate": "2026-10-30"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-30-84",
-   "question": "What technology is named after a tenth-century ruler of Denmark and Norway?",
-   "options": [
-    "Bluetooth",
-    "Internet",
-    "Wi-Fi",
-    "GPS"
-   ],
-   "answer": 0,
-   "explanation": "Bluetooth is the correct answer for: What technology is named after a tenth-century ruler of Denmark and Norway? (General Knowledge).",
-   "topic": "General Knowledge",
-   "level": 1,
-   "source": "daily",
-   "dailyDate": "2026-10-30"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-30-85",
-   "question": "Which Pokemon generation did the fan-named \"Masuda Method\" first appear in?",
-   "options": [
-    "Black/White",
-    "X/Y",
-    "Ruby/Sapphire",
-    "Diamond/Pearl"
-   ],
-   "answer": 3,
-   "explanation": "Diamond/Pearl is the correct answer for: Which Pokemon generation did the fan-named \"Masuda Method\" first appear in? (Entertainment: Video Games).",
-   "topic": "Entertainment: Video Games",
-   "level": 1,
-   "source": "daily",
-   "dailyDate": "2026-10-30"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-30-86",
-   "question": "Which of the following characters is not in the board game Clue?",
-   "options": [
-    "Mister Indigo",
-    "Miss Scarlet",
-    "Reverend Green",
-    "Colonel Mustard"
-   ],
-   "answer": 0,
-   "explanation": "Mister Indigo is the correct answer for: Which of the following characters is not in the board game Clue? (Entertainment: Board Games).",
-   "topic": "Entertainment: Board Games",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-30"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-30-87",
-   "question": "\"The A Team\" first aired in the USA and in the UK in what year?",
-   "options": [
-    "1985",
-    "1987",
-    "1981",
-    "1983"
-   ],
-   "answer": 3,
-   "explanation": "1983 is the correct answer for: \"The A Team\" first aired in the USA and in the UK in what year? (Entertainment: Television).",
-   "topic": "Entertainment: Television",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-30"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-30-88",
-   "question": "When did the Crisis of the Third Century begin?",
-   "options": [
-    "235 AD",
-    "235 BC",
-    "242 AD",
-    "210 AD"
-   ],
-   "answer": 0,
-   "explanation": "235 AD is the correct answer for: When did the Crisis of the Third Century begin? (History).",
-   "topic": "History",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-30"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-30-89",
-   "question": "Which of the following awards do Matt Stone and Trey Parker NOT have?",
-   "options": [
-    "Emmy",
-    "Tony",
-    "Oscar",
-    "Grammy"
+    "Addis Ababa",
+    "Cairo",
+    "Budapest",
+    "Mogadishu"
    ],
    "answer": 2,
-   "explanation": "Oscar is the correct answer for: Which of the following awards do Matt Stone and Trey Parker NOT have? (Entertainment: Television).",
-   "topic": "Entertainment: Television",
-   "level": 1,
+   "explanation": "The capital of Hungary is Budapest and its official currency is the Forint.",
+   "topic": "World General Knowledge — Countries, Capitals & Currencies",
+   "level": 2,
    "source": "daily",
-   "dailyDate": "2026-10-30"
+   "dailyDate": "2026-10-29"
   },
   {
-   "id": "general-knowledge-daily-2026-10-30-90",
-   "question": "Who was the voice actor for Snake in Metal Gear Solid V: The Phantom Pain?",
+   "id": "general-knowledge-daily-2026-10-30-18",
+   "question": "In world general knowledge, what is the national capital of Indonesia (currency: Rupiah)?",
    "options": [
-    "Hideo Kojima",
-    "David Hayter",
-    "Kiefer Sutherland",
-    "Norman Reedus"
+    "Bishkek",
+    "Jakarta",
+    "Bucharest",
+    "Dakar"
    ],
-   "answer": 2,
-   "explanation": "Kiefer Sutherland is the correct answer for: Who was the voice actor for Snake in Metal Gear Solid V: The Phantom Pain? (Entertainment: Video Games).",
-   "topic": "Entertainment: Video Games",
-   "level": 1,
+   "answer": 1,
+   "explanation": "The capital of Indonesia is Jakarta and its official currency is the Rupiah.",
+   "topic": "World General Knowledge — Countries, Capitals & Currencies",
+   "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-30"
   },
   {
-   "id": "general-knowledge-daily-2026-10-30-91",
-   "question": "Which of these African regions does *not* directly border the Democratic Republic of The Congo?",
+   "id": "general-knowledge-daily-2026-10-30-43",
+   "question": "In world general knowledge, what is the national capital of Lebanon (currency: Lebanese Pound)?",
    "options": [
-    "Tanzania",
-    "Central African Republic",
-    "Zambia",
-    "Sudan"
+    "Singapore",
+    "Beirut",
+    "Kabul",
+    "Conakry"
+   ],
+   "answer": 1,
+   "explanation": "The capital of Lebanon is Beirut and its official currency is the Lebanese Pound.",
+   "topic": "World General Knowledge — Countries, Capitals & Currencies",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-30-68",
+   "question": "In world and Indian general knowledge: Which is the highest capital city in the world?",
+   "options": [
+    "Majuli",
+    "Mariana Trench",
+    "Wular Lake",
+    "La Paz"
    ],
    "answer": 3,
-   "explanation": "Sudan is the correct answer for: Which of these African regions does *not* directly border the Democratic Republic of The Congo? (Geography).",
-   "topic": "Geography",
-   "level": 1,
-   "source": "daily",
-   "dailyDate": "2026-10-30"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-30-92",
-   "question": "Who is the victim mentioned in the second KG-8 incident, in Ace attorney Investigations, Case 4?",
-   "options": [
-    "Deid Mann",
-    "Raymond Shields",
-    "Frank Sahwit",
-    "Shey De Killer"
-   ],
-   "answer": 0,
-   "explanation": "Deid Mann is the correct answer for: Who is the victim mentioned in the second KG-8 incident, in Ace attorney Investigations, Case 4? (Entertainment: Video Games).",
-   "topic": "Entertainment: Video Games",
-   "level": 3,
+   "explanation": "Which is the highest capital city in the world? — La Paz.",
+   "topic": "General Knowledge — Global Superlatives & World Firsts",
+   "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-30"
   },
   {
    "id": "general-knowledge-daily-2026-10-30-93",
-   "question": "Which actors made up the trio in \"The Good, the Bad, and the Ugly\"?",
+   "question": "In world general knowledge, what is the national capital of Vietnam (currency: Dong)?",
    "options": [
-    "Yul Brynner, Steve McQueen, and Charles Bronson",
-    "Clint Eastwood, Eli Wallach, and Lee Van Cleef",
-    "Aldo Giuffr&egrave;, Mario Brega, and Luigi Pistilli",
-    "Sergio Leone, Ennio Morricone, and Tonino Delli Colli"
-   ],
-   "answer": 1,
-   "explanation": "Clint Eastwood, Eli Wallach, and Lee Van Cleef is the correct answer for: Which actors made up the trio in \"The Good, the Bad, and the Ugly\"? (Entertainment: Film).",
-   "topic": "Entertainment: Film",
-   "level": 3,
-   "source": "daily",
-   "dailyDate": "2026-10-30"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-30-94",
-   "question": "Who had a 1976 hit with the song 'You Make Me Feel Like Dancing'?",
-   "options": [
-    "Leo Sayer",
-    "Elton John",
-    "Andy Gibb",
-    "Billy Joel"
-   ],
-   "answer": 0,
-   "explanation": "Leo Sayer is the correct answer for: Who had a 1976 hit with the song 'You Make Me Feel Like Dancing'? (Entertainment: Music).",
-   "topic": "Entertainment: Music",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-30"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-30-95",
-   "question": "On a standard Monopoly board, how much do you have to pay for Tennessee Ave?",
-   "options": [
-    "$160",
-    "$220",
-    "$180",
-    "$200"
-   ],
-   "answer": 2,
-   "explanation": "$180 is the correct answer for: On a standard Monopoly board, how much do you have to pay for Tennessee Ave? (Entertainment: Board Games).",
-   "topic": "Entertainment: Board Games",
-   "level": 3,
-   "source": "daily",
-   "dailyDate": "2026-10-30"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-30-96",
-   "question": "What is the capital of the US State of New York?",
-   "options": [
-    "New York",
-    "Buffalo",
-    "Albany",
-    "Rochester"
-   ],
-   "answer": 2,
-   "explanation": "Albany is the correct answer for: What is the capital of the US State of New York? (Geography).",
-   "topic": "Geography",
-   "level": 1,
-   "source": "daily",
-   "dailyDate": "2026-10-30"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-30-97",
-   "question": "Who developed the 2016 farming RPG \"Stardew Valley\"?",
-   "options": [
-    "Eric Barone",
-    "Daisuke Amaya",
-    "Lucas Pope",
-    "Jasper Byrne"
-   ],
-   "answer": 0,
-   "explanation": "Eric Barone is the correct answer for: Who developed the 2016 farming RPG \"Stardew Valley\"? (Entertainment: Video Games).",
-   "topic": "Entertainment: Video Games",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-10-30"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-30-98",
-   "question": "Which country did the Eureka Rebellion, an 1856 battle against colonial rule, take place in?",
-   "options": [
-    "India",
-    "Australia",
-    "Brazil",
-    "Canada"
-   ],
-   "answer": 1,
-   "explanation": "Australia is the correct answer for: Which country did the Eureka Rebellion, an 1856 battle against colonial rule, take place in? (History).",
-   "topic": "History",
-   "level": 3,
-   "source": "daily",
-   "dailyDate": "2026-10-30"
-  },
-  {
-   "id": "general-knowledge-daily-2026-10-30-99",
-   "question": "Who's the voice actor for Thrall in the Warcraft game series?",
-   "options": [
-    "Jason Derulo",
-    "Ben Affleck",
-    "Jim Carrey",
-    "Chris Metzen"
+    "Yaounde",
+    "Riyadh",
+    "Kuala Lumpur",
+    "Hanoi"
    ],
    "answer": 3,
-   "explanation": "Chris Metzen is the correct answer for: Who's the voice actor for Thrall in the Warcraft game series? (Entertainment: Video Games).",
-   "topic": "Entertainment: Video Games",
-   "level": 1,
+   "explanation": "The capital of Vietnam is Hanoi and its official currency is the Dong.",
+   "topic": "World General Knowledge — Countries, Capitals & Currencies",
+   "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-30"
   },
   {
-   "id": "general-knowledge-daily-2026-10-30-100",
-   "question": "What does the term MIME stand for, in regards to computing?",
+   "id": "general-knowledge-daily-2026-10-31-18",
+   "question": "Where was the 'Minamata Convention on Mercury' held or headquartered according to recent international affairs?",
    "options": [
-    "Multipurpose Internet Mail Extensions",
-    "Mail Internet Mail Exchange",
-    "Multipurpose Interleave Mail Exchange",
-    "Mail Interleave Method Exchange"
+    "United Nations Convention on the Law of the Sea (UNCLOS) framework",
+    "Kampala, Uganda",
+    "Geneva, Switzerland (UNEP Secretariat)",
+    "New Delhi G20 MoU Corridor linking India, UAE, Saudi Arabia, Jordan, Israel and Europe"
    ],
-   "answer": 0,
-   "explanation": "Multipurpose Internet Mail Extensions is the correct answer for: What does the term MIME stand for, in regards to computing? (Science: Computers).",
-   "topic": "Science: Computers",
+   "answer": 2,
+   "explanation": "Minamata Convention on Mercury is associated with Geneva, Switzerland (UNEP Secretariat) (global environmental treaty protecting human health and the environment from anthropogenic emissions of mercury).",
+   "topic": "International Summits, Treaties & Global Affairs",
    "level": 2,
    "source": "daily",
-   "dailyDate": "2026-10-30"
+   "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-31-43",
+   "question": "In world and Indian general knowledge: Which is the largest river island in the world?",
+   "options": [
+    "Majuli",
+    "Vatican City",
+    "Mariana Trench",
+    "Arunachal Pradesh"
+   ],
+   "answer": 0,
+   "explanation": "Which is the largest river island in the world? — Majuli.",
+   "topic": "General Knowledge — Global Superlatives & World Firsts",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-31-68",
+   "question": "In world general knowledge, what is the national capital of Liberia (currency: Liberian Dollar)?",
+   "options": [
+    "Kathmandu",
+    "Monrovia",
+    "Dakar",
+    "Vaduz"
+   ],
+   "answer": 1,
+   "explanation": "The capital of Liberia is Monrovia and its official currency is the Liberian Dollar.",
+   "topic": "World General Knowledge — Countries, Capitals & Currencies",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "general-knowledge-daily-2026-10-31-93",
+   "question": "In world and Indian general knowledge: Which Indian city is called the Silicon Valley of India?",
+   "options": [
+    "Sahara Desert",
+    "New York",
+    "Vatican City",
+    "Bengaluru"
+   ],
+   "answer": 3,
+   "explanation": "Which Indian city is called the Silicon Valley of India? — Bengaluru.",
+   "topic": "General Knowledge — Global Superlatives & World Firsts",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
   }
  ]
 };

@@ -13,7 +13,7 @@
   "railways"
  ],
  "blurb": "Important national and international days.",
- "count": 285,
+ "count": 320,
  "questions": [
   {
    "id": "days-events-00001",
@@ -4280,7 +4280,151 @@
    "dailyDate": "2026-10-22"
   },
   {
-   "id": "days-events-daily-2026-10-25-95",
+   "id": "days-events-daily-2026-10-23-24",
+   "question": "On which date is 'International Day of Clean Energy' observed in India or internationally?",
+   "options": [
+    "10 February",
+    "26 January",
+    "16 January",
+    "15 November"
+   ],
+   "answer": 1,
+   "explanation": "International Day of Clean Energy is observed on 26 January (UN observance coinciding with the founding date of the International Renewable Energy Agency (IRENA)).",
+   "topic": "Important National & International Days in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "days-events-daily-2026-10-23-49",
+   "question": "In national and international observances, on which date is 'World Wetlands Day' celebrated every year?",
+   "options": [
+    "24 January",
+    "2 February",
+    "10 December",
+    "21 September"
+   ],
+   "answer": 1,
+   "explanation": "World Wetlands Day is observed annually on 2 February.",
+   "topic": "Important National & International Days and Observances",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "days-events-daily-2026-10-23-74",
+   "question": "On which date is 'Partition Horrors Remembrance Day (Vibhajan Vibhishika Smriti Divas)' observed in India or internationally?",
+   "options": [
+    "26 December",
+    "14 August",
+    "10 February",
+    "7 August"
+   ],
+   "answer": 1,
+   "explanation": "Partition Horrors Remembrance Day (Vibhajan Vibhishika Smriti Divas) is observed on 14 August (tribute to the resilience and sacrifices of millions displaced during the Partition of 1947).",
+   "topic": "Important National & International Days in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "days-events-daily-2026-10-23-99",
+   "question": "In national and international observances, on which date is 'International Mother Earth Day' celebrated every year?",
+   "options": [
+    "8 March",
+    "30 April",
+    "9 December",
+    "22 April"
+   ],
+   "answer": 3,
+   "explanation": "International Mother Earth Day is observed annually on 22 April.",
+   "topic": "Important National & International Days and Observances",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "days-events-daily-2026-10-24-24",
+   "question": "In national and international observances, on which date is 'World Vegan Day' celebrated every year?",
+   "options": [
+    "1 November",
+    "11 May",
+    "8 March",
+    "11 December"
+   ],
+   "answer": 0,
+   "explanation": "World Vegan Day is observed annually on 1 November.",
+   "topic": "Important National & International Days and Observances",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "days-events-daily-2026-10-24-49",
+   "question": "On which date is 'National Startup Day' observed in India or internationally?",
+   "options": [
+    "26 January",
+    "15 November",
+    "26 December",
+    "16 January"
+   ],
+   "answer": 3,
+   "explanation": "National Startup Day is observed on 16 January (the anniversary of the launch of the Startup India initiative celebrating India's innovation ecosystem).",
+   "topic": "Important National & International Days in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "days-events-daily-2026-10-24-74",
+   "question": "In national and international observances, on which date is 'World Photography Day' celebrated every year?",
+   "options": [
+    "29 September",
+    "19 August",
+    "19 November",
+    "2 February"
+   ],
+   "answer": 1,
+   "explanation": "World Photography Day is observed annually on 19 August.",
+   "topic": "Important National & International Days and Observances",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "days-events-daily-2026-10-24-99",
+   "question": "On which date is 'National Javelin Day' observed in India or internationally?",
+   "options": [
+    "14 August",
+    "30 March",
+    "7 August",
+    "16 January"
+   ],
+   "answer": 2,
+   "explanation": "National Javelin Day is observed on 7 August (commemoration of Neeraj Chopra's historic Tokyo Olympic gold medal in men's javelin throw on 7 August 2021).",
+   "topic": "Important National & International Days in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "days-events-daily-2026-10-25-24",
+   "question": "In national and international observances, on which date is 'World Nature Conservation Day' celebrated every year?",
+   "options": [
+    "1 December",
+    "28 July",
+    "4 July",
+    "10 December"
+   ],
+   "answer": 1,
+   "explanation": "World Nature Conservation Day is observed annually on 28 July.",
+   "topic": "Important National & International Days and Observances",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "days-events-daily-2026-10-25-49",
    "question": "On which date is 'Good Governance Day (Susashan Divas)' observed in India or internationally?",
    "options": [
     "15 November",
@@ -4294,6 +4438,422 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "days-events-daily-2026-10-25-74",
+   "question": "In national and international observances, on which date is 'International Nurses Day' celebrated every year?",
+   "options": [
+    "5 September",
+    "29 September",
+    "26 November",
+    "12 May"
+   ],
+   "answer": 3,
+   "explanation": "International Nurses Day is observed annually on 12 May.",
+   "topic": "Important National & International Days and Observances",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "days-events-daily-2026-10-25-99",
+   "question": "On which date is 'International Day of Zero Waste' observed in India or internationally?",
+   "options": [
+    "15 November",
+    "30 March",
+    "5 October",
+    "25 December"
+   ],
+   "answer": 1,
+   "explanation": "International Day of Zero Waste is observed on 30 March (UN observance led by UNEP and UN-Habitat promoting sustainable consumption and circular economy practices).",
+   "topic": "Important National & International Days in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "days-events-daily-2026-10-26-24",
+   "question": "In national and international observances, on which date is 'Republic Day (India)' celebrated every year?",
+   "options": [
+    "19 November",
+    "8 March",
+    "9 October",
+    "26 January"
+   ],
+   "answer": 3,
+   "explanation": "Republic Day (India) is observed annually on 26 January.",
+   "topic": "Important National & International Days and Observances",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "days-events-daily-2026-10-26-49",
+   "question": "In national and international observances, on which date is 'Constitution Day (India)' celebrated every year?",
+   "options": [
+    "22 April",
+    "9 October",
+    "2 October",
+    "26 November"
+   ],
+   "answer": 3,
+   "explanation": "Constitution Day (India) is observed annually on 26 November.",
+   "topic": "Important National & International Days and Observances",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "days-events-daily-2026-10-26-74",
+   "question": "In national and international observances, on which date is 'Children's Day (India)' celebrated every year?",
+   "options": [
+    "18 December",
+    "13 November",
+    "24 October",
+    "14 November"
+   ],
+   "answer": 3,
+   "explanation": "Children's Day (India) is observed annually on 14 November.",
+   "topic": "Important National & International Days and Observances",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "days-events-daily-2026-10-26-99",
+   "question": "In national and international observances, on which date is 'World Water Day' celebrated every year?",
+   "options": [
+    "22 April",
+    "24 January",
+    "12 May",
+    "22 March"
+   ],
+   "answer": 3,
+   "explanation": "World Water Day is observed annually on 22 March.",
+   "topic": "Important National & International Days and Observances",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "days-events-daily-2026-10-27-24",
+   "question": "In national and international observances, on which date is 'World Kindness Day' celebrated every year?",
+   "options": [
+    "13 November",
+    "10 October",
+    "28 July",
+    "8 September"
+   ],
+   "answer": 0,
+   "explanation": "World Kindness Day is observed annually on 13 November.",
+   "topic": "Important National & International Days and Observances",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "days-events-daily-2026-10-27-49",
+   "question": "In national and international observances, on which date is 'National Education Day (India)' celebrated every year?",
+   "options": [
+    "8 November",
+    "10 January",
+    "22 December",
+    "11 November"
+   ],
+   "answer": 3,
+   "explanation": "National Education Day (India) is observed annually on 11 November.",
+   "topic": "Important National & International Days and Observances",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "days-events-daily-2026-10-27-74",
+   "question": "In national and international observances, on which date is 'World Milk Day' celebrated every year?",
+   "options": [
+    "21 May",
+    "1 June",
+    "14 December",
+    "21 June"
+   ],
+   "answer": 1,
+   "explanation": "World Milk Day is observed annually on 1 June.",
+   "topic": "Important National & International Days and Observances",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "days-events-daily-2026-10-27-99",
+   "question": "In national and international observances, on which date is 'World Mental Health Day' celebrated every year?",
+   "options": [
+    "8 May",
+    "13 November",
+    "10 October",
+    "31 October"
+   ],
+   "answer": 2,
+   "explanation": "World Mental Health Day is observed annually on 10 October.",
+   "topic": "Important National & International Days and Observances",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "days-events-daily-2026-10-28-24",
+   "question": "In national and international observances, on which date is 'National Technology Day (India)' celebrated every year?",
+   "options": [
+    "4 July",
+    "18 December",
+    "11 May",
+    "7 April"
+   ],
+   "answer": 2,
+   "explanation": "National Technology Day (India) is observed annually on 11 May.",
+   "topic": "Important National & International Days and Observances",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "days-events-daily-2026-10-28-49",
+   "question": "In national and international observances, on which date is 'World Oceans Day' celebrated every year?",
+   "options": [
+    "25 January",
+    "8 June",
+    "14 December",
+    "24 January"
+   ],
+   "answer": 1,
+   "explanation": "World Oceans Day is observed annually on 8 June.",
+   "topic": "Important National & International Days and Observances",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "days-events-daily-2026-10-28-74",
+   "question": "On which date is 'World Basketball Day' observed in India or internationally?",
+   "options": [
+    "25 June",
+    "21 December",
+    "16 January",
+    "15 November"
+   ],
+   "answer": 1,
+   "explanation": "World Basketball Day is observed on 21 December (UN observance marking the day Dr James Naismith introduced the game of basketball in Springfield in 1891).",
+   "topic": "Important National & International Days in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "days-events-daily-2026-10-28-99",
+   "question": "In national and international observances, on which date is 'National Girl Child Day (India)' celebrated every year?",
+   "options": [
+    "20 May",
+    "24 January",
+    "10 October",
+    "9 October"
+   ],
+   "answer": 1,
+   "explanation": "National Girl Child Day (India) is observed annually on 24 January.",
+   "topic": "Important National & International Days and Observances",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "days-events-daily-2026-10-29-24",
+   "question": "In national and international observances, on which date is 'World Cities Day' celebrated every year?",
+   "options": [
+    "31 October",
+    "14 November",
+    "8 May",
+    "8 November"
+   ],
+   "answer": 0,
+   "explanation": "World Cities Day is observed annually on 31 October.",
+   "topic": "Important National & International Days and Observances",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "days-events-daily-2026-10-29-49",
+   "question": "In national and international observances, on which date is 'World Radio Day' celebrated every year?",
+   "options": [
+    "31 October",
+    "13 February",
+    "2 December",
+    "9 August"
+   ],
+   "answer": 1,
+   "explanation": "World Radio Day is observed annually on 13 February.",
+   "topic": "Important National & International Days and Observances",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "days-events-daily-2026-10-29-74",
+   "question": "On which date is 'National Handloom Day' observed in India or internationally?",
+   "options": [
+    "7 August",
+    "26 January",
+    "21 December",
+    "16 January"
+   ],
+   "answer": 0,
+   "explanation": "National Handloom Day is observed on 7 August (commemoration of the Swadeshi Movement launched on 7 August 1905 in Calcutta to promote indigenous weavers).",
+   "topic": "Important National & International Days in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "days-events-daily-2026-10-29-99",
+   "question": "In national and international observances, on which date is 'International Anti-Corruption Day' celebrated every year?",
+   "options": [
+    "1 November",
+    "29 September",
+    "18 April",
+    "9 December"
+   ],
+   "answer": 3,
+   "explanation": "International Anti-Corruption Day is observed annually on 9 December.",
+   "topic": "Important National & International Days and Observances",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "days-events-daily-2026-10-30-24",
+   "question": "In national and international observances, on which date is 'World Health Day' celebrated every year?",
+   "options": [
+    "30 April",
+    "second Saturday of September",
+    "11 November",
+    "7 April"
+   ],
+   "answer": 3,
+   "explanation": "World Health Day is observed annually on 7 April.",
+   "topic": "Important National & International Days and Observances",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "days-events-daily-2026-10-30-49",
+   "question": "In national and international observances, on which date is 'World Hypertension Day' celebrated every year?",
+   "options": [
+    "22 December",
+    "20 May",
+    "17 May",
+    "20 October"
+   ],
+   "answer": 2,
+   "explanation": "World Hypertension Day is observed annually on 17 May.",
+   "topic": "Important National & International Days and Observances",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "days-events-daily-2026-10-30-74",
+   "question": "In national and international observances, on which date is 'Independence Day (India)' celebrated every year?",
+   "options": [
+    "15 August",
+    "2 February",
+    "4 July",
+    "5 June"
+   ],
+   "answer": 0,
+   "explanation": "Independence Day (India) is observed annually on 15 August.",
+   "topic": "Important National & International Days and Observances",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "days-events-daily-2026-10-30-99",
+   "question": "In national and international observances, on which date is 'Gandhi Jayanti' celebrated every year?",
+   "options": [
+    "third Thursday of November",
+    "29 August",
+    "2 October",
+    "3 March"
+   ],
+   "answer": 2,
+   "explanation": "Gandhi Jayanti is observed annually on 2 October.",
+   "topic": "Important National & International Days and Observances",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "days-events-daily-2026-10-31-24",
+   "question": "In national and international observances, on which date is 'World No Tobacco Day' celebrated every year?",
+   "options": [
+    "1 December",
+    "11 May",
+    "31 May",
+    "third Thursday of November"
+   ],
+   "answer": 2,
+   "explanation": "World No Tobacco Day is observed annually on 31 May.",
+   "topic": "Important National & International Days and Observances",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "days-events-daily-2026-10-31-49",
+   "question": "In national and international observances, on which date is 'World Standards Day' celebrated every year?",
+   "options": [
+    "8 November",
+    "13 February",
+    "14 October",
+    "24 October"
+   ],
+   "answer": 2,
+   "explanation": "World Standards Day is observed annually on 14 October.",
+   "topic": "Important National & International Days and Observances",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "days-events-daily-2026-10-31-74",
+   "question": "On which date is 'World Pulses Day' observed in India or internationally?",
+   "options": [
+    "10 February",
+    "14 August",
+    "5 October",
+    "21 December"
+   ],
+   "answer": 0,
+   "explanation": "World Pulses Day is observed on 10 February (UN Food and Agriculture Organization observance recognising the nutritional and soil-nitrogen fixing value of pulses).",
+   "topic": "Important National & International Days in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "days-events-daily-2026-10-31-99",
+   "question": "In national and international observances, on which date is 'World Statistics Day' celebrated every year?",
+   "options": [
+    "20 October",
+    "11 November",
+    "14 October",
+    "29 August"
+   ],
+   "answer": 0,
+   "explanation": "World Statistics Day is observed annually on 20 October.",
+   "topic": "Important National & International Days and Observances",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
   }
  ]
 };

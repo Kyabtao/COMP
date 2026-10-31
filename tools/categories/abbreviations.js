@@ -13,7 +13,7 @@
   "railways"
  ],
  "blurb": "Full forms of common abbreviations and acronyms.",
- "count": 284,
+ "count": 320,
  "questions": [
   {
    "id": "abbreviations-00001",
@@ -4278,6 +4278,582 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "abbreviations-daily-2026-10-23-25",
+   "question": "In competitive exams, what does the abbreviation or acronym 'NSG' stand for?",
+   "options": [
+    "National Security Guard",
+    "Competition Commission of India",
+    "Fiscal Responsibility and Budget Management",
+    "Jan Dhan, Aadhaar and Mobile"
+   ],
+   "answer": 0,
+   "explanation": "The abbreviation NSG stands for National Security Guard.",
+   "topic": "Abbreviations & Acronyms in Governance, Banking, Science & IT",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "abbreviations-daily-2026-10-23-50",
+   "question": "What does the acronym 'OCEN', frequently seen in recent news and competitive exams, stand for?",
+   "options": [
+    "Automated Permanent Academic Account Registry ID",
+    "Open Credit Enablement Network",
+    "Digital Personal Data Protection Act",
+    "Logistics Ease Across Different States Index"
+   ],
+   "answer": 1,
+   "explanation": "OCEN stands for 'Open Credit Enablement Network' (digital credit protocol connecting lenders and marketplaces to enable cash-flow-based microloans for MSMEs).",
+   "topic": "Abbreviations & Tech Acronyms in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "abbreviations-daily-2026-10-23-75",
+   "question": "In competitive exams, what does the abbreviation or acronym 'G20' stand for?",
+   "options": [
+    "Group of Twenty major economies",
+    "International Atomic Energy Agency",
+    "Indian Council of Agricultural Research",
+    "Central Bureau of Investigation"
+   ],
+   "answer": 0,
+   "explanation": "The abbreviation G20 stands for Group of Twenty major economies.",
+   "topic": "Abbreviations & Acronyms in Governance, Banking, Science & IT",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "abbreviations-daily-2026-10-23-100",
+   "question": "In competitive exams, what does the abbreviation or acronym 'MSME' stand for?",
+   "options": [
+    "Goods and Services Tax",
+    "International Civil Aviation Organization",
+    "Micro, Small and Medium Enterprises",
+    "International Committee of the Red Cross"
+   ],
+   "answer": 2,
+   "explanation": "The abbreviation MSME stands for Micro, Small and Medium Enterprises.",
+   "topic": "Abbreviations & Acronyms in Governance, Banking, Science & IT",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "abbreviations-daily-2026-10-24-25",
+   "question": "In competitive exams, what does the abbreviation or acronym 'IAEA' stand for?",
+   "options": [
+    "Non Performing Asset",
+    "International Atomic Energy Agency",
+    "United Nations Development Programme",
+    "Gross National Product"
+   ],
+   "answer": 1,
+   "explanation": "The abbreviation IAEA stands for International Atomic Energy Agency.",
+   "topic": "Abbreviations & Acronyms in Governance, Banking, Science & IT",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "abbreviations-daily-2026-10-24-50",
+   "question": "In competitive exams, what does the abbreviation or acronym 'LED' stand for?",
+   "options": [
+    "Goods and Services Tax",
+    "Association of South East Asian Nations",
+    "Light Emitting Diode",
+    "Foreign Direct Investment"
+   ],
+   "answer": 2,
+   "explanation": "The abbreviation LED stands for Light Emitting Diode.",
+   "topic": "Abbreviations & Acronyms in Governance, Banking, Science & IT",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "abbreviations-daily-2026-10-24-75",
+   "question": "In competitive exams, what does the abbreviation or acronym 'ISS' stand for?",
+   "options": [
+    "World Meteorological Organization",
+    "International Securities Identification Number",
+    "International Space Station",
+    "Fiscal Responsibility and Budget Management"
+   ],
+   "answer": 2,
+   "explanation": "The abbreviation ISS stands for International Space Station.",
+   "topic": "Abbreviations & Acronyms in Governance, Banking, Science & IT",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "abbreviations-daily-2026-10-24-100",
+   "question": "In competitive exams, what does the abbreviation or acronym 'UPU' stand for?",
+   "options": [
+    "National Company Law Tribunal",
+    "Universal Postal Union",
+    "Bureau of Indian Standards",
+    "Pradhan Mantri Fasal Bima Yojana"
+   ],
+   "answer": 1,
+   "explanation": "The abbreviation UPU stands for Universal Postal Union.",
+   "topic": "Abbreviations & Acronyms in Governance, Banking, Science & IT",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "abbreviations-daily-2026-10-25-25",
+   "question": "What does the acronym 'ONDC', frequently seen in recent news and competitive exams, stand for?",
+   "options": [
+    "Digital Advancement of Rural Post Office for A New India",
+    "Logistics Ease Across Different States Index",
+    "Open Network for Digital Commerce",
+    "Seed Traceability, Authentication and Holistic Inventory Portal"
+   ],
+   "answer": 2,
+   "explanation": "ONDC stands for 'Open Network for Digital Commerce' (open-protocol network backed by DPIIT to democratise digital e-commerce across India).",
+   "topic": "Abbreviations & Tech Acronyms in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "abbreviations-daily-2026-10-25-50",
+   "question": "In competitive exams, what does the abbreviation or acronym 'SSB' stand for?",
+   "options": [
+    "Pradhan Mantri Jan Arogya Yojana",
+    "National Company Law Tribunal",
+    "Sashastra Seema Bal",
+    "International Space Station"
+   ],
+   "answer": 2,
+   "explanation": "The abbreviation SSB stands for Sashastra Seema Bal.",
+   "topic": "Abbreviations & Acronyms in Governance, Banking, Science & IT",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "abbreviations-daily-2026-10-25-75",
+   "question": "In competitive exams, what does the abbreviation or acronym 'IIT' stand for?",
+   "options": [
+    "Insurance Regulatory and Development Authority of India",
+    "United Nations High Commissioner for Refugees",
+    "Indian Institute of Technology",
+    "Federation Internationale de Football Association"
+   ],
+   "answer": 2,
+   "explanation": "The abbreviation IIT stands for Indian Institute of Technology.",
+   "topic": "Abbreviations & Acronyms in Governance, Banking, Science & IT",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "abbreviations-daily-2026-10-25-100",
+   "question": "In competitive exams, what does the abbreviation or acronym 'ED' stand for?",
+   "options": [
+    "Food Corporation of India",
+    "Non Performing Asset",
+    "Wholesale Price Index",
+    "Enforcement Directorate"
+   ],
+   "answer": 3,
+   "explanation": "The abbreviation ED stands for Enforcement Directorate.",
+   "topic": "Abbreviations & Acronyms in Governance, Banking, Science & IT",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "abbreviations-daily-2026-10-26-25",
+   "question": "In competitive exams, what does the abbreviation or acronym 'CACP' stand for?",
+   "options": [
+    "International Telecommunication Union",
+    "Commission for Agricultural Costs and Prices",
+    "Research and Analysis Wing",
+    "Pradhan Mantri Fasal Bima Yojana"
+   ],
+   "answer": 1,
+   "explanation": "The abbreviation CACP stands for Commission for Agricultural Costs and Prices.",
+   "topic": "Abbreviations & Acronyms in Governance, Banking, Science & IT",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "abbreviations-daily-2026-10-26-50",
+   "question": "In competitive exams, what does the abbreviation or acronym 'NPCI' stand for?",
+   "options": [
+    "National Payments Corporation of India",
+    "Adenosine Triphosphate",
+    "International Securities Identification Number",
+    "Human Immunodeficiency Virus"
+   ],
+   "answer": 0,
+   "explanation": "The abbreviation NPCI stands for National Payments Corporation of India.",
+   "topic": "Abbreviations & Acronyms in Governance, Banking, Science & IT",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "abbreviations-daily-2026-10-26-75",
+   "question": "In competitive exams, what does the abbreviation or acronym 'ICU' stand for?",
+   "options": [
+    "Krishi Vigyan Kendra",
+    "Micro, Small and Medium Enterprises",
+    "Intensive Care Unit",
+    "Asian Infrastructure Investment Bank"
+   ],
+   "answer": 2,
+   "explanation": "The abbreviation ICU stands for Intensive Care Unit.",
+   "topic": "Abbreviations & Acronyms in Governance, Banking, Science & IT",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "abbreviations-daily-2026-10-26-100",
+   "question": "In competitive exams, what does the abbreviation or acronym 'NHRC' stand for?",
+   "options": [
+    "Corporate Social Responsibility",
+    "International Monetary Fund",
+    "National Human Rights Commission",
+    "State Bank of India"
+   ],
+   "answer": 2,
+   "explanation": "The abbreviation NHRC stands for National Human Rights Commission.",
+   "topic": "Abbreviations & Acronyms in Governance, Banking, Science & IT",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "abbreviations-daily-2026-10-27-25",
+   "question": "What does the acronym 'CBAM', frequently seen in recent news and competitive exams, stand for?",
+   "options": [
+    "Carbon Border Adjustment Mechanism",
+    "Automated Permanent Academic Account Registry ID",
+    "Seed Traceability, Authentication and Holistic Inventory Portal",
+    "Creation and Harmonious Application of Modern Processes for Increasing the Output and National Strength"
+   ],
+   "answer": 0,
+   "explanation": "CBAM stands for 'Carbon Border Adjustment Mechanism' (European Union tariff mechanism placing a carbon price on carbon-intensive imports such as steel, cement and aluminium).",
+   "topic": "Abbreviations & Tech Acronyms in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "abbreviations-daily-2026-10-27-50",
+   "question": "In competitive exams, what does the abbreviation or acronym 'UNEP' stand for?",
+   "options": [
+    "United Nations Environment Programme",
+    "Commission for Agricultural Costs and Prices",
+    "Intelligence Bureau",
+    "Indian Council of Medical Research"
+   ],
+   "answer": 0,
+   "explanation": "The abbreviation UNEP stands for United Nations Environment Programme.",
+   "topic": "Abbreviations & Acronyms in Governance, Banking, Science & IT",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "abbreviations-daily-2026-10-27-75",
+   "question": "In competitive exams, what does the abbreviation or acronym 'GST' stand for?",
+   "options": [
+    "Closed Circuit Television",
+    "Association of Mutual Funds in India",
+    "Goods and Services Tax",
+    "Digital Infrastructure for Knowledge Sharing"
+   ],
+   "answer": 2,
+   "explanation": "The abbreviation GST stands for Goods and Services Tax.",
+   "topic": "Abbreviations & Acronyms in Governance, Banking, Science & IT",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "abbreviations-daily-2026-10-27-100",
+   "question": "In competitive exams, what does the abbreviation or acronym 'RRB' stand for?",
+   "options": [
+    "Public Distribution System",
+    "Regional Rural Bank",
+    "National Institute of Technology",
+    "Polar Satellite Launch Vehicle"
+   ],
+   "answer": 1,
+   "explanation": "The abbreviation RRB stands for Regional Rural Bank.",
+   "topic": "Abbreviations & Acronyms in Governance, Banking, Science & IT",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "abbreviations-daily-2026-10-28-25",
+   "question": "What does the acronym 'DPDP Act', frequently seen in recent news and competitive exams, stand for?",
+   "options": [
+    "Digital Advancement of Rural Post Office for A New India",
+    "Creation and Harmonious Application of Modern Processes for Increasing the Output and National Strength",
+    "Digital Personal Data Protection Act",
+    "Automated Permanent Academic Account Registry ID"
+   ],
+   "answer": 2,
+   "explanation": "DPDP Act stands for 'Digital Personal Data Protection Act' (India's 2023 data privacy legislation regulating the processing of digital personal data).",
+   "topic": "Abbreviations & Tech Acronyms in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "abbreviations-daily-2026-10-28-50",
+   "question": "In competitive exams, what does the abbreviation or acronym 'IMO' stand for?",
+   "options": [
+    "Intelligence Bureau",
+    "International Maritime Organization",
+    "Real Time Gross Settlement",
+    "Indian Financial System Code"
+   ],
+   "answer": 1,
+   "explanation": "The abbreviation IMO stands for International Maritime Organization.",
+   "topic": "Abbreviations & Acronyms in Governance, Banking, Science & IT",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "abbreviations-daily-2026-10-28-75",
+   "question": "In competitive exams, what does the abbreviation or acronym 'FAO' stand for?",
+   "options": [
+    "Food and Agriculture Organization",
+    "Launch Vehicle Mark 3",
+    "National Human Rights Commission",
+    "Regional Rural Bank"
+   ],
+   "answer": 0,
+   "explanation": "The abbreviation FAO stands for Food and Agriculture Organization.",
+   "topic": "Abbreviations & Acronyms in Governance, Banking, Science & IT",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "abbreviations-daily-2026-10-28-100",
+   "question": "In competitive exams, what does the abbreviation or acronym 'CT' stand for?",
+   "options": [
+    "Wholesale Price Index",
+    "Computed Tomography",
+    "Dematerialised account for shares",
+    "Foreign Direct Investment"
+   ],
+   "answer": 1,
+   "explanation": "The abbreviation CT stands for Computed Tomography.",
+   "topic": "Abbreviations & Acronyms in Governance, Banking, Science & IT",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "abbreviations-daily-2026-10-29-25",
+   "question": "In competitive exams, what does the abbreviation or acronym 'ATM' stand for?",
+   "options": [
+    "Computed Tomography",
+    "Food Safety and Standards Authority of India",
+    "Automated Teller Machine",
+    "International Monetary Fund"
+   ],
+   "answer": 2,
+   "explanation": "The abbreviation ATM stands for Automated Teller Machine.",
+   "topic": "Abbreviations & Acronyms in Governance, Banking, Science & IT",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "abbreviations-daily-2026-10-29-50",
+   "question": "In competitive exams, what does the abbreviation or acronym 'FPI' stand for?",
+   "options": [
+    "Foreign Portfolio Investment",
+    "United Nations Environment Programme",
+    "National Service Scheme",
+    "Employees' Provident Fund"
+   ],
+   "answer": 0,
+   "explanation": "The abbreviation FPI stands for Foreign Portfolio Investment.",
+   "topic": "Abbreviations & Acronyms in Governance, Banking, Science & IT",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "abbreviations-daily-2026-10-29-75",
+   "question": "In competitive exams, what does the abbreviation or acronym 'TB' stand for?",
+   "options": [
+    "National Eligibility Test",
+    "Tuberculosis",
+    "Launch Vehicle Mark 3",
+    "Competition Commission of India"
+   ],
+   "answer": 1,
+   "explanation": "The abbreviation TB stands for Tuberculosis.",
+   "topic": "Abbreviations & Acronyms in Governance, Banking, Science & IT",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "abbreviations-daily-2026-10-29-100",
+   "question": "What does the acronym 'DARPAN', frequently seen in recent news and competitive exams, stand for?",
+   "options": [
+    "Creation and Harmonious Application of Modern Processes for Increasing the Output and National Strength",
+    "Open Credit Enablement Network",
+    "Open Network for Digital Commerce",
+    "Digital Advancement of Rural Post Office for A New India"
+   ],
+   "answer": 3,
+   "explanation": "DARPAN stands for 'Digital Advancement of Rural Post Office for A New India' (IT modernisation project equipping rural branch postmasters with handheld devices for banking and postal services).",
+   "topic": "Abbreviations & Tech Acronyms in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "abbreviations-daily-2026-10-30-25",
+   "question": "In competitive exams, what does the abbreviation or acronym 'WTO' stand for?",
+   "options": [
+    "International Court of Justice",
+    "National Security Guard",
+    "Board of Control for Cricket in India",
+    "World Trade Organization"
+   ],
+   "answer": 3,
+   "explanation": "The abbreviation WTO stands for World Trade Organization.",
+   "topic": "Abbreviations & Acronyms in Governance, Banking, Science & IT",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "abbreviations-daily-2026-10-30-50",
+   "question": "In competitive exams, what does the abbreviation or acronym 'UAV' stand for?",
+   "options": [
+    "Unmanned Aerial Vehicle",
+    "Comptroller and Auditor General",
+    "Magnetic Ink Character Recognition",
+    "Net Asset Value"
+   ],
+   "answer": 0,
+   "explanation": "The abbreviation UAV stands for Unmanned Aerial Vehicle.",
+   "topic": "Abbreviations & Acronyms in Governance, Banking, Science & IT",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "abbreviations-daily-2026-10-30-75",
+   "question": "In competitive exams, what does the abbreviation or acronym 'EPF' stand for?",
+   "options": [
+    "International Maritime Organization",
+    "Right to Education",
+    "Pradhan Mantri Fasal Bima Yojana",
+    "Employees' Provident Fund"
+   ],
+   "answer": 3,
+   "explanation": "The abbreviation EPF stands for Employees' Provident Fund.",
+   "topic": "Abbreviations & Acronyms in Governance, Banking, Science & IT",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "abbreviations-daily-2026-10-30-100",
+   "question": "In competitive exams, what does the abbreviation or acronym 'NABARD' stand for?",
+   "options": [
+    "National Bank for Agriculture and Rural Development",
+    "Competition Commission of India",
+    "International Union for Conservation of Nature",
+    "Universal Postal Union"
+   ],
+   "answer": 0,
+   "explanation": "The abbreviation NABARD stands for National Bank for Agriculture and Rural Development.",
+   "topic": "Abbreviations & Acronyms in Governance, Banking, Science & IT",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "abbreviations-daily-2026-10-31-25",
+   "question": "In competitive exams, what does the abbreviation or acronym 'IBC' stand for?",
+   "options": [
+    "Real Time Gross Settlement",
+    "National Pension System",
+    "Research and Analysis Wing",
+    "Insolvency and Bankruptcy Code"
+   ],
+   "answer": 3,
+   "explanation": "The abbreviation IBC stands for Insolvency and Bankruptcy Code.",
+   "topic": "Abbreviations & Acronyms in Governance, Banking, Science & IT",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "abbreviations-daily-2026-10-31-50",
+   "question": "What does the acronym 'LEADS Index', frequently seen in recent news and competitive exams, stand for?",
+   "options": [
+    "Logistics Ease Across Different States Index",
+    "Carbon Border Adjustment Mechanism",
+    "Digital Personal Data Protection Act",
+    "Open Network for Digital Commerce"
+   ],
+   "answer": 0,
+   "explanation": "LEADS Index stands for 'Logistics Ease Across Different States Index' (annual benchmark published by the Ministry of Commerce and Industry assessing state-level logistics infrastructure).",
+   "topic": "Abbreviations & Tech Acronyms in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "abbreviations-daily-2026-10-31-75",
+   "question": "In competitive exams, what does the abbreviation or acronym 'SAARC' stand for?",
+   "options": [
+    "Goods and Services Tax",
+    "South Asian Association for Regional Cooperation",
+    "Railway Recruitment Board",
+    "Central Industrial Security Force"
+   ],
+   "answer": 1,
+   "explanation": "The abbreviation SAARC stands for South Asian Association for Regional Cooperation.",
+   "topic": "Abbreviations & Acronyms in Governance, Banking, Science & IT",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "abbreviations-daily-2026-10-31-100",
+   "question": "What does the acronym 'CHAMPIONS Portal', frequently seen in recent news and competitive exams, stand for?",
+   "options": [
+    "Performance Assessment, Review, and Analysis of Knowledge for Holistic Development",
+    "Carbon Border Adjustment Mechanism",
+    "Creation and Harmonious Application of Modern Processes for Increasing the Output and National Strength",
+    "Automated Permanent Academic Account Registry ID"
+   ],
+   "answer": 2,
+   "explanation": "CHAMPIONS Portal stands for 'Creation and Harmonious Application of Modern Processes for Increasing the Output and National Strength' (AI-enabled single-window grievance redressal and handholding portal of the Ministry of MSME).",
+   "topic": "Abbreviations & Tech Acronyms in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
   }
  ]
 };

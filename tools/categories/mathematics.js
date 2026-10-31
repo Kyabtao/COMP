@@ -11,7 +11,7 @@
   "ssc-chsl"
  ],
  "blurb": "Number work, algebra, geometry and speed-accuracy drills.",
- "count": 1510,
+ "count": 1546,
  "questions": [
   {
    "id": "mathematics-00001",
@@ -22672,6 +22672,582 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "mathematics-daily-2026-10-23-02",
+   "question": "In number theory, what is the only even prime number?",
+   "options": [
+    "sqrt[s(s - a)(s - b)(s - c)]",
+    "sec^2(theta) - tan^2(theta) = 1",
+    "|a x b| / 2",
+    "2"
+   ],
+   "answer": 3,
+   "explanation": "2 is the smallest and only even prime number because every even integer greater than 2 is divisible by 2 in addition to 1 and itself.",
+   "topic": "Applied Mathematics & Quantitative Problem Solving",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "mathematics-daily-2026-10-23-27",
+   "question": "In competitive mathematics, what is the exact formula or value for 'Sum of an Infinite Geometric Progression (|r| < 1)'?",
+   "options": [
+    "R = (a * b * c) / (4 * Delta)",
+    "(a + b + c)(a^2 + b^2 + c^2 - ab - bc - ca)",
+    "c^2 = a^2 + b^2 - 2ab cos(C)",
+    "S_infinity = a / (1 - r)"
+   ],
+   "answer": 3,
+   "explanation": "Sum of an Infinite Geometric Progression (|r| < 1): S_infinity = a / (1 - r) (converges when the absolute value of the common ratio r is strictly less than 1).",
+   "topic": "Competitive Mathematics — Algebra, Trigonometry, Geometry & Mensuration",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "mathematics-daily-2026-10-23-52",
+   "question": "In competitive mathematics, what is the exact result or formula for 'Regular Octagon (8 sides): Sum of Interior Angles and Measure of Each Interior Angle'?",
+   "options": [
+    "Sum = 1440 degrees; Each interior angle = 144 degrees (35 diagonals)",
+    "G^2 = A * H  and  A >= G >= H",
+    "SD(aX + b) = |a| * SD(X)  and  Var(aX + b) = a^2 * Var(X) (independent of shift b)",
+    "Sum = 1080 degrees; Each interior angle = 135 degrees (20 diagonals)"
+   ],
+   "answer": 3,
+   "explanation": "Regular Octagon (8 sides): Sum of Interior Angles and Measure of Each Interior Angle: Sum = 1080 degrees; Each interior angle = 135 degrees (20 diagonals). For n = 8, (n - 2) * 180 = 1080 degrees, 1080 / 8 = 135 degrees, and 8(5)/2 = 20 diagonals.",
+   "topic": "Mathematics — Geometry, Trigonometry, Algebra & Statistics",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "mathematics-daily-2026-10-23-77",
+   "question": "In competitive mathematics, what is the exact formula or value for 'Curved Surface Area and Volume of a Right Circular Cone (radius r, height h, slant height l)'?",
+   "options": [
+    "(a + b + c)(a^2 + b^2 + c^2 - ab - bc - ca)",
+    "CSA = pi * r * l and Volume = (1/3) * pi * r^2 * h, where l = sqrt(r^2 + h^2)",
+    "n(n - 3) / 2",
+    "2^n total subsets and (2^n - 1) proper subsets"
+   ],
+   "answer": 1,
+   "explanation": "Curved Surface Area and Volume of a Right Circular Cone (radius r, height h, slant height l): CSA = pi * r * l and Volume = (1/3) * pi * r^2 * h, where l = sqrt(r^2 + h^2) (cone volume is exactly one-third the volume of a cylinder with the same base and height).",
+   "topic": "Competitive Mathematics — Algebra, Trigonometry, Geometry & Mensuration",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "mathematics-daily-2026-10-24-02",
+   "question": "In competitive mathematics, what is the exact result or formula for 'Variance and Standard Deviation Under Linear Transformation Y = aX + b'?",
+   "options": [
+    "a1 / a2 = b1 / b2 = c1 / c2 (coincident lines)",
+    "x^2 + (1 / x^2) = k^2 - 2  and  x^3 + (1 / x^3) = k^3 - 3k",
+    "x^2 + (1 / x^2) = k^2 + 2  and  x^3 - (1 / x^3) = k^3 + 3k",
+    "SD(aX + b) = |a| * SD(X)  and  Var(aX + b) = a^2 * Var(X) (independent of shift b)"
+   ],
+   "answer": 3,
+   "explanation": "Variance and Standard Deviation Under Linear Transformation Y = aX + b: SD(aX + b) = |a| * SD(X)  and  Var(aX + b) = a^2 * Var(X) (independent of shift b). Adding a constant b shifts every observation equally without changing dispersion.",
+   "topic": "Mathematics — Geometry, Trigonometry, Algebra & Statistics",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "mathematics-daily-2026-10-24-27",
+   "question": "In competitive mathematics, what is the exact formula or value for 'Centroid of a Triangle with vertices (x1, y1), (x2, y2) and (x3, y3)'?",
+   "options": [
+    "R : r = 2 : 1 (where R = a / sqrt(3) and r = a / (2 * sqrt(3)))",
+    "cosec^2(theta) - cot^2(theta) = 1",
+    "((x1 + x2 + x3) / 3, (y1 + y2 + y3) / 3)",
+    "2^n total subsets and (2^n - 1) proper subsets"
+   ],
+   "answer": 2,
+   "explanation": "Centroid of a Triangle with vertices (x1, y1), (x2, y2) and (x3, y3): ((x1 + x2 + x3) / 3, (y1 + y2 + y3) / 3) (the centroid divides each median in the internal ratio 2 : 1).",
+   "topic": "Competitive Mathematics — Algebra, Trigonometry, Geometry & Mensuration",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "mathematics-daily-2026-10-24-52",
+   "question": "In competitive mathematics, what is the exact result or formula for 'Relation Between Centroid (G), Orthocentre (H) and Circumcentre (O) — Euler Line'?",
+   "options": [
+    "BD / DC = AB / AC",
+    "Sum = 1800 degrees; Each interior angle = 150 degrees (54 diagonals)",
+    "G divides the segment joining Orthocentre (H) and Circumcentre (O) internally in the ratio HG : GO = 2 : 1",
+    "AC * BD = (AB * CD) + (BC * DA)"
+   ],
+   "answer": 2,
+   "explanation": "Relation Between Centroid (G), Orthocentre (H) and Circumcentre (O) — Euler Line: G divides the segment joining Orthocentre (H) and Circumcentre (O) internally in the ratio HG : GO = 2 : 1. On the Euler line of any non-equilateral triangle, H, G and O are collinear with HG = 2 * GO.",
+   "topic": "Mathematics — Geometry, Trigonometry, Algebra & Statistics",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "mathematics-daily-2026-10-24-77",
+   "question": "In competitive mathematics, what is the exact formula or value for 'Cosine of Double Angle Identity (cos 2A)'?",
+   "options": [
+    "cosec^2(theta) - cot^2(theta) = 1",
+    "alpha + beta = -b/a and alpha * beta = c/a",
+    "(a + b + c)(a^2 + b^2 + c^2 - ab - bc - ca)",
+    "cos^2(A) - sin^2(A) = 2 cos^2(A) - 1 = 1 - 2 sin^2(A)"
+   ],
+   "answer": 3,
+   "explanation": "Cosine of Double Angle Identity (cos 2A): cos^2(A) - sin^2(A) = 2 cos^2(A) - 1 = 1 - 2 sin^2(A) (fundamental double-angle formula in trigonometry used across calculus and geometry).",
+   "topic": "Competitive Mathematics — Algebra, Trigonometry, Geometry & Mensuration",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "mathematics-daily-2026-10-25-02",
+   "question": "In mensuration, if the radius of a sphere is doubled, by what factor does its total surface area (4 * pi * r^2) increase?",
+   "options": [
+    "4 times",
+    "8 times",
+    "[n(n + 1) / 2]^2",
+    "2uv / (u + v) (the Harmonic Mean of u and v)"
+   ],
+   "answer": 0,
+   "explanation": "Since the surface area of a sphere is 4 * pi * r^2 (proportional to the square of the radius), doubling r multiplies the surface area by 2^2 = 4.",
+   "topic": "Applied Mathematics & Quantitative Problem Solving",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "mathematics-daily-2026-10-25-27",
+   "question": "In competitive mathematics, what is the exact result or formula for 'Maximum and Minimum Values of a*sin(theta) + b*cos(theta)'?",
+   "options": [
+    "Maximum = +sqrt(a^2 + b^2) and Minimum = -sqrt(a^2 + b^2)",
+    "a + b (achieved at sin^2(theta) = 1, since sin^2(theta) <= 1)",
+    "BD / DC = AB / AC",
+    "PA * PB = PC * PD (for chords/secants) and PT^2 = PA * PB (for tangent PT and secant PAB)"
+   ],
+   "answer": 0,
+   "explanation": "Maximum and Minimum Values of a*sin(theta) + b*cos(theta): Maximum = +sqrt(a^2 + b^2) and Minimum = -sqrt(a^2 + b^2). By expressing a*sin(theta) + b*cos(theta) as R*sin(theta + alpha) where R = sqrt(a^2 + b^2).",
+   "topic": "Mathematics — Geometry, Trigonometry, Algebra & Statistics",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "mathematics-daily-2026-10-25-52",
+   "question": "In competitive mathematics, what is the exact formula or value for 'Sum of Interior Angles of an n-sided Convex Polygon'?",
+   "options": [
+    "(n - 2) * 180 degrees",
+    "R = (a * b * c) / (4 * Delta)",
+    "2^n total subsets and (2^n - 1) proper subsets",
+    "V - E + F = 2 (Vertices minus Edges plus Faces equals 2)"
+   ],
+   "answer": 0,
+   "explanation": "Sum of Interior Angles of an n-sided Convex Polygon: (n - 2) * 180 degrees (any n-gon can be partitioned into (n - 2) non-overlapping triangles from one vertex).",
+   "topic": "Competitive Mathematics — Algebra, Trigonometry, Geometry & Mensuration",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "mathematics-daily-2026-10-25-77",
+   "question": "In coordinate geometry, what is the area of a triangle whose vertices are (0, 0), (a, 0) and (0, b)?",
+   "options": [
+    "n(n + 1)(2n + 1) / 6",
+    "HCF(a, b) x LCM(a, b) = a x b",
+    "|a x b| / 2",
+    "n(A) + n(B) - n(A intersection B)"
+   ],
+   "answer": 2,
+   "explanation": "A triangle with vertices at the origin (0, 0), (a, 0) on the x-axis and (0, b) on the y-axis is a right-angled triangle with base |a| and height |b|, so its area is |ab| / 2.",
+   "topic": "Applied Mathematics & Quantitative Problem Solving",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "mathematics-daily-2026-10-26-02",
+   "question": "What is the sum of the cubes of the first n natural numbers (1^3 + 2^3 + 3^3 + ... + n^3)?",
+   "options": [
+    "n(n + 1)(2n + 1) / 6",
+    "8 times",
+    "sqrt[s(s - a)(s - b)(s - c)]",
+    "[n(n + 1) / 2]^2"
+   ],
+   "answer": 3,
+   "explanation": "Nicomachus's theorem states that the sum of the first n cubes equals the square of the nth triangular number: [n(n + 1) / 2]^2.",
+   "topic": "Applied Mathematics & Quantitative Problem Solving",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "mathematics-daily-2026-10-26-27",
+   "question": "In competitive mathematics, what is the exact result or formula for 'Probability of Drawing an Ace or a King from a Standard 52-Card Deck'?",
+   "options": [
+    "2 - sqrt(3)",
+    "P(Ace) = 4/52 = 1/13;  P(Ace or King) = 8/52 = 2/13",
+    "2 + sqrt(3)",
+    "6 favourable outcomes out of 36 total outcomes, so Probability = 6/36 = 1/6 (the most likely sum)"
+   ],
+   "answer": 1,
+   "explanation": "Probability of Drawing an Ace or a King from a Standard 52-Card Deck: P(Ace) = 4/52 = 1/13;  P(Ace or King) = 8/52 = 2/13. A standard deck has 4 suits of 13 ranks each, containing 4 Aces, 4 Kings and 12 face cards.",
+   "topic": "Mathematics — Geometry, Trigonometry, Algebra & Statistics",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "mathematics-daily-2026-10-26-52",
+   "question": "In competitive mathematics, what is the exact formula or value for 'Inradius (r) and Circumradius (R) Ratio in an Equilateral Triangle'?",
+   "options": [
+    "c^2 = a^2 + b^2 - 2ab cos(C)",
+    "CSA = pi * r * l and Volume = (1/3) * pi * r^2 * h, where l = sqrt(r^2 + h^2)",
+    "R : r = 2 : 1 (where R = a / sqrt(3) and r = a / (2 * sqrt(3)))",
+    "alpha + beta = -b/a and alpha * beta = c/a"
+   ],
+   "answer": 2,
+   "explanation": "Inradius (r) and Circumradius (R) Ratio in an Equilateral Triangle: R : r = 2 : 1 (where R = a / sqrt(3) and r = a / (2 * sqrt(3))) (in an equilateral triangle the centroid, incentre, circumcentre and orthocentre coincide).",
+   "topic": "Competitive Mathematics — Algebra, Trigonometry, Geometry & Mensuration",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "mathematics-daily-2026-10-26-77",
+   "question": "In competitive mathematics, what is the exact result or formula for 'Angle Bisector Theorem (Internal) in Triangle ABC with AD Bisecting Angle A'?",
+   "options": [
+    "6 favourable outcomes out of 36 total outcomes, so Probability = 6/36 = 1/6 (the most likely sum)",
+    "BD / DC = AB / AC",
+    "a + b (achieved at sin^2(theta) = 1, since sin^2(theta) <= 1)",
+    "Maximum = +sqrt(a^2 + b^2) and Minimum = -sqrt(a^2 + b^2)"
+   ],
+   "answer": 1,
+   "explanation": "Angle Bisector Theorem (Internal) in Triangle ABC with AD Bisecting Angle A: BD / DC = AB / AC. An internal angle bisector divides the opposite side in the ratio of the adjacent sides.",
+   "topic": "Mathematics — Geometry, Trigonometry, Algebra & Statistics",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "mathematics-daily-2026-10-27-02",
+   "question": "In competitive mathematics, what is the exact formula or value for 'Area of an Equilateral Triangle of side 'a''?",
+   "options": [
+    "b^2 + c^2 = 2(m_a^2 + (a/2)^2)",
+    "(sqrt(3) / 4) * a^2",
+    "|Ax0 + By0 + C| / sqrt(A^2 + B^2)",
+    "R = c / 2 (midpoint of the hypotenuse)"
+   ],
+   "answer": 1,
+   "explanation": "Area of an Equilateral Triangle of side 'a': (sqrt(3) / 4) * a^2 (derived from (1/2) * base * height where the altitude is (sqrt(3) / 2) * a).",
+   "topic": "Competitive Mathematics — Algebra, Trigonometry, Geometry & Mensuration",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "mathematics-daily-2026-10-27-27",
+   "question": "In competitive mathematics, what is the exact result or formula for 'Quadratic Equation Constructed from Given Sum of Roots (S) and Product of Roots (P)'?",
+   "options": [
+    "x^2 - S*x + P = 0",
+    "a1 / a2 = b1 / b2 = c1 / c2 (coincident lines)",
+    "BD / DC = AB / AC",
+    "Sum = 1800 degrees; Each interior angle = 150 degrees (54 diagonals)"
+   ],
+   "answer": 0,
+   "explanation": "Quadratic Equation Constructed from Given Sum of Roots (S) and Product of Roots (P): x^2 - S*x + P = 0. Directly follows from factoring a(x - alpha)(x - beta) = 0.",
+   "topic": "Mathematics — Geometry, Trigonometry, Algebra & Statistics",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "mathematics-daily-2026-10-27-52",
+   "question": "What is the sum of the squares of the first n natural numbers (1^2 + 2^2 + 3^2 + ... + n^2)?",
+   "options": [
+    "[n(n + 1) / 2]^2",
+    "b^2 - 4ac = 0",
+    "n(n + 1)(2n + 1) / 6",
+    "2uv / (u + v) (the Harmonic Mean of u and v)"
+   ],
+   "answer": 2,
+   "explanation": "By mathematical induction, the sum of the squares of the first n positive integers is given by the formula n(n + 1)(2n + 1) / 6.",
+   "topic": "Applied Mathematics & Quantitative Problem Solving",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "mathematics-daily-2026-10-27-77",
+   "question": "In competitive mathematics, what is the exact formula or value for 'Circumradius of any Triangle with sides a, b, c and Area Delta'?",
+   "options": [
+    "3 * pi * r^2 (2 * pi * r^2 curved surface + pi * r^2 circular base)",
+    "2 sin(A) cos(A) = 2 tan(A) / (1 + tan^2(A))",
+    "b^2 + c^2 = 2(m_a^2 + (a/2)^2)",
+    "R = (a * b * c) / (4 * Delta)"
+   ],
+   "answer": 3,
+   "explanation": "Circumradius of any Triangle with sides a, b, c and Area Delta: R = (a * b * c) / (4 * Delta) (gives the radius of the circumscribed circle passing through all three vertices).",
+   "topic": "Competitive Mathematics — Algebra, Trigonometry, Geometry & Mensuration",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "mathematics-daily-2026-10-28-02",
+   "question": "In competitive mathematics, what is the exact result or formula for 'Brahmagupta's Formula for the Area of a Cyclic Quadrilateral with Sides a, b, c, d'?",
+   "options": [
+    "The angle between a tangent and a chord through the point of contact equals the angle subtended by the chord in the alternate segment",
+    "Area(ABC) / Area(DEF) = (AB / DE)^2 = (BC / EF)^2 = (AC / DF)^2 (square of the ratio of corresponding sides, medians or altitudes)",
+    "sqrt[(s - a)(s - b)(s - c)(s - d)] where s = (a + b + c + d) / 2",
+    "PA * PB = PC * PD (for chords/secants) and PT^2 = PA * PB (for tangent PT and secant PAB)"
+   ],
+   "answer": 2,
+   "explanation": "Brahmagupta's Formula for the Area of a Cyclic Quadrilateral with Sides a, b, c, d: sqrt[(s - a)(s - b)(s - c)(s - d)] where s = (a + b + c + d) / 2. Generalizes Heron's triangle area formula to any quadrilateral inscribed in a circle.",
+   "topic": "Mathematics — Geometry, Trigonometry, Algebra & Statistics",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "mathematics-daily-2026-10-28-27",
+   "question": "In competitive mathematics, what is the exact formula or value for 'Perpendicular Distance from Point (x0, y0) to Line Ax + By + C = 0'?",
+   "options": [
+    "[(n - 2) * 180] / n degrees (or 180 - 360/n degrees)",
+    "|Ax0 + By0 + C| / sqrt(A^2 + B^2)",
+    "cosec^2(theta) - cot^2(theta) = 1",
+    "2 tan(A) / (1 - tan^2(A))"
+   ],
+   "answer": 1,
+   "explanation": "Perpendicular Distance from Point (x0, y0) to Line Ax + By + C = 0: |Ax0 + By0 + C| / sqrt(A^2 + B^2) (standard coordinate geometry formula for point-to-line distance).",
+   "topic": "Competitive Mathematics — Algebra, Trigonometry, Geometry & Mensuration",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "mathematics-daily-2026-10-28-52",
+   "question": "In competitive mathematics, what is the exact result or formula for 'Regular Dodecagon (12 sides): Sum of Interior Angles and Measure of Each Interior Angle'?",
+   "options": [
+    "P(Ace) = 4/52 = 1/13;  P(Ace or King) = 8/52 = 2/13",
+    "Sum = 1800 degrees; Each interior angle = 150 degrees (54 diagonals)",
+    "x^2 - S*x + P = 0",
+    "SD(aX + b) = |a| * SD(X)  and  Var(aX + b) = a^2 * Var(X) (independent of shift b)"
+   ],
+   "answer": 1,
+   "explanation": "Regular Dodecagon (12 sides): Sum of Interior Angles and Measure of Each Interior Angle: Sum = 1800 degrees; Each interior angle = 150 degrees (54 diagonals). For n = 12, (n - 2) * 180 = 1800 degrees, 1800 / 12 = 150 degrees, and 12(9)/2 = 54 diagonals.",
+   "topic": "Mathematics — Geometry, Trigonometry, Algebra & Statistics",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "mathematics-daily-2026-10-28-77",
+   "question": "In competitive mathematics, what is the exact result or formula for 'Area Ratio of Two Similar Triangles ABC and DEF'?",
+   "options": [
+    "sqrt[(s - a)(s - b)(s - c)(s - d)] where s = (a + b + c + d) / 2",
+    "Area(ABC) / Area(DEF) = (AB / DE)^2 = (BC / EF)^2 = (AC / DF)^2 (square of the ratio of corresponding sides, medians or altitudes)",
+    "a + b (achieved at sin^2(theta) = 1, since sin^2(theta) <= 1)",
+    "SD(aX + b) = |a| * SD(X)  and  Var(aX + b) = a^2 * Var(X) (independent of shift b)"
+   ],
+   "answer": 1,
+   "explanation": "Area Ratio of Two Similar Triangles ABC and DEF: Area(ABC) / Area(DEF) = (AB / DE)^2 = (BC / EF)^2 = (AC / DF)^2 (square of the ratio of corresponding sides, medians or altitudes). Linear dimensions scale as k while areas scale as k^2 and volumes scale as k^3.",
+   "topic": "Mathematics — Geometry, Trigonometry, Algebra & Statistics",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "mathematics-daily-2026-10-29-02",
+   "question": "In competitive mathematics, what is the exact formula or value for 'Euler's Polyhedral Formula for any Convex Polyhedron'?",
+   "options": [
+    "2 tan(A) / (1 - tan^2(A))",
+    "(n - 2) * 180 degrees",
+    "V - E + F = 2 (Vertices minus Edges plus Faces equals 2)",
+    "((x1 + x2 + x3) / 3, (y1 + y2 + y3) / 3)"
+   ],
+   "answer": 2,
+   "explanation": "Euler's Polyhedral Formula for any Convex Polyhedron: V - E + F = 2 (Vertices minus Edges plus Faces equals 2) (topological invariant holding for all convex polyhedra such as tetrahedron, cube and icosahedron).",
+   "topic": "Competitive Mathematics — Algebra, Trigonometry, Geometry & Mensuration",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "mathematics-daily-2026-10-29-27",
+   "question": "According to Heron's formula for a triangle with sides a, b, c and semi-perimeter s = (a + b + c)/2, what is the area of the triangle?",
+   "options": [
+    "sqrt[s(s - a)(s - b)(s - c)]",
+    "sec^2(theta) - tan^2(theta) = 1",
+    "[n(n + 1) / 2]^2",
+    "4 times"
+   ],
+   "answer": 0,
+   "explanation": "Heron's formula expresses the area of any triangle in terms of its side lengths a, b, c and semi-perimeter s as the square root of s(s - a)(s - b)(s - c).",
+   "topic": "Applied Mathematics & Quantitative Problem Solving",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "mathematics-daily-2026-10-29-52",
+   "question": "In competitive mathematics, what is the exact formula or value for 'Total Number of Diagonals in an n-sided Convex Polygon'?",
+   "options": [
+    "[(n - 2) * 180] / n degrees (or 180 - 360/n degrees)",
+    "alpha + beta = -b/a and alpha * beta = c/a",
+    "Mode = 3 * Median - 2 * Mean",
+    "n(n - 3) / 2"
+   ],
+   "answer": 3,
+   "explanation": "Total Number of Diagonals in an n-sided Convex Polygon: n(n - 3) / 2 (choosing any 2 of n vertices gives nC2 segments, minus the n sides of the polygon).",
+   "topic": "Competitive Mathematics — Algebra, Trigonometry, Geometry & Mensuration",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "mathematics-daily-2026-10-29-77",
+   "question": "In mensuration, if the radius of a sphere is doubled, by what factor does its volume (4/3 * pi * r^3) increase?",
+   "options": [
+    "n(n + 1)(2n + 1) / 6",
+    "8 times",
+    "n(A) + n(B) - n(A intersection B)",
+    "HCF(a, b) x LCM(a, b) = a x b"
+   ],
+   "answer": 1,
+   "explanation": "Because the volume of a sphere is (4/3) * pi * r^3 (proportional to the cube of the radius), doubling r increases the volume by 2^3 = 8 times.",
+   "topic": "Applied Mathematics & Quantitative Problem Solving",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "mathematics-daily-2026-10-30-02",
+   "question": "In competitive mathematics, what is the exact result or formula for 'Area of a Regular Hexagon of Side Length 'a''?",
+   "options": [
+    "Sum = 1080 degrees; Each interior angle = 135 degrees (20 diagonals)",
+    "(sqrt(6) + sqrt(2)) / 4  (or (sqrt(3) + 1) / (2 * sqrt(2)))",
+    "G^2 = A * H  and  A >= G >= H",
+    "(3 * sqrt(3) / 2) * a^2 (equal to 6 equilateral triangles of side a)"
+   ],
+   "answer": 3,
+   "explanation": "Area of a Regular Hexagon of Side Length 'a': (3 * sqrt(3) / 2) * a^2 (equal to 6 equilateral triangles of side a). A regular hexagon is composed of 6 congruent equilateral triangles, each of area (sqrt(3)/4) * a^2.",
+   "topic": "Mathematics — Geometry, Trigonometry, Algebra & Statistics",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "mathematics-daily-2026-10-30-27",
+   "question": "In competitive mathematics, what is the exact formula or value for 'Nth Term and Sum of n Terms of an Arithmetic Progression (first term a, common difference d)'?",
+   "options": [
+    "3 * pi * r^2 (2 * pi * r^2 curved surface + pi * r^2 circular base)",
+    "2 tan(A) / (1 - tan^2(A))",
+    "T_n = a + (n - 1)d and S_n = (n/2)[2a + (n - 1)d]",
+    "a / sin(A) = b / sin(B) = c / sin(C) = 2R"
+   ],
+   "answer": 2,
+   "explanation": "Nth Term and Sum of n Terms of an Arithmetic Progression (first term a, common difference d): T_n = a + (n - 1)d and S_n = (n/2)[2a + (n - 1)d] (foundational progression formulas for evenly spaced sequences).",
+   "topic": "Competitive Mathematics — Algebra, Trigonometry, Geometry & Mensuration",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "mathematics-daily-2026-10-30-52",
+   "question": "In competitive mathematics, what is the exact result or formula for 'Alternate Segment Theorem in Circle Geometry'?",
+   "options": [
+    "AC * BD = (AB * CD) + (BC * DA)",
+    "2 * sqrt(a * b) (by the AM-GM inequality)",
+    "P(Ace) = 4/52 = 1/13;  P(Ace or King) = 8/52 = 2/13",
+    "The angle between a tangent and a chord through the point of contact equals the angle subtended by the chord in the alternate segment"
+   ],
+   "answer": 3,
+   "explanation": "Alternate Segment Theorem in Circle Geometry: The angle between a tangent and a chord through the point of contact equals the angle subtended by the chord in the alternate segment. Fundamental circle tangent property in Euclidean geometry.",
+   "topic": "Mathematics — Geometry, Trigonometry, Algebra & Statistics",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "mathematics-daily-2026-10-30-77",
+   "question": "In competitive mathematics, what is the exact result or formula for 'Intersecting Chords Theorem (Internal and External Secant-Tangent Power of a Point)'?",
+   "options": [
+    "Sum = 1080 degrees; Each interior angle = 135 degrees (20 diagonals)",
+    "x^2 + (1 / x^2) = k^2 - 2  and  x^3 + (1 / x^3) = k^3 - 3k",
+    "Sum = 1440 degrees; Each interior angle = 144 degrees (35 diagonals)",
+    "PA * PB = PC * PD (for chords/secants) and PT^2 = PA * PB (for tangent PT and secant PAB)"
+   ],
+   "answer": 3,
+   "explanation": "Intersecting Chords Theorem (Internal and External Secant-Tangent Power of a Point): PA * PB = PC * PD (for chords/secants) and PT^2 = PA * PB (for tangent PT and secant PAB). Classic circle geometry theorem tested in SSC CGL Tier-II and CDS mathematics.",
+   "topic": "Mathematics — Geometry, Trigonometry, Algebra & Statistics",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "mathematics-daily-2026-10-31-02",
+   "question": "In competitive mathematics, what is the exact result or formula for 'Exact Value of tan(15 degrees) and cot(75 degrees)'?",
+   "options": [
+    "AC * BD = (AB * CD) + (BC * DA)",
+    "2 - sqrt(3)",
+    "PA * PB = PC * PD (for chords/secants) and PT^2 = PA * PB (for tangent PT and secant PAB)",
+    "SD(aX + b) = |a| * SD(X)  and  Var(aX + b) = a^2 * Var(X) (independent of shift b)"
+   ],
+   "answer": 1,
+   "explanation": "Exact Value of tan(15 degrees) and cot(75 degrees): 2 - sqrt(3). Using tan(45 - 30) = (tan 45 - tan 30) / (1 + tan 45 * tan 30) = (sqrt(3) - 1)/(sqrt(3) + 1) = 2 - sqrt(3).",
+   "topic": "Mathematics — Geometry, Trigonometry, Algebra & Statistics",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "mathematics-daily-2026-10-31-27",
+   "question": "In competitive mathematics, what is the exact result or formula for 'If x - (1 / x) = k, then the Values of x^2 + (1 / x^2) and x^3 - (1 / x^3)'?",
+   "options": [
+    "x^2 + (1 / x^2) = k^2 + 2  and  x^3 - (1 / x^3) = k^3 + 3k",
+    "2 * sqrt(a * b) (by the AM-GM inequality)",
+    "Sum = 540 degrees; Each interior angle = 108 degrees (5 diagonals)",
+    "BD / DC = AB / AC"
+   ],
+   "answer": 0,
+   "explanation": "If x - (1 / x) = k, then the Values of x^2 + (1 / x^2) and x^3 - (1 / x^3): x^2 + (1 / x^2) = k^2 + 2  and  x^3 - (1 / x^3) = k^3 + 3k. Obtained by squaring and cubing (x - 1/x) = k respectively.",
+   "topic": "Mathematics — Geometry, Trigonometry, Algebra & Statistics",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "mathematics-daily-2026-10-31-52",
+   "question": "In competitive mathematics, what is the exact formula or value for 'Altitude (Height) of an Equilateral Triangle of side 'a''?",
+   "options": [
+    "c^2 = a^2 + b^2 - 2ab cos(C)",
+    "a / sin(A) = b / sin(B) = c / sin(C) = 2R",
+    "R : r = 2 : 1 (where R = a / sqrt(3) and r = a / (2 * sqrt(3)))",
+    "(sqrt(3) / 2) * a"
+   ],
+   "answer": 3,
+   "explanation": "Altitude (Height) of an Equilateral Triangle of side 'a': (sqrt(3) / 2) * a (dividing an equilateral triangle along its altitude forms two 30-60-90 right triangles).",
+   "topic": "Competitive Mathematics — Algebra, Trigonometry, Geometry & Mensuration",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "mathematics-daily-2026-10-31-77",
+   "question": "In competitive mathematics, what is the exact formula or value for 'Each Interior Angle of a Regular n-sided Polygon'?",
+   "options": [
+    "(sqrt(3) / 2) * a",
+    "(sqrt(3) / 4) * a^2",
+    "[(n - 2) * 180] / n degrees (or 180 - 360/n degrees)",
+    "(1/3) * pi * h * (R^2 + r^2 + R*r)"
+   ],
+   "answer": 2,
+   "explanation": "Each Interior Angle of a Regular n-sided Polygon: [(n - 2) * 180] / n degrees (or 180 - 360/n degrees) (since all interior angles are equal and each exterior angle is 360/n degrees).",
+   "topic": "Competitive Mathematics — Algebra, Trigonometry, Geometry & Mensuration",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
   }
  ]
 };

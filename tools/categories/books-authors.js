@@ -11,7 +11,7 @@
   "ssc-chsl"
  ],
  "blurb": "Famous books and their authors.",
- "count": 264,
+ "count": 300,
  "questions": [
   {
    "id": "books-authors-00001",
@@ -3976,6 +3976,582 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-22"
+  },
+  {
+   "id": "books-authors-daily-2026-10-23-23",
+   "question": "In literature and competitive exams, who is the author of the celebrated work 'The Republic'?",
+   "options": [
+    "Plato",
+    "Valmiki",
+    "Charles Dickens",
+    "Nelson Mandela"
+   ],
+   "answer": 0,
+   "explanation": "The book 'The Republic' was written by Plato.",
+   "topic": "Books & Authors — Classic & Modern Literary Works",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "books-authors-daily-2026-10-23-48",
+   "question": "In literature and competitive exams, who is the author of the celebrated work 'Raag Darbari'?",
+   "options": [
+    "Shrilal Shukla",
+    "Milkha Singh",
+    "Munshi Premchand",
+    "Vishnu Sharma"
+   ],
+   "answer": 0,
+   "explanation": "The book 'Raag Darbari' was written by Shrilal Shukla.",
+   "topic": "Books & Authors — Classic & Modern Literary Works",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "books-authors-daily-2026-10-23-73",
+   "question": "In literature and competitive exams, who is the author of the celebrated work 'Autobiography of a Yogi'?",
+   "options": [
+    "Paramahansa Yogananda",
+    "William Shakespeare",
+    "Jawaharlal Nehru",
+    "Charles Dickens"
+   ],
+   "answer": 0,
+   "explanation": "The book 'Autobiography of a Yogi' was written by Paramahansa Yogananda.",
+   "topic": "Books & Authors — Classic & Modern Literary Works",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "books-authors-daily-2026-10-23-98",
+   "question": "Who is the author of the book 'Ambedkar: A Life', which was recently featured in literary news and competitive exams?",
+   "options": [
+    "S. Jaishankar",
+    "Shashi Tharoor",
+    "Salman Rushdie",
+    "Duvvuri Subbarao"
+   ],
+   "answer": 1,
+   "explanation": "'Ambedkar: A Life' (biographical study of Dr B. R. Ambedkar's constitutional philosophy, social reform struggles and intellectual legacy) was written by Shashi Tharoor.",
+   "topic": "Books & Authors in Recent News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-23"
+  },
+  {
+   "id": "books-authors-daily-2026-10-24-23",
+   "question": "In literature and competitive exams, who is the author of the celebrated work 'The Jungle Book'?",
+   "options": [
+    "Charles Darwin",
+    "Kalidasa",
+    "Leo Tolstoy",
+    "Rudyard Kipling"
+   ],
+   "answer": 3,
+   "explanation": "The book 'The Jungle Book' was written by Rudyard Kipling.",
+   "topic": "Books & Authors — Classic & Modern Literary Works",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "books-authors-daily-2026-10-24-48",
+   "question": "In literature and competitive exams, who is the author of the celebrated work 'Wings of Fire'?",
+   "options": [
+    "A. P. J. Abdul Kalam",
+    "Jonathan Swift",
+    "Jawaharlal Nehru",
+    "Nelson Mandela"
+   ],
+   "answer": 0,
+   "explanation": "The book 'Wings of Fire' was written by A. P. J. Abdul Kalam.",
+   "topic": "Books & Authors — Classic & Modern Literary Works",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "books-authors-daily-2026-10-24-73",
+   "question": "Who is the author of the book 'Why Bharat Matters', which was recently featured in literary news and competitive exams?",
+   "options": [
+    "S. Jaishankar",
+    "Paul Lynch",
+    "Amitav Ghosh",
+    "Salman Rushdie"
+   ],
+   "answer": 0,
+   "explanation": "'Why Bharat Matters' (foreign-policy analysis examining India's diplomatic rise in a turbulent multipolar world through the lens of the Ramayana) was written by S. Jaishankar.",
+   "topic": "Books & Authors in Recent News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "books-authors-daily-2026-10-24-98",
+   "question": "In literature and competitive exams, who is the author of the celebrated work 'Abhijnanashakuntalam'?",
+   "options": [
+    "Milkha Singh",
+    "Rabindranath Tagore",
+    "Kalidasa",
+    "Phanishwar Nath Renu"
+   ],
+   "answer": 2,
+   "explanation": "The book 'Abhijnanashakuntalam' was written by Kalidasa.",
+   "topic": "Books & Authors — Classic & Modern Literary Works",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-24"
+  },
+  {
+   "id": "books-authors-daily-2026-10-25-23",
+   "question": "In literature and competitive exams, who is the author of the celebrated work 'Discovery of India'?",
+   "options": [
+    "Dante Alighieri",
+    "Karl Marx and Friedrich Engels",
+    "Jawaharlal Nehru",
+    "Rabindranath Tagore"
+   ],
+   "answer": 2,
+   "explanation": "The book 'Discovery of India' was written by Jawaharlal Nehru.",
+   "topic": "Books & Authors — Classic & Modern Literary Works",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "books-authors-daily-2026-10-25-48",
+   "question": "Who is the author of the book 'Knife: Meditations After an Attempted Murder', which was recently featured in literary news and competitive exams?",
+   "options": [
+    "General Manoj Mukund Naravane",
+    "Kalpana Sankar",
+    "Salman Rushdie",
+    "Geetanjali Shree (translated by Daisy Rockwell)"
+   ],
+   "answer": 2,
+   "explanation": "'Knife: Meditations After an Attempted Murder' (memoir recounting the 2022 attack on the author in New York and his recovery through art and resilience) was written by Salman Rushdie.",
+   "topic": "Books & Authors in Recent News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "books-authors-daily-2026-10-25-73",
+   "question": "In literature and competitive exams, who is the author of the celebrated work 'Mein Kampf'?",
+   "options": [
+    "Adolf Hitler",
+    "Nelson Mandela",
+    "Jane Austen",
+    "Shrilal Shukla"
+   ],
+   "answer": 0,
+   "explanation": "The book 'Mein Kampf' was written by Adolf Hitler.",
+   "topic": "Books & Authors — Classic & Modern Literary Works",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "books-authors-daily-2026-10-25-98",
+   "question": "Who is the author of the book 'Tomb of Sand (Ret Samadhi)', which was recently featured in literary news and competitive exams?",
+   "options": [
+    "Geetanjali Shree (translated by Daisy Rockwell)",
+    "Salman Rushdie",
+    "S. Jaishankar",
+    "Shashi Tharoor"
+   ],
+   "answer": 0,
+   "explanation": "'Tomb of Sand (Ret Samadhi)' (first Hindi-language novel to win the International Booker Prize, following an 80-year-old woman's journey after Partition) was written by Geetanjali Shree (translated by Daisy Rockwell).",
+   "topic": "Books & Authors in Recent News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-25"
+  },
+  {
+   "id": "books-authors-daily-2026-10-26-23",
+   "question": "In literature and competitive exams, who is the author of the celebrated work 'Maila Anchal'?",
+   "options": [
+    "Rabindranath Tagore",
+    "Phanishwar Nath Renu",
+    "Maulana Abul Kalam Azad",
+    "Shrilal Shukla"
+   ],
+   "answer": 1,
+   "explanation": "The book 'Maila Anchal' was written by Phanishwar Nath Renu.",
+   "topic": "Books & Authors — Classic & Modern Literary Works",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "books-authors-daily-2026-10-26-48",
+   "question": "In literature and competitive exams, who is the author of the celebrated work 'Unbreakable'?",
+   "options": [
+    "Mary Kom",
+    "Jawaharlal Nehru",
+    "Sigmund Freud",
+    "Munshi Premchand"
+   ],
+   "answer": 0,
+   "explanation": "The book 'Unbreakable' was written by Mary Kom.",
+   "topic": "Books & Authors — Classic & Modern Literary Works",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "books-authors-daily-2026-10-26-73",
+   "question": "In literature and competitive exams, who is the author of the celebrated work 'Pride and Prejudice'?",
+   "options": [
+    "Leo Tolstoy",
+    "John Milton",
+    "Jane Austen",
+    "Arundhati Roy"
+   ],
+   "answer": 2,
+   "explanation": "The book 'Pride and Prejudice' was written by Jane Austen.",
+   "topic": "Books & Authors — Classic & Modern Literary Works",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "books-authors-daily-2026-10-26-98",
+   "question": "In literature and competitive exams, who is the author of the celebrated work 'Gulliver's Travels'?",
+   "options": [
+    "Jonathan Swift",
+    "Mary Kom",
+    "Charles Darwin",
+    "Jawaharlal Nehru"
+   ],
+   "answer": 0,
+   "explanation": "The book 'Gulliver's Travels' was written by Jonathan Swift.",
+   "topic": "Books & Authors — Classic & Modern Literary Works",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-26"
+  },
+  {
+   "id": "books-authors-daily-2026-10-27-23",
+   "question": "In literature and competitive exams, who is the author of the celebrated work 'Paradise Lost'?",
+   "options": [
+    "Mary Kom",
+    "Munshi Premchand",
+    "Valmiki",
+    "John Milton"
+   ],
+   "answer": 3,
+   "explanation": "The book 'Paradise Lost' was written by John Milton.",
+   "topic": "Books & Authors — Classic & Modern Literary Works",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "books-authors-daily-2026-10-27-48",
+   "question": "In literature and competitive exams, who is the author of the celebrated work 'The Race of My Life'?",
+   "options": [
+    "Milkha Singh",
+    "Ved Vyasa",
+    "Adam Smith",
+    "Stephen Hawking"
+   ],
+   "answer": 0,
+   "explanation": "The book 'The Race of My Life' was written by Milkha Singh.",
+   "topic": "Books & Authors — Classic & Modern Literary Works",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "books-authors-daily-2026-10-27-73",
+   "question": "Who is the author of the book 'Kairos', which was recently featured in literary news and competitive exams?",
+   "options": [
+    "Raghuram Rajan and Rohit Lamba",
+    "Jenny Erpenbeck (translated by Michael Hofmann)",
+    "Alpna Killawala",
+    "S. Jaishankar"
+   ],
+   "answer": 1,
+   "explanation": "'Kairos' (International Booker Prize-winning novel set in East Berlin during the collapse of the German Democratic Republic) was written by Jenny Erpenbeck (translated by Michael Hofmann).",
+   "topic": "Books & Authors in Recent News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "books-authors-daily-2026-10-27-98",
+   "question": "In literature and competitive exams, who is the author of the celebrated work 'Playing It My Way'?",
+   "options": [
+    "Charles Darwin",
+    "Karl Marx",
+    "A. P. J. Abdul Kalam",
+    "Sachin Tendulkar"
+   ],
+   "answer": 3,
+   "explanation": "The book 'Playing It My Way' was written by Sachin Tendulkar.",
+   "topic": "Books & Authors — Classic & Modern Literary Works",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-27"
+  },
+  {
+   "id": "books-authors-daily-2026-10-28-23",
+   "question": "Who is the author of the book 'Western Lane', which was recently featured in literary news and competitive exams?",
+   "options": [
+    "Jenny Erpenbeck (translated by Michael Hofmann)",
+    "Amitav Ghosh",
+    "Alpna Killawala",
+    "Chetna Maroo"
+   ],
+   "answer": 3,
+   "explanation": "'Western Lane' (Booker-shortlisted debut novel following an eleven-year-old British Gujarati girl processing grief through squash) was written by Chetna Maroo.",
+   "topic": "Books & Authors in Recent News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "books-authors-daily-2026-10-28-48",
+   "question": "In literature and competitive exams, who is the author of the celebrated work 'Mother'?",
+   "options": [
+    "Charles Darwin",
+    "Karl Marx and Friedrich Engels",
+    "A. P. J. Abdul Kalam",
+    "Maxim Gorky"
+   ],
+   "answer": 3,
+   "explanation": "The book 'Mother' was written by Maxim Gorky.",
+   "topic": "Books & Authors — Classic & Modern Literary Works",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "books-authors-daily-2026-10-28-73",
+   "question": "Who is the author of the book 'Breaking the Mould: Reimagining India's Economic Future', which was recently featured in literary news and competitive exams?",
+   "options": [
+    "S. Jaishankar",
+    "Salman Rushdie",
+    "Raghuram Rajan and Rohit Lamba",
+    "Amitav Ghosh"
+   ],
+   "answer": 2,
+   "explanation": "'Breaking the Mould: Reimagining India's Economic Future' (economic treatise proposing human-capital and high-value services-led growth for India) was written by Raghuram Rajan and Rohit Lamba.",
+   "topic": "Books & Authors in Recent News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "books-authors-daily-2026-10-28-98",
+   "question": "In literature and competitive exams, who is the author of the celebrated work 'Oliver Twist'?",
+   "options": [
+    "Adolf Hitler",
+    "Karl Marx",
+    "Jonathan Swift",
+    "Charles Dickens"
+   ],
+   "answer": 3,
+   "explanation": "The book 'Oliver Twist' was written by Charles Dickens.",
+   "topic": "Books & Authors — Classic & Modern Literary Works",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-28"
+  },
+  {
+   "id": "books-authors-daily-2026-10-29-23",
+   "question": "In literature and competitive exams, who is the author of the celebrated work 'On the Origin of Species'?",
+   "options": [
+    "A. P. J. Abdul Kalam",
+    "Charles Dickens",
+    "Charles Darwin",
+    "Sachin Tendulkar"
+   ],
+   "answer": 2,
+   "explanation": "The book 'On the Origin of Species' was written by Charles Darwin.",
+   "topic": "Books & Authors — Classic & Modern Literary Works",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "books-authors-daily-2026-10-29-48",
+   "question": "Who is the author of the book 'Victory City', which was recently featured in literary news and competitive exams?",
+   "options": [
+    "Kalpana Sankar",
+    "Salman Rushdie",
+    "Chetna Maroo",
+    "Jenny Erpenbeck (translated by Michael Hofmann)"
+   ],
+   "answer": 1,
+   "explanation": "'Victory City' (epic historical fiction retelling the rise and fall of the medieval Vijayanagara-inspired Bisnaga empire) was written by Salman Rushdie.",
+   "topic": "Books & Authors in Recent News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "books-authors-daily-2026-10-29-73",
+   "question": "In literature and competitive exams, who is the author of the celebrated work 'Gitanjali (Song Offerings)'?",
+   "options": [
+    "Ved Vyasa",
+    "Stephen Hawking",
+    "Rabindranath Tagore",
+    "Homer"
+   ],
+   "answer": 2,
+   "explanation": "The book 'Gitanjali (Song Offerings)' was written by Rabindranath Tagore.",
+   "topic": "Books & Authors — Classic & Modern Literary Works",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "books-authors-daily-2026-10-29-98",
+   "question": "In literature and competitive exams, who is the author of the celebrated work 'The Odyssey'?",
+   "options": [
+    "Rabindranath Tagore",
+    "Sarojini Naidu",
+    "Valmiki",
+    "Homer"
+   ],
+   "answer": 3,
+   "explanation": "The book 'The Odyssey' was written by Homer.",
+   "topic": "Books & Authors — Classic & Modern Literary Works",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-29"
+  },
+  {
+   "id": "books-authors-daily-2026-10-30-23",
+   "question": "In literature and competitive exams, who is the author of the celebrated work 'Long Walk to Freedom'?",
+   "options": [
+    "Jawaharlal Nehru",
+    "Paramahansa Yogananda",
+    "Nelson Mandela",
+    "Munshi Premchand"
+   ],
+   "answer": 2,
+   "explanation": "The book 'Long Walk to Freedom' was written by Nelson Mandela.",
+   "topic": "Books & Authors — Classic & Modern Literary Works",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "books-authors-daily-2026-10-30-48",
+   "question": "In literature and competitive exams, who is the author of the celebrated work 'Godaan'?",
+   "options": [
+    "Karl Marx",
+    "Munshi Premchand",
+    "Milkha Singh",
+    "Kalidasa"
+   ],
+   "answer": 1,
+   "explanation": "The book 'Godaan' was written by Munshi Premchand.",
+   "topic": "Books & Authors — Classic & Modern Literary Works",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "books-authors-daily-2026-10-30-73",
+   "question": "Who is the author of the book 'Just a Mercenary?: Notes from My Life and Career', which was recently featured in literary news and competitive exams?",
+   "options": [
+    "Salman Rushdie",
+    "Duvvuri Subbarao",
+    "Paul Lynch",
+    "Kalpana Sankar"
+   ],
+   "answer": 1,
+   "explanation": "'Just a Mercenary?: Notes from My Life and Career' (memoir by the former RBI Governor reflecting on civil service, finance ministry work and central bank autonomy) was written by Duvvuri Subbarao.",
+   "topic": "Books & Authors in Recent News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "books-authors-daily-2026-10-30-98",
+   "question": "In literature and competitive exams, who is the author of the celebrated work 'The Divine Comedy'?",
+   "options": [
+    "Nelson Mandela",
+    "Stephen Hawking",
+    "William Shakespeare",
+    "Dante Alighieri"
+   ],
+   "answer": 3,
+   "explanation": "The book 'The Divine Comedy' was written by Dante Alighieri.",
+   "topic": "Books & Authors — Classic & Modern Literary Works",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-30"
+  },
+  {
+   "id": "books-authors-daily-2026-10-31-23",
+   "question": "In literature and competitive exams, who is the author of the celebrated work 'My Experiments with Truth'?",
+   "options": [
+    "Charles Dickens",
+    "Plato",
+    "Mahatma Gandhi",
+    "Helen Keller"
+   ],
+   "answer": 2,
+   "explanation": "The book 'My Experiments with Truth' was written by Mahatma Gandhi.",
+   "topic": "Books & Authors — Classic & Modern Literary Works",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "books-authors-daily-2026-10-31-48",
+   "question": "In literature and competitive exams, who is the author of the celebrated work 'Romeo and Juliet'?",
+   "options": [
+    "Salman Rushdie",
+    "Karl Marx and Friedrich Engels",
+    "Charles Darwin",
+    "William Shakespeare"
+   ],
+   "answer": 3,
+   "explanation": "The book 'Romeo and Juliet' was written by William Shakespeare.",
+   "topic": "Books & Authors — Classic & Modern Literary Works",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "books-authors-daily-2026-10-31-73",
+   "question": "In literature and competitive exams, who is the author of the celebrated work 'Panchatantra'?",
+   "options": [
+    "Milkha Singh",
+    "Rabindranath Tagore",
+    "Vishnu Sharma",
+    "Adam Smith"
+   ],
+   "answer": 2,
+   "explanation": "The book 'Panchatantra' was written by Vishnu Sharma.",
+   "topic": "Books & Authors — Classic & Modern Literary Works",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "books-authors-daily-2026-10-31-98",
+   "question": "In literature and competitive exams, who is the author of the celebrated work 'Das Kapital'?",
+   "options": [
+    "Karl Marx",
+    "William Shakespeare",
+    "Plato",
+    "Charles Dickens"
+   ],
+   "answer": 0,
+   "explanation": "The book 'Das Kapital' was written by Karl Marx.",
+   "topic": "Books & Authors — Classic & Modern Literary Works",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-10-31"
   }
  ]
 };
