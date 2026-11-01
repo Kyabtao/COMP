@@ -12,7 +12,7 @@
   "banking"
  ],
  "blurb": "Arithmetic, percentages, interest, ratios and mensuration.",
- "count": 1546,
+ "count": 1550,
  "questions": [
   {
    "id": "quantitative-aptitude-00001",
@@ -23249,6 +23249,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "quantitative-aptitude-daily-2026-11-01-04",
+   "question": "In quantitative aptitude, what is the standard formula or value for 'Compound Interest Doubling and Power-of-2 Rule'?",
+   "options": [
+    "16 2/3 % = 1/6  and  83 1/3 % = 5/6",
+    "[(x - y) / y] * 100% (profit when x > y; loss when x < y)",
+    "(r + (r^2 / 400))% per annum (since the half-yearly rate is r/2 % applied twice)",
+    "If a sum becomes 2 times in T years under Compound Interest, it becomes 2^m times of itself in (m * T) years"
+   ],
+   "answer": 3,
+   "explanation": "Compound Interest Doubling and Power-of-2 Rule: If a sum becomes 2 times in T years under Compound Interest, it becomes 2^m times of itself in (m * T) years. Under Compound Interest, the principal multiplies by the same factor every T-year period.",
+   "topic": "Quantitative Aptitude — Percentages, Interest, Work, Speed & Number Rules",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "quantitative-aptitude-daily-2026-11-01-29",
+   "question": "In quantitative aptitude exams, how is 'Difference Between Compound Interest and Simple Interest for 3 Years on Principal P at R% p.a.' calculated or expressed?",
+   "options": [
+    "Speed_1 : Speed_2 = sqrt(t2) : sqrt(t1)",
+    "(x * y * z) / (xy + yz + zx) days",
+    "P * (R / 100)^2 * (3 + R / 100)",
+    "(x + y - (x * y) / 100)%"
+   ],
+   "answer": 2,
+   "explanation": "Difference Between Compound Interest and Simple Interest for 3 Years on Principal P at R% p.a.: P * (R / 100)^2 * (3 + R / 100) (standard shortcut used in banking and SSC aptitude papers for 3-year CI-SI problems).",
+   "topic": "Quantitative Aptitude — Commercial Arithmetic, Work, Time & Numbers",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "quantitative-aptitude-daily-2026-11-01-54",
+   "question": "In quantitative aptitude, what is the standard formula or value for 'Simple Interest Doubling and k-Fold Rule'?",
+   "options": [
+    "14 2/7 % = 1/7  and  28 4/7 % = 2/7",
+    "Period of 4 (unit digits repeat every 4th power; divide exponent by 4 to find the cycle position)",
+    "(S1 + S2) when moving in opposite directions; |S1 - S2| when moving in the same direction",
+    "If a sum doubles in T years under Simple Interest, it becomes k times of itself in (k - 1) * T years"
+   ],
+   "answer": 3,
+   "explanation": "Simple Interest Doubling and k-Fold Rule: If a sum doubles in T years under Simple Interest, it becomes k times of itself in (k - 1) * T years. Under Simple Interest, interest earned is constant each year; doubling adds 1P in T years, so (k-1)P takes (k-1)T years.",
+   "topic": "Quantitative Aptitude — Percentages, Interest, Work, Speed & Number Rules",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "quantitative-aptitude-daily-2026-11-01-79",
+   "question": "In quantitative aptitude, what is the standard formula or value for 'Profit Percentage When the Cost Price of x Articles Equals the Selling Price of y Articles'?",
+   "options": [
+    "If a sum becomes 2 times in T years under Compound Interest, it becomes 2^m times of itself in (m * T) years",
+    "A number is divisible by 9 (or 3) if and only if the sum of its digits is divisible by 9 (or 3)",
+    "[(x - y) / y] * 100% (profit when x > y; loss when x < y)",
+    "(r + (r^2 / 400))% per annum (since the half-yearly rate is r/2 % applied twice)"
+   ],
+   "answer": 2,
+   "explanation": "Profit Percentage When the Cost Price of x Articles Equals the Selling Price of y Articles: [(x - y) / y] * 100% (profit when x > y; loss when x < y). Because CP * x = SP * y implies SP / CP = x / y, so gain% = (x - y)/y * 100%.",
+   "topic": "Quantitative Aptitude — Percentages, Interest, Work, Speed & Number Rules",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
   }
  ]
 };

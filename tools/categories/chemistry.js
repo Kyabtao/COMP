@@ -11,7 +11,7 @@
   "railways"
  ],
  "blurb": "Elements, acids, bases, salts and chemical names.",
- "count": 262,
+ "count": 266,
  "questions": [
   {
    "id": "chemistry-00001",
@@ -3982,6 +3982,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "chemistry-daily-2026-11-01-07",
+   "question": "Which chemical compound or substance is specifically used for 'Airbag rapid inflation in automobiles during a collision impact'?",
+   "options": [
+    "Sodium Azide (NaN3)",
+    "Kevlar (Poly-paraphenylene terephthalamide)",
+    "Formalin (aqueous Formaldehyde solution)",
+    "Silver Nitrate (AgNO3)"
+   ],
+   "answer": 0,
+   "explanation": "Sodium Azide (NaN3) (an inorganic salt that decomposes thermally on impact to release harmless nitrogen gas within milliseconds) is used for Airbag rapid inflation in automobiles during a collision impact.",
+   "topic": "Chemistry in Everyday Life & Industry",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "chemistry-daily-2026-11-01-32",
+   "question": "In chemistry, what is the key composition, catalyst or property of 'Bronze, Brass and German Silver Alloys'?",
+   "options": [
+    "Vanadium pentoxide (V2O5) catalyst",
+    "Bronze = Copper + Tin (Cu + Sn); Brass = Copper + Zinc (Cu + Zn); German Silver = Copper + Zinc + Nickel (contains 0% silver)",
+    "Electrolytic process forming a thick protective layer of Aluminium Oxide (Al2O3) on aluminium where the article acts as the anode",
+    "Boyle's: P prop 1/V (at constant T); Charles's: V prop T (at constant P); Avogadro's: V prop n (at constant T and P)"
+   ],
+   "answer": 1,
+   "explanation": "Bronze, Brass and German Silver Alloys — Bronze = Copper + Tin (Cu + Sn); Brass = Copper + Zinc (Cu + Zn); German Silver = Copper + Zinc + Nickel (contains 0% silver) (frequently tested alloy compositions in SSC and Railway science papers).",
+   "topic": "Core Chemistry — Reactions, Metallurgy, Polymers & Solutions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "chemistry-daily-2026-11-01-57",
+   "question": "In the Modern Periodic Table, what is the atomic number (Z) of the chemical element Plutonium (symbol: Pu)?",
+   "options": [
+    "105",
+    "114",
+    "94",
+    "112"
+   ],
+   "answer": 2,
+   "explanation": "Plutonium (Pu) has atomic number 94 and is classified as a Actinide.",
+   "topic": "Chemistry — Modern Periodic Table & Elements",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "chemistry-daily-2026-11-01-82",
+   "question": "In chemical nomenclature, what is the chemical name and formula corresponding to 'Washing soda'?",
+   "options": [
+    "Sodium chloride (NaCl)",
+    "Acetylsalicylic acid",
+    "Calcium oxide (CaO)",
+    "Sodium carbonate (Na2CO3)"
+   ],
+   "answer": 3,
+   "explanation": "In chemistry, Washing soda is Sodium carbonate (Na2CO3).",
+   "topic": "Chemistry — Systematic & Common Chemical Names",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
   }
  ]
 };

@@ -11,7 +11,7 @@
   "railways"
  ],
  "blurb": "Ecology, pollution, climate agreements and wildlife.",
- "count": 321,
+ "count": 325,
  "questions": [
   {
    "id": "environmental-studies-00001",
@@ -4868,6 +4868,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "environmental-studies-daily-2026-11-01-16",
+   "question": "In environmental studies and ecology, what is 'Fluoride' associated with?",
+   "options": [
+    "Framework for climate action",
+    "Seventeen goals for people and planet by 2030",
+    "Causes fluorosis in excess",
+    "Protection of the ozone layer"
+   ],
+   "answer": 2,
+   "explanation": "Fluoride — Causes fluorosis in excess.",
+   "topic": "Environmental Studies — Global Conventions, Biosphere & Pollution",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "environmental-studies-daily-2026-11-01-41",
+   "question": "In Indian ecology and wildlife conservation, in which state or UT is 'Kamlang Tiger Reserve' situated?",
+   "options": [
+    "Arunachal Pradesh",
+    "Chhattisgarh",
+    "Bihar",
+    "West Bengal"
+   ],
+   "answer": 0,
+   "explanation": "Kamlang Tiger Reserve is located in Arunachal Pradesh.",
+   "topic": "Environmental Studies — National Parks & Wildlife Sanctuaries",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "environmental-studies-daily-2026-11-01-66",
+   "question": "In biodiversity conservation, the biosphere reserve or wetland site 'Point Calimere' is located in which Indian state?",
+   "options": [
+    "West Bengal",
+    "Tamil Nadu",
+    "Andhra Pradesh",
+    "Manipur"
+   ],
+   "answer": 1,
+   "explanation": "Point Calimere is located in Tamil Nadu.",
+   "topic": "Environmental Studies — Biosphere Reserves & Ramsar Wetlands",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "environmental-studies-daily-2026-11-01-91",
+   "question": "In environmental studies and ecology, what is 'International Solar Alliance' associated with?",
+   "options": [
+    "Cooperation on solar energy",
+    "Umbrella law for environmental protection",
+    "Control of diversion of forest land",
+    "Control of mercury emissions"
+   ],
+   "answer": 0,
+   "explanation": "International Solar Alliance — Cooperation on solar energy.",
+   "topic": "Environmental Studies — Global Conventions, Biosphere & Pollution",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
   }
  ]
 };

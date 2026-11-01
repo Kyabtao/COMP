@@ -12,7 +12,7 @@
   "banking"
  ],
  "blurb": "Voice, narration, articles, prepositions and error spotting.",
- "count": 320,
+ "count": 324,
  "questions": [
   {
    "id": "general-english-grammar-00001",
@@ -4853,6 +4853,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "general-english-grammar-daily-2026-11-01-09",
+   "question": "In standard English grammar for competitive exams: What is the indirect form of 'He said, What a lovely day!'?",
+   "options": [
+    "He exclaimed that it was a lovely day",
+    "If",
+    "A letter is written by him",
+    "Or"
+   ],
+   "answer": 0,
+   "explanation": "Grammar rule: What is the indirect form of 'He said, What a lovely day!'? — He exclaimed that it was a lovely day.",
+   "topic": "General English Grammar — Rules & Sentence Correction",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "general-english-grammar-daily-2026-11-01-34",
+   "question": "In English grammar, what is the superlative form of the adjective 'Noble' (comparative: 'Nobler')?",
+   "options": [
+    "Most important",
+    "Noblest",
+    "Most difficult",
+    "Most courageous"
+   ],
+   "answer": 1,
+   "explanation": "Positive: Noble, Comparative: Nobler, Superlative: Noblest.",
+   "topic": "General English Grammar — Degrees of Comparison, Plurals & Gender",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "general-english-grammar-daily-2026-11-01-59",
+   "question": "In English grammar, choose the appropriate preposition to complete the sentence: 'He complied ____ my request.'",
+   "options": [
+    "over",
+    "of",
+    "for",
+    "with"
+   ],
+   "answer": 3,
+   "explanation": "The grammatically correct preposition in 'He complied ____ my request.' is 'with'.",
+   "topic": "General English Grammar — Prepositional Usage",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "general-english-grammar-daily-2026-11-01-84",
+   "question": "In standard English grammar for competitive exams: What is the verb form of the noun 'strength'?",
+   "options": [
+    "School",
+    "Strengthen",
+    "Admission",
+    "Pronoun"
+   ],
+   "answer": 1,
+   "explanation": "Grammar rule: What is the verb form of the noun 'strength'? — Strengthen.",
+   "topic": "General English Grammar — Rules & Sentence Correction",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
   }
  ]
 };

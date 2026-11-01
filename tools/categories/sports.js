@@ -12,7 +12,7 @@
   "railways"
  ],
  "blurb": "Trophies, terms, players and tournaments.",
- "count": 300,
+ "count": 304,
  "questions": [
   {
    "id": "sports-00001",
@@ -4553,6 +4553,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "sports-daily-2026-11-01-21",
+   "question": "Who was named Player of the Tournament in the ICC Men's T20 World Cup 2024?",
+   "options": [
+    "Virat Kohli",
+    "Rohit Sharma",
+    "Jasprit Bumrah",
+    "Hardik Pandya"
+   ],
+   "answer": 2,
+   "explanation": "Indian fast bowler Jasprit Bumrah was named Player of the Tournament in the ICC Men's T20 World Cup 2024 after taking 15 wickets at an economy rate of 4.17, while Virat Kohli won Player of the Match in the final.",
+   "topic": "Cricket Tournaments",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "sports-daily-2026-11-01-46",
+   "question": "In competitive sports awareness, with which sport is the 'Duleep Trophy' associated?",
+   "options": [
+    "Hockey",
+    "Multi-sport",
+    "Football",
+    "Cricket"
+   ],
+   "answer": 3,
+   "explanation": "The Duleep Trophy is a major tournament or trophy in Cricket.",
+   "topic": "Sports — Major Trophies, Cups & Team Formats",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "sports-daily-2026-11-01-71",
+   "question": "Under official sporting regulations, how many players take the field on one side in 'Baseball'?",
+   "options": [
+    "11",
+    "8",
+    "9",
+    "6"
+   ],
+   "answer": 2,
+   "explanation": "In official rules, a Baseball team fields 9 players per side.",
+   "topic": "Sports — Players per Team in Official Disciplines",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "sports-daily-2026-11-01-96",
+   "question": "Which team, athlete or host city is associated with 'Rohan Bopanna at the 2024 Australian Open Men's Doubles' in recent sports news?",
+   "options": [
+    "Aichi-Nagoya, Japan",
+    "Grand Slam title with Matthew Ebden at age 43",
+    "Services Football Team (hosted in Yupia, Arunachal Pradesh)",
+    "Mumbai (captained by Ajinkya Rahane)"
+   ],
+   "answer": 1,
+   "explanation": "Rohan Bopanna at the 2024 Australian Open Men's Doubles — Grand Slam title with Matthew Ebden at age 43 (became the oldest first-time World No. 1 in ATP Doubles history and the oldest man in the Open Era to win a Grand Slam men's doubles title).",
+   "topic": "Sports Championships, Trophies & Venues in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
   }
  ]
 };

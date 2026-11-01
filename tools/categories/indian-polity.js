@@ -12,7 +12,7 @@
   "railways"
  ],
  "blurb": "Constitution, articles, amendments and institutions.",
- "count": 764,
+ "count": 768,
  "questions": [
   {
    "id": "indian-polity-00001",
@@ -11513,6 +11513,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "indian-polity-daily-2026-11-01-11",
+   "question": "In Indian governance and polity, how is 'NITI Aayog' constitutionally or statutorily described?",
+   "options": [
+    "Union legislature consisting of the President and two Houses",
+    "Supervises elections to Parliament and State legislatures",
+    "Policy think tank of the Government of India",
+    "Constitutional head of a State"
+   ],
+   "answer": 2,
+   "explanation": "NITI Aayog — Policy think tank of the Government of India.",
+   "topic": "Indian Polity — Constitutional & Statutory Bodies",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "indian-polity-daily-2026-11-01-36",
+   "question": "In Indian Constitutional Polity: Minimum age to become President of India?",
+   "options": [
+    "35 years",
+    "The Supreme Court collegium",
+    "250 members",
+    "30 years"
+   ],
+   "answer": 0,
+   "explanation": "Minimum age to become President of India — 35 years.",
+   "topic": "Indian Polity — Constitutional Governance & Facts",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "indian-polity-daily-2026-11-01-61",
+   "question": "Under the Constitution of India, which article or part deals with 'Cultural and Educational Rights'?",
+   "options": [
+    "Article 54",
+    "Articles 29-30",
+    "Article 18",
+    "Article 352"
+   ],
+   "answer": 1,
+   "explanation": "In the Indian Constitution, Cultural and Educational Rights is governed by Articles 29-30.",
+   "topic": "Indian Polity — Constitutional Articles & Provisions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "indian-polity-daily-2026-11-01-86",
+   "question": "In Indian governance and polity, how is 'Zilla Parishad' constitutionally or statutorily described?",
+   "options": [
+    "Union legislature consisting of the President and two Houses",
+    "Aids and advises the President",
+    "Regulator of the securities market",
+    "Local body at the district level"
+   ],
+   "answer": 3,
+   "explanation": "Zilla Parishad — Local body at the district level.",
+   "topic": "Indian Polity — Constitutional & Statutory Bodies",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
   }
  ]
 };

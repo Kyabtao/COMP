@@ -11,7 +11,7 @@
   "railways"
  ],
  "blurb": "Human body, plants, diseases and nutrition.",
- "count": 320,
+ "count": 324,
  "questions": [
   {
    "id": "biology-00001",
@@ -4852,6 +4852,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "biology-daily-2026-11-01-08",
+   "question": "In human nutrition and medical biology, a clinical deficiency of 'Vitamin A' leads to which disorder?",
+   "options": [
+    "Ariboflavinosis",
+    "Xerophthalmia",
+    "Anaemia and bone disorders",
+    "Beri Beri"
+   ],
+   "answer": 1,
+   "explanation": "A deficiency of Vitamin A causes Xerophthalmia.",
+   "topic": "Biology — Vitamins, Minerals & Deficiency Disorders",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "biology-daily-2026-11-01-33",
+   "question": "In human physiology, what is the primary biological function performed by the 'Bone marrow'?",
+   "options": [
+    "Transport of oxygen",
+    "Pumping blood",
+    "Digestion of food",
+    "Production of blood cells"
+   ],
+   "answer": 3,
+   "explanation": "In the human body, the Bone marrow is responsible for Production of blood cells.",
+   "topic": "Biology — Human Anatomy & Organ Physiology",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "biology-daily-2026-11-01-58",
+   "question": "In biology, what is the primary function or characteristic of 'Bile Juice and Emulsification of Fats'?",
+   "options": [
+    "Auxin promotes apical dominance and phototropism; Gibberellin promotes stem elongation and breaks seed dormancy; Cytokinin promotes cell division; Abscisic Acid (ABA) induces stomatal closure ('stress hormone'); Ethylene is a gaseous hormone that ripens fruit",
+    "Blood group O-negative (O-) is the universal red-cell donor (lacks A, B and Rh antigens); AB-positive (AB+) is the universal recipient (lacks anti-A, anti-B and anti-Rh antibodies)",
+    "Produced by the liver and stored in the gallbladder, bile contains no digestive enzymes but emulsifies dietary fats using bile salts into micelles for pancreatic lipase action",
+    "Cerebrum (forebrain) governs intelligence, memory and voluntary actions; Cerebellum (hindbrain) maintains posture, balance and muscular coordination; Medulla Oblongata controls involuntary reflexes like heartbeat, breathing and vomiting"
+   ],
+   "answer": 2,
+   "explanation": "Bile Juice and Emulsification of Fats — Produced by the liver and stored in the gallbladder, bile contains no digestive enzymes but emulsifies dietary fats using bile salts into micelles for pancreatic lipase action (bilirubin and biliverdin are the bile pigments formed from haemoglobin breakdown).",
+   "topic": "Core Biology — Cell Biology, Genetics, Human & Plant Physiology",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "biology-daily-2026-11-01-83",
+   "question": "In human nutrition and medical biology, a clinical deficiency of 'Zinc' leads to which disorder?",
+   "options": [
+    "Ariboflavinosis",
+    "Growth retardation",
+    "Rickets",
+    "Dehydration"
+   ],
+   "answer": 1,
+   "explanation": "A deficiency of Zinc causes Growth retardation.",
+   "topic": "Biology — Vitamins, Minerals & Deficiency Disorders",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
   }
  ]
 };

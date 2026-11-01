@@ -11,7 +11,7 @@
   "ssc-chsl"
  ],
  "blurb": "Famous books and their authors.",
- "count": 300,
+ "count": 304,
  "questions": [
   {
    "id": "books-authors-00001",
@@ -4552,6 +4552,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "books-authors-daily-2026-11-01-23",
+   "question": "According to the Book of Genesis in the Old Testament, how many days did it take God to create the world?",
+   "options": [
+    "Six",
+    "One",
+    "Seven",
+    "Twelve"
+   ],
+   "answer": 0,
+   "explanation": "Six is the correct answer for: According to the Book of Genesis in the Old Testament, how many days did it take God to create the world? (General Knowledge).",
+   "topic": "General Knowledge",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "books-authors-daily-2026-11-01-48",
+   "question": "In literature and competitive exams, who is the author of the celebrated work 'The Origin of Species by Means of Natural Selection'?",
+   "options": [
+    "Rabindranath Tagore",
+    "Charles Dickens",
+    "Charles Darwin",
+    "Adolf Hitler"
+   ],
+   "answer": 2,
+   "explanation": "The book 'The Origin of Species by Means of Natural Selection' was written by Charles Darwin.",
+   "topic": "Books & Authors — Classic & Modern Literary Works",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "books-authors-daily-2026-11-01-73",
+   "question": "In literature and competitive exams, who is the author of the celebrated work 'Broken Wings'?",
+   "options": [
+    "Sarojini Naidu",
+    "A. P. J. Abdul Kalam",
+    "Mary Kom",
+    "Vishnu Sharma"
+   ],
+   "answer": 0,
+   "explanation": "The book 'Broken Wings' was written by Sarojini Naidu.",
+   "topic": "Books & Authors — Classic & Modern Literary Works",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "books-authors-daily-2026-11-01-98",
+   "question": "Who is the author of the book 'The Winner's Mindset', which was recently featured in literary news and competitive exams?",
+   "options": [
+    "Geetanjali Shree (translated by Daisy Rockwell)",
+    "S. Jaishankar",
+    "Shane Watson",
+    "Salman Rushdie"
+   ],
+   "answer": 2,
+   "explanation": "'The Winner's Mindset' (sports psychology and cricket leadership book by the former Australian all-rounder) was written by Shane Watson.",
+   "topic": "Books & Authors in Recent News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
   }
  ]
 };

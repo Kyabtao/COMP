@@ -12,7 +12,7 @@
   "railways"
  ],
  "blurb": "Countries, capitals, currencies, days, organisations and world firsts.",
- "count": 1040,
+ "count": 1044,
  "questions": [
   {
    "id": "general-knowledge-00001",
@@ -15653,6 +15653,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "general-knowledge-daily-2026-11-01-18",
+   "question": "Death Valley's Badwater Basin is North America's point of lowest elevation at how many feet below sea level?",
+   "options": [
+    "79 feet",
+    "12,092 feet",
+    "282 feet",
+    "1,640 feet"
+   ],
+   "answer": 2,
+   "explanation": "282 feet is the correct answer for: Death Valley's Badwater Basin is North America's point of lowest elevation at how many feet below sea level? (General Knowledge).",
+   "topic": "General Knowledge",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "general-knowledge-daily-2026-11-01-43",
+   "question": "What is a Burgee?",
+   "options": [
+    "A window",
+    "A type of food",
+    "A flag",
+    "A rope"
+   ],
+   "answer": 2,
+   "explanation": "A flag is the correct answer for: What is a Burgee? (General Knowledge).",
+   "topic": "General Knowledge",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "general-knowledge-daily-2026-11-01-68",
+   "question": "What does a milliner make and sell?",
+   "options": [
+    "Shoes",
+    "Hats",
+    "Shirts",
+    "Belts"
+   ],
+   "answer": 1,
+   "explanation": "Hats is the correct answer for: What does a milliner make and sell? (General Knowledge).",
+   "topic": "General Knowledge",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "general-knowledge-daily-2026-11-01-93",
+   "question": "Which iconic Disneyland attraction was closed in 2017 to be remodeled as a \"Guardians of the Galaxy\" themed ride?",
+   "options": [
+    "Pirates of the Caribbean",
+    "The Haunted Mansion",
+    "Peter Pan's Flight",
+    "Twilight Zone Tower of Terror"
+   ],
+   "answer": 3,
+   "explanation": "Twilight Zone Tower of Terror is the correct answer for: Which iconic Disneyland attraction was closed in 2017 to be remodeled as a \"Guardians of the Galaxy\" themed ride? (General Knowledge).",
+   "topic": "General Knowledge",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
   }
  ]
 };

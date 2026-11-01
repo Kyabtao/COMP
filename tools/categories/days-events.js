@@ -13,7 +13,7 @@
   "railways"
  ],
  "blurb": "Important national and international days.",
- "count": 320,
+ "count": 324,
  "questions": [
   {
    "id": "days-events-00001",
@@ -4854,6 +4854,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "days-events-daily-2026-11-01-24",
+   "question": "On which date is 'Samvidhan Hatya Divas' observed in India or internationally?",
+   "options": [
+    "14 August",
+    "21 December",
+    "5 October",
+    "25 June"
+   ],
+   "answer": 3,
+   "explanation": "Samvidhan Hatya Divas is observed on 25 June (remembrance of those who suffered abuse of power during the imposition of the Emergency on 25 June 1975).",
+   "topic": "Important National & International Days in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "days-events-daily-2026-11-01-49",
+   "question": "In national and international observances, on which date is 'International Day of Peace' celebrated every year?",
+   "options": [
+    "21 September",
+    "28 July",
+    "4 February",
+    "19 November"
+   ],
+   "answer": 0,
+   "explanation": "International Day of Peace is observed annually on 21 September.",
+   "topic": "Important National & International Days and Observances",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "days-events-daily-2026-11-01-74",
+   "question": "In national and international observances, on which date is 'International Day of Education' celebrated every year?",
+   "options": [
+    "23 March",
+    "13 November",
+    "24 January",
+    "4 January"
+   ],
+   "answer": 2,
+   "explanation": "International Day of Education is observed annually on 24 January.",
+   "topic": "Important National & International Days and Observances",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "days-events-daily-2026-11-01-99",
+   "question": "In national and international observances, on which date is 'World Post Day' celebrated every year?",
+   "options": [
+    "9 October",
+    "13 November",
+    "28 February",
+    "14 November"
+   ],
+   "answer": 0,
+   "explanation": "World Post Day is observed annually on 9 October.",
+   "topic": "Important National & International Days and Observances",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
   }
  ]
 };

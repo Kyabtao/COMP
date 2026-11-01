@@ -12,7 +12,7 @@
   "railways"
  ],
  "blurb": "Physical, world and Indian geography with climate and minerals.",
- "count": 1040,
+ "count": 1044,
  "questions": [
   {
    "id": "geography-00001",
@@ -15653,6 +15653,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "geography-daily-2026-11-01-13",
+   "question": "In physical and regional geography: Which Indian state has the longest coastline?",
+   "options": [
+    "Victoria Falls",
+    "India",
+    "Gujarat",
+    "Tropic of Cancer"
+   ],
+   "answer": 2,
+   "explanation": "Which Indian state has the longest coastline? — Gujarat.",
+   "topic": "Indian & World Geography — Physical & Regional Facts",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "geography-daily-2026-11-01-38",
+   "question": "In the geography of India, 'Bhavani Sagar Dam' is associated with which origin, river, state or region?",
+   "options": [
+    "Sikkim",
+    "Nandi Hills",
+    "Nepal Himalayas",
+    "Bhavani"
+   ],
+   "answer": 3,
+   "explanation": "In Indian geography, Bhavani Sagar Dam is associated with Bhavani.",
+   "topic": "Geography of India — Rivers, Dams, Mountain Passes & Minerals",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "geography-daily-2026-11-01-63",
+   "question": "In physical and regional geography: Which country has the largest Muslim population?",
+   "options": [
+    "Indonesia",
+    "Andes",
+    "Bering Strait",
+    "Kalahari Desert"
+   ],
+   "answer": 0,
+   "explanation": "Which country has the largest Muslim population? — Indonesia.",
+   "topic": "Indian & World Geography — Physical & Regional Facts",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "geography-daily-2026-11-01-88",
+   "question": "In the geography of India, 'Lipulekh Pass' is associated with which origin, river, state or region?",
+   "options": [
+    "Uttarakhand",
+    "Chota Nagpur Plateau",
+    "Ganga",
+    "Krishna"
+   ],
+   "answer": 0,
+   "explanation": "In Indian geography, Lipulekh Pass is associated with Uttarakhand.",
+   "topic": "Geography of India — Rivers, Dams, Mountain Passes & Minerals",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
   }
  ]
 };

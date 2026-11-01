@@ -12,7 +12,7 @@
   "railways"
  ],
  "blurb": "Physics, chemistry and biology facts combined.",
- "count": 1041,
+ "count": 1045,
  "questions": [
   {
    "id": "general-science-00001",
@@ -15669,6 +15669,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "general-science-daily-2026-11-01-01",
+   "question": "What planet is not named after a Greek or Roman god?",
+   "options": [
+    "Mars",
+    "Jupiter",
+    "Mercury",
+    "Earth"
+   ],
+   "answer": 3,
+   "explanation": "Earth is the correct answer for: What planet is not named after a Greek or Roman god? (General Knowledge).",
+   "topic": "General Knowledge",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "general-science-daily-2026-11-01-26",
+   "question": "What is the closest planet to our solar system's sun?",
+   "options": [
+    "Mars",
+    "Jupiter",
+    "Earth",
+    "Mercury"
+   ],
+   "answer": 3,
+   "explanation": "Mercury is the correct answer for: What is the closest planet to our solar system's sun? (General Knowledge).",
+   "topic": "General Knowledge",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "general-science-daily-2026-11-01-51",
+   "question": "In atmospheric and earth science: Which planet has the shortest day?",
+   "options": [
+    "Jupiter",
+    "Tropical monsoon climate",
+    "Richter scale",
+    "Andhi"
+   ],
+   "answer": 0,
+   "explanation": "Which planet has the shortest day — Jupiter.",
+   "topic": "General Science — Atmospheric & Earth Science",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "general-science-daily-2026-11-01-76",
+   "question": "In general science classification, which specialized scientific discipline studies 'Eyes'?",
+   "options": [
+    "Geology",
+    "Thermodynamics",
+    "Ophthalmology",
+    "Ecology"
+   ],
+   "answer": 2,
+   "explanation": "Ophthalmology is the scientific branch dedicated to the study of Eyes.",
+   "topic": "General Science — Scientific Disciplines & Branches",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
   }
  ]
 };

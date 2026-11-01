@@ -11,7 +11,7 @@
   "railways"
  ],
  "blurb": "Inventions, inventors and discoveries.",
- "count": 299,
+ "count": 303,
  "questions": [
   {
    "id": "inventions-discoveries-00001",
@@ -4536,6 +4536,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "inventions-discoveries-daily-2026-11-01-17",
+   "question": "In the history of science and technology, who is credited with 'Quantum theory'?",
+   "options": [
+    "Jonas Salk",
+    "Watson and Crick",
+    "Max Planck",
+    "Isaac Newton"
+   ],
+   "answer": 2,
+   "explanation": "Quantum theory is credited to Max Planck.",
+   "topic": "Inventions, Discoveries & Scientific Pioneers",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "inventions-discoveries-daily-2026-11-01-42",
+   "question": "In the history of science and technology, who is credited with 'Aeroplane'?",
+   "options": [
+    "Rene Laennec",
+    "Karl von Drais",
+    "Wright Brothers",
+    "George Cayley"
+   ],
+   "answer": 2,
+   "explanation": "Aeroplane is credited to Wright Brothers.",
+   "topic": "Inventions, Discoveries & Scientific Pioneers",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "inventions-discoveries-daily-2026-11-01-67",
+   "question": "In the history of science and technology, who is credited with 'Atom (nuclear model)'?",
+   "options": [
+    "Tim Berners-Lee",
+    "Edward Jenner",
+    "William Harvey",
+    "Niels Bohr"
+   ],
+   "answer": 3,
+   "explanation": "Atom (nuclear model) is credited to Niels Bohr.",
+   "topic": "Inventions, Discoveries & Scientific Pioneers",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "inventions-discoveries-daily-2026-11-01-92",
+   "question": "In the history of science, which pioneering discovery or theory was formulated by Watson and Crick?",
+   "options": [
+    "Number theory",
+    "Double helix structure of DNA",
+    "Electromagnetic induction",
+    "Fahrenheit temperature scale"
+   ],
+   "answer": 1,
+   "explanation": "Watson and Crick is renowned for Double helix structure of DNA.",
+   "topic": "Eminent Scientists & Breakthrough Contributions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
   }
  ]
 };

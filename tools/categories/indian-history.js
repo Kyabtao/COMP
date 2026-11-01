@@ -12,7 +12,7 @@
   "railways"
  ],
  "blurb": "Events, dynasties, rulers, movements and freedom fighters.",
- "count": 1040,
+ "count": 1044,
  "questions": [
   {
    "id": "indian-history-00001",
@@ -15653,6 +15653,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "indian-history-daily-2026-11-01-12",
+   "question": "In Indian history, what is 'Sikh Empire' historically known for or associated with?",
+   "options": [
+    "Founder of the Sikh Empire",
+    "Market control policies and Siri fort",
+    "Bahlul Lodi",
+    "Ranjit Singh"
+   ],
+   "answer": 3,
+   "explanation": "Sikh Empire — Ranjit Singh.",
+   "topic": "Indian History — Dynasties, Rulers & Freedom Struggle",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "indian-history-daily-2026-11-01-37",
+   "question": "In historical chronology, in which year did 'Demonetisation of high value currency notes' take place?",
+   "options": [
+    "1966",
+    "1928",
+    "2011",
+    "2016"
+   ],
+   "answer": 3,
+   "explanation": "Demonetisation of high value currency notes occurred in the year 2016.",
+   "topic": "Indian History — Landmark Historical Events & Chronology",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "indian-history-daily-2026-11-01-62",
+   "question": "In Indian history, what is the historical significance of 'Maratha Military Landscapes of India'?",
+   "options": [
+    "Network of twelve hill, coastal and island forts showcasing strategic Maratha fortification architecture",
+    "Revolutionary anti-colonial organisation founded by Indian expatriates on the Pacific Coast of North America with its newspaper 'The Ghadar'",
+    "Detailed stone temple inscriptions recording the 'Kudavolai' ballot system of village sabha local self-government",
+    "13th-century sandbox-foundation temple whose vimana is built with porous 'floating bricks' that reduce structural weight"
+   ],
+   "answer": 0,
+   "explanation": "Maratha Military Landscapes of India is significant for: Network of twelve hill, coastal and island forts showcasing strategic Maratha fortification architecture (Chhatrapati Shivaji Maharaj's 17th-century defensive network including Raigad, Sindhudurg, Pratapgad and Gingee).",
+   "topic": "Indian History & Culture in Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "indian-history-daily-2026-11-01-87",
+   "question": "In Indian history, what is 'Vinoba Bhave' historically known for or associated with?",
+   "options": [
+    "Rani of Jhansi in the Revolt of 1857",
+    "Leader of the Bhoodan movement",
+    "Rajaraja Chola I",
+    "Shifted the capital from Delhi to Daulatabad"
+   ],
+   "answer": 1,
+   "explanation": "Vinoba Bhave — Leader of the Bhoodan movement.",
+   "topic": "Indian History — Dynasties, Rulers & Freedom Struggle",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
   }
  ]
 };

@@ -12,7 +12,7 @@
   "railways"
  ],
  "blurb": "Defence, awards, institutions and national facts.",
- "count": 319,
+ "count": 323,
  "questions": [
   {
    "id": "general-awareness-00001",
@@ -4837,6 +4837,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "general-awareness-daily-2026-11-01-19",
+   "question": "In competitive general awareness, who or what is recognised as 'National Emblem'?",
+   "options": [
+    "Soviet Union",
+    "Lion Capital of Ashoka",
+    "Bachendri Pal",
+    "Edmund Hillary"
+   ],
+   "answer": 1,
+   "explanation": "National Emblem — Lion Capital of Ashoka.",
+   "topic": "General Awareness — Firsts in India, National Symbols & Institutions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "general-awareness-daily-2026-11-01-44",
+   "question": "With which country does India conduct the joint military or defence exercise 'Kazind'?",
+   "options": [
+    "United Kingdom",
+    "Oman",
+    "Sri Lanka",
+    "Kazakhstan"
+   ],
+   "answer": 3,
+   "explanation": "'Kazind' is a joint joint army and air force counter-insurgency exercise conducted between India and Kazakhstan.",
+   "topic": "Joint Military Exercises in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "general-awareness-daily-2026-11-01-69",
+   "question": "In international general awareness, where is the permanent headquarters of 'World Wide Fund for Nature' located?",
+   "options": [
+    "Gland",
+    "Washington, D.C.",
+    "Basel",
+    "Montreal"
+   ],
+   "answer": 0,
+   "explanation": "The headquarters of World Wide Fund for Nature is located at Gland.",
+   "topic": "General Awareness — International Organisations & Headquarters",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "general-awareness-daily-2026-11-01-94",
+   "question": "In competitive general awareness, who or what is recognised as 'First person to run a mile in under four minutes'?",
+   "options": [
+    "Dr. Rajendra Prasad",
+    "C. Rajagopalachari",
+    "Indira Gandhi",
+    "Roger Bannister"
+   ],
+   "answer": 3,
+   "explanation": "First person to run a mile in under four minutes — Roger Bannister.",
+   "topic": "General Awareness — Firsts in India, National Symbols & Institutions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
   }
  ]
 };

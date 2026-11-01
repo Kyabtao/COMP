@@ -13,7 +13,7 @@
   "railways"
  ],
  "blurb": "Series, coding, blood relations, directions and syllogisms.",
- "count": 1545,
+ "count": 1549,
  "questions": [
   {
    "id": "reasoning-00001",
@@ -23234,6 +23234,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "reasoning-daily-2026-11-01-05",
+   "question": "In verbal analogy reasoning, if 'Birds' is related to 'Ornithology', then 'Fishes' is analogously related to which discipline?",
+   "options": [
+    "Ichthyology",
+    "Entomology",
+    "Numismatics",
+    "Philately"
+   ],
+   "answer": 0,
+   "explanation": "Just as Ornithology is the study of birds, Ichthyology is the study of Fishes.",
+   "topic": "Verbal Reasoning — Scientific Branch & Subject Analogies",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "reasoning-daily-2026-11-01-30",
+   "question": "In logical analogy reasoning, if 'Thermometer : Temperature', then 'Electrocardiogram machine : ?'",
+   "options": [
+    "Wind speed",
+    "Internal body organs",
+    "Curvature of surfaces",
+    "Heart electrical activity"
+   ],
+   "answer": 3,
+   "explanation": "Just as a Thermometer measures Temperature, a Electrocardiogram machine measures Heart electrical activity.",
+   "topic": "Verbal Reasoning — Instrument & Measurement Analogies",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "reasoning-daily-2026-11-01-55",
+   "question": "In competitive logical reasoning, what is the exact rule or answer for 'Opposite Letter Pair Rule in English Alphabet Reasoning (A-Z, B-Y, C-X, ...)'?",
+   "options": [
+    "6 * (n - 2)^2",
+    "The sum of the forward alphabetical positions of any opposite letter pair is always 27",
+    "22 times in 24 hours (11 times every 12 hours)",
+    "12 * (n - 2)"
+   ],
+   "answer": 1,
+   "explanation": "Opposite Letter Pair Rule in English Alphabet Reasoning (A-Z, B-Y, C-X, ...): The sum of the forward alphabetical positions of any opposite letter pair is always 27 (for example, A(1) + Z(26) = 27, E(5) + V(22) = 27, and M(13) + N(14) = 27).",
+   "topic": "Logical, Verbal & Analytical Reasoning in Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "reasoning-daily-2026-11-01-80",
+   "question": "In verbal analogy reasoning, if 'Birds' is related to 'Ornithology', then 'Diseases' is analogously related to which discipline?",
+   "options": [
+    "Pisciculture",
+    "Optics",
+    "Genetics",
+    "Pathology"
+   ],
+   "answer": 3,
+   "explanation": "Just as Ornithology is the study of birds, Pathology is the study of Diseases.",
+   "topic": "Verbal Reasoning — Scientific Branch & Subject Analogies",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
   }
  ]
 };

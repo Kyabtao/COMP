@@ -11,7 +11,7 @@
   "ssc-cgl"
  ],
  "blurb": "Hardware, software, internet and cyber security.",
- "count": 321,
+ "count": 325,
  "questions": [
   {
    "id": "computer-awareness-00001",
@@ -4868,6 +4868,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "computer-awareness-daily-2026-11-01-15",
+   "question": "In computing and office software, what is 'F5' used for?",
+   "options": [
+    "Data interchange file",
+    "Refresh the current window",
+    "Web page file",
+    "Capture the screen"
+   ],
+   "answer": 1,
+   "explanation": "In computing, F5 corresponds to Refresh the current window.",
+   "topic": "Computer Awareness — Keyboard Shortcuts & File Extensions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "computer-awareness-daily-2026-11-01-40",
+   "question": "In computer science and information technology, what does 'SSD' refer to?",
+   "options": [
+    "High level general purpose programming language",
+    "Field that uniquely identifies a record",
+    "Storage device with no moving parts",
+    "Software used to view web pages"
+   ],
+   "answer": 2,
+   "explanation": "SSD — Storage device with no moving parts.",
+   "topic": "Computer Awareness — Architecture, Networking & Software",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "computer-awareness-daily-2026-11-01-65",
+   "question": "In computer science and information technology, what does 'Encryption' refer to?",
+   "options": [
+    "Small file stored by a website in the browser",
+    "Input device used for typing",
+    "Power supply unit of a computer",
+    "Process of converting data into unreadable form"
+   ],
+   "answer": 3,
+   "explanation": "Encryption — Process of converting data into unreadable form.",
+   "topic": "Computer Awareness — Architecture, Networking & Software",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "computer-awareness-daily-2026-11-01-90",
+   "question": "In computing and office software, what is 'Alt + Tab' used for?",
+   "options": [
+    "Switch between open windows",
+    "Save the current file",
+    "Redo the last undone action",
+    "Java source file"
+   ],
+   "answer": 0,
+   "explanation": "In computing, Alt + Tab corresponds to Switch between open windows.",
+   "topic": "Computer Awareness — Keyboard Shortcuts & File Extensions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
   }
  ]
 };

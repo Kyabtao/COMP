@@ -13,7 +13,7 @@
   "railways"
  ],
  "blurb": "Full forms of common abbreviations and acronyms.",
- "count": 320,
+ "count": 324,
  "questions": [
   {
    "id": "abbreviations-00001",
@@ -4854,6 +4854,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "abbreviations-daily-2026-11-01-25",
+   "question": "In competitive exams, what does the abbreviation or acronym 'CBDT' stand for?",
+   "options": [
+    "New Development Bank",
+    "Central Board of Direct Taxes",
+    "Out Patient Department",
+    "Unique Identification Authority of India"
+   ],
+   "answer": 1,
+   "explanation": "The abbreviation CBDT stands for Central Board of Direct Taxes.",
+   "topic": "Abbreviations & Acronyms in Governance, Banking, Science & IT",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "abbreviations-daily-2026-11-01-50",
+   "question": "In competitive exams, what does the abbreviation or acronym 'NCC' stand for?",
+   "options": [
+    "Micro, Small and Medium Enterprises",
+    "Computed Tomography",
+    "National Eligibility cum Entrance Test",
+    "National Cadet Corps"
+   ],
+   "answer": 3,
+   "explanation": "The abbreviation NCC stands for National Cadet Corps.",
+   "topic": "Abbreviations & Acronyms in Governance, Banking, Science & IT",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "abbreviations-daily-2026-11-01-75",
+   "question": "In competitive exams, what does the abbreviation or acronym 'NASA' stand for?",
+   "options": [
+    "National Investigation Agency",
+    "National Aeronautics and Space Administration",
+    "Airborne Warning and Control System",
+    "Securities and Exchange Board of India"
+   ],
+   "answer": 1,
+   "explanation": "The abbreviation NASA stands for National Aeronautics and Space Administration.",
+   "topic": "Abbreviations & Acronyms in Governance, Banking, Science & IT",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "abbreviations-daily-2026-11-01-100",
+   "question": "In competitive exams, what does the abbreviation or acronym 'AWACS' stand for?",
+   "options": [
+    "United Nations Educational, Scientific and Cultural Organization",
+    "Geostationary Earth Orbit",
+    "Airborne Warning and Control System",
+    "Unique Identification Authority of India"
+   ],
+   "answer": 2,
+   "explanation": "The abbreviation AWACS stands for Airborne Warning and Control System.",
+   "topic": "Abbreviations & Acronyms in Governance, Banking, Science & IT",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
   }
  ]
 };

@@ -13,7 +13,7 @@
   "railways"
  ],
  "blurb": "Recent schemes, missions, summits, awards and appointments.",
- "count": 1043,
+ "count": 1047,
  "questions": [
   {
    "id": "current-affairs-00001",
@@ -15702,6 +15702,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "current-affairs-daily-2026-11-01-10",
+   "question": "Which current affairs development was reported regarding: \"Fourteen vehicles were set on fire in Pulivendula, Kadapa district, Andhra Pradesh hours before polling began on Sunday\"?",
+   "options": [
+    "Andhra civic polls: TDP, YSRCP workers clash in Pulivendula; slow turnout in cities | LIVE",
+    "Polling begins peacefully, police on high alert in Chittoor, Annamayya",
+    "Census 2027: What are the new questions, and how are enumerators being trained? | Explained",
+    "Ajay Devgn moves Bombay High Court against FDA notice over Vimal Elaichi advertisements"
+   ],
+   "answer": 0,
+   "explanation": "Andhra civic polls: TDP, YSRCP workers clash in Pulivendula; slow turnout in cities | LIVE — Fourteen vehicles were set on fire in Pulivendula, Kadapa district, Andhra Pradesh hours before polling began on Sunday (The Hindu — National & Current Affairs, Sun, 01 Nov 2026 11:47:00 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "current-affairs-daily-2026-11-01-35",
+   "question": "Which current affairs development was reported regarding: \"An air-conditioner and a refrigerator, among other electrical appliances, reportedly exploded as the fire spread rapidly through the house. A suspected electrical short circuit is believed to have triggered the blaze\"?",
+   "options": [
+    "Woman with disability dies in midnight fire at Korattur apartment",
+    "Keralam needs strong security shield to combat cybercrimes, says Home Minister Chennithala",
+    "Slovakian couple had come for a holiday to India, man died hours after checking into Conrad",
+    "Visakhapatnam reports 3.34% voting in first two hours; Voter participation in core urban areas yet to gather pace"
+   ],
+   "answer": 0,
+   "explanation": "Woman with disability dies in midnight fire at Korattur apartment — An air-conditioner and a refrigerator, among other electrical appliances, reportedly exploded as the fire spread rapidly through the house. A suspected electrical short circuit is believed to have triggered the blaze (The Hindu — National & Current Affairs, Sun, 01 Nov 2026 11:46:12 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "current-affairs-daily-2026-11-01-60",
+   "question": "Which current affairs development was reported regarding: \"Move reflects the closure of institutional avenues, says LoP Rahul Gandhi; terms it a political weapon against all who colluded to destroy votes; warns ECI officials that they are first target; says CEC should be...\"?",
+   "options": [
+    "Madras High Court Advocates Association challenges 1965 Union Cabinet decision to continue English as common language for Supreme Court and all High Courts",
+    "Rahul Gandhi appeals to Delhi rally goers to do festival shopping from local traders",
+    "INDIA bloc holds symbolic ‘public impeachment’ of CEC Gyanesh Kumar on six charges",
+    "Team of counselors deployed to instil confidence among students of Raptadu ZPHS"
+   ],
+   "answer": 2,
+   "explanation": "INDIA bloc holds symbolic ‘public impeachment’ of CEC Gyanesh Kumar on six charges — Move reflects the closure of institutional avenues, says LoP Rahul Gandhi; terms it a political weapon against all who colluded to destroy votes; warns ECI officials that they are first target; says CEC should be... (The Hindu — National & Current Affairs, Sun, 01 Nov 2026 11:42:17 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "current-affairs-daily-2026-11-01-85",
+   "question": "Which current affairs development was reported regarding: \"Air Chief Marshal Dixit outlined his core focus areas under the acronym VAYU, defining his vision as Vigilance and operational readiness, Aatmanirbharta (self-reliance), Yukti (tactical innovation), and Unity of...\"?",
+   "options": [
+    "Woman with disability dies in midnight fire at Korattur apartment",
+    "In his first visit, BJP’s Bihar in-charge Harish Dwivedi stresses on strengthening the party",
+    "Census 2027: What are the new questions, and how are enumerators being trained? | Explained",
+    "Every squadron, air defence unit, air warrior must be ready to respond at moment’s notice: IAF Chief Dixit"
+   ],
+   "answer": 3,
+   "explanation": "Every squadron, air defence unit, air warrior must be ready to respond at moment’s notice: IAF Chief Dixit — Air Chief Marshal Dixit outlined his core focus areas under the acronym VAYU, defining his vision as Vigilance and operational readiness, Aatmanirbharta (self-reliance), Yukti (tactical innovation), and Unity of... (The Hindu — National & Current Affairs, Sun, 01 Nov 2026 11:41:33 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
   }
  ]
 };

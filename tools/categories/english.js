@@ -12,7 +12,7 @@
   "banking"
  ],
  "blurb": "Synonyms, antonyms, idioms, one-word substitutes, spellings and grammar.",
- "count": 1045,
+ "count": 1049,
  "questions": [
   {
    "id": "english-00001",
@@ -15733,6 +15733,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "english-daily-2026-11-01-03",
+   "question": "In English comprehension and competitive exams, what does the idiom 'High and dry' mean?",
+   "options": [
+    "Most important",
+    "Stranded",
+    "Do or say the right thing",
+    "Die"
+   ],
+   "answer": 1,
+   "explanation": "The idiom 'High and dry' means Stranded.",
+   "topic": "Competitive English — Idioms & Phrases",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "english-daily-2026-11-01-28",
+   "question": "In competitive English usage, which word is most nearly opposite in meaning (antonym) to 'Detrimental'?",
+   "options": [
+    "Occasional",
+    "Beneficial",
+    "Explicit",
+    "Order"
+   ],
+   "answer": 1,
+   "explanation": "The antonym (opposite) of 'Detrimental' is 'Beneficial'.",
+   "topic": "Competitive English — Antonyms & Opposites",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "english-daily-2026-11-01-53",
+   "question": "In English vocabulary, which single word substitutes for the phrase 'Something that is very obvious'?",
+   "options": [
+    "Infallible",
+    "Manifest",
+    "Baker",
+    "Biographer"
+   ],
+   "answer": 1,
+   "explanation": "The one-word substitute for 'Something that is very obvious' is 'Manifest'.",
+   "topic": "Competitive English — One-Word Substitutions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "english-daily-2026-11-01-78",
+   "question": "In English comprehension and competitive exams, what does the idiom 'A thorn in one's flesh' mean?",
+   "options": [
+    "Something easily understood",
+    "A constant source of trouble",
+    "Make money selfishly",
+    "Full details"
+   ],
+   "answer": 1,
+   "explanation": "The idiom 'A thorn in one's flesh' means A constant source of trouble.",
+   "topic": "Competitive English — Idioms & Phrases",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
   }
  ]
 };

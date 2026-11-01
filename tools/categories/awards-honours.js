@@ -12,7 +12,7 @@
   "railways"
  ],
  "blurb": "Civilian, gallantry, literary and international awards.",
- "count": 243,
+ "count": 247,
  "questions": [
   {
    "id": "awards-honours-00001",
@@ -3700,6 +3700,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "awards-honours-daily-2026-11-01-22",
+   "question": "In awards and honours awareness, for excellence in which field is the 'Academy Award (Oscar)' conferred?",
+   "options": [
+    "Highest civilian award of India",
+    "American award for films",
+    "Indian literary award",
+    "Performing arts award of India"
+   ],
+   "answer": 1,
+   "explanation": "Academy Award (Oscar) is conferred for American award for films.",
+   "topic": "Awards & Honours — National & International Distinctions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "awards-honours-daily-2026-11-01-47",
+   "question": "Daron Acemoglu, Simon Johnson and James A. Robinson were awarded the 2024 Nobel Memorial Prize in Economic Sciences for their studies of what?",
+   "options": [
+    "Women's labour market outcomes through history",
+    "How institutions are formed and affect national prosperity",
+    "The role of banks and financial crises",
+    "Experimental approaches to alleviating global poverty"
+   ],
+   "answer": 1,
+   "explanation": "Acemoglu, Johnson and Robinson received the 2024 Economics Nobel for demonstrating the importance of inclusive societal institutions for a country's long-term prosperity.",
+   "topic": "Nobel Prizes",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "awards-honours-daily-2026-11-01-72",
+   "question": "In awards and honours awareness, for excellence in which field is the 'Dronacharya Award' conferred?",
+   "options": [
+    "Indian literary award",
+    "Highest sporting honour of India",
+    "Coaching excellence in Indian sports",
+    "Literary award for Indian languages"
+   ],
+   "answer": 2,
+   "explanation": "Dronacharya Award is conferred for Coaching excellence in Indian sports.",
+   "topic": "Awards & Honours — National & International Distinctions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "awards-honours-daily-2026-11-01-97",
+   "question": "In awards and honours awareness, for excellence in which field is the 'Ramon Magsaysay Award' conferred?",
+   "options": [
+    "Third highest peacetime gallantry award of India",
+    "Indian award for social work and peace",
+    "Asian award for public service",
+    "Performing arts award of India"
+   ],
+   "answer": 2,
+   "explanation": "Ramon Magsaysay Award is conferred for Asian award for public service.",
+   "topic": "Awards & Honours — National & International Distinctions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
   }
  ]
 };

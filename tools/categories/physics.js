@@ -11,7 +11,7 @@
   "railways"
  ],
  "blurb": "Motion, energy, light, electricity and units.",
- "count": 299,
+ "count": 303,
  "questions": [
   {
    "id": "physics-00001",
@@ -4536,6 +4536,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "physics-daily-2026-11-01-06",
+   "question": "What is the airspeed velocity of an unladen swallow?",
+   "options": [
+    "200 MPH",
+    "20 MPH",
+    "15 MPH",
+    "24 MPH"
+   ],
+   "answer": 3,
+   "explanation": "24 MPH is the correct answer for: What is the airspeed velocity of an unladen swallow? (General Knowledge).",
+   "topic": "General Knowledge",
+   "level": 3,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "physics-daily-2026-11-01-31",
+   "question": "In planetary science and astrophysics, which solar system body is characterised by the fact: 'Largest planet'?",
+   "options": [
+    "Pluto",
+    "Asteroid",
+    "Jupiter",
+    "Nebula"
+   ],
+   "answer": 2,
+   "explanation": "Jupiter (Largest/smallest planet) — Largest planet.",
+   "topic": "Astrophysics & Planetary Science",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "physics-daily-2026-11-01-56",
+   "question": "In competitive science exams, which principle or phenomenon explains 'Blue appearance of the clear daytime sky'?",
+   "options": [
+    "Bernoulli's Principle of pressure-velocity trade-off",
+    "Photoelectric Effect explained by Einstein's photon theory",
+    "Rayleigh Scattering of shorter-wavelength light by atmospheric molecules",
+    "Zeeman Effect"
+   ],
+   "answer": 2,
+   "explanation": "Blue appearance of the clear daytime sky is explained by Rayleigh Scattering of shorter-wavelength light by atmospheric molecules (scattering inversely proportional to the fourth power of wavelength).",
+   "topic": "Competitive Exam Science — Physics, Chemistry & Biology",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "physics-daily-2026-11-01-81",
+   "question": "In physics and metrology, which SI unit is used to express the physical quantity 'Electrical resistance'?",
+   "options": [
+    "Second",
+    "Kelvin",
+    "Radian",
+    "Ohm"
+   ],
+   "answer": 3,
+   "explanation": "In the International System of Units (SI), Electrical resistance is measured in Ohm.",
+   "topic": "Physics — SI Units & Physical Quantities",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
   }
  ]
 };

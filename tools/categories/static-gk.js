@@ -13,7 +13,7 @@
   "railways"
  ],
  "blurb": "National symbols, dances, festivals, dams, parks, instruments and branches of science.",
- "count": 1042,
+ "count": 1046,
  "questions": [
   {
    "id": "static-gk-00001",
@@ -15686,6 +15686,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "static-gk-daily-2026-11-01-20",
+   "question": "In Indian Static GK, what is the capital city of Punjab (in North India)?",
+   "options": [
+    "Itanagar",
+    "Chennai",
+    "Chandigarh",
+    "Lucknow"
+   ],
+   "answer": 2,
+   "explanation": "The capital of Punjab (North India) is Chandigarh.",
+   "topic": "Static GK — Indian States, Capitals & Regions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "static-gk-daily-2026-11-01-45",
+   "question": "In Indian cultural Static GK, 'Theyyam' is a traditional dance form or festival of which state or UT?",
+   "options": [
+    "Jammu and Kashmir",
+    "Kerala",
+    "West Bengal",
+    "Jharkhand"
+   ],
+   "answer": 1,
+   "explanation": "In Indian culture, Theyyam belongs to Kerala.",
+   "topic": "Static GK — Classical & Folk Dances and Festivals of India",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "static-gk-daily-2026-11-01-70",
+   "question": "In Indian cultural Static GK, 'Nautanki' is a traditional dance form or festival of which state or UT?",
+   "options": [
+    "Uttar Pradesh",
+    "Tripura",
+    "Mizoram",
+    "Jammu and Kashmir"
+   ],
+   "answer": 0,
+   "explanation": "In Indian culture, Nautanki belongs to Uttar Pradesh.",
+   "topic": "Static GK — Classical & Folk Dances and Festivals of India",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "static-gk-daily-2026-11-01-95",
+   "question": "In Indian cultural Static GK, 'Dumhal' is a traditional dance form or festival of which state or UT?",
+   "options": [
+    "Arunachal Pradesh",
+    "Odisha",
+    "Jammu and Kashmir",
+    "Madhya Pradesh"
+   ],
+   "answer": 2,
+   "explanation": "In Indian culture, Dumhal belongs to Jammu and Kashmir.",
+   "topic": "Static GK — Classical & Folk Dances and Festivals of India",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
   }
  ]
 };

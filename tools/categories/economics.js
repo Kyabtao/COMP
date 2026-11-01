@@ -11,7 +11,7 @@
   "ssc-cgl"
  ],
  "blurb": "Banking, budget, taxes, trade and national income.",
- "count": 321,
+ "count": 325,
  "questions": [
   {
    "id": "economics-00001",
@@ -4868,6 +4868,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "economics-daily-2026-11-01-14",
+   "question": "In Indian economy, banking and financial awareness: Which institution issues coins in India?",
+   "options": [
+    "NITI Aayog",
+    "Monetary Policy Committee",
+    "Government of India",
+    "Contingency Fund"
+   ],
+   "answer": 2,
+   "explanation": "Which institution issues coins in India? — Government of India.",
+   "topic": "Economics, Banking & Public Finance in Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "economics-daily-2026-11-01-39",
+   "question": "In banking and macroeconomic policy, how is 'ASBA (Application Supported by Blocked Amount)' defined?",
+   "options": [
+    "IPO application mechanism where bid money remains blocked in the investor's bank account until shares are allotted",
+    "Consent-based financial data-sharing network regulated as an NBFC-AA that lets individuals securely share bank, tax and investment records",
+    "Secure centralised web platform for individuals and entities to apply online for regulatory authorisations, licences and approvals",
+    "Debt instruments issued on behalf of the Government of India whose proceeds are deployed exclusively in public-sector green infrastructure projects"
+   ],
+   "answer": 0,
+   "explanation": "ASBA (Application Supported by Blocked Amount) refers to: IPO application mechanism where bid money remains blocked in the investor's bank account until shares are allotted (regulated or measured under Securities and Exchange Board of India (SEBI)).",
+   "topic": "Economics, Banking & Financial Awareness",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "economics-daily-2026-11-01-64",
+   "question": "In Indian economy, banking and financial awareness: Where is the headquarters of the Asian Infrastructure Investment Bank?",
+   "options": [
+    "2010",
+    "Beijing",
+    "Bank rate",
+    "Urjit Patel Committee"
+   ],
+   "answer": 1,
+   "explanation": "Where is the headquarters of the Asian Infrastructure Investment Bank? — Beijing.",
+   "topic": "Economics, Banking & Public Finance in Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "economics-daily-2026-11-01-89",
+   "question": "In Indian economy, banking and financial awareness: What is the combination of high inflation and high unemployment called?",
+   "options": [
+    "Primary deficit",
+    "Stagflation",
+    "Nifty",
+    "DICGC"
+   ],
+   "answer": 1,
+   "explanation": "What is the combination of high inflation and high unemployment called? — Stagflation.",
+   "topic": "Economics, Banking & Public Finance in Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
   }
  ]
 };

@@ -11,7 +11,7 @@
   "ssc-chsl"
  ],
  "blurb": "Number work, algebra, geometry and speed-accuracy drills.",
- "count": 1546,
+ "count": 1550,
  "questions": [
   {
    "id": "mathematics-00001",
@@ -23248,6 +23248,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-10-31"
+  },
+  {
+   "id": "mathematics-daily-2026-11-01-02",
+   "question": "In competitive mathematics, what is the exact result or formula for 'Determinant and Inverse of a 2x2 Matrix [[a, b], [c, d]]'?",
+   "options": [
+    "(sqrt(6) - sqrt(2)) / 4  (or (sqrt(3) - 1) / (2 * sqrt(2)))",
+    "det(A) = ad - bc;  A^(-1) = (1 / (ad - bc)) * [[d, -b], [-c, a]] (exists iff ad - bc != 0)",
+    "P(Ace) = 4/52 = 1/13;  P(Ace or King) = 8/52 = 2/13",
+    "sqrt[(s - a)(s - b)(s - c)(s - d)] where s = (a + b + c + d) / 2"
+   ],
+   "answer": 1,
+   "explanation": "Determinant and Inverse of a 2x2 Matrix [[a, b], [c, d]]: det(A) = ad - bc;  A^(-1) = (1 / (ad - bc)) * [[d, -b], [-c, a]] (exists iff ad - bc != 0). A square matrix is invertible (non-singular) if and only if its determinant is non-zero.",
+   "topic": "Mathematics — Geometry, Trigonometry, Algebra & Statistics",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "mathematics-daily-2026-11-01-27",
+   "question": "In competitive mathematics, what is the exact formula or value for 'Length of the Longest Space Diagonal of a Cuboid (l x b x h)'?",
+   "options": [
+    "(a + b + c)(a^2 + b^2 + c^2 - ab - bc - ca)",
+    "(n - 2) * 180 degrees",
+    "c^2 = a^2 + b^2 - 2ab cos(C)",
+    "sqrt(l^2 + b^2 + h^2)"
+   ],
+   "answer": 3,
+   "explanation": "Length of the Longest Space Diagonal of a Cuboid (l x b x h): sqrt(l^2 + b^2 + h^2) (found by applying the Pythagorean theorem twice in three dimensions).",
+   "topic": "Competitive Mathematics — Algebra, Trigonometry, Geometry & Mensuration",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "mathematics-daily-2026-11-01-52",
+   "question": "In competitive mathematics, what is the exact formula or value for 'Sine of Double Angle Identity (sin 2A)'?",
+   "options": [
+    "2 sin(A) cos(A) = 2 tan(A) / (1 + tan^2(A))",
+    "Mode = 3 * Median - 2 * Mean",
+    "(sqrt(3) / 2) * a",
+    "cos^2(A) - sin^2(A) = 2 cos^2(A) - 1 = 1 - 2 sin^2(A)"
+   ],
+   "answer": 0,
+   "explanation": "Sine of Double Angle Identity (sin 2A): 2 sin(A) cos(A) = 2 tan(A) / (1 + tan^2(A)) (expresses sin(2A) in terms of either sine and cosine or tangent of angle A).",
+   "topic": "Competitive Mathematics — Algebra, Trigonometry, Geometry & Mensuration",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "mathematics-daily-2026-11-01-77",
+   "question": "In competitive mathematics, what is the exact result or formula for 'Minimum Value of a*tan^2(theta) + b*cot^2(theta) for Positive a and b'?",
+   "options": [
+    "2 * sqrt(a * b) (by the AM-GM inequality)",
+    "The angle between a tangent and a chord through the point of contact equals the angle subtended by the chord in the alternate segment",
+    "2 - sqrt(3)",
+    "(sqrt(6) + sqrt(2)) / 4  (or (sqrt(3) + 1) / (2 * sqrt(2)))"
+   ],
+   "answer": 0,
+   "explanation": "Minimum Value of a*tan^2(theta) + b*cot^2(theta) for Positive a and b: 2 * sqrt(a * b) (by the AM-GM inequality). Since tan^2(theta) * cot^2(theta) = 1, AM >= GM gives a*tan^2 + b*cot^2 >= 2*sqrt(ab).",
+   "topic": "Mathematics — Geometry, Trigonometry, Algebra & Statistics",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-01"
   }
  ]
 };
