@@ -13,7 +13,7 @@
   "railways"
  ],
  "blurb": "Full forms of common abbreviations and acronyms.",
- "count": 324,
+ "count": 328,
  "questions": [
   {
    "id": "abbreviations-00001",
@@ -4918,6 +4918,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "abbreviations-daily-2026-11-02-25",
+   "question": "In competitive exams, what does the abbreviation or acronym 'BSE' stand for?",
+   "options": [
+    "Bombay Stock Exchange",
+    "Minimum Support Price",
+    "Direct Benefit Transfer",
+    "Immediate Payment Service"
+   ],
+   "answer": 0,
+   "explanation": "The abbreviation BSE stands for Bombay Stock Exchange.",
+   "topic": "Abbreviations & Acronyms in Governance, Banking, Science & IT",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "abbreviations-daily-2026-11-02-50",
+   "question": "What does the acronym 'PARAKH', frequently seen in recent news and competitive exams, stand for?",
+   "options": [
+    "Performance Assessment, Review, and Analysis of Knowledge for Holistic Development",
+    "Digital Advancement of Rural Post Office for A New India",
+    "Seed Traceability, Authentication and Holistic Inventory Portal",
+    "Open Credit Enablement Network"
+   ],
+   "answer": 0,
+   "explanation": "PARAKH stands for 'Performance Assessment, Review, and Analysis of Knowledge for Holistic Development' (national assessment centre set up under NCERT pursuant to NEP 2020 to standardise school board evaluations).",
+   "topic": "Abbreviations & Tech Acronyms in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "abbreviations-daily-2026-11-02-75",
+   "question": "In competitive exams, what does the abbreviation or acronym 'PFRDA' stand for?",
+   "options": [
+    "Central Board of Secondary Education",
+    "National Testing Agency",
+    "Pension Fund Regulatory and Development Authority",
+    "National Institute of Technology"
+   ],
+   "answer": 2,
+   "explanation": "The abbreviation PFRDA stands for Pension Fund Regulatory and Development Authority.",
+   "topic": "Abbreviations & Acronyms in Governance, Banking, Science & IT",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "abbreviations-daily-2026-11-02-100",
+   "question": "In competitive exams, what does the abbreviation or acronym 'WADA' stand for?",
+   "options": [
+    "Direct Benefit Transfer",
+    "Consumer Price Index",
+    "Airborne Warning and Control System",
+    "World Anti-Doping Agency"
+   ],
+   "answer": 3,
+   "explanation": "The abbreviation WADA stands for World Anti-Doping Agency.",
+   "topic": "Abbreviations & Acronyms in Governance, Banking, Science & IT",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
   }
  ]
 };

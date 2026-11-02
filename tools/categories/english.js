@@ -12,7 +12,7 @@
   "banking"
  ],
  "blurb": "Synonyms, antonyms, idioms, one-word substitutes, spellings and grammar.",
- "count": 1049,
+ "count": 1053,
  "questions": [
   {
    "id": "english-00001",
@@ -15797,6 +15797,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "english-daily-2026-11-02-03",
+   "question": "The phrase \"accident waiting to happen\" is an example of what type of figure of speech?",
+   "options": [
+    "Idiom",
+    "Analogy",
+    "Simile",
+    "Metaphor"
+   ],
+   "answer": 0,
+   "explanation": "Idiom is the correct answer for: The phrase \"accident waiting to happen\" is an example of what type of figure of speech? (General Knowledge).",
+   "topic": "General Knowledge",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "english-daily-2026-11-02-28",
+   "question": "In competitive English usage, which word is most nearly opposite in meaning (antonym) to 'Flagrant'?",
+   "options": [
+    "Open",
+    "Solitary",
+    "Aggravate",
+    "Concealed"
+   ],
+   "answer": 3,
+   "explanation": "The antonym (opposite) of 'Flagrant' is 'Concealed'.",
+   "topic": "Competitive English — Antonyms & Opposites",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "english-daily-2026-11-02-53",
+   "question": "In English vocabulary, which single word substitutes for the phrase 'Government by the wealthy'?",
+   "options": [
+    "Numismatist",
+    "Oligarchy",
+    "Plutocracy",
+    "Blacksmith"
+   ],
+   "answer": 2,
+   "explanation": "The one-word substitute for 'Government by the wealthy' is 'Plutocracy'.",
+   "topic": "Competitive English — One-Word Substitutions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "english-daily-2026-11-02-78",
+   "question": "In competitive English usage, what does the expression or literary term 'Hobson's choice' mean?",
+   "options": [
+    "An apparently free choice where there is in reality only one option offered: take it or leave it",
+    "Pursuing a mistaken line of inquiry or directing blame at the wrong person",
+    "Take an irrevocable step that commits a person to a definite course of action with no turning back",
+    "Requires the modal auxiliary 'should' or bare subjunctive without a negative particle"
+   ],
+   "answer": 0,
+   "explanation": "'Hobson's choice' means: An apparently free choice where there is in reality only one option offered: take it or leave it. (Originates from Cambridge stable owner Thomas Hobson, who made customers take the horse nearest the door)",
+   "topic": "Competitive English & Grammar Usage",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
   }
  ]
 };

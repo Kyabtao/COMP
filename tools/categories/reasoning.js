@@ -13,7 +13,7 @@
   "railways"
  ],
  "blurb": "Series, coding, blood relations, directions and syllogisms.",
- "count": 1549,
+ "count": 1553,
  "questions": [
   {
    "id": "reasoning-00001",
@@ -23298,6 +23298,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "reasoning-daily-2026-11-02-05",
+   "question": "In competitive logical reasoning, what is the exact rule or answer for 'Shadow Direction Rule at Sunrise (Morning) in Direction Sense Problems'?",
+   "options": [
+    "At sunrise the Sun is in the East, so every shadow falls towards the West (to the left of a person facing North, and to the right of a person facing South)",
+    "'If not Q, then not P' (~Q -> ~P)",
+    "Repeats after 6 years (whereas Leap + 2 and Leap + 3 repeat after 11 years, and a Leap year repeats after 28 years)",
+    "12 * (n - 2)"
+   ],
+   "answer": 0,
+   "explanation": "Shadow Direction Rule at Sunrise (Morning) in Direction Sense Problems: At sunrise the Sun is in the East, so every shadow falls towards the West (to the left of a person facing North, and to the right of a person facing South) (conversely, at sunset the Sun is in the West and shadows fall towards the East).",
+   "topic": "Logical, Verbal & Analytical Reasoning in Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "reasoning-daily-2026-11-02-30",
+   "question": "In verbal analogy reasoning, if 'Japan : Yen', then 'Pakistan : ?'",
+   "options": [
+    "Euro",
+    "Tenge",
+    "Pakistani Rupee",
+    "Baht"
+   ],
+   "answer": 2,
+   "explanation": "Just as the Yen is the national currency of Japan, the Pakistani Rupee is the currency of Pakistan (capital: Islamabad).",
+   "topic": "Verbal Reasoning — Country & Currency Analogies",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "reasoning-daily-2026-11-02-55",
+   "question": "In verbal analogy reasoning, if 'Birds' is related to 'Ornithology', then 'Weather and atmosphere' is analogously related to which discipline?",
+   "options": [
+    "Meteorology",
+    "Histology",
+    "Numismatics",
+    "Bacteriology"
+   ],
+   "answer": 0,
+   "explanation": "Just as Ornithology is the study of birds, Meteorology is the study of Weather and atmosphere.",
+   "topic": "Verbal Reasoning — Scientific Branch & Subject Analogies",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "reasoning-daily-2026-11-02-80",
+   "question": "Complete the analogy from biosphere reserves: Nokrek : Meghalaya :: Agasthyamalai : ?",
+   "options": [
+    "Direct beam solar radiation",
+    "Kerala and Tamil Nadu",
+    "Inverse relationship between inflation and unemployment",
+    "Article 165"
+   ],
+   "answer": 1,
+   "explanation": "Nokrek Biosphere Reserve is located in the Garo Hills of Meghalaya, whereas Agasthyamalai Biosphere Reserve spans the southern Western Ghats across Kerala and Tamil Nadu.",
+   "topic": "Logical & Verbal Reasoning from Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
   }
  ]
 };

@@ -11,7 +11,7 @@
   "ssc-chsl"
  ],
  "blurb": "Number work, algebra, geometry and speed-accuracy drills.",
- "count": 1550,
+ "count": 1554,
  "questions": [
   {
    "id": "mathematics-00001",
@@ -23312,6 +23312,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "mathematics-daily-2026-11-02-02",
+   "question": "In competitive mathematics, what is the exact result or formula for 'Total Outcomes and Probability of Getting a Sum of 7 When Two Fair Dice Are Rolled'?",
+   "options": [
+    "The angle between a tangent and a chord through the point of contact equals the angle subtended by the chord in the alternate segment",
+    "6 favourable outcomes out of 36 total outcomes, so Probability = 6/36 = 1/6 (the most likely sum)",
+    "Sum = 720 degrees; Each interior angle = 120 degrees (9 diagonals)",
+    "Sum = 1080 degrees; Each interior angle = 135 degrees (20 diagonals)"
+   ],
+   "answer": 1,
+   "explanation": "Total Outcomes and Probability of Getting a Sum of 7 When Two Fair Dice Are Rolled: 6 favourable outcomes out of 36 total outcomes, so Probability = 6/36 = 1/6 (the most likely sum). The pairs summing to 7 are (1,6), (2,5), (3,4), (4,3), (5,2) and (6,1).",
+   "topic": "Mathematics — Geometry, Trigonometry, Algebra & Statistics",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "mathematics-daily-2026-11-02-27",
+   "question": "In competitive mathematics, what is the exact result or formula for 'Regular Pentagon (5 sides): Sum of Interior Angles and Measure of Each Interior Angle'?",
+   "options": [
+    "Sum = 1800 degrees; Each interior angle = 150 degrees (54 diagonals)",
+    "Sum = 540 degrees; Each interior angle = 108 degrees (5 diagonals)",
+    "2 + sqrt(3)",
+    "x^2 + (1 / x^2) = k^2 - 2  and  x^3 + (1 / x^3) = k^3 - 3k"
+   ],
+   "answer": 1,
+   "explanation": "Regular Pentagon (5 sides): Sum of Interior Angles and Measure of Each Interior Angle: Sum = 540 degrees; Each interior angle = 108 degrees (5 diagonals). For n = 5, (n - 2) * 180 = 540 degrees, 540 / 5 = 108 degrees, and n(n - 3)/2 = 5 diagonals.",
+   "topic": "Mathematics — Geometry, Trigonometry, Algebra & Statistics",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "mathematics-daily-2026-11-02-52",
+   "question": "In set theory (Inclusion-Exclusion Principle), for any two finite sets A and B, what does n(A union B) equal?",
+   "options": [
+    "sec^2(theta) - tan^2(theta) = 1",
+    "n(A) + n(B) - n(A intersection B)",
+    "[n(n + 1) / 2]^2",
+    "2uv / (u + v) (the Harmonic Mean of u and v)"
+   ],
+   "answer": 1,
+   "explanation": "To count elements in either A or B without double-counting elements common to both, n(A union B) = n(A) + n(B) - n(A intersection B).",
+   "topic": "Applied Mathematics & Quantitative Problem Solving",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "mathematics-daily-2026-11-02-77",
+   "question": "In competitive mathematics, what is the exact result or formula for 'Change of Base Formula and Product/Quotient Laws of Logarithms'?",
+   "options": [
+    "x^2 + (1 / x^2) = k^2 - 2  and  x^3 + (1 / x^3) = k^3 - 3k",
+    "log_b(a) = log(a) / log(b);  log(xy) = log(x) + log(y);  log(x/y) = log(x) - log(y)",
+    "Area(ABC) / Area(DEF) = (AB / DE)^2 = (BC / EF)^2 = (AC / DF)^2 (square of the ratio of corresponding sides, medians or altitudes)",
+    "G^2 = A * H  and  A >= G >= H"
+   ],
+   "answer": 1,
+   "explanation": "Change of Base Formula and Product/Quotient Laws of Logarithms: log_b(a) = log(a) / log(b);  log(xy) = log(x) + log(y);  log(x/y) = log(x) - log(y). Valid for positive arguments and base b > 0, b != 1.",
+   "topic": "Mathematics — Geometry, Trigonometry, Algebra & Statistics",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
   }
  ]
 };

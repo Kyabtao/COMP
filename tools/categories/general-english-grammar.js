@@ -12,7 +12,7 @@
   "banking"
  ],
  "blurb": "Voice, narration, articles, prepositions and error spotting.",
- "count": 324,
+ "count": 328,
  "questions": [
   {
    "id": "general-english-grammar-00001",
@@ -4917,6 +4917,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "general-english-grammar-daily-2026-11-02-09",
+   "question": "In English grammar, choose the appropriate preposition to complete the sentence: 'They are looking ____ the matter.'",
+   "options": [
+    "to",
+    "from",
+    "of",
+    "into"
+   ],
+   "answer": 3,
+   "explanation": "The grammatically correct preposition in 'They are looking ____ the matter.' is 'into'.",
+   "topic": "General English Grammar — Prepositional Usage",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "general-english-grammar-daily-2026-11-02-34",
+   "question": "In standard English grammar for competitive exams: What is a sentence with one main clause and one subordinate clause called?",
+   "options": [
+    "Complex sentence",
+    "Courageous",
+    "Colon",
+    "Preposition"
+   ],
+   "answer": 0,
+   "explanation": "Grammar rule: What is a sentence with one main clause and one subordinate clause called? — Complex sentence.",
+   "topic": "General English Grammar — Rules & Sentence Correction",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "general-english-grammar-daily-2026-11-02-59",
+   "question": "In standard English grammar, what is the correct plural form of the singular noun 'Chief'?",
+   "options": [
+    "Armies",
+    "Bases",
+    "Halves",
+    "Chiefs"
+   ],
+   "answer": 3,
+   "explanation": "The plural form of 'Chief' is 'Chiefs'.",
+   "topic": "General English Grammar — Singular & Plural Nouns",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "general-english-grammar-daily-2026-11-02-84",
+   "question": "In English grammar, what is the superlative form of the adjective 'Long' (comparative: 'Longer')?",
+   "options": [
+    "Safest",
+    "Most difficult",
+    "Longest",
+    "Most dangerous"
+   ],
+   "answer": 2,
+   "explanation": "Positive: Long, Comparative: Longer, Superlative: Longest.",
+   "topic": "General English Grammar — Degrees of Comparison, Plurals & Gender",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
   }
  ]
 };

@@ -13,7 +13,7 @@
   "railways"
  ],
  "blurb": "Recent schemes, missions, summits, awards and appointments.",
- "count": 1047,
+ "count": 1051,
  "questions": [
   {
    "id": "current-affairs-00001",
@@ -15766,6 +15766,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "current-affairs-daily-2026-11-02-10",
+   "question": "Which current affairs development was reported regarding: \"NDRF, SDRF teams deployed in districts likely to be affected\"?",
+   "options": [
+    "Cyclonic storm Murasu to make landfall close to Ongole",
+    "Six Indian tourists stranded in Nepal's National Park rescued safely",
+    "Thammanam-Pullepady road project gets a fresh push",
+    "Cyclone Murasu | Paddy farmers in Telangana fear crop damage amid high market prices"
+   ],
+   "answer": 0,
+   "explanation": "Cyclonic storm Murasu to make landfall close to Ongole — NDRF, SDRF teams deployed in districts likely to be affected (The Hindu — National & Current Affairs, Mon, 02 Nov 2026 12:00:32 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "current-affairs-daily-2026-11-02-35",
+   "question": "Which current affairs development was reported regarding: \"All of the rescued tourists are undergoing treatment at a government hospital in the Dune of Dolpa district, and their condition is out of danger, says police\"?",
+   "options": [
+    "‘Murasu’ strengthens into Severe Cyclonic Storm",
+    "Six Indian tourists stranded in Nepal's National Park rescued safely",
+    "CCB probe into ‘sting video’ points to HDK’s Delhi residence, says Police Commissioner",
+    "‘Remove Modi to save democracy’: Congress chief Kharge attacks PM at INDIA bloc rally"
+   ],
+   "answer": 1,
+   "explanation": "Six Indian tourists stranded in Nepal's National Park rescued safely — All of the rescued tourists are undergoing treatment at a government hospital in the Dune of Dolpa district, and their condition is out of danger, says police (The Hindu — National & Current Affairs, Mon, 02 Nov 2026 11:58:49 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "current-affairs-daily-2026-11-02-60",
+   "question": "Which current affairs development was reported regarding: \"On November 1, 2026, the AAP legislators, one of whom a former Minister, resigned from the party’s primary membership\"?",
+   "options": [
+    "Cyclone Murasu LIVE updates: Eleven flights cancelled at Chennai airport amid heavy rain",
+    "Justice Sanjay Kishan Kaul on his memoir ‘Without Fear or Favour’ and the executive’s growing influence over the collegium system",
+    "Three AAP MLAs join BJP in Punjab",
+    "Slow recovery: On the ISRO’s GSLV-F18 mission"
+   ],
+   "answer": 2,
+   "explanation": "Three AAP MLAs join BJP in Punjab — On November 1, 2026, the AAP legislators, one of whom a former Minister, resigned from the party’s primary membership (The Hindu — National & Current Affairs, Mon, 02 Nov 2026 11:57:56 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "current-affairs-daily-2026-11-02-85",
+   "question": "Which current affairs development was reported regarding: \"People were urged to avoid travelling to Somasila, Nallamalla ghat road, and tourist spots\"?",
+   "options": [
+    "How can drug menace issue cast shadow on Punjab 2027 Assembly polls | Explained",
+    "Cyclone Murasu | Telangana’s Nagarkurnool administration releases do’s and don’ts",
+    "Six Indian tourists stranded in Nepal's National Park rescued safely",
+    "BJP alleges rift between Rahul, Priyanka; accuses LoP of sidelining sister at INDIA bloc protests"
+   ],
+   "answer": 1,
+   "explanation": "Cyclone Murasu | Telangana’s Nagarkurnool administration releases do’s and don’ts — People were urged to avoid travelling to Somasila, Nallamalla ghat road, and tourist spots (The Hindu — National & Current Affairs, Mon, 02 Nov 2026 11:57:52 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
   }
  ]
 };

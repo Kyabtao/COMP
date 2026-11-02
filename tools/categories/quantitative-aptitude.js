@@ -12,7 +12,7 @@
   "banking"
  ],
  "blurb": "Arithmetic, percentages, interest, ratios and mensuration.",
- "count": 1550,
+ "count": 1554,
  "questions": [
   {
    "id": "quantitative-aptitude-00001",
@@ -23313,6 +23313,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "quantitative-aptitude-daily-2026-11-02-04",
+   "question": "In quantitative aptitude, what is the standard formula or value for 'Effective Annual Rate for r% Nominal Interest Compounded Half-Yearly'?",
+   "options": [
+    "A number is divisible by 9 (or 3) if and only if the sum of its digits is divisible by 9 (or 3)",
+    "New Average = Old Average + (New - Old) / n",
+    "(r + (r^2 / 400))% per annum (since the half-yearly rate is r/2 % applied twice)",
+    "Marked Price : Cost Price = (100 + p) : (100 - d)"
+   ],
+   "answer": 2,
+   "explanation": "Effective Annual Rate for r% Nominal Interest Compounded Half-Yearly: (r + (r^2 / 400))% per annum (since the half-yearly rate is r/2 % applied twice). Two successive compoundings of (r/2)% yield r/2 + r/2 + (r/2)^2 / 100 = r + r^2/400 %.",
+   "topic": "Quantitative Aptitude — Percentages, Interest, Work, Speed & Number Rules",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "quantitative-aptitude-daily-2026-11-02-29",
+   "question": "In quantitative aptitude exams, how is 'Total Number of Positive Divisors (Factors) of N = p^a * q^b * r^c (where p, q, r are distinct primes)' calculated or expressed?",
+   "options": [
+    "(x + y - (x * y) / 100)%",
+    "[R / (100 + R)] * 100%",
+    "(L_1 + L_2) / S",
+    "(a + 1)(b + 1)(c + 1)"
+   ],
+   "answer": 3,
+   "explanation": "Total Number of Positive Divisors (Factors) of N = p^a * q^b * r^c (where p, q, r are distinct primes): (a + 1)(b + 1)(c + 1) (each prime factor p can be chosen from power 0 up to power a, giving (a + 1) choices).",
+   "topic": "Quantitative Aptitude — Commercial Arithmetic, Work, Time & Numbers",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "quantitative-aptitude-daily-2026-11-02-54",
+   "question": "In quantitative aptitude, what is the standard formula or value for 'Sum of All Positive Divisors of N = p^a * q^b (for Distinct Primes p, q)'?",
+   "options": [
+    "[(p^(a+1) - 1) / (p - 1)] * [(q^(b+1) - 1) / (q - 1)]",
+    "Marked Price : Cost Price = (100 + p) : (100 - d)",
+    "1 km/hr = 5/18 m/s  and  1 m/s = 18/5 km/hr",
+    "If a sum becomes 2 times in T years under Compound Interest, it becomes 2^m times of itself in (m * T) years"
+   ],
+   "answer": 0,
+   "explanation": "Sum of All Positive Divisors of N = p^a * q^b (for Distinct Primes p, q): [(p^(a+1) - 1) / (p - 1)] * [(q^(b+1) - 1) / (q - 1)]. Product of geometric series sums (1 + p + ... + p^a)(1 + q + ... + q^b).",
+   "topic": "Quantitative Aptitude — Percentages, Interest, Work, Speed & Number Rules",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "quantitative-aptitude-daily-2026-11-02-79",
+   "question": "In quantitative aptitude exams, how is 'Rule of Alligation for Mixing Cheaper (c) and Dearer (d) Ingredients to Obtain Mean Price (m)' calculated or expressed?",
+   "options": [
+    "P * (R / 100)^2 * (3 + R / 100)",
+    "Quantity of Cheaper : Quantity of Dearer = (d - m) : (m - c)",
+    "floor(n / p) + floor(n / p^2) + floor(n / p^3) + ...",
+    "P * (R / 100)^2"
+   ],
+   "answer": 1,
+   "explanation": "Rule of Alligation for Mixing Cheaper (c) and Dearer (d) Ingredients to Obtain Mean Price (m): Quantity of Cheaper : Quantity of Dearer = (d - m) : (m - c) (derived from the weighted average equation (q_c * c + q_d * d) / (q_c + q_d) = m).",
+   "topic": "Quantitative Aptitude — Commercial Arithmetic, Work, Time & Numbers",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
   }
  ]
 };

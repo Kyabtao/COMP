@@ -11,7 +11,7 @@
   "railways"
  ],
  "blurb": "Human body, plants, diseases and nutrition.",
- "count": 324,
+ "count": 328,
  "questions": [
   {
    "id": "biology-00001",
@@ -4916,6 +4916,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "biology-daily-2026-11-02-08",
+   "question": "In biology, what is the primary function or characteristic of 'Mitochondria and Chloroplasts (Semi-Autonomous Organelles)'?",
+   "options": [
+    "Both possess their own circular DNA and 70S ribosomes and can synthesize some of their own proteins",
+    "Mitosis produces 2 genetically identical diploid (2n) somatic daughter cells; Meiosis produces 4 genetically diverse haploid (n) gametes with crossing-over in Prophase I (Pachytene)",
+    "Comprises Bowman's capsule, glomerulus, PCT, Loop of Henle and DCT; performs ultrafiltration, selective reabsorption and tubular secretion",
+    "Auxin promotes apical dominance and phototropism; Gibberellin promotes stem elongation and breaks seed dormancy; Cytokinin promotes cell division; Abscisic Acid (ABA) induces stomatal closure ('stress hormone'); Ethylene is a gaseous hormone that ripens fruit"
+   ],
+   "answer": 0,
+   "explanation": "Mitochondria and Chloroplasts (Semi-Autonomous Organelles) — Both possess their own circular DNA and 70S ribosomes and can synthesize some of their own proteins (mitochondria generate ATP via cellular respiration ('powerhouse of the cell') while chloroplasts perform photosynthesis).",
+   "topic": "Core Biology — Cell Biology, Genetics, Human & Plant Physiology",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "biology-daily-2026-11-02-33",
+   "question": "In medical microbiology and pathology, what is the causative agent or cause of 'Tuberculosis'?",
+   "options": [
+    "Mycobacterium tuberculosis bacteria",
+    "Vibrio cholerae bacteria",
+    "Yersinia pestis bacteria",
+    "Rhinovirus"
+   ],
+   "answer": 0,
+   "explanation": "In medical biology, Tuberculosis is caused by Mycobacterium tuberculosis bacteria.",
+   "topic": "Biology — Human Diseases & Pathogens",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "biology-daily-2026-11-02-58",
+   "question": "In medical microbiology and pathology, what is the causative agent or cause of 'Meningitis'?",
+   "options": [
+    "Mycobacterium leprae bacteria",
+    "Bacillus anthracis bacteria",
+    "Neisseria meningitidis bacteria",
+    "Treponema pallidum bacteria"
+   ],
+   "answer": 2,
+   "explanation": "In medical biology, Meningitis is caused by Neisseria meningitidis bacteria.",
+   "topic": "Biology — Human Diseases & Pathogens",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "biology-daily-2026-11-02-83",
+   "question": "In human nutrition and medical biology, a clinical deficiency of 'Vitamin B6' leads to which disorder?",
+   "options": [
+    "Anaemia",
+    "Haemolysis of red blood cells",
+    "Osteoporosis",
+    "Rickets in children"
+   ],
+   "answer": 0,
+   "explanation": "A deficiency of Vitamin B6 causes Anaemia.",
+   "topic": "Biology — Vitamins, Minerals & Deficiency Disorders",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
   }
  ]
 };

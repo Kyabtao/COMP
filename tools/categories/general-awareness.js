@@ -12,7 +12,7 @@
   "railways"
  ],
  "blurb": "Defence, awards, institutions and national facts.",
- "count": 323,
+ "count": 327,
  "questions": [
   {
    "id": "general-awareness-00001",
@@ -4901,6 +4901,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "general-awareness-daily-2026-11-02-19",
+   "question": "In international general awareness, where is the permanent headquarters of 'World Trade Organization' located?",
+   "options": [
+    "Paris",
+    "Vienna",
+    "Amsterdam",
+    "Geneva"
+   ],
+   "answer": 3,
+   "explanation": "The headquarters of World Trade Organization is located at Geneva.",
+   "topic": "General Awareness — International Organisations & Headquarters",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "general-awareness-daily-2026-11-02-44",
+   "question": "With which country does India conduct the joint military or defence exercise 'AustraHind'?",
+   "options": [
+    "Oman",
+    "Kyrgyzstan",
+    "Malaysia",
+    "Australia"
+   ],
+   "answer": 3,
+   "explanation": "'AustraHind' is a joint joint bilateral multi-domain army exercise conducted between India and Australia.",
+   "topic": "Joint Military Exercises in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "general-awareness-daily-2026-11-02-69",
+   "question": "In competitive general awareness, who or what is recognised as 'First woman to win a Nobel Prize'?",
+   "options": [
+    "Roger Bannister",
+    "C. Rajagopalachari",
+    "G. V. Mavalankar",
+    "Marie Curie"
+   ],
+   "answer": 3,
+   "explanation": "First woman to win a Nobel Prize — Marie Curie.",
+   "topic": "General Awareness — Firsts in India, National Symbols & Institutions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "general-awareness-daily-2026-11-02-94",
+   "question": "In international general awareness, where is the permanent headquarters of 'World Meteorological Organization' located?",
+   "options": [
+    "Montreal",
+    "Rome",
+    "Manila",
+    "Geneva"
+   ],
+   "answer": 3,
+   "explanation": "The headquarters of World Meteorological Organization is located at Geneva.",
+   "topic": "General Awareness — International Organisations & Headquarters",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
   }
  ]
 };

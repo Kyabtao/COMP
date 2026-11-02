@@ -11,7 +11,7 @@
   "railways"
  ],
  "blurb": "Motion, energy, light, electricity and units.",
- "count": 303,
+ "count": 307,
  "questions": [
   {
    "id": "physics-00001",
@@ -4600,6 +4600,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "physics-daily-2026-11-02-06",
+   "question": "In physics, what does 'Joule's Law of Heating in an Electric Conductor' state or explain?",
+   "options": [
+    "Apparent shift in observed frequency of a wave due to relative motion between the source and the observer",
+    "Heat produced H = I^2 * R * t (proportional to square of current, resistance and time)",
+    "Myopia (image forms in front of retina) is corrected using a concave (diverging) lens; Hypermetropia (image forms behind retina) is corrected using a convex (converging) lens",
+    "Always forms a virtual, erect and diminished image, providing a wider field of view of traffic behind"
+   ],
+   "answer": 1,
+   "explanation": "Joule's Law of Heating in an Electric Conductor — Heat produced H = I^2 * R * t (proportional to square of current, resistance and time) (explains the working of electric heaters, irons and safety fuse wires).",
+   "topic": "Core Physics Laws, Optics, Electricity & Mechanics in Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "physics-daily-2026-11-02-31",
+   "question": "In physics and metrology, which SI unit is used to express the physical quantity 'Time'?",
+   "options": [
+    "Volt",
+    "Joule per Kelvin",
+    "Siemens",
+    "Second"
+   ],
+   "answer": 3,
+   "explanation": "In the International System of Units (SI), Time is measured in Second.",
+   "topic": "Physics — SI Units & Physical Quantities",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "physics-daily-2026-11-02-56",
+   "question": "In experimental physics and instrumentation, what is the device 'Pyrometer' designed to measure or detect?",
+   "options": [
+    "High temperature",
+    "Gas pressure",
+    "Heat change in reactions",
+    "Rotational speed"
+   ],
+   "answer": 0,
+   "explanation": "Pyrometer is used for measuring High temperature.",
+   "topic": "Physics — Scientific Instruments & Measurements",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "physics-daily-2026-11-02-81",
+   "question": "In planetary science and astrophysics, which solar system body is characterised by the fact: 'Asteroid'?",
+   "options": [
+    "Asteroid",
+    "Venus",
+    "Europa",
+    "Neptune"
+   ],
+   "answer": 0,
+   "explanation": "Asteroid (Rocky body orbiting between Mars and Jupiter) — Asteroid.",
+   "topic": "Astrophysics & Planetary Science",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
   }
  ]
 };

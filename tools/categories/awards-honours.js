@@ -12,7 +12,7 @@
   "railways"
  ],
  "blurb": "Civilian, gallantry, literary and international awards.",
- "count": 247,
+ "count": 251,
  "questions": [
   {
    "id": "awards-honours-00001",
@@ -3764,6 +3764,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "awards-honours-daily-2026-11-02-22",
+   "question": "Who was conferred the Dadasaheb Phalke Lifetime Achievement Award at the 70th National Film Awards in 2024?",
+   "options": [
+    "Waheeda Rehman",
+    "Mithun Chakraborty",
+    "Rajinikanth",
+    "Asha Parekh"
+   ],
+   "answer": 1,
+   "explanation": "Veteran actor Mithun Chakraborty, who made his debut with the National Award-winning film Mrigayaa (1976), was honoured with the Dadasaheb Phalke Award at the 70th National Film Awards.",
+   "topic": "National Film Awards",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "awards-honours-daily-2026-11-02-47",
+   "question": "In awards and honours awareness, for excellence in which field is the 'Param Vir Chakra' conferred?",
+   "options": [
+    "UNESCO award for popularisation of science",
+    "Highest military decoration of India",
+    "Highest sporting honour of India",
+    "Second highest civilian award of India"
+   ],
+   "answer": 1,
+   "explanation": "Param Vir Chakra is conferred for Highest military decoration of India.",
+   "topic": "Awards & Honours — National & International Distinctions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "awards-honours-daily-2026-11-02-72",
+   "question": "Which Malayalam film won the Best Feature Film award at the 70th National Film Awards announced in 2024?",
+   "options": [
+    "Aadujeevitham",
+    "2018",
+    "Aattam",
+    "Kantara"
+   ],
+   "answer": 2,
+   "explanation": "The Malayalam drama 'Aattam' (The Play), directed by Anand Ekarshi, won Best Feature Film and Best Screenplay at the 70th National Film Awards.",
+   "topic": "National Film Awards",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "awards-honours-daily-2026-11-02-97",
+   "question": "In awards and honours awareness, for excellence in which field is the 'Sahitya Akademi Award' conferred?",
+   "options": [
+    "Highest peacetime gallantry award of India",
+    "Highest military decoration of India",
+    "Literary award for Indian languages",
+    "Indian award in agricultural science"
+   ],
+   "answer": 2,
+   "explanation": "Sahitya Akademi Award is conferred for Literary award for Indian languages.",
+   "topic": "Awards & Honours — National & International Distinctions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
   }
  ]
 };

@@ -13,7 +13,7 @@
   "railways"
  ],
  "blurb": "National symbols, dances, festivals, dams, parks, instruments and branches of science.",
- "count": 1046,
+ "count": 1050,
  "questions": [
   {
    "id": "static-gk-00001",
@@ -15750,6 +15750,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "static-gk-daily-2026-11-02-20",
+   "question": "In Indian cultural Static GK, 'Bhangra' is a traditional dance form or festival of which state or UT?",
+   "options": [
+    "Tamil Nadu",
+    "Punjab",
+    "Arunachal Pradesh",
+    "Ladakh"
+   ],
+   "answer": 1,
+   "explanation": "In Indian culture, Bhangra belongs to Punjab.",
+   "topic": "Static GK — Classical & Folk Dances and Festivals of India",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "static-gk-daily-2026-11-02-45",
+   "question": "In Indian cultural Static GK, 'Giddha' is a traditional dance form or festival of which state or UT?",
+   "options": [
+    "Punjab",
+    "Madhya Pradesh",
+    "Manipur",
+    "Gujarat"
+   ],
+   "answer": 0,
+   "explanation": "In Indian culture, Giddha belongs to Punjab.",
+   "topic": "Static GK — Classical & Folk Dances and Festivals of India",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "static-gk-daily-2026-11-02-70",
+   "question": "In Indian Static GK, what is the capital city of Meghalaya (in North-East India)?",
+   "options": [
+    "Shillong",
+    "Agartala",
+    "Bhopal",
+    "Hyderabad"
+   ],
+   "answer": 0,
+   "explanation": "The capital of Meghalaya (North-East India) is Shillong.",
+   "topic": "Static GK — Indian States, Capitals & Regions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "static-gk-daily-2026-11-02-95",
+   "question": "In Indian cultural Static GK, 'Jhumur' is a traditional dance form or festival of which state or UT?",
+   "options": [
+    "Rajasthan",
+    "Nagaland",
+    "Jharkhand",
+    "Maharashtra"
+   ],
+   "answer": 2,
+   "explanation": "In Indian culture, Jhumur belongs to Jharkhand.",
+   "topic": "Static GK — Classical & Folk Dances and Festivals of India",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
   }
  ]
 };

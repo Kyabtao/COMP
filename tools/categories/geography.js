@@ -12,7 +12,7 @@
   "railways"
  ],
  "blurb": "Physical, world and Indian geography with climate and minerals.",
- "count": 1044,
+ "count": 1048,
  "questions": [
   {
    "id": "geography-00001",
@@ -15717,6 +15717,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "geography-daily-2026-11-02-13",
+   "question": "De Eemhof, Port Zelande and Het Heijderbos are holiday villas owned by what company?",
+   "options": [
+    "Villa Plus",
+    "Yelloh Village",
+    "Center Parcs",
+    "Keycamp"
+   ],
+   "answer": 2,
+   "explanation": "Center Parcs is the correct answer for: De Eemhof, Port Zelande and Het Heijderbos are holiday villas owned by what company? (General Knowledge).",
+   "topic": "General Knowledge",
+   "level": 3,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "geography-daily-2026-11-02-38",
+   "question": "In the geography of India, 'Maithon Dam' is associated with which origin, river, state or region?",
+   "options": [
+    "Baralacha La",
+    "Barakar",
+    "Nepal Himalayas",
+    "Varusanadu Hills"
+   ],
+   "answer": 1,
+   "explanation": "In Indian geography, Maithon Dam is associated with Barakar.",
+   "topic": "Geography of India — Rivers, Dams, Mountain Passes & Minerals",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "geography-daily-2026-11-02-63",
+   "question": "In physical and regional geography, which bodies of water or landmasses are connected or separated by 'Ten Degree Channel'?",
+   "options": [
+    "Connects the Andaman Sea (Indian Ocean) with the South China Sea (Pacific Ocean) between the Malay Peninsula and Sumatra",
+    "Separates Little Andaman (Andaman Islands) from Car Nicobar (Nicobar Islands) in the Bay of Bengal",
+    "Separates the island of Minicoy from the main Lakshadweep archipelago in the Arabian Sea",
+    "Separates Rutland Island (part of South Andaman) from Little Andaman"
+   ],
+   "answer": 1,
+   "explanation": "Ten Degree Channel connects or separates: Separates Little Andaman (Andaman Islands) from Car Nicobar (Nicobar Islands) in the Bay of Bengal (a 150 km wide east-west maritime channel lying along the 10-degree north parallel of latitude).",
+   "topic": "World & Indian Geography in Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "geography-daily-2026-11-02-88",
+   "question": "In physical and regional geography: Which is the largest sea in the world?",
+   "options": [
+    "South China Sea",
+    "Antarctica",
+    "Lucknow",
+    "Andes"
+   ],
+   "answer": 0,
+   "explanation": "Which is the largest sea in the world? — South China Sea.",
+   "topic": "Indian & World Geography — Physical & Regional Facts",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
   }
  ]
 };

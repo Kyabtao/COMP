@@ -11,7 +11,7 @@
   "ssc-chsl"
  ],
  "blurb": "Famous books and their authors.",
- "count": 304,
+ "count": 308,
  "questions": [
   {
    "id": "books-authors-00001",
@@ -4616,6 +4616,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "books-authors-daily-2026-11-02-23",
+   "question": "What is the first book of the Old Testament?",
+   "options": [
+    "Numbers",
+    "Leviticus",
+    "Genesis",
+    "Exodus"
+   ],
+   "answer": 2,
+   "explanation": "Genesis is the correct answer for: What is the first book of the Old Testament? (General Knowledge).",
+   "topic": "General Knowledge",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "books-authors-daily-2026-11-02-48",
+   "question": "In literature and competitive exams, who is the author of the celebrated work 'India Wins Freedom'?",
+   "options": [
+    "Maulana Abul Kalam Azad",
+    "Sarojini Naidu",
+    "Maxim Gorky",
+    "Kautilya"
+   ],
+   "answer": 0,
+   "explanation": "The book 'India Wins Freedom' was written by Maulana Abul Kalam Azad.",
+   "topic": "Books & Authors — Classic & Modern Literary Works",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "books-authors-daily-2026-11-02-73",
+   "question": "Who is the author of the book 'Four Stars of Destiny', which was recently featured in literary news and competitive exams?",
+   "options": [
+    "Kalpana Sankar",
+    "Amitav Ghosh",
+    "Salman Rushdie",
+    "General Manoj Mukund Naravane"
+   ],
+   "answer": 3,
+   "explanation": "'Four Stars of Destiny' (autobiographical account by the 28th Chief of the Army Staff covering military leadership and border challenges) was written by General Manoj Mukund Naravane.",
+   "topic": "Books & Authors in Recent News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "books-authors-daily-2026-11-02-98",
+   "question": "In literature and competitive exams, who is the author of the celebrated work 'The Story of My Life'?",
+   "options": [
+    "A. P. J. Abdul Kalam",
+    "Arundhati Roy",
+    "Helen Keller",
+    "Jane Austen"
+   ],
+   "answer": 2,
+   "explanation": "The book 'The Story of My Life' was written by Helen Keller.",
+   "topic": "Books & Authors — Classic & Modern Literary Works",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
   }
  ]
 };

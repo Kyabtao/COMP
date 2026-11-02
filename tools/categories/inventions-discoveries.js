@@ -11,7 +11,7 @@
   "railways"
  ],
  "blurb": "Inventions, inventors and discoveries.",
- "count": 303,
+ "count": 307,
  "questions": [
   {
    "id": "inventions-discoveries-00001",
@@ -4600,6 +4600,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "inventions-discoveries-daily-2026-11-02-17",
+   "question": "In the history of science and technology, who is credited with 'Air conditioner'?",
+   "options": [
+    "Willis Carrier",
+    "John Bardeen and colleagues",
+    "Rudolf Diesel",
+    "Isaac Newton"
+   ],
+   "answer": 0,
+   "explanation": "Air conditioner is credited to Willis Carrier.",
+   "topic": "Inventions, Discoveries & Scientific Pioneers",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "inventions-discoveries-daily-2026-11-02-42",
+   "question": "In the history of science, which pioneering discovery or theory was formulated by Alexander Graham Bell?",
+   "options": [
+    "Laws of motion and gravitation",
+    "Telephone",
+    "Nuclear model of the atom",
+    "Atomic model"
+   ],
+   "answer": 1,
+   "explanation": "Alexander Graham Bell is renowned for Telephone.",
+   "topic": "Eminent Scientists & Breakthrough Contributions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "inventions-discoveries-daily-2026-11-02-67",
+   "question": "In the history of science and technology, who is credited with 'Diesel engine'?",
+   "options": [
+    "Isaac Newton",
+    "James Chadwick",
+    "Rudolf Diesel",
+    "Jacob Perkins"
+   ],
+   "answer": 2,
+   "explanation": "Diesel engine is credited to Rudolf Diesel.",
+   "topic": "Inventions, Discoveries & Scientific Pioneers",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "inventions-discoveries-daily-2026-11-02-92",
+   "question": "In the history of science, which pioneering discovery or theory was formulated by Har Gobind Khorana?",
+   "options": [
+    "Periodic table of elements",
+    "Genetic code",
+    "Boyle's law of gases",
+    "Ornithology in India"
+   ],
+   "answer": 1,
+   "explanation": "Har Gobind Khorana is renowned for Genetic code.",
+   "topic": "Eminent Scientists & Breakthrough Contributions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
   }
  ]
 };

@@ -13,7 +13,7 @@
   "railways"
  ],
  "blurb": "Important national and international days.",
- "count": 324,
+ "count": 328,
  "questions": [
   {
    "id": "days-events-00001",
@@ -4918,6 +4918,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "days-events-daily-2026-11-02-24",
+   "question": "In national and international observances, on which date is 'World Cancer Day' celebrated every year?",
+   "options": [
+    "4 February",
+    "1 May",
+    "17 May",
+    "first Monday of October"
+   ],
+   "answer": 0,
+   "explanation": "World Cancer Day is observed annually on 4 February.",
+   "topic": "Important National & International Days and Observances",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "days-events-daily-2026-11-02-49",
+   "question": "In national and international observances, on which date is 'Kargil Vijay Diwas' celebrated every year?",
+   "options": [
+    "26 July",
+    "8 March",
+    "20 June",
+    "1 December"
+   ],
+   "answer": 0,
+   "explanation": "Kargil Vijay Diwas is observed annually on 26 July.",
+   "topic": "Important National & International Days and Observances",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "days-events-daily-2026-11-02-74",
+   "question": "In national and international observances, on which date is 'World Environment Day' celebrated every year?",
+   "options": [
+    "5 June",
+    "29 August",
+    "3 May",
+    "18 December"
+   ],
+   "answer": 0,
+   "explanation": "World Environment Day is observed annually on 5 June.",
+   "topic": "Important National & International Days and Observances",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "days-events-daily-2026-11-02-99",
+   "question": "In national and international observances, on which date is 'World Bee Day' celebrated every year?",
+   "options": [
+    "20 May",
+    "14 December",
+    "1 November",
+    "9 December"
+   ],
+   "answer": 0,
+   "explanation": "World Bee Day is observed annually on 20 May.",
+   "topic": "Important National & International Days and Observances",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
   }
  ]
 };

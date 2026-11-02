@@ -11,7 +11,7 @@
   "railways"
  ],
  "blurb": "Elements, acids, bases, salts and chemical names.",
- "count": 266,
+ "count": 270,
  "questions": [
   {
    "id": "chemistry-00001",
@@ -4046,6 +4046,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "chemistry-daily-2026-11-02-07",
+   "question": "Which chemical compound or substance is specifically used for 'Fireproofing fabrics and acting as a mordant in textile dyeing'?",
+   "options": [
+    "Sodium Azide (NaN3)",
+    "Potash Alum (K2SO4.Al2(SO4)3.24H2O)",
+    "Ethyl Mercaptan (Ethanethiol)",
+    "Calcium Chloride (CaCl2)"
+   ],
+   "answer": 1,
+   "explanation": "Potash Alum (K2SO4.Al2(SO4)3.24H2O) (a double sulfate salt of potassium and aluminium also used for water coagulation) is used for Fireproofing fabrics and acting as a mordant in textile dyeing.",
+   "topic": "Chemistry in Everyday Life & Industry",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "chemistry-daily-2026-11-02-32",
+   "question": "In the Modern Periodic Table, what is the atomic number (Z) of the chemical element Boron (symbol: B)?",
+   "options": [
+    "6",
+    "38",
+    "1",
+    "5"
+   ],
+   "answer": 3,
+   "explanation": "Boron (B) has atomic number 5 and is classified as a Metalloid.",
+   "topic": "Chemistry — Modern Periodic Table & Elements",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "chemistry-daily-2026-11-02-57",
+   "question": "In chemical nomenclature, what is the chemical name and formula corresponding to 'Chalk'?",
+   "options": [
+    "Calcium oxychloride (CaOCl2)",
+    "Calcium carbonate (CaCO3)",
+    "Acetic acid (CH3COOH)",
+    "Sodium hydroxide (NaOH)"
+   ],
+   "answer": 1,
+   "explanation": "In chemistry, Chalk is Calcium carbonate (CaCO3).",
+   "topic": "Chemistry — Systematic & Common Chemical Names",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "chemistry-daily-2026-11-02-82",
+   "question": "In the Modern Periodic Table, what is the atomic number (Z) of the chemical element Seaborgium (symbol: Sg)?",
+   "options": [
+    "50",
+    "106",
+    "102",
+    "75"
+   ],
+   "answer": 1,
+   "explanation": "Seaborgium (Sg) has atomic number 106 and is classified as a Transition metal.",
+   "topic": "Chemistry — Modern Periodic Table & Elements",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
   }
  ]
 };

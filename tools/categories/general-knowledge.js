@@ -12,7 +12,7 @@
   "railways"
  ],
  "blurb": "Countries, capitals, currencies, days, organisations and world firsts.",
- "count": 1044,
+ "count": 1048,
  "questions": [
   {
    "id": "general-knowledge-00001",
@@ -15717,6 +15717,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "general-knowledge-daily-2026-11-02-18",
+   "question": "The term \"scientist\" was coined in which year?",
+   "options": [
+    "1933",
+    "1942",
+    "1796",
+    "1833"
+   ],
+   "answer": 3,
+   "explanation": "1833 is the correct answer for: The term \"scientist\" was coined in which year? (General Knowledge).",
+   "topic": "General Knowledge",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "general-knowledge-daily-2026-11-02-43",
+   "question": "What is the Italian word for \"tomato\"?",
+   "options": [
+    "Peperoncino",
+    "Aglio",
+    "Pomodoro",
+    "Cipolla"
+   ],
+   "answer": 2,
+   "explanation": "Pomodoro is the correct answer for: What is the Italian word for \"tomato\"? (General Knowledge).",
+   "topic": "General Knowledge",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "general-knowledge-daily-2026-11-02-68",
+   "question": "What is the highest number of Michelin stars a restaurant can receive?",
+   "options": [
+    "Four",
+    "Three",
+    "Six",
+    "Five"
+   ],
+   "answer": 1,
+   "explanation": "Three is the correct answer for: What is the highest number of Michelin stars a restaurant can receive? (General Knowledge).",
+   "topic": "General Knowledge",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "general-knowledge-daily-2026-11-02-93",
+   "question": "What do the letters of the fast food chain KFC stand for?",
+   "options": [
+    "Kibbled Freaky Cow",
+    "Kentucky Fried Chicken",
+    "Kiwi Food Cut",
+    "Kentucky Fresh Cheese"
+   ],
+   "answer": 1,
+   "explanation": "Kentucky Fried Chicken is the correct answer for: What do the letters of the fast food chain KFC stand for? (General Knowledge).",
+   "topic": "General Knowledge",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
   }
  ]
 };

@@ -11,7 +11,7 @@
   "ssc-cgl"
  ],
  "blurb": "Hardware, software, internet and cyber security.",
- "count": 325,
+ "count": 329,
  "questions": [
   {
    "id": "computer-awareness-00001",
@@ -4932,6 +4932,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "computer-awareness-daily-2026-11-02-15",
+   "question": "In computing and office software, what is '.html' used for?",
+   "options": [
+    "Scalable vector graphics file",
+    "Refresh the current window",
+    "Web page file",
+    "Print the current document"
+   ],
+   "answer": 2,
+   "explanation": "In computing, .html corresponds to Web page file.",
+   "topic": "Computer Awareness — Keyboard Shortcuts & File Extensions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "computer-awareness-daily-2026-11-02-40",
+   "question": "In computer science and information technology, what does 'Hub' refer to?",
+   "options": [
+    "Basic device that connects network devices",
+    "Software designed to damage or intrude",
+    "Short range wireless technology",
+    "Using more than one processor at a time"
+   ],
+   "answer": 0,
+   "explanation": "Hub — Basic device that connects network devices.",
+   "topic": "Computer Awareness — Architecture, Networking & Software",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "computer-awareness-daily-2026-11-02-65",
+   "question": "In computing and office software, what is '.rar' used for?",
+   "options": [
+    "Compressed archive file",
+    "Capture the screen",
+    "Close the active program",
+    "Paste the clipboard content"
+   ],
+   "answer": 0,
+   "explanation": "In computing, .rar corresponds to Compressed archive file.",
+   "topic": "Computer Awareness — Keyboard Shortcuts & File Extensions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "computer-awareness-daily-2026-11-02-90",
+   "question": "In computer science and information technology, what does 'Flowchart' refer to?",
+   "options": [
+    "Malicious program disguised as useful software",
+    "Data storage on remote internet servers",
+    "Diagram of the steps of an algorithm",
+    "Organised collection of data"
+   ],
+   "answer": 2,
+   "explanation": "Flowchart — Diagram of the steps of an algorithm.",
+   "topic": "Computer Awareness — Architecture, Networking & Software",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
   }
  ]
 };

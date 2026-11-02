@@ -11,7 +11,7 @@
   "ssc-cgl"
  ],
  "blurb": "Banking, budget, taxes, trade and national income.",
- "count": 325,
+ "count": 329,
  "questions": [
   {
    "id": "economics-00001",
@@ -4932,6 +4932,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "economics-daily-2026-11-02-14",
+   "question": "In Indian economy, banking and financial awareness: Which organ of the World Bank provides loans to the poorest countries?",
+   "options": [
+    "Article 280",
+    "State Bank of India",
+    "SIDBI",
+    "International Development Association"
+   ],
+   "answer": 3,
+   "explanation": "Which organ of the World Bank provides loans to the poorest countries? — International Development Association.",
+   "topic": "Economics, Banking & Public Finance in Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "economics-daily-2026-11-02-39",
+   "question": "In Indian economy, banking and financial awareness: What is the insurance scheme for bank deposits in India called?",
+   "options": [
+    "Deposit insurance",
+    "Bank of Japan",
+    "Income tax",
+    "Unified Payments Interface"
+   ],
+   "answer": 0,
+   "explanation": "What is the insurance scheme for bank deposits in India called? — Deposit insurance.",
+   "topic": "Economics, Banking & Public Finance in Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "economics-daily-2026-11-02-64",
+   "question": "In Indian economy, banking and financial awareness: Which is the first Indian bank to be fully owned by Indians?",
+   "options": [
+    "Punjab National Bank",
+    "Repo rate",
+    "1982",
+    "5 per cent"
+   ],
+   "answer": 0,
+   "explanation": "Which is the first Indian bank to be fully owned by Indians? — Punjab National Bank.",
+   "topic": "Economics, Banking & Public Finance in Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "economics-daily-2026-11-02-89",
+   "question": "In Indian economy, banking and financial awareness: What is the minimum percentage of deposits banks must keep with the RBI?",
+   "options": [
+    "2016",
+    "Cash Reserve Ratio",
+    "International Finance Corporation",
+    "5 per cent"
+   ],
+   "answer": 1,
+   "explanation": "What is the minimum percentage of deposits banks must keep with the RBI? — Cash Reserve Ratio.",
+   "topic": "Economics, Banking & Public Finance in Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
   }
  ]
 };

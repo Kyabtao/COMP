@@ -12,7 +12,7 @@
   "railways"
  ],
  "blurb": "Physics, chemistry and biology facts combined.",
- "count": 1045,
+ "count": 1049,
  "questions": [
   {
    "id": "general-science-00001",
@@ -15733,6 +15733,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "general-science-daily-2026-11-02-01",
+   "question": "In space and science technology, what is the primary scientific objective of 'HRIDAY'?",
+   "options": [
+    "Heritage city development and rejuvenation",
+    "Instant bank to bank payments system",
+    "Global cooperation on solar energy",
+    "Grassroots sports development"
+   ],
+   "answer": 0,
+   "explanation": "HRIDAY — Heritage city development and rejuvenation.",
+   "topic": "General Science — Space & Scientific Missions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "general-science-daily-2026-11-02-26",
+   "question": "In general science classification, which specialized scientific discipline studies 'Fishes'?",
+   "options": [
+    "Thermodynamics",
+    "Mycology",
+    "Meteorology",
+    "Ichthyology"
+   ],
+   "answer": 3,
+   "explanation": "Ichthyology is the scientific branch dedicated to the study of Fishes.",
+   "topic": "General Science — Scientific Disciplines & Branches",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "general-science-daily-2026-11-02-51",
+   "question": "What is the primary scientific or strategic purpose of the 'RudraM-II' mission or platform recently in the news?",
+   "options": [
+    "Studying the dense atmosphere, surface geology and solar wind interaction of planet Venus",
+    "Demonstrating precision formation flying of two satellites to create artificial solar eclipses for studying the Sun's corona",
+    "Conducting full-scale coastal and deep-water hydrographic surveys as the lead ship of the Sandhayak-class survey vessels",
+    "Neutralising enemy radar and communication installations as an indigenously developed air-to-surface anti-radiation missile"
+   ],
+   "answer": 3,
+   "explanation": "RudraM-II, developed or launched by DRDO, is designed for: Neutralising enemy radar and communication installations as an indigenously developed air-to-surface anti-radiation missile.",
+   "topic": "Science, Space & Defence Missions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "general-science-daily-2026-11-02-76",
+   "question": "In space and science technology, what is the primary scientific objective of 'Mission LiFE'?",
+   "options": [
+    "Online library for students",
+    "Urban water supply and sewerage improvement",
+    "Skilling and vocational training",
+    "Lifestyle for environment movement"
+   ],
+   "answer": 3,
+   "explanation": "Mission LiFE — Lifestyle for environment movement.",
+   "topic": "General Science — Space & Scientific Missions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
   }
  ]
 };

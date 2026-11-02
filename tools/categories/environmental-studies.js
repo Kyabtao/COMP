@@ -11,7 +11,7 @@
   "railways"
  ],
  "blurb": "Ecology, pollution, climate agreements and wildlife.",
- "count": 325,
+ "count": 329,
  "questions": [
   {
    "id": "environmental-studies-00001",
@@ -4932,6 +4932,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "environmental-studies-daily-2026-11-02-16",
+   "question": "In environmental studies and ecology, what is 'National Action Plan on Climate Change' associated with?",
+   "options": [
+    "Restoring degraded ecosystems",
+    "Traps heat and causes global warming",
+    "Eight missions on climate change",
+    "Destroy the ozone layer"
+   ],
+   "answer": 2,
+   "explanation": "National Action Plan on Climate Change — Eight missions on climate change.",
+   "topic": "Environmental Studies — Global Conventions, Biosphere & Pollution",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "environmental-studies-daily-2026-11-02-41",
+   "question": "In biodiversity conservation, the biosphere reserve or wetland site 'Simlipal Biosphere Reserve' is located in which Indian state?",
+   "options": [
+    "Andhra Pradesh",
+    "Odisha",
+    "Sikkim",
+    "Tamil Nadu, Kerala and Karnataka"
+   ],
+   "answer": 1,
+   "explanation": "Simlipal Biosphere Reserve is located in Odisha.",
+   "topic": "Environmental Studies — Biosphere Reserves & Ramsar Wetlands",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "environmental-studies-daily-2026-11-02-66",
+   "question": "In Indian ecology and wildlife conservation, in which state or UT is 'Satkosia Tiger Reserve' situated?",
+   "options": [
+    "Odisha",
+    "Assam",
+    "Bihar",
+    "Kerala"
+   ],
+   "answer": 0,
+   "explanation": "Satkosia Tiger Reserve is located in Odisha.",
+   "topic": "Environmental Studies — National Parks & Wildlife Sanctuaries",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "environmental-studies-daily-2026-11-02-91",
+   "question": "In environmental studies and ecology, what is 'Carbon dioxide' associated with?",
+   "options": [
+    "Control of transboundary movement of hazardous waste",
+    "Traps heat and causes global warming",
+    "Cleaning the Ganga",
+    "Control of diversion of forest land"
+   ],
+   "answer": 1,
+   "explanation": "Carbon dioxide — Traps heat and causes global warming.",
+   "topic": "Environmental Studies — Global Conventions, Biosphere & Pollution",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
   }
  ]
 };

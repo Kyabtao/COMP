@@ -12,7 +12,7 @@
   "railways"
  ],
  "blurb": "Trophies, terms, players and tournaments.",
- "count": 304,
+ "count": 308,
  "questions": [
   {
    "id": "sports-00001",
@@ -4617,6 +4617,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "sports-daily-2026-11-02-21",
+   "question": "In competitive sports awareness, with which sport is the 'Deodhar Trophy' associated?",
+   "options": [
+    "Cricket",
+    "Tennis",
+    "Football",
+    "Badminton"
+   ],
+   "answer": 0,
+   "explanation": "The Deodhar Trophy is a major tournament or trophy in Cricket.",
+   "topic": "Sports — Major Trophies, Cups & Team Formats",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "sports-daily-2026-11-02-46",
+   "question": "Whom did D. Gukesh defeat in Singapore in December 2024 to become the 18th World Chess Champion?",
+   "options": [
+    "Ian Nepomniachtchi",
+    "Magnus Carlsen",
+    "Fabiano Caruana",
+    "Ding Liren"
+   ],
+   "answer": 3,
+   "explanation": "18-year-old Indian Grandmaster D. Gukesh defeated defending champion Ding Liren of China 7.5–6.5 in Singapore to become the youngest undisputed World Chess Champion in history.",
+   "topic": "Chess in News",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "sports-daily-2026-11-02-71",
+   "question": "In competitive sports awareness, with which sport is the 'World Cup (Cricket)' associated?",
+   "options": [
+    "Hockey",
+    "Cricket",
+    "Tennis",
+    "Football"
+   ],
+   "answer": 1,
+   "explanation": "The World Cup (Cricket) is a major tournament or trophy in Cricket.",
+   "topic": "Sports — Major Trophies, Cups & Team Formats",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "sports-daily-2026-11-02-96",
+   "question": "How many total medals did India win at the Paris 2024 Paralympic Games, marking its best-ever Paralympic haul?",
+   "options": [
+    "29 medals (7 gold, 9 silver, 13 bronze)",
+    "35 medals (10 gold, 12 silver, 13 bronze)",
+    "19 medals (5 gold, 8 silver, 6 bronze)",
+    "24 medals (6 gold, 8 silver, 10 bronze)"
+   ],
+   "answer": 0,
+   "explanation": "India achieved its highest-ever tally at the Paris 2024 Paralympics with 29 medals — 7 gold, 9 silver and 13 bronze — finishing 18th in the medal standings.",
+   "topic": "Paris 2024 Paralympics",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
   }
  ]
 };

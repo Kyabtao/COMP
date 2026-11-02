@@ -12,7 +12,7 @@
   "railways"
  ],
  "blurb": "Events, dynasties, rulers, movements and freedom fighters.",
- "count": 1044,
+ "count": 1048,
  "questions": [
   {
    "id": "indian-history-00001",
@@ -15717,6 +15717,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "indian-history-daily-2026-11-02-12",
+   "question": "In Indian history, what is 'Kunwar Singh' historically known for or associated with?",
+   "options": [
+    "Known as Alamgir and ruled for nearly 50 years",
+    "Ruled from Kannauj and was praised by Hiuen Tsang",
+    "Founder of Buddhism",
+    "Leader of the Revolt in Bihar"
+   ],
+   "answer": 3,
+   "explanation": "Kunwar Singh — Leader of the Revolt in Bihar.",
+   "topic": "Indian History — Dynasties, Rulers & Freedom Struggle",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "indian-history-daily-2026-11-02-37",
+   "question": "In historical chronology, in which year did 'Assassination of Mahatma Gandhi' take place?",
+   "options": [
+    "1973",
+    "1957",
+    "2008",
+    "1948"
+   ],
+   "answer": 3,
+   "explanation": "Assassination of Mahatma Gandhi occurred in the year 1948.",
+   "topic": "Indian History — Landmark Historical Events & Chronology",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "indian-history-daily-2026-11-02-62",
+   "question": "In Indian history, what is 'Mughal Empire' historically known for or associated with?",
+   "options": [
+    "Built the Taj Mahal",
+    "Nightingale of India",
+    "Author of the national anthem of India",
+    "Babur"
+   ],
+   "answer": 3,
+   "explanation": "Mughal Empire — Babur.",
+   "topic": "Indian History — Dynasties, Rulers & Freedom Struggle",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "indian-history-daily-2026-11-02-87",
+   "question": "In historical chronology, in which year did 'Release of Nelson Mandela from prison' take place?",
+   "options": [
+    "1957",
+    "2015",
+    "1990",
+    "1945"
+   ],
+   "answer": 2,
+   "explanation": "Release of Nelson Mandela from prison occurred in the year 1990.",
+   "topic": "Indian History — Landmark Historical Events & Chronology",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
   }
  ]
 };

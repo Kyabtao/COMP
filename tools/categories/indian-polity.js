@@ -12,7 +12,7 @@
   "railways"
  ],
  "blurb": "Constitution, articles, amendments and institutions.",
- "count": 768,
+ "count": 772,
  "questions": [
   {
    "id": "indian-polity-00001",
@@ -11577,6 +11577,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-11-01"
+  },
+  {
+   "id": "indian-polity-daily-2026-11-02-11",
+   "question": "In Indian governance and polity, how is 'Supreme Court of India' constitutionally or statutorily described?",
+   "options": [
+    "Law-making body of a State",
+    "Aids and advises the President",
+    "Apex judicial body of India",
+    "Head of the Union Government"
+   ],
+   "answer": 2,
+   "explanation": "Supreme Court of India — Apex judicial body of India.",
+   "topic": "Indian Polity — Constitutional & Statutory Bodies",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "indian-polity-daily-2026-11-02-36",
+   "question": "Under the Constitution of India, which article or part deals with 'Protection of life and personal liberty'?",
+   "options": [
+    "Article 148",
+    "Part XIV, Articles 308-323",
+    "Part II, Articles 5-11",
+    "Article 21"
+   ],
+   "answer": 3,
+   "explanation": "In the Indian Constitution, Protection of life and personal liberty is governed by Article 21.",
+   "topic": "Indian Polity — Constitutional Articles & Provisions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "indian-polity-daily-2026-11-02-61",
+   "question": "In Indian governance and polity, how is 'Chief Minister' constitutionally or statutorily described?",
+   "options": [
+    "House of the People",
+    "Head of the State Government",
+    "Supervises elections to Parliament and State legislatures",
+    "Recruits civil servants for the Union"
+   ],
+   "answer": 1,
+   "explanation": "Chief Minister — Head of the State Government.",
+   "topic": "Indian Polity — Constitutional & Statutory Bodies",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "indian-polity-daily-2026-11-02-86",
+   "question": "Under the Constitution of India, which article or part deals with 'Right against Exploitation'?",
+   "options": [
+    "Part IX, Articles 243-243O",
+    "Articles 23-24",
+    "Article 23",
+    "Part VI, Articles 152-237"
+   ],
+   "answer": 1,
+   "explanation": "In the Indian Constitution, Right against Exploitation is governed by Articles 23-24.",
+   "topic": "Indian Polity — Constitutional Articles & Provisions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-02"
   }
  ]
 };
