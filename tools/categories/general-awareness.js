@@ -12,7 +12,7 @@
   "railways"
  ],
  "blurb": "Defence, awards, institutions and national facts.",
- "count": 327,
+ "count": 331,
  "questions": [
   {
    "id": "general-awareness-00001",
@@ -4965,6 +4965,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "general-awareness-daily-2026-11-03-19",
+   "question": "In international general awareness, where is the permanent headquarters of 'International Criminal Court' located?",
+   "options": [
+    "New York",
+    "The Hague",
+    "London",
+    "Bern"
+   ],
+   "answer": 1,
+   "explanation": "The headquarters of International Criminal Court is located at The Hague.",
+   "topic": "General Awareness — International Organisations & Headquarters",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "general-awareness-daily-2026-11-03-44",
+   "question": "In international general awareness, where is the permanent headquarters of 'Board of Control for Cricket in India' located?",
+   "options": [
+    "Berlin",
+    "Montreal",
+    "The Hague",
+    "Mumbai"
+   ],
+   "answer": 3,
+   "explanation": "The headquarters of Board of Control for Cricket in India is located at Mumbai.",
+   "topic": "General Awareness — International Organisations & Headquarters",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "general-awareness-daily-2026-11-03-69",
+   "question": "In competitive general awareness, who or what is recognised as 'First President of India'?",
+   "options": [
+    "Rabindranath Tagore",
+    "George Washington",
+    "Bachendri Pal",
+    "Dr. Rajendra Prasad"
+   ],
+   "answer": 3,
+   "explanation": "First President of India — Dr. Rajendra Prasad.",
+   "topic": "General Awareness — Firsts in India, National Symbols & Institutions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "general-awareness-daily-2026-11-03-94",
+   "question": "In international general awareness, where is the permanent headquarters of 'World Bank' located?",
+   "options": [
+    "Shanghai",
+    "The Hague",
+    "Geneva",
+    "Washington, D.C."
+   ],
+   "answer": 3,
+   "explanation": "The headquarters of World Bank is located at Washington, D.C..",
+   "topic": "General Awareness — International Organisations & Headquarters",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
   }
  ]
 };

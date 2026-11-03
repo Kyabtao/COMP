@@ -11,7 +11,7 @@
   "railways"
  ],
  "blurb": "Elements, acids, bases, salts and chemical names.",
- "count": 270,
+ "count": 274,
  "questions": [
   {
    "id": "chemistry-00001",
@@ -4110,6 +4110,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "chemistry-daily-2026-11-03-07",
+   "question": "In chemical nomenclature, what is the chemical name and formula corresponding to 'Carbolic acid'?",
+   "options": [
+    "Phenol (C6H5OH)",
+    "Sulphuric acid (H2SO4)",
+    "Potassium aluminium sulphate",
+    "Sodium chloride (NaCl)"
+   ],
+   "answer": 0,
+   "explanation": "In chemistry, Carbolic acid is Phenol (C6H5OH).",
+   "topic": "Chemistry — Systematic & Common Chemical Names",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "chemistry-daily-2026-11-03-32",
+   "question": "In the Modern Periodic Table, what is the atomic number (Z) of the chemical element Osmium (symbol: Os)?",
+   "options": [
+    "92",
+    "76",
+    "22",
+    "118"
+   ],
+   "answer": 1,
+   "explanation": "Osmium (Os) has atomic number 76 and is classified as a Transition metal.",
+   "topic": "Chemistry — Modern Periodic Table & Elements",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "chemistry-daily-2026-11-03-57",
+   "question": "In chemical nomenclature, what is the chemical name and formula corresponding to 'Common salt'?",
+   "options": [
+    "Sodium bicarbonate (NaHCO3)",
+    "Magnesium hydroxide (Mg(OH)2)",
+    "Sodium chloride (NaCl)",
+    "Silicon dioxide (SiO2)"
+   ],
+   "answer": 2,
+   "explanation": "In chemistry, Common salt is Sodium chloride (NaCl).",
+   "topic": "Chemistry — Systematic & Common Chemical Names",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "chemistry-daily-2026-11-03-82",
+   "question": "In the Modern Periodic Table, what is the atomic number (Z) of the chemical element Holmium (symbol: Ho)?",
+   "options": [
+    "34",
+    "9",
+    "67",
+    "13"
+   ],
+   "answer": 2,
+   "explanation": "Holmium (Ho) has atomic number 67 and is classified as a Lanthanide.",
+   "topic": "Chemistry — Modern Periodic Table & Elements",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
   }
  ]
 };

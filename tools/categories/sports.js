@@ -12,7 +12,7 @@
   "railways"
  ],
  "blurb": "Trophies, terms, players and tournaments.",
- "count": 308,
+ "count": 312,
  "questions": [
   {
    "id": "sports-00001",
@@ -4681,6 +4681,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "sports-daily-2026-11-03-21",
+   "question": "In competitive sports awareness, with which sport is the 'Nehru Cup' associated?",
+   "options": [
+    "Tennis",
+    "Table Tennis",
+    "Football",
+    "Cricket"
+   ],
+   "answer": 2,
+   "explanation": "The Nehru Cup is a major tournament or trophy in Football.",
+   "topic": "Sports — Major Trophies, Cups & Team Formats",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "sports-daily-2026-11-03-46",
+   "question": "Under official sporting regulations, how many players take the field on one side in 'Badminton (doubles)'?",
+   "options": [
+    "6",
+    "1",
+    "7",
+    "2"
+   ],
+   "answer": 3,
+   "explanation": "In official rules, a Badminton (doubles) team fields 2 players per side.",
+   "topic": "Sports — Players per Team in Official Disciplines",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "sports-daily-2026-11-03-71",
+   "question": "In competitive sports awareness, with which sport is the 'Rovers Cup' associated?",
+   "options": [
+    "Badminton",
+    "Table Tennis",
+    "Football",
+    "Cricket"
+   ],
+   "answer": 2,
+   "explanation": "The Rovers Cup is a major tournament or trophy in Football.",
+   "topic": "Sports — Major Trophies, Cups & Team Formats",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "sports-daily-2026-11-03-96",
+   "question": "In competitive sports awareness, with which sport is the 'US Open' associated?",
+   "options": [
+    "Badminton",
+    "Cricket",
+    "Football",
+    "Tennis"
+   ],
+   "answer": 3,
+   "explanation": "The US Open is a major tournament or trophy in Tennis.",
+   "topic": "Sports — Major Trophies, Cups & Team Formats",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
   }
  ]
 };

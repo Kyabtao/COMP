@@ -13,7 +13,7 @@
   "railways"
  ],
  "blurb": "Full forms of common abbreviations and acronyms.",
- "count": 328,
+ "count": 332,
  "questions": [
   {
    "id": "abbreviations-00001",
@@ -4982,6 +4982,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "abbreviations-daily-2026-11-03-25",
+   "question": "In competitive exams, what does the abbreviation or acronym 'CCTV' stand for?",
+   "options": [
+    "Closed Circuit Television",
+    "Automated Teller Machine",
+    "Central Vigilance Commission",
+    "International Court of Justice"
+   ],
+   "answer": 0,
+   "explanation": "The abbreviation CCTV stands for Closed Circuit Television.",
+   "topic": "Abbreviations & Acronyms in Governance, Banking, Science & IT",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "abbreviations-daily-2026-11-03-50",
+   "question": "In competitive exams, what does the abbreviation or acronym 'PAN' stand for?",
+   "options": [
+    "Launch Vehicle Mark 3",
+    "Indian Council of Medical Research",
+    "Permanent Account Number",
+    "Geostationary Earth Orbit"
+   ],
+   "answer": 2,
+   "explanation": "The abbreviation PAN stands for Permanent Account Number.",
+   "topic": "Abbreviations & Acronyms in Governance, Banking, Science & IT",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "abbreviations-daily-2026-11-03-75",
+   "question": "In competitive exams, what does the abbreviation or acronym 'WPI' stand for?",
+   "options": [
+    "Group of Twenty major economies",
+    "National Pension System",
+    "Wholesale Price Index",
+    "Employee Stock Option Plan"
+   ],
+   "answer": 2,
+   "explanation": "The abbreviation WPI stands for Wholesale Price Index.",
+   "topic": "Abbreviations & Acronyms in Governance, Banking, Science & IT",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "abbreviations-daily-2026-11-03-100",
+   "question": "In competitive exams, what does the abbreviation or acronym 'OTP' stand for?",
+   "options": [
+    "Know Your Customer",
+    "Pradhan Mantri Jan Arogya Yojana",
+    "One Time Password",
+    "National Security Guard"
+   ],
+   "answer": 2,
+   "explanation": "The abbreviation OTP stands for One Time Password.",
+   "topic": "Abbreviations & Acronyms in Governance, Banking, Science & IT",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
   }
  ]
 };

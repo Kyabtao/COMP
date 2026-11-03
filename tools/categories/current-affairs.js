@@ -13,7 +13,7 @@
   "railways"
  ],
  "blurb": "Recent schemes, missions, summits, awards and appointments.",
- "count": 1051,
+ "count": 1055,
  "questions": [
   {
    "id": "current-affairs-00001",
@@ -15830,6 +15830,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "current-affairs-daily-2026-11-03-10",
+   "question": "Which current affairs development was reported regarding: \"India and Israel were the only countries to vote against the resolution in the 193-member UN body\"?",
+   "options": [
+    "JNU sexual harassment case: Delhi court seeks police's reply on Angomcha Akoijam's anticipatory bail plea",
+    "India, Israel vote against UNGA draft on regional conventional arms control",
+    "Severe Cyclone Murasu: Landfall commences near Ongole",
+    "Cyclone Murasu: A.P. CM calls for efforts to prevent loss of lives"
+   ],
+   "answer": 1,
+   "explanation": "India, Israel vote against UNGA draft on regional conventional arms control — India and Israel were the only countries to vote against the resolution in the 193-member UN body (The Hindu — National & Current Affairs, Tue, 03 Nov 2026 12:30:35 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "current-affairs-daily-2026-11-03-35",
+   "question": "Which current affairs development was reported regarding: \"Congress leader Jairam Ramesh’s remarks come a day after Amit Shah offered said the government is ready to convene special Parliament session on the issue and challenged Rahul Gandhi to debate it in the House\"?",
+   "options": [
+    "Mild earthquake of 3.1 magnitude hits of J&K's Kishtwar",
+    "First get ‘hatchet man’ CEC to resign: Congress on Shah's SIR debate dare",
+    "Cyclone Murasu highlights: CM Naidu holds teleconference with District Collectors as landfall process continues",
+    "Cyclone Murasu LIVE updates: Eye of cyclone crosses Andhra Pradesh coast"
+   ],
+   "answer": 1,
+   "explanation": "First get ‘hatchet man’ CEC to resign: Congress on Shah's SIR debate dare — Congress leader Jairam Ramesh’s remarks come a day after Amit Shah offered said the government is ready to convene special Parliament session on the issue and challenged Rahul Gandhi to debate it in the House (The Hindu — National & Current Affairs, Tue, 03 Nov 2026 12:29:27 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "current-affairs-daily-2026-11-03-60",
+   "question": "Which current affairs development was reported regarding: \"The proposed amendment to Rule 43A of the Drugs Rules, 1945, is aimed at easing import operations, reducing inland transportation distances and improving the movement of healthcare products across the country\"?",
+   "options": [
+    "Cyclone Murasu: A.P. CM calls for efforts to prevent loss of lives",
+    "Panel proposes 10-year roadmap for stray dog issue in Keralam",
+    "Centre proposes 10 new import gateways for drugs, medical devices",
+    "Why is it difficult to ensure only green firecrackers are burst during Deepavali?"
+   ],
+   "answer": 2,
+   "explanation": "Centre proposes 10 new import gateways for drugs, medical devices — The proposed amendment to Rule 43A of the Drugs Rules, 1945, is aimed at easing import operations, reducing inland transportation distances and improving the movement of healthcare products across the country (The Hindu — National & Current Affairs, Tue, 03 Nov 2026 12:26:50 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "current-affairs-daily-2026-11-03-85",
+   "question": "Which current affairs development was reported regarding: \"HYDRAA demolished the compound wall of a farmhouse belonging to family members of former Minister Ch. Malla Reddy at Dulapally village\"?",
+   "options": [
+    "All 4,048 Tasmac outlets in Tamil Nadu to get bottle return machines: Minister Vignesh",
+    "JNU sexual harassment case: Delhi court seeks police's reply on Angomcha Akoijam's anticipatory bail plea",
+    "HYDRAA removes encroachments in Fox Sagar lake FTL; farmhouse’s compound wall demolished",
+    "What is Project 18A, and why is the Navy embarking on building futuristic warships? | Explained"
+   ],
+   "answer": 2,
+   "explanation": "HYDRAA removes encroachments in Fox Sagar lake FTL; farmhouse’s compound wall demolished — HYDRAA demolished the compound wall of a farmhouse belonging to family members of former Minister Ch. Malla Reddy at Dulapally village (The Hindu — National & Current Affairs, Tue, 03 Nov 2026 12:26:04 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
   }
  ]
 };

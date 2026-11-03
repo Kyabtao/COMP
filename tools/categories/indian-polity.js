@@ -12,7 +12,7 @@
   "railways"
  ],
  "blurb": "Constitution, articles, amendments and institutions.",
- "count": 772,
+ "count": 776,
  "questions": [
   {
    "id": "indian-polity-00001",
@@ -11641,6 +11641,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "indian-polity-daily-2026-11-03-11",
+   "question": "The likeness of which president is featured on the rare $2 bill of USA currency?",
+   "options": [
+    "Ulysses Grant",
+    "Thomas Jefferson",
+    "Martin Van Buren",
+    "John Quincy Adams"
+   ],
+   "answer": 1,
+   "explanation": "Thomas Jefferson is the correct answer for: The likeness of which president is featured on the rare $2 bill of USA currency? (General Knowledge).",
+   "topic": "General Knowledge",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "indian-polity-daily-2026-11-03-36",
+   "question": "Who was appointed as the Chairman of the 16th Finance Commission of India?",
+   "options": [
+    "N. K. Singh",
+    "Raghuram Rajan",
+    "Urjit Patel",
+    "Arvind Panagariya"
+   ],
+   "answer": 3,
+   "explanation": "Economist and former NITI Aayog Vice-Chairman Dr Arvind Panagariya was appointed Chairman of the 16th Finance Commission constituted under Article 280 of the Constitution.",
+   "topic": "Constitutional Bodies in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "indian-polity-daily-2026-11-03-61",
+   "question": "Under the Constitution of India, which article or part deals with 'Municipalities'?",
+   "options": [
+    "Part II, Articles 5-11",
+    "Articles 29-30",
+    "Part IXA, Articles 243P-243ZG",
+    "Article 75"
+   ],
+   "answer": 2,
+   "explanation": "In the Indian Constitution, Municipalities is governed by Part IXA, Articles 243P-243ZG.",
+   "topic": "Indian Polity — Constitutional Articles & Provisions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "indian-polity-daily-2026-11-03-86",
+   "question": "In Indian governance and polity, how is 'Finance Commission' constitutionally or statutorily described?",
+   "options": [
+    "Regulator of telecommunications",
+    "Apex judicial body of India",
+    "Recommends distribution of taxes between the Centre and States",
+    "Deputy to the Prime Minister in the policy think tank"
+   ],
+   "answer": 2,
+   "explanation": "Finance Commission — Recommends distribution of taxes between the Centre and States.",
+   "topic": "Indian Polity — Constitutional & Statutory Bodies",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
   }
  ]
 };

@@ -13,7 +13,7 @@
   "railways"
  ],
  "blurb": "Important national and international days.",
- "count": 328,
+ "count": 332,
  "questions": [
   {
    "id": "days-events-00001",
@@ -4982,6 +4982,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "days-events-daily-2026-11-03-24",
+   "question": "In national and international observances, on which date is 'World Sparrow Day' celebrated every year?",
+   "options": [
+    "20 March",
+    "9 December",
+    "14 November",
+    "24 October"
+   ],
+   "answer": 0,
+   "explanation": "World Sparrow Day is observed annually on 20 March.",
+   "topic": "Important National & International Days and Observances",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "days-events-daily-2026-11-03-49",
+   "question": "In national and international observances, on which date is 'World Population Day' celebrated every year?",
+   "options": [
+    "21 November",
+    "11 November",
+    "11 July",
+    "20 May"
+   ],
+   "answer": 2,
+   "explanation": "World Population Day is observed annually on 11 July.",
+   "topic": "Important National & International Days and Observances",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "days-events-daily-2026-11-03-74",
+   "question": "In national and international observances, on which date is 'World Tourism Day' celebrated every year?",
+   "options": [
+    "21 May",
+    "19 August",
+    "27 September",
+    "fourth Sunday of September"
+   ],
+   "answer": 2,
+   "explanation": "World Tourism Day is observed annually on 27 September.",
+   "topic": "Important National & International Days and Observances",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "days-events-daily-2026-11-03-99",
+   "question": "In national and international observances, on which date is 'World Energy Conservation Day' celebrated every year?",
+   "options": [
+    "14 December",
+    "19 November",
+    "4 January",
+    "fourth Sunday of September"
+   ],
+   "answer": 0,
+   "explanation": "World Energy Conservation Day is observed annually on 14 December.",
+   "topic": "Important National & International Days and Observances",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
   }
  ]
 };

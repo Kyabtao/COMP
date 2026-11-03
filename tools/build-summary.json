@@ -2,132 +2,132 @@
   "version": "v11.0",
   "mergeCount": 11,
   "lastMergeCommit": "b1e9fc010d2b0767001b9bee61d55c7882eea5d1",
-  "generatedAt": "2026-11-02T06:36:52.811Z",
-  "totalQuestions": 34157,
+  "generatedAt": "2026-11-03T07:06:03.416Z",
+  "totalQuestions": 34257,
   "categories": [
     {
       "slug": "abbreviations",
-      "count": 328,
+      "count": 332,
       "target": 400
     },
     {
       "slug": "computer-awareness",
-      "count": 329,
+      "count": 333,
       "target": 400
     },
     {
       "slug": "environmental-studies",
-      "count": 329,
+      "count": 333,
       "target": 400
     },
     {
       "slug": "economics",
-      "count": 329,
+      "count": 333,
       "target": 600
     },
     {
       "slug": "physics",
-      "count": 307,
+      "count": 311,
       "target": 400
     },
     {
       "slug": "chemistry",
-      "count": 270,
+      "count": 274,
       "target": 400
     },
     {
       "slug": "biology",
-      "count": 328,
+      "count": 332,
       "target": 400
     },
     {
       "slug": "sports",
-      "count": 308,
+      "count": 312,
       "target": 400
     },
     {
       "slug": "awards-honours",
-      "count": 251,
+      "count": 255,
       "target": 400
     },
     {
       "slug": "books-authors",
-      "count": 308,
+      "count": 312,
       "target": 400
     },
     {
       "slug": "days-events",
-      "count": 328,
+      "count": 332,
       "target": 400
     },
     {
       "slug": "inventions-discoveries",
-      "count": 307,
+      "count": 311,
       "target": 400
     },
     {
       "slug": "general-awareness",
-      "count": 327,
+      "count": 331,
       "target": 400
     },
     {
       "slug": "general-english-grammar",
-      "count": 328,
+      "count": 332,
       "target": 400
     },
     {
       "slug": "english",
-      "count": 1053,
+      "count": 1057,
       "target": 1000
     },
     {
       "slug": "general-knowledge",
-      "count": 1048,
+      "count": 1052,
       "target": 1000
     },
     {
       "slug": "static-gk",
-      "count": 1050,
+      "count": 1054,
       "target": 1000
     },
     {
       "slug": "general-science",
-      "count": 1049,
+      "count": 1053,
       "target": 1000
     },
     {
       "slug": "geography",
-      "count": 1048,
+      "count": 1052,
       "target": 1000
     },
     {
       "slug": "indian-history",
-      "count": 1048,
+      "count": 1052,
       "target": 1000
     },
     {
       "slug": "indian-polity",
-      "count": 772,
+      "count": 776,
       "target": 1000
     },
     {
       "slug": "current-affairs",
-      "count": 1051,
+      "count": 1055,
       "target": 1000
     },
     {
       "slug": "reasoning",
-      "count": 1553,
+      "count": 1557,
       "target": 1000
     },
     {
       "slug": "quantitative-aptitude",
-      "count": 1554,
+      "count": 1558,
       "target": 1000
     },
     {
       "slug": "mathematics",
-      "count": 1554,
+      "count": 1558,
       "target": 1000
     },
     {
@@ -207,9 +207,9 @@
     }
   ],
   "daily": {
-    "days": 15,
-    "questions": 1230,
-    "latest": "2026-11-02",
+    "days": 16,
+    "questions": 1330,
+    "latest": "2026-11-03",
     "minted": []
   },
   "classes": 13,

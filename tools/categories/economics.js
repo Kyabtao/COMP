@@ -11,7 +11,7 @@
   "ssc-cgl"
  ],
  "blurb": "Banking, budget, taxes, trade and national income.",
- "count": 329,
+ "count": 333,
  "questions": [
   {
    "id": "economics-00001",
@@ -4996,6 +4996,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "economics-daily-2026-11-03-14",
+   "question": "In Indian economy, banking and financial awareness: What is the minimum support price?",
+   "options": [
+    "Services",
+    "Four",
+    "Inflation",
+    "A price at which the government buys crops from farmers"
+   ],
+   "answer": 3,
+   "explanation": "What is the minimum support price? — A price at which the government buys crops from farmers.",
+   "topic": "Economics, Banking & Public Finance in Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "economics-daily-2026-11-03-39",
+   "question": "In Indian economy, banking and financial awareness: Which is the apex bank of India?",
+   "options": [
+    "Reserve Bank of India",
+    "1949",
+    "Primary deficit",
+    "Reverse repo rate"
+   ],
+   "answer": 0,
+   "explanation": "Which is the apex bank of India? — Reserve Bank of India.",
+   "topic": "Economics, Banking & Public Finance in Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "economics-daily-2026-11-03-64",
+   "question": "In Indian economy, banking and financial awareness: Which was the last Five Year Plan of India?",
+   "options": [
+    "Twelfth Five Year Plan",
+    "DICGC",
+    "One lakh rupees",
+    "Cash Reserve Ratio"
+   ],
+   "answer": 0,
+   "explanation": "Which was the last Five Year Plan of India? — Twelfth Five Year Plan.",
+   "topic": "Economics, Banking & Public Finance in Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "economics-daily-2026-11-03-89",
+   "question": "In Indian economy, banking and financial awareness: What is the value of final goods and services produced within a country called?",
+   "options": [
+    "Fourteen",
+    "DICGC",
+    "Gross Domestic Product",
+    "Four"
+   ],
+   "answer": 2,
+   "explanation": "What is the value of final goods and services produced within a country called? — Gross Domestic Product.",
+   "topic": "Economics, Banking & Public Finance in Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
   }
  ]
 };

@@ -11,7 +11,7 @@
   "ssc-cgl"
  ],
  "blurb": "Hardware, software, internet and cyber security.",
- "count": 329,
+ "count": 333,
  "questions": [
   {
    "id": "computer-awareness-00001",
@@ -4996,6 +4996,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "computer-awareness-daily-2026-11-03-15",
+   "question": "In computer science and information technology, what does 'Overclocking' refer to?",
+   "options": [
+    "Main circuit board of a computer",
+    "Program that converts assembly language to machine code",
+    "Running a processor above its rated speed",
+    "Software that manages databases"
+   ],
+   "answer": 2,
+   "explanation": "Overclocking — Running a processor above its rated speed.",
+   "topic": "Computer Awareness — Architecture, Networking & Software",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "computer-awareness-daily-2026-11-03-40",
+   "question": "In computing and office software, what is 'Windows + L' used for?",
+   "options": [
+    "Executable program file",
+    "Java source file",
+    "Paste the clipboard content",
+    "Lock the computer"
+   ],
+   "answer": 3,
+   "explanation": "In computing, Windows + L corresponds to Lock the computer.",
+   "topic": "Computer Awareness — Keyboard Shortcuts & File Extensions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "computer-awareness-daily-2026-11-03-65",
+   "question": "In computer science and information technology, what does 'Kernel' refer to?",
+   "options": [
+    "Protocol used to transfer web pages",
+    "Core part of an operating system",
+    "Input device that converts paper documents to digital form",
+    "Human readable name of a website"
+   ],
+   "answer": 1,
+   "explanation": "Kernel — Core part of an operating system.",
+   "topic": "Computer Awareness — Architecture, Networking & Software",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "computer-awareness-daily-2026-11-03-90",
+   "question": "In computing and office software, what is '.exe' used for?",
+   "options": [
+    "Executable program file",
+    "Cut the selected item",
+    "Copy the selected item",
+    "Capture the screen"
+   ],
+   "answer": 0,
+   "explanation": "In computing, .exe corresponds to Executable program file.",
+   "topic": "Computer Awareness — Keyboard Shortcuts & File Extensions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
   }
  ]
 };

@@ -12,7 +12,7 @@
   "railways"
  ],
  "blurb": "Countries, capitals, currencies, days, organisations and world firsts.",
- "count": 1048,
+ "count": 1052,
  "questions": [
   {
    "id": "general-knowledge-00001",
@@ -15781,6 +15781,70 @@
    "level": 1,
    "source": "daily",
    "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "general-knowledge-daily-2026-11-03-18",
+   "question": "Out of these four buildings, which one is the tallest, with a height of 1,483 ft (451.9 m)?",
+   "options": [
+    "Zifeng Tower, China",
+    "Trump Intl. Hotel & Tower, United States",
+    "Al Hamra Tower, Kuwait",
+    "Petronas Twin Towers, Malaysia"
+   ],
+   "answer": 3,
+   "explanation": "Petronas Twin Towers, Malaysia is the correct answer for: Out of these four buildings, which one is the tallest, with a height of 1,483 ft (451.9 m)? (General Knowledge).",
+   "topic": "General Knowledge",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "general-knowledge-daily-2026-11-03-43",
+   "question": "Which sign of the zodiac is represented by the Crab?",
+   "options": [
+    "Cancer",
+    "Libra",
+    "Virgo",
+    "Sagittarius"
+   ],
+   "answer": 0,
+   "explanation": "Cancer is the correct answer for: Which sign of the zodiac is represented by the Crab? (General Knowledge).",
+   "topic": "General Knowledge",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "general-knowledge-daily-2026-11-03-68",
+   "question": "The word \"aprosexia\" means which of the following?",
+   "options": [
+    "The inability to stand up",
+    "The inability to make decisions",
+    "The inability to concentrate on anything",
+    "A feverish desire to rip one's clothes off"
+   ],
+   "answer": 2,
+   "explanation": "The inability to concentrate on anything is the correct answer for: The word \"aprosexia\" means which of the following? (General Knowledge).",
+   "topic": "General Knowledge",
+   "level": 3,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "general-knowledge-daily-2026-11-03-93",
+   "question": "In past times, what would a gentleman keep in his fob pocket?",
+   "options": [
+    "Watch",
+    "Notebook",
+    "Money",
+    "Keys"
+   ],
+   "answer": 0,
+   "explanation": "Watch is the correct answer for: In past times, what would a gentleman keep in his fob pocket? (General Knowledge).",
+   "topic": "General Knowledge",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
   }
  ]
 };

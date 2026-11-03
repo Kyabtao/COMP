@@ -11,7 +11,7 @@
   "ssc-chsl"
  ],
  "blurb": "Number work, algebra, geometry and speed-accuracy drills.",
- "count": 1554,
+ "count": 1558,
  "questions": [
   {
    "id": "mathematics-00001",
@@ -23376,6 +23376,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "mathematics-daily-2026-11-03-02",
+   "question": "In competitive mathematics, what is the exact result or formula for 'Exact Value of cos(15 degrees) and sin(75 degrees)'?",
+   "options": [
+    "The angle between a tangent and a chord through the point of contact equals the angle subtended by the chord in the alternate segment",
+    "a1 / a2 = b1 / b2 = c1 / c2 (coincident lines)",
+    "6 favourable outcomes out of 36 total outcomes, so Probability = 6/36 = 1/6 (the most likely sum)",
+    "(sqrt(6) + sqrt(2)) / 4  (or (sqrt(3) + 1) / (2 * sqrt(2)))"
+   ],
+   "answer": 3,
+   "explanation": "Exact Value of cos(15 degrees) and sin(75 degrees): (sqrt(6) + sqrt(2)) / 4  (or (sqrt(3) + 1) / (2 * sqrt(2))). Using cos(45 - 30) = cos(45)cos(30) + sin(45)sin(30) = (sqrt(3) + 1) / (2 * sqrt(2)).",
+   "topic": "Mathematics — Geometry, Trigonometry, Algebra & Statistics",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "mathematics-daily-2026-11-03-27",
+   "question": "In competitive mathematics, what is the exact formula or value for 'Law of Sines in a Triangle with circumradius R'?",
+   "options": [
+    "sqrt(l^2 + b^2 + h^2)",
+    "alpha + beta = -b/a and alpha * beta = c/a",
+    "r = (a + b - c) / 2",
+    "a / sin(A) = b / sin(B) = c / sin(C) = 2R"
+   ],
+   "answer": 3,
+   "explanation": "Law of Sines in a Triangle with circumradius R: a / sin(A) = b / sin(B) = c / sin(C) = 2R (relates the sides of any triangle to the sines of its opposite angles and its circumradius R).",
+   "topic": "Competitive Mathematics — Algebra, Trigonometry, Geometry & Mensuration",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "mathematics-daily-2026-11-03-52",
+   "question": "In competitive mathematics, what is the exact formula or value for 'Algebraic Identity for a^3 + b^3 + c^3 - 3abc'?",
+   "options": [
+    "(a + b + c)(a^2 + b^2 + c^2 - ab - bc - ca)",
+    "Mode = 3 * Median - 2 * Mean",
+    "sqrt(l^2 + b^2 + h^2)",
+    "|Ax0 + By0 + C| / sqrt(A^2 + B^2)"
+   ],
+   "answer": 0,
+   "explanation": "Algebraic Identity for a^3 + b^3 + c^3 - 3abc: (a + b + c)(a^2 + b^2 + c^2 - ab - bc - ca) (implies that whenever a + b + c = 0, a^3 + b^3 + c^3 is equal to 3abc).",
+   "topic": "Competitive Mathematics — Algebra, Trigonometry, Geometry & Mensuration",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "mathematics-daily-2026-11-03-77",
+   "question": "In competitive mathematics, what is the exact result or formula for 'Condition for a System of Linear Equations a1*x + b1*y + c1 = 0 and a2*x + b2*y + c2 = 0 to Have Infinitely Many Solutions'?",
+   "options": [
+    "Maximum = +sqrt(a^2 + b^2) and Minimum = -sqrt(a^2 + b^2)",
+    "AC * BD = (AB * CD) + (BC * DA)",
+    "a1 / a2 = b1 / b2 = c1 / c2 (coincident lines)",
+    "(3 * sqrt(3) / 2) * a^2 (equal to 6 equilateral triangles of side a)"
+   ],
+   "answer": 2,
+   "explanation": "Condition for a System of Linear Equations a1*x + b1*y + c1 = 0 and a2*x + b2*y + c2 = 0 to Have Infinitely Many Solutions: a1 / a2 = b1 / b2 = c1 / c2 (coincident lines). Unique solution when a1/a2 != b1/b2; no solution (parallel lines) when a1/a2 = b1/b2 != c1/c2.",
+   "topic": "Mathematics — Geometry, Trigonometry, Algebra & Statistics",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
   }
  ]
 };

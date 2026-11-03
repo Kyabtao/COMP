@@ -12,7 +12,7 @@
   "railways"
  ],
  "blurb": "Physical, world and Indian geography with climate and minerals.",
- "count": 1048,
+ "count": 1052,
  "questions": [
   {
    "id": "geography-00001",
@@ -15781,6 +15781,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "geography-daily-2026-11-03-13",
+   "question": "In physical and regional geography: Which is the largest desert in Asia?",
+   "options": [
+    "Mizoram",
+    "Gobi Desert",
+    "Himalayas",
+    "Brazil"
+   ],
+   "answer": 1,
+   "explanation": "Which is the largest desert in Asia? — Gobi Desert.",
+   "topic": "Indian & World Geography — Physical & Regional Facts",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "geography-daily-2026-11-03-38",
+   "question": "In the geography of India, 'Rock phosphate' is associated with which origin, river, state or region?",
+   "options": [
+    "Narmada",
+    "Rajasthan",
+    "Odisha",
+    "Andhra Pradesh"
+   ],
+   "answer": 1,
+   "explanation": "In Indian geography, Rock phosphate is associated with Rajasthan.",
+   "topic": "Geography of India — Rivers, Dams, Mountain Passes & Minerals",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "geography-daily-2026-11-03-63",
+   "question": "In physical and regional geography: Which Indian city is called the Leather City?",
+   "options": [
+    "Brazil",
+    "Kanpur",
+    "Bengaluru",
+    "Pamir Plateau"
+   ],
+   "answer": 1,
+   "explanation": "Which Indian city is called the Leather City? — Kanpur.",
+   "topic": "Indian & World Geography — Physical & Regional Facts",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "geography-daily-2026-11-03-88",
+   "question": "In the geography of India, 'Mica' is associated with which origin, river, state or region?",
+   "options": [
+    "Trimbakeshwar",
+    "Andhra Pradesh",
+    "Jammu and Kashmir",
+    "Madhya Pradesh"
+   ],
+   "answer": 1,
+   "explanation": "In Indian geography, Mica is associated with Andhra Pradesh.",
+   "topic": "Geography of India — Rivers, Dams, Mountain Passes & Minerals",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
   }
  ]
 };

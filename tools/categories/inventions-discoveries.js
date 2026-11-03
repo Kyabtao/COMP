@@ -11,7 +11,7 @@
   "railways"
  ],
  "blurb": "Inventions, inventors and discoveries.",
- "count": 307,
+ "count": 311,
  "questions": [
   {
    "id": "inventions-discoveries-00001",
@@ -4664,6 +4664,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "inventions-discoveries-daily-2026-11-03-17",
+   "question": "In the history of science, which pioneering discovery or theory was formulated by Ernest Rutherford?",
+   "options": [
+    "Nuclear model of the atom",
+    "Fahrenheit temperature scale",
+    "Molecular theory and Avogadro's law",
+    "Indian space programme"
+   ],
+   "answer": 0,
+   "explanation": "Ernest Rutherford is renowned for Nuclear model of the atom.",
+   "topic": "Eminent Scientists & Breakthrough Contributions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "inventions-discoveries-daily-2026-11-03-42",
+   "question": "In the history of science and technology, who is credited with 'Motor car'?",
+   "options": [
+    "Wright Brothers",
+    "Edward Jenner",
+    "Karl Benz",
+    "Michael Faraday"
+   ],
+   "answer": 2,
+   "explanation": "Motor car is credited to Karl Benz.",
+   "topic": "Inventions, Discoveries & Scientific Pioneers",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "inventions-discoveries-daily-2026-11-03-67",
+   "question": "In the history of science, which pioneering discovery or theory was formulated by Birbal Sahni?",
+   "options": [
+    "Palaeobotany in India",
+    "Quantum theory",
+    "Bose-Einstein statistics",
+    "Missile and space launch technology"
+   ],
+   "answer": 0,
+   "explanation": "Birbal Sahni is renowned for Palaeobotany in India.",
+   "topic": "Eminent Scientists & Breakthrough Contributions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "inventions-discoveries-daily-2026-11-03-92",
+   "question": "Which scientist or innovator is credited with the discovery or invention of 'Birbal Sahni's Palaeobotanical Discoveries'?",
+   "options": [
+    "G. N. Ramachandran",
+    "Har Gobind Khorana",
+    "Subrahmanyan Chandrasekhar",
+    "Birbal Sahni"
+   ],
+   "answer": 3,
+   "explanation": "Birbal Sahni's Palaeobotanical Discoveries was discovered or invented by Birbal Sahni (discovered Pentoxyleae (a new group of Jurassic gymnosperms from the Rajmahal Hills) and founded the Institute of Palaeobotany in Lucknow).",
+   "topic": "Inventions, Pioneers & Scientific Milestones",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
   }
  ]
 };

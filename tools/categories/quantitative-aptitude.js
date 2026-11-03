@@ -12,7 +12,7 @@
   "banking"
  ],
  "blurb": "Arithmetic, percentages, interest, ratios and mensuration.",
- "count": 1554,
+ "count": 1558,
  "questions": [
   {
    "id": "quantitative-aptitude-00001",
@@ -23377,6 +23377,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "quantitative-aptitude-daily-2026-11-03-04",
+   "question": "In quantitative aptitude exams, how is 'Selling Two Articles at the Same Selling Price, One at x% Profit and the Other at x% Loss' calculated or expressed?",
+   "options": [
+    "n (since their sum is n^2)",
+    "u = (D + U) / 2 and v = (D - U) / 2",
+    "(x * y) / (x + y) days",
+    "Always a net loss of (x^2 / 100)%"
+   ],
+   "answer": 3,
+   "explanation": "Selling Two Articles at the Same Selling Price, One at x% Profit and the Other at x% Loss: Always a net loss of (x^2 / 100)% (when selling prices are equal and profit% equals loss% = x, the transaction always results in (x/10)^2 % loss).",
+   "topic": "Quantitative Aptitude — Commercial Arithmetic, Work, Time & Numbers",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "quantitative-aptitude-daily-2026-11-03-29",
+   "question": "In quantitative aptitude, what is the standard formula or value for 'Inlet Pipe (Fills in x Hours) and Outlet Leak (Empties in y Hours) Operating Together'?",
+   "options": [
+    "[(p^(a+1) - 1) / (p - 1)] * [(q^(b+1) - 1) / (q - 1)]",
+    "Period of 4 (unit digits repeat every 4th power; divide exponent by 4 to find the cycle position)",
+    "[(x - y) / y] * 100% (profit when x > y; loss when x < y)",
+    "Net time to fill the cistern = (x * y) / (y - x) hours (when y > x)"
+   ],
+   "answer": 3,
+   "explanation": "Inlet Pipe (Fills in x Hours) and Outlet Leak (Empties in y Hours) Operating Together: Net time to fill the cistern = (x * y) / (y - x) hours (when y > x). In 1 hour, net fraction filled is (1/x) - (1/y) = (y - x)/(xy).",
+   "topic": "Quantitative Aptitude — Percentages, Interest, Work, Speed & Number Rules",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "quantitative-aptitude-daily-2026-11-03-54",
+   "question": "In quantitative aptitude exams, how is 'Average of the First n Consecutive Odd Natural Numbers (1, 3, 5, ..., 2n - 1)' calculated or expressed?",
+   "options": [
+    "[R / (100 - R)] * 100%",
+    "V * (1 - r / V)^n units",
+    "(x * y * z) / (xy + yz + zx) days",
+    "n (since their sum is n^2)"
+   ],
+   "answer": 3,
+   "explanation": "Average of the First n Consecutive Odd Natural Numbers (1, 3, 5, ..., 2n - 1): n (since their sum is n^2) (the sum of the first n odd positive integers is n^2, so their arithmetic mean is n^2 / n = n).",
+   "topic": "Quantitative Aptitude — Commercial Arithmetic, Work, Time & Numbers",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "quantitative-aptitude-daily-2026-11-03-79",
+   "question": "In the context of Applied Mathematics & Quantitative Problem Solving, which of the following corresponds to: \"b^2 - 4ac = 0\"?",
+   "options": [
+    "For a quadratic equation ax^2 + bx + c = 0 (a != 0), under what condition on the discriminant D = b^2 - 4ac are the two roots real and equal?",
+    "According to Heron's formula for a triangle with sides a, b, c and semi-perimeter s = (a + b + c)/2, what is the area of the triangle?",
+    "What is the sum of the squares of the first n natural numbers (1^2 + 2^2 + 3^2 + ... + n^2)?",
+    "If a person travels a fixed distance from A to B at speed u and returns from B to A along the same route at speed v, what is the average speed for the entire round trip?"
+   ],
+   "answer": 0,
+   "explanation": "For a quadratic equation ax^2 + bx + c = 0 (a != 0), under what condition on the discriminant D = b^2 - 4ac are the two roots real and equal? — b^2 - 4ac = 0 (When the discriminant D = b^2 - 4ac equals zero, the quadratic equation has two real and coincident (equal) roots given by x = -b / (2a).).",
+   "topic": "Applied Mathematics & Quantitative Problem Solving",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
   }
  ]
 };
