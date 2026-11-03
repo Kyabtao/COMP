@@ -12,7 +12,7 @@
   "railways"
  ],
  "blurb": "Physics, chemistry and biology facts combined.",
- "count": 1049,
+ "count": 1053,
  "questions": [
   {
    "id": "general-science-00001",
@@ -15797,6 +15797,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "general-science-daily-2026-11-03-01",
+   "question": "In general science classification, which specialized scientific discipline studies 'Structure of the body'?",
+   "options": [
+    "Anatomy",
+    "Radiology",
+    "Dermatology",
+    "Seismology"
+   ],
+   "answer": 0,
+   "explanation": "Anatomy is the scientific branch dedicated to the study of Structure of the body.",
+   "topic": "General Science — Scientific Disciplines & Branches",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "general-science-daily-2026-11-03-26",
+   "question": "In space and science technology, what is the primary scientific objective of 'Aditya-L1'?",
+   "options": [
+    "Solar observation from the Lagrange point L1",
+    "Electric vehicle promotion",
+    "Instant bank to bank payments system",
+    "Regional navigation satellite"
+   ],
+   "answer": 0,
+   "explanation": "Aditya-L1 — Solar observation from the Lagrange point L1.",
+   "topic": "General Science — Space & Scientific Missions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "general-science-daily-2026-11-03-51",
+   "question": "In atmospheric and earth science: What are the pre-monsoon showers in Kerala called?",
+   "options": [
+    "Mango showers",
+    "From the sea to the land",
+    "Talc",
+    "Lava"
+   ],
+   "answer": 0,
+   "explanation": "What are the pre-monsoon showers in Kerala called — Mango showers.",
+   "topic": "General Science — Atmospheric & Earth Science",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "general-science-daily-2026-11-03-76",
+   "question": "In space and science technology, what is the primary scientific objective of 'RISAT'?",
+   "options": [
+    "Cultural integration across states",
+    "Electronic delivery of government services",
+    "Radar imaging satellites for all-weather observation",
+    "Online library for students"
+   ],
+   "answer": 2,
+   "explanation": "RISAT — Radar imaging satellites for all-weather observation.",
+   "topic": "General Science — Space & Scientific Missions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
   }
  ]
 };

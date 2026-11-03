@@ -11,7 +11,7 @@
   "railways"
  ],
  "blurb": "Motion, energy, light, electricity and units.",
- "count": 307,
+ "count": 311,
  "questions": [
   {
    "id": "physics-00001",
@@ -4664,6 +4664,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "physics-daily-2026-11-03-06",
+   "question": "In experimental physics and instrumentation, what is the device 'Telescope' designed to measure or detect?",
+   "options": [
+    "Small electric currents",
+    "Electric current",
+    "Temperature",
+    "Distant objects"
+   ],
+   "answer": 3,
+   "explanation": "Telescope is used for measuring Distant objects.",
+   "topic": "Physics — Scientific Instruments & Measurements",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "physics-daily-2026-11-03-31",
+   "question": "In planetary science and astrophysics, which solar system body is characterised by the fact: 'Uranus'?",
+   "options": [
+    "Mars",
+    "Uranus",
+    "Mercury",
+    "Saturn"
+   ],
+   "answer": 1,
+   "explanation": "Uranus (Rotates on its side) — Uranus.",
+   "topic": "Astrophysics & Planetary Science",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "physics-daily-2026-11-03-56",
+   "question": "In physics and metrology, which SI unit is used to express the physical quantity 'Absorbed dose'?",
+   "options": [
+    "Tesla",
+    "Metre",
+    "Gray",
+    "Ohm"
+   ],
+   "answer": 2,
+   "explanation": "In the International System of Units (SI), Absorbed dose is measured in Gray.",
+   "topic": "Physics — SI Units & Physical Quantities",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "physics-daily-2026-11-03-81",
+   "question": "In physics, what does 'Snell's Law of Refraction' state or explain?",
+   "options": [
+    "The ratio of the sine of the angle of incidence to the sine of the angle of refraction is constant (n1 * sin(i) = n2 * sin(r))",
+    "Intensity of scattered light is inversely proportional to the fourth power of wavelength (I prop 1 / lambda^4)",
+    "Myopia (image forms in front of retina) is corrected using a concave (diverging) lens; Hypermetropia (image forms behind retina) is corrected using a convex (converging) lens",
+    "Operate on mutual electromagnetic induction (AC only) to change voltage while keeping frequency and ideal power (V_p * I_p = V_s * I_s) constant"
+   ],
+   "answer": 0,
+   "explanation": "Snell's Law of Refraction — The ratio of the sine of the angle of incidence to the sine of the angle of refraction is constant (n1 * sin(i) = n2 * sin(r)) (governs the bending of light rays when passing from one optical medium to another).",
+   "topic": "Core Physics Laws, Optics, Electricity & Mechanics in Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
   }
  ]
 };

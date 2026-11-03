@@ -11,7 +11,7 @@
   "railways"
  ],
  "blurb": "Human body, plants, diseases and nutrition.",
- "count": 328,
+ "count": 332,
  "questions": [
   {
    "id": "biology-00001",
@@ -4980,6 +4980,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "biology-daily-2026-11-03-08",
+   "question": "In human biology and public health news, what is 'Qdenga (TAK-003)' known for?",
+   "options": [
+    "Assisted reproductive procedure replacing defective maternal mitochondria with healthy donor ooplasm mitochondria",
+    "Live-attenuated tetravalent vaccine prequalified by the WHO against all four serotypes of Dengue virus",
+    "India's first indigenously developed quadrivalent Human Papillomavirus (qHPV) vaccine against cervical cancer",
+    "Biological control technique introducing symbiotic Wolbachia bacteria into Aedes aegypti mosquitoes to block dengue and Zika transmission"
+   ],
+   "answer": 1,
+   "explanation": "Qdenga (TAK-003) is associated with: Live-attenuated tetravalent vaccine prequalified by the WHO against all four serotypes of Dengue virus (designed around a Dengue serotype-2 backbone providing broad immunological protection).",
+   "topic": "Biology, Health & Medical Science in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "biology-daily-2026-11-03-33",
+   "question": "In medical microbiology and pathology, what is the causative agent or cause of 'Rabies'?",
+   "options": [
+    "Variola virus",
+    "Chikungunya virus",
+    "Streptococcus pneumoniae bacteria",
+    "Rabies virus"
+   ],
+   "answer": 3,
+   "explanation": "In medical biology, Rabies is caused by Rabies virus.",
+   "topic": "Biology — Human Diseases & Pathogens",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "biology-daily-2026-11-03-58",
+   "question": "In human nutrition and medical biology, a clinical deficiency of 'Potassium' leads to which disorder?",
+   "options": [
+    "Muscle weakness",
+    "Beri Beri",
+    "Anaemia",
+    "Night blindness"
+   ],
+   "answer": 0,
+   "explanation": "A deficiency of Potassium causes Muscle weakness.",
+   "topic": "Biology — Vitamins, Minerals & Deficiency Disorders",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "biology-daily-2026-11-03-83",
+   "question": "In human physiology, what is the primary biological function performed by the 'Insulin'?",
+   "options": [
+    "Production of sperm",
+    "Control centre of the body",
+    "Exchange of oxygen and carbon dioxide",
+    "Controls blood sugar"
+   ],
+   "answer": 3,
+   "explanation": "In the human body, the Insulin is responsible for Controls blood sugar.",
+   "topic": "Biology — Human Anatomy & Organ Physiology",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
   }
  ]
 };

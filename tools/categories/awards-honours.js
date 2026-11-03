@@ -12,7 +12,7 @@
   "railways"
  ],
  "blurb": "Civilian, gallantry, literary and international awards.",
- "count": 251,
+ "count": 255,
  "questions": [
   {
    "id": "awards-honours-00001",
@@ -3828,6 +3828,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "awards-honours-daily-2026-11-03-22",
+   "question": "How many eminent personalities were conferred the Bharat Ratna by the Government of India in the year 2024?",
+   "options": [
+    "Three",
+    "Four",
+    "Five",
+    "Two"
+   ],
+   "answer": 2,
+   "explanation": "In 2024, a record five personalities were awarded the Bharat Ratna: Karpoori Thakur, L. K. Advani, P. V. Narasimha Rao, Chaudhary Charan Singh and Dr M. S. Swaminathan.",
+   "topic": "Civilian Awards",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "awards-honours-daily-2026-11-03-47",
+   "question": "Which South Korean author won the 2024 Nobel Prize in Literature?",
+   "options": [
+    "Shin Kyung-sook",
+    "Kim Ji-young",
+    "Bora Chung",
+    "Han Kang"
+   ],
+   "answer": 3,
+   "explanation": "South Korean author Han Kang, known for novels such as The Vegetarian and Human Acts, was awarded the 2024 Nobel Prize in Literature for her intense poetic prose.",
+   "topic": "Nobel Prizes",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "awards-honours-daily-2026-11-03-72",
+   "question": "In awards and honours awareness, for excellence in which field is the 'National Film Award' conferred?",
+   "options": [
+    "UNESCO award for popularisation of science",
+    "Highest award in Indian cinema",
+    "Awards for Indian cinema",
+    "Asian award for public service"
+   ],
+   "answer": 2,
+   "explanation": "National Film Award is conferred for Awards for Indian cinema.",
+   "topic": "Awards & Honours — National & International Distinctions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "awards-honours-daily-2026-11-03-97",
+   "question": "In awards and honours awareness, for excellence in which field is the 'Vyas Samman' conferred?",
+   "options": [
+    "Outstanding performance in Indian sports",
+    "American award for films",
+    "Indian literary award",
+    "Fourth highest civilian award of India"
+   ],
+   "answer": 2,
+   "explanation": "Vyas Samman is conferred for Indian literary award.",
+   "topic": "Awards & Honours — National & International Distinctions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
   }
  ]
 };

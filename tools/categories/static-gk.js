@@ -13,7 +13,7 @@
   "railways"
  ],
  "blurb": "National symbols, dances, festivals, dams, parks, instruments and branches of science.",
- "count": 1050,
+ "count": 1054,
  "questions": [
   {
    "id": "static-gk-00001",
@@ -15814,6 +15814,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "static-gk-daily-2026-11-03-20",
+   "question": "In Indian Static GK, what is the capital city of Himachal Pradesh (in North India)?",
+   "options": [
+    "Ranchi",
+    "Amaravati",
+    "Shimla",
+    "Panaji"
+   ],
+   "answer": 2,
+   "explanation": "The capital of Himachal Pradesh (North India) is Shimla.",
+   "topic": "Static GK — Indian States, Capitals & Regions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "static-gk-daily-2026-11-03-45",
+   "question": "The Geographical Indication (GI) tagged product 'Ramban Anardana' belongs to which Indian state or union territory?",
+   "options": [
+    "Gujarat",
+    "Ladakh",
+    "Jammu and Jammu & Kashmir",
+    "Assam"
+   ],
+   "answer": 2,
+   "explanation": "'Ramban Anardana' (sun-dried sour pomegranate seeds grown wild in hilly tracts) holds a Geographical Indication (GI) tag from Jammu and Jammu & Kashmir.",
+   "topic": "GI Tags & Regional Heritage in News",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "static-gk-daily-2026-11-03-70",
+   "question": "In Indian cultural Static GK, 'Solung' is a traditional dance form or festival of which state or UT?",
+   "options": [
+    "Arunachal Pradesh",
+    "Maharashtra",
+    "Sikkim",
+    "Gujarat"
+   ],
+   "answer": 0,
+   "explanation": "In Indian culture, Solung belongs to Arunachal Pradesh.",
+   "topic": "Static GK — Classical & Folk Dances and Festivals of India",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "static-gk-daily-2026-11-03-95",
+   "question": "In Indian cultural Static GK, 'Manipuri' is a traditional dance form or festival of which state or UT?",
+   "options": [
+    "Manipur",
+    "Meghalaya",
+    "Kerala",
+    "Andhra Pradesh"
+   ],
+   "answer": 0,
+   "explanation": "In Indian culture, Manipuri belongs to Manipur.",
+   "topic": "Static GK — Classical & Folk Dances and Festivals of India",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
   }
  ]
 };

@@ -11,7 +11,7 @@
   "ssc-chsl"
  ],
  "blurb": "Famous books and their authors.",
- "count": 308,
+ "count": 312,
  "questions": [
   {
    "id": "books-authors-00001",
@@ -4680,6 +4680,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "books-authors-daily-2026-11-03-23",
+   "question": "In literature and competitive exams, who is the author of the celebrated work 'War and Peace'?",
+   "options": [
+    "Jonathan Swift",
+    "Phanishwar Nath Renu",
+    "Leo Tolstoy",
+    "Milkha Singh"
+   ],
+   "answer": 2,
+   "explanation": "The book 'War and Peace' was written by Leo Tolstoy.",
+   "topic": "Books & Authors — Classic & Modern Literary Works",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "books-authors-daily-2026-11-03-48",
+   "question": "In literature and competitive exams, who is the author of the celebrated work 'An Autobiography (Toward Freedom)'?",
+   "options": [
+    "Kalidasa",
+    "Jane Austen",
+    "Jawaharlal Nehru",
+    "Rabindranath Tagore"
+   ],
+   "answer": 2,
+   "explanation": "The book 'An Autobiography (Toward Freedom)' was written by Jawaharlal Nehru.",
+   "topic": "Books & Authors — Classic & Modern Literary Works",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "books-authors-daily-2026-11-03-73",
+   "question": "In literature and competitive exams, who is the author of the celebrated work 'The Communist Manifesto'?",
+   "options": [
+    "Kalidasa",
+    "Karl Marx and Friedrich Engels",
+    "Mahatma Gandhi",
+    "Arundhati Roy"
+   ],
+   "answer": 1,
+   "explanation": "The book 'The Communist Manifesto' was written by Karl Marx and Friedrich Engels.",
+   "topic": "Books & Authors — Classic & Modern Literary Works",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "books-authors-daily-2026-11-03-98",
+   "question": "In literature and competitive exams, who is the author of the celebrated work 'Gaban'?",
+   "options": [
+    "Arundhati Roy",
+    "Kalidasa",
+    "Munshi Premchand",
+    "Jawaharlal Nehru"
+   ],
+   "answer": 2,
+   "explanation": "The book 'Gaban' was written by Munshi Premchand.",
+   "topic": "Books & Authors — Classic & Modern Literary Works",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
   }
  ]
 };

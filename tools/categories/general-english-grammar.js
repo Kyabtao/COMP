@@ -12,7 +12,7 @@
   "banking"
  ],
  "blurb": "Voice, narration, articles, prepositions and error spotting.",
- "count": 328,
+ "count": 332,
  "questions": [
   {
    "id": "general-english-grammar-00001",
@@ -4981,6 +4981,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "general-english-grammar-daily-2026-11-03-09",
+   "question": "In standard English grammar, what is the correct plural form of the singular noun 'Brother'?",
+   "options": [
+    "Passers-by",
+    "Brothers",
+    "Phenomena",
+    "Lives"
+   ],
+   "answer": 1,
+   "explanation": "The plural form of 'Brother' is 'Brothers'.",
+   "topic": "General English Grammar — Singular & Plural Nouns",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "general-english-grammar-daily-2026-11-03-34",
+   "question": "In English grammar, choose the appropriate preposition to complete the sentence: 'I am looking forward ____ meeting you.'",
+   "options": [
+    "with",
+    "to",
+    "of",
+    "for"
+   ],
+   "answer": 1,
+   "explanation": "The grammatically correct preposition in 'I am looking forward ____ meeting you.' is 'to'.",
+   "topic": "General English Grammar — Prepositional Usage",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "general-english-grammar-daily-2026-11-03-59",
+   "question": "In English grammar, what is the superlative form of the adjective 'Wise' (comparative: 'Wiser')?",
+   "options": [
+    "Oldest",
+    "Poorest",
+    "Wisest",
+    "Lowest"
+   ],
+   "answer": 2,
+   "explanation": "Positive: Wise, Comparative: Wiser, Superlative: Wisest.",
+   "topic": "General English Grammar — Degrees of Comparison, Plurals & Gender",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "general-english-grammar-daily-2026-11-03-84",
+   "question": "In competitive English grammar, what is the standard rule regarding 'No Sooner ... Than (Inversion Rule)'?",
+   "options": [
+    "Take a plural verb ('My spectacles are missing'), unless preceded by 'A pair of', which takes a singular verb ('A pair of spectacles was bought')",
+    "'Few/Little' = hardly any (negative); 'A few/A little' = some (positive); 'The few/The little' = not many/much, but all that is available ('Few' for countable plural nouns, 'Little' for uncountable nouns)",
+    "For positive or neutral statements with singular pronouns, the order is Second person -> Third person -> First person (2-3-1: 'You, he and I are partners'); for confessing a fault or plural pronouns, the order is 1-2-3 ('I, you and he are to blame')",
+    "'No sooner' is always followed by 'than' (never 'when'), and when placed at the start of a sentence it requires auxiliary-subject inversion (e.g., 'No sooner had the bell rung than the students left')"
+   ],
+   "answer": 3,
+   "explanation": "No Sooner ... Than (Inversion Rule): 'No sooner' is always followed by 'than' (never 'when'), and when placed at the start of a sentence it requires auxiliary-subject inversion (e.g., 'No sooner had the bell rung than the students left') (contrasts with 'Hardly/Scarcely ... when').",
+   "topic": "English Grammar — Voice, Narration, Tenses & Modifiers",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
   }
  ]
 };

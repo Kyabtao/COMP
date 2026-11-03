@@ -13,7 +13,7 @@
   "railways"
  ],
  "blurb": "Recent schemes, missions, summits, awards and appointments.",
- "count": 1051,
+ "count": 1055,
  "questions": [
   {
    "id": "current-affairs-00001",
@@ -15830,6 +15830,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "current-affairs-daily-2026-11-03-10",
+   "question": "What is the primary objective of the 'Dharti Aaba Janjatiya Gram Utkarsh Abhiyan' scheme or initiative of the Government of India?",
+   "options": [
+    "Providing farmers access to virus-free, high-quality horticulture planting material through Clean Plant Centres",
+    "Holistic socio-economic development of over 63,000 tribal-majority villages across 30 states and union territories",
+    "Accelerating the adoption of electric two-wheelers, three-wheelers, e-ambulances, e-trucks and public charging infrastructure",
+    "Resolving pending direct tax appeals and reducing income-tax litigation through simplified settlement terms"
+   ],
+   "answer": 1,
+   "explanation": "Dharti Aaba Janjatiya Gram Utkarsh Abhiyan was launched under the Ministry of Tribal Affairs with the objective of: Holistic socio-economic development of over 63,000 tribal-majority villages across 30 states and union territories.",
+   "topic": "Recent Government Schemes & Initiatives",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "current-affairs-daily-2026-11-03-35",
+   "question": "In competitive current affairs: Which Indian shooter won a bronze medal at the Tokyo Olympics?",
+   "options": [
+    "D. Gukesh",
+    "Manu Bhaker",
+    "Malabar Exercise",
+    "National Food Security Mission"
+   ],
+   "answer": 1,
+   "explanation": "Which Indian shooter won a bronze medal at the Tokyo Olympics? — Manu Bhaker.",
+   "topic": "Current Affairs — National & International Developments",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "current-affairs-daily-2026-11-03-60",
+   "question": "In government policy and current affairs, what is the core objective of 'Pradhan Mantri Gram Sadak Yojana'?",
+   "options": [
+    "Income support of six thousand rupees to small farmers",
+    "All-weather roads for rural areas",
+    "Collateral-free loans for micro enterprises",
+    "Skill certification of youth"
+   ],
+   "answer": 1,
+   "explanation": "Pradhan Mantri Gram Sadak Yojana — All-weather roads for rural areas.",
+   "topic": "Current Affairs — Flagship Government Schemes",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "current-affairs-daily-2026-11-03-85",
+   "question": "What is the primary objective of the 'UNNATI 2024 (Uttar Poorva Transformative Industrialization Scheme)' scheme or initiative of the Government of India?",
+   "options": [
+    "Resolving pending direct tax appeals and reducing income-tax litigation through simplified settlement terms",
+    "Promoting industrial development, manufacturing and service sector employment across the eight North Eastern states",
+    "Integrating welfare schemes for unorganised workers onto a single Aadhaar-seeded national database",
+    "Empowering three crore women in Self-Help Groups to earn a sustainable annual household income of at least Rs 1 lakh"
+   ],
+   "answer": 1,
+   "explanation": "UNNATI 2024 (Uttar Poorva Transformative Industrialization Scheme) was launched under the Ministry of Commerce and Industry with the objective of: Promoting industrial development, manufacturing and service sector employment across the eight North Eastern states.",
+   "topic": "Recent Government Schemes & Initiatives",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
   }
  ]
 };

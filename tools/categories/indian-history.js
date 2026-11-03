@@ -12,7 +12,7 @@
   "railways"
  ],
  "blurb": "Events, dynasties, rulers, movements and freedom fighters.",
- "count": 1048,
+ "count": 1052,
  "questions": [
   {
    "id": "indian-history-00001",
@@ -15781,6 +15781,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "indian-history-daily-2026-11-03-12",
+   "question": "In Indian history, what is 'Begum Hazrat Mahal' historically known for or associated with?",
+   "options": [
+    "Leader of the Revolt in Awadh",
+    "Chandragupta Maurya",
+    "First Education Minister of India",
+    "Pushyamitra Sunga"
+   ],
+   "answer": 0,
+   "explanation": "Begum Hazrat Mahal — Leader of the Revolt in Awadh.",
+   "topic": "Indian History — Dynasties, Rulers & Freedom Struggle",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "indian-history-daily-2026-11-03-37",
+   "question": "In historical chronology, in which year did 'Beginning of World War II' take place?",
+   "options": [
+    "1977",
+    "1939",
+    "1952",
+    "1930"
+   ],
+   "answer": 1,
+   "explanation": "Beginning of World War II occurred in the year 1939.",
+   "topic": "Indian History — Landmark Historical Events & Chronology",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "indian-history-daily-2026-11-03-62",
+   "question": "In Indian history, what is 'Vijayanagara Empire' historically known for or associated with?",
+   "options": [
+    "First Education Minister of India",
+    "Chief architect of the Indian Constitution",
+    "Harihara and Bukka",
+    "Qutb-ud-din Aibak"
+   ],
+   "answer": 2,
+   "explanation": "Vijayanagara Empire — Harihara and Bukka.",
+   "topic": "Indian History — Dynasties, Rulers & Freedom Struggle",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "indian-history-daily-2026-11-03-87",
+   "question": "In historical chronology, in which year did 'Chandrayaan-3 soft landing near the lunar south pole' take place?",
+   "options": [
+    "1945",
+    "1885",
+    "2023",
+    "1833"
+   ],
+   "answer": 2,
+   "explanation": "Chandrayaan-3 soft landing near the lunar south pole occurred in the year 2023.",
+   "topic": "Indian History — Landmark Historical Events & Chronology",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
   }
  ]
 };

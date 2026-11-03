@@ -13,7 +13,7 @@
   "railways"
  ],
  "blurb": "Series, coding, blood relations, directions and syllogisms.",
- "count": 1553,
+ "count": 1557,
  "questions": [
   {
    "id": "reasoning-00001",
@@ -23362,6 +23362,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "reasoning-daily-2026-11-03-05",
+   "question": "In verbal analogy reasoning, if 'Birds' is related to 'Ornithology', then 'Solid Earth and its rocks' is analogously related to which discipline?",
+   "options": [
+    "Physics",
+    "Radiology",
+    "Acoustics",
+    "Geology"
+   ],
+   "answer": 3,
+   "explanation": "Just as Ornithology is the study of birds, Geology is the study of Solid Earth and its rocks.",
+   "topic": "Verbal Reasoning — Scientific Branch & Subject Analogies",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "reasoning-daily-2026-11-03-30",
+   "question": "In verbal analogy reasoning, if 'Japan : Yen', then 'Kuwait : ?'",
+   "options": [
+    "Kuwaiti Dinar",
+    "Sri Lankan Rupee",
+    "Euro",
+    "Bahraini Dinar"
+   ],
+   "answer": 0,
+   "explanation": "Just as the Yen is the national currency of Japan, the Kuwaiti Dinar is the currency of Kuwait (capital: Kuwait City).",
+   "topic": "Verbal Reasoning — Country & Currency Analogies",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "reasoning-daily-2026-11-03-55",
+   "question": "In verbal analogy reasoning, if 'Birds' is related to 'Ornithology', then 'Atomic nuclei' is analogously related to which discipline?",
+   "options": [
+    "Biology",
+    "Botany",
+    "Histology",
+    "Nuclear physics"
+   ],
+   "answer": 3,
+   "explanation": "Just as Ornithology is the study of birds, Nuclear physics is the study of Atomic nuclei.",
+   "topic": "Verbal Reasoning — Scientific Branch & Subject Analogies",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "reasoning-daily-2026-11-03-80",
+   "question": "In competitive logical reasoning, what is the exact rule or answer for 'Mirror Image Time of a 12-Hour Clock Showing H : M'?",
+   "options": [
+    "n(n - 1) / 2 (i.e., nC2)",
+    "Subtract the given time from 11:60 (or 23:60 when H = 12)",
+    "Two conclusions sharing the same subject and predicate, both individually uncertain, forming 'Some A are B + No A is B' or 'All A are B + Some A are not B'",
+    "|30*H - (11/2)*M| degrees (or 360 minus that value for the reflex angle)"
+   ],
+   "answer": 1,
+   "explanation": "Mirror Image Time of a 12-Hour Clock Showing H : M: Subtract the given time from 11:60 (or 23:60 when H = 12) (lateral inversion across the vertical 12-6 axis maps time T to (12:00 - T)).",
+   "topic": "Logical, Verbal & Analytical Reasoning in Competitive Exams",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
   }
  ]
 };

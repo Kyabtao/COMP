@@ -12,7 +12,7 @@
   "banking"
  ],
  "blurb": "Synonyms, antonyms, idioms, one-word substitutes, spellings and grammar.",
- "count": 1053,
+ "count": 1057,
  "questions": [
   {
    "id": "english-00001",
@@ -15861,6 +15861,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "english-daily-2026-11-03-03",
+   "question": "In English comprehension and competitive exams, what does the idiom 'Get the sack' mean?",
+   "options": [
+    "Relatives",
+    "Be dismissed from a job",
+    "A day of festivity",
+    "Fluency of speech"
+   ],
+   "answer": 1,
+   "explanation": "The idiom 'Get the sack' means Be dismissed from a job.",
+   "topic": "Competitive English — Idioms & Phrases",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "english-daily-2026-11-03-28",
+   "question": "In competitive English vocabulary, which word is closest in meaning (synonym) to 'Fabricate'?",
+   "options": [
+    "Invent",
+    "Courage",
+    "Hide",
+    "Effectiveness"
+   ],
+   "answer": 0,
+   "explanation": "The word 'Fabricate' is synonymous with 'Invent'.",
+   "topic": "Competitive English — Synonyms & Vocabulary",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "english-daily-2026-11-03-53",
+   "question": "In English vocabulary, which single word substitutes for the phrase 'One who cannot be defeated'?",
+   "options": [
+    "Invincible",
+    "Apiary",
+    "Beginner",
+    "Cobbler"
+   ],
+   "answer": 0,
+   "explanation": "The one-word substitute for 'One who cannot be defeated' is 'Invincible'.",
+   "topic": "Competitive English — One-Word Substitutions",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "english-daily-2026-11-03-78",
+   "question": "In competitive English usage, which word is most nearly opposite in meaning (antonym) to 'Docile'?",
+   "options": [
+    "Unruly",
+    "Careless",
+    "Acquired",
+    "Distant"
+   ],
+   "answer": 0,
+   "explanation": "The antonym (opposite) of 'Docile' is 'Unruly'.",
+   "topic": "Competitive English — Antonyms & Opposites",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
   }
  ]
 };

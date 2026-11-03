@@ -1,5 +1,5 @@
 {
-  "totalQuestions": 34157,
+  "totalQuestions": 34257,
   "categoriesAt1000Plus": [
     "gk-misc",
     "general-knowledge",
@@ -23,151 +23,151 @@
     {
       "slug": "general-knowledge",
       "name": "General Knowledge",
-      "count": 1048,
+      "count": 1052,
       "target": 1000
     },
     {
       "slug": "current-affairs",
       "name": "Current Affairs",
-      "count": 1051,
+      "count": 1055,
       "target": 1000
     },
     {
       "slug": "static-gk",
       "name": "Static GK",
-      "count": 1050,
+      "count": 1054,
       "target": 1000
     },
     {
       "slug": "indian-history",
       "name": "Indian History",
-      "count": 1048,
+      "count": 1052,
       "target": 1000
     },
     {
       "slug": "indian-polity",
       "name": "Indian Polity",
-      "count": 772,
+      "count": 776,
       "target": 1000
     },
     {
       "slug": "geography",
       "name": "Geography",
-      "count": 1048,
+      "count": 1052,
       "target": 1000
     },
     {
       "slug": "general-science",
       "name": "General Science",
-      "count": 1049,
+      "count": 1053,
       "target": 1000
     },
     {
       "slug": "english",
       "name": "English Language",
-      "count": 1053,
+      "count": 1057,
       "target": 1000
     },
     {
       "slug": "reasoning",
       "name": "Reasoning",
-      "count": 1553,
+      "count": 1557,
       "target": 1000
     },
     {
       "slug": "quantitative-aptitude",
       "name": "Quantitative Aptitude",
-      "count": 1554,
+      "count": 1558,
       "target": 1000
     },
     {
       "slug": "mathematics",
       "name": "Mathematics",
-      "count": 1554,
+      "count": 1558,
       "target": 1000
     },
     {
       "slug": "general-awareness",
       "name": "General Awareness",
-      "count": 327,
+      "count": 331,
       "target": 400
     },
     {
       "slug": "computer-awareness",
       "name": "Computer Awareness",
-      "count": 329,
+      "count": 333,
       "target": 400
     },
     {
       "slug": "economics",
       "name": "Economics & Banking",
-      "count": 329,
+      "count": 333,
       "target": 600
     },
     {
       "slug": "general-english-grammar",
       "name": "General English Grammar",
-      "count": 328,
+      "count": 332,
       "target": 400
     },
     {
       "slug": "environmental-studies",
       "name": "Environmental Studies",
-      "count": 329,
+      "count": 333,
       "target": 400
     },
     {
       "slug": "physics",
       "name": "Physics",
-      "count": 307,
+      "count": 311,
       "target": 400
     },
     {
       "slug": "chemistry",
       "name": "Chemistry",
-      "count": 270,
+      "count": 274,
       "target": 400
     },
     {
       "slug": "biology",
       "name": "Biology",
-      "count": 328,
+      "count": 332,
       "target": 400
     },
     {
       "slug": "sports",
       "name": "Sports",
-      "count": 308,
+      "count": 312,
       "target": 400
     },
     {
       "slug": "awards-honours",
       "name": "Awards & Honours",
-      "count": 251,
+      "count": 255,
       "target": 400
     },
     {
       "slug": "books-authors",
       "name": "Books & Authors",
-      "count": 308,
+      "count": 312,
       "target": 400
     },
     {
       "slug": "days-events",
       "name": "Days & Events",
-      "count": 328,
+      "count": 332,
       "target": 400
     },
     {
       "slug": "inventions-discoveries",
       "name": "Inventions & Discoveries",
-      "count": 307,
+      "count": 311,
       "target": 400
     },
     {
       "slug": "abbreviations",
       "name": "Abbreviations",
-      "count": 328,
+      "count": 332,
       "target": 400
     }
   ],
@@ -224,7 +224,7 @@
     {
       "name": "question ids are unique",
       "pass": true,
-      "detail": "34157 unique ids for 34157 questions"
+      "detail": "34257 unique ids for 34257 questions"
     },
     {
       "name": "class selection covers 1-12 and Graduation",
@@ -249,7 +249,7 @@
     {
       "name": "[spec] total questions reach 25,000",
       "pass": true,
-      "detail": "34157 questions built"
+      "detail": "34257 questions built"
     },
     {
       "name": "[spec] GK Misc reaches 17,000",

@@ -12,7 +12,7 @@
   "railways"
  ],
  "blurb": "Countries, capitals, currencies, days, organisations and world firsts.",
- "count": 1048,
+ "count": 1052,
  "questions": [
   {
    "id": "general-knowledge-00001",
@@ -15781,6 +15781,70 @@
    "level": 1,
    "source": "daily",
    "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "general-knowledge-daily-2026-11-03-18",
+   "question": "In world general knowledge, what is the national capital of United Arab Emirates (currency: Dirham)?",
+   "options": [
+    "Abu Dhabi",
+    "Nairobi",
+    "Porto-Novo",
+    "Andorra la Vella"
+   ],
+   "answer": 0,
+   "explanation": "The capital of United Arab Emirates is Abu Dhabi and its official currency is the Dirham.",
+   "topic": "World General Knowledge — Countries, Capitals & Currencies",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "general-knowledge-daily-2026-11-03-43",
+   "question": "In world and Indian general knowledge: Which imaginary line passes through India?",
+   "options": [
+    "Tibetan Plateau",
+    "Arabian Peninsula",
+    "Tropic of Cancer",
+    "Bangladesh"
+   ],
+   "answer": 2,
+   "explanation": "Which imaginary line passes through India? — Tropic of Cancer.",
+   "topic": "General Knowledge — Global Superlatives & World Firsts",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "general-knowledge-daily-2026-11-03-68",
+   "question": "In world general knowledge, what is the national capital of Tunisia (currency: Tunisian Dinar)?",
+   "options": [
+    "Tbilisi",
+    "Tunis",
+    "Zagreb",
+    "Conakry"
+   ],
+   "answer": 1,
+   "explanation": "The capital of Tunisia is Tunis and its official currency is the Tunisian Dinar.",
+   "topic": "World General Knowledge — Countries, Capitals & Currencies",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "general-knowledge-daily-2026-11-03-93",
+   "question": "In world and Indian general knowledge: Which is the largest freshwater lake in India?",
+   "options": [
+    "Bhutan",
+    "Tibetan Plateau",
+    "Wular Lake",
+    "Australia"
+   ],
+   "answer": 2,
+   "explanation": "Which is the largest freshwater lake in India? — Wular Lake.",
+   "topic": "General Knowledge — Global Superlatives & World Firsts",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
   }
  ]
 };

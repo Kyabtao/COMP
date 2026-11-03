@@ -11,7 +11,7 @@
   "railways"
  ],
  "blurb": "Ecology, pollution, climate agreements and wildlife.",
- "count": 329,
+ "count": 333,
  "questions": [
   {
    "id": "environmental-studies-00001",
@@ -4996,6 +4996,70 @@
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-11-02"
+  },
+  {
+   "id": "environmental-studies-daily-2026-11-03-16",
+   "question": "In which Indian state is the Ramsar wetland or conservation site 'Shallbugh Wetland Conservation Reserve' located?",
+   "options": [
+    "Madhya Pradesh",
+    "Jammu & Kashmir",
+    "Odisha",
+    "Tamil Nadu"
+   ],
+   "answer": 1,
+   "explanation": "'Shallbugh Wetland Conservation Reserve' (reed-marsh flood absorption basin in Ganderbal district feeding the Jhelum floodplain) is a notified Ramsar wetland site located in Jammu & Kashmir.",
+   "topic": "Ecology, Ramsar Wetlands & Biosphere Reserves",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "environmental-studies-daily-2026-11-03-41",
+   "question": "In environmental studies and ecology, what is 'National Clean Air Programme' associated with?",
+   "options": [
+    "Elimination of persistent organic pollutants",
+    "Prevention of water pollution",
+    "Reduction of air pollution in cities",
+    "Wetlands facing ecological change"
+   ],
+   "answer": 2,
+   "explanation": "National Clean Air Programme — Reduction of air pollution in cities.",
+   "topic": "Environmental Studies — Global Conventions, Biosphere & Pollution",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "environmental-studies-daily-2026-11-03-66",
+   "question": "In Indian ecology and wildlife conservation, in which state or UT is 'Sundarbans National Park' situated?",
+   "options": [
+    "Bihar",
+    "West Bengal",
+    "Tamil Nadu",
+    "Uttarakhand"
+   ],
+   "answer": 1,
+   "explanation": "Sundarbans National Park is located in West Bengal.",
+   "topic": "Environmental Studies — National Parks & Wildlife Sanctuaries",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "environmental-studies-daily-2026-11-03-91",
+   "question": "In biodiversity conservation, the biosphere reserve or wetland site 'Chilika Lake' is located in which Indian state?",
+   "options": [
+    "Himachal Pradesh",
+    "Andaman and Nicobar Islands",
+    "West Bengal",
+    "Odisha"
+   ],
+   "answer": 3,
+   "explanation": "Chilika Lake is located in Odisha.",
+   "topic": "Environmental Studies — Biosphere Reserves & Ramsar Wetlands",
+   "level": 2,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
   }
  ]
 };
