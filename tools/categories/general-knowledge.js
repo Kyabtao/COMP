@@ -15784,65 +15784,65 @@
   },
   {
    "id": "general-knowledge-daily-2026-11-03-18",
-   "question": "In world general knowledge, what is the national capital of United Arab Emirates (currency: Dirham)?",
+   "question": "Out of these four buildings, which one is the tallest, with a height of 1,483 ft (451.9 m)?",
    "options": [
-    "Abu Dhabi",
-    "Nairobi",
-    "Porto-Novo",
-    "Andorra la Vella"
+    "Zifeng Tower, China",
+    "Trump Intl. Hotel & Tower, United States",
+    "Al Hamra Tower, Kuwait",
+    "Petronas Twin Towers, Malaysia"
    ],
-   "answer": 0,
-   "explanation": "The capital of United Arab Emirates is Abu Dhabi and its official currency is the Dirham.",
-   "topic": "World General Knowledge — Countries, Capitals & Currencies",
+   "answer": 3,
+   "explanation": "Petronas Twin Towers, Malaysia is the correct answer for: Out of these four buildings, which one is the tallest, with a height of 1,483 ft (451.9 m)? (General Knowledge).",
+   "topic": "General Knowledge",
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-11-03"
   },
   {
    "id": "general-knowledge-daily-2026-11-03-43",
-   "question": "In world and Indian general knowledge: Which imaginary line passes through India?",
+   "question": "Which sign of the zodiac is represented by the Crab?",
    "options": [
-    "Tibetan Plateau",
-    "Arabian Peninsula",
-    "Tropic of Cancer",
-    "Bangladesh"
+    "Cancer",
+    "Libra",
+    "Virgo",
+    "Sagittarius"
    ],
-   "answer": 2,
-   "explanation": "Which imaginary line passes through India? — Tropic of Cancer.",
-   "topic": "General Knowledge — Global Superlatives & World Firsts",
-   "level": 2,
+   "answer": 0,
+   "explanation": "Cancer is the correct answer for: Which sign of the zodiac is represented by the Crab? (General Knowledge).",
+   "topic": "General Knowledge",
+   "level": 1,
    "source": "daily",
    "dailyDate": "2026-11-03"
   },
   {
    "id": "general-knowledge-daily-2026-11-03-68",
-   "question": "In world general knowledge, what is the national capital of Tunisia (currency: Tunisian Dinar)?",
+   "question": "The word \"aprosexia\" means which of the following?",
    "options": [
-    "Tbilisi",
-    "Tunis",
-    "Zagreb",
-    "Conakry"
+    "The inability to stand up",
+    "The inability to make decisions",
+    "The inability to concentrate on anything",
+    "A feverish desire to rip one's clothes off"
    ],
-   "answer": 1,
-   "explanation": "The capital of Tunisia is Tunis and its official currency is the Tunisian Dinar.",
-   "topic": "World General Knowledge — Countries, Capitals & Currencies",
-   "level": 2,
+   "answer": 2,
+   "explanation": "The inability to concentrate on anything is the correct answer for: The word \"aprosexia\" means which of the following? (General Knowledge).",
+   "topic": "General Knowledge",
+   "level": 3,
    "source": "daily",
    "dailyDate": "2026-11-03"
   },
   {
    "id": "general-knowledge-daily-2026-11-03-93",
-   "question": "In world and Indian general knowledge: Which is the largest freshwater lake in India?",
+   "question": "In past times, what would a gentleman keep in his fob pocket?",
    "options": [
-    "Bhutan",
-    "Tibetan Plateau",
-    "Wular Lake",
-    "Australia"
+    "Watch",
+    "Notebook",
+    "Money",
+    "Keys"
    ],
-   "answer": 2,
-   "explanation": "Which is the largest freshwater lake in India? — Wular Lake.",
-   "topic": "General Knowledge — Global Superlatives & World Firsts",
-   "level": 2,
+   "answer": 0,
+   "explanation": "Watch is the correct answer for: In past times, what would a gentleman keep in his fob pocket? (General Knowledge).",
+   "topic": "General Knowledge",
+   "level": 1,
    "source": "daily",
    "dailyDate": "2026-11-03"
   }

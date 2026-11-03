@@ -11644,6 +11644,22 @@
   },
   {
    "id": "indian-polity-daily-2026-11-03-11",
+   "question": "The likeness of which president is featured on the rare $2 bill of USA currency?",
+   "options": [
+    "Ulysses Grant",
+    "Thomas Jefferson",
+    "Martin Van Buren",
+    "John Quincy Adams"
+   ],
+   "answer": 1,
+   "explanation": "Thomas Jefferson is the correct answer for: The likeness of which president is featured on the rare $2 bill of USA currency? (General Knowledge).",
+   "topic": "General Knowledge",
+   "level": 1,
+   "source": "daily",
+   "dailyDate": "2026-11-03"
+  },
+  {
+   "id": "indian-polity-daily-2026-11-03-36",
    "question": "Who was appointed as the Chairman of the 16th Finance Commission of India?",
    "options": [
     "N. K. Singh",
@@ -11659,7 +11675,7 @@
    "dailyDate": "2026-11-03"
   },
   {
-   "id": "indian-polity-daily-2026-11-03-36",
+   "id": "indian-polity-daily-2026-11-03-61",
    "question": "Under the Constitution of India, which article or part deals with 'Municipalities'?",
    "options": [
     "Part II, Articles 5-11",
@@ -11675,7 +11691,7 @@
    "dailyDate": "2026-11-03"
   },
   {
-   "id": "indian-polity-daily-2026-11-03-61",
+   "id": "indian-polity-daily-2026-11-03-86",
    "question": "In Indian governance and polity, how is 'Finance Commission' constitutionally or statutorily described?",
    "options": [
     "Regulator of telecommunications",
@@ -11686,22 +11702,6 @@
    "answer": 2,
    "explanation": "Finance Commission — Recommends distribution of taxes between the Centre and States.",
    "topic": "Indian Polity — Constitutional & Statutory Bodies",
-   "level": 2,
-   "source": "daily",
-   "dailyDate": "2026-11-03"
-  },
-  {
-   "id": "indian-polity-daily-2026-11-03-86",
-   "question": "In Indian Constitutional Polity: Source of the Parliamentary system?",
-   "options": [
-    "Certiorari",
-    "Election Commission of India",
-    "12",
-    "United Kingdom"
-   ],
-   "answer": 3,
-   "explanation": "Source of the Parliamentary system — United Kingdom.",
-   "topic": "Indian Polity — Constitutional Governance & Facts",
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-11-03"

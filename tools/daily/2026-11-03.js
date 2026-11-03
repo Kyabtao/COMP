@@ -132,31 +132,31 @@
     },
     {
       "category": "current-affairs",
-      "question": "What is the primary objective of the 'Dharti Aaba Janjatiya Gram Utkarsh Abhiyan' scheme or initiative of the Government of India?",
+      "question": "Which current affairs development was reported regarding: \"India and Israel were the only countries to vote against the resolution in the 193-member UN body\"?",
       "options": [
-        "Providing farmers access to virus-free, high-quality horticulture planting material through Clean Plant Centres",
-        "Holistic socio-economic development of over 63,000 tribal-majority villages across 30 states and union territories",
-        "Accelerating the adoption of electric two-wheelers, three-wheelers, e-ambulances, e-trucks and public charging infrastructure",
-        "Resolving pending direct tax appeals and reducing income-tax litigation through simplified settlement terms"
+        "JNU sexual harassment case: Delhi court seeks police's reply on Angomcha Akoijam's anticipatory bail plea",
+        "India, Israel vote against UNGA draft on regional conventional arms control",
+        "Severe Cyclone Murasu: Landfall commences near Ongole",
+        "Cyclone Murasu: A.P. CM calls for efforts to prevent loss of lives"
       ],
       "answer": 1,
-      "explanation": "Dharti Aaba Janjatiya Gram Utkarsh Abhiyan was launched under the Ministry of Tribal Affairs with the objective of: Holistic socio-economic development of over 63,000 tribal-majority villages across 30 states and union territories.",
-      "topic": "Recent Government Schemes & Initiatives",
+      "explanation": "India, Israel vote against UNGA draft on regional conventional arms control — India and Israel were the only countries to vote against the resolution in the 193-member UN body (The Hindu — National & Current Affairs, Tue, 03 Nov 2026 12:30:35 +0530).",
+      "topic": "The Hindu — National & Current Affairs Current Affairs",
       "level": 2
     },
     {
       "category": "indian-polity",
-      "question": "Who was appointed as the Chairman of the 16th Finance Commission of India?",
+      "question": "The likeness of which president is featured on the rare $2 bill of USA currency?",
       "options": [
-        "N. K. Singh",
-        "Raghuram Rajan",
-        "Urjit Patel",
-        "Arvind Panagariya"
+        "Ulysses Grant",
+        "Thomas Jefferson",
+        "Martin Van Buren",
+        "John Quincy Adams"
       ],
-      "answer": 3,
-      "explanation": "Economist and former NITI Aayog Vice-Chairman Dr Arvind Panagariya was appointed Chairman of the 16th Finance Commission constituted under Article 280 of the Constitution.",
-      "topic": "Constitutional Bodies in News",
-      "level": 2
+      "answer": 1,
+      "explanation": "Thomas Jefferson is the correct answer for: The likeness of which president is featured on the rare $2 bill of USA currency? (General Knowledge).",
+      "topic": "General Knowledge",
+      "level": 1
     },
     {
       "category": "indian-history",
@@ -244,16 +244,16 @@
     },
     {
       "category": "general-knowledge",
-      "question": "In world general knowledge, what is the national capital of United Arab Emirates (currency: Dirham)?",
+      "question": "Out of these four buildings, which one is the tallest, with a height of 1,483 ft (451.9 m)?",
       "options": [
-        "Abu Dhabi",
-        "Nairobi",
-        "Porto-Novo",
-        "Andorra la Vella"
+        "Zifeng Tower, China",
+        "Trump Intl. Hotel & Tower, United States",
+        "Al Hamra Tower, Kuwait",
+        "Petronas Twin Towers, Malaysia"
       ],
-      "answer": 0,
-      "explanation": "The capital of United Arab Emirates is Abu Dhabi and its official currency is the Dirham.",
-      "topic": "World General Knowledge — Countries, Capitals & Currencies",
+      "answer": 3,
+      "explanation": "Petronas Twin Towers, Malaysia is the correct answer for: Out of these four buildings, which one is the tallest, with a height of 1,483 ft (451.9 m)? (General Knowledge).",
+      "topic": "General Knowledge",
       "level": 2
     },
     {
@@ -482,30 +482,30 @@
     },
     {
       "category": "current-affairs",
-      "question": "In competitive current affairs: Which Indian shooter won a bronze medal at the Tokyo Olympics?",
+      "question": "Which current affairs development was reported regarding: \"Congress leader Jairam Ramesh’s remarks come a day after Amit Shah offered said the government is ready to convene special Parliament session on the issue and challenged Rahul Gandhi to debate it in the House\"?",
       "options": [
-        "D. Gukesh",
-        "Manu Bhaker",
-        "Malabar Exercise",
-        "National Food Security Mission"
+        "Mild earthquake of 3.1 magnitude hits of J&K's Kishtwar",
+        "First get ‘hatchet man’ CEC to resign: Congress on Shah's SIR debate dare",
+        "Cyclone Murasu highlights: CM Naidu holds teleconference with District Collectors as landfall process continues",
+        "Cyclone Murasu LIVE updates: Eye of cyclone crosses Andhra Pradesh coast"
       ],
       "answer": 1,
-      "explanation": "Which Indian shooter won a bronze medal at the Tokyo Olympics? — Manu Bhaker.",
-      "topic": "Current Affairs — National & International Developments",
+      "explanation": "First get ‘hatchet man’ CEC to resign: Congress on Shah's SIR debate dare — Congress leader Jairam Ramesh’s remarks come a day after Amit Shah offered said the government is ready to convene special Parliament session on the issue and challenged Rahul Gandhi to debate it in the House (The Hindu — National & Current Affairs, Tue, 03 Nov 2026 12:29:27 +0530).",
+      "topic": "The Hindu — National & Current Affairs Current Affairs",
       "level": 2
     },
     {
       "category": "indian-polity",
-      "question": "Under the Constitution of India, which article or part deals with 'Municipalities'?",
+      "question": "Who was appointed as the Chairman of the 16th Finance Commission of India?",
       "options": [
-        "Part II, Articles 5-11",
-        "Articles 29-30",
-        "Part IXA, Articles 243P-243ZG",
-        "Article 75"
+        "N. K. Singh",
+        "Raghuram Rajan",
+        "Urjit Patel",
+        "Arvind Panagariya"
       ],
-      "answer": 2,
-      "explanation": "In the Indian Constitution, Municipalities is governed by Part IXA, Articles 243P-243ZG.",
-      "topic": "Indian Polity — Constitutional Articles & Provisions",
+      "answer": 3,
+      "explanation": "Economist and former NITI Aayog Vice-Chairman Dr Arvind Panagariya was appointed Chairman of the 16th Finance Commission constituted under Article 280 of the Constitution.",
+      "topic": "Constitutional Bodies in News",
       "level": 2
     },
     {
@@ -594,17 +594,17 @@
     },
     {
       "category": "general-knowledge",
-      "question": "In world and Indian general knowledge: Which imaginary line passes through India?",
+      "question": "Which sign of the zodiac is represented by the Crab?",
       "options": [
-        "Tibetan Plateau",
-        "Arabian Peninsula",
-        "Tropic of Cancer",
-        "Bangladesh"
+        "Cancer",
+        "Libra",
+        "Virgo",
+        "Sagittarius"
       ],
-      "answer": 2,
-      "explanation": "Which imaginary line passes through India? — Tropic of Cancer.",
-      "topic": "General Knowledge — Global Superlatives & World Firsts",
-      "level": 2
+      "answer": 0,
+      "explanation": "Cancer is the correct answer for: Which sign of the zodiac is represented by the Crab? (General Knowledge).",
+      "topic": "General Knowledge",
+      "level": 1
     },
     {
       "category": "general-awareness",
@@ -832,30 +832,30 @@
     },
     {
       "category": "current-affairs",
-      "question": "In government policy and current affairs, what is the core objective of 'Pradhan Mantri Gram Sadak Yojana'?",
+      "question": "Which current affairs development was reported regarding: \"The proposed amendment to Rule 43A of the Drugs Rules, 1945, is aimed at easing import operations, reducing inland transportation distances and improving the movement of healthcare products across the country\"?",
       "options": [
-        "Income support of six thousand rupees to small farmers",
-        "All-weather roads for rural areas",
-        "Collateral-free loans for micro enterprises",
-        "Skill certification of youth"
+        "Cyclone Murasu: A.P. CM calls for efforts to prevent loss of lives",
+        "Panel proposes 10-year roadmap for stray dog issue in Keralam",
+        "Centre proposes 10 new import gateways for drugs, medical devices",
+        "Why is it difficult to ensure only green firecrackers are burst during Deepavali?"
       ],
-      "answer": 1,
-      "explanation": "Pradhan Mantri Gram Sadak Yojana — All-weather roads for rural areas.",
-      "topic": "Current Affairs — Flagship Government Schemes",
+      "answer": 2,
+      "explanation": "Centre proposes 10 new import gateways for drugs, medical devices — The proposed amendment to Rule 43A of the Drugs Rules, 1945, is aimed at easing import operations, reducing inland transportation distances and improving the movement of healthcare products across the country (The Hindu — National & Current Affairs, Tue, 03 Nov 2026 12:26:50 +0530).",
+      "topic": "The Hindu — National & Current Affairs Current Affairs",
       "level": 2
     },
     {
       "category": "indian-polity",
-      "question": "In Indian governance and polity, how is 'Finance Commission' constitutionally or statutorily described?",
+      "question": "Under the Constitution of India, which article or part deals with 'Municipalities'?",
       "options": [
-        "Regulator of telecommunications",
-        "Apex judicial body of India",
-        "Recommends distribution of taxes between the Centre and States",
-        "Deputy to the Prime Minister in the policy think tank"
+        "Part II, Articles 5-11",
+        "Articles 29-30",
+        "Part IXA, Articles 243P-243ZG",
+        "Article 75"
       ],
       "answer": 2,
-      "explanation": "Finance Commission — Recommends distribution of taxes between the Centre and States.",
-      "topic": "Indian Polity — Constitutional & Statutory Bodies",
+      "explanation": "In the Indian Constitution, Municipalities is governed by Part IXA, Articles 243P-243ZG.",
+      "topic": "Indian Polity — Constitutional Articles & Provisions",
       "level": 2
     },
     {
@@ -944,17 +944,17 @@
     },
     {
       "category": "general-knowledge",
-      "question": "In world general knowledge, what is the national capital of Tunisia (currency: Tunisian Dinar)?",
+      "question": "The word \"aprosexia\" means which of the following?",
       "options": [
-        "Tbilisi",
-        "Tunis",
-        "Zagreb",
-        "Conakry"
+        "The inability to stand up",
+        "The inability to make decisions",
+        "The inability to concentrate on anything",
+        "A feverish desire to rip one's clothes off"
       ],
-      "answer": 1,
-      "explanation": "The capital of Tunisia is Tunis and its official currency is the Tunisian Dinar.",
-      "topic": "World General Knowledge — Countries, Capitals & Currencies",
-      "level": 2
+      "answer": 2,
+      "explanation": "The inability to concentrate on anything is the correct answer for: The word \"aprosexia\" means which of the following? (General Knowledge).",
+      "topic": "General Knowledge",
+      "level": 3
     },
     {
       "category": "general-awareness",
@@ -1182,30 +1182,30 @@
     },
     {
       "category": "current-affairs",
-      "question": "What is the primary objective of the 'UNNATI 2024 (Uttar Poorva Transformative Industrialization Scheme)' scheme or initiative of the Government of India?",
+      "question": "Which current affairs development was reported regarding: \"HYDRAA demolished the compound wall of a farmhouse belonging to family members of former Minister Ch. Malla Reddy at Dulapally village\"?",
       "options": [
-        "Resolving pending direct tax appeals and reducing income-tax litigation through simplified settlement terms",
-        "Promoting industrial development, manufacturing and service sector employment across the eight North Eastern states",
-        "Integrating welfare schemes for unorganised workers onto a single Aadhaar-seeded national database",
-        "Empowering three crore women in Self-Help Groups to earn a sustainable annual household income of at least Rs 1 lakh"
+        "All 4,048 Tasmac outlets in Tamil Nadu to get bottle return machines: Minister Vignesh",
+        "JNU sexual harassment case: Delhi court seeks police's reply on Angomcha Akoijam's anticipatory bail plea",
+        "HYDRAA removes encroachments in Fox Sagar lake FTL; farmhouse’s compound wall demolished",
+        "What is Project 18A, and why is the Navy embarking on building futuristic warships? | Explained"
       ],
-      "answer": 1,
-      "explanation": "UNNATI 2024 (Uttar Poorva Transformative Industrialization Scheme) was launched under the Ministry of Commerce and Industry with the objective of: Promoting industrial development, manufacturing and service sector employment across the eight North Eastern states.",
-      "topic": "Recent Government Schemes & Initiatives",
+      "answer": 2,
+      "explanation": "HYDRAA removes encroachments in Fox Sagar lake FTL; farmhouse’s compound wall demolished — HYDRAA demolished the compound wall of a farmhouse belonging to family members of former Minister Ch. Malla Reddy at Dulapally village (The Hindu — National & Current Affairs, Tue, 03 Nov 2026 12:26:04 +0530).",
+      "topic": "The Hindu — National & Current Affairs Current Affairs",
       "level": 2
     },
     {
       "category": "indian-polity",
-      "question": "In Indian Constitutional Polity: Source of the Parliamentary system?",
+      "question": "In Indian governance and polity, how is 'Finance Commission' constitutionally or statutorily described?",
       "options": [
-        "Certiorari",
-        "Election Commission of India",
-        "12",
-        "United Kingdom"
+        "Regulator of telecommunications",
+        "Apex judicial body of India",
+        "Recommends distribution of taxes between the Centre and States",
+        "Deputy to the Prime Minister in the policy think tank"
       ],
-      "answer": 3,
-      "explanation": "Source of the Parliamentary system — United Kingdom.",
-      "topic": "Indian Polity — Constitutional Governance & Facts",
+      "answer": 2,
+      "explanation": "Finance Commission — Recommends distribution of taxes between the Centre and States.",
+      "topic": "Indian Polity — Constitutional & Statutory Bodies",
       "level": 2
     },
     {
@@ -1294,17 +1294,17 @@
     },
     {
       "category": "general-knowledge",
-      "question": "In world and Indian general knowledge: Which is the largest freshwater lake in India?",
+      "question": "In past times, what would a gentleman keep in his fob pocket?",
       "options": [
-        "Bhutan",
-        "Tibetan Plateau",
-        "Wular Lake",
-        "Australia"
+        "Watch",
+        "Notebook",
+        "Money",
+        "Keys"
       ],
-      "answer": 2,
-      "explanation": "Which is the largest freshwater lake in India? — Wular Lake.",
-      "topic": "General Knowledge — Global Superlatives & World Firsts",
-      "level": 2
+      "answer": 0,
+      "explanation": "Watch is the correct answer for: In past times, what would a gentleman keep in his fob pocket? (General Knowledge).",
+      "topic": "General Knowledge",
+      "level": 1
     },
     {
       "category": "general-awareness",

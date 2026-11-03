@@ -15833,64 +15833,64 @@
   },
   {
    "id": "current-affairs-daily-2026-11-03-10",
-   "question": "What is the primary objective of the 'Dharti Aaba Janjatiya Gram Utkarsh Abhiyan' scheme or initiative of the Government of India?",
+   "question": "Which current affairs development was reported regarding: \"India and Israel were the only countries to vote against the resolution in the 193-member UN body\"?",
    "options": [
-    "Providing farmers access to virus-free, high-quality horticulture planting material through Clean Plant Centres",
-    "Holistic socio-economic development of over 63,000 tribal-majority villages across 30 states and union territories",
-    "Accelerating the adoption of electric two-wheelers, three-wheelers, e-ambulances, e-trucks and public charging infrastructure",
-    "Resolving pending direct tax appeals and reducing income-tax litigation through simplified settlement terms"
+    "JNU sexual harassment case: Delhi court seeks police's reply on Angomcha Akoijam's anticipatory bail plea",
+    "India, Israel vote against UNGA draft on regional conventional arms control",
+    "Severe Cyclone Murasu: Landfall commences near Ongole",
+    "Cyclone Murasu: A.P. CM calls for efforts to prevent loss of lives"
    ],
    "answer": 1,
-   "explanation": "Dharti Aaba Janjatiya Gram Utkarsh Abhiyan was launched under the Ministry of Tribal Affairs with the objective of: Holistic socio-economic development of over 63,000 tribal-majority villages across 30 states and union territories.",
-   "topic": "Recent Government Schemes & Initiatives",
+   "explanation": "India, Israel vote against UNGA draft on regional conventional arms control — India and Israel were the only countries to vote against the resolution in the 193-member UN body (The Hindu — National & Current Affairs, Tue, 03 Nov 2026 12:30:35 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-11-03"
   },
   {
    "id": "current-affairs-daily-2026-11-03-35",
-   "question": "In competitive current affairs: Which Indian shooter won a bronze medal at the Tokyo Olympics?",
+   "question": "Which current affairs development was reported regarding: \"Congress leader Jairam Ramesh’s remarks come a day after Amit Shah offered said the government is ready to convene special Parliament session on the issue and challenged Rahul Gandhi to debate it in the House\"?",
    "options": [
-    "D. Gukesh",
-    "Manu Bhaker",
-    "Malabar Exercise",
-    "National Food Security Mission"
+    "Mild earthquake of 3.1 magnitude hits of J&K's Kishtwar",
+    "First get ‘hatchet man’ CEC to resign: Congress on Shah's SIR debate dare",
+    "Cyclone Murasu highlights: CM Naidu holds teleconference with District Collectors as landfall process continues",
+    "Cyclone Murasu LIVE updates: Eye of cyclone crosses Andhra Pradesh coast"
    ],
    "answer": 1,
-   "explanation": "Which Indian shooter won a bronze medal at the Tokyo Olympics? — Manu Bhaker.",
-   "topic": "Current Affairs — National & International Developments",
+   "explanation": "First get ‘hatchet man’ CEC to resign: Congress on Shah's SIR debate dare — Congress leader Jairam Ramesh’s remarks come a day after Amit Shah offered said the government is ready to convene special Parliament session on the issue and challenged Rahul Gandhi to debate it in the House (The Hindu — National & Current Affairs, Tue, 03 Nov 2026 12:29:27 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-11-03"
   },
   {
    "id": "current-affairs-daily-2026-11-03-60",
-   "question": "In government policy and current affairs, what is the core objective of 'Pradhan Mantri Gram Sadak Yojana'?",
+   "question": "Which current affairs development was reported regarding: \"The proposed amendment to Rule 43A of the Drugs Rules, 1945, is aimed at easing import operations, reducing inland transportation distances and improving the movement of healthcare products across the country\"?",
    "options": [
-    "Income support of six thousand rupees to small farmers",
-    "All-weather roads for rural areas",
-    "Collateral-free loans for micro enterprises",
-    "Skill certification of youth"
+    "Cyclone Murasu: A.P. CM calls for efforts to prevent loss of lives",
+    "Panel proposes 10-year roadmap for stray dog issue in Keralam",
+    "Centre proposes 10 new import gateways for drugs, medical devices",
+    "Why is it difficult to ensure only green firecrackers are burst during Deepavali?"
    ],
-   "answer": 1,
-   "explanation": "Pradhan Mantri Gram Sadak Yojana — All-weather roads for rural areas.",
-   "topic": "Current Affairs — Flagship Government Schemes",
+   "answer": 2,
+   "explanation": "Centre proposes 10 new import gateways for drugs, medical devices — The proposed amendment to Rule 43A of the Drugs Rules, 1945, is aimed at easing import operations, reducing inland transportation distances and improving the movement of healthcare products across the country (The Hindu — National & Current Affairs, Tue, 03 Nov 2026 12:26:50 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-11-03"
   },
   {
    "id": "current-affairs-daily-2026-11-03-85",
-   "question": "What is the primary objective of the 'UNNATI 2024 (Uttar Poorva Transformative Industrialization Scheme)' scheme or initiative of the Government of India?",
+   "question": "Which current affairs development was reported regarding: \"HYDRAA demolished the compound wall of a farmhouse belonging to family members of former Minister Ch. Malla Reddy at Dulapally village\"?",
    "options": [
-    "Resolving pending direct tax appeals and reducing income-tax litigation through simplified settlement terms",
-    "Promoting industrial development, manufacturing and service sector employment across the eight North Eastern states",
-    "Integrating welfare schemes for unorganised workers onto a single Aadhaar-seeded national database",
-    "Empowering three crore women in Self-Help Groups to earn a sustainable annual household income of at least Rs 1 lakh"
+    "All 4,048 Tasmac outlets in Tamil Nadu to get bottle return machines: Minister Vignesh",
+    "JNU sexual harassment case: Delhi court seeks police's reply on Angomcha Akoijam's anticipatory bail plea",
+    "HYDRAA removes encroachments in Fox Sagar lake FTL; farmhouse’s compound wall demolished",
+    "What is Project 18A, and why is the Navy embarking on building futuristic warships? | Explained"
    ],
-   "answer": 1,
-   "explanation": "UNNATI 2024 (Uttar Poorva Transformative Industrialization Scheme) was launched under the Ministry of Commerce and Industry with the objective of: Promoting industrial development, manufacturing and service sector employment across the eight North Eastern states.",
-   "topic": "Recent Government Schemes & Initiatives",
+   "answer": 2,
+   "explanation": "HYDRAA removes encroachments in Fox Sagar lake FTL; farmhouse’s compound wall demolished — HYDRAA demolished the compound wall of a farmhouse belonging to family members of former Minister Ch. Malla Reddy at Dulapally village (The Hindu — National & Current Affairs, Tue, 03 Nov 2026 12:26:04 +0530).",
+   "topic": "The Hindu — National & Current Affairs Current Affairs",
    "level": 2,
    "source": "daily",
    "dailyDate": "2026-11-03"
