@@ -5,8 +5,8 @@ const fs = require("node:fs");
 const os = require("node:os");
 const path = require("node:path");
 const { generateDaily, saveDaily, dailyFile, wheelFor, rotatingSlug, keyOf } = require("../daily");
-const { questionErrors } = require("../question-schema");
-const { CATEGORIES } = require("../spec");
+const { questionErrors } = require("../core/question-schema");
+const { CATEGORIES } = require("../core/spec");
 
 const SLUGS = new Set(CATEGORIES.map((c) => c.slug));
 

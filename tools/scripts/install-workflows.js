@@ -1,9 +1,9 @@
 #!/usr/bin/env node
 "use strict";
 /**
- * Installs the workflow files kept in temp/ into .github/workflows/.
+ * Installs the workflow files kept in tools/workflows/ into .github/workflows/.
  *
- * The workflow files are authored in temp/ because the token that builds the
+ * The workflow files are authored in tools/workflows/ because the token that builds the
  * working branches cannot create or update files under .github/workflows/:
  * GitHub refuses with "refusing to allow a GitHub App to create or update
  * workflow ... without workflows permission", and GitHub only runs workflows
@@ -11,9 +11,9 @@
  * so a maintainer with the right permission can commit and push them in one
  * go, without editing the same file twice.
  *
- *   node tools/install-workflows.js           # copy temp/*.yml into .github/workflows/
- *   node tools/install-workflows.js --check   # only report what is out of date
- *   node tools/install-workflows.js --root X  # work in another checkout
+ *   node tools/scripts/install-workflows.js           # copy tools/workflows/*.yml into .github/workflows/
+ *   node tools/scripts/install-workflows.js --check   # only report what is out of date
+ *   node tools/scripts/install-workflows.js --root X  # work in another checkout
  */
 const fs = require("fs");
 const path = require("path");
@@ -21,7 +21,7 @@ const path = require("path");
 /** The repository root to work in. */
 function rootFrom(argv) {
   const at = argv.indexOf("--root");
-  if (at === -1) return path.join(__dirname, "..");
+  if (at === -1) return path.join(__dirname, "..", "..");
   const value = argv[at + 1];
   if (!value || value.startsWith("--")) {
     console.error("--root needs the path of a checkout, e.g. --root ..");
@@ -35,9 +35,9 @@ const CHECK_ONLY = process.argv.includes("--check");
 
 /** The tracked copy and where it belongs once it is installed. */
 const FILES = [
-  { from: "temp/ci.yml", to: ".github/workflows/ci.yml" },
-  { from: "temp/daily-questions.yml", to: ".github/workflows/daily-question.yml" },
-  { from: "temp/news-questions.yml", to: ".github/workflows/news-questions.yml" }
+  { from: "tools/workflows/ci.yml", to: ".github/workflows/ci.yml" },
+  { from: "tools/workflows/daily-questions.yml", to: ".github/workflows/daily-question.yml" },
+  { from: "tools/workflows/news-questions.yml", to: ".github/workflows/news-questions.yml" }
 ];
 
 function read(file) {
@@ -70,7 +70,7 @@ function main() {
     changed.push(entry);
   }
   if (CHECK_ONLY && changed.length) {
-    console.log("\n" + changed.length + " workflow file(s) out of date — run: node tools/install-workflows.js");
+    console.log("\n" + changed.length + " workflow file(s) out of date — run: node tools/scripts/install-workflows.js");
     return 1;
   }
   if (!CHECK_ONLY && changed.length) {

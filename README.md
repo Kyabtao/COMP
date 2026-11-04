@@ -25,10 +25,9 @@ Opening `index.html` directly in a browser also works.
 
 | Where | What it does |
 | --- | --- |
-| **Home** | Pick a target, search the 26 categories, see your saved paper settings, or jump straight into a paper or the Old Date Archive |
+| **Home** | Pick a target, search the 26 categories, see your saved paper settings, or jump straight into a paper |
 | **Practice** | A drill per category (5 to 30 questions, default 15) with the correct answer and explanation revealed at once |
-| **Daily** | The daily challenge (`#/daily`) — 10 random questions across multiple subjects from the selected date paper, plus full date paper viewer (`#/daily/<date>/paper`) |
-| **Old Archive** | Dedicated navigation (`#/daily/archive` or `#/archive`) accessible from anywhere on the site to view or practise any past or current date paper |
+| **Daily** | Redesigned Daily hub (`#/daily`) with a Date Paper selector, **⚡ 10-Q Challenge** with an interactive question stepper & live score bar, **📄 Full Date Paper** viewer (`#/daily/<date>/paper`), and **🗂 Old Date Archive** (`#/daily/archive`) |
 | **Exam** | You choose the paper: question count, time limit, marks per correct answer and the wrong-answer penalty |
 | **Progress** | Every attempt stays in this browser: attempts, exams, drills, best score, the plan used and the full table |
 
@@ -114,11 +113,10 @@ another day, `--count N` for a custom count and `--dry-run` to preview.
 
 ```
 COMP/
-├── index.html                        # Single-page app entry point (Home, Practice, Daily, Old Archive, Exam, Progress)
+├── index.html                        # Single-page app entry point (Home, Practice, Daily, Exam, Progress)
 ├── package.json                      # Scripts (build, news, daily, validate, workflows, test)
-├── qbank.js                          # UMD entry point for the question bank (browser + Node)
-├── qbank-report.json                 # Generated validation & category count report
 ├── site.webmanifest                  # Web app manifest
+├── README.md                         # Project documentation
 ├── .github/
 │   └── workflows/
 │       ├── ci.yml                    # CI workflow (tests, validation, browser asset check)
@@ -130,24 +128,20 @@ COMP/
 │   ├── img/                          # Logos and favicons (svg, png, ico)
 │   └── js/
 │       ├── qbank-loader.js           # Instant O(1) manifest boot + on-demand category & old date paper loader
-│       └── app.js                    # SPA router, practice drills, daily & old date archive, exam engine, footer version
-├── temp/
-│   ├── ci.yml                        # Tracked source of truth for .github/workflows/ci.yml
-│   ├── daily-questions.yml           # Tracked source of truth for .github/workflows/daily-question.yml
-│   └── news-questions.yml            # Tracked source of truth for .github/workflows/news-questions.yml
+│       └── app.js                    # SPA router, practice drills, daily hub & old date archive, exam engine, footer version
 └── tools/
     ├── build-qbank.js                # Builds tools/categories/*.js, index.js (manifest + dailyIndex + version meta)
-    ├── build-summary.json            # Generated build summary with version & mergeCount metadata
     ├── daily.js                      # Daily question generator CLI & UMD daily file writer
     ├── news.js                       # 100-question multi-subject & news updater CLI
     ├── validate.js                   # Bank validator and spec checklist runner
-    ├── install-workflows.js          # Installs temp/*.yml into .github/workflows/
-    ├── spec.js                       # Category, class, exam and merged target definitions
-    ├── question-schema.js            # Question schema validator
-    ├── qcore.js                      # Deterministic PRNG, option builder & helpers
-    ├── forms.js                      # Fact-table -> MCQ generator engine
-    ├── numeric.js                    # Numeric aptitude & reasoning stream generators
-    ├── tables.js                     # Registry mapping fact tables to categories
+    ├── qbank.js                      # UMD entry point for the question bank (browser + Node)
+    ├── core/
+    │   ├── spec.js                   # Category, class, exam and merged target definitions
+    │   ├── question-schema.js        # Question schema validator
+    │   ├── qcore.js                  # Deterministic PRNG, option builder & helpers
+    │   ├── forms.js                  # Fact-table -> MCQ generator engine
+    │   ├── numeric.js                # Numeric aptitude & reasoning stream generators
+    │   └── tables.js                 # Registry mapping fact tables to categories
     ├── authored/
     │   └── *.js                      # 26 hand-authored curated question files
     ├── data/
@@ -161,6 +155,16 @@ COMP/
     │   ├── *.js                      # 26 generated category files (loaded on demand)
     │   └── gk-misc/
     │       └── part-01.js..part-17.js # Sharded 1,000-question part files
+    ├── reports/
+    │   ├── build-summary.json        # Generated build summary with version & mergeCount metadata
+    │   └── qbank-report.json         # Generated validation & category count report
+    ├── scripts/
+    │   ├── generate-icons.py         # Renders assets/img/logo.svg to PNG + ICO favicons
+    │   └── install-workflows.js      # Installs tools/workflows/*.yml into .github/workflows/
+    ├── workflows/
+    │   ├── ci.yml                    # Tracked source of truth for .github/workflows/ci.yml
+    │   ├── daily-questions.yml       # Tracked source of truth for .github/workflows/daily-question.yml
+    │   └── news-questions.yml        # Tracked source of truth for .github/workflows/news-questions.yml
     └── tests/
         ├── app.test.js               # DOM, routing, on-demand loader, old date archive & footer version tests
         ├── daily.test.js             # Daily generator unit tests
@@ -210,7 +214,7 @@ paper** dropdown, read the full question paper with subject filters and answer t
 browse and practise any previous day's 10-question challenge (`#/daily/<date>`) or full
 paper (`#/daily/<date>/all`).
 
-Every morning at 6 AM IST the scheduler (`temp/daily-questions.yml`)
+Every morning at 6 AM IST the scheduler (`tools/workflows/daily-questions.yml`)
 runs the same build and uploads the result as downloadable **temp files**. Nothing
 is committed automatically; each day is reviewed and moved by hand:
 
@@ -240,12 +244,12 @@ question is always new. Nothing is invented: answers are computed or come from f
 * **Curated (563 questions).** Hand written MCQs in `tools/authored/*.js`, one file per
   category (20 or more each), every one with an explanation. These cover the whole
   syllabus and are the quality core of the bank.
-* **Generated from facts.** `tools/forms.js` turns the fact tables in `tools/data/*.js`
+* **Generated from facts.** `tools/core/forms.js` turns the fact tables in `tools/data/*.js`
   (countries, elements, Indian states, science, history, polity, sport, English word
   lists, schemes, computers, abbreviations and more) into exam style MCQs: direct
   questions, reverse questions, statement questions and matched pair questions. Every
   generated question carries `source: "generated"` and can be filtered out or replaced.
-* **Generated numerically.** `tools/numeric.js` produces arithmetic, algebra, geometry,
+* **Generated numerically.** `tools/core/numeric.js` produces arithmetic, algebra, geometry,
   statistics, series, coding and direction questions with computed answers, which is what
   makes the aptitude categories unlimited. These are also tagged `source: "generated"`.
 
@@ -273,7 +277,7 @@ rebuild. You may also supply `level` (1–3; defaults to 1) and `topic` (default
 `source` (`"curated"` or `"generated"`) for filtering and class selection.
 
 The descriptive fields replace the old published `q`, `o`, `a`, `e`, `t`, `l`, `s`
-keys. Browser category scripts and the Node `require("./qbank.js")` API both expose
+keys. Browser category scripts and the Node `require("./tools/qbank.js")` API both expose
 the new fields. Compact generator fields remain internal to the build only.
 
 Practice reveals the correct option and a labelled explanation after an answer is
@@ -304,7 +308,7 @@ and the site needs no build step, so **every push to `main` goes live** at
 <https://kyabtao.github.io/COMP/>. Nothing else has to run: the pages are served exactly
 as committed.
 
-Verification is the one piece that lives outside the browser. `temp/ci.yml`
+Verification is the one piece that lives outside the browser. `tools/workflows/ci.yml`
 runs the regression suite, validates the bank and checks that the files the browser asks
 for are present — on pushes to `main`, on every pull request and on demand.
 
@@ -314,16 +318,16 @@ npm install && npm test
 node tools/validate.js
 ```
 
-The workflow files are **authored in `temp/`**, so the Pages deploy — which serves this
+The workflow files are **authored in `tools/workflows/`**, so the Pages deploy — which serves this
 repository straight from `main` — publishes them with the site. They cannot be
 pushed under `.github/workflows/` from a working branch: the automation token that
 builds those branches does not have GitHub's `workflow` permission, so the push
 fails with `refusing to allow a GitHub App to create or update workflow ... without
 workflows permission`, and GitHub only runs workflows from `.github/workflows/`.
-The tracked copies therefore live in `temp/`, and one command installs them:
+The tracked copies therefore live in `tools/workflows/`, and one command installs them:
 
 ```bash
-npm run workflows            # copies temp/*.yml into .github/workflows/
+npm run workflows            # copies tools/workflows/*.yml into .github/workflows/
 npm run workflows -- --check # only reports which files are out of date
 ```
 
@@ -337,7 +341,7 @@ git commit -m "Update the CI, daily and news scheduler workflows"
 git push
 ```
 
-(Until then the scheduler file is ready at `temp/daily-questions.yml` — merging this
+(Until then the scheduler file is ready at `tools/workflows/daily-questions.yml` — merging this
 branch without it only means no automatic 6 AM runs yet. Daily files can still be
 minted by hand with `node tools/daily.js` or `node tools/build-qbank.js`.)
 

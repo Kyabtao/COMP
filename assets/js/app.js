@@ -588,12 +588,10 @@
           '</div>' +
           '<button class="primary" id="start-exam" type="button">\u25B6 Set up a paper</button>' +
           '<button class="secondary" id="browse-practice" type="button">Practise by category</button>' +
-          '<button class="ghost" id="hero-open-archive" type="button">\uD83D\uDDC2 Old date archive</button>' +
           '<p class="hint" id="home-plan">' + plan.questions + ' questions \u00B7 ' + plan.minutes + ' minutes \u00B7 ' + esc(markingText(plan)) + ' \u00B7 ' + length + ' question drills</p>' +
         '</div>' +
       '</section>'
     ));
-    document.getElementById("hero-open-archive").addEventListener("click", function () { location.hash = "#/daily/archive"; });
 
     var sets = dailySets();
     var dailyDate = dailyDateToShow(sets);
@@ -605,28 +603,8 @@
         '<span class="badge good">\uD83D\uDCC5 New ' + (dailyDate === todayLocal() ? "today" : prettyDate(dailyDate)) + '</span>' +
         '<h2>Daily dose \u2014 ' + fresh + ' fresh question' + (fresh === 1 ? "" : "s") + '</h2>' +
         '<p class="muted small">Published ' + prettyDate(dailyDate) + ' \u00B7 ' + challengeCount + ' random question' + (challengeCount === 1 ? "" : "s") + ' per daily challenge, with instant explanations.</p>' +
-        '</div>' +
-        '<div class="toolbar">' +
-          '<label class="sr-only" for="daily-home-date">Select date paper</label>' +
-          '<select id="daily-home-date" class="compact-select" aria-label="Select date paper">' +
-            dailyDateOptionsHtml(dailyDate, sets) +
-          '</select>' +
-          '<button class="primary" id="start-daily" type="button">\u25B6 Start the drill</button>' +
-          '<button class="secondary" id="view-daily-paper" type="button">\uD83D\uDCC4 View date paper</button>' +
-          '<button class="ghost" id="browse-daily-archive" type="button">\uD83D\uDDC2 Old date papers (' + dateList.length + ')</button>' +
-        '</div></section>'));
-      document.getElementById("start-daily").addEventListener("click", function () {
-        var pickedDate = document.getElementById("daily-home-date").value;
-        location.hash = (!pickedDate || pickedDate === dailyDate) ? "#/daily" : "#/daily/" + pickedDate;
-      });
-      document.getElementById("view-daily-paper").addEventListener("click", function () {
-        var pickedDate = document.getElementById("daily-home-date").value || dailyDate;
-        location.hash = "#/daily/" + pickedDate + "/paper";
-      });
-      var archiveBtn = document.getElementById("browse-daily-archive");
-      if (archiveBtn) {
-        archiveBtn.addEventListener("click", function () { location.hash = "#/daily/archive"; });
-      }
+        '</div><button class="primary" id="start-daily" type="button">\u25B6 Start the drill</button></section>'));
+      document.getElementById("start-daily").addEventListener("click", function () { location.hash = "#/daily"; });
     }
 
     app.appendChild(el('<section class="card"><div class="card-head"><div>' +
@@ -760,6 +738,104 @@
     });
   }
 
+  /**
+   * Unified Daily Hub header shown only inside Daily views (`#/daily*`),
+   * housing the Date Picker and segmented tabs (10-Q Challenge, Full Paper, Old Date Archive).
+   */
+  function buildDailyHubHeader(activeTab, currentDate, sets, poolSize) {
+    var dateList = availableDailyDates(sets);
+    var selectedDate = currentDate || (dateList[0] && dateList[0].date) || todayLocal();
+    var idx = -1;
+    var expectedCount = poolSize || 0;
+    for (var i = 0; i < dateList.length; i++) {
+      if (dateList[i].date === selectedDate) {
+        idx = i;
+        if (!expectedCount) expectedCount = dateList[i].count;
+        break;
+      }
+    }
+    var olderDate = (idx >= 0 && idx + 1 < dateList.length) ? dateList[idx + 1].date : null;
+    var newerDate = (idx > 0) ? dateList[idx - 1].date : null;
+    var isToday = selectedDate === todayLocal();
+    var isLatest = dateList.length && selectedDate === dateList[0].date;
+    var eyebrowText = activeTab === "archive"
+      ? "\uD83D\uDDC2 Old Date Papers Archive \u00B7 " + dateList.length + " Published Set" + (dateList.length === 1 ? "" : "s")
+      : "\uD83D\uDCC5 " + (isToday ? "Today\u2019s Daily Paper" : (isLatest ? "Latest Daily Paper" : "Past Date Paper")) + " \u00B7 " + prettyDate(selectedDate);
+    var titleText = activeTab === "archive"
+      ? "Daily & Old Date Question Papers"
+      : "Daily Dose \u2014 " + prettyDate(selectedDate);
+    var subText = activeTab === "archive"
+      ? "Select any published date below to take a 10-question random challenge, drill all questions, or read the full question paper with solutions."
+      : expectedCount + " fresh question" + (expectedCount === 1 ? "" : "s") + " in this date paper \u00B7 " +
+        Math.min(DAILY_CHALLENGE_COUNT, expectedCount || DAILY_CHALLENGE_COUNT) + " random questions per daily challenge.";
+
+    var hub = el('<section class="daily-hub">' +
+      '<div class="daily-hub-top">' +
+        '<div class="daily-hub-title">' +
+          '<span class="daily-eyebrow">' + esc(eyebrowText) + '</span>' +
+          '<h1>' + esc(titleText) + '</h1>' +
+          '<p>' + esc(subText) + '</p>' +
+        '</div>' +
+        '<div class="daily-controls">' +
+          '<div class="daily-date-nav">' +
+            '<button type="button" class="daily-date-step" id="daily-prev-date" title="Older date paper"' + (olderDate ? "" : " disabled") + '>\u2039</button>' +
+            '<label class="sr-only" for="daily-date-select">Select date paper</label>' +
+            '<select id="daily-date-select" aria-label="Select date paper">' +
+              dailyDateOptionsHtml(selectedDate, sets) +
+            '</select>' +
+            '<button type="button" class="daily-date-step" id="daily-next-date" title="Newer date paper"' + (newerDate ? "" : " disabled") + '>\u203A</button>' +
+          '</div>' +
+        '</div>' +
+      '</div>' +
+      '<div class="daily-tabs" role="tablist" aria-label="Daily paper modes">' +
+        '<button type="button" class="daily-tab' + (activeTab === "drill" ? " is-active" : "") + '" id="daily-tab-drill">\u26A1 10-Q Challenge</button>' +
+        (expectedCount > DAILY_CHALLENGE_COUNT
+          ? '<button type="button" class="daily-tab' + (activeTab === "all" ? " is-active" : "") + '" id="daily-tab-all">\uD83D\uDCDA Full Drill (' + expectedCount + ' Q)</button>'
+          : "") +
+        '<button type="button" class="daily-tab' + (activeTab === "paper" ? " is-active" : "") + '" id="open-date-paper">\uD83D\uDCC4 Full Date Paper (' + (expectedCount || 0) + ' Q)</button>' +
+        '<button type="button" class="daily-tab' + (activeTab === "archive" ? " is-active" : "") + '" id="open-date-archive">\uD83D\uDDC2 Old Date Archive (' + dateList.length + ')</button>' +
+      '</div>' +
+    '</section>');
+
+    function routeForDate(d) {
+      if (activeTab === "paper") return "#/daily/" + d + "/paper";
+      if (activeTab === "all") return "#/daily/" + d + "/all";
+      return "#/daily/" + d;
+    }
+
+    var sel = hub.querySelector("#daily-date-select");
+    if (sel) {
+      sel.addEventListener("change", function (e) {
+        location.hash = routeForDate(e.target.value);
+      });
+    }
+    var prevBtn = hub.querySelector("#daily-prev-date");
+    if (prevBtn && olderDate) {
+      prevBtn.addEventListener("click", function () { location.hash = routeForDate(olderDate); });
+    }
+    var nextBtn = hub.querySelector("#daily-next-date");
+    if (nextBtn && newerDate) {
+      nextBtn.addEventListener("click", function () { location.hash = routeForDate(newerDate); });
+    }
+    hub.querySelector("#daily-tab-drill").addEventListener("click", function () {
+      location.hash = "#/daily/" + selectedDate;
+    });
+    var tabAll = hub.querySelector("#daily-tab-all");
+    if (tabAll) {
+      tabAll.addEventListener("click", function () {
+        location.hash = "#/daily/" + selectedDate + "/all";
+      });
+    }
+    hub.querySelector("#open-date-paper").addEventListener("click", function () {
+      location.hash = "#/daily/" + selectedDate + "/paper";
+    });
+    hub.querySelector("#open-date-archive").addEventListener("click", function () {
+      location.hash = "#/daily/archive";
+    });
+
+    return hub;
+  }
+
   /** Browse all questions of a specific date paper (current or any old date) with subject filter, search & answer reveal. */
   function viewDailyPaper(requestedDate) {
     var initialSets = dailySets();
@@ -767,7 +843,6 @@
     if (!date) { location.hash = "#/daily"; return; }
     ensureDailyDateLoaded(date, function (sets) {
       var pool = (sets[date] || []).slice();
-      var dateList = availableDailyDates(sets);
       var categoriesInPaper = [];
       pool.forEach(function (q) {
         var c = q.category || "general-knowledge";
@@ -776,17 +851,21 @@
       categoriesInPaper.sort();
 
       app.innerHTML = "";
+      app.appendChild(buildDailyHubHeader("paper", date, sets, pool.length));
+
       var wrap = el('<section class="card">' +
         '<div class="card-head"><div>' +
-          '<span class="badge good">\uD83D\uDCC5 Date Paper \u00B7 ' + esc(prettyDate(date)) + '</span>' +
-          '<h1>' + esc(prettyDate(date)) + ' \u2014 Question Paper (' + pool.length + ' questions)</h1>' +
-          '<p class="muted">Complete daily question paper covering ' + categoriesInPaper.length + ' subject' + (categoriesInPaper.length === 1 ? "" : "s") + '. Switch to any old date, filter by subject, or practise this set.</p>' +
+          '<span class="badge good">\uD83D\uDCC4 Complete Date Paper \u00B7 ' + categoriesInPaper.length + ' subject' + (categoriesInPaper.length === 1 ? "" : "s") + '</span>' +
+          '<h2>' + esc(prettyDate(date)) + ' \u2014 Question Paper (' + pool.length + ' questions)</h2>' +
+        '</div>' +
+        '<div class="toolbar" style="margin-top:0">' +
+          '<button class="primary" id="paper-start-10" type="button">\u25B6 10-Q Random Challenge</button>' +
+          (pool.length > DAILY_CHALLENGE_COUNT
+            ? '<button class="secondary" id="paper-start-all" type="button">\u25B6 Practise All ' + pool.length + ' Questions</button>'
+            : "") +
+          '<button class="secondary" id="toggle-paper-answers" type="button">Show all answers</button>' +
         '</div></div>' +
         '<div class="filter-bar">' +
-          '<label class="field inline" for="paper-date-select">Date paper</label>' +
-          '<select id="paper-date-select" class="compact-select" aria-label="Date paper">' +
-            dailyDateOptionsHtml(date, sets) +
-          '</select>' +
           '<label class="field inline" for="paper-cat-filter">Subject</label>' +
           '<select id="paper-cat-filter" class="compact-select" aria-label="Filter by subject">' +
             '<option value="all">All subjects (' + pool.length + ')</option>' +
@@ -799,14 +878,6 @@
             '<input type="search" id="paper-search" placeholder="Search questions in this paper\u2026" aria-label="Search questions in this paper" />' +
           '</label>' +
           '<span class="filter-note" id="paper-note"></span>' +
-        '</div>' +
-        '<div class="toolbar">' +
-          '<button class="primary" id="paper-start-10" type="button">\u25B6 10-Q Random Challenge</button>' +
-          (pool.length > DAILY_CHALLENGE_COUNT
-            ? '<button class="secondary" id="paper-start-all" type="button">\u25B6 Practise All ' + pool.length + ' Questions</button>'
-            : "") +
-          '<button class="secondary" id="toggle-paper-answers" type="button">Show all answers</button>' +
-          (dateList.length > 1 ? '<button class="ghost" id="paper-open-archive" type="button">\uD83D\uDDC2 All old date papers (' + dateList.length + ')</button>' : "") +
         '</div>' +
         '<div id="paper-questions-list" class="review-list"></div>' +
       '</section>');
@@ -867,9 +938,6 @@
 
       renderPaperList();
 
-      wrap.querySelector("#paper-date-select").addEventListener("change", function (e) {
-        location.hash = "#/daily/" + e.target.value + "/paper";
-      });
       catFilter.addEventListener("change", renderPaperList);
       searchInput.addEventListener("input", renderPaperList);
       toggleBtn.addEventListener("click", function () {
@@ -886,16 +954,10 @@
           location.hash = "#/daily/" + date + "/all";
         });
       }
-      var archiveBtn = wrap.querySelector("#paper-open-archive");
-      if (archiveBtn) {
-        archiveBtn.addEventListener("click", function () {
-          location.hash = "#/daily/archive";
-        });
-      }
     });
   }
 
-  /** Archive view listing all published daily papers (current and old dates). */
+  /** Archive view listing all published daily papers (current and old dates) inside the Daily hub. */
   function viewDailyArchive() {
     var sets = dailySets();
     var dateList = availableDailyDates(sets);
@@ -905,35 +967,36 @@
       return;
     }
     var latest = dateList[0].date;
+    app.appendChild(buildDailyHubHeader("archive", latest, sets, dateList[0].count));
+
     var card = el('<section class="card">' +
       '<div class="card-head"><div>' +
-        '<span class="badge good">\uD83D\uDDC2 Past & Current Date Papers</span>' +
-        '<h1>Daily & Old Date Question Papers</h1>' +
-        '<p class="muted">Browse every published daily paper by date. You can view the full question paper with solutions, take a 10-question random challenge, or practise all questions from any date.</p>' +
+        '<h2>Published Date Papers (' + dateList.length + ')</h2>' +
+        '<p class="muted small">Pick any date below to start a 10-question random challenge, read the full paper, or drill all questions.</p>' +
       '</div><span class="badge plain">' + dateList.length + ' date paper' + (dateList.length === 1 ? "" : "s") + '</span></div>' +
-      '<div class="table-scroll"><table><thead><tr><th>Date</th><th>Status</th><th>Questions in Paper</th><th>Actions</th></tr></thead><tbody>' +
+      '<div class="daily-archive-grid">' +
       dateList.map(function (entry) {
         var d = entry.date;
         var badge = d === todayLocal()
           ? '<span class="badge good">Today</span>'
           : (d === latest ? '<span class="badge">Latest</span>' : '<span class="badge plain">Past paper</span>');
         var chCount = Math.min(DAILY_CHALLENGE_COUNT, entry.count);
-        return '<tr data-archive-date="' + esc(d) + '">' +
-          '<td><strong>' + esc(prettyDate(d)) + '</strong> <span class="muted small">(' + esc(d) + ')</span></td>' +
-          '<td>' + badge + '</td>' +
-          '<td>' + entry.count + ' question' + (entry.count === 1 ? "" : "s") + '</td>' +
-          '<td><div class="toolbar">' +
-            '<a class="secondary" href="#/daily/' + esc(d) + '/paper">\uD83D\uDCC4 View full paper</a> ' +
-            '<a class="primary" href="#/daily/' + esc(d) + '">\u25B6 ' + chCount + '-Q Challenge</a> ' +
-            (entry.count > DAILY_CHALLENGE_COUNT ? '<a class="ghost" href="#/daily/' + esc(d) + '/all">\u25B6 All ' + entry.count + ' Qs</a>' : "") +
-          '</div></td>' +
-        '</tr>';
+        return '<div class="daily-archive-card" data-archive-date="' + esc(d) + '">' +
+          '<div class="archive-card-head">' +
+            '<span class="archive-card-date">' + esc(prettyDate(d)) + '</span>' +
+            badge +
+          '</div>' +
+          '<p class="muted small">' + esc(d) + ' \u00B7 <strong>' + entry.count + ' question' + (entry.count === 1 ? "" : "s") + '</strong></p>' +
+          '<div class="archive-card-actions">' +
+            '<a class="primary" href="#/daily/' + esc(d) + '">\u26A1 ' + chCount + '-Q Challenge</a>' +
+            '<a class="secondary" href="#/daily/' + esc(d) + '/paper">\uD83D\uDCC4 Full Paper</a>' +
+            (entry.count > DAILY_CHALLENGE_COUNT ? '<a class="ghost" href="#/daily/' + esc(d) + '/all">\uD83D\uDCDA All ' + entry.count + ' Qs</a>' : "") +
+          '</div>' +
+        '</div>';
       }).join("") +
-      '</tbody></table></div>' +
-      '<div class="toolbar"><button class="secondary" id="archive-home" type="button">Back to home</button></div>' +
+      '</div>' +
     '</section>');
     app.appendChild(card);
-    document.getElementById("archive-home").addEventListener("click", function () { location.hash = "#/"; });
   }
 
   function viewPracticeIndex() {
@@ -959,7 +1022,6 @@
         '<label class="search"><span aria-hidden="true">\uD83D\uDD0D</span>' +
           '<input type="search" id="cat-search" placeholder="Search categories\u2026" aria-label="Search categories" />' +
         '</label>' +
-        '<a class="ghost" href="#/daily/archive" data-archive-nav="true">\uD83D\uDDC2 Old date archive</a>' +
         '<span class="filter-note" id="cat-note"></span>' +
       '</div>' +
       '<div id="cat-sections"></div></section>'));
@@ -984,21 +1046,43 @@
 
     app.innerHTML = "";
     var pct = Math.round(((s.index + 1) / s.questions.length) * 100);
-    var dailyBarHtml = "";
+    var dailySubbarHtml = "";
     if (s.kind === "daily") {
       var setsForBar = dailySets();
-      var datesForBar = availableDailyDates(setsForBar);
-      dailyBarHtml = '<div class="filter-bar">' +
-        '<label class="field inline" for="daily-date-select">Date paper</label>' +
-        '<select id="daily-date-select" class="compact-select" aria-label="Switch date paper">' +
-          dailyDateOptionsHtml(s.date, setsForBar) +
-        '</select>' +
-        '<button class="ghost" id="open-date-paper" type="button">\uD83D\uDCC4 View full paper (' + (s.poolSize || s.questions.length) + ' Q)</button>' +
-        (datesForBar.length > 1 ? '<button class="ghost" id="open-date-archive" type="button">\uD83D\uDDC2 Old date papers (' + datesForBar.length + ')</button>' : "") +
+      app.appendChild(buildDailyHubHeader(s.fullPaper ? "all" : "drill", s.date, setsForBar, s.poolSize || s.questions.length));
+      var correctCount = 0;
+      var wrongCount = 0;
+      s.questions.forEach(function (itemQ, idx) {
+        if (!s.revealed[idx]) return;
+        if (s.answers[idx] === itemQ.answer) correctCount++;
+        else wrongCount++;
+      });
+      var leftCount = s.questions.length - correctCount - wrongCount;
+      var stepsHtml = s.questions.length <= 20 ? (
+        '<div class="daily-stepper" role="navigation" aria-label="Question navigator">' +
+          s.questions.map(function (itemQ, idx) {
+            var cls = "daily-step";
+            if (idx === s.index) cls += " is-current";
+            if (s.revealed[idx]) {
+              cls += (s.answers[idx] === itemQ.answer) ? " is-correct" : " is-wrong";
+            }
+            return '<button type="button" class="' + cls + '" data-step-idx="' + idx + '" title="Question ' + (idx + 1) + '">' + (idx + 1) + '</button>';
+          }).join("") +
+        '</div>'
+      ) : "";
+      dailySubbarHtml = '<div class="daily-Subbar">' +
+        stepsHtml +
+        '<div class="daily-score-pills">' +
+          '<span class="chip">\u2713 ' + correctCount + ' Correct</span>' +
+          '<span class="chip">\u2717 ' + wrongCount + ' Wrong</span>' +
+          '<span class="chip">' + leftCount + ' Left</span>' +
+          (!s.fullPaper && (s.poolSize || 0) > DAILY_CHALLENGE_COUNT
+            ? '<button type="button" class="ghost" id="daily-reshuffle" title="Pick a fresh random 10 questions from this date">\uD83D\uDD00 New 10-Q Set</button>'
+            : "") +
+        '</div>' +
       '</div>';
     }
-    var card = el('<section class="card">' +
-      dailyBarHtml +
+    var card = el('<section class="card' + (s.kind === "daily" ? " daily-qcard" : "") + '">' +
       '<div class="qhead">' +
         '<div class="left">' +
           '<span class="badge">' + esc(s.name) + '</span>' +
@@ -1011,6 +1095,7 @@
         '</div>' +
       '</div>' +
       '<div class="progress thin" role="presentation"><div class="bar" style="width:' + pct + '%"></div></div>' +
+      dailySubbarHtml +
       '<h1 class="sr-only">' + esc(s.name) + ' drill, question ' + (s.index + 1) + ' of ' + s.questions.length + '</h1>' +
       '<p class="qtext">' + esc(q.question) + '</p>' +
       '<div class="options" id="opts"></div>' +
@@ -1025,22 +1110,16 @@
     app.appendChild(card);
 
     if (s.kind === "daily") {
-      var dateSel = card.querySelector("#daily-date-select");
-      if (dateSel) {
-        dateSel.addEventListener("change", function (e) {
-          location.hash = "#/daily/" + e.target.value + (s.fullPaper ? "/all" : "");
+      card.querySelectorAll("[data-step-idx]").forEach(function (btn) {
+        btn.addEventListener("click", function () {
+          s.index = Number(btn.getAttribute("data-step-idx"));
+          renderQuestion();
         });
-      }
-      var paperBtn = card.querySelector("#open-date-paper");
-      if (paperBtn) {
-        paperBtn.addEventListener("click", function () {
-          location.hash = "#/daily/" + s.date + "/paper";
-        });
-      }
-      var archBtn = card.querySelector("#open-date-archive");
-      if (archBtn) {
-        archBtn.addEventListener("click", function () {
-          location.hash = "#/daily/archive";
+      });
+      var reshuffleBtn = card.querySelector("#daily-reshuffle");
+      if (reshuffleBtn) {
+        reshuffleBtn.addEventListener("click", function () {
+          viewDaily(s.date, false);
         });
       }
     }
@@ -1084,6 +1163,9 @@
     var verdict = pct >= 80 ? "Excellent — keep the streak going." : pct >= 50 ? "Solid. Review the explanations you missed." : "Good start — read the explanations and try another set.";
     state.mode = "result";
     app.innerHTML = "";
+    if (s.kind === "daily") {
+      app.appendChild(buildDailyHubHeader(s.fullPaper ? "all" : "drill", s.date, dailySets(), s.poolSize || s.questions.length));
+    }
     app.appendChild(el('<section class="card center result-hero">' +
       '<h1>Drill complete</h1>' +
       scoreRing(pct, correct + " / " + s.questions.length, "correct") +
@@ -1097,7 +1179,6 @@
       '<div class="toolbar center-x">' +
         '<button class="primary" id="again" type="button">Practise another set</button>' +
         '<button class="secondary" id="all-cats" type="button">All categories</button>' +
-        '<a class="ghost" href="#/daily/archive" data-archive-nav="true">\uD83D\uDDC2 Old date archive</a>' +
         '<button class="secondary" id="home" type="button">Back to home</button>' +
       '</div></section>'));
     document.getElementById("again").addEventListener("click", function () {
@@ -1158,7 +1239,6 @@
       '</div>' +
       '<h3>Sections in this paper</h3><p class="muted small" id="sec-preview"></p>' +
       '<div class="toolbar"><button class="primary" id="begin" type="button">\u25B6 Begin exam</button>' +
-      '<a class="ghost" href="#/daily/archive" data-archive-nav="true">\uD83D\uDDC2 Old date archive</a>' +
       '<span class="kbd-hint spacer">Keys <kbd>A</kbd>\u2013<kbd>D</kbd> answer \u00B7 <kbd>\u2190</kbd> <kbd>\u2192</kbd> move \u00B7 the paper submits itself when time runs out</span></div>' +
     '</section>'));
 
@@ -1541,10 +1621,8 @@
             '</td><td>' + percentOf(a) + '%</td></tr>';
         }).join("") + '</tbody></table></div>' +
         '<div class="toolbar"><button class="secondary" id="clear-progress" type="button">Clear history</button>' +
-        '<a class="ghost" href="#/daily/archive" data-archive-nav="true">\uD83D\uDDC2 Old date archive</a>' +
         '<span class="filter-note spacer">Clearing only affects this browser.</span></div>'
-        : '<p class="empty">No attempts yet. Set up a paper \u2014 the default is 40 questions in 40 minutes.</p>' +
-        '<div class="toolbar"><a class="ghost" href="#/daily/archive" data-archive-nav="true">\uD83D\uDDC2 Old date archive</a></div>') +
+        : '<p class="empty">No attempts yet. Set up a paper \u2014 the default is 40 questions in 40 minutes.</p>') +
     '</section>'));
     var clear = document.getElementById("clear-progress");
     if (clear) clear.addEventListener("click", function () {
@@ -1569,10 +1647,10 @@
     });
     if (!parts.length) { setNav("home"); viewHome(); return; }
     if (parts[0] === "practice") { setNav("practice"); parts[1] ? viewPractice(parts[1]) : viewPracticeIndex(); return; }
-    if (parts[0] === "archive") { setNav("archive"); viewDailyArchive(); return; }
+    if (parts[0] === "archive") { setNav("daily"); viewDailyArchive(); return; }
     if (parts[0] === "daily") {
-      if (parts[1] === "archive") { setNav("archive"); viewDailyArchive(); return; }
       setNav("daily");
+      if (parts[1] === "archive") { viewDailyArchive(); return; }
       if (parts[1] && parts[2] === "paper") { viewDailyPaper(parts[1]); return; }
       if (parts[1] && parts[2] === "all") { viewDaily(parts[1], true); return; }
       if (parts[1] === "paper") { viewDailyPaper(); return; }
@@ -1594,7 +1672,7 @@
   function mergeCount() {
     var meta = window.QBANK_META || {};
     var n = Number(meta.mergeCount);
-    return Number.isInteger(n) && n > 0 ? n : 10;
+    return Number.isInteger(n) && n > 0 ? n : 12;
   }
 
   function updateStats() {
@@ -1616,20 +1694,6 @@
     }
   }
 
-  /** Ensure `.topnav` always contains the Old Archive link so users can navigate from anywhere. */
-  function ensureArchiveNav() {
-    var nav = document.querySelector(".topnav");
-    if (nav && !nav.querySelector('[data-nav="archive"]')) {
-      var link = el('<a href="#/daily/archive" data-nav="archive">Old Archive</a>');
-      var dailyLink = nav.querySelector('[data-nav="daily"]');
-      if (dailyLink && dailyLink.nextSibling) {
-        nav.insertBefore(link, dailyLink.nextSibling);
-      } else {
-        nav.appendChild(link);
-      }
-    }
-  }
-
   /** Live progressive enhancement on GitHub Pages to reflect new merges immediately. */
   function syncLiveMergeCount() {
     if (typeof window.fetch !== "function") return;
@@ -1642,7 +1706,7 @@
           var mergedPrs = list.filter(function (pr) { return pr && pr.merged_at; }).length;
           /* +1 for the initial branch merge (bbcadff) before PR #2 */
           var totalMerges = mergedPrs + 1;
-          if (totalMerges > mergeCount()) {
+          if (totalMerges > 0 && totalMerges !== mergeCount()) {
             window.QBANK_META = window.QBANK_META || {};
             window.QBANK_META.mergeCount = totalMerges;
             window.QBANK_META.version = "v" + totalMerges + ".0";
@@ -1684,7 +1748,6 @@
   }
 
   function boot() {
-    ensureArchiveNav();
     updateStats();
     syncLiveMergeCount();
     route();

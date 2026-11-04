@@ -7,7 +7,7 @@
     "daily": "node tools/daily.js",
     "news": "node tools/news.js",
     "validate": "node tools/validate.js",
-    "workflows": "node tools/install-workflows.js",
+    "workflows": "node tools/scripts/install-workflows.js",
     "test": "node --test tools/tests/*.test.js"
   },
   "devDependencies": {

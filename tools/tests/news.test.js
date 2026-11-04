@@ -6,8 +6,8 @@ const os = require("node:os");
 const path = require("node:path");
 const { execFileSync } = require("node:child_process");
 const news = require("../news");
-const { questionErrors } = require("../question-schema");
-const { CATEGORIES } = require("../spec");
+const { questionErrors } = require("../core/question-schema");
+const { CATEGORIES } = require("../core/spec");
 
 const NEWS_CLI = path.join(__dirname, "..", "news.js");
 const VALID_SLUGS = new Set(CATEGORIES.map((c) => c.slug).filter((s) => s !== "gk-misc"));

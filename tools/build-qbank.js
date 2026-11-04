@@ -22,19 +22,19 @@
 const fs = require("fs");
 const path = require("path");
 const { execFileSync } = require("child_process");
-const { Rand } = require("./qcore");
-const { tableQuestions, capacity } = require("./forms");
-const { spec } = require("./tables");
-const { CATEGORIES, CLASSES, EXAMS } = require("./spec");
-const numeric = require("./numeric");
-const { assertQuestion } = require("./question-schema");
+const { Rand } = require("./core/qcore");
+const { tableQuestions, capacity } = require("./core/forms");
+const { spec } = require("./core/tables");
+const { CATEGORIES, CLASSES, EXAMS } = require("./core/spec");
+const numeric = require("./core/numeric");
+const { assertQuestion } = require("./core/question-schema");
 const daily = require("./daily");
 
 const ROOT = path.join(__dirname, "..");
 const OUT = process.env.QBANK_OUT || path.join(__dirname, "categories");
 const AUTHORED = path.join(__dirname, "authored");
 const DAILY = process.env.DAILY_DIR || path.join(__dirname, "daily");
-const SUMMARY = process.env.QBANK_SUMMARY || path.join(__dirname, "build-summary.json");
+const SUMMARY = process.env.QBANK_SUMMARY || path.join(__dirname, "reports", "build-summary.json");
 
 /**
  * Allocation phases. Niche categories claim their small pools first, broad subject
@@ -216,12 +216,12 @@ const PART_CHUNK_SIZE = 1000;
  * site footer can display the version based on the merge count.
  */
 function detectMergeInfo() {
-  let prevCount = 10;
+  let prevCount = 12;
   let prevMergeSha = null;
   try {
     if (fs.existsSync(SUMMARY)) {
       const prev = JSON.parse(fs.readFileSync(SUMMARY, "utf8"));
-      if (prev && Number.isInteger(prev.mergeCount) && prev.mergeCount > prevCount) {
+      if (prev && Number.isInteger(prev.mergeCount) && prev.mergeCount > 0) {
         prevCount = prev.mergeCount;
       }
       if (prev && prev.lastMergeCommit) prevMergeSha = prev.lastMergeCommit;
@@ -230,24 +230,17 @@ function detectMergeInfo() {
 
   let gitMerges = 0;
   let latestMergeSha = null;
-  let branch = "main";
   try {
-    branch = execFileSync("git", ["rev-parse", "--abbrev-ref", "HEAD"], {
-      cwd: ROOT,
-      encoding: "utf8",
-      stdio: ["ignore", "pipe", "ignore"]
-    }).trim() || "main";
-    const out = execFileSync("git", ["rev-list", "--merges", "--count", "HEAD"], {
+    const out = execFileSync("git", ["rev-list", "--first-parent", "--merges", "--count", "HEAD"], {
       cwd: ROOT,
       encoding: "utf8",
       stdio: ["ignore", "pipe", "ignore"]
     }).trim();
     const parsed = parseInt(out, 10);
-    if (Number.isInteger(parsed) && parsed >= 0) {
-      /* When building on a PR branch, include the upcoming merge into main. */
-      gitMerges = (branch !== "main" && branch !== "HEAD" && parsed > 0) ? parsed + 1 : parsed;
+    if (Number.isInteger(parsed) && parsed > 0) {
+      gitMerges = parsed;
     }
-    const sha = execFileSync("git", ["rev-list", "--merges", "-n", "1", "HEAD"], {
+    const sha = execFileSync("git", ["rev-list", "--first-parent", "--merges", "-n", "1", "HEAD"], {
       cwd: ROOT,
       encoding: "utf8",
       stdio: ["ignore", "pipe", "ignore"]
@@ -256,9 +249,11 @@ function detectMergeInfo() {
   } catch (e) {}
 
   let mergeCount = prevCount;
-  if (gitMerges >= prevCount) {
+  if (gitMerges > 1) {
+    /* Full git history is available: use the exact first-parent merge count. */
     mergeCount = gitMerges;
   } else if (latestMergeSha && prevMergeSha && latestMergeSha !== prevMergeSha) {
+    /* Shallow clone where HEAD is a newly landed merge commit. */
     mergeCount = prevCount + 1;
   }
   return {
@@ -558,6 +553,7 @@ function main(argv) {
     classes: CLASSES.length,
     exams: EXAMS.map((e) => e.name)
   };
+  fs.mkdirSync(path.dirname(SUMMARY), { recursive: true });
   fs.writeFileSync(SUMMARY, JSON.stringify(summary, null, 2));
 
   console.log("Built " + report.length + " categories with " + total + " total questions.");

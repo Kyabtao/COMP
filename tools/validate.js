@@ -6,9 +6,9 @@
  */
 const fs = require("fs");
 const path = require("path");
-const { CATEGORIES, CLASSES, EXAMS, EXAM_RULES, TARGETS } = require("./spec");
+const { CATEGORIES, CLASSES, EXAMS, EXAM_RULES, TARGETS } = require("./core/spec");
 const manifest = require("./categories/index.js");
-const { questionErrors } = require("./question-schema");
+const { questionErrors } = require("./core/question-schema");
 
 const checks = [];
 const ok = (name, pass, detail) => { checks.push({ name, pass, detail }); };
@@ -88,7 +88,9 @@ const report = {
   gkMiscParts: partCounts,
   checks
 };
-fs.writeFileSync(path.join(__dirname, "..", "qbank-report.json"), JSON.stringify(report, null, 2));
+const reportsDir = path.join(__dirname, "reports");
+fs.mkdirSync(reportsDir, { recursive: true });
+fs.writeFileSync(path.join(reportsDir, "qbank-report.json"), JSON.stringify(report, null, 2));
 
 console.log("Question bank validation\n=========================");
 for (const c of checks) console.log((c.pass ? "  PASS  " : "  MISS  ") + c.name + "  [" + c.detail + "]");

@@ -1,7 +1,7 @@
 "use strict";
 /**
- * The workflow files are authored in temp/ and installed into
- * .github/workflows/ by tools/install-workflows.js, because the token that
+ * The workflow files are authored in tools/workflows/ and installed into
+ * .github/workflows/ by tools/scripts/install-workflows.js, because the token that
  * builds the working branches cannot write under .github/workflows/.
  */
 const test = require("node:test");
@@ -10,19 +10,19 @@ const fs = require("node:fs");
 const os = require("node:os");
 const path = require("node:path");
 const { execFileSync } = require("node:child_process");
-const { FILES } = require("../install-workflows");
+const { FILES } = require("../scripts/install-workflows");
 
-const INSTALL = path.join(__dirname, "..", "install-workflows.js");
+const INSTALL = path.join(__dirname, "..", "scripts", "install-workflows.js");
 const ROOT = path.join(__dirname, "..", "..");
 
 /** A throwaway copy of the repo layout the installer works on. */
 function scratch() {
   const dir = fs.mkdtempSync(path.join(os.tmpdir(), "workflows-"));
-  fs.mkdirSync(path.join(dir, "temp"), { recursive: true });
+  fs.mkdirSync(path.join(dir, "tools", "workflows"), { recursive: true });
   fs.mkdirSync(path.join(dir, ".github", "workflows"), { recursive: true });
-  fs.copyFileSync(path.join(ROOT, "temp", "ci.yml"), path.join(dir, "temp", "ci.yml"));
-  fs.copyFileSync(path.join(ROOT, "temp", "daily-questions.yml"), path.join(dir, "temp", "daily-questions.yml"));
-  fs.copyFileSync(path.join(ROOT, "temp", "news-questions.yml"), path.join(dir, "temp", "news-questions.yml"));
+  fs.copyFileSync(path.join(ROOT, "tools", "workflows", "ci.yml"), path.join(dir, "tools", "workflows", "ci.yml"));
+  fs.copyFileSync(path.join(ROOT, "tools", "workflows", "daily-questions.yml"), path.join(dir, "tools", "workflows", "daily-questions.yml"));
+  fs.copyFileSync(path.join(ROOT, "tools", "workflows", "news-questions.yml"), path.join(dir, "tools", "workflows", "news-questions.yml"));
   fs.writeFileSync(path.join(dir, ".github", "workflows", "ci.yml"), "stale\n");
   fs.writeFileSync(path.join(dir, ".github", "workflows", "daily-question.yml"), "stale\n");
   fs.writeFileSync(path.join(dir, ".github", "workflows", "news-questions.yml"), "stale\n");
@@ -47,15 +47,15 @@ test("the installer copies the tracked copies into .github/workflows", () => {
     assert.match(out, /write \.github\/workflows\/news-questions\.yml/);
     assert.equal(
       fs.readFileSync(path.join(dir, ".github", "workflows", "ci.yml"), "utf8"),
-      fs.readFileSync(path.join(ROOT, "temp", "ci.yml"), "utf8")
+      fs.readFileSync(path.join(ROOT, "tools", "workflows", "ci.yml"), "utf8")
     );
     assert.equal(
       fs.readFileSync(path.join(dir, ".github", "workflows", "daily-question.yml"), "utf8"),
-      fs.readFileSync(path.join(ROOT, "temp", "daily-questions.yml"), "utf8")
+      fs.readFileSync(path.join(ROOT, "tools", "workflows", "daily-questions.yml"), "utf8")
     );
     assert.equal(
       fs.readFileSync(path.join(dir, ".github", "workflows", "news-questions.yml"), "utf8"),
-      fs.readFileSync(path.join(ROOT, "temp", "news-questions.yml"), "utf8")
+      fs.readFileSync(path.join(ROOT, "tools", "workflows", "news-questions.yml"), "utf8")
     );
   } finally {
     fs.rmSync(dir, { recursive: true, force: true });
@@ -88,13 +88,13 @@ test("a workflow that is already installed is left alone", () => {
   }
 });
 
-test("every workflow file in .github/workflows and installer registry has a tracked copy in temp/", () => {
+test("every workflow file in .github/workflows and installer registry has a tracked copy in tools/workflows/", () => {
   const live = fs.readdirSync(path.join(ROOT, ".github", "workflows"));
-  const tracked = fs.readdirSync(path.join(ROOT, "temp"));
+  const tracked = fs.readdirSync(path.join(ROOT, "tools", "workflows"));
   assert.ok(live.length > 0, "there are live workflows");
   for (const file of live) {
     const name = file.replace(/^daily-question\.yml$/, "daily-questions.yml");
-    assert.ok(tracked.includes(name), "temp/ holds a copy of " + file);
+    assert.ok(tracked.includes(name), "tools/workflows/ holds a copy of " + file);
   }
   for (const entry of FILES) {
     assert.ok(fs.existsSync(path.join(ROOT, entry.from)), "tracked workflow exists: " + entry.from);

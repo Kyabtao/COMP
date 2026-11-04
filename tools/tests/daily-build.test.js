@@ -88,7 +88,7 @@ test("published keys cover the bank and every stored day", () => {
     for (const q of stored.questions) {
       assert.ok(keys.has(daily.keyOf(q.question, q.options)), "stored day is in the key set");
     }
-    const bank = require("../../qbank.js");
+    const bank = require("../qbank.js");
     const sample = bank.questions()[0];
     assert.ok(keys.has(daily.keyOf(sample.question, sample.options)), "the bank is in the key set");
   } finally {
