@@ -22,19 +22,19 @@
 const fs = require("fs");
 const path = require("path");
 const { execFileSync } = require("child_process");
-const { Rand } = require("./qcore");
-const { tableQuestions, capacity } = require("./forms");
-const { spec } = require("./tables");
-const { CATEGORIES, CLASSES, EXAMS } = require("./spec");
-const numeric = require("./numeric");
-const { assertQuestion } = require("./question-schema");
+const { Rand } = require("./core/qcore");
+const { tableQuestions, capacity } = require("./core/forms");
+const { spec } = require("./core/tables");
+const { CATEGORIES, CLASSES, EXAMS } = require("./core/spec");
+const numeric = require("./core/numeric");
+const { assertQuestion } = require("./core/question-schema");
 const daily = require("./daily");
 
 const ROOT = path.join(__dirname, "..");
 const OUT = process.env.QBANK_OUT || path.join(__dirname, "categories");
 const AUTHORED = path.join(__dirname, "authored");
 const DAILY = process.env.DAILY_DIR || path.join(__dirname, "daily");
-const SUMMARY = process.env.QBANK_SUMMARY || path.join(__dirname, "build-summary.json");
+const SUMMARY = process.env.QBANK_SUMMARY || path.join(__dirname, "reports", "build-summary.json");
 
 /**
  * Allocation phases. Niche categories claim their small pools first, broad subject
@@ -553,6 +553,7 @@ function main(argv) {
     classes: CLASSES.length,
     exams: EXAMS.map((e) => e.name)
   };
+  fs.mkdirSync(path.dirname(SUMMARY), { recursive: true });
   fs.writeFileSync(SUMMARY, JSON.stringify(summary, null, 2));
 
   console.log("Built " + report.length + " categories with " + total + " total questions.");

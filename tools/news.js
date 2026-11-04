@@ -21,11 +21,11 @@
  */
 const fs = require("fs");
 const path = require("path");
-const { Rand, options: buildOptions, txt } = require("./qcore");
-const { tableQuestions } = require("./forms");
-const { spec } = require("./tables");
-const { CATEGORIES } = require("./spec");
-const { assertQuestion, questionErrors } = require("./question-schema");
+const { Rand, options: buildOptions, txt } = require("./core/qcore");
+const { tableQuestions } = require("./core/forms");
+const { spec } = require("./core/tables");
+const { CATEGORIES } = require("./core/spec");
+const { assertQuestion, questionErrors } = require("./core/question-schema");
 const { CURATED_NEWS_MCQS, NEWS_GROUPS } = require("./data/news-competition");
 const { SUBJECT_GROUPS, SUBJECT_TABLE_SPECS } = require("./data/subject-competition");
 

@@ -1,19 +1,19 @@
 "use strict";
 /** Registry mapping every fact table to the categories that may draw from it. */
-const countries = require("./data/countries");
-const elements = require("./data/elements");
-const india = require("./data/india");
-const science = require("./data/science");
-const history = require("./data/history");
-const polity = require("./data/polity");
-const gk = require("./data/gk-world");
-const economics = require("./data/economics");
-const geography = require("./data/geography");
-const english = require("./data/english");
-const currentAffairs = require("./data/current-affairs");
-const computers = require("./data/computers");
-const abbr = require("./data/abbreviations");
-const environment = require("./data/environment");
+const countries = require("../data/countries");
+const elements = require("../data/elements");
+const india = require("../data/india");
+const science = require("../data/science");
+const history = require("../data/history");
+const polity = require("../data/polity");
+const gk = require("../data/gk-world");
+const economics = require("../data/economics");
+const geography = require("../data/geography");
+const english = require("../data/english");
+const currentAffairs = require("../data/current-affairs");
+const computers = require("../data/computers");
+const abbr = require("../data/abbreviations");
+const environment = require("../data/environment");
 
 /** helper: forms for a simple two column table */
 const pair = (topic, rows, a, b, level, exp) => ({

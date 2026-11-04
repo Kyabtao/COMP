@@ -6,12 +6,12 @@ artwork — diagonal brand gradient, white open book, green check badge — with
 Pillow so browsers without SVG favicon support and mobile home screens still
 get a crisp icon. Re-run after any logo change:
 
-    python3 tools/generate-icons.py
+    python3 tools/scripts/generate-icons.py
 """
 import os
 from PIL import Image, ImageDraw
 
-ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 IMG = os.path.join(ROOT, "assets", "img")
 
 GRID = 64          # artwork coordinates live on the 64x64 SVG grid

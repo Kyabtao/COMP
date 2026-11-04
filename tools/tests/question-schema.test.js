@@ -4,8 +4,8 @@ const assert = require("node:assert/strict");
 const fs = require("node:fs");
 const path = require("node:path");
 const vm = require("node:vm");
-const { questionErrors, assertQuestion } = require("../question-schema");
-const bank = require("../../qbank");
+const { questionErrors, assertQuestion } = require("../core/question-schema");
+const bank = require("../qbank");
 const example = require("../authored/indian-history").find((q) => q.question === "The Harappan Civilisation belonged to which age?");
 
 test("the user's four-field pattern is valid without metadata", () => {
@@ -63,7 +63,7 @@ test("browser category scripts and Node API expose the same MCQ content", () => 
       }
     } else run("tools/categories/" + entry.file + ".js");
   }
-  run("qbank.js");
+  run("tools/qbank.js");
   const browserBank = context.window.QBANK;
   assert.equal(browserBank.questions().length, bank.questions().length);
   // GK part files intentionally use part-local ids rather than aggregate ids.

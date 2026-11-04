@@ -4,7 +4,7 @@ const assert = require("node:assert/strict");
 const fs = require("node:fs");
 const path = require("node:path");
 const { JSDOM } = require("jsdom");
-const bank = require("../../qbank");
+const bank = require("../qbank");
 const appScript = fs.readFileSync(path.join(__dirname, "../../assets/js/app.js"), "utf8");
 const example = bank.bySlug("indian-history").find((q) => q.question === "The Harappan Civilisation belonged to which age?");
 

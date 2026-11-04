@@ -25,12 +25,12 @@
  */
 const fs = require("fs");
 const path = require("path");
-const { Rand } = require("./qcore");
-const { tableQuestions } = require("./forms");
-const { spec } = require("./tables");
-const { CATEGORIES } = require("./spec");
-const numeric = require("./numeric");
-const { assertQuestion } = require("./question-schema");
+const { Rand } = require("./core/qcore");
+const { tableQuestions } = require("./core/forms");
+const { spec } = require("./core/tables");
+const { CATEGORIES } = require("./core/spec");
+const numeric = require("./core/numeric");
+const { assertQuestion } = require("./core/question-schema");
 const { buildPoolFromNewsData, SUBJECT_WHEEL } = require("./news");
 
 const ROOT = path.join(__dirname, "..");
@@ -200,7 +200,7 @@ function generateDaily(dateStr, count, bankKeys) {
 }
 
 function loadBankKeys() {
-  const bank = require("../qbank.js");
+  const bank = require("./qbank.js");
   const keys = new Set();
   bank.questions().forEach((q) => keys.add(keyOf(q.question, q.options)));
   return keys;
