@@ -364,9 +364,9 @@ test("the app boots instantly from the manifest and loads categories on demand",
   assert.equal(d.querySelector(".qtext").textContent, example.question);
 });
 
-test("users can browse, read, and practise old date papers on demand", (t) => {
+test("users can browse, read, and practise old date papers on demand inside the redesigned Daily page", (t) => {
   const dom = new JSDOM('<main id="app"></main><button id="theme-toggle"></button><p id="bank-stats"></p>', {
-    url: "https://examsathi.test/#/", runScripts: "outside-only"
+    url: "https://examsathi.test/#/daily", runScripts: "outside-only"
   });
   t.after(() => dom.window.close());
   const w = dom.window;
@@ -405,16 +405,18 @@ test("users can browse, read, and practise old date papers on demand", (t) => {
   w.eval(appScript);
   w.dispatchEvent(new w.Event("qbank-ready"));
 
-  /* Home strip offers date selector, View date paper, and Old date papers button */
-  assert.ok(d.querySelector("#daily-home-date"), "Home daily strip includes date selector");
-  assert.ok(d.querySelector("#view-daily-paper"), "Home daily strip includes View date paper button");
-  assert.ok(d.querySelector("#browse-daily-archive"), "Home daily strip includes Old date papers button");
+  /* Redesigned Daily page shows unified .daily-hub with date selector, mode tabs, and .daily-qcard stepper */
+  assert.ok(d.querySelector(".daily-hub"), "Daily page renders unified .daily-hub header");
+  assert.ok(d.querySelector("#daily-date-select"), "Daily hub includes date selector");
+  assert.ok(d.querySelector("#open-date-paper"), "Daily hub includes Full Date Paper tab");
+  assert.ok(d.querySelector("#open-date-archive"), "Daily hub includes Old Date Archive tab");
+  assert.ok(d.querySelector(".daily-qcard .daily-stepper"), "Daily question card includes interactive question stepper");
 
-  /* Navigating to #/daily/archive lists both current and old date papers */
-  d.querySelector("#browse-daily-archive").click();
+  /* Clicking Old Date Archive tab inside Daily lists published date papers as cards */
+  d.querySelector("#open-date-archive").click();
   w.dispatchEvent(new w.Event("hashchange"));
   assert.match(d.querySelector("#app").textContent, /Daily & Old Date Question Papers/);
-  assert.equal(d.querySelectorAll("tr[data-archive-date]").length, 2);
+  assert.equal(d.querySelectorAll("[data-archive-date]").length, 2);
 
   /* Viewing an old date paper (#/daily/2026-10-15/paper) loads it on demand and renders all questions */
   w.location.hash = "#/daily/2026-10-15/paper";
@@ -434,7 +436,7 @@ test("users can browse, read, and practise old date papers on demand", (t) => {
   assert.match(d.querySelector(".qtext").textContent, /2026-10-15/);
 });
 
-test("top nav includes Old Archive link everywhere and footer shows version based on merge count", (t) => {
+test("top nav keeps clean 5-tab layout without Old Archive and footer shows version based on merge count", (t) => {
   const dom = new JSDOM(
     '<nav class="topnav"><a href="#/" data-nav="home">Home</a><a href="#/daily" data-nav="daily">Daily</a></nav>' +
     '<main id="app"></main><button id="theme-toggle"></button>' +
@@ -455,12 +457,11 @@ test("top nav includes Old Archive link everywhere and footer shows version base
   w.eval(appScript);
   w.dispatchEvent(new w.Event("qbank-ready"));
 
-  /* Top nav contains Old Archive link and highlights it on #/archive or #/daily/archive */
-  const archiveNav = d.querySelector('.topnav [data-nav="archive"]');
-  assert.ok(archiveNav, "top nav includes Old Archive link");
-  w.location.hash = "#/archive";
+  /* Top nav does NOT inject Old Archive link; #/daily/archive highlights the Daily tab */
+  assert.equal(d.querySelector('.topnav [data-nav="archive"]'), null);
+  w.location.hash = "#/daily/archive";
   w.dispatchEvent(new w.Event("hashchange"));
-  assert.equal(archiveNav.classList.contains("active"), true);
+  assert.equal(d.querySelector('.topnav [data-nav="daily"]').classList.contains("active"), true);
   assert.match(d.querySelector("#app").textContent, /Daily & Old Date Question Papers/);
 
   /* Footer displays version based on merge count */

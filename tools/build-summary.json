@@ -1,8 +1,8 @@
 {
-  "version": "v13.0",
-  "mergeCount": 13,
-  "lastMergeCommit": "0005a999d772acce622efa2382310f3fd4507442",
-  "generatedAt": "2026-11-03T14:56:36.205Z",
+  "version": "v12.0",
+  "mergeCount": 12,
+  "lastMergeCommit": "96772b8d4a858af2ab08fe96d28f466b30df7213",
+  "generatedAt": "2026-11-04T04:36:50.702Z",
   "totalQuestions": 34257,
   "categories": [
     {

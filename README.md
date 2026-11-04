@@ -25,10 +25,9 @@ Opening `index.html` directly in a browser also works.
 
 | Where | What it does |
 | --- | --- |
-| **Home** | Pick a target, search the 26 categories, see your saved paper settings, or jump straight into a paper or the Old Date Archive |
+| **Home** | Pick a target, search the 26 categories, see your saved paper settings, or jump straight into a paper |
 | **Practice** | A drill per category (5 to 30 questions, default 15) with the correct answer and explanation revealed at once |
-| **Daily** | The daily challenge (`#/daily`) — 10 random questions across multiple subjects from the selected date paper, plus full date paper viewer (`#/daily/<date>/paper`) |
-| **Old Archive** | Dedicated navigation (`#/daily/archive` or `#/archive`) accessible from anywhere on the site to view or practise any past or current date paper |
+| **Daily** | Redesigned Daily hub (`#/daily`) with a Date Paper selector, **⚡ 10-Q Challenge** with an interactive question stepper & live score bar, **📄 Full Date Paper** viewer (`#/daily/<date>/paper`), and **🗂 Old Date Archive** (`#/daily/archive`) |
 | **Exam** | You choose the paper: question count, time limit, marks per correct answer and the wrong-answer penalty |
 | **Progress** | Every attempt stays in this browser: attempts, exams, drills, best score, the plan used and the full table |
 
