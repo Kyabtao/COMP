@@ -851,8 +851,6 @@
       categoriesInPaper.sort();
 
       app.innerHTML = "";
-      app.appendChild(buildDailyHubHeader("paper", date, sets, pool.length));
-
       var wrap = el('<section class="card">' +
         '<div class="card-head"><div>' +
           '<span class="badge good">\uD83D\uDCC4 Complete Date Paper \u00B7 ' + categoriesInPaper.length + ' subject' + (categoriesInPaper.length === 1 ? "" : "s") + '</span>' +
@@ -882,6 +880,7 @@
         '<div id="paper-questions-list" class="review-list"></div>' +
       '</section>');
       app.appendChild(wrap);
+      app.appendChild(buildDailyHubHeader("paper", date, sets, pool.length));
 
       var showAllAnswers = false;
       var listHost = wrap.querySelector("#paper-questions-list");
@@ -967,7 +966,6 @@
       return;
     }
     var latest = dateList[0].date;
-    app.appendChild(buildDailyHubHeader("archive", latest, sets, dateList[0].count));
 
     var card = el('<section class="card">' +
       '<div class="card-head"><div>' +
@@ -997,6 +995,7 @@
       '</div>' +
     '</section>');
     app.appendChild(card);
+    app.appendChild(buildDailyHubHeader("archive", latest, sets, dateList[0].count));
   }
 
   function viewPracticeIndex() {
@@ -1047,9 +1046,9 @@
     app.innerHTML = "";
     var pct = Math.round(((s.index + 1) / s.questions.length) * 100);
     var dailySubbarHtml = "";
+    var setsForBar = null;
     if (s.kind === "daily") {
-      var setsForBar = dailySets();
-      app.appendChild(buildDailyHubHeader(s.fullPaper ? "all" : "drill", s.date, setsForBar, s.poolSize || s.questions.length));
+      setsForBar = dailySets();
       var correctCount = 0;
       var wrongCount = 0;
       s.questions.forEach(function (itemQ, idx) {
@@ -1108,6 +1107,9 @@
       '</div>' +
     '</section>');
     app.appendChild(card);
+    if (s.kind === "daily") {
+      app.appendChild(buildDailyHubHeader(s.fullPaper ? "all" : "drill", s.date, setsForBar, s.poolSize || s.questions.length));
+    }
 
     if (s.kind === "daily") {
       card.querySelectorAll("[data-step-idx]").forEach(function (btn) {
@@ -1163,9 +1165,6 @@
     var verdict = pct >= 80 ? "Excellent — keep the streak going." : pct >= 50 ? "Solid. Review the explanations you missed." : "Good start — read the explanations and try another set.";
     state.mode = "result";
     app.innerHTML = "";
-    if (s.kind === "daily") {
-      app.appendChild(buildDailyHubHeader(s.fullPaper ? "all" : "drill", s.date, dailySets(), s.poolSize || s.questions.length));
-    }
     app.appendChild(el('<section class="card center result-hero">' +
       '<h1>Drill complete</h1>' +
       scoreRing(pct, correct + " / " + s.questions.length, "correct") +
@@ -1181,6 +1180,9 @@
         '<button class="secondary" id="all-cats" type="button">All categories</button>' +
         '<button class="secondary" id="home" type="button">Back to home</button>' +
       '</div></section>'));
+    if (s.kind === "daily") {
+      app.appendChild(buildDailyHubHeader(s.fullPaper ? "all" : "drill", s.date, dailySets(), s.poolSize || s.questions.length));
+    }
     document.getElementById("again").addEventListener("click", function () {
       if (s.kind === "daily") viewDaily(s.date, s.fullPaper); else viewPractice(s.slug);
     });
