@@ -405,8 +405,9 @@ test("users can browse, read, and practise old date papers on demand inside the 
   w.eval(appScript);
   w.dispatchEvent(new w.Event("qbank-ready"));
 
-  /* Redesigned Daily page shows unified .daily-hub with date selector, mode tabs, and .daily-qcard stepper */
-  assert.ok(d.querySelector(".daily-hub"), "Daily page renders unified .daily-hub header");
+  /* Redesigned Daily page shows .daily-qcard first and .daily-hub below it */
+  assert.ok(d.querySelector("#app").firstElementChild.classList.contains("daily-qcard"), "Daily question card renders first");
+  assert.ok(d.querySelector("#app").children[1].classList.contains("daily-hub"), "Daily hub renders below the question card");
   assert.ok(d.querySelector("#daily-date-select"), "Daily hub includes date selector");
   assert.ok(d.querySelector("#open-date-paper"), "Daily hub includes Full Date Paper tab");
   assert.ok(d.querySelector("#open-date-archive"), "Daily hub includes Old Date Archive tab");
@@ -467,5 +468,12 @@ test("top nav keeps clean 5-tab layout without Old Archive and footer shows vers
   /* Footer displays version based on merge count */
   assert.match(d.querySelector("#bank-stats").textContent, /Version v10\.0 \(10 merges done\)/);
   assert.equal(d.querySelector("#app-version").textContent, "Version v10.0 (10 merges done)");
+
+  /* index.html footer uses a short message and navigation links */
+  const indexHtml = fs.readFileSync(path.join(__dirname, "../../index.html"), "utf8");
+  const indexDom = new JSDOM(indexHtml);
+  const footer = indexDom.window.document.querySelector("footer.footer");
+  assert.ok(footer.querySelector(".footer-msg"), "footer has short message");
+  assert.ok(footer.querySelectorAll(".footer-links a").length >= 5, "footer has quick navigation links");
 });
 
